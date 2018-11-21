@@ -1,0 +1,57 @@
+{{Eras}}
+{{Droid
+|image=[[File:U9C4-SWE.png]]
+|name=U9-C4
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=
+|line=
+|model=
+|class=[[Astromech droid]]<ref name="U9-C4 Databank">{{Databank|u9-c4|U9-C4}}</ref>
+|degree=
+|cost=
+|length=
+|width=
+|height=1.29 [[meter]]s (antenna included)<ref name="U9-C4 Databank" />
+|mass=
+|gender=[[Sexes|Masculine programming]]<ref name="Secret Weapons">{{TCW|Secret Weapons}}</ref>
+|sensor=[[Color|Black]]<ref name="Secret Weapons" />
+|plating=Orange and white<ref name="Secret Weapons" />
+|armament=Concealed [[laser cutter]]<ref name="U9-C4 Encyclopedia">{{SWE|characters|u9-c4|U9-C4}}</ref>
+|equipment=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="U9-C4 Databank" />
+*[[Galactic Republic]]<ref name="Secret Weapons" />
+**[[D-Squad]]<ref name="Secret Weapons" />}}
+{{Quote|Now, I want flat top to locate the comm-vault power supply, then use his laser to cut the main line and cause a temporary loss in power.''"<br />"''You can do it, Ceefor!|[[Colonel]] [[Meebur Gascon]] and [[WAC-47]]|Secret Weapons}}
+'''U9-C4''', also referred to as '''Ceefor''', was a [[Sexes|masculine]] [[astromech droid]] owned by [[Thongla Jur]], a member of the [[Jedi Order]] during the [[Clone Wars]]. He became a member of [[D-Squad]], a team assembled to [[Mission to Aut-O's flagship|secure]] a [[Confederacy of Independent Systems|Separatist]] [[encryption module]], and was modified to have a powerful [[laser cutter]] installed into his body.
+
+{{Char-stub}}
+
+==Appearances==
+*{{TCW|Secret Weapons}} {{1st}}
+*{{TCW|A Sunny Day in the Void}}
+*{{TCW|Missing in Action}}
+*{{TCW|Point of No Return}}
+
+==Sources==
+{{Imagecat|Images of U9-C4}}
+*{{SW|url=tv-shows/clone-wars/secret-weapons-episode-guide|text="Secret Weapons" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=explore/the-clone-wars/ep511/#!/about|text="A Sunny Day in the Void" - ''The Clone Wars'' Episode Guide}}
+*{{SWE|characters|colonel-meebur-gascon|Colonel Meebur Gascon}}
+*{{SWE|characters|doctor-gubacher|Doctor Gubacher}}
+*{{SWE|characters|m5-bz|M5-BZ}}
+*{{SWE|characters|qt-kt|QT-KT}}
+*{{SWE|characters|u9-c4|U9-C4}}
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]'' {{Po}}
+*{{Databank|d-squad|D-Squad|archivedate=20170707040723}}
+*{{Databank|u9-c4|U9-C4}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Astromech droids]]
+[[Category:Galactic Republic individuals]]
+[[Category:Masculine programming]]

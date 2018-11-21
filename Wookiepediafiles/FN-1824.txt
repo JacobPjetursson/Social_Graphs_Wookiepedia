@@ -1,0 +1,59 @@
+{{Eras}}
+{{Character
+|type=First Order
+|image=[[File:Unidentified First Order stormtrooper.jpg]]
+|name=FN-1824
+|homeworld=
+|birth=
+|death=
+|species=[[Human]]<ref name="ECUC">In the [[2016]] reference book ''[[Star Wars Character Encyclopedia: Updated and Expanded]]'', it is stated that the [[Stormtrooper (First Order)|stormtroopers]] of the [[First Order]] were all [[human]]s.</ref>
+|gender=[[Sexes|Male]]<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+|height=
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=
+|era=
+|affiliation=*[[First Order]]<ref name="Episode VII" />
+**[[FN Corps]]<ref name="BTA">''[[Before the Awakening]]'' establishes that [[First Order]] [[Stormtrooper (First Order)|stormtroopers]] with "FN" in their designation are part of the [[FN Corps]].</ref>
+|masters=
+|apprentices=}}
+{{Quote|I'll tighten those restraints, scavenger scum.|FN-1824|Star Wars: Episode VII The Force Awakens}}
+'''FN-1824'''<ref name="LEGO">''[[LEGO Star Wars: The Force Awakens]]''</ref> was a [[Stormtrooper (First Order)|stormtrooper]] of the [[First Order]] that was assigned to guard [[Rey]], a [[Force-sensitive]] [[scavenger]] held captive by [[Kylo Ren]] aboard [[Starkiller Base]]. Using [[Sexes|her]] latent [[The Force|Force]] [[Force power|abilities]], Rey used a [[Jedi]] [[mind trick]] on FN-1824 to force him into releasing her from captivity. Her first two efforts failed, but she finally successfully used the Jedi ability. FN-1824 freed her from captivity and, on her command, left his [[blaster rifle]] behind before leaving her.<ref name="Episode VII" /> The stormtrooper was eventually located in his quarters and questioned. He seemed confused and had no memory of what had happened.<ref name="awakensnovel">[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]</ref>
+
+==Behind the scenes==
+FN-1824 appeared in the [[2015]] film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], in which he was portrayed by [[Daniel Craig]].<ref name="Craig Role">{{Cite web|url=http://www.ew.com/article/2015/12/17/daniel-craig-makes-cameo-star-wars-force-awakens|title=Daniel Craig's ''Star Wars: The Force Awakens'' cameo revealed|first=Chris|last=Lee|work=Entertainment Weekly|date=2015-12-17|accessdate=December 19, 2015}}</ref> In both the film's adult and junior novelizations, when Rey's first attempt at a mind trick fails, the guard simply stares at her. Rey succeeds on her second attempt. Additionally, in the novelizations, Rey instructs the guard to return to his quarters and he also promises to speak of the encounter to no one.<ref name="awakensnovel" /><ref name="awakensjunior">[[Star Wars: The Force Awakens: A Junior Novel|''Star Wars'': Episode VII ''The Force Awakens'' A Junior Novel]]</ref>
+
+Among the filming crew, the character was dubbed FN-007. The cameo came about as Craig was at Pinewood Studios preparing for his next James Bond film.<ref name="Commentary">Director [[J.J. Abrams]] [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] commentary</ref>
+
+This stormtrooper was nicknamed "JB-007" by fans, referring to Craig's role as James Bond, agent 007.<ref name="Daily Mail">{{Cite_web|url=http://www.dailymail.co.uk/tvshowbiz/article-3382960/Daniel-Craig-s-role-stormtrooper-Star-Wars-confirmed-revealed-four-line-dialogue-Force-Awakens-movie.html|title=Daniel Craig's role as a stormtrooper in Star Wars is confirmed as it is revealed he had a four-line dialogue in The Force Awakens movie|author=Bamigboye, Baz|coauthors=Farmer, Ciara|date=2016-01-03|publisher=''Daily Mail''}}</ref><ref name="TheSun">{{Cite_web|url=https://www.thesun.co.uk/archives/news/938105/confirmed-daniel-craigs-cameo-in-star-wars-the-force-awakens/|title=Confirmed: Daniel Craig's cameo in Star Wars: The Force Awakens|author=Edwards, Natalie|coauthors=Brankin, Emma|date=2016-01-03|publisher=''The Sun''}}</ref> In the [[video game]] ''[[LEGO Star Wars: The Force Awakens]]'', he is identified as FN-1824. Despite the game being non-[[canon]], story group member [[Pablo Hidalgo]] confirmed on [[Wikipedia:Twitter|Twitter]] that the names provided by the game for previously unidentified characters, including FN-1824, were considered canon.<ref name="Twitter">{{Twitter|pablohidalgo|status/749616406245699584|[[Pablo Hidalgo]]|quote=@LelalMekha Yeah, same with Infinity.|image=File:Pablo lego character name confirmation.png}}</ref>
+
+The scene featuring the character in ''[[William Shakespeare's The Force Doth Awaken]]'', a retelling of the film ''The Force Awakens'' in Shakespearean style, includes nods to Daniel Craig and the James Bond franchise. The first letter of each sentence in his initial dialogue to Rey spells out "Daniel Craig," and in a later line he states "I'll tighten up thy bonds, make thee a specter," a reference to the James Bond film ''Spectre'', which featured Craig as Bond.
+
+==Appearances==
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens: A Junior Novel]]''
+*''[[The Force Awakens: Finn's Story]]''
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part V]]''
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]'' {{1stID}}
+*''[[William Shakespeare's The Force Doth Awaken]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=FN-1824#kanon
+|fr=FN-1824
+|ka=FN-1824
+|ko=FN-1824
+|pl=FN-1824
+|ru=FN-1824
+}}
+
+[[Category:First Order stormtroopers]]
+[[Category:Males]]

@@ -1,0 +1,151 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=Bounty hunter
+|image=[[File:Aurrasing detail.png]]
+|name=Aurra Sing
+|homeworld=[[Nar Shaddaa]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=Between [[21 BBY|21]] and [[10 BBY]]<ref name="Solo">''[[Solo: A Star Wars Story]]''</ref>
+|species=[[Near-human]]<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> {{C|[[Human]] [[hybrid]]}}<ref name="TFA head to head">''[[Star Wars: The Force Awakens: Head-to-Head]]''</ref>
+|gender=[[Sexes|Female]]<ref name="Databank">{{Databank|aurra-sing|Aurra Sing|archivedate=20170623060156}}</ref>
+|height=1.83 [[meter]]s<ref name="Databank" />
+|mass=56 [[kilogram]]s<ref name="TFA head to head" />
+|hair=[[Color|Fiery brown]]<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|eyes=Green<ref name="Episode I" />
+|skin=Pale<ref name="Episode I" />
+|cyber=[[Biocomputer]]<ref name="Ultimate Star Wars" />
+|era=
+|affiliation=*[[Cad Bane's group]]<ref name="Darth Maul II">''[[Darth Maul, Part II]]''</ref>
+*[[Hutt Clan]]<ref name="Assassin">{{TCW|Assassin (episode)|Assassin}}</ref>
+|masters=
+|apprentices=}}
+{{Quote|Honey, this isn't about your cause. This is about revenge. My employer wants to get even with you. Simple as that.|Aurra Sing|Assassin (episode)}}
+'''Aurra Sing''' was a [[Sexes|female]] [[near-human]] [[bounty hunter]] who operated prior to and during the [[Clone Wars]]. She was present on [[Tatooine]], where she watched the [[Boonta Eve Classic]] [[Podracing|podrace]], during the [[Trade Federation]]'s [[Invasion of Naboo|invasion]] of the [[planet]] [[Naboo]]. During this [[time]], she also became acquainted with [[Weequay]] [[pirate]] [[captain]], [[Hondo Ohnaka]]. After the [[Battle of Geonosis|outbreak]] of the [[Cloning|Clone]] Wars and the [[death]] of fellow [[bounty]] hunter [[Jango Fett]], Sing trained Fett's son, [[Boba Fett]], and helped him in an unsuccessful attempt to kill [[Jedi Master]] [[Mace Windu]], who killed Jango on [[Geonosis]]. After parting ways with Boba, Sing took jobs from [[Ziro Desilijic Tiure/Canon|Ziro the Hutt]] and [[Cad Bane]]. Sing's bounty hunter career, however, ultimately came to an end with her death at the hands of [[Tobias Beckett]].
+
+==Biography==
+===Early life===
+{{Quote|I have a bad feeling about this, Bane. Our employer seems capable enough. Why does he need us?|Aurra, to Cad Bane on Darth Maul|Darth Maul, Part II}}
+[[File:Maul meets Sing & Bane.jpg|thumb|left|Sing meets the Sith Lord Darth Maul.|312x312px]]
+A feared [[bounty hunter]] known for [[Sexes|her]] chalk-[[Color|white]] skin and built-in [[comlink]] [[antenna]], Aurra Sing was an expert [[sniper]] and trained [[assassin]] who would work for anyone who paid her. She was a known associate of [[Jango Fett]] and was at one point involved in a relationship with [[Hondo Ohnaka]].<ref name="LT">{{TCW|Lethal Trackdown}}</ref> On [[Nar Shaddaa]], she and fellow bounty hunters [[Cad Bane]] and [[Vorhdeilo]] met [[Sith]] [[Sith Lord|Lord]], [[Maul|Darth Maul]]. Sing picked up a transmission that [[Jedi]] were on their way to [[Hutta Town]] to investigate. Together with [[Cad Bane's group|Bane's group]], despite Sing's suspicions about Maul, they attended [[Xev Xrexus]]'s [[Xrexus Cartel|Cartel's]] [[Auction of Eldra Kaitis|auction]] of the Jedi [[Padawan]] [[Eldra Kaitis]].<ref name="Darth Maul II" />
+
+During the auction, Sing, Bane, and Vorhdeilo spoke with Maul aboard their [[Starship|ship]]. Together, they planned to take Kaitis from [[Jee Kra]], who had successfully won the padawan in the auction. Sing and her compatriots [[Death|killed]] Kra's crew. Sing, Maul and the others met Kra and Kaitis at his ship. After Maul subdued Kra and his remaining crew, Sing spoke with Bane about about leaving or killing Maul after their job was done. Having discovered the theft, Xrexus ordered the ship shot down.<ref name="Darth Maul III">''[[Darth Maul, Part III]]''</ref>
+
+After the group crashed onto the the [[moon of Drazkel]] below, Xrexus allowed the rest of the bidders to [[Skirmish on the moon of Drazkel|hunt]] them down for sport and offered Kaitis to anyone who captured her. Maul and Kaitis split off from the group to distract the hunters, instructing the bounty hunters to steal a ship. Turning the tables on the hunters, Bane, Sing, and Vorhdeilo set a trap. Bane lured a group of [[Trandoshan]] hunters into a kill zone, where Sing sniped them from a distance and Vorhdeilo attacked them at close range.<ref name="Darth Maul IV">''[[Darth Maul, Part IV]]''</ref> The group then stole a [[Ohnaka Gang]] starship and picked up Maul, who promised they would be compensated.<ref name="Darth Maul V">''[[Darth Maul, Part V]]''</ref>
+
+[[File:Aurra sing ep1.png|thumb|276x276px|Aurra at the Boonta Eve Classic.]]
+Ten [[Standard year|years]] before the [[Battle of Geonosis|start]] of the [[Clone Wars]], Sing was on the [[Outer Rim Territories|Outer Rim]] [[Planet|world]] of [[Tatooine]] during the [[time]] of the [[Boonta Eve Classic]] [[Podracing|Podrace]]. Sing watched the pod race from a balcony on [[Beggar's Canyon]].<ref name="Episode I" /> A [[hologram]] image depicting [[Jabba Desilijic Tiure]] paying Sing as two of his underlings dragged the injured [[Podracer (profession)|Podracer]] [[Neva Kee]] away from his crashed [[Podracer]] was acquired some time later by the [[Coruscant Security Force]] [[Law enforcement agency|police]] [[inspector]] [[Tanivos Exantor Divo|Tan Divo]]. All identifying authentimarks were scrubbed from the hologram, making it impossible to confirm its legitimacy, but if true, the image suggested Sing had a hand in Kee's demise. Divo developed a theory that [[Farwan & Glott/Canon|Farwan & Glott]], the original manufacturers of Kee's Podracer, hired Sing to take out Kee so that they could acquire the Podracer customization secrets that he refused to reveal.<ref name="Star Wars: Scum and Villainy">''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''</ref>
+
+===The Clone Wars===
+====Joining Boba Fett====
+[[File:Slave I airlock.png|thumb|left|324x324px|Aurra on board the ''Slave I'' with Bossk.]]
+During the Clone Wars, Sing joined up with [[Boba Fett]] to kill [[Mace Windu]] for revenge for Boba's [[Parent|father]], who Windu had killed on [[Geonosis]]. Boba, under the name of "Lucky", boarded the ''[[Endurance]]'' as a [[clone cadet]]. After his first attempt on Windu's life failed, he contacted Sing to ask for advice. Sing told him to blow up the [[reactor]]s, much to Boba's surprise. After Boba successfully destroyed the ''Endurance's'' reactors, sending it crashing towards [[Vanqor]], he got into one of the [[escape pod]]s along with several of the other [[cadet]]s. Once they were away from the plummeting vessel, the pod was docked by ''[[Slave I]]''. [[Bossk]] and Sing entered the pod to confront Boba. After telling him that the other cadets must be launched into [[Realspace|space]], due to the fact that they were "living witnesses", Boba reluctantly came aboard ''Slave I'' and jettisoned the pod from ''Slave I's'' docking area. Although the group of [[bounty]] hunters escaped, the cadets were saved by [[Anakin Skywalker]] and Windu, who had escaped the ''Endurance'' in their [[Delta-7B Aethersprite-class light interceptor|Jedi Starfighters]].<ref name="Death Trap">{{TCW|Death Trap}}</ref>
+
+She later abducted [[Admiral]] [[Kilian]], [[Clone Commander|Commander]] [[CC-6454|Ponds]], and a [[Clone navigation officer|naval officer]] from the crash site of the ''Endurance'' on Vanqor. After Skywalker and Windu triggered their bomb in the crash site, Boba [[Mission to Vanqor|convinced]] Sing to go back there and get the two Jedis' heads to bring to [[Count]] [[Dooku]], who might pay them for their trouble. Sing, along with Boba and [[Castas]], went to the crash site. Due to the ship falling apart, and [[R2-D2]]'s interference, Sing decided to blow up the crash site. As they left, Bossk contacted Sing, telling that a explosion happened near where the Jedi landed. Sing then ordered Bossk to jam all transmissions from the planet. When Sing and her team returned to ''Slave I'', they saw Windu's Jedi [[starfighter]] taking off. Unbeknownst to Sing, only R2-D2 was aboard. Though ''Slave I'' took out the Jedi fighter's communications, Artoo reached the [[Hyperspace transport ring|hyperspace rings]] and escaped. Knowing that Windu would not hold a grudge against them, she decided to motivate Windu by using the hostages.<ref name="R2CH">{{TCW|R2 Come Home}}</ref>
+
+[[File:AhsokaGotsSing-LT.png|thumb|318x318px|Aurra Sing caught by Ahsoka Tano.]]
+When contacting Windu to come and find her, Sing shot Ponds, after Boba wouldn't do it. The group of bounty hunters then docked on [[Florrum]] for a visit with Sing's old flame Ohnaka to see if he would give them any advice. During a visit in the [[Cantina|bar]] with Hondo, Sing overheard Castas communicating via [[hologram]] to a friend on [[Coruscant]]. After hearing him calling her an old hag, she shot him. [[Plo Koon]] and [[Ahsoka Tano]] later [[Second mission to Florrum|caught up]] with her. After having a quarrel in a room, Sing fled, leaving a discouraged Boba behind. Tano chased her, but after getting an order from Koon, she went to free the hostages. Sing got suspicious, so she went to go and stop the Padawan. After Tano pursued her, she fled on ''Slave I'', but because of a wing failure caused by Tano, the ship crashed. Sing was presumed dead by the Jedi.<ref name="LT" /> Unknown to them, Hondo salvaged her out of ''Slave I''{{'}}s wreckage.<ref name="Assassin" />
+
+====Working for Ziro====
+[[File:AurraSing-Assassin.png|left|thumb|296x296px|Sing facing Ahsoka Tano.]]
+Sing was later hired by [[Ziro Desilijic Tiure/Canon|Ziro]] the [[Hutt]] to assassinate [[Senator]] [[Padmé Amidala]] in retaliation for [[Raid on Ziro the Hutt's Coruscant pleasure palace|imprisoning]] him. She tracked the Senator to [[Alderaan]], where Amidala was due for a [[Alderaan Refugee Conference|conference]] on [[refugee]] concerns. Infiltrating the conference through the vents and snapping the neck of several [[Senate Commando]]s, Sing set up a sniper position. Only the timely intervention of Tano gave Amidala a flesh wound, forcing Sing to flee.<ref name="Assassin" />
+
+Sing later made a second attempt on Amidala's life when she tracked down the Senator, not being fooled by the [[BD-3000 luxury droid]] acting in her place. But once again, Tano interfered. Sing outdrew Tano as she grazed the Padawan, but Amidala used a [[stun]] blaster on her. Sing was then arrested and brought to Coruscant.<ref name="Assassin" />
+
+====Senate hostages====
+[[File:Aura Cad Bane.png|thumb|257x257px|Sing working with Cad Bane]]
+Later in the Clone Wars, Sing escaped [[Galactic Republic|Republic]] captivity and teamed up with [[Cad Bane]]'s bounty hunter team for the [[Senate hostage crisis|raid]] on the Republic [[Senate Building]]. During the hostage siege Aurra covered Bane's entrance to the building by taking out the [[Galactic Senate|Senate]] [[Commando]]s who attempted to stop him with a [[sniper rifle]]. After Bane eliminated the remaining Senate Commandos, Aurra shot a dying one. Later she aided [[Shahan Alama]] in searching for the [[Jedi Knight]] Anakin Skywalker, whose presence in the Senate Building threatened to thwart Bane's plan. Eventually, with the help of [[Robonino]] they managed to render Skywalker unconscious. When the Hutt [[crime lord]] was freed, Sing successfully left the crime scene along with the rest of the group.<ref name="HC">{{TCW|Hostage Crisis}}</ref>
+
+===Death===
+{{Quote|You're Tobias Beckett. You killed Aurra Sing.|Lando Calrissian, to Tobias Beckett|Solo: A Star Wars Story}}
+At some point before [[10 BBY]], [[Tobias Beckett]] took a job for [[Crimson Dawn]] crime lord [[Dryden Vos]] which resulted in the death of Sing. Sing's death pleased Vos and he gave Beckett a bonus.<ref name="Expanded Edition">''[[Solo: A Star Wars Story: Expanded Edition]]''</ref> Sing's death was later recalled to Beckett while talking with [[Lando Calrissian]], though Beckett claimed that he just gave Sing a push and that it was the fall that killed her.<ref name="Solo" />
+
+==Personality and traits==
+[[File:Aurra Sing takes aim.png|thumb|left|277x277px|Aurra takes aim.]]
+Aurra Sing was one of the most powerful and ruthless bounty hunters in [[the galaxy]]. She had no qualms about killing, whether it be wounded [[clone trooper]]s or former partners such as Castas. Despite her ruthlessness, Sing was also somewhat of a mother figure to Boba Fett during his teenage years, sometimes addressing him as "[[honey]]" and stopping him from drinking [[alcohol]] in Hondo Ohnaka's bar. Despite this, she was also selfish, and she abandoned Fett to save herself after the boy was captured by Plo Koon. Sing also tried to serve as a mentor to Fett, as shown by when she tried make him to murder the helpless Clone Commander Ponds and, when he hesitated, she simply shoved him aside and killed Ponds herself. Aurra Sing also had a romantic relationship with Hondo Ohnaka, and though they were no longer lovers, Ohnaka still referred to her as "my dear." Consequently, after Sing and Boba arrived at Ohnaka's base, he asked if Boba was his son. Even with their past, Ohnaka refused to help Sing when she tried to lure Ahsoka Tano and Plo Koon into a trap.<ref name="LT" />
+
+==Behind the scenes==
+[[File:AurraBoba-TCW.jpg|thumb|266x266px|Aurra Sing and Boba Fett]]
+The character of Aurra Sing was first conceived in a sketch labeled "Babe Fett" by [[Lucasfilm Ltd.|Lucasfilm's]] [[Doug Chiang]]. Chiang had made the sketch as a result of [[George Lucas]]' request to have more characters fill out the [[podracing]] sequence in the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]. In the film, Sing was played by model [[Michonne Bourriague]] in a cameo appearance.<ref name="Episode I" /> She was voiced by [[Jaime King]] in the ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' TV series.
+
+The dark strip of makeup across Aurra Sing's eyes is actually an homage to a similar look worn by Daryl Hannah in the [[1982]] classic film ''[[Wikipedia:Blade Runner|Blade Runner]]'', which starred ''Star Wars'' actor [[Harrison Ford]].<ref name="Trivia>{{SW|url=tv-shows/clone-wars/assassin-trivia-gallery|text="Assassin" Trivia Gallery}} {{C|Slide 2}}</ref> In May 2018, Kyle Newman, King's husband, revealed that Sing was planned to be killed in one of the unfinished episodes of the series.<ref name="Aurra's planned death">{{Youtube|video=DU6WwLoQaqs|text=Solo Live Reaction|channel=channel/UCxnEDVUZe8-j61nKo4HzOYg|channelname=Steele Wars|quote=You know, she actually died befo... There were episodes of The Clone Wars season 6 that I was in, which were deleted and she was in that too and she died.}}</ref> Sing's death was later revealed in the [[2018]] [[Star Wars Anthology Series|''Star Wars'' Anthology]] film ''[[Solo: A Star Wars Story]]''.<ref name="Solo" />
+
+==Appearances==
+*''[[Darth Maul, Part II]]''
+*''[[Darth Maul, Part III]]''
+*''[[Darth Maul, Part IV]]''
+*''[[Darth Maul, Part V]]''
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars: Force Arena]]''
+*{{TCW|Lightsaber Lost}} {{Flash}}
+*{{TCW|Death Trap}}
+*{{TCW|R2 Come Home}}
+*{{TCW|Lethal Trackdown}}
+*{{TCW|Assassin (episode)|Assassin}}
+*{{TCW|Hostage Crisis}}
+*{{TCW|Hunt for Ziro}} {{Flash}}
+*''[[Solo: A Star Wars Story]]'' {{Mo}}
+*''[[Solo: A Star Wars Story: Expanded Edition]]'' {{Mo}}
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]'' {{C|DLC}}
+
+==Sources==
+{{Scroll box|
+*{{SWE|characters|aurrasing|Aurra Sing}}
+*{{SWE|characters|Bossk|Bossk}}
+*{{SWE|characters|cadbane|Cad Bane}}
+*{{SW|url=news/swca-the-untold-clone-wars-panel-liveblog|text=SWCA: The Untold ''Clone Wars'' Panel Liveblog}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: The Force Awakens: Head-to-Head]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Solo: A Star Wars Story The Official Guide]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}}
+*{{Databank|aurra-sing|Aurra Sing|archivedate=20170623060156}}
+*{{Databank|bd-3000-luxury-droid|BD-3000 luxury droid|archivedate=20170806133019}}
+*{{Databank|bossk|Bossk|archivedate=20170821184518}}
+*{{Databank|castas|Castas|archivedate=20160520123043}}
+*{{Databank|central-detention-center|Central Detention Center|archivedate=20170705030848}}
+*{{Databank|galactic-senate|Galactic Senate|archivedate=20170705025411}} {{Po}}
+*{{Databank|hondo-ohnaka|Hondo Ohnaka|archivedate=20170802141131}}
+*{{Databank|padmé-amidala-biography-gallery|Padmé Amidala biography gallery}}; image #21 {{C|of 29}}
+*{{Databank|rskf-44-heavy-blaster-pistol|RSKF-44 heavy blaster pistol|archivedate=20180622012846}}
+*{{Databank|slave-i|Slave I}}}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|bg=Аура Синг
+|cs=Aurra Sing
+|de=Aurra Sing#kanon
+|el=Όρα Σινγκ
+|es=Aurra Sing
+|fr=Aurra Sing
+|hu=Aurra Sing
+|it=Aurra Sing
+|ka=ორა სინგი
+|nl=Aurra Sing
+|pl=Aurra Sing
+|pt=Aurra Sing
+|ru=Орра Синг/Канон
+|sv=Aurra Sing
+|deGA=1
+}}
+
+{{DEFAULTSORT:Sing, Aurra}}
+[[Category:Assassins]]
+[[Category:Bounty hunters]]
+[[Category:Cyborgs]]
+[[Category:Females]]
+[[Category:Hybrids]]
+[[Category:Jedi hunters]]
+[[Category:Near-Humans]]
+[[Category:Sharpshooters and snipers]]

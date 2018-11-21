@@ -1,0 +1,84 @@
+{{Eras}}
+{{Character
+|type=Rebel
+|image=[[File:Quarrie SWCT.png]]
+|name=Quarrie
+|homeworld=
+|birth=
+|death=
+|species=[[Mon Calamari]]<ref name="WotM">{{Rebels|Wings of the Master}}</ref>
+|gender=[[Sexes|Male]]<ref name="WotM" />
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Gray]]<ref name="WotM" />
+|skin=Brown and white mottle<ref name="WotM" />
+|cyber=
+|era=
+|affiliation=*[[Alliance to Restore the Republic]]<ref name="The Rebel Files">''[[Star Wars: The Rebel Files]]''</ref>
+**[[Project Shantipole]]<ref name="WotM" />
+|masters=
+|apprentices=}}
+{{Quote|How many times have you flown it?''"<br />"''Me? Oh I don't fly, too dangerous. But theoretically, it ''should'' fly!|[[Sabine Wren]] and Quarrie discuss the B-Wing prototype|Wings of the Master}}
+'''Quarrie''' was a [[Mon Calamari]] [[Sexes|male]] who built a [[Prototype B6|prototype]] [[A/SF-01 B-wing starfighter|B-wing starfighter]] on the remote [[planet]] [[Shantipole]] some time after the [[Siege of Lothal]].
+
+==Biography==
+[[File:Quarrie WotM.png|left|thumb|250px|Quarrie]]
+Quarrie was a [[Mon Calamari]] [[starship]] engineer who lived on the remote planet of [[Shantipole]] during the [[Imperial Era|Age of the Empire]].
+After the early rebellion suffered losses [[Early rebellion against the Galactic Empire|against]] the [[Galactic Empire]] during an attempted blockade run, rebel [[Hera Syndulla]] and [[Spectres|members of her crew]] came to Shantipole in order to retrieve the prototype B-Wing, [[Prototype B6]], which he dubbed the "Blade Wing". Quarrie was initially uninterested, as he did not believe Syndulla to be the right [[pilot]] for his ship. However, her story of growing up and dreaming of being a pilot swayed Quarrie's mind, and he allowed her to test the [[starfighter]].<ref name="WotM" />
+
+After a successful test run, the starfighter was taken back to the network's fleet. For the journey, he also installed a hyperdrive and an exterior astromech socket on Hera's [[shuttle]] ''[[Phantom]]''. The ''Phantom'' then towed the B-wing prototype to the planet [[Ibaar]]. With the B-Wing's advanced weaponry, the rebels were able to break the [[Blockade of Ibaar|Imperial blockade]] over the planet Ibaar and deliver food to the planet's starving populace. Afterwards, Quarrie, along with his [[Lothal astromech droid]] [[BG-81]], left the network fleet in order to oversee the production of more B-Wings for the rebel cause.<ref name="WotM" />
+
+==Personality and traits==
+Quarrie was a short, [[Sexes|male]] [[Mon Calamari]] master engineer who specialized in building starships. He took pride in his work and was eager to experiment with speed, agility, and weapons. Quarrie was not a [[pilot]], and was only willing to let the best pilot fly his [[Prototype B6]] starfighter. His prototype B6 became the basis for the rebellion's [[A/SF-01 B-wing starfighter]].<ref name="Databank">{{Databank|quarrie|Quarrie}}</ref>
+
+==Behind the scenes==
+Quarrie's name is derived from the name of concept artist [[Ralph McQuarrie]].<ref name="Name">{{SW|url=news/swca-star-wars-rebels-past-present-and-future-panel-liveblog|text=''Star Wars Rebels'' Past, Present, and Future Liveblog}}</ref> He first appeared in the ''[[Star Wars Rebels]]'' [[Star Wars Rebels Season Two|Season Two]] episode "[[Wings of the Master]]", which premiered on [[Disney XD]] on [[November 11]], [[2015]]. He was voiced by [[Corey Burton]], who later reprised the role in the second season of ''[[LEGO Star Wars: The Freemaker Adventures]]''.
+[[File:Freemakers and Quarrie.jpg|thumb|256x256px|Quarrie and the Freemakers]]
+
+==Appearances==
+*''[[Star Wars: Force Arena]] ''{{Mo}}
+*{{Rebels|Wings of the Master}} {{1st}}
+
+===Non-canon appearances===
+*{{The Freemaker Adventures|Trouble on Tibalt}}
+*{{The Freemaker Adventures|The Tower of Aliston Nor}}
+*{{The Freemaker Adventures|The Embersteel Blade}}
+*{{The Freemaker Adventures|The Storms of Taul}}
+*{{The Freemaker Adventures|Return to the Wheel}}
+*{{The Freemaker Adventures|The Lost Crystals of Qalydon}}
+*{{The Freemaker Adventures|Flight of the Arrowhead}}
+*{{The Freemaker Adventures|A Perilous Rescue}}
+*{{The Freemaker Adventures|Free Fall}}
+*{{The Freemaker Adventures|Return of the Return of the Jedi}}
+
+==Sources==
+*{{SW|url=news/swca-star-wars-rebels-past-present-and-future-panel-liveblog|text=''Star Wars Rebels'' Past, Present, and Future Liveblog}} {{1stm}}
+*{{SW|url=tv-shows/star-wars-rebels/wings-of-the-master-episode-guide|text=Wings of the Master Episode Guide}}
+*''[[Star Wars: Aliens of the Galaxy]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars: The Last Jedi: Incredible Cross-Sections]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Droidography]]''
+*{{Databank|b-wing-prototype-blade-wing|B-Wing Prototype (Blade Wing)|archivedate=20170518233616}}
+*{{Databank|bg-81|BG-81|archivedate=20170723063626}}
+*{{Databank|eesh-fahm|Eesh Fahm|archivedate=20160520210507}}
+*{{Databank|ibaar|Ibaar}}
+*{{Databank|quarrie|Quarrie}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Quarrie
+|pl=Quarrie
+|ru=Куорри
+|ko=쿼리
+}}
+
+[[Category:Engineers]]
+[[Category:Males]]
+[[Category:Mon Calamari]]
+[[Category:Rebel Alliance members]]

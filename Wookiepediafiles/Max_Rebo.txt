@@ -1,0 +1,82 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Maxrebo.jpg]]
+|name=Max Rebo
+|homeworld=[[Orto]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Ortolan]]<ref name="Ultimate Star Wars" />
+|gender=[[Sexes|Male]]<ref name="Ultimate Star Wars" />
+|height=1.5 [[meter]]s<ref name="Max Rebo">{{Databank|max-rebo|Max Rebo}}</ref>
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|skin=Blue<ref name="Episode VI" />
+|cyber=
+|era=
+|affiliation=[[Max Rebo Band]]<ref name="Max Rebo" />
+|masters=
+|apprentices=}}
+'''Max Rebo''' was a [[Sexes|male]] [[Ortolan]] from [[Orto]]<ref name="Ultimate Star Wars" /> and a popular musician who led the [[Max Rebo Band]]. He mainly played the [[red ball jett organ]],<ref name="Max Rebo" /> which he played with his [[Limb|feet]];<ref name="AEYKTK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref> he and his band often performed for criminals and otherwise sleazy clientele.<ref name="Max Rebo" />
+
+{{Char-stub}}
+
+==Appearances==
+*{{TCW|Lethal Trackdown}} {{C|Mentioned on poster only; misspelled "Max Reebo"}}
+*{{TCW|Lightsaber Lost}} {{C|Mentioned on poster only; misspelled "Max Reebo"}}
+*{{TCW|Orders}} {{C|Mentioned on poster only; misspelled "Max Reebo"}} <!--On the door when Fives enters the refresher - the shot is so dark that it is hard to spot-->
+*''[[Star Wars Rebels: Spark of Rebellion]]'' {{C|Mentioned on poster only; misspelled "Max Reebo"}}
+*{{Rebels|Rise of the Old Masters}} {{C|Mentioned on poster only; misspelled "Max Reebo"}}
+*{{Rebels|Out of Darkness}} {{C|Mentioned on poster only; misspelled "Max Reebo"}}
+*{{Rebels|Gathering Forces}} {{C|Mentioned on poster only; misspelled "Max Reebo"}}
+*{{Rebels|Path of the Jedi}} {{C|Mentioned on poster only; misspelled "Max Reebo"}}
+*{{Rebels|Brothers of the Broken Horn}} {{C|Mentioned on poster only; misspelled "Max Reebo"}}
+*{{Rebels|Legends of the Lasat}} {{C|Mentioned on poster only; misspelled "Max Reebo"}}
+*{{Rebels|The Holocrons of Fate}} {{C|Mentioned on poster only; misspelled "Max Reebo"}}
+*{{Rebels|Hera's Heroes}} {{C|Mentioned on poster only; misspelled "Max Reebo"}}
+*{{Rebels|Ghosts of Geonosis}} {{C|Mentioned on poster only; misspelled "Max Reebo"}}
+*{{Rebels|Trials of the Darksaber}} {{C|Mentioned on poster only; misspelled "Max Reebo"}}
+*{{Rebels|Double Agent Droid}} {{C|Mentioned on poster only; misspelled "Max Reebo"}}
+*''[[Bounty Hunt]]''
+*''[[The Adventures of Luke Skywalker, Jedi Knight]]''
+*{{Shortstory|story=Added Muscle|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Mo}}
+*{{Shortstory|story=You Owe Me a Ride|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*''[[Darth Vader 1: Vader]]''
+*''[[Star Wars 34: The Thirteen Crates]]''
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*{{IDWAdventuresCite|13|[[Tales from Wild Space: The Blue Brothers]]}}
+
+===Non-canon appearances===
+*{{The Freemaker Adventures|The Mines of Graballa}} {{Hologram}}
+*{{Droid Tales|Gambit on Geonosis}} {{Flash}}
+
+==Sources==
+*{{SW|url=films/star-wars-episode-vi-return-of-the-jedi|text=''Star Wars Episode VI: Return of the Jedi''}}
+*{{SW|url=tv-shows/clone-wars/bound-for-rescue-trivia-gallery|text="Bound for Rescue" Trivia Gallery}} {{1stID}}
+*{{SW|url=news/music-in-the-star-wars-galaxy-the-modal-nodes-vs-the-max-rebo-band|text=Music in the ''Star Wars'' Galaxy: The Modal Nodes vs. the Max Reebo Band}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Princess Leia: Royal Rebel]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
+*{{Databank|max-rebo|Max Rebo}}
+*{{Databank|the-max-rebo-band|The Max Rebo Band}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ja=マックス・レボ
+|ka=მაქს რებო
+}}
+
+{{DEFAULTSORT:Rebo, Max}}
+[[Category:Males]]
+[[Category:Max Rebo Band members]]
+[[Category:Ortolans]]

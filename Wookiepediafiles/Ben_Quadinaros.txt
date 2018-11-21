@@ -1,0 +1,84 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Cropped Quadinaros.png]]
+|name=Ben Quadinaros
+|homeworld=[[Tund]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Toong]]<ref name="DB">{{Databank|ben-quadinaros|Ben Quadinaros|archivedate=20170504115729}}</ref>
+|gender=[[Sexes|Male]]<ref name="DB" />
+|height=1.63 [[meter]]s<ref name="DB" />
+|mass=
+|hair=
+|eyes=[[Color|Orange]]<ref name="DB" />
+|skin=Yellow<ref name="DB" />
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+{{Quote|I see Ben Quadinaros from the Tund system.|Fode|Star Wars: Episode I The Phantom Menace}}
+'''Ben Quadinaros''' was a [[Toong]] [[Podracer]] [[pilot]] who had very little actual racing experience when he participated in the [[Boonta Eve Classic]] that saw the liberation of the [[Slavery|slave boy]] [[Anakin Skywalker]]. Piloting a [[BT310 quadra-Podracer]], Quadinaros never left the starting grid due to his pod stalling. A short while later, his [[power coupling]] failed, causing his engine's [[energy binder]]s to deactivate. This caused the hapless Toong's engines to spiral away from the [[cockpit]] and fly off and explode on various parts of the [[Mos Espa Grand Arena]]. Despite this loss, Quadinaros continued to Podrace up to ten years later, during the [[time]] of the [[Clone Wars]].
+
+==Biography==
+{{Quote|Oh, there goes Quadinaros' power coupling!|Fode, after Quadinaros' Podracer explodes|Star Wars: Episode I The Phantom Menace}}
+[[File:BT410.png|thumb|250px|left|Ben Quadinaros on the Boonta starting line.]]
+A timid [[Toong]], Ben Quadinaros was a [[Podracer]] [[pilot]] [[Homeworld|from]] [[Tund]],<ref name="Ultimate Star Wars" /> a hidden [[Planet|world]]<ref name="Tund System">{{Databank|tund-system|Tund System|archivedate=20160412071730}}</ref> located in the mysterious [[Tund system]]. Considered to be a rookie pilot, Quadinaros nevertheless joined the [[Boonta Eve Classic]] [[Podracing|Podrace]] that took place during the final decades of the [[Galactic Republic]].<ref name="DB" /> Piloting a [[BT310 quadra-Podracer]]<ref name="Star Pilot">[[Star Wars: Star Pilot (2015)|''Star Wars: Star Pilot'']]</ref> that featured four separate [[engine]]s, as opposed to the more common two engine setup, Quadinaros prepared for the race in a [[hangar]] located at the [[Mos Espa Grand Arena]], where the Boonta was to be held. Quadinaros wandered the hangar for a brief time before setting off to move his Podracer onto the starting grid's back row. As the pilots prepared for the race, the [[Troig]] race commentators [[Fodesinbeed Annodue|Fode and Beed]] conducted the opening ceremonies, introducing the pilots, including Quadinaros, to the cheering audiences.<ref name="TPM">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+
+Eventually, the race's host, the [[crime lord]] [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]], arrived in his personal viewing box, and waved the start of the race. However, Quadinaros' pod failed to ignite its engines, leaving the Toong stuck on the starting grid. He wasn't alone, however, as the [[Human]] pilot [[Anakin Skywalker]] also stalled. However, Skywalker was able to fix his Podracer and fly onto the track, while Quadinaros was left behind with a crew of [[DUM-series pit droid|pit droids]].
+
+When the [[droid]]s' work was done, they left the grid and Quadinaros tried to ignite his Podracer a second time. Instead of zooming off of the grid to join the race, the Toong's [[power coupling]] failed, which caused the [[energy binder]]s that held the engines together to deactivate and cause the engines to rip off of the [[cockpit]] and fly into various walls and structures inside the arena. Quadinaros' cockpit slowly descended to the ground as the other competitors zoomed by into the second lap. The race was ultimately won by Skywalker.<ref name="TPM" />
+
+[[File:Podracing poster.jpg|thumb|225px|right|Ben Quadinaros was set to race against Sebulba during the Clone Wars.]]
+Quadinaros continued to race up to [[19 BBY]]<ref name="Date 19BBY">According to ''[[Star Wars: Galactic Atlas]]'', the events within the [[Star Wars: The Clone Wars (TV series)|''Star Wars: The Clone Wars'']] story arc that began with the episode "[[The Rise of Clovis]]", such as an [[invasion of Scipio]], are dated to [[19 BBY]].</ref> while still utilizing a BT310 quadra-Podracer. During this time, [[The Sport's Greatest Rivalry|posters]] advertised a race between Quadinaros and the notorious [[Dug]] pilot [[Sebulba]], who had since become the sport's greatest rivalry. One such poster was owned by Skywalker, who by this time was a [[Jedi Knight]].<ref name="RoC">{{TCW|The Rise of Clovis}}</ref>
+
+==Personality and traits==
+Quadinaros was a timid Toong who was only a novice at Podracing. Despite his short comings, and his fear of the dangerous Boonta Classic, Quadinaros managed to overcome his fears for a short time by entering the Boonta.<ref name="DB" /> However, when his Podracer malfunctioned, he could only express frustration on his wasted effort.<ref name="TPM" /> However, despite the setback, Quadinaros continued to Podrace, and eventually ended up in a match with Sebulba.<ref name="RoC" />
+
+A pudgy Toong, Quadinaros possessed [[Color|yellow]] colored skin, orange [[eye]]s, and stood at 1.63 [[meter]]s tall.<ref name="DB" />
+
+==Behind the scenes==
+{{Quote|The sport's greatest rivalry! Quadinaros vs Sebulba. We'll sell you the whole seat but you'll only need the edge!!!|The poster from ''The Rise of Clovis''|The Rise of Clovis}}
+Ben Quadinaros was created for the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']], which was written and directed by [[George Lucas]].<ref name="TPM" /> Conceptual art for the character was created by designers [[Terryl Whitlatch]] and [[Iain McCaig]], which specified the details of Quadniaros' anatomy, clothing, and range of movement.<ref name="SWE1:IG">''[[Star Wars: Episode I Insider's Guide]]''</ref> Quadinaros later appeared on a poster in the television series ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'', in the episode "[[Friends and Enemies]]".<ref name="RoC" /> The poster was designed by [[Kilian Plunkett]].<ref name="RoC Episode Guide">{{SW|url=explore/the-clone-wars/ep606/#!/about|text="The Rise of Clovis" - ''The Clone Wars'' Episode Guide}}</ref>
+
+Ben Quadinaros also made cameo appearances in several ''[[LEGO Star Wars]]'' animated films including the [[2015]] [[LEGO Star Wars: Droid Tales|''Droid Tales'']] episodes "[[Exit from Endor]]" and "[[Gambit on Geonosis]]", and the [[2016]] [[LEGO Star Wars: The Freemaker Adventures|''The Freemaker Adventures'']] episode "[[Race on Tatooine]]."
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*{{TCW|The Rise of Clovis}} {{C|Appears on poster}}
+*''[[Star Wars Rebels: Steps Into Shadow]]'' {{C|Appears on poster}}
+*{{Rebels|The Holocrons of Fate}} {{C|Appears on poster}}
+
+===Non-canon appearances===
+*{{The Freemaker Adventures|Race on Tatooine}}
+*{{Droid Tales|Exit from Endor}} {{Flash}}
+*{{All-Stars|The Prisoner of Tatooine}} {{Mo}}
+
+==Sources==
+*{{SW|url=explore/the-clone-wars/ep606/#!/about|text="The Rise of Clovis" - ''The Clone Wars'' Episode Guide}}
+*{{SWE|characters|benquadinaros|Ben Quadinaros}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]''
+*''[[Darth Vader: Sith Lord]]'' {{Po}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|ben-quadinaros|Ben Quadinaros|archivedate=20170504115729}}
+*{{Databank|boonta-eve-classic-podracer-pilots|Boonta Eve Classic Podracer Pilots|archivedate=20170605054348}} {{Po}}
+*{{Databank|toong|Toong}} {{Po}}
+*{{Databank|tund-system|Tund System|archivedate=20160412071730}} {{C|Misspelled as Ben Quadiaros}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Ben Quadinaros
+|es=Ben Quadinaros
+}}
+
+{{DEFAULTSORT:Quadinaros, Ben}}
+[[Category:Males]]
+[[Category:Podracers]]
+[[Category:Toong]]

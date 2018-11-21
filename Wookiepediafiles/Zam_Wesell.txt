@@ -1,0 +1,95 @@
+{{Eras}}
+{{Character
+|type=Bounty hunter
+|image=[[File:Clawdite.jpg]]
+|name=Zam Wesell
+|homeworld=[[Zolan]]<ref name="USW">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[22 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Coruscant]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|species=[[Clawdite]]<ref name="Databank">{{Databank|zam-wesell|Zam Wesell}}</ref>
+|gender=[[Sexes|Female]]<ref name="Episode II" />
+|height=1.68 meters<ref name="Databank" />
+|mass=55 [[kilogram]]s<ref name="TFA head to head">''[[Star Wars: The Force Awakens: Head-to-Head]]''</ref>
+|hair=
+|eyes=[[Color|Yellow]]<ref name="Episode II" />
+|skin=Green<ref name="Episode II" />
+|cyber=
+|era=
+|affiliation=*[[Mabari]]<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+*[[Confederacy of Independent Systems]]<ref name="Episode II" />
+|masters=
+|apprentices=}}
+{{Quote|I think she's a changeling.|[[Anakin Skywalker]], to [[Obi-Wan Kenobi]]|Star Wars: Episode II Attack of the Clones}}
+'''Zam Wesell''' was a [[Clawdite]] [[Sexes|female]] [[bounty hunter]] who lived during the [[Fall of the Republic|last years]] of the [[Galactic Republic]]. As a Clawdite, Wesell possessed the ability to physically [[Changeling|alter]] her appearance&mdash;a power which she used to assume the visage of a [[human]] female. Prior to the [[Battle of Geonosis|beginning]] of the [[Clone Wars]], the [[bounty]] hunter [[Jango Fett]] enlisted Wesell's aid to [[Plot to assassinate Padmé Amidala|assassinate]] [[Senator]] [[Padmé Amidala]] of [[Naboo]] in [[22 BBY]]. Her efforts ultimately failed, however, resulting in Wesell's [[death]] at the hands of Fett before she could identify him as the would-be [[assassin]] to Amidala's [[Jedi]] [[bodyguard]]s.
+
+==Biography==
+===Early life and career===
+A [[Clawdite]] [[Sexes|female]], Wesell was [[Reproduction|born]] on the [[planet]] [[Zolan]]. [[Sexes|She]] was trained by the [[Mabari]] until she desired wealth and journeyed to [[Denon]] to employ her skills and training as an [[assassin]]. At some point, Wesell worked with [[bounty hunter]] [[Jango Fett]],<ref name="Character Encyclopedia" /> and became both his frequent accomplice and sometime partner.
+
+===Assassination plot and death===
+{{Quote|Who hired you? Tell us. Tell us ''now.'' ''"<br />"''It was a bounty hunter called&mdash;|Anakin Skywalker, and Zam Wesell, shortly before the latter's death<ref name="Episode II" />}}
+In 22 BBY,<ref name="Galactic Atlas" /> Wesell was hired by Fett to [[Plot to assassinate Padmé Amidala|assassinate]] [[Naboo]] [[Senator]] [[Padmé Amidala]] to prevent her from speaking up against the [[Military Creation Act]]. Sometime later, Wesell bombed the Senator's [[J-type diplomatic barge|cruiser]] when it reached [[Coruscant]]. However, Amidala herself wasn't on the [[cruiser]]. Instead, it was her [[Naboo Royal Handmaidens|handmaiden]], [[Cordé]]. After receiving the news, Wesell told Fett that she had bombed the ship, but she used a decoy. Fett then gave her some [[Indoumodo kouhun|kouhuns]] and told her to be careful while holding them as they were very [[poison]]ous. Wesell sent a [[ASN courier droid|droid]] to do it for her, but two [[Jedi]] had been assigned to protect the senator: [[Jedi Knight]] [[Obi-Wan Kenobi]] and his [[Padawan]] [[Anakin Skywalker]]. Skywalker quickly [[Death|killed]] the kouhuns and Kenobi grabbed the droid. While the droid was speeding through an express way, Wesell shot it with [[Zam Wesell's projectile rifle|her projectile rifle]] which caused Kenobi to start falling through Coruscant's [[atmosphere]]. Wesell quickly fled in her [[Koro-2 all-environment Exodrive airspeeder|speeder]] but Skywalker jumped on top of it and crashed it. Wesell was able to flee into the [[Outlander Club]]. Skywalker was about to dash in but Kenobi reminded his Padawan that Wesell had gone in to hide, not to run. Wesell [[Changeling|shapeshifted]] into her Clawdite form in the [[speeder]] and Skywalker told Kenobi he knew that she was a changeling and was a female. Kenobi said they should be extra careful in searching for her. As the pair were in the club, Wesell was about to shoot Kenobi, but Kenobi sensed her and [[Dismemberment|chopped]] her [[Limb|arm]] off with his [[Obi-Wan Kenobi's second lightsaber|lightsaber]]. Wesell screamed in pain and fell to the ground. Kenobi carried Wesell outside and asked her if she knew who she was trying to kill. Wesell answered that she knew it was a Senator from Naboo. Then she was asked who hired her. Reluctant to reveal her employer's name, Wesell answered that it was merely a job. Skywalker then pressured her to tell them and Wesell was about to say who it was when Fett, who had been watching the whole questioning, shot her in the neck with a [[Kamino saberdart]]. Wesell then said her final words and died shortly after.<ref name="Episode II" />
+[[File:Zamaotc.jpg|thumb|220x220px]]
+
+==Personality and traits==
+Wesell preferred to strike her targets from afar, utilizing long-range [[sniper rifle]]s or remote [[probe droid]]s.<ref name="USW" />
+
+==Powers and abilities==
+As a [[changeling]] was able to assume the appearance of anyone she chose, including her targets.<ref name="USW" /> She was capable of taking on any [[humanoid]] form.<ref name="Databank" />
+
+==Behind the scenes==
+Zam Wesell first appeared in ''Attack of the Clones'' played by [[Leeanna Walsman]].<ref name="Episode II" />
+
+==Appearances==
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars: Galactic Defense]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*[[Attack of the Clones (Golden Book)|''Attack of the Clones'' Golden Book]]
+*''[[Attack of the Clones Read-Along Storybook and CD]]''
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+*{{SW|url=films/star-wars-episode-2-attack-of-the-clones-story-gallery|text=Star Wars Episode II: Attack of the Clones Story Gallery}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*[[Star Wars: Card Trader|''Star Wars'': Card Trader]]
+*''[[Star Wars: Force Collection]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|padm-amidala-biography-gallery|Padmé Amidala biography gallery}}; image #9 {{C|of 29}} {{Imo}}
+*{{Databank|xj-6-airspeeder|XJ-6 Airspeeder|archivedate=20170508035423}}
+*{{Databank|zam-wesell|Zam Wesell}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|bg=Зам Уесъл
+|de=Zam Wesell#kanon
+|el=Ζαμ Γουίσελ
+|es=Zam Wesell
+|fr=Zam Wesell
+|it=Zam Wesell
+|ja=ザム・ウェセル/正史
+|nl=Zam Wesell
+|pl=Zam Wesell
+|pt=Legends:Zam Wesell
+|ru=Зам Уэселл/Канон
+|sv=Zam Wesell
+|uk=Зам Веселл
+}}
+
+{{DEFAULTSORT:Wesell, Zam}}
+[[Category:Assassins]]
+[[Category:Bounty hunters]]
+[[Category:Clawdites]]
+[[Category:Denon residents]]
+[[Category:Females]]
+[[Category:Sharpshooters and snipers]]

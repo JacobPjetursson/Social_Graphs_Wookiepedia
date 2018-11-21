@@ -1,0 +1,50 @@
+{{Eras}}
+{{Citation}}
+{{Character
+|type=
+|image=[[File:Mars Guo before crash.png]]
+|name=Mars Guo
+|homeworld=[[Phu]]<ref name="CL 2016">''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''</ref>
+|birth=
+|death=
+|species=[[Bardottan]]<ref name="Trivia Gallery">{{SW|url=tv-shows/clone-wars/the-disappeared-part-i-trivia-gallery|text="The Disappeared, Part I Trivia Gallery" - ''The Clone Wars'' Episode Guide}}</ref>
+|gender=[[Sexes|Male]]
+|height=
+|mass=
+|hair=
+|eyes=
+|skin=[[Color|Green]]
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+'''Mars Guo''' was a [[Sexes|male]] [[Bardottan]] who participated in [[Podracing|Podraces]] during the reign of the [[Galactic Republic]]. The thin nosed Guo preferred a very large [[Podracer]] which, despite its size, was rather fast. Guo participated in the [[Boonta Eve Classic]] during the [[Invasion of Naboo]], and was able to stay among the leaders for the majority of the race. Guo held second position during the second lap, right behind the crowd favorite, [[Sebulba]].
+
+However, maintaining a position behind the [[Dug]] turned out to be the Bardottan's undoing, as Sebulba tossed a piece of scrap behind him which lodged into one of Guo's massive [[engine]] intakes. The engine jammed and exploded, causing the racer to crash. Guo's cockpit spun around wildly, but upright, as the debris settled. Sebulba later crashed in the same stretch of land Guo did during the end of the third lap, and the Boonta was won by the [[human]] contestant [[Anakin Skywalker]].
+
+==Behind the scenes==
+{{Quote|First time, big time... Mars Guo!|Fode introduces Mars Guo in a deleted scene|Star Wars: Episode I The Phantom Menace}}
+Mars Guo was created for the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]. Although Guo was a puppet for his close up shots, distant shots that contained Guo portrayed the character as being computer generated, although the model wasn't very detailed. A far more detailed digital model was created for an extended grid sequence that was included on the DVD release of the film. However, the digital model had different colored eyes than the puppet.
+[[File:Mars guo cutscene.jpg|thumb|right|Guo as he appeared in the deleted scenes]]
+
+In the [[Star Wars Legends|''Star Wars'' Legends]] continuity, Guo's species was originally identified as a [[Phuii]]. However, the ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' television series re-identified the species as Bardottans.
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*''[[Star Wars Journeys: The Phantom Menace]]''
+*''[[Star Wars Journeys: Beginnings]]''
+
+==Sources==
+*{{SWSB|36|Boonta Eve Classic}}
+*{{SW|url=explore/the-clone-wars/ep608/#!/about|text="The Disappeared, Part I" - ''The Clone Wars'' Episode Guide}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Guo, Mars}}
+[[Category:Bardottans]]
+[[Category:Males]]
+[[Category:Podracers]]

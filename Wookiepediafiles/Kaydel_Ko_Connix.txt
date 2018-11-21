@@ -1,0 +1,116 @@
+{{Eras}}
+{{Update|[[Star Wars: The Last Jedi: Expanded Edition]]}}
+{{Character
+|type=Resistance
+|image=[[File:Connix TLJ.png]]
+|name=Kaydel Ko Connix
+|homeworld=[[Dulathia]]<ref name="TLJVD">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="Connix">{{Databank|kaydel-connix|Kaydel Connix}}</ref>
+|gender=[[Sexes|Female]]<ref name="Connix" />
+|height=
+|mass=
+|hair=[[Color|Blond]]<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+|eyes=Brown<ref name="Episode VII" />
+|skin=Light<ref name="Episode VII" />
+|cyber=
+|era=
+|affiliation=*[[Resistance]]<ref name="Connix" />
+**[[Resistance army]]<ref name="TLJVD" />
+**[[Fleet Command (Resistance)|Fleet Command]]<ref name="TLJVD" />
+|masters=
+|apprentices=}}
+{{Quote|General, are you seeing this?|Kaydel Ko Connix, to Leia Organa during the Battle of Starkiller Base|Star Wars: Episode VII The Force Awakens}}
+'''Kaydel Ko Connix''' was a [[human]] [[Sexes|female]] who lived during the [[New Republic Era|era]] of the [[New Republic]] as well as the subsequent [[First Order–Resistance war|war]] between the [[First Order]] and the [[Resistance]]. [[Reproduction|Born]] on [[Dulathia]], Connix ultimately joined the Resistance&mdash;a [[Resistance military|paramilitary organization]] that [[Cold war|opposed]] the First Order&mdash;and was stationed at the [[D'Qar]] [[Resistance base|headquarters]] by [[34 ABY]]. Serving under the command of [[General]] [[Leia Organa]], a veteran of the [[Alliance to Restore the Republic|Rebel Alliance]] and leader of the Resistance, Connix worked as an operations [[controller]] in [[Fleet Command (Resistance)|Fleet Command]], coordinating communications between [[T-70 X-wing starfighter|T-70 X-wing]] [[starfighter]] [[pilot]]s and their [[commander]]s.
+
+Connix's service as an operations controller resulted in her promotion to the [[Military rank|rank]] of [[lieutenant]] following the Resistance victory at the [[Battle of Starkiller Base]]. Anticipating the First Order's retaliatory strike against the Resistance, Connix was entrusted with supervising the [[Evacuation of D'Qar|evacuation]] of the D'Qar base. It was her responsibility to prioritize supplies and ensure an orderly retreat. She narrowly escaped the [[planet]] in a [[shuttle]] just prior to the base's destruction, an act carried out by [[First Order Navy]]'s [[Mandator IV-class Siege Dreadnought|''Mandator IV''-class Siege Dreadnought]] ''[[Fulminatrix]]''. She then resumed her responsibilities as a [[sensor]] ops [[officer]] aboard the [[MC85 Star Cruiser]] [[Raddus (MC85 Star Cruiser)|''Raddus'']] while also retaining her new rank.
+
+During the [[Attack on the Resistance fleet|flight]] of the [[Resistance navy|Resistance fleet]] from the First Order, Connix was one of several [[Resistance officer]]s who supported [[Captain]] [[Poe Dameron]]'s [[Treason|mutiny]] against [[Vice Admiral]] [[Amilyn Holdo]]. Their efforts to secure the [[Bridge (starship)|bridge]] ultimately failed, however. Dameron was [[Stun|incapacitated]] by Organa herself, causing Connix and the other mutineers to surrender. Despite their actions on the ''Raddus'', Connix and Dameron remained in service to the Resistance during the [[Battle of Crait]]. They were among the few survivors who boarded the [[YT-1300 light freighter]] ''[[Millennium Falcon]]'' in order to escape from the [[First Order military|forces]] of the First Order.
+
+==Biography==
+{{Quote|Punch it!|Kaydel Ko Connix, during the evacuation of D'Qar|Star Wars: Episode VIII The Last Jedi}}
+[[File:TFA Resdox behind Connix.jpg|thumb|left|300px|Connix earned a promotion to the rank of lieutenant as a result of her service during the Starkiller crisis.]]
+Kaydel Ko Connix was a [[Homeworld|native]] of [[Dulathia]].<ref name="TLJVD" /> As [[Politics|political]] relations [[Cold war|worsened]] between the [[New Republic]] and the [[First Order]], the latter was opposed by [[Prince]]ss [[Leia Organa]], who founded a [[Resistance military|private military group]] known as the [[Resistance]] to monitor the First Order's activities.<ref name="Resistance">{{Databank|the-resistance|The Resistance}}</ref> Connix ultimately joined the [[Resistance navy|naval branch]] of the Resistance and was assigned to [[Fleet Command (Resistance)|Fleet Command]].<ref name="TLJVD" /> By [[34 ABY]], approximately three [[Standard decade|decades]] after the [[Battle of Endor]],<ref name="GA">''[[Star Wars: Galactic Atlas]]''</ref> Connix was serving as an operations [[controller]] under the direct command of Organa,<ref name="TLJVD" /> who&mdash;in her capacity as leader of the Resistance&mdash;assumed the [[Military rank|rank]] of [[general]].<ref name="Episode VII" />
+
+Following the [[Hosnian Cataclysm]] and the [[Battle of Takodana]], the Resistance [[Battle of Starkiller Base|attacked]] [[Starkiller Base]] in the hope of destroying the First Order's [[superweapon]].<ref name="Episode VII" /> During the battle, Connix coordinated communications<ref name="Connix" /> between the [[T-70 X-wing starfighter]] [[pilot]]s and their [[commander]]s from the [[Resistance base]] on the [[planet]] [[D'Qar]].<ref name="Episode VII" /> After the destruction of Starkiller Base, Connix was promoted to the rank of [[lieutenant]] in recognition of her service as an operations controller as well as the need for an [[officer]] to oversee the [[Evacuation of D'Qar|D'Qar evacuation]]. In this capacity, she was tasked with prioritizing supplies and coordinating an organized retreat.<ref name="TLJVD" /> She was still managing the evacuation from the planet's surface when the [[First Order Navy]] invaded the [[Ileenium system]]. The base was destroyed from [[orbit]] by the [[Mandator IV-class Siege Dreadnought|''Mandator IV''-class Siege Dreadnought]] ''[[Fulminatrix]]'', although Connix managed to escape just in [[time]] on one of the last departing [[shuttle]]s. After boarding the [[MC85 Star Cruiser]] [[Raddus (MC85 Star Cruiser)|''Raddus'']], she returned to her duties as an operations controller but was allowed to retain her new rank.<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+
+[[File:LieutenantKaydelConnix.jpeg|thumb|right|250px|Following the destruction of Starkiller Base, Connix oversaw preparations to evacuate the Resistance from D'Qar.]]
+While the Resistance [[fleet]] [[Attack on the Resistance fleet|fled]] from the First Order [[warship]]s, including [[Supreme Leader]] [[Snoke]]'s [[flagship]] ''[[Supremacy]]'', [[Captain]] [[Poe Dameron]] enlisted Connix's assistance for an [[Mission to Canto Bight|unauthorized mission]]&mdash;to help [[Finn]] and [[Rose Tico]] escape from the ''Raddus'' so that they could ultimately disable the First Order's [[hyperspace]] [[Hyperspace tracker|tracking system]]. Using her position on the [[starship]]'s [[Bridge (starship)|bridge]], the lieutenant ensured that their departure went unnoticed by [[Vice Admiral]] [[Amilyn Holdo]]. After discovering Holdo's intention to evacuate the crew of the ''Raddus'' on several [[transport]]s, Connix and several [[Resistance officer]]s supported Dameron's [[Treason|mutiny]] against Holdo. With the [[admiral]] and her supporters detained at the point of a [[blaster]], Connix and Dameron seized control of the bridge but were ultimately confronted by Organa. Using the [[stun]] setting on her [[blaster pistol]], the general shot Dameron and accepted Connix's surrender.<ref name="Episode VIII" />
+
+Despite her role in the conspiracy against Holdo, Connix continued to serve the Resistance and was among the survivors who took control of an abandoned [[Alliance to Restore the Republic|Rebel Alliance]] [[Crait outpost|outpost]] on [[Crait]]. The ensuing [[Battle of Crait|battle]] on Crait marked the near destruction of the Resistance. However, Connix was able to evacuate the outpost along with Organa, Dameron, and several other survivors who used the [[YT-1300 light freighter]] ''[[Millennium Falcon]]'' to escape from the [[First Order army|armies]] of the First Order.<ref name="Episode VIII" />
+
+==Personality and traits==
+{{Quote|She's running away!''"<br />"''No she isn't.|Kaydel Ko Connix and Poe Dameron, witnessing Amilyn Holdo's sacrifice|Star Wars: Episode VIII The Last Jedi}}
+[[File:BillieLourd1.jpg|thumb|left|200px|Connix sporting blonde buns and a junior controller's uniform circa 34 ABY.]]
+Kaydel Ko Connix was a [[human]] [[Sexes|female]]<ref name="Connix" /> who had light skin, [[Color|brown]] [[eye]]s, and blond [[hair]] which she wore up in two buns&mdash;one on either side of her head.<ref name="Episode VII" /> Her service as an operations controller was viewed favorably by her superiors, resulting in Connix's rise to the rank of lieutenant.<ref name="TLJVD" /> However, while serving under Amilyn Holdo, Connix sympathized with Poe Dameron's misgivings about the Vice Admiral's leadership style. Her support for Dameron led Connix to engage in activities ranging from conspiracy<ref name="Connix" /> to open rebellion against Holdo. After abandoning the ''Raddus'' during the First Order's assault on the Resistance fleet, Connix watched as Holdo altered the ship's course and assumed that the Vice Admiral was trying to save herself. In reality, Holdo was sacrificing herself in order to destroy Supreme Leader Snoke's [[Mega-class Star Dreadnought|Star Destroyer]], the ''Supremacy''.<ref name="Episode VIII" />
+
+==Equipment==
+As an officer of the Resistance, she wore a brown [[Clothing|junior controller's uniform]], a [[comlink]] [[headset]],<ref name="TFAVD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref> and was armed with a blaster [[pistol]].<ref name="Connix" /> After the destruction of Starkiller Base, Connix's uniform was changed to a brown officer uniform that included her lieutenant [[Resistance rank badge|rank badge]].<ref name="TLJVD" />
+
+==Behind the scenes==
+[[File:Kaydel Ko Connix and Leia Organa.png|thumb|right|250px|Billie Lourd is the daughter of Carrie Fisher, the actress who portrayed Princess Leia Organa.]]
+Kaydel Ko Connix was played by [[Billie Lourd]] in [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], which was released in North America on [[December 18]], [[2015]].<ref name="DM">{{Cite web|url=http://www.dailymail.co.uk/tvshowbiz/article-3353544/Carrie-Fisher-s-daughter-Billie-Lourd-s-character-Force-Awakens-revealed-Princess-Leia-hairdo.html|title=FIRST LOOK: Carrie Fisher's daughter Billie Lourd's character in The Force Awakens revealed... with a VERY Princess Leia hairdo|publisher=''Mail Online''|last=McDonagh|first=Ross|date=December 10, 2015|accessdate=December 20, 2015}}</ref> In real life, Lourd is the daughter of actress [[Carrie Fisher]], who played Princess Leia Organa in the ''[[Star Wars]]'' saga. The character was listed as "Lieutenant Connix" in the film's end credits, but was identified as "Kaydel Ko" in ''[[Star Wars: The Force Awakens: The Visual Dictionary]]'', a reference book written by [[Pablo Hidalgo]] and released in conjunction with the film.<ref name="TFAVD" />
+
+Lourd originally auditioned for the main role of Rey, but lost out to [[Daisy Ridley]].<ref name="Billie As Rey">{{Cite web|url=http://ew.com/movies/2017/09/13/billie-lourd-rey-star-wars-carrie-fisher/|title=Carrie Fisher's daughter, Billie Lourd, auditioned for ''Star Wars'' Rey role|first=Christian|last=Holub|work=[[Wikipedia:Entertainment Weekly|Entertainment Weekly]]|date=September 13, 2017}}</ref> As such, this lead director [[J.J. Abrams]] to create Connix's character specifically for Lourd.<ref name="J.J. Father of Kaydel">{{Cite web|url=https://www.elitedaily.com/p/what-is-billie-lourds-role-in-the-last-jedi-kaydel-ko-connix-will-be-back-7218368|title=What Is Billie Lourd's Role In 'The Last Jedi'? Kaydel Ko Connix Will Be Back|first=Dylan|last=Kickham|work=Elite Daily|date=December 6, 2017}}</ref>
+
+Lourd appeared again as Lieutenant Connix in the [[2017]] film [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']], with a larger role than her appearance in ''The Force Awakens''.<ref name="Lourd Episode VIII">{{Cite web|url=http://www.slashfilm.com/billie-lord-star-wars-episode-8/|title=Billie Lourd Will Return With A Larger Role In 'Star Wars Episode 8'|first=Fred|last=Topel|work=/Film|date=March 13, 2016|accessdate=March 13, 2016}}</ref> She is referred to as "Kaydel Connix" in ''[[Star Wars: The Last Jedi: The Visual Dictionary]]''.<ref name="TLJVD" />
+
+==Appearances==
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*''[[The Force Awakens Read-Along Storybook and CD]]'' {{Po}}
+*''[[The Force Awakens, Part V]]''
+*''[[The Force Awakens, Part VI]]''
+*''[[Star Wars: The Force Awakens Beginner Game]]'' {{Po}}
+*''[[Poe Dameron: Flight Log]]'' {{Po}}
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[Star Wars: The Last Jedi: A Junior Novel]]''
+*''[[The Last Jedi: Rose and Finn's Secret Mission]]'' {{Po}}
+*''[[The Last Jedi Adaptation 1]]''
+*''[[The Last Jedi Adaptation 4]]''
+*''[[The Last Jedi Adaptation 5]]''
+*''[[Poe Dameron 28: The Awakening, Part III]]'' {{Flash}}
+*''[[Poe Dameron 31: The Awakening, Part VI]]''
+*[[Star Wars: Episode IX|''Star Wars'': Episode IX]]
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]'' {{1stID|Kaydel Ko}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]'' {{Po}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{SW|url=video/official-trailer-star-wars-the-last-jedi|text=Star Wars: The Last Jedi Official Trailer}}
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*''[[Star Wars: The Last Jedi: Incredible Cross-Sections]]''
+*''[[Star Wars: The Last Jedi: Ultimate Sticker Collection]]''
+*''[[Star Wars: The Last Jedi: Heroes of the Galaxy]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|amilyn-holdo|Amilyn Holdo|archivedate=20180407184111}}
+*{{Databank|kaydel-connix|Kaydel Connix}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{WP|Lieutenant Connix}}
+
+{{Interlang
+|cs=Kaydel Ko Connix
+|de=Kaydel Ko Connix#kanon
+|el=Κέιντελ Κο Κόνιξ
+|es=Kaydel Ko Connix
+|fr=Kaydel Ko Connix
+|it=Kaydel Ko Connix
+|ja=ケイデル・コー・コニックス
+|ko=케이델 코 코닉스
+|pl=Kaydel Ko Connix
+|ru=Кайдел Ко Конникс
+|uk=Кайдел Ко Конікс
+}}
+
+{{DEFAULTSORT:Connix, Kaydel Ko}}
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Resistance Military officers]]

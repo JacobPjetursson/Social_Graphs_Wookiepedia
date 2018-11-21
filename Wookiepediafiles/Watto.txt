@@ -1,0 +1,103 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:WattoHS.jpg]]
+|name=Watto
+|homeworld=[[Toydaria]]<ref name="Ultimate SW">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Toydarian]]<ref name="tpm">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|gender=[[Sexes|Male]]<ref name="tpm" />
+|height=1.37 [[meter]]s<ref name="Databank">{{Databank|Watto|Watto|archivedate=20140715092325}}</ref>
+|mass=
+|hair=
+|eyes=[[Color|Orange]]<ref name="tpm" />
+|skin=Blue<ref name="tpm" />
+|cyber=
+|era=
+|affiliation=*[[Watto's shop]]<ref name="tpm" />
+*[[Mos Espa]]<ref name="Ultimate SW" />
+|masters=
+|apprentices=}}
+{{Quote|Mind tricks don't work on me, only money.|Watto|Star Wars: Episode I The Phantom Menace}}
+'''Watto''' was a [[Sexes|male]] [[Toydarian]] [[junk dealer]]/[[human]] trafficker, who owned a [[Watto's shop|shop]] in [[Mos Espa]], [[Tatooine]]. He was the owner of [[Shmi Skywalker Lars|Shmi Skywalker]] as well as her son, [[Anakin Skywalker]], the young [[Youngling|boy]] who would grow up to become both a revered [[Jedi Knight]] and a feared [[Sith Lord]] known as [[Darth]] Vader.
+
+==Biography==
+Watto started his life as a soldier on [[Toydaria]]. However, he left Toydaria after he suffered an injury. He then went to Tatooine, where he watched Jawas sell used goods and decided to start his own business.<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+
+Watto then became a junk dealer living in [[Mos Espa]], [[Tatooine]]. Owner of a small [[Watto's shop|shop]], Watto won two slaves, [[Shmi Skywalker Lars|Shmi]] and her son, [[Anakin Skywalker|Anakin]], from [[Gardulla Besadii the Elder|Gardulla]] the [[Hutt]] in a bet. Watto was an inveterate gambler, and when he discovered Anakin's natural [[podracing]] abilities, he sponsored the boy in several Podraces. Despite this, Watto often bet against Anakin, who was talented but lacked experience. In 32 BBY a man named [[Qui-Gon Jinn]] showed up to his store looking for parts for his ship. Qui-Gon didn't have enough money, so the next day Qui-Gon confronted Watto and told him that he wanted to enter Anakin in the Boonta Eve Podrace in exchange for parts for his ship. Watto agreed and entered Anakin but Watto betted on Sebulba. Qui-Gon place a bet for Anakin’s freedom, and when Anakin won he left with Qui-Gon to become a Jedi.
+
+Years later, Watto sold Shmi to the [[moisture farm]]er [[Cliegg Lars]].<ref name="aotc">[[Star Wars: Episode II Attack of the Clones|''Star Wars:'' Episode II ''Attack of the Clones'']]</ref>
+
+Once Anakin returned to Tatooine, Watto asked him if he could help with some "deadbeats who owe me a lot of money." After being asked about Shmi, Watto tried to help Anakin find his mother, giving him all of the information he knew about Shmi's new life and [[Lars moisture farm|location]].<ref name="aotc" />
+
+===Age of the Empire===
+During his exile on Tatooine, [[Obi-Wan Kenobi]] purchased a humidifier from Watto at an inflated price. After Kenobi was [[Rescue of Princess Leia|killed]] by [[Darth]] Vader on the [[DS-1 Orbital Battle Station|Death Star]], but before he became a [[Force spirit]], Kenobi found himself in a vision of his [[Ben Kenobi's home|hut]] on Tatoonie. He noted that the humidifier was not in the vision, among other recent additions that were missing. He then realized the vision was of an earlier time in his hut, from around three years into his exile.<ref name="Time">{{Shortstory|story=Time of Death|book=From a Certain Point of View}}</ref>
+
+{{Char-stub}}
+
+==Personality and traits==
+{{Quotetrans|Outlanders. They think we know nothing.|Watto|Star Wars: Episode I The Phantom Menace}}
+Watto was proud of his business and distrusting of [[Galactic Republic|Republic]] [[credit]]s, which he felt weren't "real" enough for the tough economy of an [[Outer Rim Territories|Outer Rim Territory]] [[planet]] like Tatooine. When Qui-Gon Jinn attempted a [[mind trick]] on him in order to get him to accept 20,000 credits in exchange for a [[T-14 hyperdrive generator]], he shrugged it off, telling Jinn that as a [[Toydarian]], mind tricks didn't work on him, "only money." Watto was a heavy gambler, and later lost the hyperdrive and Anakin in a bet he had wagered against the [[Jedi]].<ref name="tpm" />
+
+==Behind the scenes==
+[[File:Watto-SWE.png|left|thumb|170px|Watto as seen in ''The Phantom Menace'']]
+Watto was portrayed and voiced by actor [[Andrew Secombe]] in the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] and its [[2002]] sequel [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']].<ref name="tpm" /><ref name="aotc" /> Secombe played Watto on set, to give animators a reference for lighting and eye-line.<ref name="e1ig">''[[Star Wars: Episode I Insider's Guide]]''</ref>
+
+Conceived by ''[[Star Wars]]'' creator [[George Lucas]], Watto's design was more avian in nature, featuring plumage and a beak. Later incarnations of the Toydarian featured a cigar and tentacles.<ref name="db">{{DB|location|wattosshop|Watto's Shop}}</ref> When artist [[Terryl Whitlatch]] began designing the character, she began with an ugly, "cherub-like" design. Lucas suggested that he be given webbed, duck-like feet.<ref name="e1ig" /> Eventually, the basis for the character's face was derived from an early concept painting of the [[Neimoidian]] race by concept artist [[Doug Chiang]], particularly the hooked trunk and the crooked teeth. As the character spoke frequently, animator [[Rob Coleman]] found lip-syncing Watto's lines with Secome's delivery of the dialog to be difficult. To solve the issue, Coleman had part of Watto's teeth chipped away, so the character could speak out the side of his mouth, making the syncing process much easier. Sound designer [[Ben Burtt]] recorded himself opening and closing an umbrella to make the sound of Watto's wings flapping.<ref name="db" />
+
+==Appearances==
+*{{IDWAdventuresCite|6|[[Tales from Wild Space: Podracer's Rescue]]}}
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*''[[Star Wars Journeys: The Phantom Menace]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
+*{{Shortstory|story=Time of Death|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Mo}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]'' {{Mo}}
+
+===Non-canon appearances===
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+*{{Droid Tales|Exit from Endor}} {{Flash}}
+*{{Droid Tales|Mission to Mos Eisley (episode)|Mission to Mos Eisley}} {{Flash}}
+*{{Droid Tales|Gambit on Geonosis}} {{Flash}}
+*''[[LEGO Star Wars: The Force Awakens]]'' {{C|DLC}}
+
+==Sources==
+*{{SWE|technology|anakinpodracer|Anakin Skywalker's Podracer}}
+*{{SWE|technology|pitdroid|pit droid}}
+*{{SWE|characters|sebulba|Sebulba}}
+*{{SWE|characters|watto|Watto}}
+*{{SW|text=''Star Wars'': Episode I ''The Phantom Menace''|url=films/star-wars-episode-i-the-phantom-menace}}
+*{{SW|text=''Star Wars'': Episode II ''Attack of the Clones''|url=films/star-wars-episode-ii-attack-of-the-clones}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Ships of the Galaxy]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Aliens of the Galaxy]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Darth Vader: Sith Lord]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|anakin-skywalker|Anakin Skywalker|archivedate=20170706054025}}
+*{{Databank|anakin-skywalkers-podracer|Anakin Skywalker's Podracer|archivedate=20170706050653}}
+*{{Databank|gardulla-the-hutt|Gardulla the Hutt|archivedate=20161004000115}}
+*{{Databank|Watto|Watto|archivedate=20140715092325}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+{{Interlang
+|ja=ワトー/正史
+|ko=와토
+|ru=Уотто/Канон
+|es=Watto
+}}
+
+[[Category:Business owners and executives]]
+[[Category:Junk dealers]]
+[[Category:Males]]
+[[Category:Tatooinians]]
+[[Category:Toydarians]]

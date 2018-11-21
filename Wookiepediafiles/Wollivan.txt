@@ -1,0 +1,59 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Wollivan CT.png]]
+|name=Wollivan
+|homeworld=
+|birth=
+|death=
+|species=[[Blarina]]<ref name="TFAVD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+|gender=[[Sexes|Male]]<ref name="TFAVD" />
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="TFAVD" />
+|skin=Pink<ref name="TFAVD" />
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+'''Wollivan''' was a [[Sexes|male]] [[Blarina]] who lived approximately thirty [[Standard year|years]] after the [[Battle of Endor]]. He worked as an interstellar [[scout]] and [[hyperspace]] trailblazer; he sold valuable astrogation data and scavenged trinkets to [[smuggler]]s and traders for a living, though he would sometimes gamble his products away. Wollivan often spent time in a [[Maz Kanata's castle|castle]] that belonged to the [[pirate]] [[Maz Kanata]].
+
+==Biography==
+[[File:Dramatic Wollivan.jpg|thumb|left|200px|Wollivan and other patrons near the droid ball fighting table]]
+When [[Han Solo]] entered the castle of Maz Kanata, the pirate took notice of this and called out to him. Wondering at whom Kanata was shouting, Wollivan spun around in his seat to catch a glimpse of Solo. Shortly after Solo's arrival, Wollivan and several other patrons of Maz Kanata's castle rushed outside in order to witness the [[Hosnian Cataclysm|destruction]] of the [[Hosnian system]] by the [[First Order]]'s [[Starkiller Base]] [[superweapon]].<ref name="TFA">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+
+==Personality and traits==
+Wollivan had [[Color|pink]] skin and black [[eye]]s. He wore a mottled, brown [[Blarina vac-suit]]<ref name="TFAVD" /> and used other species' inability to distinguish individual Blarinas to his advantage; he often claimed to be a different member of his large family to avoid trouble.
+
+==Behind the scenes==
+While he appeared briefly in [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], Wollivan was first revealed in an exclusive ''[[Wikipedia:Vanity Fair|Vanity Fair]]'' [http://www.vanityfair.com/hollywood/2015/05/star-wars-force-awakens-photos article] published seven months before the film's release in [[2015]].<ref name="Vanity Fair">{{Cite web|url=http://www.vanityfair.com/hollywood/2015/05/star-wars-force-awakens-photos|title=Adam Driver and Lupita Nyong'o's Characters Revealed in Exclusive Star Wars: The Force Awakens Photos|publisher=''Vanity Fair''|last=Leibovitz|first=Annie|date=May 4, 2015|accessdate=May 4, 2015}}</ref> Wollivan was not identified in this article, nor was his name revealed during his brief appearance onscreen. Instead, he was given his name in ''[[Star Wars: The Force Awakens: The Visual Dictionary]]'', a reference book written by [[Pablo Hidalgo]].<ref name="TFAVD" />
+
+Wollivan was portrayed by [[Warwick Davis]], who has played several other characters in the ''[[Star Wars]]'' saga, including [[Wicket W. Warrick]], [[Wald]], and [[Weazel/Legends|Weazel]]. Like the other Star Wars characters portrayed by Warwick, his name starts with "W".
+
+==Appearances==
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]'' {{1stID}}
+*{{SWYoutube|video=J5lknh4bCSCk|text=The Creatures, Droids and Aliens of Star Wars: The Force Awakens <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}
+*''[[Star Wars: Aliens of the Galaxy]]''
+*{{Databank|wollivan|Wollivan|archivedate=20161006215542}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Wollivan#kanon
+|ja=ウォリヴァン
+|pl=Wollivan
+|ru=Уолливан
+}}
+
+[[Category:Blarina]]
+[[Category:Males]]
+[[Category:Scouts]]

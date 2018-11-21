@@ -1,0 +1,191 @@
+{{Eras}}
+{{Update|[[Star Wars: Darth Vader (Marvel)|Star Wars: Darth Vader]], [[The Misadventures of Triple-Zero and Beetee]], [[Star Wars: Doctor Aphra]]}}
+{{Youmay|the protocol droid|the planet [[Coruscant]], whose galactic coordinates were 0,0,0, or the [[Star Wars Legends|''Star Wars'' Legends]] novel ''[[Republic Commando: Triple Zero]]''}}
+{{Droid
+|image=[[File:000-Doctor Aphra 1-Rod Reis.png]]
+|name=0-0-0
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=[[Cybot Galactica]] (chassis)<ref name="Darth Vader 20">''[[Darth Vader 20: End of Games, Part I]]''</ref>
+|line=
+|model=[[3PO unit]]<ref name="Vader 3">''[[Darth Vader 3: Vader, Part III]]''</ref>
+|class=[[Protocol droid]]<ref name="Vader 3" />
+|degree=
+|cost=
+|length=
+|width=
+|height=1.7 [[meter]]s<ref name="Protocol Databank">{{Databank|protocol-droid|Protocol Droid|archivedate=20171218102549}}</ref>
+|mass=
+|gender=[[Sexes|Masculine programming]]<ref name="Vader 3" />
+|sensor=[[Color|Red]]<ref name="Vader 3" />
+|plating=Dark silver<ref name="Vader 3" />
+|armament=
+|equipment=[[Triple-Zero protocol personality matrix]]<ref name="Vader 3" />
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="Vader 3" />
+**[[Tarkin Initiative]]<ref name="Vader 3" />
+*[[Sith|Sith Order]]<ref name="Vader 4">''[[Darth Vader 4: Vader, Part IV]]''</ref>
+*[[Son-tuul Pride]]<ref name="Doctor Aphra 13">''[[Doctor Aphra 13: The Enormous Profit, Part V]]''</ref>}}
+{{Quote|I'm 0-0-0 or Triple-Zero, if you prefer. I'm a protocol droid, specialized in etiquette, customs, translation and torture, ma'am.|0-0-0 introduces himself to Doctor Aphra|Darth Vader 3: Vader, Part III}}
+'''0-0-0''', also known simply as '''Triple-Zero''', was a [[protocol droid]] designed to specialize in etiquette, customs, translation and [[torture]].
+
+==Biography==
+===Early life===
+Nearly a century before the [[Galactic Civil War]], [[Wat Tambor]] acquired the [[Triple-Zero protocol personality matrix]] and became obsessed with it. His fascination was short-lived, however, since the [[Skakoan]] became scared of it and sent it to quarantine.<ref name="Doctor Aphra 16">''[[Doctor Aphra 16: Remastered, Part III]]''</ref>
+
+===The Sith Lord and the archaeologist===
+====Reactivated and Vader seeks the truth====
+{{Quote|Override imprint 'master' on all individuals present. Codename: Aphra and codename: Vader.''"<br />"''Ah, better not shake hands, then. May route a fatal shock through my palm. Old habits die hard and all that. And in my experience they certainty die harder than most organics, ma'am.|Aphra and Triple-Zero|Darth Vader 3: Vader, Part III}}
+[[File:Triple zero born anew.jpg|thumb|left|250px|Aphra inserts the personality matrix into a protocol droid; thereby Triple-Zero was born anew.]]
+
+A few [[Standard week|weeks]] after the [[Battle of Yavin]],<ref name="Vader 7 says a thing">In ''[[Darth Vader 7: Shadows and Secrets, Part I]]'', [[Chelli Lona Aphra]] says "It's been dead for weeks." As ''Star Wars: Darth Vader 7: Shadows and Secrets, Part I'' takes place very soon after ''[[Darth Vader 3: Vader, Part III]]'', we can deduce that the cited time span take place several weeks after the [[Battle of Yavin]].</ref> [[Doctor]] [[Chelli Lona Aphra|Aphra]], a rogue [[archaeologist]], who specialized in [[droid]] and weapons technologies, traveled to [[Quarantine World III]] in order to [[Theft of the Triple-Zero protocol personality matrix|steal]] the Triple-Zero protocol personality matrix that she intended to use to reactivate Triple-Zero who could awaken a [[BT-1 assassin droid]] she had salvaged some time before, on the orders of the [[Droid Gotra]]. She eventually succeeded, after the [[Sith Lord]] [[Anakin Skywalker|Darth Vader]] intervened. Aphra brought Vader aboard her ship, the ''[[Ark Angel]]'', where Vader hired her to help him [[Secret mission to Geonosis|acquire]] an army of [[battle droid]]s<ref name="Vader 3" /> to track down a [[Rebel pilot]], and an Imperial [[agent]].<ref name="Vader 1">''[[Darth Vader 1: Vader]]''</ref>
+
+Aphra inserted the personality matrix into a [[Color|silver]] protocol droid's body and turned it on. Triple-Zero awoke and introduced himself as a protocol droid specialized in etiquette and [[torture]], as Aphra imprinted herself and Vader as Triple-Zero's new masters. Triple-Zero thought better of shaking the hands of his new masters, thinking he may accidentally kill them with an electric shock, so he instead inquired whether he could be of assistance. Aphra told him he could awaken [[BT-1]], or Bee Tee, as he spoke the [[R&D languages]] that only droids associated with the Imperial [[Tarkin Initiative]] spoke. Triple-Zero did so, and Bee Tee instantly took hostility to Vader and Aphra, but Triple-Zero berated him for wanting to kill their new masters and shut him down. Soon thereafter, Aphra gave the two specialized [[assassin droid]]s to Vader and prepared to [[Hyperspace|travel]] to [[Geonosis]], a [[desert]] world in the [[Outer Rim Territories|Outer Rim]], to steal a droid [[factory]] from a [[Geonosian]] [[queen]].<ref name="Vader 3" />
+
+[[File:Bt burns the droids.jpg|thumb|right|250px|The assassin droids burn the battle droids on Geonosis.]]
+Once on Geonosis, Aphra sent Triple-Zero and Bee Tee into the [[Karina the Great's lair|queen's lair]] to navigate the most direct route to the queen's chamber so she and Vader could follow. Farther into the [[Cave|tunnels]], the two droids came across other [[Droid worker|droids]]: [[B1 battle droid]]s,<ref name="Vader 4" /> that were used extensively during the [[Clone Wars]] that occurred about two decades before.<ref name="The Clone Wars">{{TCW|Star Wars: The Clone Wars (TV series)|TV series}}</ref> Triple-Zero was very surprised at the droids, and intended to try and communicate with them in their native [[language]], [[Geonosian hive-mind]], but had nothing to say. So Bee Tee burned them to death with his built-in [[flamethrower]], while Triple-Zero realized he did have something to say: He laughed at them as they burned and died. Soon, the droids reached the [[Karina the Great (Age of the Empire)|queen's]] chamber and waited for Vader and Aphra to arrive before entering to confront the [[alien]] queen.<ref name="Vader 4" /> The queen was angry at the unexpected visitors. Vader ignored her, however, and began the heist. He cleared the queen and the battle droids from atop the factory and ordered Bee Tee to open fire. Meanwhile, the ''Ark Angel'' remotely blew a hole in the ceiling of the lair that allowed Vader's ship, the [[Naboo Royal Starship]], to lower a crane through. The crane lifted the factory out through the gap, while Triple-Zero held on to Bee Tee, who blasted out of the cave using his [[Rocket booster|booster rockets]].<ref name="Vader 4" />
+
+Later, aboard Vader's J-type 327 Nubian, Bee Tee and Aphra got the droid factory working. It created one [[BX-series droid commando]] as a test. Triple-Zero examined the droid and determined it had "teething issues," and suggested to his masters that his enhancement methods could be used to improve the droid factory's functionality. Shortly after, while Aphra and Vader were preoccupied, Triple-Zero answered a message from the [[Wookiee]] [[bounty hunter]] [[Black Krrsantan]]<ref name="Vader 4" /> who Vader had hired some time before.<ref name="Vader 1" /> Triple-Zero informed Vader of the Wookiee's arrival, who brought aboard his [[bounty]]: the Imperial agent. The agent insisted that if Vader tortured him, he would get none of the information Vader wanted. Vader agreed, and sent Triple-Zero to interrogate the agent. Triple-Zero was satisfied at having someone to torture, and set to work.<ref name="Vader 4" />
+
+Later, Triple-Zero managed to extract all information from the agent. Including his name: [[Cylo]], the location of his [[Cylo's research base|research base]]: within a [[nebula]] in the Outer Rim, and his commission from the [[Galactic Emperor|Emperor]]: to create apprentices to replace Vader as the Emperor's chief enforcer. Triple-Zero reported all to [[Lord]] Vader, who ordered course be set to the research base.<ref name="Vader 4" />
+
+[[File:Attack the base triple zero.jpg|thumb|left|280px|Triple-Zero inquires as to whether he had been an adequate distraction to his master, Darth Vader.]]
+
+Vader's team took his J-type 327 Nubian starship to the base, while the factory produced two [[platoon]]s worth of commando droids. Aphra fired an [[ion charge]] that disabled the base's systems and confused the [[soldier]]s stationed within. Vader, meanwhile, ejected into space and boarded the base. Aphra landed the starship on the base and Triple-Zero and Bee Tee cut through a [[blast door]] to serve as distractions to the soldiers so Vader could vent them into space when he cut through the base's [[Whale-ship|organic]] walls. Triple-Zero inquired as to whether he had served adequately as a distraction. Vader, however, ignored the protocol droid, leaving Triple-Zero to lament to Bee Tee that he had had more grateful masters in the past&mdash;though it hadn't stopped him from draining their [[blood]]. The droid commandos arrived and went off with Vader to subdue all resistance, which left the two assassin droids to return to the ship and wait for Vader's return with Aphra.<ref name="Vader 5">''[[Darth Vader 5: Vader, Part V]]''</ref>
+
+Vader remained in the base for some time, before returning without the commando droids. He subsequently [[Duel in Ben Kenobi's home|learned]] the name of the Rebel pilot, [[Luke Skywalker|Skywalker]], and set out to Skywalker's [[homeworld]] of [[Tatooine]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref> to learn all he could of the boy.<ref name="Vader 6">''[[Darth Vader 6: Vader, Part VI]]''</ref> Vader's team accompanied him, and took the ''Ark Angel''. Once on Tatooine, Vader investigated the [[Lars homestead|homestead]]<ref name="Vader 7">''[[Darth Vader 7: Shadows and Secrets, Part I]]''</ref> where Skywalker had grown up. It had been [[Secret mission to Tatooine|burned]] by Imperial troops<ref name="Episode IV">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref> weeks before,<ref name="Vader 7 says a thing" /> and Triple-Zero was disturbed that droids had been slaughtered in the attack. They next traveled to another [[Ben Kenobi's home|home]] that Vader entered alone. He so reemerged, so Aphra detonated a [[molecular purge bomb]] that destroyed all evidence that anyone had ever lived there. Vader left right after to continue his duties within the Empire, while Aphra and the droids took the ''Ark Angel'' to the Outer Rim [[Tree|jungle]] planet, [[Son-tuul]].<ref name="Vader 7" />
+
+While on Son-tuul, Aphra hired a group of bounty hunters&mdash;the [[Trandoshan]] [[Bossk]], the midget [[Beebox]], the [[IG-series]] assassin droid [[IG-90]], and Krrsantan&mdash;on the orders of Vader, in order to steal the [[Son-tuul Pride]]'s fortune of [[credit]]s that had been [[Destruction of the Son-tuul Pride|seized]] by the Empire just before,<ref name="Vader 7" /> and was in transit to<ref name="Vader 8">''[[Darth Vader 8: Shadows and Secrets, Part II]]''</ref> the [[Anthan Prime Orbital Dockyard]] in the [[Anthan system]] aboard an [[Arquitens-class light cruiser|''Arquitens-class'' light cruiser]]. Triple-Zero and the group took the ''Ark Angel'' to [[Anthan Prime]], where, in orbit, Aphra remotely detonated an asteroid that created a small [[asteroid field]], which [[Unidentified Arquitens-class light cruiser|the cruiser]] collided with. The Imperials, unaware that they were being [[Son-tuul Pride robbery|attacked]] by a [[Sentience|sentient]] foe, remained unaware when Aphra, Bee Tee and the bounty hunters boarded the cruiser to install a homing beacon so Krrsantan&mdash;who had stayed behind in his [[Auzituck anti-slaver gunship|''Auzituck'' anti-slaver gunship]]&mdash;could use his [[gunship]] to tow an asteroid into the cruiser to break it open and spill the [[Credit chip|credit ingots]] into space where Bee Tee could could gather them up. Which, after Triple-Zero informed Krrsantan he could begin his run, is exactly what happened. Although, Krrsantan was in cahoots with Aphra, and on Vader's orders, had been told to let a majority of the credits drift into space so they could be collected later and given to Vader. Then, Aphra and the three hunters returned to the ''Ark Angel'', where Triple-Zero welcomed them and informed them that the plan had gone on without a hitch.<ref name="Vader 8" />
+
+[[File:Credits in the caverns of anthan 13.jpg|thumb|right|250px|Triple-Zero, Aphra and Bee Tee in the crystalline caverns of Anthan 13]]
+
+Soon thereafter, the credits were gathered and brought on to the ''Ark Angel'' where they were split into five equal shares: one for Triple-Zero's master, and four for the hired guns. The mercenaries were unsatisfied with the lower-than-promised pay, but agreed, nonetheless, to work with Aphra again only if she paid up front the next time, and left with their credits. Aphra and the two droids then traveled to [[Anthan 13]], one of Anthan Prime's moons, to collect the credits where Krrsantan had dumped them and meet with Vader. Krrsantan also came to receive his "bonus pay" and then left. Triple-Zero confessed to Aphra, due to the [[crystal]]line caverns of Anthan 13 and the large pile of credit chips, that he had always had a hankering to be covered in precious metals. Aphra and Vader discussed her next mission before Vader left as well, leaving Triple-Zero to express his discomfort on not receiving a portion of the contraband even though IG-90&mdash;a droid like Triple-Zero&mdash;had received a share. Aphra had believed the droid had been taking joy in the work, but Triple-Zero corrected her: he had not been torturing an organic being; therefore, there was little joy. Aphra told him to have patience and started work on their next<ref name="Vader 8" /> assignment, the individual [[Commodex Tahn]].<ref name="Vader 9">''[[Darth Vader 9: Shadows and Secrets, Part III]]''</ref>
+
+Triple-Zero, Aphra and Bee Tee then returned to the [[Anthan Spire|Spire]], a floating city on Anthan Prime, and landed near a [[holochess]] business. Triple-Zero was enthralled by the prospect of possibly playing holochess after being locked away on Quarantine World III for centuries.<ref name="Vader 3" /> He admitted to Aphra that due to his extensive programming in the art of torture, he was a terrible holochess player, but that did not stop him from loving the game. Aphra negotiated with "[[The Ante]]," a [[Givin]] [[Information broker|infochant]], who provided Aphra with Commodex Tahn's family background. Triple-Zero voiced, as they walked back to the ship, that he thought Tahn didn't seem like someone Vader would be interested in. Aphra agreed; he belonged to a family of [[mortician]]s on the planet [[Naboo]].<ref name="Vader 9" />
+
+With the inquired information the trio [[Assault on Commodex Tahn's villa|traveled]] to Naboo to see the mortician who oversaw Senator Amidala's burial, to confirm Vader's information that she gave birth to a son. The mortician, Commodex Tahn, refused to give the information, therefore Aphra ordered 0-0-0 to get the information. After torturing the Commodex, Triple-Zero got the confirmation that Senator Amidala gave birth to a son before she died. The Commodex had faked the pregnant womb with an hologram. After receiving that information, Aphra ordered 0-0-0 to finish the business, meaning Triple-Zero electroshocked the Commodex to death before leaving Naboo with Aphra.
+
+Aphra, BT-1 and 0-0-0 moved to Vrogas Vas, where Vader and Skywalker had both crashed their ships after a dogfight. While Vader faced an army of Rebels alone, Aphra attempted to capture Skywalker. In order to do this, she painted 0-0-0 with a golden luster to make him look like Luke's protocol droid, C-3PO. When approaching Skywalker, Triple-Zero electroshocked him unconscious while BT-1 faced the pilot's astromech, R2-D2. Before they were able to escape with their prize, they were ambushed by Han Solo and Chewbacca, Han confronted Aphra and Chewbacca ripped off Triple-Zero's arms, The two malignant droids and Aphra had to seek shelter, then lost Skywalker back to Solo, Chewbacca, and R2-D2, but had little time to retreat before the Wookiee Bounty Hunter Black Krrsantan intervened and faced off against Chewbacca. The Rebels, however, managed to escape, but not without Luke Skywalker once again being captured by Imperial reinforcements.
+
+After Yrogas Vas, 0-0-0 and BT-1 arrived at [[Ruen's workshop]] to receive repairs. BT-1 freed all of [[Ruen]]’s [[battle droid]]s from their programming, and the now freed droids killed Ruen.<ref name="Misadventures of Triple-Zero and Beetee">{{Shortstory|story=The Misadventures of Triple-Zero and Beetee|book=Darth Vader 20: End of Games, Part I}}</ref>
+
+After Aphra's failed attempt to betray Vader and her faked death, 0-0-0, together with Black Krrsantan and BT-1, rescued Aphra as she floated in space and continued their own private mission through the galaxy.
+
+===Traveling with Aphra===
+0-0-0 traveled to [[Fulan Ro]] aboard the ''[[Ark Angel II]]'' with Doctor Aphra and the rest of her crew. He greeted her as she returned from the stealing an artifact from [[Ulbik Tan]]. He acknowledged that he lost a bet with his counterpart, BT-1, on whether Aphra would survive her mission. [[Soo-Tath]] showed up to collect the debt that Aphra owed him, and she sent 0-0-0 to get [[Black Krrsantan]] from inside the ship for backup. They both arrived in time to see one of Soo-Tath's [[Gigoran]] strike Aphra. 0-0-0 translated Krrsantan's warning about attacking Aphra. After the Wookiee drove off the gangster and his muscle, 0-0-0 followed Soo-Tath to [[Fulan Ro cantina|a cantina]] where he ambushed the gangster and injected him with a [[neurotoxin]]. This caused the gangster to [[death|die]], although by most appearances it would appear to be a natural death. Triple Zero was enjoying traveling with Aphra and decided to kill the gangster to make sure he wouldn't report Aphra's whereabouts to the Empire. He returned to the ship and accompanied Aphra to [[Archaeo-Prime]] where she tried to sell the artifact she had recovered. When she found out her doctorate had been revoked, he offered her condolences.<ref name="Doc1">''[[Doctor Aphra 1: Aphra, Part I]]''</ref>
+
+Back on her ship, Aphra confronted her [[Chelli Lona Aphra's father|father]] about his involvement in the decision to revoke her credentials. When he refused to believe she would hurt him, Aphra instructed 0-0-0 to get the information. The droid was very happy about this task, revealing many different instruments of torture built into his [[Limb|fingers]]. Before he could start, Aphra told him to stand down, and Triple Zero expressed his displeasure. He listened as Aphra and her father debated the [[Ordu Aspectu]]. After arriving at [[Yavin 4]], he traveled with the rest of the crew to the [[Great Temple (Yavin 4)|temple]] to get some readings.<ref name="Doc2">''[[Doctor Aphra 2: Aphra, Part II]]''</ref>
+
+While scouting the [[Massassi]] temple, Aphra complained about the Empire and Triple Zero pointed out that she had in the past praised them for using their domination over the Galaxy as a way to protect the people. Aphra sent Krrsantan to create a diversion to draw away most of the Imperial troops and once they were gone, Triple Zero and BT-1 infiltrated the base. Once inside, they opened the ventilation hatches so Aphra and her father could enter the base. He passed by an [[IT-O Interrogation Unit|IT-O]] and stated he was a fan of the droid's work. After Aphra and her father placed all the crystals into the floor, he brought their attention to BT-1 who had noticed that all the temples in the complex had released beams of light pointing to the location of the [[Citadel of Rur]].<ref name="Doc3">''[[Doctor Aphra 3: Aphra, Part III]]''</ref>
+[[File:TripleZeroridingBT.jpg|thumb|left|170px|0-0-0 riding BT-1]]
+Aphra's father proceeded to get the readings needed to locate the Citadel of Rur. As the group left the temple, they ran into Imperial troops. Aphra ordered BT-1 to slow them down, and the droid launched a barrage of [[thermal detonator]]s. Triple Zero commented that killing them would indeed slow them down. The group made their way out of the temple, but were chased by more Imperials. Aphra held them off, and Triple Zero complained he was unable move quickly enough. BT-1 extended handles and footrests, enabling 0-0-0 to ride the astromech and keep up with the rest of the group. Triple Zero and the rest of the group were able to escape on the ''Ark Angel II''. When they reached the Citadel of Rur, Triple Zero and the rest of the group debarked from their ship.<ref name="Doc4">''[[Doctor Aphra 4: Aphra, Part IV]]''</ref>
+
+Inside the Citadel, Aphra and her father worked to restore the power. When they realized they didn't have enough Ordu crystals, Aphra sent 0-0-0 and BT-1 back to the ship to get a crystal modulator to mimic the functions of the original crystals. On their way back, they were forced to hide from [[Magna Tolvan]] and a group of [[snowtrooper]]s. The droids proceeded to the ship and killed some Imperials who were on-board. Krrsantan, who was separated from the Aphras by the Imperial troops, returned to the ship and had Triple Zero call Chelli Aphra and tell her that he was leaving the Citadel.<ref name="Doc5">''[[Doctor Aphra 5: Aphra, Part V]]''</ref>
+
+Triple Zero was present when Aphra reunited with Krrsantan at a bar on the [[Cosmatanic Steppes]].<ref name="Doc6">''[[Doctor Aphra 6: Aphra, Part VI]]''</ref>
+
+====The Screaming Citadel====
+0-0-0 was onboard the ''[[Ark Angel II]]'' as Aphra took Luke Skywalker to [[Ktath'atn]]. He greeted Skywalker, but was rebuked by him due to Skywalker's anger at the droid for electrocuting him. When Skywalker mentioned that R2-D2 had defeated BT-1 in the fight, Triple Zero warned him not to make the droid angry. 0-0-0 explained that he would survive BT-1's tantrum but the ship they were traveling in would be destroyed. Upon landing at the [[Citadel of Ktath'atn]], Skywalker asked what the name meant and 0-0-0 provided a rough translation of "The Screaming Citadel". While Skywalker and Aphra were getting dressed for dinner, 0-0-0 noted that Aphra was tying Skywalker's [[spavat]] incorrectly. As the couple left, 0-0-0 was told to guard their room.<ref name="ScreamingCitadel">''[[The Screaming Citadel, Part I]]''</ref>
+
+Solo, Organa and Sana arrived on the planet and were met by 0-0-0 and BT-1. The protocol droid was contacted by Aphra and he asked her if it was okay to shoot the rebels.<ref name="SW31">''[[Star Wars 31: The Screaming Citadel, Part II]]''</ref> He joined them on Aphra's ship as Solo piloted it to meet Skywalker and Aphra in the Citadel. When Aphra was confronted by Sana, he suggested that she was terribly untrustworthy and should be shot. After the group was forced to retreat into a lab that contained the Queen's [[Abersyn symbiote]]s, Triple Zero suggested that they could implant one in [[Black Krrsantan]]. He used the droid [[S4]] as a container to transport the symbiote safely. Once Sana and Organa rescued the Wookiee, 0-0-0 proceeded to directly implant the symbiote. Solo expressed her disgust at the procedure, but the droid took as a compliment.<ref name="Doc7">''[[Doctor Aphra 7: The Screaming Citadel, Part III]]''</ref>
+
+0-0-0 and BT-1 went with Aphra as she met two [[journalist]]s. She pretended to be Black Krrsantan's agent and arranged a meeting with the Wookiee so that the journalists could get his life story. While they were distracted, 0-0-0 and BT-1 accessed the journalist's [[HoloNet|holonet]] [[transmitter]] and broadcasted an ad for Aphra's upcoming auction of the [[Rur crystal]].<ref name="DocAphraAnnual">''[[Doctor Aphra Annual 1]]''</ref>
+
+==Characteristics==
+Triple 0 had the technical specifications of a standard [[3PO unit]]. This included having a height of 1.7 [[meter]]s<ref name="Protocol Databank" /> and being equipped with a [[TranLang III communication module]], which resulted in Triple 0 possessing fluency in 6 million forms of [[Language|communication]].<ref name="Rebels Facebook 10-17">{{FacebookCite|author=Star Wars Rebels|dateposted=10/17/14|timeposted=22:21|description=C-3PO information from Star Wars Rebels Facebook|quote=On loan to the Empire and serving as a translator, C-3PO is an unknowing accomplice in R2-D2's secret assignment.|link=starwarsrebels/photos/a.230754950414469.1073741828.180356405454324/367716480051648/|archive=|dateaccessed=October 17, 2014|timeaccessed=22:23|archivedate=|image=File:C-3PO Rebels Facebook.png}}</ref>
+
+Triple-0 specialized in the fields of etiquette, customs, translation and torture.<ref name="Vader 3" /> His chassis was [[color]]ed a dark silver, and he possessed red [[photoreceptor]]s.<ref name="Vader 3" />
+
+==Behind the scenes==
+[[File:0-0-0.png|thumb|right|150px|0-0-0 in ''Darth Vader 3: Vader, Part III'']]
+The protocol droid 0-0-0 first appeared in ''[[Darth Vader 3: Vader, Part III]]'', the third issue of the [[Marvel Comics|Marvel]] [[Star Wars comic books|comic book]] series ''[[Star Wars: Darth Vader (Marvel)|Star Wars: Darth Vader]]'', written by [[Kieron Gillen]] with art by [[Salvador Larroca]].<ref name="Vader 3" />
+
+The [[:File:TripleZero blueprints.png|blueprints]] of 0-0-0 shown in ''Darth Vader 3: Vader, Part III''<ref name="Vader 3" /> originated in various [[Star Wars Legends|''Star Wars'' Legends]] sources. [[:File:3po2.jpg|One]] of them appeared in the [[1999]] reference book ''[[The Essential Guide to Droids]]''.<ref name="TEGD">''[[The Essential Guide to Droids]]''</ref> Another [[:File:ThreepeeoBlueprints-SWBTUC.jpg|body shot]] was featured in ''[[Star Wars Blueprints: The Ultimate Collection]]''.<ref name="SWBP">''[[Star Wars Blueprints: The Ultimate Collection]]''</ref> The close-up of the protocol droid's head originated as [[:File:RiddellC3POBP.jpg|a blueprint]] that came with C-3PO's [[Riddell mini-helmet]].<ref name="EGTD">[[Riddell mini-helmet]] {{C|C-3PO}}</ref>
+
+In the New York Comic Con 2018, it was revealed that an action figure of 0-0-0 is slated to see release on Spring [[2019]] as part of [[Hasbro]]'s 2019 ''[[Star Wars]]'' action figures wave.<ref name="Hasbro">{{SW|url=news/nycc-2018-star-wars-hasbro-panel|text=NYCC 18: New from the ''Star Wars'' Hasbro Panel|archiveurl=https://archive.fo/bNeH8}}</ref>
+
+==Appearances==
+{{Scroll box|
+*''[[Darth Vader 3: Vader, Part III]]'' {{1st}}
+*''[[Darth Vader 4: Vader, Part IV]]''
+*''[[Darth Vader 5: Vader, Part V]]''
+*''[[Darth Vader 7: Shadows and Secrets, Part I]]''
+*''[[Darth Vader 8: Shadows and Secrets, Part II]]''
+*''[[Darth Vader 9: Shadows and Secrets, Part III]]''
+*''[[Darth Vader 10: Shadows and Secrets, Part IV]]''
+*''[[Darth Vader 11: Shadows and Secrets, Part V]]''
+*''[[Darth Vader 12: Shadows and Secrets, Part VI]]''
+*''[[Darth Vader Annual 1]]''
+*''[[Vader Down, Part I]]''
+*''[[Darth Vader 13: Vader Down, Part II]]''
+*''[[Star Wars 13: Vader Down, Part III]]''
+*''[[Darth Vader 14: Vader Down, Part IV]]''
+*''[[Star Wars 14: Vader Down, Part V]]''
+*''[[Darth Vader 15: Vader Down, Part VI]]''
+*''[[Darth Vader 16: The Shu-Torun War, Part I]]''
+*''[[Darth Vader 17: The Shu-Torun War, Part II]]''
+*''[[Darth Vader 18: The Shu-Torun War, Part III]]''
+*''[[Darth Vader 19: The Shu-Torun War, Part IV]]''
+*''[[Darth Vader 20: End of Games, Part I]]''
+*{{Shortstory|story=The Misadventures of Triple-Zero and Beetee|book=Darth Vader 20: End of Games, Part I}}
+*''[[Darth Vader 21: End of Games, Part II]]''
+*''[[Darth Vader 22: End of Games, Part III]]''
+*''[[Darth Vader 23: End of Games, Part IV]]''
+*''[[Darth Vader 25: End of Games, Part VI]]''
+*''[[Doctor Aphra 1: Aphra, Part I]]''
+*''[[Doctor Aphra 2: Aphra, Part II]]''
+*''[[Doctor Aphra 3: Aphra, Part III]]''
+*''[[Doctor Aphra 4: Aphra, Part IV]]''
+*''[[Doctor Aphra 5: Aphra, Part V]]''
+*''[[Doctor Aphra 6: Aphra, Part VI]]''
+*''[[The Screaming Citadel, Part I]]''
+*''[[Star Wars 31: The Screaming Citadel, Part II]]''
+*''[[Doctor Aphra 7: The Screaming Citadel, Part III]]''
+*''[[Star Wars 32: The Screaming Citadel, Part IV]]''
+*''[[Doctor Aphra 8: The Screaming Citadel, Part V]]''
+*''[[Doctor Aphra Annual 1]]''
+*''[[Doctor Aphra 9: The Enormous Profit, Part I]]''
+*''[[Doctor Aphra 10: The Enormous Profit, Part II]]''
+*''[[Doctor Aphra 11: The Enormous Profit, Part III]]''
+*''[[Doctor Aphra 12: The Enormous Profit, Part IV]]''
+*''[[Doctor Aphra 13: The Enormous Profit, Part V]]''
+*''[[Doctor Aphra 14: Remastered, Part I]]''
+*''[[Doctor Aphra 15: Remastered, Part II]]''
+*''[[Doctor Aphra 16: Remastered, Part III]]''
+*''[[Doctor Aphra 17: Remastered, Part IV]]'' {{Hologram}}
+*''[[Doctor Aphra 18: Remastered, Part V]]'' {{Hologram}}
+*''[[Doctor Aphra 19: Remastered, Part VI]]''
+*''[[Doctor Aphra 20: The Catastrophe Con, Part I]]''
+*''[[Doctor Aphra 21: The Catastrophe Con, Part II]]'' {{C|Mentioned only; in the opening crawl}}
+*''[[Doctor Aphra 22: The Catastrophe Con, Part III]]''
+*''[[Doctor Aphra 23: The Catastrophe Con, Part IV]]''
+*''[[Doctor Aphra 24: The Catastrophe Con, Part V]]''
+*''[[Doctor Aphra 25: The Catastrophe Con, Part VI]]''
+*''[[Doctor Aphra 26: Worst Among Equals, Part I]]''
+*''[[Doctor Aphra 27]]''
+*''[[Doctor Aphra 28]]''
+*''[[Doctor Aphra 29]]''}}
+
+==Sources==
+*{{InsiderCite|161|Blaster (Star Wars Insider)|Blaster}}
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*''[[Star Wars: Droidography]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=0-0-0#kanon
+|es=0-0-0
+|ja=0-0-0
+|pl=0-0-0
+|ru=0-0-0
+|deFA=1
+}}
+
+[[Category:Crime lords]]
+[[Category:Masculine programming]]
+[[Category:Protocol droids]]

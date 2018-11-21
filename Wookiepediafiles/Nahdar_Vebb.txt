@@ -1,0 +1,61 @@
+{{Eras}}
+{{Character
+|type=Jedi
+|image=[[File:NahdarVebbHS.png]]
+|name=Nahdar Vebb
+|homeworld=
+|birth=
+|death=[[22 BBY]], [[Vassek 3]]<ref name="Lair of Grievous">{{TCW|Lair of Grievous}}</ref>
+|species=[[Mon Calamari]]<ref name="Lair of Grievous" />
+|gender=[[Sexes|Male]]<ref name="Lair of Grievous" />
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Yellow]]<ref name="Lair of Grievous" />
+|skin=Reddish brown mottle<ref name="Lair of Grievous" />
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="Lair of Grievous" />
+*[[Galactic Republic]]<ref name="Lair of Grievous" />
+**[[Grand Army of the Republic]]<ref name="Lair of Grievous" />
+|masters=[[Kit Fisto]]<ref name="Lair of Grievous" />
+|apprentices=}}
+{{Quote|But in this war, strength prevails. The rules have changed.''"<br />"''Perhaps you are the one who has changed.|Nahdar Vebb and Kit Fisto|audio=NahdarVebb1.ogg|Lair of Grievous}}
+'''Nahdar Vebb''' was a [[Sexes|male]] [[Mon Calamari]] [[Jedi Knight]] who lived during the final days of the [[Jedi Order]] and the [[Galactic Republic]].
+He was trained as a [[Jedi]] by [[Kit Fisto]], with whom he reunited on the third moon of [[Vassek]]. Along with several [[clone trooper]]s under [[Clone Commander]] [[Fil]], the Jedi discovered the lair of [[General]] [[Grievous]]. During an attempt to capture the [[cyborg]] general, Vebb engaged Grievous in a [[lightsaber duel]] and was killed by Grievous shooting him.<ref name="Lair of Grievous" />
+
+{{Char-stub}}
+
+==Appearances==
+*{{TCW|Rookies}} {{1st}} {{Flash}}
+*{{TCW|Lair of Grievous}}
+
+==Sources==
+*{{SW|url=tv-shows/clone-wars/lair-of-grievous|text="Lair of Grievous"}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|ev-a4-d|EV-A4-D|archivedate=20161216125829}} {{C|misspelled as "Nahdar Veb"}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Nahdar Vebb
+|de=Nahdar Vebb#kanon
+|es=Nahdar Vebb
+|fr=Nahdar Vebb
+|hu=Nahdar Vebb
+|it=Nahdar Vebb
+|ja=ナダール・ヴェブ
+|nl=Nahdar Vebb
+|pl=Nahdar Vebb
+|pt=Legends:Nahdar Vebb
+|ru=Надар Вебб/Канон
+|uk=Надар Вебб
+|deFA=1
+}}
+
+{{DEFAULTSORT:Vebb, Nahdar}}
+[[Category:Jedi Knights]]
+[[Category:Males]]
+[[Category:Mon Calamari]]

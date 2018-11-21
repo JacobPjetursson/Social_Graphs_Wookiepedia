@@ -1,0 +1,88 @@
+{{Eras}}
+{{Update|[[Powered Down, Part II]]}}
+{{Image}}
+{{Character
+|type=Bounty hunter
+|image=[[File:Zuckuss.png]]
+|name=Zuckuss
+|homeworld=[[Gand (planet)|Gand]]<ref name="USW">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Gand]]<ref name="USW" />
+|gender=[[Sexes|Male]]<ref name="USW" />
+|height=1.5 [[meter]]s<ref name="Databank">{{Databank|zuckuss|Zuckuss}}</ref>
+|mass=
+|hair=
+|eyes=[[Color|Silver]]<ref name="ESB">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+|skin=Brown<ref name="ESB" />
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+{{Quote|Bounty hunters! We don't need their scum.|Admiral [[Firmus Piett]]|audio=WeDontNeedTheirScum.ogg|Star Wars: Episode V The Empire Strikes Back}}
+'''Zuckuss''' was an [[insectoid]] [[Sexes|male]] [[Gand]] [[findsman]] who worked as a [[bounty hunter]] prior to and during the [[Galactic Civil War]]. A skilled tracker who often worked with [[4-LOM]], Zuckuss had a run-in with [[Han Solo]] that left his ship, the ''[[Mist Hunter/Legends|Mist Hunter]]'', powered down on a strange [[planet]]. He was later among the hunters assembled by [[Anakin Skywalker|Darth Vader]] to find the ''[[Millennium Falcon]]'' following the [[Battle of Hoth]], although [[Boba Fett]] ultimately earned the [[bounty]] by delivering [[Han Solo]] to [[Jabba Desilijic Tiure]].
+
+==Biography==
+===Early life and career===
+{{Quote|And what's with the stink? The place smells like a bantha pen.''"<br>"''The gasses remind Zuckuss of his homeworld.|Han Solo and 4-LOM|Powered Down, Part I}}
+An [[insectoid]] being with compound [[eye]]s,<ref name="SWCE">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> Zuckuss was a [[Sexes|male]] [[Gand]] born on his [[species]]' [[homeworld]] of [[Gand (planet)|Gand]] as one of the [[planet]]'s traditional [[Findsman|findsmen]].<ref name="USW" /> Using the findsmen's mystic traditions, dating back centuries, Zuckuss operated as a tireless tracker until the planet's findsman traditions began dying out.<ref name="SWCE" /> He became one of the first such to leave the planet's thick and toxic [[atmosphere]], and wore a [[Breath mask|respirator]] to breathe [[ammonia]] while operating in [[oxygen]]-rich atmospheres in the wider [[The galaxy|galaxy]]. He worked as a [[bounty hunter]]<ref name="USW" /> on lucrative jobs that made use of his particular talents as a highly sought-after hunter with renowned tracking skills,<ref name="SWCE" /> and he often paired up with [[4-LOM]]<ref name="USW" /> on many occasions. Although Zuckuss's uncanny abilities made some uneasy, he and 4-LOM remained a formidable team.<ref name="SWCE" /> They flew aboard the ''[[Mist Hunter/Legends|Mist Hunter]]'', which Zuckuss filled with [[gas]]ses to remind him of his homeworld.<ref name="Hunter vs Hunted">{{IDWAdventuresCite|Free Comic Book Day 2018|Hunter vs Hunted}}</ref>
+
+====Capturing Beris Ford====
+[[File:Chewie vs Zuckuss.jpg|thumb|left|Zuckuss fighting Chewbacca]]
+Zuckuss and 4-LOM captured the small-time criminal [[Beris Ford]], keeping him imprisoned aboard their ship and hoping to use the reward for his capture to pay for [[tractor beam]] repairs. Weeks later, the hunters took up a [[bounty]] placed by [[Rekias Nodo]] on [[Han Solo]], and confronted him at [[Valtos]] [[Valtos space port|Space Port]]. Zuckuss incapacitated the [[smuggler]] inside a [[stun net]] fired from his [[Snare rifle/Canon|snare rifle]], and he and 4-LOM loaded Han's cargo into the ''Mist Hunter'', where they imprisoned him along with Ford. Sensing a [[disturbance in the Force]], Zuckuss checked on the stolen cargo only to be attacked by [[Chewbacca]] bursting from one of the containers, and was hit with a stun net from his own rifle. Zuckuss was left tied up while the [[Wookiee]] rescued Han and Beris, and the scoundrels fled with their cargo back to the ''[[Millennium Falcon]]''. However, the hunters pursued, and after a firefight Zuckuss chased the ''Falcon'' into space.<ref name="Hunter vs Hunted" />
+
+Following Solo and Chewbacca to an unidentified planet, Zuckuss again sensed something was wrong, but 4-LOM continued the pursuit through a heavy cloud layer until their ship's systems&mdash;and 4-LOM himself&mdash;suddenly powered down, forcing them to drop out of the sky and crash-land on a beach. Zuckuss was trapped in the wreckage, and called out to Solo for help in freeing his legs, though slapped [[stuncuffs]] on Solo when he was in reach. However, the planet's technology-negating effects caused the cuffs to release Solo, who left Zuckuss in his predicament. After Solo and Chewbacca found an [[energy projector]] transmitting an [[immobilizer beam]], Zuckuss attacked them with native [[spear]]s as they climbed the tall mast. Chewbacca dislodged the projection sphere from the top, causing it to crash on the beach below, which caused mechanical drones to erupt from the sand and attack all three interlopers.<ref name="Powered Down I">{{IDWAdventuresCite|10|[[Powered Down, Part I]]}}</ref>
+
+===Galactic Civil War===
+{{Quote|There will be a substantial reward for the one who finds the ''Millennium Falcon''. You are free to use any methods necessary, but I want them alive.|Darth Vader to Zuckuss and five other bounty hunters|Star Wars: Episode V The Empire Strikes Back}}
+Shortly after the [[Battle of Yavin]], Zuckuss, along with [[Black Krrsantan]], [[IG-90]], [[Dengar]], [[Chanath Cha]], [[Beebox]] and [[C-21 Highsinger]], was hired by [[Anakin Skywalker|Darth Vader]] to find and return [[Doctor]] [[Chelli Lona Aphra]], who had been [[Battle of Vrogas Vas|captured]] by the [[Alliance to Restore the Republic|Rebel Alliance]].<ref name="DV16">''[[Darth Vader 16: The Shu-Torun War, Part I]]''</ref>
+
+After the [[Battle of Hoth]], he was once again hired by Vader, this [[time]] to hunt down the ''Millennium Falcon'' and capture the passengers alive. However, the passengers were soon found and captured by the [[Galactic Empire|Empire]] on [[Cloud City]], with help from [[Boba Fett]].<ref name="ESB" />
+
+==Personality and traits==
+{{Quote|Something isn't right. Zuckuss can sense it.''"<br>"''How many times must I remind you, Zuckuss? I deal with facts, not superstitious flim-flam.|Zuckuss and 4-LOM|Powered Down, Part I}}
+Zuckuss was a tireless tracker with uncanny abilities that made him a lucrative bounty hunter.<ref name="SWCE" /> Possessing a sixth sense,<ref name="Powered Down I" /> he claimed he could feel disturbances in [[the Force]], which his partner 4-LOM dismissed as superstitious mumbo-jumbo. He spoke about himself in the third person.<ref name="Hunter vs Hunted" />
+
+==Equipment==
+{{Quote|The snare rifle? Where is it? Where is... it?|Zuckuss|Powered Down, Part I}}
+Zuckuss wore a gas mask<ref name="Powered Down I" /> respirator connected to breather packs to breathe ammonia in oxygen-rich atmospheres. He wore heavy [[Battle armor/Canon|battle armor]] under his [[Color|beige]] findsman body cloak,<ref name="USW" /> and armed himself with a snare rifle. He and 4-LOM flew the ''Mist Hunter'', and sought tractor beam repairs.<ref name="Hunter vs Hunted" />
+
+==Appearances==
+*{{IDWAdventuresCite|Free Comic Book Day 2018|Hunter vs Hunted}}
+*{{IDWAdventuresCite|10|[[Powered Down, Part I]]}}
+*{{IDWAdventuresCite|11|[[Powered Down, Part II]]}}
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*''[[Darth Vader 16: The Shu-Torun War, Part I]]''
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+
+===Non-canon appearances===
+*{{The Freemaker Adventures|Return to the Wheel}}
+
+==Sources==
+*{{SW|url=films/star-wars-episode-v-the-empire-strikes-back|text=''Star Wars'': Episode V ''The Empire Strikes Back''|archivedate=20180614210303}}
+*{{SWE|characters|dengar|Dengar}} {{Imo}}
+*{{SWE|characters|bobafett|Boba Fett}}
+*{{SWE|characters|ig88|IG-88}} {{Imo}}
+*{{SWE|characters|admiral-piett|Admiral Piett}} {{Imo}}
+*{{SWE|characters|darthvader|Darth Vader}}
+*''[[Ultimate Star Wars]]''
+*''[[The Art of Star Wars: The Force Awakens]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*{{Databank|zuckuss|Zuckuss}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ru=Зукусс/Канон
+}}
+
+[[Category:Bounty hunters]]
+[[Category:Findsmen]]
+[[Category:Gand]]
+[[Category:Males]]

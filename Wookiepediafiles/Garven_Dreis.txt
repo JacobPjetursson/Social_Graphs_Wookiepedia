@@ -1,0 +1,115 @@
+{{Eras}}
+{{Update|[[Duty Roster]], [[Star Wars: On the Front Lines]], [[Star Wars: The Rebel Files]]}}
+{{Character
+|type=Rebel
+|image=[[File:AwesomeDave-ANHHD.jpg]]
+|name=Garven Dreis
+|homeworld=[[Virujansi]]<ref name="USW">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[0 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Yavin system]]<ref name="Episode IV">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref>
+|species=[[Human]]<ref name="Episode IV" />
+|gender=[[Sexes|Male]]<ref name="Episode IV" />
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="Episode IV" />
+|eyes=Brown<ref name="Episode IV" />
+|skin=Fair<ref name="Episode IV" />
+|cyber=
+|era=
+|affiliation=*[[Rarified Air Cavalry]]<ref name="Rogue One Visual Guide">''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''</ref>
+*[[Alliance to Restore the Republic]]<ref name="Episode IV" />
+**[[Red Squadron (Rebel Alliance)|Red Squadron]]<ref name="Episode IV" />
+**[[Massassi Group]]<ref name="Episode IV" />
+|masters=
+|apprentices=}}
+{{Quote|We'll rely on each other up there, like we always do. And as long as we do that, I'll go up against anything in the galaxy and like our chances.|Garven Dreis to the rest of Red Squadron before the Battle of Yavin.|Duty Roster}}
+'''Garven "Dave" Dreis''' was a [[Sexes|male]] [[human]] [[Rebel pilot|pilot]] from [[Virujansi]] who served as a [[Commander]] in the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]]. During the war, Dreis participated in the Rebellion's attack on the [[Galactic Empire]]'s [[DS-1 Orbital Battle Station|first Death Star]] in the [[Battle of Yavin]], flying a [[T-65B X-wing starfighter]] as [[Red Leader|leader]] of [[Red Squadron (Rebel Alliance)|Red Squadron]]. During the battle, he was [[Death|killed]] by [[Anakin Skywalker|Darth Vader]].
+
+==Biography==
+===Life on Virujansi===
+Garven Dreis was [[Reproduction|born]] on the [[planet]] [[Virujansi]] prior to the [[Battle of Scarif|outbreak]] of the [[Galactic Civil War]]. Sometime later, he joined the [[Planetary defense forces|planetary defense force]] known as the [[Rarified Air Cavalry]] on [[Sexes|his]] [[homeworld]]. After the [[Proclamation of the New Order|formation]] of the [[Galactic Empire]], Virujansi experienced a political transformation when an Imperial [[governor]] displaced the ruling [[Virujansi council]]. This resulted in the forced disbanding of local military forces loyal to the ruling council. Dries's [[commanding officer]], [[Antoc Merrick]], rejected an offer extended to [[pilot]]s of the Rarified Air Cavalry to join the [[Imperial Navy]] seeing it as hollow. Seeing that the [[Alliance to Restore the Republic|Rebel Alliance's]] [[starfighter]] [[squadron]]s demonstrated greater unit coherence and piloting ability than those of the Empire, Dreis and Merrick opted for early retirement, left Virujansi, and sought membership with the Rebel Alliance.<ref name="Rogue One Visual Guide" />
+
+Sometime after joining the Rebel Alliance,<ref name="Episode IV" /> Dreis was given the [[Military rank|rank]] of [[Commander]]<ref name="Rebel Files">''[[Star Wars: The Rebel Files]]''</ref> and was given [[Red Leader|command]] of [[Red Squadron (Rebel Alliance)|Red Squadron]].<ref name="Episode IV" />
+
+===Serving in the Rebel Alliance===
+====Scarif====
+{{Quote|Stick close, Red Five! Where are you going?|Dreis calls out to Pedrin Gaul during the Battle of Scarif|Rogue One: A Star Wars Story}}
+[[File:Garven_Dreis_Scarif.jpg|thumb|left|250px|Garven Dreis during the Battle of Scarif.]]
+In [[0 BBY]],<ref name="Galactic Atlas" /> Dreis led [[Color|Red]] Squadron as part of the [[Alliance Military|Rebel Alliance's forces]] supporting the [[Rogue One (squad)|Rogue One]] team, which had decided to attack the planet [[Scarif]] in an attempt to obtain [[Death Star plans|schematics]] for the Empire's [[DS-1 Orbital Battle Station|Death Star]]. As part of [[Admiral]] [[Raddus]]' plans during the early phase of the engagement, Red Squadron was, along with [[Blue Squadron (Rebel Alliance)|Blue Squadron]], assigned to cover the Rebel [[capital ship]]s and [[Gold Squadron (Rebel Alliance)|Gold Squadron]], a [[BTL-A4 Y-wing assault starfighter/bomber|Y-wing]] [[bomber]] group, fighters under Dreis' command also engaged the large [[TIE/ln space superiority starfighter|TIE fighter]] detachment guarding the Scarif [[Shield Gate]].<ref name="Rogue One">''[[Rogue One: A Star Wars Story]]''</ref>
+
+[[T-65B X-wing starfighter|X-wings]] under Dreis' command, including [[Red Eight]] and [[Red Twelve (Rebel Alliance)|Red Twelve]], attempted to penetrate the shield proper of the Scarif gate with repeated [[proton torpedo]] bombing runs in conjunction with Gold Squadron's attacks on the aperture itself. Despite their continued bombardment throughout the engagement, the Rebel [[Starship|ships]] were unable to break through the powerful Imperial shield.<ref name="Rogue One" />
+
+The TIE fighter [[garrison]] directly intercepted the Rebel fighter and bomber forces as a result of these runs, including Dreis' squadron. Dreis personally scorned<ref name="Rogue One" /> [[Pedrin Gaul]], a [[cadet]] pressed into active service with the squadron under the [[callsign]] [[Red Five]],<ref name="Rogue One Visual Guide" /> for splitting off from the main group. Despite Dreis' instruction for Gaul to return, the latter was shot down, along with several other Red Squadron members. Dreis himself survived Scarif, and his [[Rebel pilot|pilots]] were a direct cause for the Rebel Alliance victory that resulted from this attack.<ref name="Rogue One" />
+
+====Yavin====
+{{Quote|Skywalker, you sure you can handle this ship?<br>"Sir, Luke is the best bush pilot in the Outer Rim Territories."<br>"You'll do alright."<br>"Thank you, sir. I'll try.|Garven speaks with Biggs Darklighter and Luke Skywalker before the Battle of Yavin.|Star Wars: Episode IV A New Hope}}
+Only a few [[Standard day|days]]{{Fact}} after the costly victory over Scarif, Dreis and his remaining pilots were summoned to a briefing at [[Great Temple (Yavin 4)|Base One]] by [[General]] [[Jan Dodonna]]. [[Prince]]ss [[Leia Organa]] of [[Alderaan]], a Rebel sympathizer who had taken possession of the plans for the monolithic [[Death Star]] [[battle station]] as a result of the battle over Scarif, had briefly [[Secret mission to Tatooine|fallen]] into Imperial custody, while the plans had been secreted within a [[droid]], [[R2-D2]], which eventually found its way to [[Luke Skywalker]], a [[Tatooine]] [[moisture farmer]]. Motivated by a message from Organa which guided him to [[Obi-Wan Kenobi]], a hidden [[Jedi]], Skywalker had hired a [[Corellian]] [[smuggler]], [[Han Solo]], and, through a series of events, [[Rescue of Princess Leia|rescued]] Organa from [[Prison|imprisonment]] and returned the plans to her, although Kenobi was killed shortly before the group escaped the Death Star. Their means of escape was Solo's [[freighter]], the ''[[Millennium Falcon]]'', which had, unbeknownst to Organa and her compatriots, been tagged with an Imperial [[Homing beacon|tracking device]]. The Death Star and its ruthless commander, [[Grand Moff]] [[Wilhuff Tarkin]], had been guided to the Rebel stronghold on [[Yavin 4]], and had arrived [[Yavin system|in-system]] shortly before the briefing.<ref name="Episode IV" />
+
+Dreis, along with most of those assembled, were skeptical that the handful of fighters remaining could have any effect on the Death Star. Dodonna explained, however, that there was a key flaw in the designs of the station: a [[thermal exhaust port]], only three [[meter]]s wide. A proton torpedo [[fire]]d down this shaft would impact the main [[reactor]], causing critical failure and, ultimately, the destruction of the Death Star.<ref name="Episode IV" />
+
+Returning to the hangar, Dreis met with Skywalker, who had volunteered to join the squadron and bolster their numbers. Dreis was initially skeptical of the young man's piloting skills; however, [[Biggs Darklighter]], a childhood friend of Skywalker and already a pilot under Dreis' command, personally vouched for his piloting skills, gloating that Luke was the best bush pilot in the entire [[Outer Rim Territories]]. Dreis accepted Skywalker and assigned him to the position of Red Five,<ref name="Episode IV" /> left vacant after cadet Pedrin Gaul's death over Scarif.<ref name="Rogue One" />
+
+The squadron, scrambled alongside Vander's [[Y-wing starfighter|Y-wings]] once again, rose from Yavin 4's [[jungle]]s and flew to the Death Star, along the way confirming readiness and checking in. Arcing toward the [[Meridian trench|trench]] and their target, the squadrons quickly began suffering losses to the [[XX-9 heavy turbolaser battery|turbolaser batteries]] and deflection towers across the surface of the [[moon]]-sized battle station. Dreis' [[X-wing starfighter|X-wings]] initially served as cover while the bombers of Gold Squadron peeled off in groups of three to attempt the trench run; however, as [[Black Squadron (Galactic Empire)|squadrons]] of TIE fighters poured from the Death Star's [[hangar]] bays to engage the rebel ships, these early runs were annihilated to the last man.<ref name="Episode IV" />
+
+[[File:Garven Dreis last moments.png|thumb|right|250px|Dreis' last moments at the Battle of Yavin]]
+[[Anakin Skywalker|Darth Vader]], a [[Dark Lord of the Sith], emerged from the station in [[Darth Vader's TIE Advanced|a]] [[TIE Advanced x1]] to aid in the Imperial defense. He was responsible for the deaths of several of Dreis' subordinates in Red Squadron as well as three separate members of Gold Squadron, including [[Captain]] [[Jon Vander|Vander]], in dogfights. Despite this danger, Dreis, [[Red Ten]], and [[Red Twelve]] attempted the trench run.<ref name="Episode IV" />
+
+Although Vader shot down both of Dreis' [[Wingmate|wingmen]], he was able to reach the end of the trench and fired two proton torpedos at the exhaust port. Initially believing he was successful, Dreis disappointingly realized that his torpedoes missed their mark, only impacting the surface. While arcing out of the trench to recover from his failed attack, Dreis was targeted by Vader. Skywalker, seeing the Imperial fighters, told Dreis that he would come to his aid for another trench run; the squadron leader dissuaded him from this, as his starboard [[engine]] had been damaged, and ordered him to make a run on the trench himself. He then lead Vader as far off from the trench as he could before he was finally shot down by the Dark Lord. Letting out one final defiant yell, Dreis' X-wing spiraled into the surface of the Death Star, and he was killed on impact.<ref name="Episode IV" />
+
+==Equipment==
+As a pilot of the rebellion, Garven Dreis wore a red [[flight suit]] and [[flight helmet]], while operating a T-65B X-wing starfighter known as ''Red One'',<ref name="Desert Son">{Shortstory|story=Desert Son|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}</ref> manufactured by [[Incom Corporation]].<ref name="USW" />
+
+==Behind the scenes==
+Garven Dreis was portrayed in [[1977]]'s [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] by British actor [[Drewe Henley]] (whose last name was incorrectly spelled "Hemley" in the credits, including those of the Special Edition). A pre-battle scene in which Dreis discusses Luke's piloting ability with Luke and Biggs was cut from the original release, but partially restored in 1997 for the [[The Star Wars Trilogy Special Edition|Special Edition]].
+
+Henley passed away on February 14, 2016. His role in ''A New Hope ''was his final acting role on film; shortly after the movie was released, he was diagnosed with manic depression and retired.
+
+Henley posthumously reprised the role in [[2016]]'s ''[[Rogue One: A Star Wars Story]]'' through the use of archival footage.
+
+==Appearances==
+*''[[Star Wars: Battle Pod]]'' {{Voice}}
+*''[[Rogue One: A Star Wars Story]]''
+*[[Rogue One: A Star Wars Story (novelization)|''Rogue One: A Star Wars Story'' novelization]] {{Voice}}
+*''[[Star Wars: Rogue One: A Junior Novel]]'' {{C|Mentioned only as Red Leader}}
+*''[[Star Wars: Rogue One: Secret Mission]]''
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]''
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]'' {{Voice}}
+*''[[Star Wars: Battle Pod]]'' {{Voice}}
+*{{Shortstory|story=Duty Roster|book=From a Certain Point of View}}
+*{{Shortstory|story=Desert Son|book=From a Certain Point of View}}
+*{{Shortstory|story=Grounded|book=From a Certain Point of View}} {{Voice}}
+*''[[Star Wars 45: Mutiny at Mon Cala, Part II]]'' {{Mo}}
+
+==Sources==
+*{{SWE|groups|rebel-pilots|Rebel Pilots}}
+*[[Star Wars: Card Trader|''Star Wars'': Card Trader]] {{1stID}} {{1stID|Garven "Dave" Dreis}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: The Rebel Files]]''
+*{{Databank|garven-dreis|Garven Dreis|archivedate=20170720172530}}
+*{{Databank|general-merrick|General Merrick|archivedate=20170306225309}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Garven Dreis#kanon
+|es=Garven Dreis
+|fr=Garven Dreis
+|ja=ガーヴェン・ドレイス
+|ko=가벤 드리스
+|nl=Garven Dreis
+|pl=Garven Dreis
+|pt=Garven Dreis
+|ru=Гарвен Дрейс/Канон
+}}
+
+{{DEFAULTSORT:Dreis, Garven}}
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Red Squadron personnel]]

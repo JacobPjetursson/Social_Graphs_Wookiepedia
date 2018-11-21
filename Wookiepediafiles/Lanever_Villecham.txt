@@ -1,0 +1,74 @@
+{{Eras}}
+{{Character
+|type=New Republic
+|image=[[File:Lanever Villecham CT.png]]
+|name=Lanever Villecham
+|homeworld=
+|birth=
+|death=[[34 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Hosnian Prime]]<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+|species=[[Tarsunt]]<ref name="TFA VD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+|gender=[[Sexes|Male]]<ref name="TFA VD" />
+|height=
+|mass=
+|hair=[[Color|White]]<ref name="TFA VD" />
+|eyes=Black<ref name="TFA VD" />
+|skin=Yellow<ref name="TFA VD" />
+|cyber=
+|era=
+|affiliation=*[[New Republic]]<ref name="TFA VD" />
+**[[Galactic Senate (New Republic)|Galactic Senate]]<ref name="TFA VD" />
+|masters=
+|apprentices=}}
+'''Lanever Villecham''' was a [[Sexes|male]] [[Tarsunt]] [[Politics|politician]] who served as the [[Chancellor (New Republic)|Chancellor]] of the [[New Republic]] thirty [[Standard year|years]] after the [[Battle of Endor]]. Villecham, a delegate to the [[Galactic Senate (New Republic)|Galactic Senate]] from the [[Tarsunt system]], was a believer in the peace initiatives that the New Republic carried out after the signing of the [[Galactic Concordance]] with the [[Galactic Empire]] at the end of the [[Galactic Civil War]]. As such, he focused his [[time]] in office on improved trade relations with neutral [[Star system|systems]] and, despite the insistence of [[General]] [[Leia Organa]] and the [[Resistance]], did not consider the emerging [[First Order]] to be a threat. He [[Death|perished]] on [[Hosnian Prime]] when the [[planet]], then serving as the [[capital]] of the Republic, was [[Hosnian Cataclysm|destroyed]] by the First Order's [[Starkiller Base|Starkiller]] [[Superweapon|weapon]].
+
+==Biography==
+[[File:Korr Sella final moments.jpg|thumb|left|250px|Chancellor Villecham with Commander Korr Sella moments before they are killed by Starkiller Base's superweapon.]]
+Lanever Villecham served as a delegate to the [[Galactic Senate (New Republic)|Galactic Senate]] of the [[New Republic]], hailing from the [[Tarsunt system]]. [[33 ABY|Twenty-nine]] [[Standard year|years]] after the [[Battle of Endor]], Villecham was elected to serve as the Senate's [[Chancellor (New Republic)|chancellor]]. He focused his term in office on improving trade relations with neutral systems in the [[Trans-Hydian Borderlands]], as they had been disaffected from the Republic for [[Standard decade|decades]]. His [[time]] in office also saw the rise of the [[First Order]], a successor to the [[Galactic Empire]]. Villecham did not consider the First Order a threat so long as they abided by the dictates of the [[Galactic Concordance]], a peace treaty marking the Empire's defeat to the Republic at the end of the [[Galactic Civil War]]. This was in contrast to the claims of [[General]] [[Leia Organa]] and the [[Resistance]], who urged the Republic to consider military action against the resurgent Imperial power. Organa dispatched an envoy, [[Commander]] [[Korr Sella]], to the Republic's then [[capital]] of [[Hosnian Prime]] to argue for a military build-up, but by then it was too late.<ref name="TFA VD" /> Villecham, Sella, and the Senate were [[Hosnian Cataclysm|wiped out]] when the First Order targeted their [[superweapon]], [[Starkiller Base]], on Hosnian Prime and destroyed it.<ref name="Episode VII" />
+
+==Personality and traits==
+Lanever Villecham was a [[Sexes|male]] [[Tarsunt]] with [[Color|white]] [[hair]], black [[eye]]s, and yellow skin. He was a believer in the peace initiatives of the New Republic and would not consider a renewed conflict so long as the First Order did not violate the Galactic Concordance,<ref name="TFA VD" /> which they ultimately did by destroying Hosnian Prime&mdash;costing Villecham his life.<ref name="Episode VII" />
+
+==Behind the scenes==
+Lanever Villecham first appeared in [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]. While he was not identified onscreen, his name was revealed in ''[[Star Wars: The Force Awakens: The Visual Dictionary]]'', a [[2015]] reference book by [[Lucasfilm Story Group]] member [[Pablo Hidalgo]].<ref name="TFA VD" /> He was portrayed by [[Derek Arnold]], who did not receive any credit.
+
+==Appearances==
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part IV]]''
+*''[[Star Wars: The Force Awakens Beginner Game]]''
+
+==Sources==
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]'' {{1stID}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|chancellor-villecham|Chancellor Villecham|archivedate=20170807071200}}
+
+{{Start box}}
+{{Succession box
+|title=[[Chancellor (New Republic)|Chancellor]] of the [[New Republic]]
+|years=[[33 ABY]]<ref name="TFA VD" />-[[34 ABY]]<ref name="Episode VII" />
+|before=Eventually [[Mon Mothma]]<ref name="Aftermath">''[[Aftermath]]''</ref>
+|after=
+}}
+{{End box}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Lanever Villecham#kanon
+|es=Lanever Villecham
+|fr=Lanever Villecham
+|hu=Lanever Villecham
+|ja=ラネヴァー・ヴィルチャム
+|nl=Lanever Villecham
+|pl=Lanever Villecham
+|pt=Lanever Villecham
+|ru=Ланевер Виллечам
+|uk=Ланевер Віллечам
+|deGA=1
+}}
+
+{{DEFAULTSORT:Villecham, Lanever}}
+[[Category:Males]]
+[[Category:New Republic chancellors]]
+[[Category:Tarsunt]]

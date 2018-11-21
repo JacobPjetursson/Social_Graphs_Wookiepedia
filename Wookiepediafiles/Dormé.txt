@@ -1,0 +1,68 @@
+{{Eras}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Dormesenate.jpg]]
+|name=Dormé
+|homeworld=[[Naboo]]<ref name="Dormé" />
+|birth=
+|death=
+|species=[[Human]] {{C|[[Naboo (people)|Naboo]]}}<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|gender=[[Sexes|Female]]<ref name="Episode II" />
+|height=1.65 [[meter]]s<ref name="Dormé">{{Databank|dorme|Dormé|archivedate=20161216124650}}</ref>
+|mass=
+|hair=[[Color|Brown]]<ref name="Episode II" />
+|eyes=Brown<ref name="Episode II" />
+|skin=Light<ref name="Episode II" />
+|cyber=
+|era=
+|affiliation=*[[Royal House of Naboo]]<ref name="Episode II" />
+**[[Naboo Royal Handmaidens]]<ref name="Episode II" />
+*[[Galactic Republic]]<ref name="Episode II" />
+**[[Naboo delegation]]<ref name="Dormé" />
+|masters=
+|apprentices=}}
+'''Dormé''' was a [[human]] [[Sexes|female]] [[Naboo Royal Handmaidens|handmaiden]] in the service of [[Senator]] [[Padmé Amidala]] during the [[Separatist Crisis]] and was her most devoted [[aide]].<ref name="Dormé" />
+
+==Biography==
+===Separatist Crisis===
+Dormé traveled with [[Padmé Amidala]] to [[Coruscant]] to vote in the [[Galactic Senate]] on the [[Military Creation Act]], an act that called for the creation of an [[Grand Army of the Republic|army]] for the [[Galactic Republic]] to combat the [[Confederacy of Independent Systems]]. Amidala got another [[Naboo Royal Handmaidens|handmaiden]], [[Cordé]], to be a decoy. However, Amidala's [[J-type diplomatic barge|ship]] was [[Plot to assassinate Padmé Amidala|attacked]] by the [[bounty hunter]] [[Zam Wesell]], killing Cordé and several others. Dormé went with Amidala when she went with the [[Loyalist Committee]] to discuss this attempt with [[Supreme Chancellor]] [[Darth Sidious|Palpatine]]. During this meeting, Palpatine told Amidala she must hide on [[Naboo]], despite her protests. Dormé was later present when Amidala was reunited with [[Anakin Skywalker]], who promised to find whoever was trying to [[Death|kill]] Amidala. After another attempt on Amidala's life, Dormé ran into Amidala's room and asked if she was alright. This made both the [[Jedi High Council|Jedi Council]] and Senate agree that Amidala was safer on Naboo. Later, Amidala was put on a [[transport]] along with Dormé, Skywalker, [[Jedi Knight]] [[Obi-Wan Kenobi]] and [[Gregar Typho]] that took them to a [[spaceport]] in order for Skywalker and Amidala to travel as [[refugee]]s back to Naboo. When Amidala said she had to leave and that Typho would protect Dormé, Dormé assured Amidala that he'd be safe with her. Seeing a tear roll down Dormé's cheek, Amidala assured Dormé she'll be fine. Dormé then said she wasn't worried about herself, but was worried that the killer would find out that Amidala had left Coruscant with Amidala responding that her [[Jedi]] protector would have to prove how good he was.<ref name="Episode II" />
+
+With Amidala gone, she helped in the Galactic Senate by settling Naboo's affairs.<ref name="Dormé" /> Soon after, the Clone Wars began.<ref name="Episode II" />
+
+===Clone Wars===
+In [[21 BBY]], she was unable to supervise Amidala's negotiations with the [[Arthurian delegates]] as she had to go home to Naboo for family matters.<ref name="FOD">''[[Star Wars: Forces of Destiny—Ahsoka & Padmé]]''</ref>
+
+Later, Amidala went to [[Ahsoka Tano]] to ask her to help instead. When she told her she had other security, she said that Typho would be there but Dormé was not. She said that even though she had other handmaidens, she wanted her. Tano ended up accepting and saved her life after [[Cato Parasitti]] tried to kill her.<ref name="FOD" />
+
+==Personality and traits==
+Dormé had [[Color|brown]] [[hair]], brown [[eye]]s and light skin.<ref name="Episode II" /> She was very devoted to Amidala.<ref name="Dormé" /> During the Separatist Crisis, when she was about to part with Amidala, she expressed her concern over Amidala's safety.<ref name="Episode II" />
+
+==Behind the scenes==
+Dormé was portrayed by Australian actress [[Rose Byrne]] in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']].<ref name="Episode II" /> Though not actually visible in the film, Dormé was scripted to have quietly laughed during Anakin Skywalker's outburst of frustration while Padmé Amidala packed to depart from Coruscant.<ref name="databank">{{DB|character|dorm|Dormé}}</ref>
+
+==Appearances==
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*''[[Star Wars: Forces of Destiny—Ahsoka & Padmé]]'' {{Mo}}
+
+==Sources==
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|confederacy-of-independent-systems|Confederacy of Independent Systems|archivedate=20170504153602}} {{Po}}
+*{{Databank|coruscant|Coruscant|archivedate=20170705001748}} {{Po}}
+*{{Databank|dorme|Dormé|archivedate=20161216124650}}
+*{{Databank|jar-jar-binks|Jar Jar Binks}} {{Po}}
+*{{Databank|padme-amidala|Padmé Amidala}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Dormé
+}}
+
+[[Category:Females]]
+[[Category:Galactic Republic individuals]]
+[[Category:Humans]]
+[[Category:Naboo Royal Handmaidens]]
+[[Category:Naboo]]

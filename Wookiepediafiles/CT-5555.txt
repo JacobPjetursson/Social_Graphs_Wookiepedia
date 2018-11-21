@@ -1,0 +1,171 @@
+{{Eras}}
+{{Character
+|type=Galactic Republic
+|image=[[File:FivesHS-Conspiracy.png]]
+|name=CT-5555<br />"Fives"
+|homeworld=[[Kamino]]<ref name="Clone troopers">{{Databank|clone-troopers|Clone troopers}}</ref>
+|birth=
+|death=[[19 BBY]], [[Coruscant]]<ref name="Orders">{{TCW|Orders}}</ref>
+|species=[[Human]] {{C|[[Cloning|clone]]}}<ref name="Clone troopers" />
+|gender=[[Sexes|Male]]<ref name="rookies">{{TCW|Rookies}}</ref>
+|height=1.83 [[meter]]s<ref name="Clone troopers" />
+|mass=
+|hair=[[Color|Black]]<ref name="rookies" />
+|eyes=Brown<ref name="rookies" />
+|skin=Tan<ref name="rookies" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Clone troopers" />
+**[[Domino Squad]]<ref name="Clone Cadets">{{TCW|Clone Cadets}}</ref>
+**[[501st Legion]]<ref name="Darkness on Umbara">{{TCW|Darkness on Umbara}}</ref>
+|masters=
+|apprentices=}}
+{{Quote|This is about more than just following orders.''"<br />"''It is. It's about honor.''"<br />"''Where is the honor in marching blindly to our deaths?|Fives and Rex|Plan of Dissent}}
+'''CT-5555''', also referred to as '''ARC-5555''' and previously designated as '''CT-27-5555''', was a [[clone trooper]] who served in the [[Grand Army of the Republic]] during the [[Clone Wars]]. Due to his [[Cloning|clone]] designation, he was given the nickname "'''Fives'''." Originally a [[clone cadet]] during the early phase of the pan-[[The galaxy|galactic]] conflict between the [[Galactic Republic]] and [[Confederacy of Independent Systems]], Fives completed his training on [[Kamino]] and attained the [[Military rank|rank]] of [[trooper]] alongside his teammates in [[Domino Squad]]. As a [[Shinie|newly-trained]] [[soldier]], he was stationed in a [[Rishi Station|Republic outpost]] on the [[Rishi moon]] at the [[time]] of a [[Battle of the Rishi moon|Separatist attack]] on the installation. As one of only two survivors, Fives was recruited into the [[501st Legion]]. Following the successful [[Battle of Kamino|defense of Kamino]], he joined the ranks of the elite [[Advanced Recon Commando]]s along with [[CT-1409]] ("Echo"), the only other survivor of the attack on [[Rishi]] Station.
+
+Following the [[Capture of Even Piell|capture]] of [[Jedi General]] [[Even Piell]], Fives was deployed with a team of [[Jedi]] and clones to [[Lola Sayu]] in order to [[Battle of Lola Sayu|rescue]] the [[Prisoner|imprisoned]] [[General]] from a [[Prison|facility]] known as the [[Citadel]]. Though the team sustained multiple casualties over the course of the mission, resulting in the [[death]] of Piell and the loss of Echo, who was presumed dead, Fives was among the survivors rescued by Jedi General [[Plo Koon]]. Later in the war, Fives served with the 501st during the [[Battle of Umbara]]. During the campaign, he played a key role in both the capture of the [[Umbaran airbase]] and the destruction of the [[DH-Omni Support Vessel|Separatist supply ship]]. However, the clones ultimately discovered that their general, the [[Besalisk]] [[Jedi Master]] [[Pong Krell]], had betrayed the Republic, deceiving his own clone troopers into fighting each other. As a result, Fives participated in their efforts to capture the [[Dark side of the Force|fallen]] Jedi.
+
+While attempting to [[Battle of Ringo Vinda|take]] [[Ringo Vinda]] from the Separatists, Fives witnessed the death of Tiplar, a Jedi General executed mid-battle by [[CT-5385]] ("Tup"). A [[Escape from Tipoca City|chain of]] [[Escape from the Grand Republic Medical Facility|events]] was set in motion by the preemptive execution of [[Order 66|Clone Protocol 66]], leading Fives to discover a conspiracy involving [[Control chip|inhibitor chips]], a plot to [[Jedi Purge|destroy]] the [[Jedi Order]], and&mdash;to an extent&mdash;[[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine's]] connection to it. After failing to [[assassin]]ate Palpatine, Fives sought to warn the Jedi but was [[Mission to Level 1325|confronted]] by [[Clone Commander]] [[CC-1010]] ("Fox") and a contingent of [[Coruscant Guard]] [[Clone shock trooper|shock troopers]]. Although Fives was killed before he could expose the conspiracy behind the inhibitor chips, not every clone executed Order 66. At least three clones&mdash;[[Rex|CT-7567]] ("Rex"), [[CC-3636]] ("Wolffe"), and [[CC-5576-39]] ("Gregor")&mdash;removed their chips prior to the activation of Order 66. As such, they did not turn against the Jedi unlike the rest of the clone [[army]] that went on to serve the [[Galactic Empire]].
+
+==Biography==
+===Clone cadet on Kamino===
+{{Quote|Thanks, CT-27-5555. That was close.''"<br />"''It's Fives. The name is Fives!|Echo and Fives|Clone Cadets}}
+During the first year of the war, Fives, along with [[CT-00-2010|Droidbait]], [[CT-782|Hevy]], [[CT-1409|Echo]], and [[CT-4040|Cutup]] were [[clone cadet]]s in [[Domino Squad]]. The other clones in Domino Squad called Fives by his number, CT-27-5555, although Fives would rather be called by his nickname. Domino Squad was reckless, and they rarely got along as a team. Their training was overseen by bounty hunters [[Bric]] and [[El-Les]], and [[Jedi Master]] [[Shaak Ti]]. The cadets were given a [[Citadel Challenge/Legends|test]] and to pass it, all cadets must successfully work as a team without any injuries. During one of Domino Squad's combat simulation tests, Droidbait broke away from the group and was shot. El-Les and Commander [[Colt]] ended their test and failed the team for their inability to function as a cooperative unit.
+
+[[File:EchoFivesRequestTramsfer-CC.png|thumb|250px|Echo and Fives confer with Shaak Ti.|left]]
+The cadets went to their sleeping quarters, but Fives and fellow cadet Echo went to Shaak Ti and asked for a transfer to a new squad. Ti declined their request, and she revealed she had faith within Domino Squad and allowed the team to try the challenge one more time. During the test, Fives, along with his squadmates, noticed that they did not have their ascension cables due to tampering in their equipment by a still skeptical Bric. The clones decided to assist one another in free-climbing the turrets along the sides of the Citadel to complete their task. It proved a success and Domino Squad celebrated their victory, finally coming to know one another as brothers and a team. Ti and El-Les commended Domino Squad's efforts, and all five cadets were given medals as a symbol of their graduation from clone cadet to full fledged members of the Grand Army of the Republic.<ref name="Clone Cadets" />
+
+===Service on the Rishi Moon===
+{{Quote|It's no good. Their comlinks are on a different scramble set.''"<br />"''I'll signal them with this flare.|Echo and Hevy|Rookies}}
+After graduating their basic Kamino training, CT-5555 and his fellow rookies, Hevy, Cutup, Droidbait, and Echo, were given their first assignment. Assigned to the [[Rishi moon]], the clones were charged with protecting and operating a Republic [[Rishi Station|listening post]]. Led by a [[Sergeant|clone trooper sergeant]], the rookies were the only form of defense during an [[Battle of the Rishi moon|attempted Separatist takeover]] of the listening post. Following the initial assault from [[BX-series droid commando|Separatist commando droids]], Fives, Echo, Cutup and Hevy managed to escape the base onto the moon's surface. Unfortunately, they were attacked by a [[Rishi eel]] which killed Cutup. After the arrival of [[CC-2224|Clone Commander Cody]] and Clone [[Rex|Captain Rex]], who were visiting the base for a routine inspection, Fives and his comrades warned the officers with a signal flare that the base was occupied by droids. Fives met Captain Rex and Commander Cody for the first time after they rappelled from the platform. The clone troopers then decided to retake the base.
+
+[[File:RexPromotesRookies-R.png|thumb|220x220px|Echo and Fives are welcomed in the 501st]]
+Following the successful recapture, Fives assisted the clone officers in securing the base and working to fix the signal. After noticing a Separatist invasion fleet approaching the moon, Fives, Commander Cody, and Hevy located the armory and secured weaponry for the entire clone group. After fighting back a second wave of battle droids, Fives and the clone group escaped through a maintenance hatch to the moon's surface. Clone trooper Hevy stayed behind and destroyed the station, effectively alerting the Republic of the invasion and sacrificing himself. After being rescued by the Republic, Fives and Echo, the only survivors of Domino Squad, were invited to join the [[501st Legion|501st clone battalion]] by Captain Rex.
+
+===Battle of Kamino===
+{{Quote| Look around! We're one and the same; same heart, same blood. Your training is in your blood.  And my blood's boiling for a fight!|Fives, trying to boost cadets' confidence during the Battle of Kamino as droids close in|ARC Troopers}}
+[[File:RexCodyFivesEcho-Kamino.png|left|thumb|220x220px|Fives and Echo assist Captain Rex and Commander Cody in the Defense of Kamino]]
+Fives, Echo and the rest of the 501st returned to Kamino to [[Battle of Kamino|defend]] it an oncoming Separatist invasion. Being back on their homeworld after months away proved surreal to the two surviving members of Domino Squad. In preparation for the defense of the planet's cloning facilities, they met [[99]], a deformed maintenance clone who had been kind to the Domino's during their training, and informed him of Hevy's death. Saddened by the news, 99 revealed Hevy's graduation medal, which had been a gift between the two clones, to Fives and Echo. After a moment of sadness between the three clones, 99 volunteered to help prepare for the invasion.
+
+When Ventress's [[Trident-class assault ship]]s attacked, Fives and Echo were assigned as snipers to hold off the oncoming droid forces. With 99's help, the duo was able to stall the advancement of Separatist forces. In the midst of the chaos, the three clones happened upon a team of lost cadets and escorted them to safety. As Grievous and Ventress advanced further into the heart of Kamino in the search of genetic samples of the Republic's clone army, the group was found by Captain Rex and Commander Cody at the cadet barracks. After 99 helped them gather weapons from a nearby armory, the group staged a trap for the incoming droids. Together, the troopers, the cadets, and 99 were able to defeat a squad of Grievous's battle droids. However, the battle ended in grief; 99 died trying to help his brothers.
+
+After the battle was over, Fives and Echo were promoted by Captain Rex to [[Advanced Recon Commando|ARC trooper]] for the role they played in the defense of Kamino.<ref name="ARC Troopers">{{TCW|ARC Troopers}}</ref>
+
+===Battle of Lola Sayu===
+{{Quote|We're trusting those droids to get us into the Citadel?|Fives, to Cody|The Citadel}}
+[[File:EchoFivesARCarmor-TC.png|right|thumb|220x220px|Echo (left) and Fives (right) as ARC Troopers during their covert mission to Lola Sayu]]
+Following their promotion and training to ARC trooper, Fives and Echo were assigned to Kenobi's and Skywalker's [[Battle of Lola Sayu|mission]] to rescue Master [[Even Piell]] from the [[Citadel]] on [[Lola Sayu]]. After being [[Carbon-freezing|frozen in carbon]] to sneak past Separatist life-form detecting scanners, the rescue team was successful in infiltrating the Citadel. They were able to get inside the Citadel and free Piell, Captain [[Wilhuff Tarkin]], and some captive clone officers from Commander [[Osi Sobeck|Sobeck's]] prison. Pursued by Separatist security, the rescue team was forced to split up to protect the vital intelligence carried by the Piell and Tarkin. Echo and Fives joined Skywalker's team through the old tunnels beneath the Citadel, along with Tarkin.<ref name="The Citadel">{{TCW|The Citadel}}</ref>
+
+Pursued by Separatist forces, Skywalker's team was initially delayed in their attempts to rendezvous with Kenobi's. An impromptu plan was developed to meet back at the Citadel's airfields and hopefully use Separatist aircraft to escape. While the teams reunited, Sobeck's security droids amassed in force. During a fierce firefight, Fives and Echo tried to reach the shuttle. Echo made it to the ship's ramp but was killed when a commando droid blew up the shuttle. Lacking any time to retrieve a body or [[Mourning|mourn]], Fives and both teams were forced to flee the airfield.<ref>{{TCW|Counterattack}}</ref> Unbeknownst to them, Echo in truth survived and was captured by the Separatist. It would be the last time Fives will ever see Echo
+
+[[File:RexFives-CR.jpg|thumb|left|220x220px|Captain Rex and Fives participate in the rescue of Jedi General Even Piell]]
+Fives and the others made their escape across Lola Sayu's shadowy landscape, fighting Sobeck's battle droids and being tracked by his [[Anooba]]s. Piell was killed when the anoobas caught up, but managed to transfer his half of the intel to [[Ahsoka Tano]]. The team finally reached the rendezvous point to await Master Koon's extraction team. When a desperate Sobeck himself attacked, Fives was able to shoot him down from his [[Single Trooper Aerial Platform|STAP]] allowing for his eventual death at the hands of Ahsoka. Fives and the others were then rescued and returned to Coruscant.<ref>{{TCW|Citadel Rescue}}</ref>
+
+===Battle of Umbara===
+{{Quote|I am not just another number! None of us are!|Fives|Carnage of Krell}}
+[[File:501stFrontLines-Umbara.png|right|thumb|220x220px|Fives, Captain Rex, and General Pong Krell participate in the fighting on Umbara]]
+When Umbara seceded from the Republic, Fives was re-assigned to the 501st, becoming the only assigned ARC Trooper in the battalion for [[Battle of Umbara|the upcoming campaign]]. He was also present in the initial ground assault against Umbaran forces, even rescuing fellow trooper [[Hardcase]] from [[Vixus|local wildlife]]. Following the establishment of a forward position, Anakin Skywalker was called off planet. In his place, the venerated Jedi General [[Pong Krell]] was assigned as temporary leader of the 501st. Fives quickly drew issue with Krell's firm and seemingly reckless style of leadership, which often led to the unnecessary endangerment and death of fellow clones. Fives joined Rex in voicing his direct concern with the Besalisk's leadership style, only to be met with a drawn lightsaber.<ref name="Darkness on Umbara" />
+
+[[File:HardcaseFives-TG.jpg|thumb|left|220x220px|Fives and Hardcase undergo a secret mission against Krell's orders]]
+Following a failed attempt at reaching the Umbaran Capital, Fives and the rest of the 501st then held their ground against increasing enemy resistance. Efforts were refocused when Krell received orders to target a critical airbase. Krell ordered a full frontal assault through a valley. Again, Krell's leadership style led to the death of dozens of soldiers, further enraging Fives. Despite Rex's insistence that he keep a level head for the sake of the rest of the troops, Fives advocated for a plan of action separate from Krell's. As more troops perished in action against advanced [[Umbaran mobile heavy cannon|Umbaran military technology]], Rex sent Fives and Hardcase, against Krell's wishes, to capture enemy aircraft and assist in the battle. Despite a lack of familiarity with the technology, the plan proved to be a success. Fives and Hardcase were able to enter the base undetected, commandeer two enemy starfighters, and secure a victory. While Krell expressed his frustration with the insubordination, he begrudgingly accepted the victory it afforded him.<ref name=":0">{{TCW|The General}}</ref>
+
+With the base captured, Fives continued to voice his frustration with Krell to Rex. He found himself repeatedly rebuffed as Rex struggled to hold the battalion together under Krell. After a series of long range missile attacks threatened both the base and the [[212th Attack Battalion|212th Battalion]], Fives approached Rex with a plan hatched by himself, Hardcase, and [[CT-5597|Jesse]] to utilize the captured Umbaran fighters and launch a sneak attack on the unsuspecting Separatist supply ship, hopefully ending the airstrikes. Rex eagerly presented the plan to Krell. When Krell refused to authorize the plan, the three clones undertook the mission anyway.
+
+The trio sneaked out of the airbase in Umbaran Starfighters. When Krell demanded to know where the clones had gone, Rex covered for them. In space, Fives, Hardcase, and Jesse successfully destroyed the supply ship, but not without the loss of Hardcase, who sacrificed his life so his brothers could live another day. Fives and Jesse escaped the exploding supply ship while Hardcase slammed one of his starship's missiles into the supply ship's core.
+
+Upon their successful return, Fives and Jesse shared their victory and grief with Rex and [[CT-5385|Tup]], who had run out to meet them. They were interrupted by clones sent by Krell to fetch Fives and Jesse. In the base's tower, a furious Krell yelled at Fives and Jesse and arrested the clones with the intention of having them court martialed.<ref>{{TCW|Plan of Dissent}}</ref>
+
+[[File:Appowithprisoners-COK.png|thumb|right|220x220px|Fives and Jesse are prepared for execution.]]
+Rex opposed Krell's decision, even trying to take the punishment himself. However, Rex only angered Krell further. The Jedi ordered the immediate execution of Fives and Jesse. As Fives and Jesse were lined up to be killed by a firing squad of their brothers, led by [[Dogma]], Fives made a plea to his fellow clones. He said that he felt that his actions were justified, and that clones, as people, shouldn't follow orders when they know the orders are wrong. The clones, realizing that they held a greater loyalty to justice and each other than their general, fired, but missing, then lowered their weapons and refused to carry out Krell's orders.
+
+Before the general could retaliate, word reached the base that a portion of the 212th had been captured by Umbaran natives who were now posing as clone soldiers. Fives and Jesse were put back in the brig while Krell sent Captain Rex and the rest of the 501st clone troopers out to stop the disguised enemies. The 501st engaged their foes, resulting in massive casualties on both sides. The battle was cut off when Rex realized that the opposing soldiers were clones of the 212th, also sent under Krell's orders.
+
+Led by Rex, the furious remainder of the two battalions returned to the airbase with the intent of arresting General Krell for treason against the Republic. After releasing Fives and Jesse from the brig, the group found Krell in the tower. When they accused Krell of treachery, he admitted he had been secretly manipulating the soldiers all along. After a brief encounter with a confused Dogma, the clones out out to catch the former Jedi. What followed was a desperate and deadly attempt at capture during which dozens of clones died. It ended when Tup, with the help of a native Vixus, managed to deceive and detain the mad general long enough to stun him.
+
+Now a prisoner of the clones, Krell revealed to Fives and his brothers that his actions on Umbara were due to a lack of faith in the Republic and intended to gain the loyalty of Count Dooku. Fives, Rex, and the rest of the 501st leadership debated what to do with the dangerous rogue Jedi they now held captive. When news broke that General Kenobi's forces had captured the planet's capital and that the remaining Umbaran military were headed directly for their current position, it was decided that Krell should be executed. When Rex hesitated to kill his former general, a distraught Dogma fired the killing blow. With Krell dead and the Umbarans subdued, Fives left the shadowy planet with shaken faith in his place in the Republic's war effort, asking Rex, "What's the point of all this?"<ref>{{TCW|Carnage of Krell}}</ref>
+
+===The biochip conspiracy===
+{{Quote|Rex....this...it's...bigger than any of us...than anything...I could've imagined....I never meant to...I only wanted to do my duty. The mission...the nightmares...they're...finally...over....|Fives (last words)|Orders}}
+[[File:InterrogatingTup-TU.png|left|thumb|220x220px|Fives participates in the interrogation of Tup following his unexpected killing of Jedi Master Tiplar.]]
+Fives continued to serve as an active member of the 501st throughout the latter years of the war. In the process, he grew close with his fellow clones and fostered strong friendships with the different members of his battalion. Later, Fives, along with the rest of the 501st, took part in a [[Battle of Ringo Vinda|military campaign]] to defeat Separatist forces led by Admiral [[Trench]] occupying space station surrounding the world of [[Ringo Vinda]]. In the process of battle, a fellow clone and close friend of Fives, Tup, fired upon and killed Jedi General [[Tiplar]]. In the chaos, the 501st were forced to retreat. While Tup appeared to be unaware of his actions, he continued to display strange behavior and lash out violently towards Jedi. Both Jedi and clone leadership determined that Tup should be sent to Kamino for further evaluation. However, in the process, Tup was temporarily captured by Separatist forces on his departure from the station. Together Fives, Rex, and Anakin Skywalker were able to retrieve a still unconscious Tup before Trench's droids could abscond with him. Concerned for his friend's safety, Fives requested that he accompany the troubled clone to Kamino.<ref name="The Unknown">{{TCW|The Unknown}}</ref>
+
+[[File:EpGuide602.png|thumb|220x220px|Fives watches Tup's medical tests]]
+Upon arriving at Kamino, the facilities medical leader, [[Nala Se]], said that Tup's strange behavior may in fact be a virus requested that Fives stay behind on the planet to undergo examinations alongside his friend. Fives agreed, primarily to keep an eye on the treatment of his friend. He quickly grew suspicious of the care afforded to Tup, and began to suspect the Kaminoans of possessing an ulterior motive. With the assistance of medical droid [[AZI-345211896246498721347|AZ-3]], who created a diversion, Fives performed a dangerous level 5 brain scan on Tup. Fearing for Tup's immediate safety, Fives and AZ-3 removed the tumor from his brain. While the operation appeared to be a success, Shaak Ti and Nala Se discovered his insubordination and reprimanded him for his risky behavior. Despite Fives's efforts, Tup died after whispering his final words to his devastated friend.<ref name="Conspiracy">{{TCW|Conspiracy}}</ref>
+
+With Tup's passing, Fives was seemingly cleared from his own examinations and ordered to return back to the frontlines with the 501st. However, a passing comment from AZ-3 revealed that the Kaminoans in fact intended to wipe his brain and reassign him to maintenance. In a moment of desperation, Fives lashed out against Kaminoan security and fled into the depths of the facility with his droid friend in tow. Now convinced that there was more to his friend's death than previously appeared, he stole the tumor to conduct further tests of his own. Together with AZ-3, Fives was able to determine that the tumor itself was in fact an [[Control chip|artificially designed organic chip]] inserted into Tup's head. Further investigation revealed that the chip itself was installed during the earliest stages of clone embryo development. Fearing for his own safety, Fives ordered AZI-3 to remove the chip from his own brain. Comparing Fives' and Tup's chips, AZI-3 and Fives discovered that Fives's chip appeared to be healthy and functioning properly while Tup's suffered from some form of decay. Shortly after discovering this, he was discovered by Nala Se and the rest of the Kaminoan security forces. While Nala Se insisted that the chip was designed to curb aggression among clones, Fives argued that the chip itself was reason for suspicion. His words convinced Shaak Ti and she requested that Fives be sent to Coruscant to undergo further tests and to plead his case to the Supreme Chancellor.<ref name="Fugitive">{{TCW|Fugitive}}</ref>
+
+[[File:GoodbyeFives-O.png|left|thumb|220x220px|Fives dies in Rex's arms]]
+While en route to Coruscant, Nala Se injected Fives, barely conscious due to the stress of his impromptu surgery, with a form of mind clouding drug. [[Supreme Chancellor]] [[Darth Sidious|Palpatine]] himself met with Fives along with Nala Se and Shaak Ti. Despite his best efforts, Fives's description of his experiences were unable to convince any of the other members of the meeting of his belief of a conspiracy. Despite Nala Se's insistence that Fives was suffering from paranoia and mental degradation, Palpatine requested to speak to the soldier alone to hear his story in further detail. After Shaak Ti and Nala Se had left, the Chancellor lashed out and attacked Fives, who in a moment of self defense was framed as a potential assassin. Now a fugitive from justice, Fives fled into the bowels of Coruscant, looking for potential allies and anyone who might hear him out. Eventually, he arrived at the clone bar, [[79's]]. There he managed to convince his longtime friend, fellow 501st soldier [[CT-6116|Kix]], to contact Anakin Skywalker and Captain Rex so that they could speak privately.<ref name="Orders" />
+
+To Fives' surprise, both Skywalker and Rex appeared at his requested meeting spot. Fearing that neither would listen to his story, he trapped both in a [[ray shield]]. Agitated by his experience and by Nala Se's drugging, Five's attempts to explain his actions and his discoveries proved incoherent. When Skywalker accused Fives of trying to assassinate Palpatine, the tension escalated.<ref name="Orders" />
+
+Midway through his explanation, [[CC-1010|Commander Fox]] and a squad of [[Clone shock trooper|Coruscant guards]] arrived to arrest him, sent by Palpatine. Desperate not to be captured, a terrified Fives reached for one of Rex's discarded blasters. After a warning, Fox shot Fives in the heart. Fives spent his final moments in Rex's arms, where he spoke his last words, reciting Tup's, having finally found peace.<ref name="Orders" />
+
+===Legacy===
+While Fives's discovery of the presence of a control chip within the clone anatomy did not prevent the [[Order 66|mass execution of the Jedi]] as he hoped, his efforts ultimately did help his brothers. Several clones including Rex, Wolffe, and Gregor eventually removed their chips. Fives also assisted in several crucial military campaigns.<ref name="The Lost Commanders">{{Rebels|The Lost Commanders}}</ref>
+
+==Personality and traits==
+[[File:Fives-TCW.jpg|thumb|220x220px|Fives's armor and appearance before and after his promotion to ARC Trooper.]]
+Fives began his life as an eager and relatively complacent member of the Grand Army of the Republic. He spent his first 10 or so years on Kamino, receiving military training with the rest of his squad. When Domino Squad was eventually assigned to guard the quiet Rishi moon outpost, its members were eager to experience the action of the front lines.<ref name="rookies" /> From the start, Fives demonstrated a strong ability to empathize and care for his fellow clones. He developed a particularly close bond with Echo,<ref name="Clone Cadets" /> the only member of his squad to survive the Rishi moon, and the two progressed together through the ranks of the 501st.
+
+Following Echo's apparent death, Fives's affection and loyalty to his clone brothers began to overshadow his commitment to the Republic and the war effort. By the time of the Battle of Umbara, Fives showed no qualms in voicing criticisms and concerns with his superiors regarding the treatment of his brothers.<ref name="Darkness on Umbara" /> This loyalty to his fellow clones would ultimately lead him to his ill-fated investigation into the origins of a bio-chip implanted in the brains of himself and his fellow clones.<ref name="Orders" />
+
+Fives made friends and developed close relationships with many of the other members of the 501st, including Captain Rex, Tup, Jesse, Kix, Hardcase, and Echo. He also had positive relationships with Obi-Wan Kenobi and Anakin Skywalker, the latter whom was saddened by his death. Fives sported a tattoo on his right temple of the number "5" in accordance to his nickname and clone number designation.
+
+==Equipment==
+During his time as a cadet, Fives wore standard training armor and used a DC-15 blaster rifle.<ref name="rookies" /> Upon graduation, he wore standard trooper armor, which he decorated with blue stripes, a stylized blue and red Rishi eel running down the top of the helmet, and an image of a Z-6 blaster cannon on his shoulder upon entering the 501st Legion. He continued to use a DC-15 blaster rifle while he was in the 501st Legion.<ref name="ARC Troopers" /> When he was promoted to ARC trooper, he kept the blue markings and Rishi eel art on his ARC armor,<ref name="The Citadel" /> and began using twin DC-17s like his friend Rex, though he continued use the DC-15A from time to time.<ref name=":0" />
+
+==Behind the scenes==
+The author [[Paul S. Kemp]] confirmed on Twitter that he mistakenly referred to Fives as "Sixes" in the novel ''[[Lords of the Sith]]'', an error which was corrected in later copies of the book.<ref name="Sixes">{{Twitter|Paulskemp|status/593477106555867137|[[Paul S. Kemp]]|quote=Since I've been asked: "Sixes" is my error.  It will be fixed in future editions.|image=File:Sixes tweet.png}}</ref>
+
+==Appearances==
+*{{TCW|Clone Cadets}}
+*{{TCW|Rookies}} {{1st}}
+*{{TCW|ARC Troopers}}
+*{{TCW|The Citadel}}
+*{{TCW|Counterattack}}
+*{{TCW|Citadel Rescue}}
+*{{TCW|Darkness on Umbara}} {{1stID|ARC-5555}}
+*{{TCW|The General}}
+*{{TCW|Plan of Dissent}}
+*{{TCW|Carnage of Krell}}
+*{{TCW|The Unknown}}
+*{{TCW|Conspiracy}} {{1stID|CT-5555}}
+*{{TCW|Fugitive}}
+*{{TCW|Orders}}
+*{{TCW|The Bad Batch}} {{Mo}}
+*''[[Lords of the Sith]]'' {{Mo}} {{C|mistakenly referred to as "Sixes"}}
+*''[[The Crimson Corsair and the Lost Treasure of Count Dooku]]'' {{Mo}}
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+*{{InsiderCite|152|A Trip to the Light Side}}
+*{{SWE|characters|clonecommandercody|Clone Commander Cody}} {{Po}}
+*{{SWE|characters|arctrooperfives|ARC Trooper Fives}}
+*{{SWE|characters|rex|Clone Captain Rex}}
+*{{SWE|characters|vixus|Vixus}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{Databank|79-s|79's|archivedate=20170807073430}}
+*{{Databank|arc-trooper-echo|ARC Trooper Echo|archivedate=20170706044107}}
+*{{Databank|arc-trooper-fives|ARC Trooper Fives|archivedate=20170707054534}}
+*{{Databank|dogma|Clone Trooper Dogma|archivedate=20160211144016}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|el=CT-5555
+|fr=Fives
+|ja=CT-5555
+|pt=Cânon:CT-5555
+}}
+
+[[Category:Advanced Recon Commandos]]
+[[Category:Clone troopers]]
+[[Category:Members of the 501st Legion]]

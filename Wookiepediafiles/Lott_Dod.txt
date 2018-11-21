@@ -1,0 +1,104 @@
+{{Eras}}
+{{Character
+|type=CIS
+|image=[[File:Lott_Dodd_thumb.png]]
+|name=Lott Dod
+|homeworld=[[Neimoidia]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[19 BBY]], during the [[Clone Wars]]<ref name="Poe Dameron 20">''[[Poe Dameron 20: Legend Found, Part I]]''</ref>
+|species=[[Neimoidian]]<ref name="Dod Databank">{{Databank|lott-dod|Lott Dod}}</ref>
+|gender=[[Sexes|Male]]<ref name="Dod Databank" />
+|height=1.9 [[meter]]s<ref name="Dod Databank" />
+|mass=
+|hair=
+|eyes=[[Color|Red]]<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|skin=Green<ref name="Episode I" />
+|cyber=
+|era=
+|affiliation=*[[Trade Federation]]<ref name="Episode I" />
+*[[Galactic Republic]]<ref name="Episode I" />
+**[[Galactic Senate]]<ref name="Episode I" />
+*[[Confederacy of Independent Systems]]<ref name="Dod Databank" />
+|masters=
+|apprentices=}}
+{{Quote|We have nothing to do with the Separatists. Nute Gunray is an extremist. His views do not reflect those of the Trade Federation.|Lott Dod|Supply Lines}}
+'''Lott Dod''' was a [[Neimoidian]] [[Sexes|male]] [[Politics|politician]] who served as the [[senator]] of the [[Trade Federation]] during the [[Invasion of Naboo]] and the [[Clone Wars]].
+
+==Biography==
+Lott Dod represented the [[Trade Federation]] in the [[Galactic Senate]] during the twilight [[Standard year|years]] of the [[Galactic Republic]]. During the Federation's [[Invasion of Naboo|occupation]] of [[Naboo]], Dod used his position to object to Naboo's claims about the Federation, and attempted to force a delay in any action on the Senate's part.<ref name="Episode I" />
+
+===Clone Wars===
+Over [[Standard decade|ten years]] later, during the [[Clone Wars]], the Federation and its leader, [[Viceroy of the Trade Federation|Viceroy]] [[Nute Gunray]], were allied with the [[Confederacy of Independent Systems]].<ref name="Ep.II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref> Dod again used his position in the Senate in an attempt to claim that the Federation as a whole was not a member of the Separatist Alliance,<ref name="SoS">{{TCW|Sphere of Influence}}</ref> and that Gunray was a fanatic who did not represent the Federation.<ref name="Supply Line">{{TCW|Supply Lines}}</ref> Dod also conspired with Senator [[Rush Clovis]] and Separatist Council member [[Poggle the Lesser]] to build a [[Geonosis primary droid foundry|droid factory]] on Poggle's home world of [[Geonosis]].<ref name="SS">{{TCW|Senate Spy}}</ref>
+
+Sometime later during the conflict, Dod was [[Death|killed]].<ref name="Poe Dameron 20" />
+
+{{Char-stub}}
+
+==Behind the scenes==
+Lott Dod first appeared in the [[Star Wars: Episode I The Phantom Menace (novelization)|novelization]] of the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] by [[Terry Brooks]],<ref name="novelization">[[Star Wars: Episode I The Phantom Menace (novelization)|''Star Wars'': Episode I ''The Phantom Menace'' novelization]]</ref> and then in the film itself.<ref name="Episode I" /> He was played by [[Silas Carson]] and voiced by [[Toby Longworth]] in the film.<ref name="Episode I" /> Dod later appeared in the television series ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'', where he was voiced by [[Gideon Emery]].
+
+[[File:76981-25524.jpg|thumb|left|200px|The second Neimoidian in ''Attack of the Clones''.]]
+Lott Dod was named after then-[[Wikipedia:Republican Party (United States)|GOP]] [[Wikipedia:Party leaders of the United States Senate|Senate leader]] in [[1997]] [[Wikipedia:Trent Lott|Trent Lott]], in an attempt to directly connect the Trade Federation's characterization and motives with that of the [[Wikipedia:Republican Revolution|Republican Revolution]] that occurred in [[1994]].<ref name="Republican Revolution's ties to Trade Federation and TPM's plot">''[[How Star Wars Conquered the Universe: The Past, Present Future of a Multibillion Dollar Franchise]]''</ref> Originally, for his appearance, Dod and the Neimoidians were designed as organic versions of the Federation's B1 battle droids to suggest that the Neimoidians had modeled the battle droids after their own image. For this to work, the Neimoidians would have had to been produced by [[Wikipedia:Computer-generated imagery|computer-generated imagery]]. During production, [[Lucasfilm Ltd.]]'s Art Department opted to use animatronic masks to bring the Neimoidians to life. Consequently, the Neimoidians' appearances changed dramatically and Dod's senatorial miter, which first appeared in rough sketches of the Neimoidian, later took the shape of fellow Separatist [[Rune Haako]].<ref name="db">{{DB|character|lottdod|Lott Dod}}</ref>
+
+In the [[2002]] film [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']], a Neimoidian wearing clothing similar to that of Dod appears alongside Nute Gunray on Geonosis, spawning a debate as to who the Neimoidian was. The end credits for the film identify the Neimoidian as Lott Dod (as portrayed by [[Alan Ruscoe]]), but the Neimoidian does not resemble Dod.<ref name="AotC">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*''[[Star Wars Journeys: Beginnings]]''
+*{{TCW|Supply Lines}}
+*{{TCW|Senate Spy}}
+*{{TCW|Sphere of Influence}}
+*{{TCW|Heroes on Both Sides}}
+*{{TCW|The Rise of Clovis}}
+*{{TCW|Crisis at the Heart}}
+*''[[Poe Dameron 20: Legend Found, Part I]]'' {{Mo}}
+
+==Sources==
+{{Scroll box|
+*{{SW|url=tv-shows/clone-wars/senate-spy-episode-guide|text="Senate Spy" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/supply-lines-episode-guide|text="Supply Lines" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/sphere-of-influence-episode-guide|text="Sphere of Influence" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/heroes-on-both-sides-episode-guide|text="Heroes on Both Sides" Episode Guide - ''The Clone Wars''}}
+*{{SWE|groups|separatists|Confederacy of Independent Systems}} {{Po}}
+*{{SWE|groups|galacticrepublic|Galactic Republic}}
+*{{SWE|groups|galacticsenate|Galactic Senate}}
+*{{SWE|characters|jarjarbinks|Jar Jar Binks}} {{Po}}
+*{{SWE|characters|lottdod|Lott Dod}}
+*{{SWE|characters|padmeamidala|Padmé Amidala}} {{Imo}}
+*{{SWE|characters|rushclovis|Rush Clovis}}
+*{{SWE|groups|tradefederation|Trade Federation}}
+*{{SW|url=news/the-trade-federation-and-neimoidians-a-history|text=The Trade Federation And Neimoidians: A History}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]'' {{C|Misspelled as "Lott Dodd"}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|bail-organa|Bail Organa|archivedate=20170706030953}} {{Po}}
+*{{Databank|cato-neimoidia|Cato Neimoidia|archivedate=20170504213753}}
+*{{Databank|galactic-senate|Galactic Senate|archivedate=20170705025411}}
+*{{Databank|jar-jar-binks|Jar Jar Binks}}
+*{{Databank|lott-dod|Lott Dod}}
+*{{Databank|neimoidian|Neimoidian}}
+*{{Databank|poggle-the-lesser|Poggle the Lesser}} {{Po}}
+*{{SW|url=rush-clovis-biography-gallery|text=Rush Clovis biography gallery}}; images #2-5 {{C|of 20}}
+*{{Databank|trade-federation|Trade Federation}}}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Lott Dod
+|de=Lott Dod
+|es=Lott Dod
+|hu=Lott Dod
+|ja=ロット・ドッド
+|nl=Lott Dod
+|pl=Lott Dod
+|pt=Lott Dod
+|ru=Лотт Дод
+|uk=Лотт Дод
+}}
+
+{{DEFAULTSORT:Dod, Lott}}
+[[Category:Galactic Republic senators]]
+[[Category:Males]]
+[[Category:Neimoidians]]
+[[Category:Trade Federation members]]

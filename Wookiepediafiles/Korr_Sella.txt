@@ -1,0 +1,115 @@
+{{Eras}}
+{{Otheruses|title=Sella}}
+{{Update|[[Star Wars: The Rebel Files]]}}
+{{Character
+|type=Resistance
+|image=[[File:Kor Sella CT.png]]
+|name=Korr Sella
+|homeworld=
+|birth=[[12 ABY]]<ref name="Bloodline">''[[Bloodline (novel)|Bloodline]]''</ref>
+|death=[[34 ABY]], [[Hosnian Prime]]<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+|species=[[Human]]<ref name="Episode VII" />
+|gender=[[Sexes|Female]]<ref name="Episode VII" />
+|height=1.65 [[meter]]s<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|mass=
+|hair=[[Color|Black]]<ref name="Episode VII" />
+|eyes=Brown<ref name="Episode VII" />
+|skin=Dark<ref name="Episode VII" />
+|cyber=
+|era=
+|affiliation=*[[New Republic]]<ref name="Bloodline" />
+**[[Galactic Senate (New Republic)|Galactic Senate]]<ref name="Bloodline" />
+*[[Resistance]]<ref name="TFA VD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+**[[Resistance navy]]<ref name="TFA VD" />
+|masters=
+|apprentices=}}
+{{Quote|I have total confidence in you, Sella. I know you will deliver our message to the full extent of your considerable abilities.|Leia Organa|Star Wars: The Force Awakens (novelization)}}
+'''Korr Sella''', also known by the nickname '''Korrie''', was a [[Sexes|female]] [[human]] military officer who served as a [[commander]] in the [[Resistance navy|naval forces]] of the [[Resistance]] during its [[Cold war|conflict]] with the [[First Order]]. She served under the command of [[General]] [[Leia Organa]] as her envoy to the [[New Republic]], delivering warnings from the general about the actions of the First Order&mdash;warnings that generally fell on deaf ears in the [[Galactic Senate (New Republic)|Galactic Senate]]. Sella was on [[Hosnian Prime]], the [[capital]] of the Republic, to deliver a warning when the First Order [[Hosnian Cataclysm|destroyed]] the [[planet]] using their [[Starkiller Base]] [[superweapon]], [[Death|killing]] Sella and the rest of Hosnian Prime's population.
+
+==Biography==
+===New Republic===
+====Serving Senator Organa====
+{{Quote|Are the two parties really that far apart?''"<br>"''I'm afraid they really are.|Sella and Leia discussing the political divisions plaguing the New Republic|Bloodline (novel)}}
+[[File:Korr Sella DB.png|left|thumb|200px|Korr Sella]]
+Sella was born in [[12 ABY]] to [[Sondiv Sella]]<ref name="Bloodline" /> and a fellow [[New Republic]] [[Politics|politician]].<ref name="Character Encyclopedia" /> In [[28 ABY]], when Sella was sixteen [[Standard year|years]] old, she followed in the footsteps of her [[parent]]s by entering public service, working for [[Senator]] [[Leia Organa]] at the [[Galactic Senate (New Republic)|Galactic Senate]] on the galactic [[capital]] [[Hosnian Prime]]. One of her jobs in the service of Organa was to prepare review [[Hologram|holos]] for her so the senator could recognize each delegate in attendance at official events. Her employer Organa was a member of the [[Populists]], a faction in the Senate that favored the decentralized New Republic. The Populists clashed with the [[Centrists]], who advocated a stronger central government and military.<ref name="Bloodline" />
+
+Following a ceremony to dedicate a statue to the memory of the late Senator [[Bail Organa]], Sella suggested that Leia accept an invitation from the Centrist Senator [[Bevicard]] to attend a reception on [[Coruscant]] in order to build friendship between the Centrists and Populists. In response, Organa explained that the invitation was only a symbolic gesture and that Bevicard would be mortified if she had actually accepted it. When Sella asked whether the two factions were really apart, Leia clarified that this was indeed the case. Sella and another staffer [[Greer Sonnel]] were present when a frustrated Leia expressed her desire to quit the Senate.<ref name="Bloodline" />
+
+Later, Sella accompanied Leia Organa, Greer Sonnel, and the [[pilot]] [[Joph Seastriker]], and the Centrist Senator [[Ransolm Casterfo]] on a [[Mission to Bastatha|senatorial mission]] to investigate the [[Nikto]] [[crime lord]] [[Rinnrivin Di]]'s [[Rinnrivin Di's cartel|cartel]], which was based on [[Bastatha]]. The group traveled aboard Leia's personal [[starship]], ''[[Mirrorbright]]''. During the journey, Casterfo tried to make conversation with Sella but she came up with the excuse of having to review her work. While visiting a [[casino]] in Bastatha, Sella took the opportunity to practice the diplomatic courtesies that Sonnel had taught her. When Leia played a game of cards with the local Niktos, Sella offered to record a tally of her wins and losses. However, Organa told her to enjoy her drink.<ref name="Bloodline" />
+
+After Casterfo rescued Leia from Rinnrivin's [[Rinnrivin's headquarters|underground headquarters]], Sella ran a preliminary data analysis of the crime lord's [[droid]]s and discovered that the crime lord was channeling his gambling and smuggling profits into shadow corporations on various [[Outer Rim Territories|Outer Rim]] worlds. After Leia returned to Hosnian Prime, Sella joined [[C-3PO]] and Sonnel in encouraging Organa to nominate herself for [[First Senator]], a post that had been proposed by the Centrists to end the deadlock in the New Republic. While the Populists had initially opposed the idea, they decided to nominate one of their own in order to prevent a Centrist from occupying that office.<ref name="Bloodline" />
+
+====Political intrigue====
+{{Quote|It's a list of the Hutts' spice brokers. Rinnrivin was on the lowest rung of the operation&mdash;at least as far as anyone on Ryloth knew.|Sella took part in Leia Organa's investigation into Rinnrivin's cartel|Bloodline (novel)}}
+A few days later, Sella offered to bring a cushion for Senator Organa to relax after a busy day hosting several visitors including the leader of the [[Association of Small Craft Manufacturers]], ore traders from [[Gad]], and several junior senators from Populist worlds in the Outer Rim. Leia declined because she did not want to fall asleep in her office. Shortly later, the Centrist Senator [[Lord|Lady]] [[Carise Sindian]] visited to obtain a document that allowed her to inherit the [[Supreme governor]]ship of Birren. Since Leia was not interested in that position, she had transferred it to Lady Carise. While on Birren, Lady Carise discovered information on Leia's parentage as the daughter of [[Anakin Skywalker|Darth Vader]]. Unknown to everyone else, Lady Carise was a secret agent of the [[First Order]], an Imperial remnant, and was working behind the scenes to destabilize the New Republic.<ref name="Bloodline" />
+
+Later, Sella survived a [[Napkin Bombing|bomb attack]] that destroyed half the [[Senatorial conference building]]. Sella was not wounded by the bomb but was frightened. She found her friend Greer Sonnel, who had also escaped the bombing, and the two managed to find Leia after being tended to by a [[medical droid]]. Following the so-called "[[Napkin Bombing]]," Sella accompanied Leia, Seastriker, and C-3PO on a mission to [[Ryloth]] to search the [[Ryloth archives|planet's archives]] for information about Rinnrivin's cartel. After three hours, Sella complained that everything in the archives was written on paper. She also uncovered information about Rinnrivin's origins as a lowly spice dealer before becoming a major crime lord in the past seven years. Based on the records, Sella theorized that Rinnrivin was channeling funds to Centrist worlds and suggested that the Centrists were also funding him.<ref name="Bloodline" />
+
+Following the visit to the archives, Sella, Seastriker, and C-3PO took the ''Mirrorbright'' for a flight above Ryloth while Leia attended a reception hosted by her old comrade [[Emissary]] [[Yendor]]. In Leia's absence, Sella and her companions received information from Casterfo that Rinnrivin had secret relay satellites above Ryloth. After C-3PO [[slicer|sliced]] into one of the satellites, they discovered that Rinnrivin was hiding in the [[Expansion Region]] world of [[Sibensko]], which was also the headquarters of a paramilitary faction called the [[Amaxine warriors]]. Seastriker and Casterfo had determined that the Amaxines were colluding with Rinnrivin's cartel. While Leia was initially annoyed with her underlings for not consulting her, she was mollified to learn about Rinnrivin's whereabouts. Sella later accompanied Leia and her team to the planet [[Harloff Minor]] for a secret meeting with Rinnrivin.<ref name="Bloodline" />
+
+====The Storm====
+While approaching Hosnian Prime, Sella went through Leia's communiques which included messages from Leia's colleagues Senator Tai-Lin Garr and Varish Vichly. They also read news reports of the Centrists and Populists blaming each other for the Napkin Bombing. They also received word from Casterfo about his investigation on Daxam IV, which had taken a "dramatic leap forward." After digesting the news reports, Sella and Seastriker asked Senator Organa whether the New Republic was going to collapse. Leia responded that the infighting between the two factions could lead to a schism unless things did not work out.<ref name="Bloodline" />
+
+Later, Sella was deeply upset and angry following the public revelations about Leia's true parentage as the daughter of [[Anakin Skywalker|Darth Vader]], the dreaded Imperial enforcer. Due to the revelations, Leia's credibility was tarnished and she was forced to withdraw her nomination for First Senator. After Leia returned to her senatorial office to escape the crowd, a tearful Sella confronted her employer and announced her resignation. She chastised Organa for withholding this information from her and her staff. As a final snub, she slammed Leia for referring to her by her childhood nickname "Korrie."<ref name="Bloodline" />
+
+Ten days after Leia's speech to the Galactic Senate on her [[Mission to Sibensko|mission]] to Sibensko, Sella met Leia while she was accompanying the Populist Senator [[Tai-Lin Garr]] during his public campaign for First Senator. Sella apologized for abandoning Organa out of anger and expressed her admiration for the Senator. She also offered her services to Leia again, which the older woman gratefully accepted.<ref name="Bloodline" />
+
+===Resistance===
+{{Quote|But why don't you go yourself, General? An appeal of this nature is always more effective when delivered firsthand.''"<br />"''I might make it to the Senate, yes. I might even be able to deliver my speech. But I would never, never get out of the Hosnian system alive. I would have a terrible 'accident,' or become the victim of some 'deranged' radical. Or I would eat something that didn't agree with me. Or encounter someone who didn't agree with me.|Korr Sella and Leia Organa|Star Wars: The Force Awakens (novelization)}}
+After Organa resigned from the Galactic Senate and formed a paramilitary organization called the [[Resistance]] to [[Cold war|oppose]] the actions of the [[First Order]], Sella went with her and continued serving General Organa. Because Organa, who predicted the threat that the First Order posed to the New Republic, had been labeled as a warmonger and had her reputation damaged by the Senate, Organa used Sella as an envoy between the Resistance and the New Republic. The Republic believed that the First Order would not pose a threat to them so long as they abided by the dictates of the [[Galactic Concordance]], signed nearly three [[Standard decade|decades]] earlier by the Republic and the [[Galactic Empire]] at the end of the [[Galactic Civil War]], but the Resistance learned that the First Order intended to destroy the Republic. Organa frequently sent Sella to make a case for direct Republic action against the First Order&mdash;the Resistance was not officially sanctioned by the Republic but received limited support nonetheless.<ref name="TFA VD" />
+
+[[File:Korr Sella final moments.jpg|thumb|right|350px|Korr Sella moments before she is killed by Starkiller Base's superweapon.]]
+As the situation grew more dire, and the First Order prepared to use its [[superweapon]] known as [[Starkiller Base]] against the Republic's [[capital]] in the [[Hosnian system]], Organa tasked Sella with traveling to the capital world of [[Hosnian Prime]] to once again make a case for Republic action. Sella questioned whether the Senate would listen, and Organa conceded that she did not know&mdash;there was a time when the Senate would have been willing to listen, but the political makeup of the body had changed in the years since the New Republic's founding. Though Sella agreed to go, she questioned why the general did not go in person, to which Organa replied that even if she could deliver a speech to the Senate, there were certain members of the government who would ensure that she did not make it off of Hosnian Prime alive. Sella left with Organa’s confidence that she would be able to deliver her warnings to the Senate.<ref name="TFA novel">[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]</ref>
+
+While Sella was on Hosnian Prime, the Starkiller targeted the system and fired its weapon. Sella stood alongside [[Chancellor (New Republic)|Chancellor]] [[Lanever Villecham]] and members of the Senate and watched in horror as the Starkiller weapon hit Hosnian Prime, [[Hosnian Cataclysm|tearing the planet apart]] and [[Death|killing]] Sella and the members of the government along with it. Resistance forces later destroyed the weapon,<ref name="Episode VII" /> ensuring that it could never eliminate another planet again.<ref name="TFA novel" />
+
+==Personality and traits==
+{{Quote|...Because I walked out after we all learned about Vader. I shouldn't have done that. I've spent all this time thinking about what you were like when I worked for you, and how much I admire you, and I realized that I'm still sure you're a good person. So I should't have turned against you because of something you couldn't help.|Korr Sella reconciling with Leia|Bloodline (novel)}}
+Korr Sella was a [[human]] [[Sexes|female]] with [[Color|black]] [[hair]], brown [[eye]]s, and dark skin. She wore a Resistance command uniform. She showed her authority in how she carried herself, preferring a no-nonsense stance. As a teenager, Sella was an idealistic young woman who admired Leia Organa and looked up to the former rebel soldier and New Republic senator. Sella was a diligent office intern who took her job seriously and went out of her way to serve the senator. During her work as an office intern, Sella developed a friendship with Leia's personal pilot Greer Sonnel, who taught her to practice diplomatic courtesies. Informally, Sella preferred to be known by her childhood nickname "Korrie" when around her friends like Senator Organa and Sonnel.<ref name="Bloodline" />
+
+Sella was greatly distraught when she learned that Leia was the daughter of the reviled Imperial enforcer Darth Vader. Angered by Leia's perceived indiscretion and dishonesty, she resigned in protest. However, Sella came to reconsider her actions after Leia's investigation uncovered a conspiracy involving Rinnrivin's cartel and the Amaxine warriors. Sella later buried the hatchet with Senator Organa and re-offered her services. Leia gracefully accepted the younger woman's services<ref name="Bloodline" /> and later assigned her to work as the Resistance's envoy to the New Republic.<ref name="TFA VD" />
+
+==Behind the scenes==
+Korr Sella briefly appeared in the [[2015]] film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], in which she was portrayed by [[Maisie Richardson-Sellers]]. She appeared in only one scene, during the destruction of Hosnian Prime.<ref name="Episode VII" /> A scene in which Leia Organa tasked her to go to the Galactic Senate and explain the threat of the First Order was originally filmed too, but it was deleted from the final cut as writer [[Michael Arndt]] and director [[J.J. Abrams]] agreed that Leia's reintroduction would be more powerful through [[Han Solo]]'s eyes later on [[Takodana]].<ref name="Commentary">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] Director [[J.J. Abrams]] commentary</ref> Neverthless, [[Alan Dean Foster]]'s [[Star Wars: The Force Awakens (novelization)|novelization]] included the scene.<ref name="TFA novel" /> Further information about the character was provided in ''[[Star Wars: The Force Awakens: The Visual Dictionary]]'', elaborating on her role in the Resistance.<ref name="TFA VD" />
+
+==Appearances==
+*''[[Bloodline (novel)|Bloodline]]''
+*''[[Bloodline (audiobook)]]''
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part IV]]''
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]'' {{1stID}}
+*''[[Ultimate Sticker Collection: Star Wars: The Force Awakens]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Rebel Files]]''
+*{{Databank|korr-sella|Korr Sella}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Korr Sella#kanon
+|es=Korr Sella
+|fr=Korr Sella
+|ja=コー・セラ
+|pl=Korr Sella
+|pt=Korr Sella
+|ru=Корр Селла
+|uk=Корр Селла
+|deGA=1
+}}
+
+{{DEFAULTSORT:Sella, Korr}}
+[[Category:Diplomats]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:New Republic individuals]]
+[[Category:Resistance Military officers]]

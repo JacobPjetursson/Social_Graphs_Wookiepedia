@@ -1,0 +1,73 @@
+{{Eras}}
+{{Character
+|type=Jedi
+|image=[[File:ColemanTrebor-DB.png]]
+|name=Coleman Trebor
+|homeworld=[[Sembla]]<ref name="USW">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[22 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Geonosis]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|species=[[Vurk]]<ref name="Databank">{{Databank|coleman-trebor|Coleman Trebor|archivedate=20170706044511}}</ref>
+|gender=[[Sexes|Male]]<ref name="Databank" />
+|height=2.13 [[meter]]s<ref name="Databank" />
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="Episode II" />
+|skin=Gray<ref name="Episode II" />
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="Episode II" />
+**[[Jedi High Council]]<ref name="Episode II" />
+**[[Jedi assault team]]<ref name="Episode II" />
+*[[Galactic Republic]]<ref name="Episode II" />
+|masters=
+|apprentices=}}
+'''Coleman Trebor''' was a [[Sexes|male]] [[Vurk]] [[Jedi Master]] who served as a member of the [[Jedi High Council]] prior to the [[Clone Wars]]. He was [[Death|killed]] by [[Jango Fett]] while trying to engage [[Count]] [[Dooku]] during the [[Battle of Geonosis]].
+
+==Biography==
+A [[Vurk]] [[Sexes|male]] born on his [[species]]' [[homeworld]] of [[Sembla]],<ref name="USW" /> Coleman Trebor became a [[Jedi]], and was the only Vurk to do so.{{Fact}} As a member of the [[Jedi Order]] he built a green [[lightsaber]],<ref name="Episode II" /> and earned a seat on the [[Jedi High Council]] during the [[Separatist Crisis]].<ref name="USW" /> Once the Council learned of the Separatist force on the [[planet]] [[Geonosis]], Trebor joined the [[Jedi assault team]] led by [[Mace Windu]], and traveled to Geonosis to rescue [[Obi-Wan Kenobi]] from the [[Confederacy of Independent Systems]]. He [[Battle of Geonosis|fought]] in the [[Petranaki arena]], and confronted [[Count]] [[Dooku]] on a balcony. Trebor was shot two times in the chest and [[Death|killed]] by the [[bounty hunter]] [[Jango Fett]], falling to his death on the arena floor.<ref name="Episode II" />
+
+==Behind the scenes==
+Coleman Trebor was a completely computer-generated character in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]. For scenes in the [[Jedi Council Chamber]], stock footage from [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] was reused, with Trebor digitally painted over [[Yarael Poof]], who was replaced as [[George Lucas]] felt the audience would confuse him with the newly-introduced [[Kaminoan]]s. Coleman Trebor's name was derived from that of [[Rob Coleman]] of [[Industrial Light & Magic]]. Coleman recalls that the character's name was suggested by Visual Effects Supervisor [[John Knoll]].<ref>{{HBCite|67|url=http://web.archive.org/web/20050305030907/http://www.starwars.com/site/homingbeacon/67.html}}</ref>
+
+==Appearances==
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+
+==Sources==
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*{{Databank|adi-gallia|Adi Gallia|archivedate=20170706043936}} {{Po}}
+*{{Databank|coleman-trebor|Coleman Trebor|archivedate=20170706044511}}
+*{{Databank|shaak-ti|Shaak Ti}} {{Po}}
+
+{{Start_box}}
+{{Succession_box
+|title=Member of the [[Jedi High Council]]
+|years=&ndash;[[22 BBY]]<ref name="Episode II" />
+|before=[[Yarael Poof]]<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|before-years=c. [[32 BBY]]<ref name="Episode I" />&ndash;
+|after=[[Kit Fisto]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|after-years=[[22 BBY]]&ndash;[[19 BBY]]<ref name="Episode III" />
+}}
+{{End_box}}
+
+==Notes and references==
+{{Reflist}}
+
+{{JediCouncil22}}
+
+{{Interlang
+|el=Κόουλμαν Τρέμπορ
+|fr=Coleman Trebor
+|pl=Coleman Trebor
+|uk=Коулман Требор
+}}
+
+{{DEFAULTSORT:Trebor, Coleman}}
+[[Category:Jedi Council members]]
+[[Category:Jedi Masters]]
+[[Category:Males]]
+[[Category:Vurks]]

@@ -1,0 +1,100 @@
+{{Eras}}
+{{Expand}}
+{{Citation}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Sio Bibble SWE.png]]
+|name=Sio Bibble
+|homeworld=[[Naboo]]<ref name="SWESioBibble">{{SWE|characters|siobibble|Sio Bibble}}</ref>
+|birth=
+|death=
+|species=[[Human]] {{C|[[Naboo (people)|Naboo]]}}<ref name="SWESioBibble" />
+|gender=[[Sexes|Male]]<ref name="SWESioBibble" />
+|height=1.79 [[meter]]s<ref name="DBSioBibble">{{Databank|sio-bibble|Sio Bibble}}</ref>
+|mass=
+|hair=[[Color|Brown]]/white<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|eyes=Green<ref name="Episode I" />
+|skin=Fair<ref name="Episode I" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Episode I" />
+*[[Royal House of Naboo]]<ref name="Episode I" />
+**[[Naboo Royal Advisory Council]]<ref name="DBSioBibble" />
+|masters=
+|apprentices=}}
+{{Quote|This invasion will gain you nothing. We're a democracy. The people have decided&hellip;|Governor Sio Bibble|Star Wars: Episode I The Phantom Menace}}
+'''Sio Bibble''' was the [[human]] [[Sexes|male]] [[Governor of Naboo|governor]] of [[Naboo]] and a member of the [[Naboo Royal Advisory Council|Royal Advisory Council]] during the final [[Standard year|years]] of the [[Galactic Republic]] and the early days of the Galactic Empire.
+
+==Biography==
+===Early career===
+Sio Bibble was born on Naboo prior to the Invasion of Naboo.<ref name="DBSioBibble" /> Bibble was elected as the governor of Naboo during King Veruna's reign.<ref name="ECUC">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> During Queen Amidala's coronation, he and the Naboo Royal Advisory Council closed the Palace Plaza for a parade.<ref name="SWP">''[[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]''</ref>
+
+===Invasion of Naboo===
+In 32 BBY, Senator Palpatine contacted the Royal Advisory Council only to lose communication. Bibble was one of the first to suspect there would be an invasion. However, Amidala refused to do any action that would lead them to war. Later, Bibble's suspicions proved correct when Naboo was invaded by the Trade Federation. Bibble was arrested along with the other people at Naboo at that time. Then, Jedi Master Qui Gon Jinn and his padawan, Obi Wan Kenobi came to rescue them. Queen Amidala (really her decoy Sabé) agreed that she should plea to the Senate. Bibble was on high hopes that Senator Palpatine might help them.<ref name="DBSioBibble" /> However, Bibble decided to stay behind to protect his people. Later, Queen Amidala did free Naboo. Bibble attended Jinn's funeral, who was killed in the battle that liberated Naboo. Then, he attended the celebration of Naboo's victory, handing the Globe of Peace to Boss Rugor Nass.<ref name="Episode I" />
+
+===The Separatist Crisis===
+Bibble continued to serve as governor under Amidala's [[Monarch of Naboo|successor]], Queen [[Jamillia]]. In 22 BBY, he attended a Council meeting. They talked about how the Separatist Crisis might become a war and then redirected the conversation to Senator Amidala, who was in danger of being killed and had to hide on Naboo with a bodyguard, Anakin Skywalker.<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+
+===The Clone Wars===
+Queen Jamillia was succeeded by Queen Neeyutnee by 21 BBY, which Bibble also served.
+
+In 20 BBY, he greeted Palpatine to Naboo and attended the Festival of Light. That night, bounty hunters tried to kidnap Palpatine but their plans were thwarted by Kenobi (who was disguised as Rako Hardeen at that time). The next morning, Bibble was put in a protection group along with Queen Neeyutnee and Senator Amidala.
+
+====Mission to Bardotta====
+In 19 BBY, Bibble went with Senator Amidala to the Galactic Senate when Queen Julia of Bardotta contacted the Republic. Palpatine presented the queen the people he chose to go to Bardotta: Senator Organa of Alderaan and Senator Amidala of Naboo. However, the queen specifically said she wanted Junior Representative Jar Jar Binks of Naboo to go, puzzling everyone. By 19 BBY, Queen Neeyutnee was succeeded by Queen Apailana, whom Bibble also served.
+
+===Imperial Era===
+Sio Bibble attended the [[funeral of Padmé Amidala]] shortly after the [[Proclamation of the New Order|formation]] of the [[Galactic Empire]].<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+
+==Personality and traits==
+Sio Bibble was a brave and defiant man in the face of great danger, like he demonstrated when Viceroy Nute Gunray from the Trade Federation invaded Theed.<ref name="Episode I" /> Bibble was also known to speak his mind on several important matters like the Separatist Crisis or Gunray's constant trials in the Supreme Courts of the Galactic Republic for his actions.<ref name="Episode II" />
+
+More than anything, Sio Bibble cared to an extent for the safety of Queen Amidala as demonstrated during the Trade Federation's invasion at Theed.<ref name="Episode I" />
+
+==Behind the scenes==
+[[File:Sio Bibble concept.jpg|thumb|right|Concept art of Sio Bibble by [[Iain McCaig]].]]
+Sio Bibble was played by [[Oliver Ford Davies]] in the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']].<ref name="Episode I" /> Davies then reprised the role again in [[2002]]'s [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]<ref name="Episode II" /> and [[2005]]'s [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']].<ref name="Episode III" />
+
+Concept art for Sio Bibble was developed by [[Iain McCaig]].<ref name="DBSioBibble" /> For Bibble's name, however, it was [[Katie Lucas]], daughter of director [[George Lucas]], the one who came up with the name.<ref name="KLTweet1">{{Twitter|KRLgrrl|statuses/52816495872442368|[[Katie Lucas]]}}</ref>
+
+During the principal photography of ''Attack of the Clones'' in [[Wikipedia:Italy|Italy]], Davies was unable to attend, as he was shooting another film and was in a play. Nine months after Episode II's principal photography had ended, Davies went to reprise the role for a scene shot on a bluescreen stage, and was then digitally inserted into the scene shot in Italy.<ref name="Episode II DVD commentary">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] DVD commentary</ref>
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*''[[Star Wars Journeys: The Phantom Menace]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars Battlefront II]]'' {{C|Painting only}}
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
+*{{TCW|Crisis on Naboo}}
+*{{TCW|The Disappeared, Part I}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+
+===Non-canon appearances===
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+
+==Sources==
+*{{SW|text=Crisis on Naboo|url=explore/the-clone-wars/ep418/#!/about}}
+*{{SWE|characters|siobibble|Sio Bibble}}
+*{{SWE|characters|nutegunray|Nute Gunray}}
+*{{SWE|characters|palpatine|Palpatine}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]''
+*{{Databank|sio-bibble|Sio Bibble}}
+*{{Databank|queen-apailana|Queen Apailana}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Sio Bibble
+|ru=Сио Биббл/Канон
+|uk=Сіо Біббл
+}}
+
+{{DEFAULTSORT:Bibble, Sio}}
+[[Category:Galactic Republic governors]]
+[[Category:Humans]]
+[[Category:Legislators and councilors]]
+[[Category:Males]]
+[[Category:Naboo]]

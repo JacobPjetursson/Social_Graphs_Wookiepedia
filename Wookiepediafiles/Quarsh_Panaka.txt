@@ -1,0 +1,145 @@
+{{Eras}}
+{{Character
+|type=Galactic Empire
+|image=[[File:PanakaHS-TPM.png]]
+|name=Quarsh Panaka
+|homeworld=[[Naboo]]<ref name="PanakaSWE">{{SWE|characters|captainpanaka|Captain Panaka}}</ref>
+|birth=
+|death=[[3 BBY]], [[Onoam]]<ref name="Leia">''[[Leia, Princess of Alderaan]]''</ref>
+|species=[[Human]] {{C|[[Naboo (people)|Naboo]]}}<ref name="PanakaSWE" />
+|gender=[[Sexes|Male]]<ref name="PanakaDB">{{Databank|captain-panaka|Captain Panaka|archivedate=20170707184432}}</ref>
+|height=1.83 [[meter]]s<ref name="PanakaDB" />
+|mass=
+|hair=[[Color|Black]],<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref> later with flecks of gray<ref name="Leia" />
+|eyes=Brown<ref name="Episode I" />
+|skin=Dark<ref name="Episode I" />
+|cyber=
+|era=
+|affiliation=*[[Royal House of Naboo]]<ref name="Episode I" />
+**[[Royal Naboo Security Forces]]<ref name="PanakaDB" />
+*[[Galactic Republic]]<ref name="charencupdated">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+**[[Republic Special Task Force]]<ref name="charencupdated" />
+*[[Galactic Empire]]<ref name="CL 2016">''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''</ref>
+|masters=
+|apprentices=}}
+{{Quote|Your Highness, this is a battle I do not think that we can win.|Quarsh Panaka, to Queen Padmé Amidala|Star Wars: Episode I The Phantom Menace}}
+'''Quarsh Panaka''', [[human]] [[Sexes|male]] [[Naboo (people)|native]] to the [[planet]] [[Naboo]], was a [[Royal Naboo Security Forces|security forces]] [[captain]] who served the [[Royal House of Naboo]] during the final [[Standard year|years]] of the [[Galactic Republic]]. When the [[Trade Federation]] [[Invasion of Naboo|invaded]] Naboo in [[32 BBY]], Panaka fled the planet, accompanying [[Monarch of Naboo|Queen]] [[Padmé Amidala]] to [[Tatooine]] and then [[Coruscant]] before ultimately returning to Naboo in order to [[Battle of Naboo|liberate]] their [[homeworld]]. He later acquired the title of [[Moff]] during the [[Imperial Era|rise]] of the [[Galactic Empire]]. He was [[Assassination of Quarsh Panaka|assassinated]] by [[Saw Gerrera]]'s [[partisans]] in [[3 BBY]].
+
+==Biography==
+===Early life and career===
+The [[human]] [[Sexes|male]] Quarsh Panaka was [[Reproduction|born]] during the final [[Standard decade|decades]] of the [[Galactic Republic]]. He [[homeworld|hailed]] from [[Naboo]],<ref name="charencupdated" /> an idyllic [[planet]] that was inhabited by peaceful humans known as the [[Naboo (people)|Naboo]], and a [[species]] of [[Sentience|sentient]] [[amphibian]]s called the [[Gungan]]s.<ref name="Databank Naboo">{{Databank|naboo|Naboo}}</ref> In his youth, he gained combat experience in a [[Republic Special Task Force]] that fought against [[Realspace|space]] [[pilot]]s in his native [[Chommell sector]]. Eventually, he became [[Chief of Security|Head of Security]] for the [[Royal House of Naboo]], overseeing every branch of the volunteer [[Royal Naboo Security Forces]],<ref name="charencupdated" /> namely the [[Palace Guard (Naboo)|Palace Guard]], the [[Security Guard]], and the [[Naboo Royal Space Fighter Corps|Space Fighter Corps]].<ref name="NRSF">{{Databank|naboo-royal-guards|Naboo Royal Guards}}</ref>
+
+===Crisis on Naboo===
+{{Quote|This is a dangerous situation, Your Highness. Our security volunteers will be no match against a battle-hardened Federation army.|Panaka, to Queen Amidala|Star Wars: Episode I The Phantom Menace}}
+[[File:Panaka Ep1.png|250px|thumb|left|Panaka shortly before the escape from Naboo]]
+By [[32 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> he served under the fourteen [[Standard year|year]] old [[Queen]] [[Padmé Amidala]] of the Naboo, whose safety he was personally entrusted. Because he knew his world was vulnerable to planetary assaults, Panaka advocated for stronger security measures, but the Queen's [[Naboo Royal Advisory Council|Advisory Council]] convinced her otherwise.<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref> That year, however, the shipping and trade conglomerate known as the [[Trade Federation]] decided to [[blockade]] and [[Invasion of Naboo|invade]] Naboo<ref name="Episode I" /> in retaliation to the taxation of the [[Free Trade Zone]] voted by the Republic's [[Galactic Senate]].<ref name="SWCT">[[Star Wars: Card Trader|''Star Wars'': Card Trader]]</ref>
+
+When the [[battle droid]]s of the Trade Federation raided the [[Theed Royal Palace|palace]], both Panaka and his [[Monarch of Naboo|queen]] were taken into custody. However, unbeknownst to the enemy, the [[captain]] initiated a scheme in which one of the Amidala's [[Naboo Royal Handmaidens|handmaidens]] served as a decoy. Although the real queen was captured as well, the [[Neimoidian]] overlords of the Federation were fooled, and focused on the impersonator, a handmaiden named [[Sabé]]. Along with the queen, [[Governor]] [[Sio Bibble]], and several security guards, Panaka was escorted out of the palace.<ref name="Episode I" />
+
+As the Naboo party were on their way to a [[Camp Four|detention camp]], two [[Jedi]] and a Gungan jumped from a balcony to begin an attack and rescue the queen. Said Jedi, [[Jedi Master|Master]] [[Qui-Gon Jinn]] and his [[Padawan]] [[Obi-Wan Kenobi]] were Republic [[ambassador]]s that had been sent to resolve the dispute behind the blockade, but to no avail. Panaka begrudgingly agreed with the Jedi's plan to take the queen with them to [[Coruscant]], [[capital]] of the Republic, where she would plead her cause before the Senate. The party then retook the [[Theed Hangar]] from the battle [[droid]]s stationed there, entered Amidala's [[Naboo Royal Starship|Royal Starship]], and blasted away from Naboo. However, in trying to slip through the blockade, the [[Starship|ship's]] [[hyperdrive]] [[engine]] took heavy damage. When Kenobi suggested that they land on the [[desert]] world of [[Tatooine]] for repairs, Panaka protested vigorously, arguing that the planet was ruled by [[Hutt]] [[gangster]]s. The queen, however, sided with the Jedi.<ref name="Episode I" />
+
+[[File:PaNaKa.jpg|250px|thumb|Panaka aboard the Queen's starship]]
+Once they arrived at Tatooine, Panaka remained on the ship while the Jedi, Jinn, their Gungan ally [[Jar Jar Binks]], the [[astromech droid]] [[R2-D2]], and Amidala&mdash;disguised as a mere handmaiden&mdash;went scouting for spare parts for the hyperdrive. At one point, the ship received a garbled transmission of a Sio Bibble [[hologram]], pleading with the Queen to contact him rapidly. However, Kenobi suspected a trick, and he ordered Panaka and the others to send no reply nor transmission of any kind.<ref name="Episode I" />
+
+Eventually, Jinn and Amidala managed to obtain the missing hyperdrive parts thanks to the help of local [[Slavery|slave]] boy named [[Anakin Skywalker]], who earned his freedom in the process. The party then traveled to Coruscant, where they met Naboo's representative in the Senate, [[Darth Sidious|Sheev Palpatine]]. Anticipating an ambush by the Federation, Panaka accompanied Amidala to the [[Galactic Senate Chamber|Senate Chamber]], where she and Palpatine pleaded their cause. The Senate, however, would not budge, so the Queen decided to return to Naboo and take the matter in her own hands. Panaka strongly objected, claiming that she would be captured and forced to sign a treaty that would legitimize the invasion.<ref name="Episode I" />
+
+===Return to Naboo===
+{{Quote|I think you can kiss your trade franchise good-bye.|Panaka, to Nute Gunray|Star Wars: Episode I The Phantom Menace}}
+[[File:Panaka Amidala.png|thumb|275px|left|Panaka protecting Queen Amidala during the Battle of Naboo]]
+While the Queen set off to make contact with [[Boss]] [[Rugor Nass]], leader of the Gungan people,<ref name="Episode I" /> Panaka organized the few Naboo security volunteers not captured by the Trade Federation into battle groups, who brought with them [[Flash speeder]]s and [[Gian speeder]]s.<ref name="Databank Flash speeder">{{Databank|flash-speeder|Flash speeder}}</ref> Eventually, the leaders met to discuss strategy. It was decided that the [[militiagung]]s of the [[Gungan Grand Army]] would [[Battle of Naboo|engage]] the [[Trade Federation Droid Army|droid army]] out of the [[city]], while the Jedi and the Naboo would infiltrate the Royal Palace to try and capture [[Nute Gunray]], [[Viceroy of the Trade Federation]].<ref name="Episode I" />
+
+Using secret passages on the [[water]]fall side of [[Theed]], Panaka divided his forces in two. His group created a diversion, while the other, including the Jedi, liberated the [[N-1 starfighter]]s from the Theed [[Hangar]], allowing pilots to neutralize the Trade Federation [[Lucrehulk-class Battleship|droid control ship]] in [[orbit]]. On their way to reach the [[Throne room (Theed Royal Palace)|throne room]], Panaka, the Queen, and the Jedi, encountered [[Maul|Darth Maul]], a malevolent [[Sith Lord]] who had been following the Jedi since Tatooine. Panaka's group were forced to go the long way around while the Jedi stalled Maul.<ref name="Episode I" />
+
+The captain's party only made very slow progress, battling waves of battle droids throughout the halls of the palace. When the Queen expressed her frustration, Panaka decided to used [[ascension gun]]s to bypass a level of the palace, in an attempt to reach the [[throne]] room more quickly. In the mean [[time]], a small group led by Sabé, still posing as the Queen, kept advancing. The Neimoidians finally saw through the ruse, and realized who the real Amidala was. Consquently, Panaka and the Queen's group were swiftly captured by [[droideka]]s and escorted to Gunray.<ref name="Episode I" />
+
+In the nick of time, Sabé's party made it to the throne room, and drew out the droids stationed there while Amidala grabbed a couple of [[blaster]]s from a secret compartment in her throne. Panaka and her sovereign then eliminated the remaining droids in the room, leaving the [[Viceroy]] defenseless.<ref name="Episode I" />
+
+After the battle, Panaka handed over the Viceroy and his [[aide]] [[Rune Haako]] to the Republic for trial. As he did this, the captain dryly observed that the Neimoidians could "kiss your Trade franchise goodbye." Shortly thereafter, Panaka attended the [[cremation]] [[Funeral of Qui-Gon Jinn|of]] Jinn, who was [[Death|slain]] during the fight with [[Darth]] Maul, before participating in the [[parade]] held in Theed to celebrate the liberation of Naboo and the newfound alliance between the Naboo and the Gungans. Meanwhile, Palpatine had been elected [[Supreme Chancellor]] of the Republic thanks to a groundswell of sympathy in the Senate.<ref name="Episode I" />
+
+===Serving other queens===
+Panaka remained in Amidala's service. When her two terms were over, Amidala became [[senator]] of Naboo, and Panaka stepped down from his functions as her personal [[bodyguard]], making way for his nephew [[Gregar Typho]].<ref name="SWJB">''[[Star Wars Journeys: Beginnings]]''</ref> He did, however, continue his services as head of Security under Queen [[Jamillia]].<ref name="charencupdated" /> During the [[Clone Wars]], a three-year conflict that pitted the Republic against the [[Confederacy of Independent Systems]], Panaka met Viceroy [[Bail Organa]] of [[Alderaan]] several times.<ref name="Leia" />
+
+===Imperial Moff===
+{{Quote|Panaka's loyalty to Palpatine was great. Still, he was as good a man as anyone in the Emperor's inner circle could ever be, and much better than most. Panaka was&hellip; an option I wish had been left open to us.|Breha Organa|Leia, Princess of Alderaan}}
+[[File:Saw Gerrera 2BBY.jpg|thumb|200px||Saw Gerrera, on whose orders Panaka was assassinated]]
+Immediately after the Clone Wars, Supreme Chancellor Palpatine abolished the Republic and [[Proclamation of the New Order|replaced]] it with the [[Galactic Empire]], an authoritarian government with him as sole ruler.<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref> Panaka remained loyal to the newly anointed [[Galactic Emperor|Emperor]] and was made the [[Moff]], or [[governor]], of his native Chommell [[sector]]. Once in office, Panaka had a red wood [[Quarsh Panaka's chalet|chalet]] built on [[Onoam]], one of the [[moon]]s that orbited Naboo.<ref name="Leia" /> At one point, he presented the Emperor with an ornate statue.<ref name="CL 2016" />
+
+In [[3 BBY]], Panaka briefly met with Queen [[Dalné]] of the Naboo and [[Leia Organa]], [[prince]]ss of Alderaan, at his chalet. As soon as he saw her, the Moff was struck by the image of Organa wearing a Naboo [[jubilation dress]], who strongly reminded him of Queen Amidala decades ago. Although his visitors wanted to discuss the working conditions of the local [[spice]] [[Mining|miners]], Panaka redirected the conversation toward Organa's background, asking her whether she had been adopted and who her birth [[parent]]s were. By the end of the meeting, Panaka came to suspect that Organa was in fact the long-lost daughter of the late Amidala&mdash;which she was indeed. Although the Moff intended to warn the Emperor of his findings as soon as his visitors were gone, he did not have the time, as a bomb exploded in his chalet, destroying the building and killing him in the process. As Organa later found out, the bomb was [[Assassination of Quarsh Panaka|planted]] by [[Saw Gerrera]]'s [[Partisans]].<ref name="Leia" /> Seven years after the Moff's untimely death, the statue he had once offered to his liege stood in the Emperor's receiving chamber aboard the [[Death Star II|second Death Star]] [[battle station]].<ref name="CL 2016" />
+
+==Personality and traits==
+Panaka was a dark-skinned, powerfully built man with a smooth face and a steely [[Color|brown]] gaze.<ref name="Episode I" /> He was handsome and tall,<ref name="Leia" /> measuring 1.83 [[meter]]s.<ref name="PanakaDB" /> By the year of his death, his black [[hair]] was marked by flecks of gray at the temples. He had a deep, distinctly masculine voice.<ref name="Leia" />
+
+Unlike many high-ranking Imperials, Panaka did not like to surround himself with ostentatious and expansive items. Instead, he favored the simple and practical, while still showing good taste. Also unlike many of his colleagues, he was impervious to corruption. However, he often turned a blind [[eye]] on actions he did not approve of, because he believed Imperial abuses of power were the work of rogue elements, as opposed to the norm. Although Panaka's great loyalty to Palpatine made him dangerous, [[Breha Organa]] of Alderaan believed him to be "as good a man as anyone in the Emperor's inner circle could ever be, and much better than most".<ref name="Leia" />
+
+==Equipment==
+As Queen Amidala's Head of Security, Panaka [[Clothing|wore]] a brown [[leather]] jerkin, a blue [[shirt]] with a pair of burgundy horizontal stripes near the hem, and a crested [[officer]] cap. He wielded<ref name="Episode I" /> a hand-crafted [[S-5 blaster pistol]].<ref name="VE">''[[Star Wars: The Visual Encyclopedia]]''</ref>
+
+==Behind the scenes==
+Quarsh Panaka was portrayed by Ghanaian British actor [[Hugh Quarshie]] in [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]. Quarshie was originally set to reprise his role as Panaka in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']], but when the producers denied him the film's full script only allowing him to read his lines, Quarshie declined to reprise his role and the character of [[Gregar Typho]], portrayed by [[Jay Laga'aia]], was created to replace Panaka.<ref name="10 actors">{{Cite web|url=http://whatculture.com/film/10-actors-turned-roles-star-wars?page=6|title=10 Actors Who Turned Down Roles In Star Wars|publisher=What Culture}}</ref>
+
+The first name "Quarsh" was created by [[Jason Fry]] for a war portrait of Panaka that was to be featured in the ''[[Star Wars Legends|Legends]]'' reference book ''[[The Essential Guide to Warfare]]''. While said portrait was cut from the manuscript, it ended up being published on [[StarWars.com]] as part of the [[Star Wars: The Essential Guide to Warfare Author's Cut|''Star Wars: The Essential Guide to Warfare'' Author's Cut]] series of articles.<ref name="EGW cut6">{{SW|url=news/the-essential-guide-to-warfare-authors-cut-part-6-showdown-at-naboo|int=Star Wars: The Essential Guide to Warfare Author's Cut|text=''Star Wars: The Essential Guide to Warfare'' Author's Cut, Part 6: Showdown at Naboo|archivedate=20170602053123}}</ref> The name was [[canon]]ized upon its inclusion in [[Claudia Gray]]'s [[2017]] novel ''[[Leia, Princess of Alderaan]]''.<ref name="Leia" />
+
+Panaka's role as Moff in ''Leia, Princess of Alderaan'', according to Claudia Gray, had the potential inherent in having someone present in the lives of both Leia and her mother Padmé Amidala, an idea which ended up becoming Gray's favorite turn in the novel's story. As an interesting fact, during the novel's writing, Gray considered making Panaka a member of the Rebellion, but she changed her mind after [[Pablo Hidalgo]] reminded her that Panaka became a Grand Moff loyal to Emperor Palpatine in the Legends continuity, a great detail that she believed deserved to also be included in the new canon.<ref name="11 Revelations">{{SW|url=news/11-revelations-from-claudia-gray-on-leia-princess-of-alderaan|text=11 Revelations from Claudia Gray on ''Leia, Princess of Alderaan''}}</ref>
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*''[[The Phantom Menace Read-Along Storybook and CD]]''
+*''[[Star Wars Journeys: The Phantom Menace]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*''[[Leia, Princess of Alderaan]]''
+
+===Non-canon appearances===
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+
+==Sources==
+*{{SWE|characters|captainpanaka|Captain Panaka}}
+*{{SWE|technology|flashspeeder|Flash speeder}}
+*{{SWE|technology|gianspeeder|Gian speeder}}
+*{{SWE|groups|nabooroyalguards|Naboo royal guards}}
+*{{SWE|groups|nabooroyalhandmaidens|Naboo royal handmaidens}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Force Collection]]'' {{1stID|Quarsh}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*{{ForceCollection|Captain Panaka|star=1}}
+*{{ForceCollection|Ric Olié|star=1}}
+*{{ForceCollection|Captain Typho|star=1}}
+*{{Databank|captain-panaka|Captain Panaka|archivedate=20170707184432}}
+*{{Databank|captain-typho|Captain Typho|archivedate=20161216130209}}
+*{{Databank|flash-speeder|Flash Speeder|archivedate=20170731211430}}
+*{{Databank|galactic-senate|Galactic Senate|archivedate=20170705025411}} {{Po}}
+*{{Databank|naboo|Naboo}} {{Po}}
+*{{Databank|otoh-gunga|Otoh Gunga}} {{Po}}
+*{{Databank|padme-amidala|Padmé Amidala}} {{Po}}
+*{{Databank|naboo-royal-guards|Naboo Royal Guards}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SW|url=news/11-revelations-from-claudia-gray-on-leia-princess-of-alderaan|text=11 Revelations from Claudia Gray on ''Leia, Princess of Alderaan''}}
+
+{{Interlang
+|bg=Панака
+|de=Quarsh Panaka#legends
+|es=Quarsh Panaka
+|fr=Quarsh Panaka
+|hu=Panaka
+|ja=パナカ
+|ko=파나카
+|nl=Quarsh Panaka
+|pl=Quarsh Panaka
+|pt=Legends:Panás
+|ru=Куарш Панака/Канон
+|uk=Куарш Панака
+|deFA=1
+}}
+
+{{DEFAULTSORT:Panaka, Quarsh}}
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Moffs of the Galactic Empire]]
+[[Category:Naboo]]
+[[Category:Royal Naboo Security Force officers]]

@@ -1,0 +1,108 @@
+{{Eras|sprot}}
+{{Update|[[Star Wars: Forces of Destiny—Rose & Paige]], [[The Last Jedi: Cobalt Squadron]], [[The Last Jedi: Bomber Command]], [[Star Wars Look and Find (Journey to Star Wars: The Last Jedi)|Star Wars: Look and Find]], [[Rose Knows]], [[Star Wars: The Last Jedi: Expanded Edition]]}}
+{{Character
+|type=Resistance
+|image=[[File:PaigeTicoCardTrader.png]]
+|name=Paige Tico
+|homeworld=[[Hays Minor]]<ref name="Cobalt Squadron">''[[The Last Jedi: Cobalt Squadron]]''</ref>
+|birth=
+|death=[[34 ABY]],<ref name="Date">''[[Star Wars: Galactic Atlas]]'' places the events of the film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] in [[34 ABY]]. As [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] carries on immediately from the events of ''The Force Awakens'', it can be assumed to take place in the same [[Standard year|year]].</ref> ''[[Cobalt Hammer]]'', [[Ileenium system]]<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+|species=[[Human]]<ref name="Episode VIII" />
+|gender=[[Sexes|Female]]<ref name="Episode VIII" />
+|height=
+|mass=
+|hair=[[Color|Black]]<ref name="Episode VIII" />
+|eyes=Brown<ref name="Episode VIII" />
+|skin=Tan<ref name="Episode VIII" />
+|cyber=
+|era=
+|affiliation=*[[Resistance]]<ref name="Look and Find">''[[Star Wars Look and Find (Journey to Star Wars: The Last Jedi)|Star Wars: Look and Find]]''</ref>
+**[[Cobalt Squadron (Resistance)|Cobalt Squadron]]<ref name="Look and Find" />
+|masters=
+|apprentices=}}
+{{Quote|She died the same way she lived... as a hero.|Rose Tico about her sister, Paige Tico|The Last Jedi: Bomber Command}}
+'''Paige Tico''', nicknamed '''Pae-Pae''' by her sister, was a [[human]] [[Sexes|female]] who served as a [[gunner]] on a [[MG-100 StarFortress SF-17]] in the [[Resistance]] during their [[Cold war|conflict]] with the [[First Order]]. She was the sister of [[Rose Tico]], a Resistance [[Technician|maintenance worker]]. During the [[Evacuation of D'Qar|evacuation]] of the [[Resistance base]] on [[D'Qar]], Tico's [[bomber]] flew against the First Order [[Mandator IV-class Siege Dreadnought|''Mandator IV''-class Siege Dreadnought]] ''[[Fulminatrix]]'' and successfully destroyed it with the bomber's payload. However, the resulting explosion engulfed the bomber and took Tico's life. Her final actions allowed the Resistance's fleet to escape D'Qar's [[Ileenium system|system]].
+
+==Biography==
+===Early life===
+Paige Tico had at least one sibling, a younger sister named [[Rose Tico]]. After witnessing firsthand the brutality of the [[First Order]] on their homeworld in the [[Otomok system]], both Paige and Rose fled from the Otomok system and joined the Resistance.<ref name="Databank">{{Databank|paige-tico|Paige Tico}}</ref>
+
+As a Resistance soldier, Paige became an exceptional [[gunner]] and [[pilot]]. She survived several missions, leading [[Sexes|her]] to became superstitious, occasionally wrapping her medallion around the struts of her [[cannon]]s for good luck. Though Rose was a [[Technician|maintenance worker]] aboard the [[cruiser]] ''[[Raddus]]'', she sometimes accompanied Paige on flights. During their downtime between bombing runs, the two sisters always discussed their chance to see the galaxy.<ref name="TLJ Visual Dictionary">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref>
+
+===Evacuation of D'Qar===
+[[File:PaigeClimbing.jpg|thumb|right|250px|Paige climbing out the ''Cobalt Hammer''{{'s}} hold]]
+In [[34 ABY]],<ref name="Date" /> during the [[Evacuation of D'Qar|evacuation]] of [[D'Qar]], Paige's bomber, the ''[[Cobalt Hammer]]'', flew against the First Order's [[Mandator IV-class Siege Dreadnought|''Mandator IV''-class Siege Dreadnought]] ''[[Fulminatrix]]'', commanded by [[Captain]] [[Moden Canady]]. When Paige was ordered to release the [[proton bomb]]s of her bomber, she hurriedly climbed out of her bomber's hold to the [[bombardier]] station, where she took the control to release the bombs, but the [[laser cannon]] of a [[TIE/FO Fighter|First Order TIE Fighter]] hit the ''Hammer'', causing her to fall off the ladder and lose consciousness.<ref name="Episode VIII" />
+
+When Paige regained consciousness, she discovered that the Resistance was in trouble. Unfortunately, the control to release the proton bombs had been left at the top of the ladder. Knowing that she would not have enough time to get back into the cockpit and activate the bombs with the control, Paige kicked the ladder so that the control could fall into her hands. After several kicks, the control fell into the abyss, but Paige managed to catch it. Then, Paige released the proton bombs, which fell on the ''Fulminatrix'', destroying the [[Starship|ship]] and [[Death|killing]] Captain Canady and his crew.<ref name="Episode VIII" /> As it was too late for escape and knowing her sacrifice would keep the Resistance safe,<ref name="TLJ Storybook">[[The Last Jedi (storybook)|''The Last Jedi'' storybook]]</ref> Paige closed her eyes as the fire engulfed the ''Hammer''.<ref name="Episode VIII" />
+
+===Legacy===
+Eventually, Paige's sacrifice allowed the Resistance's fleet to escape D'Qar's [[Ileenium system|system]] for good, although the First Order would eventually follow them.<ref name="Episode VIII" /> Paige's sister, Rose, took her death very hard. Writing a brief epitaph at the end of the journal Paige had kept, Rose described her part in the battle, commending her older sister as having died a hero and swearing that she wouldn't let the First Order destroy the Resistance and would find a way to defeat them.<ref name="Bomber Command">''[[The Last Jedi: Bomber Command]]''</ref>
+
+When Rose saw [[Finn]] trying to "escape" from the ''Raddus'', she stunned him and attempted to bring him to the Resistance as a coward because her sister was killed during the battle, but she was ultimately convinced that Finn was not trying to escape.<ref name="Episode VIII" />
+
+==Personality and traits==
+{{Quote|There's one part of my life you absolutely need to understand: nothing is more important to me than my little sister Rose.|Paige Tico|Star Wars: Episode VIII The Last Jedi}}
+Paige was extremely close to her younger sister, Rose, since childhood, feeling incomplete when they were separated. When they joined the Resistance, Paige insisted that she and Rose be assigned to the same ship.<ref name="Bomber Command" /> The two sisters frequently sat together at Paige's gunner station while traveling to and from missions.<ref name="Cobalt Squadron" /> Paige thought that Rose underestimated herself and her importance in the Resistance<ref name="Bomber Command" /> and often provided moral support.<ref name="Bomber Command" />
+
+While Paige hated the First Order's leadership for the destruction of her homeworld and their other atrocities, she didn't hold the same vitriol for the First Order soldiers and pilots. She felt that many of them were people like her, thrown into a situation that some would have wanted to escape, a belief she found vindicated by the [[Stormtrooper (First Order)|stormtrooper]] Finn, who defected from the First Order and helped the Resistance destroy [[Starkiller Base]].<ref name="Bomber Command" />
+
+Paige had a fascination for [[fathier]]s, deciding that they were the one creature above all else she wanted to see in person.<ref name="Bomber Command" /> On her suggestion, the crew of the ''Hammer'' used imaginary stables of fathiers as markers in the crew's card games.<ref name="Cobalt Squadron" /> Paige also wanted to see a live fathier race.<ref name="Bomber Command" /> While she never got to see a fathier or a race, her sister Rose got to see and ride one on her mission with Finn to [[Canto Bight]].<ref name="Episode VIII" />
+
+==Behind the scenes==
+[[File:Paige bts.jpg|thumb|250px|left|Paige Tico in the Behind The Scenes video for ''Star Wars'': Episode VIII ''The Last Jedi'']]
+Paige Tico was portrayed by [[Wikipedia:Vietnamese people|Vietnamese]] [[Wikipedia:Actor|actress]] [[Veronica Ngo]] in [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']].<ref name="Episode VIII" /> Tico was first shown in the Behind The Scenes video for ''The Last Jedi'', which was released on [[July 15]], [[2017]] for the D23 Expo. Director [[Rian Johnson]] confirmed Paige's appearance in the footage on [[Wikipedia:Twitter|Twitter]].<ref name="Rian Johnson">{{Twitter|rianjohnson|status/886354546426912768|[[Rian Johnson]]|quote=@lazawaza It is! Thanks. :-)|noimage=}}</ref>
+
+In one of the film's early drafts, featuring a different version of the evacuation of D'Qar, Paige was going to die after releasing the proton bombs over the ''Fulminatrix'' in the arms of Finn, who would have been the gunner of the ''Cobalt Hammer'' instead of being hospitalized aboard the ''Raddus''. Concept art for the planned scene showed Paige's last moments in which she would have left a bloody hand print on Finn's heart, echoing the stormtrooper's bloody handprint scene of [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], including how Finn pulled her lifeless body from the bomber inside the Resistance hangar, but director Rian Johnson cut the scene in a later revision of the script, because he ultimately found that "he couldn't pay it off."<ref name="Art of TLJ">''[[The Art of Star Wars: The Last Jedi]]''</ref>
+
+==Appearances==
+[[File:Paige-Ticos-Helmet-SWCT.png|thumb|250px|right|Paige Tico's helmet]]
+*''[[Star Wars: Forces of Destiny—Rose & Paige]]''
+*''[[The Last Jedi: Cobalt Squadron]]''
+*''[[The Last Jedi: Bomber Command]]''
+*{{Shortstory|story=Rose and Paige Fight for the Resistance|book=Galactic Adventures Storybook Collection}}
+*{{IDWAdventuresCite|6|[[Rose Knows]]}}
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] {{1st}}
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[Star Wars: The Last Jedi: A Junior Novel]]''
+*''[[The Last Jedi: Rose and Finn's Secret Mission]]'' {{Mo}}
+*''[[The Last Jedi Adaptation 1]]''
+*''[[The Last Jedi Adaptation 2]]'' {{Mo}}
+*''[[The Last Jedi Adaptation 3]]'' {{Mo}}
+*''[[The Last Jedi: Rose Tico: Resistance Fighter]]''
+
+==Sources==
+*{{LEGOCite|tlj|75188|Resistance Bomber}}
+*<!-- 07/15/17 -->{{SWYoutube|ye6GCY_vqYk|Star Wars: The Last Jedi Behind The Scenes}}
+*''[[Star Wars Look and Find (Journey to Star Wars: The Last Jedi)|Star Wars: Look and Find]]''
+*{{HasbroCite|set=Star Wars: The Last Jedi (toy line)|pack=Resistance Gunner Paige|link=The-Last-Jedi-Star-Wars-Universe-Resistance-Gunner-Paige.asp}}
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*''[[Star Wars: The Last Jedi: Incredible Cross-Sections]]''
+*''[[Star Wars: The Last Jedi: Ultimate Sticker Collection]]''
+*''[[Star Wars: The Last Jedi: Heroes of the Galaxy]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|cobalt-squadron|Cobalt Squadron|archiveurl=https://archive.fo/M0Opu}}
+*{{Databank|otomok-medallion|Otomok Medallion}}
+*{{Databank|paige-tico|Paige Tico}}
+*{{Databank|rebel-insignia-ring|Rebel insignia ring|archivedate=20180411000742}}
+*{{Databank|rose-tico|Rose Tico}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Paige Tico#kanon
+|fr=Paige Tico
+|ja=ペイジ・ティコ
+|ka=პეიჯ ტიკო
+|ko=페이지 티코
+|pl=Paige Tico
+|pt=Paige Tico
+|ru=Пейдж Тико
+|uk=Пейдж Тіко
+}}
+
+{{DEFAULTSORT:Tico, Paige}}
+[[Category:Cobalt Squadron personnel]]
+[[Category:Females]]
+[[Category:Gunners]]
+[[Category:Humans]]

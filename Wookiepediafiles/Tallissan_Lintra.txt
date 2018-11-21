@@ -1,0 +1,112 @@
+{{Eras}}
+{{Youmay|the Resistance pilot|[[Tallie|the human child]]}}
+{{Character
+|type=Resistance
+|image=[[File:Tallissan Lintra.png]]
+|name=Tallissan Lintra
+|homeworld=[[Pippip 3]]<ref name="Tallie Databank">{{Databank|tallie-lintra|Tallie Lintra|archiveurl=http://www.webcitation.org/6wuonfYRd}}</ref>
+|birth=[[12 ABY]]<ref name="Birth note">''[[Star Wars: The Last Jedi: The Visual Dictionary]]'' mentions that Tallissan Lintra was 22 [[Standard year|years]] old at the [[time]] of [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]. ''[[Star Wars: Galactic Atlas]]'' places the events of [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] in [[34 ABY]] and ''The Last Jedi'' takes place immediately after the end of ''The Force Awakens'', using simple math we can place Lintra's birth to [[12 ABY]].</ref>
+|death=[[34 ABY]],<ref name="Date Note">''[[Star Wars: Galactic Atlas]]'' places the events of [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] in [[34 ABY]]. [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] takes place immediately after the end of ''The Force Awakens''.</ref> ''[[Raddus (MC85 Star Cruiser)|Raddus]]'', [[Oetchi system]]<ref name="TLJ Junior Novel">''[[Star Wars: The Last Jedi: A Junior Novel]]''</ref>
+|species=[[Human]]<ref name="Visual Dictionary">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref>
+|gender=[[Sexes|Female]]<ref name="Visual Dictionary" />
+|height=
+|mass=
+|hair=[[Color|Blonde]]<ref name="Visual Dictionary" />
+|eyes=Blue<ref name="Visual Dictionary" />
+|skin=Light<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+|cyber=
+|era=
+|affiliation=*[[Resistance]]<ref name="Episode VIII" />
+**[[Tallissan Lintra's A-wing squadron]]<ref name="Bomber Command">''[[The Last Jedi: Bomber Command]]''</ref>
+**[[Blue Squadron (Resistance)|Blue Squadron]]<ref name="Episode VIII" />
+|masters=
+|apprentices=}}
+{{Quote|Gunners! Look alive!|Tallissan Lintra during the evacuation of D'Qar|Star Wars: Episode VIII The Last Jedi}}
+'''Tallissan Lintra''', nicknamed "'''Tallie'''," was a [[human]] [[Sexes|female]] [[pilot]] who served as a [[lieutenant]] and [[squadron commander]] in the [[Resistance]]. Before joining the Resistance, she lived on [[Tallissan Lintra's farm|a farm]] with her [[Tallissan Lintra's father|father]] on [[Pippip 3]]. During the [[First Order–Resistance war|war]] against the [[First Order]] she [[Resistance pilot|piloted]] an [[RZ-2 A-wing interceptor]], serving as [[Blue Leader]] during the [[evacuation of D'Qar]] until her [[Death|demise]] at the hands of [[missile]]s fired by [[Kylo Ren]]'s [[Kylo Ren's TIE silencer|TIE Silencer]], [[Attack on the Resistance fleet|taking out]] the rest of the [[Resistance Starfighter Corps]] alongside her.
+
+==Biography==
+===Joining the Resistance===
+Tallissan Lintra was [[Reproduction|born]]<ref name="Visual Dictionary" /> in [[12 ABY]]<ref name="Birth note" /> long after the [[Imperial Era|dark days]] of the [[Galactic Empire]]. During her early life she and her [[Tallissan Lintra's father|father]] lived on a [[Tallissan Lintra's farm|farm]] on [[Pippip 3]], where she learned how to fly using her father's crop duster [[RZ-1 A-wing interceptor|RZ-1 A-wing]].<ref name="Visual Dictionary" />
+
+In [[28 ABY]],<ref name="Timeframe">{{Twitter|DelReyStarWars|status/652893780236988420|[[Del Rey]]|quote=So excited to have @claudiagray writing a #StarWars novel with us. SW: New Republic: Bloodline coming 2016. Set 6 years before TFA.|image=File:New Republic Bloodline Twitter Post.jpg}} The tweet in question states that the events of ''Bloodline'' take place six [[Standard year|years]] before the events of the film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]. ''[[Star Wars: Galactic Atlas]]'' establishes that the events of ''The Force Awakens'' take place in the year [[34 ABY]] and so using simple math it can be concluded that the events of ''Bloodline'' take place in [[28 ABY]].</ref> [[Prince]]ss [[Leia Organa]] created the [[Resistance]],<ref name="Bloodline">''[[Bloodline (novel)|Bloodline]]''</ref> a small military force created to oppose the [[First Order]].<ref name="Resistance Databank">{{Databank|the-resistance|The Resistance|archiveurl=http://www.webcitation.org/6wcfJ46t0}}</ref> By [[34 ABY]],<ref name="Date Note" /> Lintra had joined the Resistance, becoming a [[lieutenant]] and one of their most capable [[Resistance pilot|pilots]], impressing even [[Poe Dameron]] with her piloting skills.<ref name="Visual Dictionary" />
+
+[[File:NinkaDatabank.jpeg|left|250px|thumb|Lintra's A-wing squadron was stationed on the ''Ninka'' during their campaign on the Cassander sector.]]
+In 34 ABY,<ref name="Date Note Cassander">The [[Resistance]]'s [[Cassander sector]] missions takes place shortly before the [[Atterra campaign]] which takes place during the events of [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], which the reference book ''[[Star Wars: Galactic Atlas]]'' places in [[34 ABY]].</ref> the Resistance learned that [[Sheh Soahi's pirates|pirates]] armed by the First Order had started to raid the [[star system]]s in the [[Cassander sector]]. In response to the threat of the [[sector]] being taken by the First Order, the Resistance sent Lintra and [[Tallissan Lintra's A-wing squadron|her]] [[A-wing starfighter|A-wing]] [[squadron]] as well as [[MG-100 StarFortress SF-17|bombers]] from [[Cobalt Squadron (Resistance)|Cobalt]] and [[Crimson Squadron]] to the sector. The Resistance's [[Battle of Mamkoda|first target]] in the sector was to destroy a [[pirate]] controlled [[Mamkoda spaceport|spaceport]] on [[Mamkoda]], Lintra and her squadron were assigned to protect the [[bomber]]s while they made their attack run on the [[spaceport]]. During the battle, Lintra and her squadron encountered heavy resistance from the pirates, but the Resistance bombers were able to destroy their target.<ref name="Bomber Command" />
+
+Three [[Standard day|days]] after the mission on Mamkoda, Lintra and the Resistance forces undertook a [[Mission to Caraxl|relief mission]] to [[Caraxl]]. While the bombers started to deliver the supplies, Lintra reported to the bombers that First Order [[TIE/fo space superiority fighter|TIE fighters]] were on an intercept course to their position. As their orders were to avoid confrontation with First Order [[Starship|vessels]], the mission was aborted and they headed back to the<ref name="Bomber Command" /> [[Free Virgillia-class Bunkerbuster|''Free Virgillia''-class Bunkerbuster]]<ref name="TLJICS">''[[Star Wars: The Last Jedi: Incredible Cross-Sections]]''</ref> ''[[Ninka]]''. After returning they learned that the [[Sheh Soahi pirate base|pirates' base]] was located on [[Sheh Soahi]], with the information Resistance forces were able to [[Battle of Sheh Soahi|destroy]] the base and get proof of the First Order alliance with the pirates.<ref name="Bomber Command" />
+
+===Evacuation of D'Qar===
+{{Quote|Bombers, keep that tight formation. Fighters, protect the bombers. It's not every day we get a shot at a dreadnought, so let's make this count.|Tallissan Lintra giving orders to the Resistance squadrons|Star Wars: Episode VIII The Last Jedi}}
+[[File:TalliePoeDameron28.jpg|thumb|220px|right|Tallissan Lintra was present when General Organa ordered the evacuation of D'Qar.]]
+Following the [[Battle of Starkiller Base|destruction]] of [[Starkiller Base]],<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref> ships from the [[Resistance navy|Resistance fleet]] arrived at [[D'Qar]] with new complements of [[starfighter]]s and joined the remaining forces stationed on the planet to reinforce the [[Resistance base]].<ref name="Visual Dictionary" /> After the Resistance learned that the First Order was regrouping, Lintra was present on a briefing where General Organa ordered to [[Evacuation of D'Qar|evacuate]] the base, shocked by the decission Lintra discussed with [[Suralinda Javos]] about it. During the briefing Dameron designed a semi-improvised plan to protect the evacuation ships, Lintra and the [[RZ-2 A-wing interceptor|A-wings]] were assigned as the primary defense for the fleet.<ref name="Poe Dameron 28">''[[Poe Dameron 28: The Awakening, Part III]]''</ref> Dameron also designed a plan destroy a<ref name="TLJ Junior Novel" /> [[Mandator IV-class Siege Dreadnought|''Mandator'' IV-class Siege Dreadnought]]<ref name="TLJICS" /> after receiving the schematics from [[Inferno Squad (New Republic)|Inferno Squad]].<ref name="Battlefront II">''[[Star Wars Battlefront II]]''</ref> As part of the plan [[squadron commander]] Lintra,<ref name="TLJ novel">''[[Star Wars: The Last Jedi: Expanded Edition]]''</ref> piloting [[Tallissan Lintra's RZ-2 A-wing starfighter|an]] A-wing starfighter<ref name="TLJICS" /> and assuming the [[Blue Leader|leadership]] of [[Blue Squadron (Resistance)|Blue Squadron]],<ref name="Episode VIII" /> was tasked to command the [[Resistance Starfighter Corps|Resistance starfighter forces]] and escort the bombers to the [[dreadnought]] .<ref name="Tallie Databank" />
+
+[[File:TallissanLintraEvacuation.jpg|thumb|250px|left|Tallissan Lintra during the evacuation of D'Qar.]]
+After the [[First Order Navy|First Order fleet]] arrived at D'Qar, Lintra and the fighters started their approach to the dreadnought after [[Commander]] Dameron had destroyed all the [[turbolaser]]s<ref name="Episode VIII" /> on the ''[[Fulminatrix]]''{{'}}s<ref name="Visual Dictionary" /> surface. While they started to get closer to the dreadnought Lintra ordered the bombers to stay in formation and joked with her [[wingmate]] [[Stomeroni Starck]] to not get drawn into [[Starfighter combat|dogfights]]. During their approach [[Teene]] spotted several [[TIE/sf space superiority fighter|TIE fighters]] closing in formation, Lintra compared their formation to [[dire hound]]s loose among [[whellay]]s back home on Pippip 3.<ref name="TLJ novel" /> Once the TIE Fighters got close enough the Resistance fighters engaged in combat trying to clear a path for the bombers, after reaching the dreadnought Lintra ordered the [[bombardier]]s to start their dropping sequence on the ship, however the majority of the bombers were destroyed after one spiraling TIE [[cockpit]] detonated the [[proton bomb]]s in [[Crimson Smiter|one]] of the bombers. The only [[Cobalt Hammer|bomber]] left managed to drop its explosives destroying the dreadnought. As the dreadnought exploded Lintra and the surviving fighters returned to<ref name="Episode VIII" /> the ''[[Raddus (MC85 Star Cruiser)|Raddus]]''<ref name="Visual Dictionary" /> and jumped into [[hyperspace]].<ref name="Episode VIII" />
+
+[[File:TallieDeath.jpg|thumb|250px|right|Tallissan Lintra moments before her death.]]
+After fleeing from D'Qar, the Resistance [[fleet]] dropped out of hyperspace in the remote [[Oetchi system]].<ref name="TLJ Junior Novel" /> Unknown to the Resistance, the First Order had [[Hyperspace tracker|tracked]] them through hyperspace and began an [[Attack on the Resistance fleet|attack]] on their fleet.<ref name="Episode VIII" /> Lintra, whilst [[sleep]]ing, had a [[dream]] where she had to protect the bombers, but she couldn't see them but instead could only locate them by the screams of their pilots as they died. After being woken up by a klaxon in the ''Raddus'' ready room, Lintra and Starck confused looked at the [[holotank]] and realized that the First Order fleet had followed them. After putting on her [[boot]]s and her [[Flight harness|flight vest]] Lintra made her way to the [[hangar]].<ref name="TLJ novel" /> In the hangar Lintra and the rest of the fighters started up their ships in order to engage the First Order. Before they could take off, [[Kylo Ren]] fired a pair of [[missile]]s into the hangar<ref name="Episode VIII" /> from his [[Kylo Ren's TIE silencer|TIE silencer]],<ref name="Visual Dictionary" /> killing Lintra and destroying the starfighters.<ref name="Episode VIII" />
+
+==Personality and traits==
+[[File:TallieDatabank.jpeg|thumb|left|200px|Tallie Lintra was considered one of the most capable pilots in the Resistance.]]
+{{Quote|Practice your dance moves later&ndash;we gotta fly.|Lintra joking with Starck|Star Wars: The Last Jedi: Expanded Edition}}
+Tallissan Lintra was a [[human]] [[Sexes|female]] who had light skin, [[Color|brown]] [[eye]]s and blonde [[hair]]. As a [[pilot]] she proved to be one of the most capable in the Resistance, impressing Poe Dameron with her skills.<ref name="Visual Dictionary" /> Lintra had a good relationship and often joked with her wingmate Stomeroni Starck.<ref name="TLJ novel" />
+
+==Equipment==
+[[File:TallieHelmet.jpg|thumb|right|200px|Tallissan Lintra's flight helmet]]
+Lintra wore a standard green Resistance pilot [[Clothing|uniform]] that included a [[FreiTek]] [[life support]] unit attached to her vest and a [[Guidenhauser]] ejection harness, additionally she wore a [[synthsilk]] scarf that her [[Parent|father]] gifted her. Lintra's red and white [[flight helmet]] had the letters "DA" wrote in [[aurebesh]] on it, which stood for "Deadly Approach" a punch-line to a well-known pilots' joke.<ref name="Visual Dictionary" /> Lintra piloted a blue marked RZ-2 A-wing starfighter<ref name="Battlefront II" /> and carried a [[blaster pistol]] with her.<ref name="Tallie Databank" />
+
+==Behind the scenes==
+Tallissan Lintra was portrayed by [[Hermione Corfield]] in the [[2017]] ''Star Wars'' saga film [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']].<ref name="Episode VIII" /> The character was listed as "A-Wing Pilot Tallie" in the film's end credits,<ref name="Episode VIII" /> but was identified as "Tallissan Lintra" in ''[[Star Wars: The Last Jedi: The Visual Dictionary|The Visual Dictionary]]'' and ''[[Star Wars: The Last Jedi: Incredible Cross-Sections|Incredible Cross-Sections]]'' reference books released in conjunction with the film.<ref name="Release date">{{SW|url=news/new-star-wars-the-last-jedi-books-and-more-revealed-at-sdcc-2017|text=New Star Wars: The Last Jedi Books and More Revealed at SDCC 2017|archiveurl=https://web.archive.org/web/20180118031235/http://www.starwars.com/news/new-star-wars-the-last-jedi-books-and-more-revealed-at-sdcc-2017}}</ref>
+
+Tallie first appearance was in the first expansion pack for the 2017 [[video game]] ''[[Star Wars Battlefront II]]'' where it introduced Tallie's A-Wing as a starfighter hero unit, the pack was released on [[December 13]], two days before the movie.<ref name="The Last Jedi Season">{{Cite_web|url=http://www.ea.com/games/starwars/battlefront/battlefront-2/news/the-last-jedi-season-is-coming|title=Choose a Side: The Last Jedi Season is Coming|accessdate=2017-11-09|publisher=[[Electronic Arts]] Inc.|archiveurl=http://www.webcitation.org/6wcdgPP9s|archivedate=2018-01-20}}</ref>
+
+==Appearances==
+*''[[Star Wars Battlefront II]]'' {{1st}} {{C|DLC}}
+*''[[The Last Jedi: Bomber Command]]''
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[Star Wars: The Last Jedi: A Junior Novel]]''
+*''[[The Last Jedi Adaptation 1]]''
+*''[[Poe Dameron 28: The Awakening, Part III]]'' {{Flash}}
+
+===Non-canon appearances===
+*''[[William Shakespeare's Jedi the Last]]''
+
+==Sources==
+{{Imagecat|Images of Tallissan Lintra}}
+*{{SWYoutube|ye6GCY_vqYk|Star Wars: The Last Jedi Behind The Scenes}} {{1stp}}
+*{{HasbroCite|set=Star Wars: The Last Jedi (toy line)|text=''Star Wars: The Last Jedi''|pack=Resistance A-wing fighter|link=Resistance-A-Wing-Fighter-Pilot-Tallie-The-Last-Jedi.asp|archiveurl=https://web.archive.org/web/20171228062104/http://www.rebelscum.com/Resistance-A-Wing-Fighter-Pilot-Tallie-The-Last-Jedi.asp}}
+*''[[Star Wars: A-Wing Deluxe Book and 3D Wood Model]]''
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]'' {{1stID|Tallissan; simultaneous with ''Star Wars: The Last Jedi: Incredible Cross-Sections''}}
+*''[[Star Wars: The Last Jedi: Incredible Cross-Sections]]'' {{1stID|Tallissan; simultaneous with ''Star Wars: The Last Jedi: The Visual Dictionary''}}
+*''[[Star Wars: The Last Jedi: Ultimate Sticker Collection]]''
+*''[[Star Wars: The Last Jedi: Heroes of the Galaxy]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{SW|url=a-wing-fighter-history-gallery|text=A-wing Fighter History Gallery|archivedate=20180120232822}}; image #7 {{C|of 7}}
+*{{Databank|resistance-pilots-biography-gallery|Resistance Pilots Biography Gallery|archiveurl=http://www.webcitation.org/6yQuNKtib}}; image #6 {{C|of 6}}
+*{{Databank|stomeroni-starck|Stomeroni Starck|archivedate=20180518215941}}
+*{{Databank|tallie-lintra|Tallie Lintra|archiveurl=http://www.webcitation.org/6wuonfYRd}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{Cite_web|url=http://www.ea.com/games/starwars/battlefront/battlefront-2/news/the-last-jedi-season-is-coming|title=Choose a Side: The Last Jedi Season is Coming|accessdate=2017-11-09|publisher=[[Electronic Arts]] Inc.|archiveurl=http://www.webcitation.org/6wcdgPP9s|archivedate=2018-01-20}}
+
+{{Interlang
+|de=Tallissan Lintra#kanon
+|es=Tallissan Lintra
+|fr=Tallissan Lintra
+|ja=タリサン・リントラ
+|ko=탈리산 린트라
+|pl=Tallissan Lintra
+|ru=Таллиссан Линтра
+|uk=Талісан Лінтра
+|deGA=1
+}}
+
+{{DEFAULTSORT:Lintra, Tallissan}}
+[[Category:Blue Squadron (Resistance) personnel]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Resistance Military officers]]

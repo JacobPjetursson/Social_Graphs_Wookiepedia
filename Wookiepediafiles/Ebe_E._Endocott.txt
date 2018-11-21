@@ -1,0 +1,38 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:EE Endocott Headshot.png]]
+|name=Ebe E. Endocott
+|homeworld=[[Triffis]]<ref name="AEYNTK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref>
+|birth=
+|death=
+|species=[[Triffian]]<ref name="AEYNTK" />
+|gender=
+|height=
+|mass=
+|hair=[[Color|Black]], blue, yellow, cream<ref name="TPM">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|eyes=Yellow<ref name="TPM" />
+|skin=
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+'''Ebe E. Endocott''' was a [[Triffian]] [[podracer]] from [[Triffis]] who participated in the [[Boonta Eve Classic]] race on the [[planet]] [[Tatooine]] during the [[Invasion of Naboo|Naboo Crisis]]. Endocott successfully completed the race in fourth place, being beaten by the [[human]] [[Anakin Skywalker]], the [[Xexto]] [[Gasgano]] and the [[Glymphid]] [[Aldar Beedo]].<ref name="AEYNTK" />
+
+{{Char-stub}}
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+
+==Sources==
+*''[[Star Wars: Absolutely Everything You Need to Know]]'' {{1stID|Ebe E. Endocott}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Podracers]]
+[[Category:Triffians]]

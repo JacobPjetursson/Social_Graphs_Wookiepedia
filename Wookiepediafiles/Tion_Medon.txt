@@ -1,0 +1,61 @@
+{{Eras}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Tion Medon.jpg]]
+|name=Tion Medon
+|homeworld=[[Utapau]]<ref name="USW">''[[Ultimate Star Wars]]'' (pg. 109)</ref>
+|birth=
+|death=
+|species=[[Pau'an]]<ref name="Databank">{{Databank|tion-medon|Tion Medon}}</ref><ref name="USW" />
+|gender=[[Sexes|Male]]<ref name="Databank" />
+|height=2.06 [[meter]]s<ref name="Databank" />
+|mass=
+|hair=
+|eyes=[[Color|Black]]
+|skin=Gray {{C|with red markings}}
+|cyber=
+|era=
+|affiliation=[[Galactic Republic]]<ref name="RotS">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref><ref name="USW" />
+|masters=
+|apprentices=}}
+{{Quote|There's no war here, unless you brought it with you.|Tion Medon, to Obi-Wan Kenobi|Star Wars: Episode III Revenge of the Sith}}
+'''Tion Medon''' was a [[Sexes|male]] [[Pau'an]] and the [[Port Administrator]] of [[Pau City]] on [[Utapau]] during the [[Clone Wars]].
+
+==Biography==
+{{Quote|Tenth level. Thousands of battle droids.''"<br>"''Tell your people to take shelter. If you have warriors, now is the time.|Tion Medon and Obi-Wan Kenobi|Star Wars: Episode III Revenge of the Sith}}
+[[File:Pauan.png|thumb|left|250px|Medon greets Obi-Wan Kenobi.]]
+Tall and gaunt, Tion Medon was a [[Color|gray]]-skinned [[Pau'an]] who lived on the [[planet]] [[Utapau]], and served as the [[Port Administrator]] of [[Pau City]].<ref name="Databank" /> [[Sexes|He]] typically welcomed guests to the [[sinkhole]] [[spaceport]] and offered them his services.<ref name="USW" />
+
+In the final [[Standard week|weeks]] of the [[Clone Wars]], Medon was forced to accommodate [[General]] [[Grievous]] and his associates from the [[Confederacy of Independent Systems]] in his sanctuary. Members of the [[Separatist Council]] used the [[city]] as their base of operations around the [[time]] following the [[Battle of Coruscant]]. Sometime later, [[Jedi Master]] [[Obi-Wan Kenobi]] arrived on Utapau in search of Grievous. Medon welcomed Kenobi to the spaceport, and discreetly divulged helpful information pertaining to the Separatist presence on the [[Level 10|tenth level]]. Kenobi advised the [[administrator]] to help his people find shelter, and to bring the city's warriors to bear on the Separatists. The [[Jedi]] was able to [[Battle of Utapau|seek and destroy]] Grievous with Medon's help.<ref name="RotS" />
+
+==Physical appearance and traits==
+{{Quote|Greetings, young Jedi. What brings you to our remote sanctuary?|Tion Medon, to Obi-Wan Kenobi|Star Wars: Episode III Revenge of the Sith}}
+Like other Pau'ans, Tion Medon was a tall, gaunt<ref name="Databank" /> [[humanoid]] with lined, gray skin and thin bodies. Their appearance could be intimidating, with jagged [[Tooth|teeth]] and nails, and dark, red-rimmed [[eye]]s.<ref name="Pau'an Databank">{{Databank|pauan|Pau'an}}</ref> Standing at over two [[meter]]s in height,<ref name="Databank" /> Medon was nonetheless a helpful and gracious individual, welcoming guests to his [[homeworld]]<ref name="USW" /> and running Utapau's government alongside other members of his [[species]].<ref name="Pau'an Databank" />
+
+==Behind the scenes==
+Tion Medon was portrayed by [[Bruce Spence]] in the [[2005]] film [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']].<ref name="RotS" />
+
+Initially, it was undecided how Medon was to be realized onscreen&ndash;whether a practical makeup effect or a [[Wikipedia:Computer-generated imagery|computer-generated]] character. The Utapauns were ultimately created using both methods, but Medon was designed to be a flesh-and-blood performer wearing makeup, with Spence playing him.<ref name="Old Databank BtS">{{DB|character|tionmedon|Tion Medon}}</ref>
+
+==Appearances==
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}}
+*''[[Revenge of the Sith Read-Along Storybook and CD]]''
+
+===Non-canon appearances===
+*{{Droid Tales|Crisis on Coruscant (episode)|Crisis on Coruscant}}
+
+==Sources==
+*''[[Journey Through Space (2015)|Journey Through Space]]'' {{Po}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Galactic Atlas]]'' {{Po}}
+*{{Databank|pauan|Pau'an}}
+*{{Databank|tion-medon|Tion Medon}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Medon, Tion}}
+[[Category:Males]]
+[[Category:Pau'ans]]

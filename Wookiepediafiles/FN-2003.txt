@@ -1,0 +1,69 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=First Order
+|image=[[File:FN2003.jpg]]
+|name=FN-2003<br />"Slip"
+|homeworld=
+|birth=
+|death=[[34 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Jakku]]<ref name="TFA VD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref><ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+|species=[[Human]]<ref name="ECUC">In the [[2016]] reference book ''[[Star Wars Character Encyclopedia: Updated and Expanded]]'', it is stated that the [[Stormtrooper (First Order)|stormtroopers]] of the [[First Order]] were all [[human]]s.</ref>
+|gender=[[Sexes|Male]]<ref name="BTA">''[[Before the Awakening]]''</ref>
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="Stormtrooper in Training">{{Shortstory|story=Stormtrooper in Training|book=Galactic Adventures Storybook Collection}}</ref>
+|eyes=Hazel<ref name="BTA" />
+|skin=Pale<ref name="BTA" />
+|cyber=
+|era=
+|affiliation=*[[First Order]]<ref name="BTA" />
+**[[FN Corps]]<ref name="BTA" />
+|masters=[[Phasma]]<ref name="BTA" />
+|apprentices=}}
+{{Quote|FN-2003 must stand or fall on his own. If he stands, the Order is strengthened. If he falls, the Order is spared his weakness.|Captain Phasma|Before the Awakening}}
+'''FN-2003''', nicknamed "'''Slip'''," was a [[First Order]] [[Stormtrooper (First Order)|stormtrooper]] who served in the [[Standard decade|decades]] following the [[Galactic Civil War]]. He served under [[Finn|FN-2187]] and was considered the weakest link of their group, and his ineptitude was symbolically used in a speech by [[Captain]] [[Phasma]] to 2187, in which she reinforced that the weakness of individuals contributed to the potential weakness of the First Order as a whole. Despite his failures, Slip continued to serve on the front lines until [[Attack on Tuanul|an assault]] on the [[Sacred Villages|village]] [[Tuanul]] on [[Jakku]], thirty years after the [[Battle of Endor]].
+
+==Biography==
+FN-2003 was a [[Stormtrooper (First Order)|stormtrooper]] who served in the [[First Order]] in the [[Standard decade|decades]] after the [[Galactic Civil War]]. [[Sexes|He]] frequently fell behind the rest of his [[FN Corps|team]], led by [[Finn|FN-2187]], during their training simulations, leading to his nickname of "Slip." FN-2187 often had to rescue Slip in those simulations, including in one where the team assaulted a [[New Republic]] bunker with the objective of destroying a [[heavy repeating blaster]]. Slip was reprimanded by [[Captain]] [[Phasma]] after the simulation ended, and Phasma further ordered FN-2187 to stop rescuing Slip. As Phasma explained, Slip was the weakest link and helping him would weaken the First Order. During a [[Strike at Pressy's Tumble|strike]] at [[Pressy's Tumble]], Slip redeemed himself in Phasma's [[eye]]s by [[Death|executing]] an [[Abednedo (species)|Abednedo]] negotiator.<ref name="BTA" />
+
+During a First Order [[Attack on Tuanul|raid]] on [[Tuanul|a]] [[Sacred Villages|sacred village]] on the [[planet]] [[Jakku]], Slip was hit by [[blaster]] [[fire]] from [[Poe Dameron]]. FN-2187 went to help his squadmate, but FN-2003's wound proved fatal, Slip wiping his [[blood]]y hand on FN-2187's [[First Order stormtrooper armor|helmet]] before dying. His sudden and violent death contributed to FN-2187's decision to escape from First Order service.<ref name="TFA VD" /><ref name="Episode VII" />
+
+==Behind the scenes==
+FN-2003 first appeared in the [[2015]] film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']].<ref name="Episode VII" /> He was not named in the film itself, only in the novel ''[[Before the Awakening]]'', written by [[Greg Rucka]] and released the same day as the movie.<ref name="BTA" /> FN-2003's appearance in ''The Force Awakens'' was confirmed in the ''[[Star Wars: The Force Awakens: The Visual Dictionary]]''.<ref name="TFA VD" /> He was portrayed by [[Pip Andersen]] in the film, listed in the end credits as "Lead Stormtrooper".
+
+Although FN-2003 was killed by blaster fire from Poe Dameron in the film, in the [[Star Wars: The Force Awakens (novelization)|film's novelization]] FN-2003 was killed by blaster fire from one of the villagers.
+
+==Appearances==
+*''[[Before the Awakening]]'' {{1stID}}
+*{{Shortstory|story=Stormtrooper in Training|book=Galactic Adventures Storybook Collection}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens: A Junior Novel]]''
+*''[[The Force Awakens: Finn's Story]]''
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part I]]'' {{Mo}}
+
+===Non-canon appearances===
+*{{The Resistance Rises|Attack of the Conscience}}
+
+==Sources==
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|fn-2199|FN-2199|archivedate=20170806170054}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=FN-2003#kanon
+|el=FN-2003
+|es=FN-2003
+|ja=FN-2003
+|ka=FN-2003
+|nl=FN-2003
+|pl=FN-2003
+|ru=FN-2003
+}}
+
+[[Category:First Order stormtroopers]]
+[[Category:Males]]

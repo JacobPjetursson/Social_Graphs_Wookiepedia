@@ -1,0 +1,79 @@
+{{Eras}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Katuunkoprofile.jpg]]
+|name=Katuunko
+|homeworld=[[Toydaria]]
+|birth=
+|death=[[20 BBY]], [[Toydaria]]<ref name="WotM">{{TCW|Witches of the Mist}}</ref>
+|species=[[Toydarian]]<ref name="Ambush">{{TCW|Ambush}}</ref>
+|gender=[[Sexes|Male]]<ref name="Ambush" />
+|height=1.52 [[meter]]s<ref name="DB">{{Databank|katuunko|Katuunko}}</ref>
+|mass=
+|hair=[[Color|Black]]<ref name="Ambush" />
+|eyes=Yellow<ref name="Ambush" />
+|skin=Gray<ref name="Ambush" />
+|cyber=
+|era=
+|affiliation=*[[Toydarian Royal Delegation]]<ref name="Ambush" />
+*[[Toydarian ministry council]]<ref name="SL">{{TCW|Supply Lines}}</ref>
+*[[Galactic Republic]]<ref name="Ambush" />
+**[[Galactic Senate]]<ref name="SM">{{TCW|Senate Murders}}</ref>
+|masters=
+|apprentices=}}
+{{Quote|You have my faith. Toydaria would be honored to host a Republic base. My people are at your service.|Katuunko, to Jedi Master Yoda|audio=Katuunko1.ogg|Ambush}}
+'''Katuunko''' was the [[King]] of the [[planet]] [[Toydaria]] and the [[Toydarian]] [[species]] during the [[Clone Wars]]. With honesty and his people's safety as his greatest concerns, he initially kept his [[homeworld]] neutral in the conflict, but after agreeing to aid the suffering [[Twi'lek]]s of the planet [[Ryloth]] when asked by the [[Galactic Republic]] he decided it was [[time]] to make a choice.
+
+Katuunko arranged for a secret meeting between the [[Toydarian Royal Delegation]] and [[Jedi]] [[Grand Master]] [[Yoda]] on the neutral [[moon]] of [[Rugosa]], but the arrangement was discovered by the [[Confederacy of Independent Systems]] and [[Sith apprentice]] [[Asajj Ventress]] was sent to disrupt it. Yoda successfully defeated Ventress's forces and earned the Toydarian allegiance, after which Katuunko began representing the Toydarians in the [[Galactic Senate]].
+
+[[Count]] [[Dooku]] eventually arranged for Ventress's replacement, [[Savage Opress]], to capture Katuunko alive but the apprentice [[Death|killed]] the King instead by force choking him, and throwing his corpse to the ground in the [[Toydarian]] Throne Room. When Dooku found out about this, he became infuriated with Savage.
+
+{{Char-stub}}
+
+==Appearances==
+{{Imagecat|Images of Katuunko}}
+*{{TCW|Supply Lines}}
+*{{TCW|Ambush}} {{1st}}
+*{{TCW|Pursuit of Peace}}
+*{{TCW|Senate Murders}}
+*{{TCW|Witches of the Mist}}
+*{{TCW|Brothers}} {{C|Appears as a corpse in flashback(s)}}
+
+==Sources==
+*{{SWArchive|text = ''The Clone Wars'' Episode Guide: "Ambush"|url = theclonewars/guide/episode001.html}}
+
+*{{SW|text = "Ambush" Episode Guide - ''The Clone Wars''|url = tv-shows/clone-wars/ambush}}
+*{{SWArchive|text = ''The Clone Wars'' Episode Guide: Supply Lines|url = theclonewars/guide/episode303.html}}
+*{{SW|text = "Supply Lines" Episode Guide - ''The Clone Wars''|url = tv-shows/clone-wars/supply-lines}}
+*{{SWArchive|text = ''The Clone Wars'' Episode Guide: Witches of the Mist|url = theclonewars/guide/episode314.html}}
+*{{SW|text = "Witches of the Mist" Episode Guide - ''The Clone Wars''|url = tv-shows/clone-wars/witches-of-the-mist}}
+*[[Star Wars: The Clone Wars The Complete Season Three|''Star Wars: The Clone Wars'' The Complete Season Three]]
+
+*{{SWE|characters|jarjarbinks|Jar Jar Binks}}
+*{{SWE|locations|rugosa|Rugosa}}
+*{{SWE|characters|katuunko|King Katuunko}}
+*{{SWE|characters|obiwankenobi|Obi-Wan Kenobi}}
+*{{SWE|characters|asajjventress|Asajj Ventress}}
+*{{SWE|characters|yoda|Yoda}}
+
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{SW|url=databank/aat-battle-tank-history-gallery|text=AAT Battle Tank History Gallery|archivedate=20170711233332}}
+*{{Databank|asajj-ventress|Asajj Ventress|archivedate=20170708191423}}
+*{{Databank|jar-jar-binks-biography-gallery|Jar Jar Binks biography gallery}}; image #7 {{C|of 29}}
+*{{Databank|king-katuunko|King Katuunko}}
+*{{Databank|orn-free-taa|Orn Free Taa}}
+*{{Databank|rugosa|Rugosa}}
+*{{Databank|savage-opress|Savage Opress}}
+*{{Databank|toydaria|Toydaria}}
+*{{Databank|yoda|Yoda|archivedate=20140703043000}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ru=Катуунко/Канон
+}}
+
+[[Category:Males]]
+[[Category:Royalty]]
+[[Category:Toydarians]]

@@ -1,0 +1,79 @@
+{{Eras}}
+{{Update|[[Star Wars: Force Collection]], [[Star Wars: The Complete Visual Dictionary, New Edition]]}}
+{{Character
+|type=Jedi
+|image=[[File:Cin Drallig SWE.png]]
+|name=Cin Drallig
+|homeworld=
+|birth=
+|death=[[19 BBY]],<ref name="SWGA">''[[Star Wars: Galactic Atlas]]''</ref> [[Coruscant]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|species=[[Human]]<ref name="SWE">{{SWE|characters|cin-drallig|Cin Drallig}}</ref>
+|gender=[[Sexes|Male]]<ref name="Episode III" />
+|height=1.74 [[meter]]s<ref name="Databank">{{Databank|cin-drallig|Cin Drallig|archivedate=20170724125845}}</ref>
+|mass=
+|hair=[[Color|Dark blond]]<ref name="SWE" />
+|eyes=Blue<ref name="SWE" />
+|skin=Light<ref name="SWE" />
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="Episode III" />
+**[[Jedi Temple Guard]]<ref name="CVD">''[[Star Wars: The Complete Visual Dictionary, New Edition]]''</ref>
+*[[Galactic Republic]]<ref name="Episode III" />
+|masters=[[Grand Master]] [[Yoda]]<ref name="CVD" />
+|apprentices=}}
+{{Quote|Safety is a flexible concept.|Cin Drallig to [[Sammo Quid]]|Kanan 8: First Blood, Part II: The Towers of the Temple}}
+'''Cin Drallig''' was a [[human]] [[Sexes|male]] [[Jedi Master]] who served the [[Jedi Order]] during the [[Clone Wars]]. He was the head of the [[Jedi Temple Guard]] and a [[lightsaber]] instructor who was nicknamed "'''the Troll'''" by fellow [[Jedi]]. Drallig was killed by [[Anakin Skywalker|Darth Vader]] during the [[Attack on the Jedi Temple|attack]] on the [[Imperial Palace|Jedi Temple]].
+
+==Biography==
+===Early life===
+Early in his life, Cin Drallig, a [[human]] [[Sexes|male]], was personally trained by the [[Jedi High Council]]'s [[Grand Master]] [[Yoda]]. Drallig eventually became the [[Jedi Order]]'s finest master swordsman.<ref name="CVD" /> Drallig rose to the rank of [[Jedi Master]] and led the [[Jedi Temple Guard]] during the [[Clone Wars]].<ref name="Databank" /> As a Master, he was a teacher of [[lightsaber]] combat who passed his skills onto new generations of [[Jedi]], such as [[Obi-Wan Kenobi]] and [[Anakin Skywalker]].<ref name="CVD" /> He earned the nickname "the Troll" from other members of the Jedi Order.<ref name="Databank" />
+
+===The Clone Wars===
+====Guarding the Temple====
+[[File:Jedi_guards_at_rally.png|thumb|left|250px|Drallig guards the Jedi Temple during a rally.]]
+During the [[Clone Wars]], the [[Imperial Palace|Jedi Temple]] was [[Bombing of the Jedi Temple hangar|bombed]] by [[Padawan]] [[Barriss Offee]]. Before the perpetrator had been caught, the Jedi led an investigation to determine who was behind the attack. [[Anakin Skywalker]] approached Drallig, who was standing guard with the Temple Guard at the gates of the Jedi Temple, where protesters were demonstrating against the war and the Jedi Order's involvement in it. Skywalker showed Drallig a [[Hologram|holographic]] image of their then-suspect, [[Jackar Bowmani]], and asked the Jedi Master to be on alert for him. This led to the suspect's wife, [[Letta Turmond]], being taken into custody after spotting the holographic image,<ref name="Sabotage">{{TCW|Sabotage (episode)|Sabotage}}</ref> and the Jedi ultimately learned that Turmond was part of the plot to attack the Jedi Temple.<ref name="Knew Too Much">{{TCW|The Jedi Who Knew Too Much}}</ref>
+[[File:Cin Drallig Kanan8.png|right|thumb|250px|Drallig defends younglings from Separatist explosives]]
+The Temple was later [[Bombing at the Jedi Temple|attacked]] by [[Captain]] [[Rackham Sear]] of the [[Confederacy of Independent Systems]]. During the attack, Drallig led two Temple Guards in securing the quarters of the Jedi [[youngling]]s. He arrived just in time to cut a small explosive drone in half before it detonated in a room with several younglings. He ordered the guards to stay with the younglings and destroy any more explosives that entered the area. Drallig then joined Masters [[Mace Windu]] and [[Obi-Wan Kenobi]], reporting to them that the younglings were safe, but that there were explosions throughout the Temple and that the source was unknown. Master [[Depa Billaba]] and [[Jedi Initiate|Initiate]] [[Kanan Jarrus|Caleb Dume]] ended the attack by confronting Sear on the roof of the Temple, where he committed suicide by leaping off the building.<ref name="Kanan 8">''[[Kanan 8: First Blood, Part II: The Towers of the Temple]]''</ref>
+
+====Fall of the Jedi Temple====
+At the end of the war, Skywalker turned to the [[dark side of the Force]] and became Darth Vader, apprentice to [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]]&mdash;secretly Darth Sidious, the [[Dark Lord of the Sith]]. Vader [[Attack on the Jedi Temple|attacked]] the Jedi Temple with the [[501st Legion]] of [[clone trooper]]s, while Palpatine issued [[Order 66]] to force the clones to turn against the Jedi Order. Drallig fought to defend the Jedi Temple alongside Padawans [[Whie Malreaux]] and [[Bene]]. The three Jedi were eventually confronted and slain in lightsaber combat by Darth Vader.<ref name="Episode III" />
+
+==Powers and abilities==
+[[File:Cin Drallig TCW.png|right|175px|thumb|Cin Drallig as seen in ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]''.]]
+
+Drallig, the wielder of a [[Color|green]] lightsaber,<ref name="SWE" /> was a skilled swordsman who used his knowledge of lightsaber combat to train other Jedi. He was nonetheless killed in lightsaber combat by Darth Vader during the attack on the Jedi Temple.<ref name="Episode III" />
+
+==Behind the scenes==
+For his brief appearance in [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']], Cin Drallig was portrayed by [[prequel trilogy]] stunt coordinator [[Nick Gillard]], whose name was used as the basis for the character's name.<ref name="Episode III" /> Drallig was later voiced by [[Robin Atkin Downes]] in "[[Sabotage (episode)|Sabotage]]," the seventeenth episode of the [[The Clone Wars: Season Five|fifth season]] of the animated television series ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]''.<ref name="Sabotage" />
+
+==Appearances==
+*{{TCW|Sabotage (episode)|Sabotage}}
+*''[[Kanan 8: First Blood, Part II: The Towers of the Temple]]''
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}} {{Hologram}}
+
+==Sources==
+*{{SW|url=explore/the-clone-wars/ep517/#!/about|text="Sabotage" - ''The Clone Wars'' Episode Guide|archiveurl=https://web.archive.org/web/20170429054007/https://www.starwars.com/tv-shows/clone-wars/sabotage-episode-guide}}
+
+*{{SWE|characters|cin-drallig|Cin Drallig}}
+*{{SWE|groups|jedi-temple-guard|Jedi Temple Guard}}
+*''[[Star Wars: Force Collection]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*{{Databank|cin-drallig|Cin Drallig|archivedate=20170724125845}}
+*{{Databank|jedi-temple-guard|Jedi Temple Guard}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|el=Σιν Ντάλλιγκ
+|ru=Цин Драллиг/Канон
+|uk=Цин Дралліґ
+}}
+
+{{DEFAULTSORT:Drallig, Cin}}
+[[Category:Humans]]
+[[Category:Jedi Battlemasters]]
+[[Category:Jedi Masters]]
+[[Category:Males]]

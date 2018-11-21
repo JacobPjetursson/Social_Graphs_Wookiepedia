@@ -1,0 +1,53 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:RappertunieCrop-DK.png]]
+|name=Rappertunie
+|homeworld=[[Manpha]]<ref name="CE">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|birth=
+|death=
+|species=[[Shawda Ubb]]<ref name="DB">{{Databank|rappertunie|Rappertunie}}</ref>
+|gender=[[Sexes|Male]]<ref name="DB" />
+|height=0.3 [[meter]]s<ref name="DB" />
+|mass=
+|hair=
+|eyes=
+|skin=[[Color|Green]]<ref name="DB" />
+|cyber=
+|era=
+|affiliation=[[Max Rebo Band]]<ref name="DB" />
+|masters=
+|apprentices=}}
+'''Rapotwanalantonee''', better known by his stage name of '''Rappertunie''', was a [[Sexes|male]] [[Shawda Ubb]] and a member of the [[Max Rebo Band]].
+
+==Biography==
+Rapotwanalantonee, whom everyone called Rappertunie,<ref name="RotJ novel">[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]</ref> was a member of the [[Max Rebo Band]], a 12-member [[band]] led by [[Max Rebo]].<ref name="Music">''[[Music in the Star Wars Galaxy: The Modal Nodes vs. The Max Rebo Band]]''</ref> In [[4 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[crime lord]] [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]], a fan of Max Rebo, hired the band to perform at [[Jabba's Palace|his palace]] on [[Tatooine]].<ref name="Max Rebo Band">{{Databank|the-max-rebo-band|The Max Rebo Band}}</ref> While performing an encore of "[[Jedi Rocks]]," the band was interrupted by Jabba when [[Sexes|he]] dropped his [[Slavery|slave]] dancer, [[Oola]], into the [[rancor]] pit beneath his throne.<ref name="RotJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+
+==Personality and traits==
+Rappertunie was a male, [[Color|green]]-skinned [[Shawda Ubb]] who stood at three-tenths of a [[meter]] in height.<ref name="DB" /> Like other Shawda Ubb, Rappertunie could spit a paralyzing [[poison]], and he would do so at anyone who threatened him.<ref name="AEYNTK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref>
+
+==Skills and abilities==
+Within the Max Rebo Band, Rappertunie played a peculiar instrument known as a [[Growdi Harmonique]], which required the use of his [[Limb|fingers]], toes, and [[mouth]].<ref name="DB" />
+
+==Behind the scenes==
+During the production of [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']], Rappertunie was nicknamed "[[Jedi]] Rapper" by the filmmakers. He was realized as a puppet which was then digitally composited into new and existing footage for the ''[[The Star Wars Trilogy Special Edition|Special Edition]]'' release of the film.<ref name="DBold">{{DB|character|rappertunie|Rappertunie}}</ref>
+
+==Appearances==
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}} {{C|Post-[[1997]] releases}}
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+
+==Sources==
+*''[[Music in the Star Wars Galaxy: The Modal Nodes vs. The Max Rebo Band]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Rebel Files]]''
+*{{Databank|rappertunie|Rappertunie}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Males]]
+[[Category:Max Rebo Band members]]
+[[Category:Shawda Ubb]]

@@ -1,0 +1,235 @@
+{{Eras}}
+{{Expand}}
+{{Image}}
+{{Character
+|type=Mandalorian
+|image=[[File:DuchessSatine-SWE.jpg]]
+|name=Satine Kryze
+|homeworld=[[Kalevala]]<ref name="TalMerrikDB">{{Databank|tal-merrik|Tal Merrik|archivedate=20170626183815}}</ref>
+|birth=
+|death=[[19 BBY]],<ref name="SWGA">''[[Star Wars: Galactic Atlas]]''</ref> [[Mandalore]]<ref name="TL">{{TCW|The Lawless}}</ref>
+|species=[[Human]] {{C|[[Mandalorian]]}}<ref name="SWE">{{SWE|characters|duchesssatine|Duchess Satine Kryze}}</ref>
+|gender=[[Sexes|Female]]<ref name="SWE" />
+|height=1.77 [[meter]]s<ref name="Databank: Satine Kryze">{{Databank|duchess-satine-kryze|Duchess Satine Kryze|archivedate=20170706085350}}</ref>
+|mass=
+|hair=[[Color|Blond]]<ref name="SWE" />
+|eyes=Blue<ref name="SWE" />
+|skin=Pale<ref name="The Mandalore Plot">{{TCW|The Mandalore Plot}}</ref>
+|cyber=
+|era=
+|affiliation=*[[House Kryze]]<ref name="Protector Recon">{{SW|url=video/rebels-recon-inside-the-protector-of-concord-dawn|text=Rebels Recon: Inside "The Protector of Concord Dawn"}}</ref>
+**[[Clan Kryze]]<ref name="Heroes of Mandalore">''[[Star Wars Rebels: Heroes of Mandalore]]''</ref>
+*[[New Mandalorians]]<ref name="The Mandalore Plot" />
+*[[Council of Neutral Systems]]<ref name="The Mandalore Plot" />
+*[[Galactic Republic]]<ref name="DoM">{{TCW|Duchess of Mandalore}}</ref>
+*[[Mandalore resistance]]<ref name="The Lawless" />
+|masters=
+|apprentices=}}
+{{Quote|A very remarkable woman.''"<br />"''She is indeed.|Anakin Skywalker and Obi-Wan Kenobi|Voyage of Temptation}}
+[[Duke|Duchess]] '''Satine Kryze''' was the pacifistic leader of the [[New Mandalorians]] and the [[planet]] [[Mandalore]] during the [[Clone Wars]]. [[Sexes|She]] had at least one sister, [[Bo-Katan Kryze|Bo-Katan]], and a nephew, [[Korkie Kryze]]. Kryze was an ambitious and powerful woman, allied with several high profile names in the [[Galactic Senate]] such as [[Orn Free Taa]], [[Kin Robb]] and [[Padmé Amidala]]. Satine was close friends with [[Jedi Master]] [[Obi-Wan Kenobi]], who protected her during the [[Mandalorian Civil War]], and she later became acquainted with Padawan [[Ahsoka Tano]]. Later deposed by former [[Sith Lord]] [[Maul|Darth Maul]], Kryze died in Kenobi's arms during the [[Mandalorian civil war (Clone Wars)|Mandalorian civil war]], impaled by the [[Darksaber]] before his eyes as part of Maul's revenge against the Jedi Master.
+
+==Biography==
+===Early life===
+{{Quote|I remember a time when Jedi were not generals, but peacekeepers.|Satine Kryze|audio=NotGeneralsButPeacekeepers.ogg|Voyage of Temptation}}
+Born on the [[Outer Rim Territories|Outer Rim]] world of [[Kalevala]], Satine Kryze was the sister of Bo-Katan and at least one other sibling. The latter had a son named [[Korkie Kryze]], a nephew with whom Satine was very close.<ref name="TA">{{TCW|The Academy}}</ref><ref name="TL" /> Sometime prior to the [[Invasion of Naboo|blockade of Naboo]],<ref name="CVD NE" /> Satine became the Duchess of Mandalore. She rapidly aligned her government with the ideals of the New Mandalorian movement. The New Mandalorians wished to break with Mandalore's brutal past and adopt a more peaceful attitude towards other systems. This was in stark opposition to more conservative-minded individuals on Mandalore who sought to preserve the old ways and continue the Mandalorian custom of waging war for the glory of their world.<ref name="Voyage of Temptation">{{TCW|Voyage of Temptation}}</ref>
+
+Eventually, an insurgency developed against Satine's rule, leading to a [[Mandalorian Civil War|civil war]] for control of Mandalore. The conflict grew so large that it eventually required the intervention of the [[Jedi Order]]. The [[Jedi High Council|Jedi Council]] sent [[Jedi]] Master [[Qui-Gon Jinn]] and his apprentice, Obi-Wan Kenobi, to Mandalore<ref name="Voyage of Temptation" /> to protect the young duchess from her enemies.<ref name="CVD NE">[[Star Wars: The Complete Visual Dictionary, New Edition]]</ref> The insurgents sent [[bounty hunter]]s after Satine to eliminate her, forcing the two Jedi to remove the duchess from Mandalore for her own protection. They remained on the run with no certainties about what the next day would bring for nearly a year. At some point, they were [[Skirmish on Draboon|attacked]] by a swarm of [[venom-mite]]s on [[Draboon]], and Obi-Wan carried Satine to safety. Unfortunately, the chivalric act was tarnished somewhat as the Padawan accidentally fell and dropped her unceremoniously, leaving her with a permanent scar from the fall. During this time, Satine and Obi-Wan began to develop feelings for one another.<ref name="Voyage of Temptation" />
+
+Eventually, the uprising was defeated, and Satine was allowed to return to Mandalore. The death toll wrought by the war was immense, and the young duchess was left with the difficult task of rebuilding her world. Obi-Wan's commitment to the Order ended their relationship, and he left to continue his Jedi training despite his feelings for her. Both were left heartbroken by their separation, and Kenobi later admitted that, had Satine asked him to stay, he would have left the Jedi Order for her.<ref name="Voyage of Temptation" />
+
+===Rebuilding Mandalore===
+{{Quote|A civil war killed most of Satine's people, hence her aversion to violence. When she returned, she took on the difficult task of rebuilding her world alone.|Obi-Wan Kenobi talking to Anakin Skywalker about Satine's past|Voyage of Temptation}}
+After Kenobi and Jinn left Mandalore, Satine gradually rebuilt following the damages caused by the war. The considerable number of deaths had left Satine with a fierce hatred of violence, and she became a staunch pacifist. She reformed her government with several [[Minister]]s, a cabinet which was led by a [[Prime Minister]].<ref name="Corruption">{{TCW|Corruption}}</ref> By the time of the Clone Wars, the position was occupied by [[Almec]]. Under her rule, Mandalore prospered and turned into a modern and peaceful society. However, Satine's reforms were actively opposed by a group of conservatives known as the [[Death Watch]], which formed from the last remaining insurgents of the civil war. These insurgents had been banished to the Mandalorian moon of [[Concordia]], where they secretly rebuilt their strength to overthrow the duchess and reclaim Mandalore. Aware of the Death Watch's activities, Satine assigned several officials she trusted, such as Prime Minister Almec and Concordia Governor [[Pre Vizsla]], to investigate and root out the movement.<ref name="The Mandalore Plot" />
+
+===The Clone Wars===
+{{Quote|But why target me?''"<br />"''You lead the Council of Neutral Systems, thus you threaten the Separatists' goals. Take it as a compliment. Someone very powerful is working towards your downfall.|Satine Kryze and [[Pre Vizsla/Legends|Pre Vizsla]]|audio=YouLeadCONS-TMP.ogg|The Mandalore Plot}}
+[[File:SKASOWKPAPMA-DoM.png|thumb|280px|left|Kryze as Duchess in the Senate]]
+When the Clone Wars erupted between the Republic and the [[Confederacy of Independent Systems]], many worlds were forced to choose sides. However, Satine made sure that Mandalore was neutral and continued to prosper. She was then named Regent of the [[Council of Neutral Systems]], a conglomerate of 1,500 star systems who wished to stay out of the conflict. However, rumors that Satine was building an army to fight for the Separatists, and a terrorist attack on a Jedi Cruiser by a man wearing Mandalorian armor, forced the Jedi Council to send [[Obi-Wan Kenobi]] to investigate.<ref name="The Mandalore Plot" />
+
+====Reassuring Kenobi====
+{{Quote|Every one of my people is as trustworthy as I am.|Duchess Satine Kryze to Obi-Wan Kenobi|The Mandalore Plot}}
+Receiving Kenobi in the throne room of the Sundari palace, Satine, Prime Minister Almec and [[Senator]] [[Tal Merrik]] assured Kenobi that they had nothing to do with that attack. Satine then accompanied Kenobi on tour of [[Sundari]], telling him of a group called Death Watch. During their walk, a bomb went off at the Memorial Shrine. Satine and Kenobi found the symbol of Death Watch that had been left by the bomber. Satine and Kenobi were then confronted by the bomber, but watched as he committed suicide. Satine comforted him as he died.<ref name="The Mandalore Plot" />
+
+[[File:Satine-MemorialShrine.png|thumb|280px|right|Satine shows Obi-Wan through Sundari.]]
+Satine then accompanied Kenobi and the bomber's body to Concordia to meet with its governor, Pre Vizsla. Satine allowed Kenobi to investigate the mines to see if they were inactive while she had dinner with Vizsla. However, she was then contacted by Kenobi, who had been captured by the Death Watch. Satine went to the mine, where she rescued Kenobi from the Death Watch.<ref name="The Mandalore Plot" />
+
+As they made their escape, Satine and Kenobi were confronted by more Death Watch soldiers. She threw a rock at one, allowing Kenobi to defeat one of the soldiers. Satine then watched as Kenobi confronted the leader, who revealed himself to be Governor Vizsla. After Kenobi defeated Vizsla, he and Satine escaped before their rockets found them. Satine soon spoke with Almec and Merrik about the Death Watch.<ref name="The Mandalore Plot" />
+
+She refused to believe that the Death Watch was being backed by the Separatists. Satine was still in favor of keeping Mandalore out of the war, despite Kenobi's concerns.<ref name="The Mandalore Plot" />
+
+====Aboard the ''Coronet''====
+{{Quote|I'll take care of this, Obi-Wan. You, go find your girlfriend.''"<br />"''Yes, right .&hellip; No! Anakin! She's not my&hellip;|Anakin Skywalker and Obi-Wan Kenobi|audio=GoFindYourGirlfriend.ogg|Voyage of Temptation}}
+Satine then had to travel to the Senate to discuss her place in the war, departing Mandalore aboard her personal vessel ''[[Coronet]]''. She invited several senators to accompany her on the aircraft, including the representative of her own homeworld, Tal Merrick of Kalevala. Kin Robb, herself a member of the Council of Neutral Systems, Onaconda Farr and Orn Free Taa were the other dignitaries. The ship also played host to Kenobi's former Padawan, [[Jedi Knight]] [[Anakin Skywalker]], and a small detachment of clone troopers who were to act as additional security during the voyage. However, she and Kenobi argued over the ethics of getting involved in war until Merrik suggested they go to dinner. The dinner was interrupted by an attack by an [[SD-K4 assassin droid|assassin probe]] and its probe killers. Whilst the other senators struggled to keep the droids away from them, Satine stood back to back with Kenobi and defended herself expertly with a small but powerful droid deactivator, justifying it by stating that despite being a pacifist, she was willing and able to defend herself.<ref name="Voyage of Temptation" />
+
+[[File:Epguide213.jpg|thumb|280px|left|Kenobi protects Satine once again.]]
+After the probes were defeated, Satine objected to Kenobi's use of a single probe killer in exposing the traitor. When the last spider tried to attack Satine, she was saved when Kenobi destroyed the last probe. Unfortunately, Satine was then held hostage by her former advisor and now traitor, Merrik. Satine watched as Merrik murdered the captain and his bridge crew, calling him a horrid monster. When Merrik contacted the Separatist Alliance, boarding ships were sent, and dozens of droids flooded the decks. As Satine and Merrik made their way to the boarding ships, Kenobi arrived to rescue her. However, Merrik rigged the ship to blow. As Merrik prepared to board, Satine confessed that she had always loved Kenobi since they first met. Though Kenobi did not think it was the time, he too confessed that he would have left the Jedi Order if she had asked him to. As Merrik was disgusted by this, Satine called him a slug, drove her heel into his foot and took his gun, remarking that "Slugs are so often trod upon." However, Merrik said that he would still win without Satine, saying he would blow up the ship and kill all aboard. Satine held him at gunpoint as Merrik taunted her, stating that if she did shoot him, then she would undermine every pacifist ideal she held dear. Confident in his victory, Merrick dared either of them to strike and prove themselves a cold-blooded killer. Luckily, [[Anakin Skywalker]] killed Merrik before he pushed the button. Satine arrived safely back on [[Coruscant]] and bid farewell to Kenobi.<ref name="Voyage of Temptation" />
+
+====Defending Mandalore's neutrality====
+{{Quote|War is intolerable. We have been deceived into thinking that we must be a part of it. I say the moment we committed to fighting, we already lost.|Duchess Satine Kryze, to the Galactic Senate|audio=WarIsIntolerable-VoT.ogg|Voyage of Temptation}}
+When Satine arrived at the Senate, she was soon informed of the Republic's [[Mandalore Defense Resolution|plans]] to send troops in order to stop the Death Watch. Satine was outraged at this and opposed the idea, since it would not only take away Mandalore's independence but make them a target of the Separatists. While traveling back to the Senate, an assassin for Death Watch attacked Satine's ship, killing her driver. The duchess narrowly escaped with her life.<ref name="DoM" />
+[[File:Obi-Wan Satine VoT.png|right|thumb|200px|Duchess Kryze on Coruscant]]
+At last, Kryze safely arrived back at the Senate, where she conferred with [[Darth Sidious|Palpatine]]. When the meeting finished, Satine stormed away from a comforting Obi-Wan before being informed by Senator Padmé Amidala that the Senate had passed the order of sending troops to Mandalore. Frightened and horrified, Kryze then heard of her friend having a hologram capable of swaying the senate. This led her to the lower levels of Coruscant, where her friend gave her the hologram. The Death Watch assassin promptly murdered her friend and accused her of the crime.<ref name="DoM" />
+
+====On the run====
+{{Quote|If you see this woman, report her to local authorities.|A clone trooper talking about Satine|Duchess of Mandalore}}
+[[File:DeadDavu.png|thumb|280px|left|Kryze accused of murdering her friend]]
+Satine, now a fugitive, contacted Obi-Wan Kenobi and instructed him that the hologram must be presented to the Senate. Kenobi came to her aid and discussed what should be done. The assassin sent by Death Watch then attacked the duo before being fought off by Kenobi. Kryze quickly gave Kenobi the hologram, and he dashed to the Senate, ready for Amidala to present the transmission to the Senators. When Padmé Amidala presented the hologram to the Senate, Kryze was released from any charges and returned to Mandalore, but not before saying her thanks and goodbye to her Jedi hero, Obi-Wan Kenobi.<ref name="DoM" />
+[[File:SatineSurrenders-DOM.jpg|thumb|220x220px|Satine surrenders herself to the authorities]]
+Not long after her ordeal, Satine was present in the senate chamber for a speech made by Senator Padmé Amidala in opposition to a bill which would increase military spending at the expense of social services. Amidala's speech, a touching and passionate defense of basic social amenities which suffered as a result of the war, received rousing support from many of those present, including Satine.
+
+====Black Market Crisis====
+{{Quote|I know our decision to stay neutral has caused distress in the Senate. But for many here, the fallout from your war has been so much.|Duchess Satine, to Padmé Amidala|Corruption}}
+While Senator [[Padmé Amidala]] visited Sundari on a diplomatic mission, the two uncovered the terrifying truth of corruption lying deep within the market. They found a group of smugglers led by the [[Moogan]] [[Tee Va]], who had inadvertently poisoned a shipment of tea with [[slabin]]. After uncovering and arresting the leadership behind this, Satine had the warehouse used in the operation burned to the ground as a warning and an example of what fate corruption would meet on Mandalore.<ref name="Corruption" />
+
+====Corruption in Almec====
+{{Quote|You must know by now that I didn't bring you here just to teach. I knew something was amiss, but I had no one to trust. I thought if I brought a Jedi, especially a friend of Senator Amidala's, we could solve this mystery together.|Satine, to Ahsoka Tano|The Academy}}
+As Padmé left. Satine asked whether a Jedi could come and teach Mandalore's children of the terror of corruption.<ref name="Corruption" /> Padmé sent her friend [[Ahsoka Tano]] to teach the children. While Ahsoka taught the class of children, including Kryze's nephew, Korkie, they uncovered the terrifying truth of Prime Minister Almec's betrayal and deep corruption.<ref name="TA" />
+[[File:ForcedConfession2-TA.png|right|thumb|250px|Prime Minister Almec tries to force a false confession from Satine.]]
+Almec, one step ahead of the youths, had his personal guards arrest Satine in an attempt to force her to sign a confession of her being corrupt. Several of the duchess' personal guards were slain attempting to protect her, and she was subjected to brutal shocks from a shock collar in an attempt to make her sign. When the duchess spat that she would die before she signed the confession, Almec tried a different approach in the form of subjecting her nephew Korkie to the collar instead. Luckily, Tano arrived and fought off Almec. Satine then retook the upper hand and sentenced Almec to prison for corruption and treason.<ref name="TA" />
+
+====The death of Onaconda Farr====
+Kryze attended the funeral of Padmé's close ally and friend Senator [[Onaconda Farr]] with two of her Journeyman Protector guards.<ref name="SM">{{TCW|Senate Murders}}</ref> Senator Farr was also part of the Council of Neutral Systems with Satine.<ref name="Voyage of Temptation" />
+
+====Obi-Wan Kenobi's fake death====
+[[File:DeceptionFuneral.png|thumb|left|270px|The Duchess attends Kenobi's fake funeral.]]
+The Jedi High Council decided to take drastic measures and "kill" Obi-Wan in order to remodel his body into that of a bounty hunter. To further create the illusion of Kenobi's death, the [[Galactic Republic]] invited Satine and, notably, [[Padmé Amidala]] to his "[[Funeral of Obi-Wan Kenobi|funeral]]." The Duchess stood next to Amidala, Ahsoka Tano, and [[Plo Koon]]. Satine was evidently not told the true circumstances, as she was utterly distraught.<ref name="Deception">{{TCW|Deception}}</ref>
+
+====Fall of Mandalore====
+[[File:DeathWatchAndSatine-SoR.png|thumb|280px|right|Death Watch infiltrate Sundari.]]
+Toward the end of the Clone Wars, [[Maul|Darth Maul]] and [[Savage Opress]] came to Mandalore with the help of the [[Shadow Collective|crime families]]. The two slaughtered hundreds of the Mandalore public on the streets, tearing through the capital. Kryze and her government were captured and placed in jail.<ref name="SoR">{{TCW|Shades of Reason}}</ref> Kryze was rescued by her nephew and escaped to the border of the Capital, where she was able to contact the Jedi Council. Satine was then captured again and brought back to the cells. Obi-Wan Kenobi came to Mandalore against the will of the Council, and attempted to rescue Satine; however, once again, the Duchess was imprisoned—but only for a short time.<ref name="TL" />
+
+====Death====
+{{Quote|Remember my dear Obi-Wan, I loved you always... I always will.|Satine's last words to Kenobi|The Lawless}}
+[[File:HoldMeObiWanKenobi-TL.png|left|thumb|250px|Satine dies in Obi-Wan Kenobi's arms]]
+Kryze and Kenobi were both brought to Maul, who was now the ruler of Mandalore. Maul taunted the two heroes, and finally got his revenge on Obi-Wan by Force-choking Kryze and then impaling her with the [[Darksaber]]. As she died, Kryze confessed her unending love for her Jedi Master, saying "Remember, my dear Obi-Wan, I loved you always... I always will."<ref name="TL" />
+
+===Legacy===
+{{Quote|You named your weapon after my sister? The former Duchess of Mandalore?''"<br />"''It was a series of bad decisions, okay?|Bo-Katan and Sabine Wren on the latter's use of her name|Star Wars Rebels: Heroes of Mandalore}}
+In the years preceding the [[Battle of Yavin]], Maul owned a [[painting]] of Kryze hung above a shrine where he kept the [[Darksaber]] in the [[Nightsister lair]] on [[Dathomir]]. The painting, which had once hung in the Sundari palace throne room, was heavily defaced by the time it had fallen into Maul's possession.<ref name="Visions and Voices">{{Rebels|Visions and Voices}}</ref>
+
+Years before the [[Early rebellion against the Galactic Empire|early rebellion]] against the [[Galactic Empire]], a young [[Imperial cadet|cadet]] at the [[Imperial Academy of Mandalore]] named [[Sabine Wren]] developed a [[superweapon]] that became the [[Arc Pulse Generator]]. Wren nicknamed the weapon "the Duchess" after Satine. She developed the weapon to target [[beskar]] alloy used in [[Mandalorian armor]] and disintegrate the soldier inside, taking it as a challenge to her abilities since beskar was widely regarded as indestructible. After finding out that the Empire not only had weaponized her design but tested it on her people, Sabine was horrified. She sabotaged the original prototype and destroyed the remaining plans but then found out the Empire was able to recreate it. In [[1 BBY]], Satine's sister Bo fought the Imperial [[Occupation of Mandalore|occupation]] of Mandalore, and with the backing of [[Clan Wren]], the Journeyman Protectors and several other clans, she took the Darksaber and claimed the title of [[Mand'alor]] to honor her sister.<ref name="Heroes of Mandalore" />
+
+At some point after her death, the [[Drearian Defense Conglomerate]] named a model of its [[Defender sporting blaster pistol]] after the late Duchess, the [[Satine's Lament]]. One of these was put to good use by the daughter of Kryze's friend Amidala, [[Leia Organa]].<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+
+In [[0 BBY]], while talking with the [[Force spirit]] of Qui-Gon Jinn, Kenobi blamed himself for having failed every person he truly loved, such as Kryze, but Jinn comforted him by reassuring that the responsibility for his failure was Jinn's own for not having completed Kenobi's training.<ref name="FaCPoV:MaA">{{Shortstory|story=Master and Apprentice (short story)|sformatted=Master and Apprentice|book=From a Certain Point of View}}</ref>
+
+==Abilities==
+Satine was a strong-willed and gifted politician, shown as she held her own in the Senate, where she was cross-examined by Public Speaker [[Mas Amedda]]. Kryze was gifted at public speaking and showed strength in the field of analyzing her surroundings. Though she greatly disliked the idea of violence, she could fight fairly well, as she fought off a Death Watch soldier in a matter of seconds, each of whom were peerless warriors in their own right. Kryze could evidently fly aircraft; when Obi-Wan Kenobi attempted to save her from [[Mandalore]], she was ready to take control of the ship, but did not have time. Also, as shown while aboard the ''[[Coronet]]'', Satine could use a deactivator as she fought alongside Obi-Wan Kenobi. Despite her obvious fighting ability, Kryze abhorred violence, as shown when she had the opportunity to kill Tal Merrik. Kryze was also very intelligent and resourceful as shown when she was able to correctly program the controls in the mines to release Kenobi.<ref name="The Mandalore Plot" />
+
+==Personality and traits==
+{{Quote|For generations, my ancestors fought proudly as warriors ''against'' the Jedi. Now, that woman tarnishes the very name Mandalorian.|Pre Vizsla, to Obi-Wan Kenobi|audio=AgainstTheJedi-TMP.ogg|The Mandalore Plot}}
+[[File:BalutarClassSwoop-SWE.jpg|thumb|220x220px|Satine riding a Mandalorian speeder bike]]
+Satine Kryze was a staunch pacifist who believed that the very concept of "fighting for peace" was an unacceptable contradiction. Her beliefs came from her experiences during the civil war which killed most of her people during the early days of her reign. The harrowing experience led her to invoke a strong course of pacifism once the war ended, leading her people through a period of peace and prosperity that Mandalore had never before experienced. Kryze was so devoted to her ideals that she was willing to die for them, and she opposed Mandalore's entry into the Clone Wars, advocating a position of neutrality. Despite her commitment to peace, Kryze always carried a deactivator with her, claiming that her pacifist views didn't stop her from defending herself.
+
+Kryze was very kind toward her people and was distraught when dozens of Mandalorian citizens were killed due to the attacks of Savage Opress and Darth Maul; however, despite her kindness, Satine had turned strict after the uprising. When she was appointed as the Duchess of Mandalore, Satine turned to pacifism and exhibited these traits throughout the Clone Wars. She believed strongly in her pacifist views, as shown when she fought for her rights in the Old Republic's Senate. Kryze was strong willed and ambitious for Mandalore. She constantly believed in a bright future for her planet.
+
+==Behind the scenes==
+Satine Kryze was voiced by [[Anna Graves]] in ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]''. She is inspired by [[Wikipedia:Cate Blanchett|Cate Blanchett]], particularly her performance as [[Wikipedia:Elizabeth I of England|Queen Elizabeth I]], whom she portrayed in ''[[Wikipedia:Elizabeth (film)|Elizabeth]]'' and ''[[Wikipedia:Elizabeth: The Golden Age|Elizabeth: The Golden Age]]''. [[Henry Gilroy]], who came up with her name, denied she was named after [[Wikipedia:Nicole Kidman|Nicole Kidman's]] character in ''[[Wikipedia:Moulin Rouge!|Moulin Rouge!]]'', who was the love interest of [[Ewan McGregor]]'s character. [[Dave Filoni]] said he did not realize that initially, and said, "I still wanna question Gilroy about that, because I'm like, 'Come on, really? I mean, out of all the names, really?' It's pretty weird, I'll give you that."<ref>{{cite web|url=http://uk.ign.com/articles/2010/01/28/star-wars-are-you-ready-for-the-mandalorians?page=2|title=Star Wars: Are You Ready for the Mandalorians?|work=IGN|date=2010-01-28|accessdate=2016-01-25}}</ref>
+
+Early plans of the ''[[Star Wars Rebels]]'' episode "[[Twin Suns (episode)|Twin Suns]]" featured Maul experiencing [[vision]]s of both Kryze and Savage Opress before facing Obi-Wan Kenobi on [[Tatooine]].<ref name="SWCO 2017">{{SW|url=news/swco-2017-11-things-we-learned-from-dave-filoni-and-pablo-hidalgos-animated-origins-and-unexpected-fates-panel|text=SWCO 2017: 11 Things We Learned from Dave Filoni and Pablo Hidalgo's "Animated Origins and Unexpected Fates" Panel}}</ref>
+
+==Appearances==
+*{{TCW|The Mandalore Plot}} {{1st}}
+*{{TCW|Voyage of Temptation}}
+*{{TCW|Duchess of Mandalore}}
+*{{TCW|Corruption}}
+*{{TCW|The Academy}}
+*{{TCW|Pursuit of Peace}}
+*{{TCW|Senate Murders}}
+*{{TCW|A Friend in Need}}
+*{{TCW|Deception}}
+*{{TCW|Eminence (episode)|Eminence}} {{Mo}}
+*{{TCW|Shades of Reason}}
+*{{TCW|The Lawless}}
+*{{TCW|The Rise of Clovis}} {{Mo}}
+*''[[Darth Maul—Son of Dathomir, Part Three]]'' {{Mo}}
+*{{Rebels|Visions and Voices}} {{Po}}
+*''[[Star Wars Rebels: Heroes of Mandalore]]'' {{Mo}}
+*{{Shortstory|story=Master and Apprentice (short story)|sformatted=Master and Apprentice|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Mo}}
+
+==Sources==
+{{Scroll_box|content=
+*{{SW|url=tv-shows/clone-wars/the-mandalore-plot|text="The Mandalore Plot" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/voyage-of-temptation|text="Voyage of Temptation" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/duchess-of-mandalore|text="Duchess of Mandalore" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/corruption|text="Corruption" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/the-academy|text="The Academy" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/a-friend-in-need|text="A Friend in Need" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/deception|text="Deception" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/eminence|text="Eminence" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/shades-of-reason|text="Shades of Reason" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/the-lawless|text="The Lawless" Episode Guide - ''The Clone Wars''}}
+*{{InsiderCite|150|Insider Looks Back}}
+*{{InsiderCite|150|100 and Counting Expanded}}
+*{{SWE|characters|amis|Amis}}
+*{{SWE|characters|rex|Clone Captain Rex}}
+*{{SWE|groups|deathwatch|Death Watch}}
+*{{SWE|characters|duchesssatine|Duchess Satine Kryze}}
+*{{SWE|technology|gauntlet-fighter|Gauntlet fighter}}
+*{{SWE|characters|korkie|Korkie Kryze}}
+*{{SWE|characters|lagos|Lagos}}
+*{{SWE|locations|mandalore|Mandalore}}
+*{{SWE|groups|mandalorianguard|Mandalorian Guard}}
+*{{SWE|groups|mandalorian-super-commando|Mandalorian super commando}}
+*{{SWE|characters|obiwankenobi|Obi-Wan Kenobi}}
+*{{SWE|characters|palpatine|Palpatine}}
+*{{SWE|characters|previzsla|Pre Vizsla}}
+*{{SWE|characters|almec|Prime Minister Almec}}
+*{{SWE|characters|soniee|Soniee}}
+*{{SWE|characters|talmerrik|Tal Merrik}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|amis|Amis|archivedate=20170219112456}}
+*{{Databank|bo-katan-kryze|Bo-Katan Kryze|archiveurl=https://archive.fo/4ySEh}}
+*{{Databank|clone-captain-rex|Clone Captain Rex|archivedate=20170827024953}}
+*{{Databank|clone-commander-cody-biography-gallery|Clone Commander Cody Biography Gallery|archivedate=20170614155931}}; images #11, 12 {{C|of 21}}
+*{{Databank|concordia|Concordia|archivedate=20170226192251}}
+*{{Databank|coronet|Coronet|archivedate=20170625104225}}
+*{{Databank|coruscant|Coruscant|archivedate=20170705001748}}
+*{{Databank|darth-maul|Darth Maul|archivedate=20170710180356}}
+*{{Databank|death-watch|Death Watch|archivedate=20170706053752}}
+*{{Databank|duchess-satine-kryze|Duchess Satine Kryze|archivedate=20170706085350}}
+*{{Databank|emperor-palpatine-darth-sidious|Emperor Palpatine / Darth Sidious|archiveurl=https://archive.is/BR4CY}}
+*{{SW|galactic-senate-history-gallery|text=Galactic Senate History Gallery}}; image #9 {{C|of 27}}
+*{{Databank|gauntlet-fighter|Gauntlet fighter}}
+*{{Databank|korkie-kryze|Korkie Kryze}}
+*{{Databank|lagos|Lagos}}
+*{{Databank|mandalore|Mandalore}}
+*{{Databank|mandalorian-guard|Mandalorian Guard}}
+*{{SW|url=mas-amedda-biography-gallery|text=Mas Amedda Biography Gallery}}; image #5 {{C|of 18}}
+*{{Databank|new-mandalorians|New Mandalorians}}
+*{{Databank|obi-wan-kenobi|Obi-Wan Kenobi|archivedate=20170625182018}}
+*{{Databank|pre-vizsla|Pre Vizsla}}
+*{{Databank|prime-minister-almec|Prime Minister Almec}}
+*{{Databank|savage-opress|Savage Opress}}
+*{{Databank|sith|Sith}} {{Imo}}
+*{{Databank|soniee|Soniee}}
+*{{Databank|tal-merrik|Tal Merrik|archivedate=20170626183815}}
+*{{Databank|twilight|Twilight}}
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Satine Kryze
+|ja=サティーン・クライズ
+|pt=Satine Kryze
+|ru=Сатин Краиз/Канон
+|uk=Сатін Крайз
+}}
+
+{{DEFAULTSORT:Kryze, Satine}}
+[[Category:Clan Kryze]]
+[[Category:Duchesses]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:New Mandalorians]]
+[[Category:Planetary leaders]]

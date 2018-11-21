@@ -1,0 +1,41 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Romba_the_Ewok.jpg]]
+|name=Romba
+|homeworld=[[Endor]]<ref name="beware">''[[Return of the Jedi: Beware the Power of the Dark Side!]]''</ref>
+|birth=
+|death=
+|species=[[Ewok]]<ref name="beware" />
+|gender=[[Sexes|Male]]<ref name="beware" />
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="beware" />
+|eyes=
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Unidentified Ewok tribe (Romba)|Unidentified Ewok tribe]]<ref name="beware" />
+*[[Bright Tree tribe]]<ref name="beware" />
+*[[Alliance to Restore the Republic]]<ref name="beware" />
+|masters=
+|apprentices=}}
+{{Quotetrans|This is bigger than one tribe of Ewoks. Tomorrow’s battle will affect all Ewoks. So all Ewoks should have the chance to join in.|Romba|Return of the Jedi: Beware the Power of the Dark Side!}}
+'''Romba''' was a [[Sexes|male]] [[Ewok]] from [[Endor]]. A [[Hunting|hunter]], he once [[Death|slew]] a [[boar-wolf]], and then fashioned a [[knife]] from one of its [[Tooth|teeth]]. One night, upon returning from hunting, Romba found that his village had been burned by the [[Galactic Empire]], whose [[troop]]s had come to Endor to build a [[Deflector shield generator|shield generator]] and a troop base. Since his whole [[Unidentified Ewok tribe (Romba)|tribe]] was [[Death|dead]], Romba became a [[refugee]], and he ended up finding shelter in the [[Bright Tree Village]], led by [[Chief]] [[Chirpa]]. After a few heroes of the [[Alliance to Restore the Republic]] befriended Chirpa's [[Bright Tree tribe|tribe]], Romba was one of the many Ewoks that took part in the ground operations of the [[Battle of Endor]], during which the Alliance defeated the Galactic Empire. Through their triumph, Romba won justice for his lost village.<ref name="beware" />
+
+==Appearances==
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]'' {{1stID}}
+
+==Sources==
+*{{SWE|groups|ewoks|Ewoks}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Romba
+}}
+
+[[Category:Ewoks]]
+[[Category:Males]]

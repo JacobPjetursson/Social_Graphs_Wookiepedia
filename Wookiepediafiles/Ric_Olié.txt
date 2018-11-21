@@ -1,0 +1,82 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:RicOlieHS-SWE.png]]
+|name=Ric Olié
+|homeworld=[[Naboo]]<ref name="SWE">{{SWE|characters|ricolie|Ric Olié}}</ref>
+|birth=
+|death=
+|species=[[Human]] {{C|[[Naboo (people)|Naboo]]}}<ref name="SWE" />
+|gender=[[Sexes|Male]]<ref name="SWE" />
+|height=1.83 [[meter]]s<ref name="SWE" />
+|mass=
+|hair=[[Color|Light brown]]<ref name="tpm">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|eyes=Bluish green<ref name="tpm" />
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Royal House of Naboo]]<ref name="tpm" />
+**[[Royal Naboo Security Forces]]<ref name="tpm" />
+**[[Bravo Flight]]<ref name="tpm" /><ref name="SWE" />
+|masters=
+|apprentices=}}{{Quote|Enemy fighters straight ahead!|Ric Olié|Star Wars: Episode I The Phantom Menace}}
+'''Ric Olié''' was a [[human]] [[Sexes|male]] [[starship]] [[pilot]] who served in the [[Royal Naboo Security Forces]]. He was the commander of the [[Naboo Royal Space Fighter Corps]], and the leader of [[Bravo Flight]].
+Olié's talents also landed him the job of the [[Monarch of Naboo|Queen's]] personal pilot, often flying the [[Naboo Royal Starship]] in the service of [[Padmé Amidala]]. Due to Naboo's pacifistic nature, Olié's skills were rarely in use, although he saw military action during the [[Invasion of Naboo]].
+
+==Biography==
+===Invasion of Naboo===
+{{Quote|Shield generator's been hit!|Ric Olié|Star Wars: Episode I The Phantom Menace}}
+[[File:Ric Olié cockpit.png|thumb|left|200px|Olié in his [[N-1 starfighter]] with his astromech droid.]]
+By the [[time]] that [[Naboo]] was [[Invasion of Naboo|invaded]] by the [[Trade Federation]], [[Sexes|his]] only superior in the [[Royal Naboo Security Forces]] was [[Captain]] [[Quarsh Panaka|Panaka]]. Towards the beginning of the invasion, Olié, along with the rest of his [[Naboo pilot|pilots]], were captured and arrested by [[Trade Federation Droid Army|Federation forces]] when they swept into [[Theed]]. Their [[Monarch of Naboo|Queen]] was also arrested, and Naboo was subjugated swiftly by the [[droid]] [[army]]. However, they did not anticipate the intervention of two [[Jedi]], [[Qui-Gon Jinn]] and [[Obi-Wan Kenobi]], who were able to rescue the [[Queen]], her entourage, Olié, and his [[pilot]]s. Olié had no time to comprehend what was going on, as he was quickly ushered into the [[Naboo Royal Starship|Queen's Royal Starship]], and ordered to set a heading for [[Coruscant]].<ref name="tpm" />
+
+Escape would not come easily, as the Federation's [[blockade]] would provide Olié with a significant challenge. He was flying an unarmed [[transport]] against a [[fleet]] of heavily-armed [[capital ship]]s. Although he tried his best, the [[Starship|ship]] sustained heavy damage during the escape, and lost its shield generator. [[R2-D2]], one of the ship's [[astromech droid]]s, repaired the shields, which allowed Olié to pilot the ship through the blockade to safety.<ref name="tpm" />
+
+During the escape, the [[hyperdrive]] suffered enough damage to prevent the ship from finishing the journey to Coruscant. Kenobi suggested that they land on [[Tatooine]], a [[desert]] [[planet]], and purchase the parts needed to make repairs. Qui-Gon Jinn, the Queen (in disguise), the [[Gungan]], [[Jar Jar Binks]], and R2 set out to look for the parts. After a few [[Standard day|days]], they returned with both the parts and a new member of the group&mdash;nine-[[Standard year|year]]-old [[Anakin Skywalker]], an aspiring pilot. Olié took to the boy and offered him a few short lessons in starship piloting. When the Queen's pleas with the [[Galactic Senate]] to send aid to her besieged planet went unheeded, she decided to return and take matters into her own hands. Olié flew the group back to Naboo to confront their Trade Federation adversaries. Olié's skills, combined with a lessened Trade Federation [[Realspace|space]] presence, allowed them to land on the planet with enough time for Amidala to contact the native Gungans to enlist their help.<ref name="tpm" />
+
+===The battle for Naboo===
+{{Quote|We didn't hit it!|Ric Olié|Star Wars: Episode I The Phantom Menace}}
+[[File:RicOliePilot-SWE.jpg|thumb|250px|right|Olié during the space battle over Naboo]]
+The Queen had a plan&mdash;the [[Gungan Grand Army]] would assemble and draw the droid forces out of Theed, she and Panaka would then sneak into the [[city]] and capture the [[Viceroy of the Trade Federation]], [[Nute Gunray]], and Olié and his pilots would attempt to knock out the [[Lucrehulk-class Battleship|Droid Control Ship]]. Destroying the ship was the key to deactivating all droid units and saving the outmatched Gungans.<ref name="tpm" />
+[[File:Qui-Gon's funeral.png|left|thumb|244x244px|The Funeral of Qui-Gon]]
+When the Queen and the Jedi liberated [[Theed Hangar|Theed's hangar]], Olié and his pilots sprang into action, clambering into their [[N-1 starfighter]]s and setting out for the Droid Control Ship.<ref name="tpm" /> The Federation launched [[Variable Geometry Self-Propelled Battle Droid, Mark I|Vulture droids]] in attempt to counter the Naboo offensive, and succeeded in destroying many of the N-1 [[Starfighter|fighters]]. Only upon reaching the enemy ship did Olié realize that the [[deflector shield]] was too strong, and that the [[Battle of Naboo|battle]] seemed hopeless. Just when it seemed as though the Naboo fighters would fail in their mission, the Control Ship started to explode from the inside to Olié's surprise as none of the Naboo fighters managed to hit it. To his surprise, a fighter flew out of the exploding ship piloted by Anakin Skywalker who had inadvertently joined the battle, landed inside the ship and damaged the main [[reactor]]. As the Droid Control Ship exploded, [[Bravo Flight]] jubilantly returned to their liberated [[homeworld]] to celebrate. He was also seen at the [[Funeral of Qui-Gon Jinn]]. <ref name="tpm" />
+
+==Personality and traits==
+{{Quote|Coruscant&hellip; the entire planet is one big city.|Ric Olié|Star Wars: Episode I The Phantom Menace}}
+[[File:Olieandanakin.JPG|250px|thumb|left|Olié teaches Anakin Skywalker.]]
+Olié was a very vocally observant man, and had a reputation among his peers as the one most likely to point out the obvious.<ref name="tpm" /> He was a naturally gifted pilot and could pilot any craft on Naboo. He was reverent towards his Queen and always respected her decisions.<ref name="tpm" /> Although he followed Panaka's orders, Olié's opinions were always respected.<ref name="FC">{{ForceCollection|Ric Olié|star=1}}</ref>
+
+==Behind the scenes==
+Ric Olié first appeared as a supporting character in [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']], where he was portrayed by [[Ralph Brown]]. Ric Olié is referred to by some fans as "[[Captain Obvious]]" due to dialogue that simply states well-observed facts, such as "There's the blockade!," "That's it&hellip; Tatooine," and "We didn't hit it!"<ref name="cbr">{{Cite web|url=http://forums.comicbookresources.com/showthread.php?156451-Rick-Olney-Fibber-or-Mega-Giganta-Fibber/page64|title=Rick Olney--Fibber or Mega-Giganta-Fibber?|accessdate=2013-08-24|date=[[December 30]], [[2006]] 09:14 PM|publisher=CBR Forums}}</ref><ref name=jcf>{{JCFcite|threadnum=25422484|board=EU Community|thread=Ric Olie one-liners|user=|PTtime=|accessdate=2013-03-23}}</ref><ref name="ama">{{Amazon|com|/review/R3FDURPHJV0H42/|Customer review of ''Star Wars: The New Essential Guide to Characters''}}</ref>
+
+==Appearances==
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*''[[Star Wars Journeys: The Phantom Menace]]''
+
+===Non-canon appearances===
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+
+==Sources==
+{{Imagecat|Images of Ric Olié}}
+*{{SWE|groups|nabooroyalguards|Naboo royal guards}}
+*{{SWE|technology|nabooroyalstarship|Naboo Royal Starship}}
+*{{SWE|technology|naboostarfighter|Naboo starfighter}}
+*{{SWE|characters|ricolie|Ric Olié}}
+*''[[Ultimate Star Wars]]''
+{{ForceCollection|Ric Olié|star=1}}
+*{{Databank|naboo-royal-starship|Naboo Royal Starship}}
+*{{Databank|ric-olie|Ric Olie}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Olié, Ric}}
+{{Interlang
+|ru=Рик Олие/Канон
+}}
+
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Naboo]]
+[[Category:Pilots]]
+[[Category:Royal Naboo Security Force officers]]

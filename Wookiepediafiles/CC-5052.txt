@@ -1,0 +1,95 @@
+{{Eras}}
+{{Cleanup}}
+{{Character
+|type=Galactic Republic
+|image=[[File:BlyHS-JC.png]]
+|name=CC-5052<br />"Bly"
+|homeworld=[[Kamino]]<ref name="SWE Bly">{{SWE|characters|clone-commander-bly|Clone Commander Bly|archivedate=20131221190229}}</ref>
+|birth=
+|death=
+|species=[[Human]] {{C|[[Cloning|clone]]}}<ref name="SWE Bly" />
+|gender=[[Sexes|Male]]<ref name="Databank Bly">{{Databank|clone-commander-bly|Clone Commander Bly|archiveurl=https://web.archive.org/web/20170823003049/http://www.starwars.com:80/databank/clone-commander-bly}}</ref>
+|height=1.83 [[meter]]s<ref name="Databank Bly" />
+|mass=
+|hair=[[Color|Black]]
+|eyes=Brown
+|skin=Tan
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Databank Bly" />
+**[[327th Star Corps]]<ref name="Databank Bly" />
+|masters=
+|apprentices=}}
+{{Quote|Commander Bly, we've got company.''"<br />"''Friendlies?''"<br />"''Negative sir, a droid ship. Coming straight our way.|Captain Rex and Commander Bly|Defenders of Peace}}
+'''CC-5052''', nicknamed "'''Bly'''," was a [[Clone trooper|Clone]] [[Clone Commander|Commander]] and [[Advanced Recon Commando]] who served in the [[Grand Army of the Republic]]'s [[327th Star Corps]] during the [[Clone Wars]]. A genetic [[Cloning|clone]] of the [[bounty hunter]] [[Jango Fett]], Bly was grown on the [[planet]] [[Kamino]]. During the course of the War, he served under [[Jedi General]] [[Aayla Secura]], a [[Sexes|female]] [[Twi'lek]] [[Jedi Master]] who was once apprenticed to the infamous [[Jedi]] [[Quinlan Vos]]. Bly developed a close working relationship with Secura and accompanied the Jedi Master on a variety of missions to different planets throughout the war.
+
+Whilst in the skies above the planet [[Quell]], Bly and Secura were attacked by a fleet of ships belonging to the [[Confederacy of Independent Systems]]. During a chaotic rescue by the Jedi [[General]] [[Anakin Skywalker]] and his [[Padawan]] [[Ahsoka Tano]], the frigate that the group were attempting escape onboard suddenly entered hyperspace, where they narrowly avoided crashing into a star. As a result, the frigate crash landed on the nearby planet [[Maridun]], where the group sought out help for Skywalker who had been wounded during their escape. After discovering a [[Lurmen village]] and discussing their situation with the village elder, Skywalker was brought to the village to be nursed back to good health.
+
+Later, as Bly and the others rested at the village, Separatist [[battle droid]]s arrived and the group discovered a Confederate outpost where an important weapons test would determine whether or not a new Separatist [[Defoliator Deployment Tank]] was fit for use. The group then waited for the cover of nightfall before infiltrating the outpost and stealing valuable equipment which, when they returned to the village, they used to shield the Lurmen people from the Defoliator's devastating cannon. Bly and the others fought the battle droids in an attempt to protect the villagers and after the Lurmen aided them, the battle was won.
+
+During the final days of the Clone Wars, Bly and the 327th Star Corps under the command of Aayla Secura travelled to the [[Outer Rim Territories|Outer Rim]] planet [[Felucia]] where they tracked down the [[Separatist Council]] member [[Shu Mai]]. However, [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] of the Galactic Republic issued Order 66 before the [[Battle of Felucia (Outer Rim Sieges)|Battle of Felucia]] could begin. Bly and the clones then killed Secura in what would later be known as the [[Jedi Purge]].
+
+==Biography==
+===Early Life===
+CC-5052, later known as "Bly," was a [[Cloning|clone]] of the [[bounty hunter]] [[Jango Fett]] created on [[Kamino]].<ref name="Databank Bly" /> At some point prior to his service during the [[Clone Wars]], he was trained by [[Advanced Recon Commando|ARC troopers]] to be one of the first [[Clone Commander]]s<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> and becoming an ARC trooper himself.<ref name="ForceCollection Bly">{{ForceCollection|Clone Commander Bly|star=4}}</ref>
+
+===The Clone Wars===
+====Battle of Quell====
+{{Quote|Our shields are gone!|A clone navigation officer informs Aayla Secura that their star destroyer's shields are gone.|Jedi Crash}}
+[[File:Battle of Quell2.png|thumb|left|300px|Aayla Secura's fleet is attacked above Quell.]]
+During the Clone Wars, Bly and [[Jedi General]] [[Aayla Secura]] came under [[Battle of Quell|attack]] over the [[planet]] [[Quell]] by a [[Confederacy of Independent Systems|Separatist]] fleet. [[Anakin Skywalker]], his apprentice [[Ahsoka Tano]], and [[Clone Captain]] [[Rex]] organised a rescue of Secura and her troops. Storming Secura's [[Venator-class Star Destroyer|star destroyer]], Skywalker, Tano and Rex were able to locate and successfully rescue Secura, Bly and a few surviving [[Clone trooper|clones]]. However, Skywalker was seriously injured during the mission and Bly assisted in piloting a [[Consular-class cruiser (Charger c70 retrofit)|frigate]] to the ''[[Resolute]]'' in order to get the [[Jedi]] appropriate medical attention. While attempting to dock, the frigate's [[hyperdrive]] was activated, forcing them to detach from the ''Resolute''. The cruiser then quickly entered [[hyperspace]] just moments after detaching. Later as the frigate travelled through hyperspace, Bly was able to notice that the coordinates were set to take them directly into a star. After a successful attempt at avoiding the star, the frigate crash landed on the world of [[Maridun]], and the group were forced to search for help to aid an injured Skywalker.<ref name="JC">{{TCW|Jedi Crash}}</ref>
+
+Along the way, Bly discovered a signpost indicating that there were [[Sentience|sentient]] lifeforms nearby. Leaving Skywalker and Rex behind, the remainder of the group journeyed across the grasslands to look for someone who might be able to assist the wounded Jedi. However, during their travels, they were viciously attacked by [[Mastiff phalone]]s, and the three other clones accompanying them were [[Death|killed]] by the creatures. Shortly afterwards they were able to find a [[Lurmen village]], populated by many [[Lurmen]] villagers. At first the village elder, [[Tee Watt Kaa]], refused to help but when he learned of their friend's plight, he allowed his son [[Wag Too]] to accompany them back to Skywalker. Bly, Tano and Wag Too headed back to the injured Jedi. Once there, the trio ,along with Rex, managed to subdue another Mastiff Phalone that was attempting to kill the Jedi and the Clone Captain. Bly and Rex then carried Skywalker back to the Lurmen village where he rested and was nursed by the Lurmen people.<ref name="JC" />
+
+====Defense of Maridun====
+[[File:Clones_maridun.jpg|thumb|right|250px|Bly and Rex open fire on a Separatist probe droid on Maridun.]]
+Later, Bly was resting in the Lurmen village when he witnessed a couple of Lurmen struggling to pile baskets of food. He helped them with their troubles and they thanked him by giving him a [[Jogan fruit]], which he gladly ate. Bly was then informed that a Separatist [[C-9979 landing craft]] was setting down near to the village. Along with the rest of the group, he helped Skywalker escape as the battle droids searched the village for contraband. As they watched and hid in the tall grass, a [[probe droid]] discovered them, but before it could transfer any information, Bly jammed it's signal. He, Tano and Rex pursued whilst Secura calmly assessed the situation. Deciding it best not the chase the droid, she separated from the others and was able to cut the droid off from the front.<ref name="DoP">{{TCW|Defenders of Peace}}</ref>
+
+Not long after, Bly and the others discovered a Separatist outpost on the planet. The group watched as the Separatist [[General]] [[Lok Durd]] announced his new weapon: the [[Defoliator Deployment Tank]]. Accompanying Rex on a scouting mission, the two clones went in for a closer look at the weapon. Unbeknownst to them, however, was that Durd was about to perform a weapons test. The Defoliator fired a shell and, as it descended, the clones were forced to retreat. Rex was able to fire his ascension cable and return to a nearby tree but Bly tripped as he attempted the same. As the shell's blast came towards him, Secura, using a vine, swung down from the tree and lifted Bly to safety just before fire encircled the clone.<ref name="DoP" /> Bly thus was eternally great full for Secura saving him. The group waited for nightfall, before returning to the outpost. Whilst Secura and Tano opened the front gate, Bly and Rex assisted Skywalker in destroying the battle droids guarding the outpost. The two clones then stole two valuable [[Deflector shield generator|shield generators]] and loaded them onto a [[Sheathipede-class transport shuttle|Separatist shuttle]] before leaving for the village.<ref name="DoP" />
+
+[[File:JediClonesOnMaridun.png|thumb|left|250px|Bly and the others prepare to defend against Lok Durd's battle droids.]]
+Upon reaching the Lurmen settlement, Bly and the others warned the villagers about the Defoliator tank and how Durd planned to use their village as the site of his next test. Tee Watt Kaa refused to engage the Separatists in battle, stating that he'd rather die than let his people resort to violence. Despite his objections the group established a defensive wall around the village and the clones raised the shields, [[Defense of Maridun|protecting]] the Lurmen from the Defoliator shell's impact. As Durd's battle droids closed in on the Lurmen, Bly and the others stood their ground. The group were able to destroy the battle droids with help from the Lurmen villagers and Skywalker was able to capture Durd. Bly and Rex then took Durd aboard the shuttle as Admiral [[Wullf Yularen]]'s fleet arrived to extract the group from Maridun.<ref name="DoP" />
+
+====Order 66====
+[[File:BlyShootsAayla.png|thumb|right|150px|Bly executes Aayla Secura on Felucia.]]
+In the final days of the Clone Wars, the [[327th Star Corps]], under the command of Secura, was sent to the planet of [[Felucia]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref> where they [[Battle of Felucia (Outer Rim Sieges)|tracked down]] [[Separatist Council]] member [[Shu Mai]].<ref name="Character Encyclopedia" /> However, when the [[Supreme Chancellor]] of the [[Galactic Republic]], [[Darth Sidious|Sheev Palpatine]], declared the Jedi traitors to the Republic, he issued [[Order 66]] to all clone troopers which forced them to turn on their Jedi superiors. Bly and his men then executed Secura where she stood, before full combat operations could even begin.<ref name="Episode III" />  Bly was one of the only clone commanders to hesitate to execute the order. He and Secura had been close friends for the majority of the war. When he shot Secura, he kept shooting so he'd make her death quick and painless so she wouldn't suffer.
+
+==Personality and traits==
+As a clone of the bounty hunter Jango Fett, Bly stood at 1.83 [[meter]]s and had brown eyes with tanned skin. A yellow stripe could be found on each of his cheeks. He was a dependable soldier who always had Aayla Secura's back during the Clone Wars, until he killed her during Order 66.<ref name="Databank Bly" />
+
+==Equipment==
+During the Clone Wars, Bly wore [[Phase I clone trooper armor]] that had been customized with various yellow markings. He also sported a black and orange singular [[pauldron]].<ref name="JC" /> Later on in the war, he adopted the new [[Phase II clone trooper armor]] which he also decorated with yellow markings and a slightly different double-sided pauldron.<ref name="Episode III" />
+
+==Appearances==
+*''[[Star Wars Battlefront II]]'' {{Mo}} {{C|DLC}}
+*{{TCW|Jedi Crash}} {{1stID|Bly}}
+*{{TCW|Defenders of Peace}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}}
+
+==Sources==
+*{{SW|url=explore/the-clone-wars/ep113/#!/about|text="Jedi Crash" - ''The Clone Wars'' Episode Guide|org=theclonewars/guide/episode013.html}}
+*{{SW|url=explore/the-clone-wars/ep114/#!/about|text="Defenders of Peace" - ''The Clone Wars'' Episode Guide|org=theclonewars/guide/episode014.html}}
+*{{SW|url=explore/the-movies/episode-iii/|text=''Star Wars'': Episode III - ''Revenge of the Sith''}}
+*{{SW|url=news/kaminos-finest-captains-and-commanders-of-the-clone-army|text=Kamino's Finest: Captains and Commanders of the Clone Army}}
+*{{SWE|characters|aaylasecura|Aayla Secura}}
+*{{SWE|characters|ahsokatano|Ahsoka Tano}} {{Po}}
+*{{SWE|characters|rex|Clone Captain Rex}}
+*{{SWE|characters|clone-commander-bly|Clone Commander Bly|archivedate=20131221190229}} {{1stID}}
+*{{SWE|locations|felucia|Felucia}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]'' {{Po}}
+*{{ForceCollection|Clone Commander Bly|star=4}}
+*{{Databank|aayla-secura|Aayla Secura|archivedate=20170707040717}}
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}} {{Po}}
+*{{Databank|clone-commander-bly|Clone Commander Bly|archiveurl=https://web.archive.org/web/20170823003049/http://www.starwars.com:80/databank/clone-commander-bly}}
+
+==Notes & References==
+{{Reflist}}
+
+{{Interlang
+|ru=КК-5052/Канон
+}}
+
+[[Category:Advanced Recon Commandos]]
+[[Category:Clone trooper commanders]]

@@ -1,0 +1,77 @@
+{{Eras}}
+{{Droid
+|image=[[File:ME-8D9 Card Trader.jpg]]
+|name=ME-8D9
+|homeworld=[[Takodana]]<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|birth=
+|death=
+|creator=
+|manufacturer=Unknown<ref name="DB">{{Databank|me-8d9|ME-8D9}}</ref>
+|line=
+|model=
+|class=[[Protocol droid]]<ref name="DB" />
+|degree=
+|cost=
+|length=
+|width=
+|height=1.72 [[meter]]s<ref name="DB" />
+|mass=
+|gender=[[Sexes|Feminine programming]]<ref name="DB" />
+|sensor=[[Color|Yellow]]<ref name="TVD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+|plating=[[Bronzium]]<ref name="Character Encyclopedia" />
+|armament=
+|equipment=
+|era=
+|affiliation=}}
+{{Quote|We passed through this sanctuary for scoundrels a few times and, fortunately, never ended up on the bad side of ME-8D9— an ancient protocol droid who was supposedly an assassin before she became Maz's personal enforcer.|R0-GR|Star Wars: Droidography}}
+'''ME-8D9''', also known as '''Emmie''', was an ancient [[protocol droid]] who resided in [[Maz Kanata's castle]] on [[Takodana]] for many [[Standard year|years]]. Once known to be an [[assassin]], the droid later served criminals as a translator. Although her origins were unknown, some believed she began her life with the [[Jedi Order]]. During the [[Galactic Civil War]], she broke up a fight between the [[Imperial Security Bureau]] [[Agent]] [[Romwell Krass Junior]] and a [[Unidentified New Republic pilot|New Republic pilot]]. Emmie was later present at the castle shortly before the [[First Order]] [[Battle of Takodana|attacked]] [[Takodana]] following the [[Hosnian Cataclysm]].
+
+==Biography==
+Emmie was an ancient [[protocol droid]] who was charged with enforcing law and order at [[Maz Kanata]]'s [[Maz Kanata's castle|castle]] on [[Takodana]]. She once served as an [[assassin]] before working as a translator for criminals. Some believed that Emmie had begun her operational life working with the [[Jedi Order]].<ref name="DB" /> Emmie was reputed to be much older than Maz Kanata and some believed that the droid was part of the ancient castle population.<ref name="TVD" /> Emmie was a free droid who had no masters but was happy to help Maz run the castle, which served as a pub and [[hotel]] for travelers.<ref name="Life Debt">''[[Aftermath: Life Debt]]''</ref>
+
+In the [[Standard year|year]] [[5 ABY]],<ref name="Life Debt Date">{{LifeDebtdate}}</ref> Emmie broke up a fight between the [[Imperial Security Bureau]] [[agent]] [[Romwell Krass Junior]] and a [[Unidentified New Republic pilot|New Republic pilot]]. Romwell had lost [[Krass family|his family]] during a [[New Republic]] [[Attack on the Hyborean Moon|attack]] on the [[Hyborean Moon]] where he had worked at a [[Hyborean Moon black-site prison|black-site prison]]. Emmie separated the two belligerents and warned them that they had broken the Castle's law. When Romwell made a defiant remark, Emmie electrocuted him, knocking him unconscious.<ref name="Life Debt" />
+
+After Maz had dealt with Romwell and the New Republic pilot, Emmie accompanied Maz as she walked on the parapets overlooking [[Nymeve Lake]]. Emmie informed Maz that peace had returned to the Castle. Maz thanked the droid but added that peace had not returned to her heart. She sensed that something was off balance and causing the water in the lake to be turgid. She counseled Emmie that it was wise for them to be prepared. When Emmie inquired what was going on, Maz instructed him to prepare the ''[[Tua-Lu|Stranger's Fortune]]'' for flight because she wanted to have a look around [[the galaxy]]. Emmie complied with Maz's wishes.<ref name="Life Debt" />
+
+In [[34 ABY]], ME-8D9 was still working at Maz Kanata's castle shortly before the [[Hosnian Cataclysm]]. Later, she and the other guests witnessed a [[dark energy]] beam from the [[First Order]]'s [[superweapon]] [[Starkiller Base]] destroying the worlds of the [[Hosnian system]]. Shortly later, the castle was [[Battle of Takodana|attacked]] by First Order forces searching for the droid [[BB-8]], who was carrying a [[Map to Skywalker|map]] which led to [[Luke Skywalker]].<ref name="TFA">''[[Star Wars: Episode VII The Force Awakens]]''</ref>
+
+==Personality and traits==
+{{Quote|'Emmie' also serves as a translator for the different alien races making shady deals on site. I have a feeling that some of words she's heard can't be repeated in any language.|R0-GR|Star Wars: Droidography}}
+ME-8D9 was a [[protocol droid]] with a [[Sexes|female]] programming. She an exoskeleton like burnished bronzium and peaky spikes on her legs, arms, and skull. She spoke both [[Galactic Basic]] and a mechanical language. Emmie had two hands with five fingers. Each of these fingers was fitted with a thin golden filament which allowed her to electrocute troublesome patrons at Maz Kanata's castle.<ref name="Life Debt" />
+
+==Behind the scenes==
+ME-8D9 was portrayed by [[Stephanie Silva]] in [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], who did not receive explicit credit, but was listed as a "creature & droid performer". Emmie's backstory was later expanded in a [[Databank (website)|Databank]] article<ref name="DB" /> and [[Chuck Wendig]]'s [[2016]] novel ''[[Aftermath: Life Debt]]''.
+
+==Appearances==
+*''[[Aftermath: Life Debt]]''
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*''[[The Force Awakens: Finn's Story]]'' {{Po}}
+*[[The Force Awakens (Golden Book)|''The Force Awakens'' Golden Book]] {{Po}}
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+
+===Non-canon appearances===
+*''[[Disney Infinity 3.0]]''
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]'' {{C|Misspelled as "MD-8D9"}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*[[Star Wars: Droidography|''Star Wars: Droidography'']]
+*{{Databank|me-8d9|ME-8D9}} {{1stm}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=ME-8D9#kanon
+|fr=ME-8D9
+|ja=ME-8D9
+|nl=ME-8D9
+|pl=ME-8D9
+|ru=ME-8D9
+}}
+
+[[Category:Feminine programming]]
+[[Category:Protocol droids]]

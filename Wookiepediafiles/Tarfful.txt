@@ -1,0 +1,87 @@
+{{Eras}}
+{{Update|[[Star Wars: The Complete Visual Dictionary, New Edition]]}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Tarfful RotS.png]]
+|name=Tarfful
+|homeworld=[[Kashyyyk]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|birth=
+|death=
+|species=[[Wookiee]]<ref name="Episode III" />
+|gender=[[Sexes|Male]]<ref name="SWETarfful">{{SWE|characters|tarfful|Tarfful}}</ref>
+|height=2.32 [[meter]]s<ref name="SWETarfful" />
+|mass=
+|hair=[[Color|Brown]]<ref name="Episode III" />
+|eyes=Blue<ref name="Episode III" />
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Episode III" />
+**[[Kachirho Wookiee Militia]]<ref name="Episode III" />
+|masters=
+|apprentices=}}
+{{Quote|Good-bye, Tarfful. Good-bye, Chewbacca. Miss you I will.|Yoda, shortly before his departure from Kashyyyk|Star Wars: Episode III Revenge of the Sith}}
+'''Tarfful''' was a [[Sexes|male]] [[Wookiee]] [[chief]]tain and [[General|<nowiki/>]][[general]] who helped defend his native [[planet]] [[Kashyyyk]] during the [[Clone Wars]]. During the war, he led a band of Wookiees to answer a distress signal made by [[Chewbacca]], who was imprisoned on the [[Trandoshan]] hunting grounds of [[Wasskah]]. Tarfful later participated in the [[Battle of Kashyyyk]] alongside Chewbacca and [[Jedi Master]] [[Yoda]].
+
+==Biography==
+A [[Sexes|male]] [[Wookiee]] native to his [[species]]'s [[homeworld]] of [[Kashyyyk]], Tarfful served as the [[chief]]tain of the coastal [[city]] [[Kachirho]] at the time of the [[Clone Wars]].<ref name="USW">''[[Ultimate Star Wars]]''</ref> He also held the rank of [[general]] among his people.<ref name="SWETarfful" />
+
+One [[standard year]] into the war, one of Tarfful's fellow Wookiees, [[Chewbacca]], was captured by [[Trandoshan]]s and taken to [[Wasskah]] to be [[Hunting|hunted]] for sport. There, Chewbacca managed to build a device which sent a distress signal to Kashyyyk. Upon hearing of his friend's situation, Tarfful hired the [[bounty hunter]]s [[Sugi (bounty hunter)|Sugi]] and [[Seripas]] to transport him and a group of his most trusted warriors to Wasskah. Once there, the chieftain and his men made quick work of the Trandoshans and rescued Chewbacca, as well as [[Jedi]] [[youngling]]s [[Ahsoka Tano]], [[Jinx]], and [[O-Mer]].<ref name="Wookiee Hunt">{{TCW|Wookiee Hunt}}</ref>
+
+Tarfful then took part in the [[Battle of Kashyyyk]] alongside Chewbacca and [[Jedi General]]s [[Yoda]] and [[Luminara Unduli]].<ref name="SWETarfful" /> Aided by the [[Grand Army of the Republic]], he led a local militia against the invading [[Confederacy of Independent Systems|Separatist]] [[droid]] forces. Following the implementation of [[Order 66]], Tarfful and Chewbacca helped Yoda elude the [[clone trooper]]s and escape from the planet.<ref name="Episode III" />
+
+==Personality and traits==
+Tarfful was a massive [[Wookiee]] who was covered with [[Color|dark brown]] fur and wore [[armor]] around his shoulders and chest. He demonstrated great loyalty and trust amongst his warriors and allies, traits that were held in high honor in Wookiee culture.<ref name="Wookiees">{{SWE|groups|wookiees|Wookiees}}</ref> He worked closely with [[Chewbacca]] during the [[Clone Wars]], and was considered a dear friend by [[Jedi Master]] [[Yoda]].<ref name="SWETarfful" />
+
+==Behind the scenes==
+Tarfful was played by [[Michael Kingma]] in ''[[Star Wars: Episode III Revenge of the Sith|Revenge of the Sith]]''. He first appeared in the game ''[[Star Wars: Republic Commando]]'', but his appearance there was relegated to the Legends continuity, leaving only his appearance in Revenge of the Sith and The Clone Wars episode Wookie Hunt canon at the time of the April 2014 announcement that the EU would now be re-termed Legends.
+
+According to the ''Revenge of the Sith'' DVD text commentary, during Yoda's "goodbye" scene to Chewbacca and Tarfful in the film, Tarfful's roar is actually [[Attichitcuk/Legends|Itchy's]] roar from ''[[The Star Wars Holiday Special]]''.
+
+In the [[2014]] mobile game ''[[Star Wars: Galactic Defense]]'', Tarfful can be seen yelling "hnn-rowr yrroonn nng rarr," a quote which first appeared in the [[Canon|Legends]] comic ''[[Empire's End]]'' and meant "long live the [[New Republic]]," when translated from [[Shyriiwook]].
+
+==Appearances==
+*''[[Star Wars: Galactic Defense]]''
+*{{TCW|Wookiee Hunt}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}}
+
+==Sources==
+*{{SWE|characters|chewbacca|Chewbacca}}
+*{{SWE|characters|tarfful|Tarfful}} {{1stID}}
+*{{SWE|groups|wookiees|Wookiees}}
+*{{SW|url=news/to-fans-of-star-wars-the-clone-wars-thank-you|text=To Fans of ''Star Wars: The Clone Wars'': Thank You|archiveurl=http://archive.li/Z9kSy}}
+*''[[Journey Through Space (2015)|Journey Through Space]]''
+*{{SW|url=news/swca-the-untold-clone-wars-panel-liveblog|text=SWCA: The Untold ''Clone Wars'' Panel Liveblog}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]'' {{Po}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|chewbacca|Chewbacca|archivedate=20170806120222}}
+*{{Databank|tarfful|Tarfful}}
+*{{Databank|wookiee|Wookiee|archivedate=20140703015344}}
+*{{Databank|yoda|Yoda|archivedate=20140703043000}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Tarfful
+|de=Tarfful
+|es=Tarfful
+|it=Tarfful
+|ja=ターフル
+|hu=Tarfful
+|nl=Tarfful
+|pl=Tarfful
+|pt=Tarfful
+|ru=Тарффул/Канон
+|fi=Tarfful
+|ko=타풀
+}}
+
+[[Category:Kashyyyk residents]]
+[[Category:Males]]
+[[Category:Wookiee Chieftains]]
+[[Category:Wookiees]]

@@ -1,0 +1,75 @@
+{{Eras}}
+{{Character
+|type=Rebel
+|image=[[File:Day9ianliston.jpg]]
+|name=Wes Janson
+|homeworld=[[Taanab]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="ESB">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V: ''The Empire Strikes Back'']]</ref>
+|gender=[[Sexes|Male]]<ref name="ESB" />
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="ESB" />
+|eyes=Brown<ref name="ESB" />
+|skin=Fair<ref name="ESB" />
+|cyber=
+|era=
+|affiliation=*[[Alliance to Restore the Republic]]<ref name="ESB" />
+**[[Massassi Group]]<ref name="Grounded">{{Shortstory|story=Grounded|book=From a Certain Point of View}}</ref>
+**[[Red Squadron (Rebel Alliance)|Red Squadron]] {{C|intended}}<ref name="Grounded" />
+**[[Rogue Squadron]]<ref name="ESB" />
+|masters=
+|apprentices=}}
+{{Quote|Good shot, Janson!|Wedge Antilles, to Wes Janson during the Battle of Hoth|Star Wars: Episode V The Empire Strikes Back}}
+'''Wes Janson''' was a [[human]] [[Sexes|male]] [[Rebel pilot|pilot]] from [[Taanab]]<ref name="Ultimate Star Wars" /> who served in the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]]. Janson was to have flown in the [[Battle of Yavin]] as [[Red Six]], but was grounded prior to the battle and replaced by [[Jek Tono Porkins|Jek Porkins]], who [[Death|died]] in the conflict.<ref name="Grounded" /> Around [[3 ABY]], [[Lieutenant]] Janson participated in the Galactic Empire's attack on the Alliance's [[Echo Base|base]] in the [[Battle of Hoth]], serving as a [[gunner]] for [[Wedge Antilles]], who was piloting a [[T-47 airspeeder]] in [[Rogue Squadron]].<ref name="ESB" />
+
+During the battle, he was the first member of [[Rogue Squadron]] to successfully take down an [[All Terrain Armored Transport|Imperial walker]] with the [[Magnetic harpoon|harpoon]] and tow cable gambit devised by [[Commander]] [[Luke Skywalker]].<ref name="ESB" />
+
+Following the battle, Janson boarded an [[T-65B X-wing starfighter|X-wing starfighter]] and, along with Antilles, went on to escort the [[GR-75 medium transport|transport]], the ''[[Bright Hope]],'' away from Hoth.<ref name="Ultimate Star Wars" />
+
+==Behind the scenes==
+{{Quote|I play a stormtrooper, in a walker, who's trying to shoot down my own bloody plane.|Ian Liston, the actor who portrays Janson, on ''The Empire Strikes Back''|Star Wars Insider 32}}
+Wes Janson was portrayed by [[Ian Liston]] in ''The Empire Strikes Back''. During filming of ''The Empire Strikes Back'', a call was put out for an actor, not an extra, to play an AT-AT gunner. That was Liston's original role in the film, but he was later asked by an assistant director with whom Liston had previously worked to take the role of Janson since the original actor had fallen ill. Thus he ironically played both an Imperial and a Rebel, and in one sequence of the film is in effect trying to shoot himself down.<ref name="Insider 32">{{InsiderCite|32|Rebel Pilot Reunion}}</ref> Regarding his scenes as Janson with Wedge Antilles, Liston revealed in 2005 that he and actor [[Denis Lawson]] were never actually on set together&mdash;Liston's double took his place when the scene focused on Lawson (Antilles) and vice versa.<ref name="Insider 119">{{InsiderCite|119|In Their Own Words: Making The Empire Strikes Back}}</ref>
+
+{{Char-stub}}
+
+==Appearances==
+*{{Shortstory|story=Grounded|book=From a Certain Point of View}} {{Mo}}
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+
+==Sources==
+*{{SWSB|36|Battle of Hoth}}
+*{{SWE|groups|rebel-pilots|Rebel Pilots}}
+*''[[Ultimate Star Wars]]'' {{1stID|Wes}}
+*{{SW|url=news///inside-the-fearless-rogue-group|text=Inside the Fearless Rogue Group}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: The Rebel Files]]''
+*{{Databank|rebel-pilots-biography-gallery|Rebel Pilots biography gallery}}; image #10 {{C|of 15}}
+*{{Databank|wedge-antilles|Wedge Antilles|archivedate=20140714220601}}
+*{{Databank|wes-janson|Wes Janson|archivedate=20160220171153}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Wes Janson
+|de=Wes Janson#kanon
+|es=Wes Janson
+|fr=Wes Janson
+|ja=ウェス・ジャンセン
+|ko=웨스 잰슨
+|nl=Wes Janson
+|pl=Wes Janson
+|ru=Уэс Дженсон
+}}
+
+{{DEFAULTSORT:Janson, Wes}}
+[[Category:Gunners]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Red Squadron personnel]]
+[[Category:Rogue Squadron personnel]]

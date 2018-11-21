@@ -1,0 +1,157 @@
+{{Eras}}
+{{Expand}}
+{{Image}}
+{{Majorspoiler|Doctor Aphra 25: The Catastrophe Con, Part VI|''}}
+{{Droid
+|image=[[File:BT-1.png]]
+|name=BT-1
+|homeworld=
+|birth=
+|death=[[1 ABY]], [[Accresker Jail]]<ref name="Aphra25">''[[Doctor Aphra 25: The Catastrophe Con, Part VI]]''</ref>
+|creator=[[Galactic Empire]]<ref name="DV3">''[[Darth Vader 3: Vader, Part III]]''</ref>
+|manufacturer=[[Tarkin Initiative]]<ref name="DV3" />
+|line=
+|model=[[BT-1 assassin droid]]<ref name="DV3" />
+|class=[[Assassin droid]]<ref name="DV3" />
+|degree=
+|cost=
+|length=
+|width=
+|height=
+|mass=
+|gender=[[Sexes|Masculine programming]]<ref name="Vader 5">''[[Darth Vader 5: Vader, Part V]]''</ref>
+|sensor=[[Color|Orange]]<ref name="DV3" />
+|plating=Black<ref name="DV3" />
+|armament=
+|equipment=
+|era=
+|affiliation=*Galactic Empire<ref name="DV3" />
+**Tarkin Initiative<ref name="DV3" />
+*[[Droid Gotra]]<ref name="DV3" />
+*[[Sith|Sith Order]]<ref name="DV4">''[[Darth Vader 4: Vader, Part IV]]''</ref>
+*[[Son-tuul Pride]]<ref name="Doctor Aphra 13">''[[Doctor Aphra 13: The Enormous Profit, Part V]]''</ref>}}
+{{Quote|All this effort for a simple astromech?''"<br>"''Not exactly. This is BT-1, a "Blastromech" prototype. Does enough to pass as an astro, but it's primarily a cover. It's a specialized assassin droid.|[[Anakin Skywalker|Darth Vader]] and [[Chelli Lona Aphra]] talking about BT-1|Darth Vader 3: Vader, Part III}}
+'''BT-1''', also referred to as "'''Bee Tee'''," was a homicidal [[BT-1 assassin droid]] created by the [[Galactic Empire|Galactic Empire's]] [[Tarkin Initiative]]. After being found and reactivated by [[Doctor]] [[Chelli Lona Aphra|Aphra]], BT-1 and his fellow droid [[0-0-0]] served under [[Anakin Skywalker|Lord Vader]].
+
+==Biography==
+===Before activation===
+{{Quote|Wiped out its Tarkin Initiative base before setting the place to self-destruct and jettisoning itself into space. I found it, fitted it with some stronger behavioral inhibitors but can't get it to wake up.|Doctor Aphra|Darth Vader 3: Vader, Part III}}
+[[File:Remains of the Tarkin Initiative base.jpg|thumb|left|169x169px|BT-1 escapes the destroyed Tarkin Initiative base]]
+BT-1 was designed to look like an [[astromech droid]] in order to fool others, and was armed with a variety of weapons. He [[Death|killed]] the staff of the [[Tarkin Initiative base]] in which he was created and then continued to set the base to self-destruct before jettisoning himself into space. He was found by the rogue [[archaeologist]] [[Doctor]] [[Chelli Lona Aphra|Aphra]], who could not reactivate the [[assassin droid]] as she could not speak the [[R&D language]] the droid was programmed to understand. After Aphra reactivated the [[protocol droid]] [[0-0-0]], a droid capable of understanding the language, she had the protocol droid reactivate BT-1. Instead of giving the two droids to the [[Droid Gotra]], as she had originally been hired to do, the archaeologist put them in the service of [[Sith Lord]] [[Anakin Skywalker|Darth Vader]], who had tracked Aphra down to demand her services in creating a personal army for himself.<ref name="DV3" />
+
+===Serving Darth Vader===
+====Cylo-V's replacements====
+BT-1 accompanied Aphra and Vader, together with 0-0-0, for their mission on [[Geonosis]], where Aphra had heard of a Geonosian queen who was in control of a droid factory. The four invaded the queen's factory, stole the machine that constructed droids and quickly escaped. Not much later, a [[bounty hunter]] that Darth Vader had earlier hired, [[Black Krrsantan]] arrived, with [[Cylo|Cylo-IV]], a person who Vader was suspicious of. Vader ordered 0-0-0 to interrogate Cylo-IV and when 0-0-0 believed that he had extracted all information he could, he killed him. 0-0-0 told Vader that Cylo-IV was training [[Darth Sidious|the Emperor's]] possible future replacements for Vader and the Dark Lord set course for [[Cylo's research base|Cylo-IV's research base]].<ref name="DV4" />
+
+To start off his attack, Vader sent BT-1 and 0-0-0 into the base as distractions. He then proceeded to attack Cylo-IV's men from behind, with his small army of droids. As he continued into the base, Vader found two twin humans, one [[Sexes|male]] and one female. The twins attacked him, using [[lightsaber]]s, however it was clear to Vader that they weren't [[Force-sensitive]]. After a quick fight, the two humans were told to stop by Cylo-IV, who revealed that he was an immortal system that switched to a new body as soon as the previous was destroyed and that his current body was called Cylo-V.<ref name="DV5">''[[Darth Vader 5: Vader, Part V]]''</ref>
+
+Cylo-V introduced his replacements for Vader and as Vader was about to strike Cylo down, the Emperor revealed himself to be in their presence and asked to see what Cylo's replacements were capable of.<ref name="DV5" /> Cylo started by showing off the twins from before, named [[Aiolin Astarte|Aiolin]] and [[Morit Astarte]]. He continued to show the rest of his warriors, until he decided to show their abilities by having them all fight each other to the death. Vader started by fighting against an [[Unidentified Trandoshan (Cylo-V's warrior)|enhanced Trandoshan]], but in the middle of their fight, Morit killed the Trandoshan. Sidious stopped the fighting, wanting to use them against his own enemies instead of each other. Vader left Cylo's research station and waited for [[Boba Fett]], the bounty hunter he had hired to find the person responsible for destroying the [[DS-1 Orbital Battle Station|Death Star]]. Fett told Vader that he had found the person and that the two briefly fought, with the latter winning. Fett had figured out that the person was named [[Luke Skywalker]].<ref name="DV6">''[[Darth Vader 6: Vader, Part VI]]''</ref>
+
+====Vader's son====
+Sometime later, Vader instructed Aphra to join up with a group of bounty hunters and plunder an Imperial ship for credits. After sharing the credits between each other, the bounty hunters parted ways.<ref name="DV8">''[[Darth Vader 8: Shadows and Secrets, Part II]]''</ref> Vader then sent Aphra to retrieve information on [[Commodex Tahn]], the person who buried [[Padmé Amidala]], as Vader wanted to confirm that Padmé gave birth to Vader's son before dying. Aphra, 0-0-0 and BT-1 went to [[The Ante]] an [[information broker]], on the [[Anthan Spire|Spire]], who after being paid a large amount of credits, gave the three information about Tahn, including the fact that he lived on [[Naboo]].<ref name="DV9">''[[Darth Vader 9: Shadows and Secrets, Part III]]''</ref> Thereafter, they [[Assault on Commodex Tahn's villa|attacked]] Tahn's home with some of Vader's droids and then subsequently tortured and interrogated Tahn, until he confirmed that Padmé had indeed given birth to a boy, after which 0-0-0 killed him.<ref name="DV10">''[[Darth Vader 10: Shadows and Secrets, Part IV]]''</ref>
+
+[[File:0-0-0_and_BT-1_playing_holochess.jpg|thumb|left|280px|0-0-0 and BT-1 lose a game of holochess]]
+Aphra, 0-0-0 and BT-1 soon returned to the Ante, seeking information on [[Luke Skywalker]]'s location, while BT-1 and 0-0-0 went to play [[holochess]]. The Ante quickly figured out that Aphra was one of the plunderers of the Imperial ship carrying credits, after seeing the amount of credits she was ready to give, but still gave the location of Luke. The Spire was soon attacked by Imperials who believed that one of the plunderers were there. After quickly interrogating the Ante, the Imperials learned that Aphra was one of the plunderers from before. Aphra, BT-1 and 0-0-0 escaped the Spire, before finding themselves locked in by an Imperial blockade.<ref name="DV11">''[[Darth Vader 11: Shadows and Secrets, Part V]]''</ref>
+
+Darth Vader, who was on one of the blockade ship and could not reveal that he was working with Aphra, was able to convince [[Inspector]] [[Thanoth]] that they were wasting their time chasing a thief, when they could instead attack the recently discovered base of a [[Alliance to Restore the Republic|Rebel Alliance]] squadron. With the blockade gone, Aphra met up with Vader again and told him that Luke was located on [[Vrogas Vas]].<ref name="DV12">''[[Darth Vader 12: Shadows and Secrets, Part VI]]''</ref>
+
+Before finding Luke, Vader took BT-1 and 0-0-0 with him to ore-rich planet of [[Shu-Torun]], where both the [[ore-duke]]s and the ruling family were slowly rebelling against the Imperial control. While Vader was taken to a celebration party with [[Prince]]ss [[Trios]], the two droids went to assassinate the king and his servants. When Vader and Trios found the dead bodies, Vader informed Trios that from now on, she would become the Queen of Shu-Torun and warned her that if the planet kept resisting the Empire, consequences would follow.<ref name="DVA1">''[[Darth Vader Annual 1]]''</ref> Vader then sent BT-1 and 0-0-0 back to Aphra, while he set course for Vrogas Vas.<ref name="VD1">''[[Vader Down, Part I]]''</ref>
+
+Vader kept contact with Aphra as he arrived above the planet, but not soon after arriving, he was attacked by Rebel Alliance ships. Aphra listened as Vader's ship crashed and decided to go and save Vader, with 0-0-0 and BT-1.<ref name="VD1" /> After landing on the planet, they found Luke Skywalker and his [[astromech droid]] [[R2-D2]]. In order to trick Luke, Aphra painted 0-0-0 [[Color|yellow]] and tricked Luke into believing that he was [[C-3PO]], one of Luke's allies. 0-0-0 was able to get near Luke and shock him with electricity, making him fall unconscious.<ref name="DV13">''[[Darth Vader 13: Vader Down, Part II]]''</ref> When he saw that he stood no chance against BT-1, R2 ran away, with BT-1 not far behind, following him.<ref name="SW13">''[[Star Wars 13: Vader Down, Part III]]''</ref>
+
+Aphra and 0-0-0 were eventually found by [[Han Solo]] and [[Chewbacca]] who demanded they let Luke go. A fight between the four broke out, while Luke was still unconscious. R2 soon found Luke again, who was now conscious and the two outran BT-1. BT-1 then regrouped with 0-0-0 , who had lost both his arms, one pulled off by Chewbacca, one by Luke and found that Aphra had fallen unconscious in the fight against Han.<ref name="SW13" />
+
+The two droids got ready to eradicate Luke, Chewbacca, Han and R2, but as BT-1 got his weapons ready, R2 sprayed oil on him, blinding BT and resulting in him shooting everywhere, giving time for the others to escape and trapping the two droids under rubble.<ref name="SW13" /> As soon as Aphra woke up, she helped the droids out of the rubble and ordered the droids to find and secretly follow Luke. The two soon found C-3PO, whose arms 0-0-0 took, reattached on himself and left him.<ref name="DV14">''[[Darth Vader 14: Vader Down, Part IV]]''</ref>
+
+====Arrival of General Karbin====
+When 0-0-0 and BT found Luke, they saw that he was fighting Imperial troops, however they knew that Vader didn't take any troops with him. They were then contacted by Aphra who told them that [[General]] [[Karbin]], one of Cylo-V's replacements for Vader, had arrived on the planet to capture Luke for himself. Aphra told the droids to protect Luke from the Imperial troops in any way possible.<ref name="SW14">''[[Star Wars 14: Vader Down, Part V]]''</ref> Their protection wasn't enough, as Luke was captured by Karbin anyway.<ref name="DV15">''[[Darth Vader 15: Vader Down, Part VI]]''</ref>
+
+Luke was taken aboard Karbin's ship, as Vader watched it fly away. Not wanting to accept Karbin's victory, Vader used [[the Force]] to crash the ship. Luke was found again by Han, Chewbacca, R2 and 3PO, before the group was approached by Aphra, who informed the group that they were standing on a minefield and threatened to kill them all if they didn't allow themselves to be captured. As they began dropping their weapons, [[Leia Organa|Leia]] knocked Aphra unconscious from behind. The rebels took Aphra with them on their ship and left the planet.<ref name="DV15" />
+
+====Further trouble on Shu-Torun====
+After delivering Karbin's dead body to his master, Vader was ordered to accompany Cylo-V and his warriors for their return to Shu-Torun, after the resistance on the planet became too unbearable. After arriving on the planet, Vader met with bounty hunters Black Krrsantan, [[Zuckuss]], [[IG-90]], [[Dengar]], [[Chanath Cha]], [[Beebox]] and [[C-21 Highsinger]] and told them to find and return Dr. Aphra to him.<ref name="DV16">''[[Darth Vader 16: The Shu-Torun War, Part I]]''</ref>
+
+Not much time went by before Beebox returned to Vader with a disintegrated body, claiming that he had killed her, however Vader quickly saw through Beebox's lie and killed him for it.<ref name="DV17">''[[Darth Vader 17: The Shu-Torun War, Part II]]''</ref> While Vader was away, 0-0-0 and BT-1 gave some of Vader's droids the ability to leech blood, despite Vader's orders not to. The droids used this ability in their battle against [[Baron]] [[Rubix]]'s soldiers, easily making their foes surrender out of fear. Vader soon learned of the two droids' actions, but had no time to care, as he had to use this chance to attack [[Rubix's delving citadel|Rubix's citadel]]. After the execution of Rubix, Vader and his droids left it up to Queen Trios to defeat the now-weakened rebellion on the planet. Arriving back on a Star Destroyer, Vader explained to his two droids that before the attack on Rubix's citadel, Vader had been attacked by Cylo-V's two twin warriors, Aiolin and Morit, and that Morit had killed Aiolin in the fight. He also told the two that Cylo-V and the rest of his warriors had revealed themselves to be traitors, as they had aided the ore-dukes.<ref name="DV19">''[[Darth Vader 19: The Shu-Torun War, Part IV]]''</ref>
+
+Vader reported to his master, who ordered him back to Coruscant, as Sidious wanted to explain everything going on with Cylo-V, but before leaving, Vader was contacted by Thanoth, a former inspector and traitor of the Empire, who informed Vader that he had found Aphra.<ref name="DV19" />
+
+==Personality and traits==
+[[File:Wanton Desruction AtG.png|right|thumb|250px|BT-1 was an agent of wanton destruction]]
+{{Quote|Bleeep! Bleeep! Bleep!"<br />"No, BT-1! No! You can't possibly do that. They are our masters! Also, who would clean up the mess?|0-0-0 persuades BT-1 not to attack Darth Vader and Doctor Aphra|Darth Vader 3: Vader, Part III}}
+BT-1 was originally programmed by the Tarkin Initiative to be violent and cruel. After being reprogrammed and having his behavior changed by Aphra, he was no longer rogue and was able to be commanded.<ref name="DV3" /> He mostly follows 0-0-0 and possibly considers him a friend.<ref name="DV18">''[[Darth Vader 18: The Shu-Torun War, Part III]]''</ref><ref name="DV19" />
+
+==Behind the scenes==
+The assassin BT-1 first appeared in ''[[Darth Vader 3: Vader, Part III]]'', the third issue of the [[Marvel Comics|Marvel]] [[comic book]] series ''[[Star Wars: Darth Vader (Marvel)|Star Wars: Darth Vader]]'', written by [[Kieron Gillen]] with art by [[Salvador Larroca]].<ref name="DV3" />
+
+In the New York Comic Con 2018, it was revealed that an action figure of BT-1 is slated to see release on Spring [[2019]] as part of [[Hasbro]]'s 2019 ''[[Star Wars]]'' action figures wave.<ref name="Hasbro">{{SW|url=news/nycc-2018-star-wars-hasbro-panel|text=NYCC 18: New from the ''Star Wars'' Hasbro Panel}}</ref>
+
+==Appearances==
+{{Scroll box|
+*''[[Darth Vader 3: Vader, Part III]]'' {{1st}}
+*''[[Darth Vader 4: Vader, Part IV]]''
+*''[[Darth Vader 5: Vader, Part V]]''
+*''[[Darth Vader 7: Shadows and Secrets, Part I]]''
+*''[[Darth Vader 8: Shadows and Secrets, Part II]]''
+*''[[Darth Vader 9: Shadows and Secrets, Part III]]''
+*''[[Darth Vader 10: Shadows and Secrets, Part IV]]''
+*''[[Darth Vader 11: Shadows and Secrets, Part V]]''
+*''[[Darth Vader 12: Shadows and Secrets, Part VI]]''
+*''[[Darth Vader Annual 1]]''
+*''[[Vader Down, Part I]]''
+*''[[Darth Vader 13: Vader Down, Part II]]''
+*''[[Star Wars 13: Vader Down, Part III]]''
+*''[[Darth Vader 14: Vader Down, Part IV]]''
+*''[[Star Wars 14: Vader Down, Part V]]''
+*''[[Darth Vader 15: Vader Down, Part VI]]''
+*''[[Darth Vader 16: The Shu-Torun War, Part I]]''
+*''[[Darth Vader 17: The Shu-Torun War, Part II]]''
+*''[[Darth Vader 18: The Shu-Torun War, Part III]]''
+*''[[Darth Vader 19: The Shu-Torun War, Part IV]]''
+*''[[Darth Vader 20: End of Games, Part I]]''
+*{{Shortstory|story=The Misadventures of Triple-Zero and Beetee|book=Darth Vader 20: End of Games, Part I}}
+*''[[Darth Vader 21: End of Games, Part II]]''
+*''[[Darth Vader 22: End of Games, Part III]]''
+*''[[Darth Vader 23: End of Games, Part IV]]''
+*''[[Darth Vader 25: End of Games, Part VI]]''
+*''[[Doctor Aphra 1: Aphra, Part I]]''
+*''[[Doctor Aphra 2: Aphra, Part II]]''
+*''[[Doctor Aphra 3: Aphra, Part III]]''
+*''[[Doctor Aphra 4: Aphra, Part IV]]''
+*''[[Doctor Aphra 5: Aphra, Part V]]''
+*''[[Doctor Aphra 6: Aphra, Part VI]]'' {{C|Indirectly mentioned only; in the opening crawl}}
+*''[[The Screaming Citadel, Part I]]''
+*''[[Star Wars 31: The Screaming Citadel, Part II]]''
+*''[[Doctor Aphra 7: The Screaming Citadel, Part III]]''
+*''[[Star Wars 32: The Screaming Citadel, Part IV]]''
+*''[[Doctor Aphra 8: The Screaming Citadel, Part V]]''
+*''[[Doctor Aphra Annual 1]]''
+*''[[Doctor Aphra 9: The Enormous Profit, Part I]]''
+*''[[Doctor Aphra 10: The Enormous Profit, Part II]]''
+*''[[Doctor Aphra 11: The Enormous Profit, Part III]]''
+*''[[Doctor Aphra 12: The Enormous Profit, Part IV]]''
+*''[[Doctor Aphra 13: The Enormous Profit, Part V]]''
+*''[[Doctor Aphra 14: Remastered, Part I]]''
+*''[[Doctor Aphra 15: Remastered, Part II]]''
+*''[[Doctor Aphra 16: Remastered, Part III]]''
+*''[[Doctor Aphra 18: Remastered, Part V]]'' {{Hologram}}
+*''[[Doctor Aphra 19: Remastered, Part VI]]''
+*''[[Doctor Aphra 20: The Catastrophe Con, Part I]]''
+*''[[Doctor Aphra 22: The Catastrophe Con, Part III]]''
+*''[[Doctor Aphra 23: The Catastrophe Con, Part IV]]''
+*''[[Doctor Aphra 24: The Catastrophe Con, Part V]]''
+*''[[Doctor Aphra 25: The Catastrophe Con, Part VI]]''
+*''[[Doctor Aphra 26: Worst Among Equals, Part I]]'' {{Mo}}}}
+
+==Sources==
+*{{InsiderCite|161|Blaster (Star Wars Insider)|Blaster}}
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*''[[Star Wars: Droidography]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ru=BT-1}}
+
+[[Category:Assassin droids]]

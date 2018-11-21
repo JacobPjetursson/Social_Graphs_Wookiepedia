@@ -1,0 +1,73 @@
+{{Eras}}
+{{Youmay|Miraj Scintel|[[Narra Mesyne]], also known as Miraj in the [[Star Wars Legends|''Star Wars'' Legends]] continuity}}
+{{Character
+|type=CIS
+|image=[[File:MirajScintelHS-SotR.png]]
+|name=Miraj Scintel
+|homeworld=[[Zygerria]]<ref name="SOTR">{{TCW|Slaves of the Republic}}</ref>
+|birth=
+|death=[[20 BBY]], Zygerria<ref name="EFK">{{TCW|Escape from Kadavo}}</ref>
+|species=[[Zygerrian]]<ref name="SOTR" />
+|gender=[[Sexes|Female]]<ref name="SOTR" />
+|height=1.85 [[meter]]s<ref name="Encyclopedia">{{SWE|characters|queenmirajscintel|Queen Miraj Scintel}}</ref>
+|mass=
+|hair=[[Color|Reddish-brown]]<ref name="SOTR" />
+|eyes=Gold<ref name="SOTR" />
+|skin=Tan<ref name="SOTR" />
+|cyber=
+|era=
+|affiliation=*[[Zygerrian Slave Empire]]<ref name="SOTR" />
+*[[Confederacy of Independent Systems]]<ref name="SOTR" />
+|masters=
+|apprentices=}}
+{{Quote|You were right, Skywalker. I ''am'' a slave, just as you are….|Miraj Scintel, to Anakin Skywalker as she dies|Escape from Kadavo}}
+'''Miraj Scintel''' was a [[Sexes|female]] [[Zygerrian]] who served as the [[Queen]] [[Queen of Zygerria|of]] [[Zygerria]] during the [[Clone Wars]]. Seeking to rebuild the [[Zygerrian Slave Empire]] that was shut down by the [[Jedi Knight]]s of the [[Old Republic]], Scintel allied Zygerria with the [[Confederacy of Independent Systems]]. She was betrayed by her Prime Minister, [[Atai Molec]] and then killed by [[Dooku]].
+
+==Biography==
+===Clone Wars===
+During the [[Clone Wars]], Scintel allied [[Zygerria]]'s [[Zygerrian Slave Empire|Slave Empire]] with [[Count]] [[Dooku]]'s [[Confederacy of Independent Systems]] in order to restore it's former glory.<ref name="USW">''[[Ultimate Star Wars]]''</ref> Following the [[Battle of Kiros|abduction]] of the [[Togruta]] colonists from [[Kiros]], she planned to have a [[Slavery|slave]] auction.<ref name="Kidnapped">{{TCW|Kidnapped}}</ref> Scintel then heard that a [[human]] in [[Zygerrian]] [[armor]], [[Anakin Skywalker|Lars Quell]], [[Mission to Zygerria|demanded]] an audience with [[Sexes|her]] about the demise of [[Bruno Denturri]]. She was impressed by his feat and his brash and confident nature. She was then given a gift, a [[Ahsoka Tano|slave]] from Denturri's palace. She then spoke with Lars about her plans in expanding her slave empire. Scintel was then attacked by her [[Twi'lek]] servant girl, but was saved by Lars. She then watched as the servant girl jumped to her [[death]].<ref name="SOTR" />
+
+Scintel then invited Lars to the slave auction. She was then informed by her [[Prime Minister]], [[Atai Molec]] about a intruder; [[Jedi Master]] [[Obi-Wan Kenobi]]. She then had Kenobi brought before the crowd on the auction block. Scintel then gave Lars an [[Electro-whip]] to teach Kenobi his place. However, Lars revealed himself as [[Jedi Knight]] Anakin Skywalker and his slave, [[Padawan]] Ahsoka Tano. Scintel was then ordered to stand down by Tano, but she was able to use the [[Shock collar]] to subdue her. Scintel then watched as her [[Zygerrian royal guard|guards]] attempted to subdue Skywalker. She became impressed by his strength. After her guards subdued Skywalker, she decided to keep Skywalker as her bodyguard/slave.<ref name="SOTR" />
+
+Scintel told Skywalker that Dooku and half her kingdom demanded that Skywalker be executed, Skywalker responded by [[Force choke|force choking]] her. However, Scintel told him to obey her or his friends would die. She then offered Skywalker the chance to serve her if she would ensure his friends' safety.<ref name="SOTR" /> Scintel continued to try and convince Skywalker to be truly loyal to her alone. Molec then told her that Dooku was coming. Thus, Scintel took [[Skywalker's lightsaber]] and told him to stay where he was.<ref name="EFK" />
+
+Scintel then welcomed Dooku, despite having not asked him to come. Dooku then told her that Molec was the one who had asked him to come. Scintel then told him of her plans to break and enslave the [[Jedi]]. Though Dooku saw her plans as ambitious, Dooku told Scintel that he ultimately planned to [[Order 66|exterminate]] the Jedi, not enslave them. Dooku then demanded that she allow him execute them, but Scintel refused. Molec saw his [[queen]] as unworthy to rule and decided to side with Dooku. Scintel then pulled out her electro-whip, but was strangled but Dooku by way of the force. Dooku released her when Skywalker stormed in and briefly fought against Dooku with the queen's electro whip. The guards then stormed into the room asked about the queen leading Dooku to claim that Skywalker had killed her. Scintel was then taken to the ''[[Tecora]]''. Before she died, Scintel told Skywalker where Kenobi, Rex, and the colonists were being held.<ref name="EFK" />
+
+{{Char-stub}}
+
+==Appearances==
+*{{TCW|Kidnapped}} {{1stm}}
+*{{TCW|Slaves of the Republic}} {{1st}}
+*{{TCW|Escape from Kadavo}}
+
+==Sources==
+*{{SWE|characters|brezak|brezak}}
+*{{SWE|characters|queenmirajscintel|Queen Miraj Scintel}}
+*{{SWE|groups|zygerrians|Zygerrians}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|queen-miraj-scintel|Queen Miraj Scintel}}
+*{{Databank|zygerrian|Zygerrian|archivedate=20140728205444}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Miraj Scintel
+|de=Miraj Scintel
+|en=Miraj Scintel
+|es=Miraj Scintel
+|hu=Miraj Scintel
+|nl=Miraj Scintel
+|pt=Miraj Scintel
+|ru=Мираж Скинтел
+}}
+
+{{DEFAULTSORT:Scintel, Miraj}}
+[[Category:Females]]
+[[Category:Queens of Zygerria]]
+[[Category:Separatist leadership]]
+[[Category:Slavers]]
+[[Category:Zygerrians]]

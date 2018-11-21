@@ -1,0 +1,174 @@
+{{Eras}}
+{{Expand}}
+{{Droid_series
+|image=[[File:3B6-RA-7.jpg]]
+|name=RA-7 protocol droid
+|creator=
+|manufacturer=[[Arakyd Industries]]<ref name="Updated and Expanded">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|designer=
+|homeworld=
+|line=
+|model=
+|class=*[[Analyst droid]]<ref name="The Forgotten Droid">{{Rebels|The Forgotten Droid}}</ref>
+*[[Inventory droid]]<ref name="Rebel Rising">''[[Rebel Rising]]''</ref>
+*[[Protocol droid]]<ref name="Ezra's Gamble">''[[Ezra's Gamble]]''</ref>
+*[[Spy droid]]<ref name="Updated and Expanded" />
+|degree=
+|cost=
+|length=
+|width=
+|height=1.7 [[meter]]s<ref name="Absolutely Everything You Need to Know">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref>
+|mass=
+|gender=
+|sensor=
+|plating=
+|armament=
+|equipment=*Broadband [[photoreceptor]]s with antiglare coating<ref name="The Ultimate Visual Guide">''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''</ref>
+*Interface connection port<ref name="The Ultimate Visual Guide" />
+|era=
+|affiliation=*[[Confederacy of Independent Systems]]<ref name="The Clone Wars">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]</ref>
+*[[New Mandalorians]]<ref name="Shades of Reason">{{TCW|Shades of Reason}}</ref>
+*[[Galactic Republic]]<ref name="The Jedi Who Knew Too Much">{{TCW|The Jedi Who Knew Too Much}}</ref>
+*[[InterGalactic Banking Clan]]<ref name="The Rise of Clovis">{{TCW|The Rise of Clovis}}</ref>
+*[[Galactic Empire]]<ref name="A New Hope">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref>
+*[[Alliance to Restore the Republic]]<ref name="Double Agent Droid">{{Rebels|Double Agent Droid}}</ref>
+*[[First Order]]<ref name="The Phantom Limb">''[[Star Wars Special: C-3PO 1: The Phantom Limb]]''</ref>
+*[[Resistance]]<ref name="Flight Log">''[[Poe Dameron: Flight Log]]''</ref>
+|firstmade=
+|retired=}}
+{{Quote|I can't believe I'm the same model as that Imperial drone.|AP-5, on [[PZ-7]]|Double Agent Droid}}
+The '''RA-7 protocol droid''', also known as the '''RA-7 [[inventory droid]]''', the '''RA-7 series protocol droid''' and nicknamed the "'''Death Star droid'''" due to its use aboard the first [[DS-1 Orbital Battle Station|Death Star]], was a model of [[protocol droid]] manufactured by [[Arakyd Industries]]. Produced specially for the [[Galactic Empire]], RA-7s were almost always used as [[Spy|spies]].
+
+==Characteristics==
+{{Quote|There are some credits in it for you if you bring me the head of an Imperial RA-7 protocol droid. The optics on those are supposed to be ''magnificent''.|[[Sevox]], to [[Zarro]]|Chewbacca, Part IV}}
+[[File:RA-7militarybase.png|thumb|left|150px|An RA-7 in the [[Naval Intelligence headquarters|Republic Center for Military Operations]]]]
+RA-7 [[protocol droid]] were distinguished by their [[insectoid]] heads,<ref name="Ezra's Gamble" /> which were equipped with broadband [[photoreceptor]]s featuring an antiglare coating.<ref name="The Ultimate Visual Guide" /> Units in existence<ref name="The Clone Wars" /> by the [[Standard year|year]] [[22 BBY]]<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> had body plating identical to that of [[Cybot Galactica]]'s [[3PO unit]] and the [[TC-series protocol droid]].<ref name="The Clone Wars" /> However, this was eventually discontinued in favor of unique plating<ref name="Shades of Reason" /> equipped with an interface connection port<ref name="The Ultimate Visual Guide" /> by [[19 BBY]].<ref name="Galactic Atlas" /> RA-7s stood 1.7 [[meter]]s in height<ref name="Absolutely Everything You Need to Know" /> and were able to function as [[translator]]s.<ref name="Chewbacca, Part V">''[[Chewbacca, Part V]]''</ref> Unlike most protocol droids, RA-7s had unpleasant personalities and were almost always used as [[Spy|spies]].<ref name="Updated and Expanded" />
+
+==RA-7 protocol droids in the galaxy==
+{{Quote|RA-7s are Death Star droids.''"<br />"''Um...well, yes, that's what some call them, though many RA-7s find it a derogatory term. Only a small percentage of that model actually worked on the Death Star.|[[Caluan Ematt]] and [[C-3PO]]|Poe Dameron: Flight Log}}
+An RA-7 designated [[4-A7]] was used as a [[spy droid]] by the [[Confederacy of Independent Systems]] during the [[Clone Wars]].<ref name="The Clone Wars" />
+
+An RA-7 designated [[AP-5]] served as an [[analyst droid]] for the [[Galactic Republic]] during the [[Battle of Ryloth|Ryloth campaign]]. Later, [[Sexes|he]] became an [[inventory droid]] for the [[Galactic Empire]] before defecting to the rebellion after having his [[restraining bolt]] removed by the rebel [[astromech droid]] [[C1-10P]].<ref name="The Forgotten Droid" />
+
+[[Arakyd Industries]] later produced RA-7s specially for the Empire.<ref name="Updated and Expanded" /> Due to their use aboard the first [[DS-1 Orbital Battle Station|Death Star]], some called RA-7s "Death Star droids," though many of them found it a derogatory term as only a small percentage of the model actually worked on the [[battle station]].<ref name="Flight Log" />
+
+==Behind the scenes==
+{{Quote|A lot of the other bits of the costume were See-Threepio concept work that wasn't used.|Brian Muir|Star Wars Costumes: The Original Trilogy}}
+The RA-7 protocol droid was created for the [[1977]] film [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]. The costume built for the film was taken directly from an "elevator scene" production painting and other pencil quick sketches [[Ralph McQuarrie]] had done of the character. Two versions of the RA-7 were seen in the film: it first appeared in the [[Jawa]] [[sandcrawler]] with a reflective Steinart finish ([[3B6-RA-7]]) and a quick repaint allowed the same costume to be used later in the Death Star with a black finish ([[5D6-RA-7]]). Its torso as it appeared in the production painting would later inspire the design of the [[2-1B surgical droid]].<ref name="Costumes">''[[Star Wars Costumes: The Original Trilogy]]''</ref>
+
+The RA-7's head was sculpted by [[Brian Muir]] and, with its large, insect-like eyes and bulbous cranium, it was one of his favorite designs from ''A New Hope''. The torso of the character was almost exactly like McQuarrie's designs, though it may have been done as concept art for [[C-3PO]]'s costume. It eventually had shoulder epaulets installed, with a functional joint identical to C-3PO's. The arms and legs were likewise similar to C-3PO's, though the aluminium arms lacked the elbow pistons and other detailing. The fiberglass legs were stripped of their sculpted detail lines to give this protocol droid a slightly different appearance. The costume's hands were simple gloves with metal-colored pltes applied to them, to give them a mechanical look.<ref name="Costumes" />
+
+For the RA-7 protocol droid's appearance in the ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' animated series, its animation model -whose geometry was later updated by [[Chris Glenn]] to better match its design in ''A New Hope-''<ref name="Concept Art Gallery">{{SW|url=tv-shows/clone-wars/the-jedi-who-knew-too-much-concept-art-gallery|text=The Jedi Who Knew Too Much Concept Art Gallery}} {{C|Slide 3}}</ref> was identical to that of C-3PO, barring its head.<ref name="The Clone Wars" /> In ''[[Star Wars Rebels]]'' animated series, its design and proportions better match early McQuarrie's sketches of the droid, particularly its rounded shoulders.<ref name="Trivia Gallery">{{SW|url=tv-shows/star-wars-rebels/the-forgotten-droid-trivia-gallery|text=The Forgotten Droid Trivia Gallery}} {{C|Slide 3}}</ref>
+
+==Appearances==
+{{Scroll box|
+[[File:RA-7 concept art.jpeg|thumb|right|250px|Early McQuarrie pencil sketches of the RA-7 protocol droid]]
+*''[[Star Wars Battlefront II]]''
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]
+*{{TCW|Downfall of a Droid}}
+*{{TCW|Dooku Captured}}
+*{{TCW|Mystery of a Thousand Moons}} {{C|Parts only}}
+*{{TCW|Lethal Trackdown}}
+*{{TCW|Evil Plans}}
+*{{TCW|Nomad Droids}}
+*{{TCW|A Friend in Need}}
+*{{TCW|Bounty (episode)|Bounty}}
+*{{TCW|Shades of Reason}}
+*{{TCW|The Jedi Who Knew Too Much}}
+*{{TCW|The Rise of Clovis}}
+*{{TCW|The Big Bang}}
+*''[[Darth Vader: Dark Lord of the Sith 12: The Rule of Five, Part II]]''
+*''[[Darth Vader Annual 2: Technological Terror]]''
+*''[[Tarkin (novel)|Tarkin]]''
+*''[[Solo: A Star Wars Story]]''
+*''[[Rebel Rising]]'' {{1stID|RA-7 inventory droid}}
+*''[[Ezra's Gamble]]'' {{1stID}}
+*{{SWRMCite|11|Assessment}}
+*''[[Leia, Princess of Alderaan]]''
+*{{SWRMCite|19|Escaping the Scrap Pile}}
+*{{Rebels|The Forgotten Droid}}
+*{{Rebels|The Mystery of Chopper Base}}
+*{{Rebels|Twilight of the Apprentice}}
+*{{IDWAdventuresCite|7|[[Endangered, Part 1]]}}
+*{{IDWAdventuresCite|8|[[Endangered, Part 2]]}}
+*{{Rebels|The Wynkahthu Job}}
+*{{SWRMCite||To Thy Metal Heart Be True}}
+*{{Rebels|Visions and Voices}}
+*{{SWRMCite||A Youth Unpromising}}
+*{{Rebels|Warhead (episode)|Warhead}}
+*{{Rebels|Through Imperial Eyes}}
+*{{Rebels|Secret Cargo}}
+*{{Rebels|Double Agent Droid}}
+*{{Rebels|Zero Hour}}
+*{{Rebels|In the Name of the Rebellion}}
+*{{Rebels|Crawler Commandeers}}
+*''[[Rogue One: A Star Wars Story]]''
+*''[[Rogue One Adaptation 5]]''
+*''[[Bounty Hunt]]''
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*''[[The Adventures of Luke Skywalker, Jedi Knight]]''
+*''[[Star Wars Battlefront]]'' {{C|DLC}}
+*''[[Chewbacca, Part IV]]'' {{Mo}}
+*''[[Chewbacca, Part V]]''
+*''[[The Weapon of a Jedi: A Luke Skywalker Adventure]]'' {{C|Arm only}}
+*''[[Star Wars 10: Showdown on the Smuggler's Moon, Part III]]''
+*''[[Doctor Aphra 3: Aphra, Part III]]''
+*''[[Doctor Aphra 5: Aphra, Part V]]''
+*''[[Doctor Aphra 6: Aphra, Part VI]]''
+*''[[Doctor Aphra 15: Remastered, Part II]]''
+*''[[Doctor Aphra 25: The Catastrophe Con, Part VI]]''
+*''[[Star Wars Special: C-3PO 1: The Phantom Limb]]''
+*''[[Poe Dameron 8: The Gathering Storm, Part I]]'' {{C|Arm only}}
+*''[[Poe Dameron 9: The Gathering Storm, Part II]]'' {{C|Arm only}}
+*''[[Poe Dameron 10: The Gathering Storm, Part III]]'' {{C|Arm only}}
+*''[[Poe Dameron 11: The Gathering Storm, Part IV]]'' {{C|Arm only}}
+*''[[Poe Dameron 12: The Gathering Storm, Part V]]'' {{C|Arm only}}
+*''[[Poe Dameron 13: The Gathering Storm, Part VI]]'' {{C|Arm only}}
+*''[[Poe Dameron 14: Legend Lost, Part I]]'' {{C|Arm only}}
+*''[[Poe Dameron 15: Legend Lost, Part II]]'' {{C|Arm only}}
+*''[[Poe Dameron 17: War Stories, Part I]]'' {{C|Arm only}}
+*''[[Poe Dameron 20: Legend Found, Part I]]'' {{C|Arm only}}
+*''[[Poe Dameron Annual 2]]'' {{C|Arm only}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{C|Arm only}}
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]] {{C|Arm only}}
+*''[[Star Wars: The Force Awakens: A Junior Novel]]'' {{C|Arm only}}
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]'' {{C|Arm only}}
+*''[[The Force Awakens, Part IV]]'' {{C|Arm only}}
+*''[[The Force Awakens, Part V]]'' {{C|Arm only}}
+*''[[Poe Dameron: Flight Log]]''
+}}
+
+===Non-canon appearances===
+*{{The Freemaker Adventures|Peril on Kashyyyk}}
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*{{SW|url=tv-shows/clone-wars/nomad-droids-episode-guide|text="Nomad Droids" Episode Guide - ''The Clone Wars''}} {{C|as "Insect Droid"}}
+*{{SW|url=tv-shows/clone-wars/the-jedi-who-knew-too-much-episode-guide|text="The Jedi Who Knew Too Much" Episode Guide - ''The Clone Wars''}}
+*''[[Star Wars Costumes: The Original Trilogy]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*{{SW|url=tv-shows/star-wars-rebels/the-forgotten-droid-episode-guide|text=The Forgotten Droid Episode Guide}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''
+*{{SW|url=tv-shows/star-wars-rebels/double-agent-droid-episode-guide|text=Double Agent Droid Episode Guide}}
+*{{HasbroCite|set=Star Wars: Droid Factory (toy line)|text=''Star Wars: Droid Factory''|link=|pack=}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Dawn of Rebellion]]'' {{1stID|RA-7 series protocol droid}}
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]'' {{Po}}
+*''[[The Art of Solo: A Star Wars Story]]''
+*''[[Star Wars: Droidography]]''
+*{{Databank|ap-5|AP-5|archivedate=20170602090145}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ru=Протокольный дроид RA-7/Канон
+|de=RA-7 Protokolldroide
+|no=RA-7 Protokolldroide
+|es=Droide de protocolo RA-7
+|pt=RA-7
+}}
+
+[[Category:RA-7 protocol droids| ]]

@@ -1,0 +1,197 @@
+{{Eras}}
+{{Character
+|type=Bounty hunter
+|image=[[File:JangoInfobox.png]]
+|name=Jango Fett
+|homeworld=[[Concord Dawn]]<ref name="USW">''[[Ultimate Star Wars]]''</ref> {{C|claim}}<ref name="Pablo Mando Fetts">{{Twitter|pablohidalgo|status/693214698003644417|[[Pablo Hidalgo]]|quote=@CMWAshby The Fetts aren't Mandalorian, though I suppose Jango claimed to be from Concord Dawn at some point.|image=File:Pablo Hidalgo Mando Fetts.png|noimage=}}</ref>
+|birth=
+|death=[[22 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Geonosis]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|species=[[Human]]<ref name="USW" /><ref name="SWEJangoFett">{{SWE|characters|jangofett|Jango Fett}}</ref>
+|gender=[[Sexes|Male]]<ref name="Jango Databank">{{Databank|jango-fett|Jango Fett}}</ref>
+|height=1.83 [[meter]]s<ref name="Jango Databank" />
+|mass=79 [[kilogram]]s<ref name="TFA head to head">''[[Star Wars: The Force Awakens: Head-to-Head]]''</ref>
+|hair=[[Color|Black]]<ref name="Episode II" />
+|eyes=Brown<ref name="Episode II" />
+|skin=Tan<ref name="Episode II" />
+|cyber=
+|era=
+|affiliation=[[Confederacy of Independent Systems]]<ref name="Episode II" />
+|masters=
+|apprentices=}}
+{{Quote|I look forward to seeing them in action.''"<br />"''They'll do their job well. I'll guarantee that.|Obi-Wan Kenobi and Jango Fett|Star Wars: Episode II Attack of the Clones}}
+'''Jango Fett''' was a [[human]] [[Sexes|male]] [[bounty hunter]], widely regarded to be the best in [[the galaxy]] in the [[Separatist Crisis|years preceding]] the [[Clone Wars]]. Although Fett wore a set of [[Mandalorian armor]] during his [[time]] as a [[bounty]] hunter, the [[New Mandalorians|government]] of [[Mandalore]] regarded him as a renegade and pretender. Recruited by the [[Sith Lord]] [[Dooku|Darth Tyranus]], Fett was relocated to the remote [[planet]] of [[Kamino]] where he served as the [[Blood|genetic]] [[Clone template|template]] of the [[clone trooper]]s for the [[Grand Army of the Republic]]. Unlike Fett, his [[Cloning|clones]] lacked much of his independence, as they were designed to be entirely loyal to the [[Galactic Republic]]. Fett had only one request for the [[Kaminoan]]s: the creation of [[Boba Fett]], an unaltered clone whom he would raise as his own "son."
+
+In the [[Standard day|days]] prior to the [[Battle of Geonosis]], Fett was involved in the [[Confederacy of Independent Systems|Separatist]] [[Plot to assassinate Padmé Amidala|assassination attempts]] against [[Senator]] [[Padmé Amidala]] in [[22 BBY]]. As a result, the [[Jedi Knight]] [[Obi-Wan Kenobi]] conducted an [[Mission to Kamino (Separatist Crisis)|investigation]] into the matter, leading him to the Kaminoan [[homeworld]] while in pursuit of Amidala's would-be [[assassin]]. Fett fled from Kamino in his personal [[starship]], ''[[Slave I]]'', and joined [[Count]] Dooku, Tyranus' public persona and the Separatist [[Head of State]], on [[Geonosis]]. During the ensuing battle between a [[Jedi assault team]] and the [[Separatist Droid Army]] in the [[Petranaki arena]], Fett was [[Death|killed]] by decapitation at the hands of [[Jedi Master]] [[Mace Windu]]. Shortly after Fett's death, the clone [[army]] arrived and, under the [[Jedi Order]]'s leadership, secured the first victory in the Clone Wars.
+
+Fett's death instilled a desire for revenge in Boba, who initially pursued a vendetta against Windu before ultimately concentrating on his career as an aspiring bounty hunter. In time Boba was regarded as one of the deadliest [[Mercenary|mercenaries]] in [[Galaxy|galactic]] [[Timeline of galactic history|history]], like his "[[Parent|father]]" before him. His legacy was also preserved in the millions of clones created from his [[DNA|genetic code]]. Compelled by their [[Control chip|programming]] to execute [[Order 66]] against the [[Jedi]], the clone [[trooper]]s revealed themselves as the secret weapon of the [[Sith]], allowing [[Darth Sidious]] to [[Proclamation of the New Order|proclaim]] himself [[Galactic Emperor|Emperor]] of the [[Galactic Empire]]. Fett's progeny served as the first generation of [[stormtrooper]]s; however, the [[Stormtrooper Corps|ranks]] were soon filled not by clones but human [[Cadet|recruits]] and conscripts.
+
+==Biography==
+===Early life===
+{{Quote|Jango Fett was a common bounty hunter. How he acquired that armor is beyond me.|[[Almec]]|The Mandalore Plot}}
+Jango Fett was [[Reproduction|born]] in the [[Standard year|years]] prior to the [[Invasion of Naboo]].<ref name="USW" /> He claimed to have been born on the [[planet]] [[Concord Dawn]],<ref name="Pablo Mando Fetts" /> a [[Mandalorian]] world,<ref name="Protectors">{{Rebels|The Protector of Concord Dawn}}</ref> but the exact authenticity of this claim was unknown. He wore [[Mandalorian armor]] after becoming a [[bounty hunter]] and [[assassin]] for hire,<ref name="USW" /> a fact that led [[New Mandalorians|officials]] of [[Mandalore]] to disavow any connection to Fett, claiming he was simply a [[bounty]] hunter who somehow stole an artifact from their planet's troubled past.<ref name="Death Watch">{{SWE|groups|deathwatch|Death Watch}}</ref>
+
+===Separatist Crisis===
+====Clone template====
+{{Quote|I was recruited by a man called Tyranus on one of the moons of Bogden.|Jango Fett, to Obi-Wan Kenobi|Star Wars: Episode II Attack of the Clones}}
+[[File:Geonosis-jango-cg-with-dooku.jpg|thumb|left|250px|Jango Fett was in league with Darth Tyranus during the waning years of the Republic.]]
+In the years before the [[Clone Wars]], on one of the [[moon]]s of [[Bogden]], Fett was recruited by the [[Sith Lord]] [[Darth]] [[Dooku|Tyranus]] (publicly known as [[Count]] Dooku of [[Serenno]]) to be the [[Clone template|genetic template]] for the [[Grand Army of the Republic|clone army]] created by the [[Cloning|cloners]] of the planet [[Kamino]]. Fett agreed and, in addition to his fee of twenty million [[credit]]s,<ref name="AEYNtK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref> also requested an unaltered clone for himself, one who was not subjected to the typical growth acceleration and behavioral modifications given to the [[Clone trooper|clones]]. Fett raised this clone as his son, whom he named [[Boba Fett]],<ref name="Episode II" /> and remained on Kamino to supervise the flash-training of the clone troopers.<ref name="AEYNtK" /> Jango Fett was also an associate of [[pirate]] [[captain]], [[Hondo Ohnaka]], and fellow bounty hunter, [[Aurra Sing]].<ref name="Lethal Trackdown">{{TCW|Lethal Trackdown}}</ref>
+
+====Assassination plot====
+{{Quote|I hit the ship, but they used a decoy.''"<br />"''We'll have to try something more subtle this time, Zam. My client is getting impatient. Here, take these. Be careful. They're very poisonous. Zam, there can be no mistakes this time.|Zam Wesell and Jango Fett|Star Wars: Episode II Attack of the Clones}}
+[[File:KiSteer 1284 projectile rifle.jpg|thumb|right|250px|Fett subcontracted the hit on Senator Amidala to Zam Wesell, another bounty hunter.]]
+Towards the end of his life, Fett was involved in the [[Plot to assassinate Padmé Amidala|assassination attempts]] against [[Senator]] [[Padmé Amidala]], who was secretly being targeted by Dooku at the request of [[Nute Gunray]] of the [[Trade Federation]]. Fett had subcontracted the [[Clawdite]] bounty hunter [[Zam Wesell]] to carry out these attempts. After Wesell failed to [[Death|kill]] Amidala upon the Senator's arrival to [[Coruscant]], Fett provided her with a pair of deadly [[Indoumodo kouhun|kouhuns]] and tasked her to kill Amidala in her [[sleep]]. The plan was foiled by two [[Jedi]] that had been assigned to protect the Senator, [[Jedi Knight]] [[Obi-Wan Kenobi]] and his [[Padawan]] [[Anakin Skywalker]]. Wesell fled, but was apprehended by the Jedi after a lengthy pursuit throughout Coruscant. However, before she was able to reveal the identity of her employer to the Jedi, Fett killed her from afar with a [[Kamino saberdart]].<ref name="Episode II" />
+
+====Discovered by the Jedi====
+{{Quote|Do you like your army?''"<br />"''I look forward to seeing them in action.''"<br />"''They'll do their job well. I'll guarantee that.|Jango Fett and Obi-Wan Kenobi|Star Wars: Episode II Attack of the Clones}}
+[[File:JangoVSKenobiAOTC.jpg|thumb|left|250px|Obi-Wan Kenobi attempted to capture Fett before the bounty hunter could leave Kamino.]]
+As part of a Jedi investigation into the assassination attempts, Fett was [[Mission to Kamino (Separatist Crisis)|tracked]] back to Kamino by Kenobi after the Jedi was able to determine the [[Kaminoan]] origins of the saberdart used to kill Wesell. There, the two met under civil circumstances at Fett's apartment in [[Tipoca City]]. Fett was questioned by Kenobi, who wished to know the details surrounding the creation of the clone [[army]] and Fett's knowledge of [[Jedi Master]] [[Sifo-Dyas]]. Fett only told Kenobi that he had never heard of anyone named Sifo-Dyas, and that he was recruited by someone called Tyranus. After Kenobi left, Fett told Boba they were leaving. However, on the landing platform where Fett's [[Starship|ship]], the ''[[Slave I]]'', was docked, they were ambushed by Kenobi. The two battled for a short [[time]] before Kenobi went over the edge of the landing platform, giving Fett an opportunity to escape. Fett was followed to the planet [[Geonosis]] by Kenobi, who had placed a [[homing beacon]] on the hull of the ''Slave I''. Fett led Kenobi on a prolonged [[Dogfight over Geonosis|chase]] through Geonosis' [[asteroid field]] and eventually locked onto his ship with a [[missile]], believing Kenobi to have perished.<ref name="Episode II" />
+
+====Death on Geonosis====
+{{Quote|Don't move, Jedi.|Jango Fett, to Anakin Skywalker|Star Wars: Episode II Attack of the Clones}}
+[[File:Jangodied.JPG|thumb|right|250px|The battle between Jango Fett and Mace Windu ended with the mercenary's death at the hands of the Jedi Order's champion.]]
+Fett later captured Skywalker and Amidala in the [[Geonosian droid factories|droid factory]] on Geonosis during their attempt to rescue Kenobi, who had been taken [[prisoner]] by the [[Confederacy of Independent Systems|Separatists]]. In the [[Petranaki arena]], during the scheduled execution of Amidala, Kenobi, and Skywalker, Jedi Master [[Mace Windu]] led a [[Jedi assault team]] to rescue the three prisoners in what would be the [[Battle of Geonosis|first battle of the Clone Wars]]. Fett protected Dooku during the skirmish, killing Jedi Master [[Coleman Trebor]] before joining the melee in the arena and attacking Windu. Fett tried to take [[Mace Windu's lightsaber|Windu's lightsaber]], but was run over by a stampeding [[reek]]. The reek charged at Fett a second time, who dispatched it with one shot. Fett was then rushed by Windu and began firing at the Jedi, who deflected the bounty hunter's shots. Fett attempted to use his [[jetpack]] to get away, but was unaware of the malfunction caused by the reek, and was subsequently decapitated by Windu.<ref name="Episode II" />
+
+===Legacy===
+{{Quote|That was for Jango.|Boba Fett|Star Wars Battlefront}}
+During Kenobi's visit to the planet Mandalore, he had a brief conversation with [[Prime Minister]] [[Almec]] about the late Jango Fett. Almec declared that the bounty hunter was not a Mandalorian despite the [[armor]] he wore.<ref name="The Mandalore Plot">{{TCW|The Mandalore Plot}}</ref>
+
+Fett's death inspired Boba to pursue a vendetta against Windu for the murder of his father. He teamed up with Sing, [[Bossk]] and [[Castas]] in order to avenge his "father's" death. Boba infiltrated Windu's [[Star Destroyer]] the [[Endurance]] above the world of [[Vanqor]] and [[Sabotage of the Endurance|sabotaged]] it, causing it to crash on the planet's surface. He then attached a bomb to Jango's helmet and placed it in the bridge of the Endurance for Windu, hoping that when Windu came looking for survivors he would be killed by the bomb. However the attempt was unsuccessful and Jango's helmet was blown to pieces with one side of the helmet remaining.<ref name="R2 Come Home"> {{TCW|R2 Come Home}} </ref>
+
+Meanwhile, the mass-produced trooper clones of Fett fought against the Separatists during the Clone Wars and subsequently helped execute the [[Fall of the Republic]] when [[Order 66]] was enacted and then filled in the boots of the new [[Galactic Empire]].<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+
+[[File:BobaFettDockingBay94-ANHSE.png|thumb|left|250px|Boba Fett, an unaltered clone of Jango Fett, followed in his "father's" example by becoming a bounty hunter.]]
+Jango's ship the Slave I saw frequent use in the Clone Wars and later the Age of the Empire. During the Clone Wars the ship was initially used by Boba and Aurra Sing, however Aurra crash landed it on the surface of [[Florrum]] during a fight with the Padawan [[Ahsoka Tano]].<ref name="Lethal Trackdown"> {{TCW|Lethal Trackdown}} </ref> Hondo Ohnaka, the leader of the pirate [[Ohnaka Gang]], dragged Aurra from the wreckage of the ship<ref name="Assassin"> {{TCW|Assassin}} </ref> and rebuilt the vessel, adding it to his personnal fleet of ships.<ref name="A Necessary Bond"> {{TCW|A Necessary Bond}} </ref> In the [[19 BBY|last]] year of the clone wars the Separatists invaded Florrum and destroyed Hondo's arsenal, prompting him to escape the planet in the Slave I. Sometime later Boba once again acquired the Slave I and utilized it as his personnal vessel for carrying out bounties for the Galactic Empire.<ref name="Episode IV">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+
+Boba followed in his father's foot steps and became a freelance bounty hunter. By the time of the Galactic Empire Boba was widely considered the most dangerous bounty hunter alive. He would later be killed combating the [[Alliance to Restore the Republic|Rebel]] pilot [[Han Solo]] on the planet of [[Tatooine]].<ref name="Episode IV">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+
+==Personality and traits==
+{{Quote|I'm just a simple man trying to make my way in the universe.|Jango Fett|Star Wars: Episode II Attack of the Clones}}
+[[File:Jango OS TPB.png|thumb|right|200px|Fett was known as the galaxy's best bounty hunter in his time.]]
+Jango Fett was a ruthless<ref name="SWEJangoFett" /> killer, an expert fighter, and reputedly the best bounty hunter in the galaxy.<ref name="Jango Databank" /> He was also an honorable man according to his friend, the pirate Hondo Ohnaka.<ref name="Lethal Trackdown" /> As a combatant, he was proficient in both marksmanship and [[Hand-to-hand combat|unarmed combat]]. By the time of the Separatist Crisis, his face had several scars that he chose to conceal with a Mandalorian helmet. In combat, Fett favored the advantage of speed and height that his jetpack provided him with against his opponents.<ref name="Jango Databank" /> During a bounty hunting assignment, he warned Zam Wesell to be careful when handling a pair of [[poison]]ous kouhuns. However, he later killed his partner to prevent Wesell from revealing his involvement in Amidala's assassination attempt to her Jedi captors.<ref name="Episode II" />
+
+[[File:Poggle & Fetts.jpeg|thumb|left|250px|Fett passed his skills onto his "son," Boba, whom he cared for.]]
+As a mercenary, Fett favored financial rewards for his services. Although he was generously compensated for his service as a clone template, he surprised his Kaminoan benefactors by requesting the creation of a clone for himself. This clone was unaltered in accordance with Fett's wishes, unlike the others who were modified for growth acceleration and enhanced docility. Fett provided the clone with a name, Boba Fett, and chose to raise him as his own.<ref name="Episode II" /> He cared greatly for his "son," who learned combat skills and ruthlessness from the elder Fett.<ref name="SWEJangoFett" />
+
+He was loyal to his employers whilst they retained his service as a mercenary. After Wesell failed in her first attempt on Amidala's life, Fett set a new plan into action and emphasized to his partner that their employer's patience was waning. He later served as Count Dooku's personal [[bodyguard]] during the battle between the Jedi and Separatists.<ref name="Episode II" /> Despite his combat skills, Fett was no match for Mace Windu<ref name="Jango Databank" />&mdash;the Jedi Order's greatest champion<ref name="Windu's Lightsaber">{{Databank|mace-windus-lightsaber|Mace Windu's Lightsaber}}</ref>&mdash;who severed the hunter's head from his neck with one swing of his [[Color|amethyst]]-bladed [[lightsaber]].<ref name="Jango Databank" />
+
+Fett was a [[human]]<ref name="SWEJangoFett" /> [[Sexes|male]] who stood at 1.83 [[meter]]s.<ref name="Jango Databank" /> He had black [[hair]], brown [[eye]]s, and tan skin.<ref name="Episode II" />
+
+==Equipment==
+[[File:JangoFlying-AotC.jpg|thumb|right|250px|Fett's arsenal included a suit of Mandalorian armor, a jetpack, and two blaster pistols.]]
+Jango Fett wore a set of energized Mandalorian armor designed with a [[durasteel]] alloy<ref name="USW" /> and piloted a customized [[Firespray-31-class patrol and attack craft|''Firespray-31''-class patrol and attack craft]] named ''Slave I'' throughout his career, which his son Boba inherited upon his death.<ref name="USW" /><ref name="Boba Databank" /><ref name="Slave I Databank">{{Databank|slave-i|Slave I}}</ref>
+Fett also carried a vast array of equipment on his person. He owned a pair of customized [[WESTAR-34 blaster pistol]]s that had hollowed-out grips<ref name="USW" /> and used a [[Z-6 jetpack]] with a built-in [[missile launcher]].<ref name="USW" /><ref name="Z-6Jetpack">{{Databank|z-6-jetpack|Z-6 Jetpack}}</ref> Jango was also known to use the [[JT-12 jetpack]] which was a lighter weight model of the Z-6. This jetpack was worn in the arena on Geonosis. He used a number of gadgets hidden in his gauntlets, including [[vibroblade]]s,<ref name="SWEJangoFett" /> a [[whipcord thrower]], and a [[ZX miniature flame projector]].<ref name="AEYNtK" />
+
+==Behind the scenes==
+Jango Fett, named J'mee in early drafts,<ref name="old-db-bts">{{DB|character|jangofett|Jango Fett}}</ref> made his first appearance in the [[2002]] film [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']], where he was portrayed by [[Temuera Morrison]].<ref name="Episode II" />
+
+Jango's armor revisits the original 1970s-era designs for Boba Fett's armor.<ref name="old-db-bts" /> It was originally colored white like the clone troopers (a nod to Boba Fett's concept design during the development of ''The Empire Strikes Back''), but at the end, it was changed to blue.<ref name="FromConceptToScreen">{{SW|url=news/from-concept-to-screen-slave-i|text=From Concept to Screen: ''Slave I''}}</ref>
+
+Jango Fett was a Mandalorian in the lore of [[Star Wars Legends|''Star Wars'' Legends]]. In the "Creating Mandalore" featurette on [[The Clone Wars: Season Two|''The Clone Wars'': Season Two]] [[Star Wars: The Clone Wars The Complete Season Two|DVD set]], however, series director [[Dave Filoni]] explained that, according to [[George Lucas]], the Fetts were not Mandalorians.<ref name="TCW2DVD">[[Star Wars: The Clone Wars The Complete Season Two|''Star Wars: The Clone Wars'': The Complete Season Two]]</ref> After the creation of the new official ''Star Wars'' [[canon]], [[Pablo Hidalgo]] of the [[Lucasfilm Story Group]] reiterated that the Fetts are not Mandalorians, though they might claim to be.<ref name="Pablo Mando Fetts" />
+
+Before the cancellation of ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' TV series, Jango's son Boba was set to star in a four-episode arc starring him and fellow bounty hunter [[Cad Bane]]. During a "rescue mission" on Tatooine in order to save a child from [[Tusken Raider]]s, the story would emphasize Boba's and Cad's relation to one another as Cad had known Jango.<ref name="Untold Clone Wars Panel">{{SWYoutube|7yKM6RExLlI|The Untold Clone Wars Panel - Star Wars Celebration Anaheim 2015}}</ref>
+
+In ''[[Angry Birds Star Wars II]]'', Jango's role differs from that in the films. He is present during the events of ''The Phantom Menace'' and assists [[Darth Sidious]] as his main ally. During the events of ''Attack of the Clones'', his death was changed - being accidentally shot apparently by a [[stormtrooper]], rather than beheaded by Mace Windu.
+
+==Appearances==
+{{Scroll box|
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[5-Minute Star Wars Stories Strike Back]]''
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars: Force Arena]]'' {{Mo}}
+*''[[Star Wars Battlefront II]]'' {{Mo}}
+*''[[Age of Republic: Jango Fett 1]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*[[Attack of the Clones (Golden Book)|''Attack of the Clones'' Golden Book]]
+*''[[Attack of the Clones Read-Along Storybook and CD]]''
+*''[[Jedi of the Republic&mdash;Mace Windu, Part I]]'' {{Flash}}
+*{{TCW|Clone Cadets}} {{Mo}}
+*{{TCW|The Mandalore Plot}} {{Mo}}
+*{{TCW|Death Trap}} {{Imo}}
+*{{TCW|R2 Come Home}} {{Mo}}
+*{{TCW|Lethal Trackdown}} {{Mo}}
+*{{TCW|ARC Troopers}} {{Hologram}}
+*{{TCW|Fugitive}} {{C|Appears on holographic screen only}}
+*{{TCW|The Lost One}} {{Mo}}
+*''[[Star Wars Battlefront]]'' {{Mo}}}}
+
+===Non-canon appearances===
+*{{Droid Tales|Exit from Endor}} {{Flash}}
+*''[[LEGO Star Wars: The Force Awakens]]'' {{C|DLC}}
+
+==Sources==
+{{Scroll box|
+*{{SWE|groups|deathwatch|Death Watch}}
+*{{SWE|characters|jangofett|Jango Fett}}
+*{{SWE|technology|slavei|Slave I}}
+*{{HasbroCite|set=Star Wars Rebels (toy line)|text=''Star Wars Rebels''|pack=Jango Fett|link=SL07-Jango-Fett-Star-Wars-Rebels-Saga-Legends.asp}}
+*{{SW|url=news/swca-the-untold-clone-wars-panel-liveblog|text=SWCA: The Untold ''Clone Wars'' Panel Liveblog}}
+*{{SW|url=news/from-concept-to-screen-slave-i|text=From Concept to Screen: ''Slave I''}}
+*''[[Ultimate Star Wars]]''
+*[[Star Wars: Star Pilot (2015)|''Star Wars: Star Pilot'']]
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Entertainment Weekly's Ultimate Guide to Rogue One]]''
+*''[[Darth Vader: Sith Lord]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]'' {{Imo}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Lightsaber Battles]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|aurra-sing|Aurra Sing|archivedate=20170623060156}}
+*{{Databank|boba-fett|Boba Fett|archivedate=20170605030244}}
+*{{Databank|clone-troopers|Clone Troopers|archivedate=20170602182649}}
+*{{Databank|geonosis-droid-factory|Geonosis Droid Factory|archivedate=20170207180404}}
+*{{Databank|hondo-ohnaka|Hondo Ohnaka|archivedate=20170802141131}}
+*{{Databank|delta-7-jedi-starfighter|Delta-7 Jedi Starfighter|archivedate=20170706051350}}
+*{{Databank|flame-thrower|Flame Thrower|archivedate=20160507124800}}
+*{{Databank|geonosis-droid-factory|Geonosis Droid Factory|archivedate=20170207180404}}
+*{{Databank|hondo-ohnaka|Hondo Ohnaka|archivedate=20170802141131}}
+*{{Databank|jango-fett|Jango Fett}}
+*{{Databank|kouhun|Kouhun}}
+*{{Databank|reek|Reek}}
+*{{Databank|seismic-charge|Seismic Charge}}
+*{{Databank|slave-i|Slave I}}
+*{{Databank|taun-we|Taun We}}
+*{{Databank|z-6-jetpack|Z-6 Jetpack}}
+*{{Databank|zam-wesell|Zam Wesell}}}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+
+{{Interlang
+|bg=Джанго Фет
+|cs=Jango Fett
+|da=Jango Fett
+|de=Jango Fett#kanon
+|el=Τζάνγκο Φεττ
+|es=Jango Fett
+|fr=Jango Fett
+|hu=Jango Fett
+|it=Jango Fett
+|ja=ジャンゴ・フェット/レジェンズ
+|ko=장고 펫
+|nl=Jango Fett
+|no=Jango Fett
+|pl=Jango Fett
+|pt=Jango Fett
+|ru=Джанго Фетт/Канон
+|sv=Jango Fett
+|uk=Джанго Фетт
+|zh=強格·費特
+}}
+
+{{DEFAULTSORT:Fett, Jango}}
+[[Category:Assassins]]
+[[Category:Bounty hunters]]
+[[Category:Confederacy individuals]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Pilots]]

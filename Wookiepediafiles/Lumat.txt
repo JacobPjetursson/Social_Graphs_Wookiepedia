@@ -1,0 +1,72 @@
+{{Eras|reb}}
+{{Update|[[Star Wars: Ewoks—Shadows of Endor]]}}
+{{Character
+|type=
+|image=[[File:Lumat_kenner.jpg]]
+|name=Lumat
+|homeworld=[[Endor/Legends|Endor]]<ref name="rotj">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|birth=
+|death=
+|species=[[Ewok/Legends|Ewok]]<ref name="rotj" />
+|gender=[[Sexes/Legends|Male]]
+|height=
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=
+|era=[[Rebellion era]]<ref name="rotj" />
+|affiliation=*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="rotj" />
+*[[Bright Tree Village/Legends|Bright Tree Village]]<ref name="rotj" />
+|masters=
+|apprentices=}}
+'''Lumat''' was one of the many [[Ewok/Legends|Ewoks]] who helped the [[Alliance to Restore the Republic/Legends|Rebellion]] defeat the [[Galactic Empire/Legends|Galactic Empire]] in the [[Battle of Endor/Legends|Battle of Endor]]. He was the husband of [[Zephee/Legends|Zephee]] and the father of [[Latara]], [[Nippet/Legends|Nippet]], and [[Wiley]]. He was the chief woodcutter for his tribe.
+
+==Behind the scenes==
+Lumat was made into an action figure by [[Kenner Products|Kenner]] in [[1984]]. Upon his initial release, he was in a ''Return of the Jedi'' package with a bow, a quiver, and a hood. The second release, on Power of the Force packaging, added a coin to his accessories.
+
+In 2012 Lumat received his second figure in the vintage collection line, now sporting a unique headsculpt, bow, and arrows as part of an online-only release because stores couldn't take another wave of figures due to poor distribution on its figure line. This figure can actually hold the bow and arrow like it is about to shoot a fleeing stormtrooper.
+
+[[File:Lumat_ccg.png|thumb|180px|left|[[Graak]], once known as Lumat]]
+While the action figure shows Lumat to be an Ewok with solid brown/gray fur, his [[Star Wars Customizable Card Game|Customizable Card Game]] (CCG) card pictured [[Graak]], another prominent Ewok with black and gray striped fur.
+
+Hasbro's Graak figure, released in 2007, is based on the 1984 Lumat action figure, though bears Graak's black and gray colors, matching that of the "Lumat" CCG card.
+
+"[[Rogues Gallery (Star Wars Insider)|Rogues Gallery]]" in ''[[Star Wars Insider 135]]'' established that Lumat was indeed the Ewok from the Kenner figure and not the CCG card.
+
+Lumat can be seen in the Special Edition DVD of ''[[Star Wars: Episode VI Return of the Jedi|Return of the Jedi]]'' at frame 1:12:32.
+
+==Appearances==
+*''[[How the Ewoks Saved the Trees: An Old Ewok Legend]]''
+*''[[Wicket Finds a Way: An Ewok Adventure]]''
+*{{Ewoks|The Travelling Jindas}}
+*{{Ewoks|The Curse of the Jindas}}
+*''[[The Shadow Stone: An Ewok Adventure]]''
+*''[[Star Wars: Ewoks—Shadows of Endor]]''
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+
+==Sources==
+{{Imagecat|Images of Lumat}}
+*{{KennerCite|set=Star Wars: Return of the Jedi (toy line)|text=Star Wars: Return of the Jedi|pack=Lumat|link=vintlumat.asp}}
+*{{KennerCite|set=Star Wars: The Power of the Force (1985 toy line)|text=Star Wars: The Power of the Force|pack=Lumat|link=vintlumat.asp}}
+*[[A Guide to the Star Wars Universe (Second Edition)|''A Guide to the Star Wars Universe'', Second Edition]]
+*''[[Star Wars Encyclopedia]]''
+*{{CCG|set=Endor Limited|link=Endor-Light/large/lumat.gif|cardname=Lumat}}
+*''[[Star Wars: The Action Figure Archive]]''
+*{{FFCite|87|EWO7-8, ''Ewoks''}}
+*''[[The Complete Star Wars Encyclopedia]]''
+*{{DB|character|nippet|Nippet}}
+*{{HasbroCite|set=Star Wars: The Vintage Collection|text=|pack=Lumat|link=Lumat_Vintage_Collection_TVC_VC104.asp}}
+*{{InsiderCite|135|Rogues Gallery (Star Wars Insider)|Rogues Gallery: The Ewoks: Warriors of Endor!}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Lumat
+|nl=Lumat
+|ja=ルーマット
+}}
+
+[[Category:Ewoks]]
+[[Category:Males]]

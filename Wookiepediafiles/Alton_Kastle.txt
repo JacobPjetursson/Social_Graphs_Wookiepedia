@@ -1,0 +1,107 @@
+{{Eras}}
+{{Image}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Alton Kastle hologram.png]]
+|name=Alton Kastle
+|homeworld=
+|birth=
+|death=
+|species=[[Human]]<ref name="Call to Action">{{Rebels|Call to Action}}</ref>
+|gender=[[Sexes|Male]]
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="Call to Action" />
+|eyes=Blue<ref name="Call to Action" />
+|skin=Light<ref name="Call to Action" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="DB">{{Databank|holonet-news|HoloNet News|archivedate=20170824132240}}</ref>
+**[[Imperial Press Corps]]<ref name="Call to Action" />
+|masters=
+|apprentices=}}
+{{Quote|This is Alton Kastle for the only news you need: the HoloNet News!|Alton Kastle's catchphrase|HoloNet News Special Report: Rise in Citizen Reporting Results in Captured Criminals}}
+'''Alton Kastle''' was a [[human]] [[Sexes|male]] [[journalist]] who worked as a broadcaster on [[HoloNet News]] on the [[planet]] [[Lothal]]. As a broadcast journalist, he helped spread [[propaganda]] for the [[Galactic Empire]], including propaganda about [[Wookiee]]s and local unemployment rates. The [[Leonis family]] sometimes watched news broadcasts by Alton Kastle. While [[Leo Leonis]] believed the Imperial line, both [[Zare Leonis]] and [[Tepha Leonis]] came to learn that Kastle was a stooge who often delivered news that was either carefully manicured truth or entirely fictitious.
+
+==Biography==
+===Imperial propagandist===
+Alton Kastle was an [[Galactic Empire|Imperial]] broadcaster who was based on the [[planet]] [[Lothal]] during the [[Imperial Era|Age of the Empire]]. In [[6 BBY]], [[Sexes|he]] reported on the [[Westhills massacre]]. Kastle claimed that insurgents had destroyed [[mining]] equipment and attacked Imperial surveyors in the [[Westhills]], forcing the Empire to send in [[troop]]s to restore order. In truth, [[Imperial Military|Imperial forces]] under [[Lieutenant]] [[Piers Roddance]] had opened [[fire]] on a sit-in demonstration by disaffected [[farmer]]s who had lost their lands to an Imperial mining project. [[Zare Leonis]] and his friend [[Beck Ollet]] knew the truth but did not tell his [[parent]]s, who accepted Kastle's account.<ref name="Edge of the Galaxy">''[[Servants of the Empire: Edge of the Galaxy]]''</ref>
+
+Between [[5 BBY]] and [[4 BBY]], Kastle served as a newscaster for several Imperial [[HoloNet News]] reports including Lothal's new [[Imperial Registration Program]]<ref name="Imperial Registration Program">{{HoloNetNews|post/92683241141/holonet-news-report-imperial-registration-program|Report: Imperial Registration Program|int=HoloNet News Report: Imperial Registration Program}}</ref>, the suppression of a [[Wookiee revolt]] on [[Kashyyyk]]<ref name="Wookiee Report">{{HoloNetNews|post/92683360686/holonet-news-report-wookiee-revolt-quelled-on|Report: Wookiee Revolt Quelled on Kashyyyk|int=HoloNet News Report: Wookiee Revolt Quelled on Kashyyyk}}</ref>, reduced unemployment rates<ref name="Unemployment Report">{{HoloNetNews|post/92683587916/holonet-news-special-report-lothal-jobless-rates|Special Report: Lothal Jobless Rates Hit All-time Low|int=HoloNet News Special Report: Lothal Jobless Rates Hit All-time Low}}</ref>, the Empire's new affordable housing program<ref name="Housing">{{HoloNetNews|post/97314128383/holonet-news-special-report-empire-ensures-new|Special Report: Empire Ensures New Affordable Housing on Lothal|int=HoloNet News Special Report: Empire Ensures New Affordable Housing on Lothal}}</ref>, and a ban on unauthorized mining.<ref name="Unauthorized Mining">{{HoloNetNews|post/98335557956/holonet-breaking-news-unauthorized-mining|Breaking News: Unauthorized Mining Operation Halted|int=HoloNet Breaking News: Unauthorized Mining Operation Halted}}</ref> While many Imperial citizens on Lothal like [[Leo Leonis]] accepted Kastle's reports, others like Leo's [[Marriage|wife]] [[Tepha Leonis]] and son Zare regarded his reports as carefully manicured truths or fabricated [[propaganda]] designed to portray the Empire in a positive light.<ref name="Imperial Justice">''[[Servants of the Empire: Imperial Justice]]''</ref>
+
+===Combating the Spectres===
+After the [[Spectres]] rebels [[Ezra Bridger]] and [[Garazeb Orrelios]] [[Attack on Imperial Troop Transports|attacked]] an [[Imperial Troop Transport]] and rescued Imperial [[prisoner]]s including [[Morad Sumar]], [[Marida Sumar]] and their [[Aqualish]] servant, Kastle issued a spin report claiming that the rebels had attacked innocent workers. Kastle's HoloNet transmission was then hacked by a broadcast from the rogue [[Senator]] [[Gall Trayvis]] claiming that the [[Jedi Master]] [[Luminara Unduli]] was being [[Prison|imprisoned]] on [[Stygeon Prime]].<ref name="Old Masters">{{Rebels|Rise of the Old Masters}}</ref> On the fourteenth anniversary of [[Empire Day]], Kastle delivered a news report announcing that the holiday was commemorating [[Galactic Emperor|Emperor]] [[Darth Sidious|Palpatine's]] [[Proclamation of the New Order|creation]] of the the Empire. His broadcast was hacked by a transmission by Trayvis calling on Lothalians to boycott the annual Empire Day celebrations.<ref name="Empire Day">{{Rebels|Empire Day (episode)|Empire Day}}</ref>
+
+Later, Kastle delivered another news broadcast deriding the [[Lothal City Capitol Building]] in Lothal's [[Capital City]] as a bygone relic. This was quickly shadowed by a coded transmission from Trayvis instructing the Spectres to meet him at the Old Republic Senate Hall. Unknown to the Specters, Trayvis was an undercover [[agent]] provocateur working with the Empire to root out and destroy rebel operatives. The rebels narrowly escaped a [[Trap in the Old Republic Senate Building|trap]] set by the [[Imperial Security Bureau]] Agent [[Alexsandr Kallus|Kallus]] and the [[Minister]] [[Maketh Tua]], who were acting under orders from [[Governor]] [[Arihnda Pryce]].<ref name="Vision of Hope">{{Rebels|Vision of Hope}}</ref>
+
+After the Spectres escaped the Imperial trap, Kastle hosted an interview with Trayvis, who publicly rededicated himself to serving the Empire. Trayvis also denounced the Spectres as violent extremists who had appropriated his message and placed a [[bounty]] on them. In response, the Spectres devised a plan to [[Raid on the communications tower|hijack]] the [[Imperial Communications Center]] near [[Jalath]] to give their side of the story.<ref name="Call to Action" /> During the [[Siege of Lothal]], Kastle gave a news report claiming that the Spectres had [[assassin]]ated Tua. In reality, the Spectres had been trying to help Tua escape and Kallus had bombed her [[shuttle]] and framed the rebels.<ref name="Siege of Lothal">''[[Star Wars Rebels: The Siege of Lothal]]''</ref>
+
+===The rebellion===
+In [[2 BBY]], Alton Kastle delivered a news broadcast denouncing the former senator [[Mon Mothma]] for her allegedly [[treason]]ous speech condemning the Emperor Palpatine's complicity in the [[Ghorman Massacre]]. This broadcast was picked up by the Spectres, whose ship ''[[Ghost]]'' was in deep space. Shortly later, the Spectres, who were now part of [[Phoenix Cell]], helped [[Operation Handoff|escort]] the rogue senator through the [[Archeon Nebula]] to the planet [[Dantooine]].<ref name="Secret Cargo">{{Rebels|Secret Cargo}}</ref>
+
+Following the [[death]] of [[Kanan Jarrus]] in [[1 BBY]], Alton Kastle issued a propaganda broadcast claiming that the rebellion on Lothal was lost with the death of their leadership. He then announced that Governor Pryce had organized a parade to commemorate the Imperial leadership's efforts to defeat the "extremists" and that all citizens were required to attend the parade.<ref name="DUME">{{Rebels|DUME}}</ref>
+
+===Galactic Civil War===
+{{Quote|The daughter of renowned [[Admiral]] [[Garrick Versio]] of the Imperial Security Bureau and famous [[artist]] [[Zeehay Versio]] may be a traitor to the glorious Empire. Captain Iden Versio been recorded as spouting lies about the Empire and inciting violence, denouncing the brave subjects of the Death Star [[battle station]] who lost their lives while she survived. This is not in keeping with the behavior of the highly decorated captain hitherto, but the words are damning. She is slated for an immediate [[court-martial]]. Hero of the Empire Admiral [[Nasha Garvan]] will prosecute, while the specialized [[legal-analyst droid]] [[HM-12]] will provide proper defense as required by [[Imperial Navy]] law.|Alton Kastle|Battlefront II: Inferno Squad}}
+A few [[Standard month|months]] after the [[Battle of Yavin]], Kastle delivered a broadcast reporting on the apparent treason of Imperial [[Captain]] [[Iden Versio]], who made disparaging remarks regarding the [[DS-1 Orbital Battle Station|Death Star]] and the Galactic Empire as a whole. In reality, Versio's comments were part of a ruse to embed herself into the ranks of a [[Partisans|Partisan]] cell calling themselves the [[Dreamers]].<ref name="Inferno Squad">''[[Battlefront II: Inferno Squad]]''</ref>
+
+==Personality and traits==
+Alton Kastle was a [[human]] male broadcaster who lived during the Age of the Empire. He was known for his impeccable dress<ref name="DiD-book">''[[Droids in Distress (book)|Droids in Distress]]''</ref> and familiar, comforting voice.<ref name="Edge of the Galaxy" /> While Kastle was popular with many pro-Imperial citizens, dissenters like Zare Leonis regarded him as an Imperial stooge who distorted the truth and made up lies.<ref name="Imperial Justice" /> Kastle was a staunch Imperial loyalist and regularly denounced the rebels as criminals<ref name="Old Masters" /> and traitors.<ref name="Secret Cargo" />
+
+==Equipment==
+Because of his affiliation, Kastle wore a [[Color|gray-blue]] variant of the [[Imperial military uniforms|Imperial uniform]], complete with black [[boot]]s, [[belt]] and [[glove]]s. However, he wore an [[Imperial media badge]] rather than a military [[Rank insignia plaque|rank plaque]],<ref name="Trivia Gallery">{{SW|url=tv-shows/star-wars-rebels/call-to-action-trivia-gallery|text="Call to Action" Trivia Gallery}} {{C|Slide 3}}</ref> had a Holonet News patch under the left shoulder, and carried two [[code cylinder]]s on the left side of the chest.<ref name="Concept Art Gallery">{{SW|url=tv-shows/star-wars-rebels/call-to-action-concept-art-gallery|text="Call to Action" Concept Art Gallery}} {{C|Slide 7}}</ref> Alton Kastle was noted for being impeccably dressed.<ref name="DiD-book" />
+
+==Behind the scenes==
+Alton Kastle's voice first appeared in [[2014]], in the [[HoloNet News (Tumblr)|HoloNet News]] tie-ins to ''[[Star Wars Rebels]]''. Alton Kastle was misidentified as Alston Kastle on two occasions in the young readers novel ''[[Servants of the Empire: Edge of the Galaxy]]'' that was released in [[October]] 2014. He was voiced by [[Steve Blum]], who also voiced the rebel character Garazeb Orrelios.
+
+==Appearances==
+{{Scroll box|content=
+*{{HoloNetNews|post/92683241141/holonet-news-report-imperial-registration-program|Report: Imperial Registration Program|int=HoloNet News Report: Imperial Registration Program}} {{1st}} {{Voice}}
+*{{HoloNetNews|post/92683360686/holonet-news-report-wookiee-revolt-quelled-on|Report: Wookiee Revolt Quelled on Kashyyyk|int=HoloNet News Report: Wookiee Revolt Quelled on Kashyyyk}} {{Voice}}
+*{{HoloNetNews|post/92683587916/holonet-news-special-report-lothal-jobless-rates|Special Report: Lothal Jobless Rates Hit All-time Low|int=HoloNet News Special Report: Lothal Jobless Rates Hit All-time Low}} {{Voice}}
+*{{HoloNetNews|post/96732887451/holonet-news-special-report-controversial-statue|Special Report: Controversial Statue Finally Destroyed|int=HoloNet News Special Report: Controversial Statue Finally Destroyed}} {{Voice}}
+*{{HoloNetNews|post/97247403706/holonet-news-special-report-rise-in-citizen|Special Report: Rise in Citizen Reporting Results in Captured Criminals|int=HoloNet News Special Report: Rise in Citizen Reporting Results in Captured Criminals}} {{Voice}}
+*{{HoloNetNews|post/97314128383/holonet-news-special-report-empire-ensures-new|Special Report: Empire Ensures New Affordable Housing on Lothal|int=HoloNet News Special Report: Empire Ensures New Affordable Housing on Lothal}} {{Voice}}
+*{{HoloNetNews|post/97905253927/holonet-news-special-report-famed-imperial-pilot|Special Report: Famed Imperial Pilot Moves to Lothal|int=HoloNet News Special Report: Famed Imperial Pilot Moves to Lothal}} {{Voice}}
+*{{HoloNetNews|post/98160256153/holonet-news-special-report-journalists-across|Special Report: Journalists Across Galaxy Join Press Corps|int=HoloNet News Special Report: Journalists Across Galaxy Join Press Corps}} {{Voice}}
+*{{HoloNetNews|post/98335557956/holonet-breaking-news-unauthorized-mining|Breaking News: Unauthorized Mining Operation Halted|int=HoloNet Breaking News: Unauthorized Mining Operation Halted}} {{Voice}}
+*{{HoloNetNews|post/98483915802/holonet-news-special-report-community-leaders|Special Report: Community Leaders Discuss Capital City Improvements|int=HoloNet News Special Report: Community Leaders Discuss Capital City Improvements}} {{Voice}}
+*{{HoloNetNews|post/98908548684/holonet-news-exclusive-mas-amedda-receives|Exclusive: Mas Amedda receives Governor Arihnda Pryce for Lothal report|int=HoloNet News Exclusive: Mas Amedda receives Governor Arihnda Pryce for Lothal report}} {{Voice}}
+*''[[Servants of the Empire: Edge of the Galaxy]]'' {{Mo}}
+*''[[Rebel Journal by Ezra Bridger]]'' {{Mo}}
+*[[Droids in Distress (book)|''Droids in Distress'' book]] {{Hologram}}
+*{{Rebels|Rise of the Old Masters}} {{Voice}}
+*{{Rebels|Empire Day (episode)|Empire Day}} {{Voice}}
+*''[[Ezra's Duel with Danger]]'' {{Hologram}}
+*{{Rebels|Vision of Hope}} {{Voice}}
+*''[[Servants of the Empire: Imperial Justice]]'' {{C|Appears in newscast}}
+*{{Rebels|Call to Action}} {{1stp}} {{Hologram}}
+*''[[Battle to the End]]'' {{Voice}}
+*''[[Star Wars Rebels: The Siege of Lothal]]'' {{Hologram}}
+*{{Rebels|Secret Cargo}} {{Hologram}}
+*{{Rebels|The Occupation}} {{Voice}}
+*{{Rebels|DUME}} {{Voice}}
+*''[[Battlefront II: Inferno Squad]]'' {{Hologram}}}}
+
+==Sources==
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|alton-kastle|Alton Kastle|archivedate=20170911100157}}
+*{{Databank|holonet-news|HoloNet News|archivedate=20170824132240}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Alton Kastle#kanon
+|es=Alton Kastle
+|ja=アルトン・キャッスル
+|nl=Alton Kastle
+|ru=Альтон Кастл
+}}
+
+{{DEFAULTSORT:Kastle, Alton}}
+[[Category:HoloNet News personnel]]
+[[Category:Humans]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Personnel of the Galactic Empire]]

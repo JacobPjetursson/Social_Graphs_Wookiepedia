@@ -1,0 +1,130 @@
+{{Eras}}
+{{Update|[[Better the Devil You Know, Part I]], [[Destroyer Down]]}}
+{{Character
+|type=
+|image=[[File:Zuvio Cropped Head.png]]
+|name=Zuvio
+|homeworld=
+|birth=
+|death=
+|species=[[Kyuzo]]<ref name="High Noon">{{Shortstory|story=High Noon on Jakku|book=Tales from a Galaxy Far, Far Away: Aliens: Volume I}}</ref>
+|gender=[[Sexes|Male]]<ref name="High Noon" />
+|height=1.6 [[meter]]s<ref name="Constable Zuvio">{{Databank|constable-zuvio|Constable Zuvio|archivedate=20170504203332}}</ref>
+|mass=70 [[kilogram]]s<ref name="TFA head to head">''[[Star Wars: The Force Awakens: Head-to-Head]]''</ref>
+|hair=
+|eyes=[[Color|Yellow]]<ref name="High Noon" />
+|skin=Gray<ref name="High Noon" />
+|cyber=
+|era=
+|affiliation=[[Niima Outpost Militia]]<ref name="High Noon" />
+|masters=
+|apprentices=}}
+{{Quote|I don't want to do this, Seezee. No one else has to be hurt. Not me&hellip;and not you. Drop the blaster&hellip;''"<br />"''I'm sorry sir, but I have no other option.|Constable Zuvio faces off against CZ-1G5|High Noon on Jakku}}
+'''Zuvio''' was a [[Kyuzo]] [[Sexes|male]] [[Law enforcement agency|lawman]] who lived approximately thirty [[Standard year|years]] after the [[Battle of Endor]] and served as the [[constable]] of [[Niima Outpost]], a frontier trading post on the otherwise lawless [[planet]] [[Jakku]]. Zuvio headed both the [[Niima Outpost Militia]] and the [[Office of the Constable]] and distributed justice when necessary alongside [[Deputy|deputies]] [[Drego]] and [[Streehn]]. At some point, Zuvio investigated the robbery of a [[starship]] owned by the [[Kubaz]] [[Rikard Lovas]], which appeared to have been conducted by the constable office [[secretary droid]] [[CZ-1G5]].
+
+Battling a posse of other droids along the way, Zuvio tracked CZ-1G5 across the Jakku [[desert]] and confronted the [[droid]], which ended in a shootout between the two&mdash;CZ-1G5 crumpled to the ground after being beaten by Zuvio's draw. However, the droid had actually been reprogrammed as a fall guy for the real culprit: Lovas. The Kubaz's scheme was foiled and Zuvio sentenced Lovas to life in prison for his crimes against the citizenry of Niima Outpost while CZ-1G5 was reinstated at the Office of the Constable.
+
+Sometime afterwards, Zuvio and a deputy were conducting business in the Niima marketplace when [[First Order]] [[TIE/fo space superiority fighter|TIE/fo starfighters]] [[Escape from Jakku|attacked]] the outpost while tracking a fugitive droid.
+
+==Biography==
+===Constable of Jakku===
+Zuvio was a [[Kyuzo]] [[Sexes|male]] who at some point came to live on the [[planet]] [[Jakku]] in the fledgling [[Niima Outpost]]. As the need for structure rose from the dust, so did too, the need for someone to police the actions of the beings who were unconcerned with victimizing their fellow settlers. As such, Zuvio was thrust into the position of [[constable]], which saw him as the head of both the [[Office of the Constable]] and the [[Niima Outpost Militia]]. Zuvio's two cousins&mdash;[[Drego]] and [[Streehn]]&mdash;became his [[Deputy|deputies]], whose jobs included patrols. Zuvio's job often kept him busy with only a handful of downtime at his disposal. His work included the monitoring of incoming and departing [[starship]]s, cases of theft and assault, interrogation of ship [[captain]]s, and paperwork.<ref name="High Noon" />
+
+Because of his role as constable, one of Zuvio's perks was part-time use of Niima's [[CZ unit|CZ]] [[secretary droid]] [[CZ-1G5]]. Despite CZ-1G5's age&mdash;Zuvio estimated him to be roughly three-hundred years old&mdash;the [[droid]] was impressively fast with his work, and made Zuvio's paperwork that much easier. The droid also accommodated Zuvio's archaic preference for paper stock over digital documents. Over time, Zuvio came to consider CZ-1G5 the closest thing he had to a friend.<ref name="High Noon" />
+
+===The great starship robbery===
+====A fistful of credits====
+{{Quote|Constable! I demand to know what is happening here!''"<br />"''It's a robbery.|Rikard Lovas demands answers from Zuvio regarding his damaged ship|High Noon on Jakku}}
+[[File:Niima outpost militia kyuzo.jpg|thumb|right|225px|Constable Zuvio served the Niima Outpost for several years, having been thrust into the position by the other Niima settlers.]]
+On a notably hot day for Jakku, Zuvio was managing paperwork without CZ-1G5, as the droid was nowhere to be found. When CZ-1G5 did show up, Zuvio found the droid's lateness and behavior unusual, but before he could investigate further, an explosion occurred outside of the office. Zuvio rushed to the scene alone where he found a damaged [[bank]]ing ship that belonged to the [[Kubaz]] [[Banker/Canon|banker]] [[Rikard Lovas]], who regularly appeared on Jakku to manage [[Currency|financial]] transactions of [[credit]]s for the [[Western Reaches Exchange]] and the people of Niima.<ref name="High Noon" />
+
+By the time Zuvio reached the scene, Drego and Streehn were already investigating the explosion. Zuvio assigned the deputies to crowd control as Lovas personally confronted the Niima constable about the damage done to his ship. After a quick inspection of the ship, Zuvio found that the cargo hold was emptied and that the [[Computer core/Canon|computer core]] held no financial records at all. Constable Zuvio's jurisdiction: the ship had been robbed. Although Lovas claimed that such a task was impossible due to the core's encryption, Zuvio noticed that the core used the exact same kind of encryption module that was located in his own office. Zuvio quickly suspected CZ-1G5&mdash;who was equipped to access such modules&mdash;due to the droid's earlier behavior. When the constable returned to his office CZ-1G5 was gone, having taken the office's weapon supply and a [[speeder bike]] with him.<ref name="High Noon" />
+
+Zuvio grabbed the only weapon he had left, a small [[blaster pistol]], and planned to take the office's second speeder into the [[desert]] to look for the rogue secretary droid. Knowing that CZ-1G5 could not afford to buy his way off of the planet with a ship in Niima, Zuvio believed that the droid's only logical direction was an abandoned [[smuggler]]s camp that was used to hide ships and avoid docking fees. Constable Zuvio contacted his deputies and ordered them forward any evidence they acquired for the robbery investigation to his personal comm system before he embarked into the Jakku wastelands. However, Zuvio was puzzled as to why CZ-1G5 was suddenly betraying the Niima community.<ref name="High Noon" />
+
+====The good, the bad, and the rusty====
+{{Quote|Those droids back at the old farmhouse. I guess I'm supposed to think that was your gang? That you just turned bad after all these years?''"<br />"''That's certainly what has occurred. I have been a very bad droid.|Zuvio questions CZ-1G5 the latter's supposed droid posse|High Noon on Jakku}}
+CZ-1G5's trail was easy to spot for the seasoned lawman, as the office speeders hugged the ground when they flew and left distinct patterns in the sand. The trail led to an abandoned [[freighter]] that had been hastily converted into a two story [[moisture farm]] by residents that had long since moved on. While nearing the compound, Zuvio realized that he made the error of underestimating the droid's intelligence. Slamming on the brakes, Zuvio barely escaped a rogue, rusted [[BD-3000 luxury droid]] [[Skirmish at the abandoned Jakku moisture farm|sniping at him]] from the farmhouse with a [[Czerka-93U hunting rifle]]; the rifle was one of the weapons CZ-1G5 had stolen before his flight from Niima. Zuvio jumped from the speeder and evaded a second shot which destroyed the [[repulsorcraft]]. Discovering that his [[comlink]] was jammed, Zuvio hid to avoid a third shot from his distant assailant. However, Zuvio now had the upper hand.<ref name="High Noon" />
+
+Aware of the weapon being used against him, the four-shot weapon had only one round left to fire, after which it would take three-seconds to reload the weapon's cartridge. In addition, the weapon was equipped with a faulty aftermarket targeting computer which suffered from Jakku's grit. The only reason Zuvio never bothered to replace it was because he did not require its use; the Kyuzo had excellent long-range vision. Gambling, Zuvio stood and threw sand into the air to deliberately mess with the targeting computer. As expected, the next shot missed, and Zuvio returned the favor with three shots from his own pistol. The luxury droid was violently incapacitated. However, a [[Hologlide J57 cam droid|J57 cam droid]] had spied on the exchange, and revealed itself to the constable when it made a getaway. Realizing that his adversaries were droids, Zuvio jumped from his hiding place and ran for the farmhouse. Another assailant tried to shoot him and failed, allowing Zuvio to reach the farmhouse's roof.<ref name="High Noon" />
+
+He kicked his way through a window on the second story where he encountered a larger droid force, including the broken-down [[astromech droid]] [[B33]], a [[RIC-series general labor droid/Legends|RIC-series general labor droid]], a [[WED Treadwell repair droid]], a [[DD-13 Medical Assistant Droid]], and an [[MSE series|MSE droid]]. Zuvio fought the lot of them, playing to their deficiencies and causing the droids to wipe themselves out. As Zuvio recovered from the melee he spotted CZ-1G5 running from the room and gave chase.<ref name="High Noon" />
+
+[[File:Constable Zuvio High Noon.png|thumb|left|250px|Constable Zuvio during the search for CZ-1G5]]
+Zuvio's chase was quickly cut short by an [[EG-6 power droid]] that had the constable office's supply of [[grenade]]s strapped to it. Zuvio ran back into the previous room and jumped through the same window he had entered as the suicidal power droid exploded. Injured and weary, Zuvio picked himself up from the ground when he noticed the heavily damaged, but online B33, whom Zuvio had kicked out of the window during their brawl. To his surprise, the droid had a restraining bolt, which meant that the droids were not rogue at all, but under someone else's influence.<ref name="High Noon" />
+
+Zuvio moved on, recalling that CZ-1G5 had also been wearing a foreign restraining bolt. CZ-1G5's sand-prints, which zigzagged across the sand, led the constable to his friend, who had otherwise ran out of places to run. Feeling sadness for the potential outcome of their inevitable face-off, Zuvio approached the droid. Yet, Zuvio considered the possibility that CZ-1G5 had been reprogrammed. Holstering his pistol, Zuvio called out to the droid, admitting that he hadn't inspected the droid close enough earlier in the day to notice the restraining bolt on the droid's chassis.<ref name="High Noon" />
+
+Compiling what he knew, Zuvio talked to the droid, trying to piece together CZ-1G5's turn, not believing that the droid simply turned bad and built a posse of droids himself. However, CZ-1G5 claimed that he had always been bad and that he had always been a bank robber, a claim that Zuvio also did not believe, since CZ-1G5 was not aware of what happened to the money records that vanished from the ship.<ref name="High Noon" />
+
+Confused and agitated, the droid warned the constable of possible violence as Zuvio attempted to close the gap between them. Eventually, Zuvio's questions inadvertently caused CZ-1G5 to reveal that the robbery's real mastermind was none other than Rikard Lovas, the banking ship's owner. Satisfied, Zuvio talked peace one last time before he was finally forced to shoot the droid [[Death|dead]].<ref name="High Noon" />
+
+===Case aftermath and later career===
+{{Quote|Take care of this for me, will you Seezee?''"<br />"''Of course, sir. Right away.|Zuvio and CZ-1G5 after the latter's reinstatement|High Noon on Jakku}}
+Zuvio returned to the Niima Outpost with CZ-1G5's carcass in tow, and arrived at the constable's office just in time to shoot down one Lovas' droids as it attacked his deputies. During Zuvio's absence, Drego and Streehn had also pieced together the crime's timeline and confronted Lovas about it personally. The Kubaz responded by trying to kill them with another "rogue droid." Lovas was arrested by the department and was sentenced to life in prison for his crimes against Niima and the constable's office, although Drego believed that the punishment was too light. The constable's office also helped itself to Lovas' personal bacta supply which used to treat those wounded in the bombing. The office also came to regard Lovas' plan as idiotic, as the laundering scheme could have been easily found out by the Niima government accountants. CZ-1G5 was rebuilt and went back to serving the Niima community alongside a repaired and reprogrammed B33. Little remorse was felt by either Zuvio or CZ-1G5 for Lovas's fate, and overall Zuvio felt that a day spent foiling a corrupt bankers plot was better than a quiet one.<ref name="High Noon" />
+
+Thirty [[Standard year|years]] after the [[Battle of Endor]], Constable Zuvio remained in the Niima outpost, heading the Niima Outpost Militia. After [[soldier]]s of the [[First Order]] [[Attack on Tuanul|attacked]] the Jakku [[City|village]] of [[Tuanul]], Zuvio was present in Niima the following day when scouting First Order [[Stormtrooper (First Order)|stormtroopers]] [[Escape from Jakku|gave chase]] to [[Rey|two]] [[Finn|individuals]] harboring a fugitive [[BB-8|droid]]. The fugitives ran past Zuvio and a deputy during their escape shortly before [[TIE/fo space superiority fighter|TIE/fo fighters]] opened fire on the outpost.<ref name="TFA">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+
+==Personality and traits==
+{{Quote|Was it Rikard Lovas? Did he put the bolt on you?''"<br />"''I cannot answer that, sir.''"<br />"''Sorry, Seezee. I think you just did.|Zuvio learns of the robbery's true culprit from CZ-1G5|High Noon on Jakku}}
+A Kyuzo of few words, Constable Zuvio had an unwavering sense of justice immune to bribery.<ref name="TVD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref> Honorable and tough,<ref name="Constable Zuvio" /> he worked his post to the best of his ability and built a reputation for himself in the Niima community. Despite this, Zuvio's office was still known to answer to the Niima [[junk boss]] [[Unkar Plutt]], an individual who controlled Niima through threats and strong arms. Zuvio also afforded a loyal demeanor to those close to him, as seen during his desperate attempts to turn CZ-1G5's against his modified programming. Zuvio regretted shooting the droid immediately thereafter, but he brought the droid back to Niima anyways to have him repaired, reprogrammed, and reinstated as a fixture in the Niima community, which allowed their friendship to continue. Constable Zuvio's trek after CZ-1G5 also proved Zuvio to be both resourceful and tenacious, having been able to play the attacking droids to their errors&mdash;when B33 accidentally latched its cable onto the DD-13 droid, Zuvio kicked the astromech droid out of a window, which snagged and pulled away the DD-13 as well&mdash;while ignoring the variety of injuries he sustained so that he could confront his friend and solve the case of the robbery. Zuvio was also able to piece together elements of the crime using what evidence he had, and successfully used reverse psychology to have CZ-1G5 reveal Lovas' hand in the robbery.<ref name="High Noon" />
+
+Zuvio was known to carry an expression of eternal disgruntlement due to his always furrowed brow and squinted [[eye]]s. However, this was merely a result of the Kyuzo having poor short-range vision that could be marginally improved by squinting. However, his farsightedness was excellent to the point that he did not require optics on weapons to improve his accuracy. His eyes also tended to be useful in watching out for signs of troubles, and locals who strayed to close to visiting starships could find themselves under Zuvio's concentrated glare.<ref name="High Noon" />
+[[File:Constable Zuvio Quadjumper XWM.png|right|thumb|250px|Constable Zuvio's personal quadjumper]]
+Constable Zuvio was a Kyuzo who stood 1.6 [[meter]]s tall and possessed yellow eyes and grayish-pink skin,<ref name="Constable Zuvio" /> though it was described as being just gray.<ref name="High Noon" />
+
+==Equipment==
+Constable Zuvio wore snug fabric clothing that covered most of his body and face as to protect his skin from the harsh Jakku environment.<ref name="High Noon" /> He wore green and red colored body-[[armor]] over it, which included shoulder plates, a breastplate, and gauntlets.<ref name="Constable Zuvio" /> He also adorned his head with a Kyuzo war helmet<ref name="High Noon" /> which shared the same colors as his body armor, just as at least two other members of the Niima militia wore similar body armor with matching war helmets.<ref name="Constable Zuvio" /> Zuvio's choice of weaponry included a small concealable blaster pistol and a large staff with a blade on it. He also kept a Czerka built rifle with an after market targeting computer. The computer was faulty, however, but Zuvio never thought to replace it as he was proficient with the weapon without the computer.<ref name="High Noon" /> He also carried a large backpack that had an antennae-like device sticking from the top of it.<ref name="Constable Zuvio" /> Zuvio owned a [[TUG-b13|quadjumper]] equipped with [[seismic charge]]s.<ref name="FFGXW">{{FFGXW|Quadjumper Expansion Pack||link=http://xwing-miniatures.wikia.com/wiki/Constable_Zuvio|cardname=Constable Zuvio&mdash;Quadjumper}}</ref>
+
+==Behind the scenes==
+{{Quote|There are three frames of him during the marketplace chase. Three frames. Autographs start at $60.|Pablo Hidalgo reveals Zuvio's brief role in the finished cut of ''The Force Awakens''|url= https://twitter.com/pablohidalgo/status/709441884721180673?ref_src=twsrc%5Etfw}}
+Constable Zuvio was created for the [[2015]] film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], the seventh installment of the episodic ''[[Star Wars]]'' films. Zuvio himself was first revealed in the film's preceding merchandising efforts, including two different action figures that were released on [[Force Friday]], a massive marketing push that took place on [[September 4]]. Zuvio's first appearance in the ''Star Wars'' canon, though, was in the short story "[[High Noon on Jakku]]" by author [[Landry Q. Walker]]. "High Noon on Jakku" was first released as an eBook on [[December 1]]. Zuvio finally appeared onscreen two weeks later on [[December 18]] when ''The Force Awakens'' premiered.
+
+Despite the pre-release material featuring Zuvio, the character's scenes ended up being largely cut from the film, and as such Zuvio only appears in roughly three frames of the film during the Niima Outpost chase scene.
+
+Zuvio developed a following among fans for having such a large marketing push despite being absent from the  majority of The Force Awakens. Originally, Zuvio would have broken up the fight between Rey and Unkar's thugs, then escorted Rey and BB-8 home while his lieutenants apprehended the thugs. In this early version of the script, Rey's encounter with Finn would have happened in a later scene.
+
+==Appearances==
+*[[Star Wars: Rivals|''Star Wars'': Rivals]]
+*{{Shortstory|story=High Noon on Jakku|book=Tales from a Galaxy Far, Far Away: Aliens: Volume I}} {{1st}}
+*{{Shortstory|story=All Creatures Great and Small|book=Tales from a Galaxy Far, Far Away: Aliens: Volume I}} {{Imo}}
+*{{Shortstory|story=True Love|book=Tales from a Galaxy Far, Far Away: Aliens: Volume I}} {{Mo}}
+*{{IDWAdventuresCite|1|[[Better the Devil You Know, Part I]]}}
+*{{Shortstory|story=Destroyer Down|book=Star Wars Adventures: Destroyer Down|bformatted=''Star Wars Adventures: Destroyer Down''}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]
+*''[[Rey's Survival Guide]]''
+
+===Non-canon appearances===
+*''[[Disney Infinity 3.0]]''
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*{{HasbroCite|set=Star Wars: The Force Awakens (toy line)|pack=Constable Zuvio|link=Constable-Zuvio-The-Force-Awakens-Hasbro.asp}}
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars: The Force Awakens: Incredible Cross-Sections]]''
+*{{Topps|set=Star Wars: The Force Awakens Series 1|cardname=Constable Zuvio}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Aliens of the Galaxy]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Adventures, Volume 1: Heroes of the Galaxy]]''
+*{{FFGXW|Quadjumper Expansion Pack||link=http://xwing-miniatures.wikia.com/wiki/Constable_Zuvio|cardname=Constable Zuvio&mdash;Quadjumper}}
+*{{Databank|constable-zuvio|Constable Zuvio|archivedate=20170504203332}}
+
+==Notes and references==
+{{Imagecat|Images of Zuvio}}
+{{Reflist}}
+
+{{Interlang
+|de=Zuvio
+|it=Zuvio
+|nl=Zuvio
+|ja=ズヴィオ
+|pl=Zuvio
+|ru=Зувио
+|es=Zuvio
+}}
+
+[[Category:Kyuzo]]
+[[Category:Males]]
+[[Category:Police]]

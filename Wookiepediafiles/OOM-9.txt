@@ -1,0 +1,55 @@
+{{Eras}}
+{{Droid
+|image=[[File:OOM-9.JPG]]
+|name=OOM-9
+|homeworld=
+|birth=
+|death=[[32 BBY]], [[Naboo]]<ref name="Episode I">[[Star_Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|creator=
+|manufacturer=[[Baktoid Combat Automata]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|line=[[B1 battle droid]]<ref name="Ultimate Star Wars" />
+|model=[[OOM command battle droid]]<ref name="Ultimate Star Wars" />
+|class=[[Battle droid]]<ref name="Episode I" />
+|degree=
+|cost=
+|length=
+|width=
+|height=1.91 [[meter]]s<ref name="SWE">{{SWE|technology|battledroid|Battle droid|archivedate=20140106201856}}</ref>
+|mass=
+|gender=[[Sexes|Masculine programming]]<ref name="Episode I" />
+|sensor=
+|plating=
+|armament=
+|equipment=[[Electrobinoculars]]<ref name="Episode I" />
+|era=
+|affiliation=*[[Trade Federation]]<ref name="Episode I" />
+**[[Trade Federation Droid Army]]<ref name="Episode I" />}}
+{{Quote|Open fire!|OOM-9|Star Wars: Episode I The Phantom Menace}}
+'''OOM-9''' was an [[OOM command battle droid]] that led the [[battle droid]] [[Trade Federation Droid Army|army]] of the [[Trade Federation]] during the [[Invasion of Naboo]].<ref name="Episode I" /> After [[Jedi Master]] [[Qui-Gon Jinn]] and his [[Obi-Wan Kenobi|apprentice]] returned from [[Coruscant]] with [[Queen]] [[Padmé Amidala|Amidala]] and gained the help of the [[Gungan Grand Army]], OOM-9 was sent, with the [[Trade Federation Droid Army|Trade Federation's Droid Army]] to destroy the [[gungan]]s. He oversaw the battle while inside his own personal [[Armored Assault Tank]] and was able to create a victory for the Federation, but this was short lived, as OOM-9 and the rest of the battle droids were shut down when [[Anakin Skywalker]] destroyed the [[Lucrehulk-class Battleship|Droid Control Ship]] above [[Naboo]].
+
+{{Droid-stub}}
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+
+===Non-canon appearances===
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+
+==Sources==
+*{{SW|url=explore/the-movies/episode-i/|text=Star Wars: Episode I - The Phantom Menace}}
+*{{SWE|characters|nutegunray|Nute Gunray}}
+*''[[Star Wars: Force Collection]]''
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars: On the Front Lines]]''
+*{{SW|url=databank/aat-battle-tank-history-gallery|text=AAT Battle Tank History Gallery|archivedate=20170711233332}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ru=OOM-9/Канон
+}}
+
+[[Category:Masculine programming]]
+[[Category:OOM command battle droids]]
+[[Category:Trade Federation members]]

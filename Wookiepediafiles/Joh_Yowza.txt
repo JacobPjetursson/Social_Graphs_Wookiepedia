@@ -1,0 +1,54 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Yowza.png]]
+|name=Joh Yowza
+|homeworld=[[Endor]]<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref>
+|birth=
+|death=
+|species=[[Yuzzum]]<ref name="Joh Yowza">{{Databank|joh-yowza|Joh Yowza}}</ref>
+|gender=[[Sexes|Male]]<ref name="Joh Yowza" />
+|height=1.4 [[meter]]s<ref name="Joh Yowza" />
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=
+|era=
+|affiliation=[[Max Rebo Band]]<ref name="Joh Yowza" />
+|masters=
+|apprentices=}}
+'''Joh Yowza''' was a [[Sexes|male]] [[Yuzzum]] performer for the [[Max Rebo Band]]. He often performed duets with [[Sy Snootles]].<ref name="Joh Yowza" /> Shortly before the [[Battle of Endor]], Yowza and the rest of the band performed at [[Jabba Desilijic Tiure|Jabba]] the [[Hutt|Hutt's]] [[Jabba's Palace|palace]] on the [[planet]] [[Tatooine]].<ref name="ROTJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref> Among Jabba's courtiers, there were many people who disliked Yowza's voice and dreamed of silencing him brutally. The Hutt, however, appeared to like the Yuzzum singer, and Jabba's opinion was the only one that mattered in his palace.<ref name="beware">''[[Return of the Jedi: Beware the Power of the Dark Side!]]''</ref>
+
+{{Char-stub}}
+
+==Behind the scenes==
+Joh Yowza was added to the extended musical number in the [[The Star Wars Trilogy Special Edition|Special Edition]] of ''[[Star Wars: Episode VI Return of the Jedi|Return of the Jedi]]''.
+
+==Appearances==
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}} {{C|Introduced in ''[[The Star Wars Trilogy Special Edition|Special Edition]]''}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+
+==Sources==
+*{{SW|url=films/star-wars-episode-vi-return-of-the-jedi|text=''Star Wars Episode VI: Return of the Jedi''}}
+*{{SWE|locations|jabbaspalace|Jabba the Hutt's palace|archivedate=20140508052205}} {{C|First identified, simultaneous with {{SWE|characters|sysnootles|Sy Snootles|archivedate=20140222212552}}}}
+*{{SWE|characters|sysnootles|Sy Snootles|archivedate=20140222212552}} {{C|First identified, simultaneous with {{SWE|locations|jabbaspalace|Jabba the Hutt's palace|archivedate=20140508052205}}}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]'' {{Po}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|joh-yowza|Joh Yowza}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ja=ジョー・ヤウザ
+}}
+
+{{DEFAULTSORT:Yowza, Joh}}
+[[Category:Males]]
+[[Category:Max Rebo Band members]]
+[[Category:Yuzzum]]

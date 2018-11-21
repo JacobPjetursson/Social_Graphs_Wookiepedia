@@ -1,0 +1,195 @@
+{{Eras}}
+{{Update|[[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]}}
+{{Character
+|type=CIS
+|image=[[File:Nute Gunray SWE.png]]
+|name=Nute Gunray
+|homeworld=[[Neimoidia]]<ref name="SWJ1">''[[Star Wars Journeys: The Phantom Menace]]''</ref>
+|birth=
+|death=[[19 BBY]], [[Mustafar]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|species=[[Neimoidian]]<ref name="SWENuteGunray">{{SWE|characters|nutegunray|Nute Gunray}}</ref>
+|gender=[[Sexes|Male]]<ref name="SWENuteGunray" />
+|height=1.91 [[meter]]s<ref name="SWENuteGunray" />
+|mass=90 [[kilogram]]s<ref name="SWJB">''[[Star Wars Journeys: Beginnings]]''</ref>
+|hair=
+|eyes=[[Color|Red]]<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|skin=Green<ref name="Episode I" />
+|cyber=
+|era=
+|affiliation=*[[Trade Federation]]<ref name="Episode I" />
+*[[Sith]] {{C|reluctantly}}<ref name="Episode I" />
+*[[Confederacy of Independent Systems]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+**[[Separatist Council]]<ref name="Episode III" />
+|masters=
+|apprentices=}}
+{{Quote|I never risk my own skin if I don't have to.|Nute Gunray, to [[Ahsoka Tano]]|audio=NeverRiskMyOwnSkin-CoD.ogg|Cloak of Darkness}}
+'''Nute Gunray''' was a [[Neimoidian]] [[Sexes|male]] who served as the [[Viceroy of the Trade Federation|Viceroy]] of the [[Trade Federation]] and a high-ranking member of the Separatist [[Confederacy of Independent Systems]] and chairman of the [[Separatist Council]]. Gunray led the Trade Federation through its [[Invasion of Naboo|invasion]] of the [[planet]] [[Naboo]], at the behest of the [[Sith Lord]] [[Darth Sidious]]&mdash;who was secretly Sheev Palpatine, the [[Senator]] of Naboo, and who had engineered the conflict to be elected [[Supreme Chancellor]]. The Federation invasion was repelled and Gunray was arrested, but he avoided prison after four trials in the [[Supreme Court]].
+
+Ten years later, Gunray had become a member of the Separatist Alliance, pledging Federation military support for the impending war against the [[Galactic Republic]]. After the outbreak of the [[Clone Wars]], Gunray was the most influential member of the Separatist leadership, and attempted to bring worlds such as [[Rodia]] into the Separatist cause. By the end of the war, which had been manipulated by Darth Sidious from both sides, the Separatists were in disarray following the deaths of their political leader, the Sith Lord [[Count]] [[Dooku]] and cyborg [[General]] [[Grievous]]. The surviving Separatist council members lead by Gunray sought protection on [[Mustafar]], where they and Gunray were [[Mission to Mustafar|killed]] by [[Anakin Skywalker|Darth Vader]] at the behest of Darth Sidious. Gunray was the last council member to be killed by [[Skywalker's lightsaber|Vader's lightsaber]] which had ultimately brought an end to the [[Clone Wars]] and fragmented the CIS into various [[Separatist holdouts]], in which they were represented by various ununited [[warlord]]s across the [[The galaxy|galaxy]].
+
+==Biography==
+===The Naboo Crisis===
+[[File:Sith Lords Trade Federation.png|thumb|left|250px|Viceroy Gunray (left) and Rune Haako (right) conferring with Darth Sidious and Darth Maul.]]
+Nute Gunray was serving as [[Viceroy]] of the [[Trade Federation]] during the [[Invasion of Naboo|Naboo Crisis]]. The Crisis had arisen as a result of a dispute between the Trade Federation and the [[Galactic Republic]] relating to the taxation of trade routes to outlying systems. At the instigation of the [[Sith Lord]] [[Darth Sidious]]&mdash;secretly [[Naboo (people)|Naboo]] [[Senator]] [[Darth Sidious|Palpatine]]&mdash;the Trade Federation decided to force a resolution to the dispute by blockading the planet [[Naboo]] with a fleet of [[Lucrehulk-class LH-3210 cargo freighter|modified battleships]], cutting off all shipping to the planet. Gunray commanded the blockade itself from his flagship ''[[Saak'ak]]'', a [[Lucrehulk-class Battleship|Droid Control Ship]]. In response to the Naboo Crisis, [[Supreme Chancellor]] [[Finis Valorum]] dispatched two Jedi, the [[Jedi Master]] [[Qui-Gon Jinn]] and his [[Padawan]] [[Obi-Wan Kenobi]], to negotiate a peaceful resolution to the dispute.<ref name="Episode I" />
+
+Viceroy Gunray allowed the Jedi emissaries to land their ship ''[[Radiant VII]]'' in the ''Saak'ak{{'s}}'' hangar bay. After learning that the emissaries were Jedi, Gunray and the ship's [[captain]] [[Daultay Dofine]] panicked and contacted Darth Sidious via [[Hologram]]. Sidious ordered Gunray to kill the two Jedi and to invade the planet Naboo, claiming that he would "make the invasion legal" in the [[Galactic Senate]]. Under Gunray's orders, the emissary's ship ''Radiant VII'' was destroyed and poison gas was released into the reception room hosting the two Jedi. Gunray also dispatched a squad of [[Security Battle Droid]]s to finish off the Jedi. However, the two Jedi managed to survive the poisoning and quickly dispatched the battle droids. Shortly later, Gunray was contacted by the Naboo [[Monarch of Naboo|Queen]] [[Padmé Amidala]], who refused to sign a treaty with the Trade Federation.<ref name="Episode I" />
+
+The two Jedi emissaries then attempted to breach the ''Saak'ak{{'s}}'' command bridge but were driven away by [[droideka]]s. Despite the threat posed by the Jedi, Gunray still proceeded with the invasion. However, he ordered his [[OOM command battle droid|battle droid commanders]] to be on the look out for the two Jedi. [[C-9979 landing craft]] were used to land the Trade Federation's droid army on Naboo, which then proceeded to occupy the capital [[Theed]] and other major centers. The Trade Federation's droid army succeeded in occupying Naboo with little resistance and managed to capture Queen Amidala and her entourage. Following the occupation of Theed, Gunray visited the captured Queen herself and reiterated his demand that she sign a treaty with the Federation. When she refused, he ordered his battle droids to send her to [[Camp Four]].<ref name="Episode I" />
+
+Gunray suffered a setback when the two Jedi and a local [[Gungan]] guide named [[Jar Jar Binks]] managed to free the Queen and her entourage, and escape offworld. Meanwhile, Viceroy Gunray and his lieutenant [[Rune Haako]] presided over the occupation of Naboo from the [[Theed Royal Palace]]. Under his orders, Naboo's population were forced into slave camps where they experienced starvation and hardship. In Amidala's absence, Gunray attempted to force [[Governor]] [[Sio Bibble]] to sign the treaty with the Trade Federation but the Governor refused to back down. In the Galactic Senate on [[Coruscant]], the Trade Federation's Senator [[Lott Dod]] managed to block Queen Amidala and Senator Palpatine's efforts to request Republic intervention in Naboo. However, Queen Amidala, at the instigation of Palpatine, managed to outmanoeuvre the Trade Federation by calling for a vote of no confidence against Chancellor Valorum.<ref name="Episode I" />
+
+[[File:Gunray captured.png|thumb|right|275px|Nute Gunray and Rune Haako captured by Queen Amidala and her troops.]]
+As the occupation deepened, Viceroy Gunray ordered the droid army to move against the Gungans, Naboo's amphibious indigenous civilization, who lived in underwater bubble cities like [[Otoh Gunga]]. Facing little resistance, the Trade Federation removed most of their fleet from Naboo with the exception of the Droid Control Ship ''Saak'ak''. The diminished Trade Federation naval presence enabled Queen Amidala, her entourage, her Jedi allies, and Binks to land their [[Naboo Royal Starship|starship]] on Naboo. Queen Amidala managed to rally the Naboo resistance and to forge an alliance with the Gungan leader [[Boss]] [[Rugor Nass]]. Seeking to drive out the Trade Federation, Amidala devised a three-pronged battle plan which involved the [[Gungan Grand Army]] marching on Theed to draw away the droid army. Meanwhile, Naboo forces under Amidala and her Jedi allies would infiltrate Theed and capture the Viceroy. Naboo forces would also capture the hangar bay at the royal palace and use their [[N-1 starfighter]]s to destroy the Droid Control Ship, incapacitating the droid army.<ref name="Episode I" />
+
+In response to this renewed threat from Amidala and the Jedi, Darth Sidious dispatched his [[Sith apprentice]] [[Maul|Darth Maul]] to reinforce Viceroy Gunray. After receiving reports that the Gungan Grand Army was marshaling outside Theed, Darth Sidious ordered Viceroy Gunray and Haako to send the droid army to wipe out the Gungan forces. During the [[Battle of Naboo]], Gunray commanded the Trade Federation's forces from the safety of the Theed Royal Palace. With the bulk of the droid army preoccupied with the Gungans, Queen Amidala and her Jedi allies were able to infiltrate the Royal Palace and secure the N-1 starfighters, which proceeded to launch a starfighter strike on the ''Saak'ak''. While Master Qui-Gon and his Padawan Kenobi took on Darth Maul in a [[lightsaber duel]], Queen Amidala's forces fought their way through the Royal Palace.<ref name="Episode I" />
+
+Gunray's droidekas managed to capture Queen Amidala and some her party and brought them into the throne room, where Gunray reiterated his demand that she sign a treaty with the Trade Federation. However, the Queen's disguised handmaiden arrived in the throne room with reinforcements, confusing Gunray and his battle droid bodyguards. The Naboo managed to disable Gunray's bodyguards and take the Viceroy and his lieutenant captive. Meanwhile in space, [[Anakin Skywalker]] destroyed the Droid Control Ship with a missile fired from his starfighter. This effectively disable the entire Federation droid army; turning the tide of the battle decisively in favor of the Naboo and their Gungan allies. Meanwhile, Kenobi managed to seemingly kill Darth Maul but lost his Master Qui-Gon, who succumbed to injuries inflicted by Darth Maul. With the defeat of the Federation's droid army, Viceroy Gunray and Rune Haakao surrendered to the Naboo. They were then transported to Coruscant to face trial for their crimes on Naboo.<ref name="Episode I" />
+
+===The Clone Wars===
+====The Separatist Crisis====
+[[File:Count Dooku and the Separatist Council members Nute Gunray Poggle the Lesser Wat Tambor and San Hill.jpg|thumb|251x251px|left|Gunray with Dooku and other members of the Separatist Council on Geonosis.]]
+Despite being subjected to four trials in the Galactic Republic's [[Supreme Court]], Viceroy Gunray escaped imprisonment and remained leader of the Trade Federation. Ten years after the events of the Naboo Crisis, Nute Gunray and the Trade Federation joined the growing [[Separatist Crisis|Secessionist Movement]] under the leadership of the charismatic [[Count]] [[Dooku]]; a former [[Jedi]] who had become Darth Tyranus, Darth Sidious' new Sith apprentice. The Secessionist Movement was a confederation of a thousand star systems and corporations that were dissatisfied with the rampant taxation and excessive corruption within the Galactic Republic. This movement later developed into the [[Confederacy of Independent Systems]].<ref name="Episode II" />
+
+Nute Gunray agreed to join the Separatists in return for one concession: that his old adversary Amidala, now a Senator in the Galactic Senate, be killed as revenge for his capture during the Naboo Crisis. Count Dooku agreed and arranged for the bounty hunters [[Jango Fett]] and [[Zam Wesell]] to assassinate the Senator. The bounty hunters launched two unsuccessful attempts which only drew the [[Jedi Order]]'s attention to the existence of a [[Grand Army of the Republic|clone army]] being created on the planet [[Kamino]]. While pursuing Jango Fett Obi-Wan Kenobi, now a [[Jedi Knight]], discovered that a droid army was being constructed for the Separatists on the desert planet [[Geonosis]].<ref name="Episode II" />
+
+[[File:Dooku Gunray arena.png|thumb|250px|Viceroy Gunray (center), Count Dooku, and Rune Haako at the Petranaki arena.]]
+On Geonosis, Viceroy Gunray, Rune Haako, and the leaders of several powerful commmerce guilds attended a secret meeting with Count Dooku where they pledged their support for the Separatist Movement. With their new droid army, the Separatists hoped they could mount a successful challenge against the Republic and their Jedi defenders. Shortly later, Kenobi along with Senator Amidala and Anakin Skywalker were captured by [[Geonosian]] security forces following a skirmish in the Geonosian droid factory. After Amidala and her companions were sentenced to death and forced to fight in the [[Petranaki arena]], a delighted Gunray attended the proceedings, accompanied by Haako, Count Dooku, the Geonosian leader [[Poggle the Lesser]], Jango Fett, and his son [[Boba Fett]]. Gunray's hopes for revenge against Senator Amidala were dashed when the Senator and her Jedi allies managed to fight off the arena creatures&mdash;a [[nexu]], a [[reek]], and an [[acklay]]&mdash;and the Geonosian guards.<ref name="Episode II" />
+
+Gunray and his Separatist allies suffered another blow when Jedi and [[Clone trooper]] forces under Masters [[Mace Windu]] and [[Yoda]] attacked the Petranaki arena. During the ensuing [[Battle of Geonosis]], Viceroy Gunray and his Separatist allies oversaw the battle from a secure bunker. The Separatist deployed their Droid Army which proved inferior to the Republic's Clone troopers. With the battle turning in favor of the Grand Army of the Republic and their Jedi commanders, Gunray and the other Separatist leaders fled Geonosis. This battle marked the spark of the [[Clone Wars]], a galactic-wide conflict between the Republic and the Confederacy of Independent Systems.<ref name="Episode II" />
+
+====Capture on Rodia====
+{{Quote|The Separatist leader Nute Gunray has promised to support us with a very generous relief effort. Neh-soo-bo-wah. He is giving us food, ships, and protection.''"<br />"''Nute Gunray cannot be trusted. He will bring war to your system just as he did to mine many years ago.''"<br />"''I am afraid I have already done what I must for my people.|Onaconda Farr and Padmé Amidala|Bombad Jedi}}
+[[File:Nute777.png|thumb|250px|Nute Gunray on Rodia with his battle droids.|left]]
+Following the Battle of Geonosis, Nute Gunray turned his attention to the [[Mid Rim]] world of [[Rodia]]. The planet had been attacked by [[pirate]]s and Rodia's Senator [[Onaconda Farr]] had appealed to Viceroy Gunray for help. The Viceroy agreed to send relief supplies to Rodia in return for one small favor: kidnapping his long-time foe Senator Amidala. Farr was a close friend of the Naboo Senator and called her to Rodia under the pretext of seeking aid from the Republic for the [[Rodian]] people. Senator Amidala was escorted by her long-time friend Representative Jar Jar Binks and the [[protocol droid]] [[C-3PO]].<ref name="Bombad Jedi">{{TCW|Bombad Jedi}}</ref>
+
+Upon arriving, Senator Amidala and C-3PO were captured. After learning of her capture, Gunray ordered that she be manacled as a precaution before he traveled to Rodia to meet her. However, Gunray's plans encountered an unexpected obstacle in the form of Binks, who managed to elude the Viceroy's battle droids and trick them into believing that he was a Jedi. In the midst of the commotion, Amidala and C-3PO managed to escape and contact the Republic for assistance before they were recaptured by Gunray's battle droids. After arriving on Rodia, Gunray applied pressure on Senator Farr by withholding relief supplies until Senator Amidala was executed. When Senator Farr protested, Gunray responded that the planet was now under his protection.<ref name="Bombad Jedi" />
+
+After Gunray's droid forces had recaptured Senator Amidala and C-3PO, he assembled a trio of droidekas to execute them. Before Gunray could carry out the sentence, Binks and a [[Kwazel Maw]] monster that he had befriended named "[[Bogey (Kwazel Maw)|Bogey]]" burst out from the swamp and overwhelmed the droidekas. The Viceroy attempted to flee aboard his [[Sheathipede-class transport shuttle|''Sheathipede''-class transport shuttle]] but "Bogie" knocked it into the swamp. He was then held by Senator Amidala at gunpoint. Shortly later, Senator Farr arrived and revealed that he and Senator Amidala had planned to trap Gunray all along. Shortly later, Republic forces arrived and took Gunray into custody.<ref name="Bombad Jedi" />
+
+====Escape from Republic custody====
+[[File:GunrayBribery-CoD.png|thumb|250px|A captive Gunray attempts to bribe Commander Gree.]]
+Following the events on Rodia, the captive Viceroy Gunray was transferred aboard the [[Venator-class Star Destroyer|''Venator''-class Star Destroyer]] ''[[Tranquility]]'' for trial on Coruscant. Due to his high status in the Confederacy, the [[Jedi High Council|Jedi Council]] dispatched the Jedi Master [[Luminara Unduli]] and Anakin's [Padawan [[Ahsoka Tano]] to guard Gunray. The two Jedi were reinforced by a squad of [[Senate Guard]]s led by Captain [[Faro Argyus]] and a squad of Clone troopers led by [[Clone Commander|Commander]] [[CC-1004|Gree]]. In response to Gunray's capture, Darth Sidious and his apprentice Count Dooku dispatched the [[Dathomirian]] [[Dark side of the Force|dark side]] [[assassin]] [[Asajj Ventress]] to infiltrate the ''Tranquility'' and rescue the Trade Federation Viceroy.<ref name="Cloak of Darkness">{{TCW|Cloak of Darkness}}</ref>
+
+While in captivity, Gunray was interrogated by Unduli and Tano but refused to cooperate. When a frustrated Tano threatened the Viceroy, Master Unduli chastised the younger Jedi. Their interrogation was interrupted by the arrival of Separatist attack force consisting of [[Variable Geometry Self-Propelled Battle Droid, Mark I|Vulture droids]] and three Separatist boarding ships. While Separatist droids boarded the ''Tranquility'', Ventress took advantage of the chaos to sabotage the ship's [[power generator]]s. After Unduli departed with several Clone troopers to fight the intruders, Ventress managed to overpower Ahsoka and free Gunray. Before Gunray could escape with the dark side warrior, Master Luminara returned to the cell and fought with Ventress in the ship's elevator shaft and generator room.<ref name="Cloak of Darkness" />
+
+While Luminara was dueling with Ventress, Gunray was locked in his cell with Tano and Captain Argyus standing guard. Unknown to the Republic and Jedi, Argyus was a traitor who was secretly working for Count Dooku. When Ahsoka departed the brig to help Luminara, Argyus took the opportunity to overpower his fellow commandos and free Gunray. Commander Gree managed to overpower Argyus but was knocked in the head by Gunray. The Viceroy and his rescuer then escaped on a Republic ship in the lower hangar and were joined by Ventress, who had escaped her Jedi foes in an [[escape pod]]. Gunray was present when Ventress killed Argyus by impaling him through the chest with her [[lightsaber]].<ref name="Cloak of Darkness" />
+
+====Assisting General Grievous====
+Following his escape, Nute Gunray assisted Count Dooku to lure Jedi Master [[Kit Fisto]], and Jedi Knight [[Nahdar Vebb]], and several Clone troopers into a trap at [[General]] [[Grievous]]'s [[Grievous's fortress|fortress]] on [[Vassek]]. Count Dooku wanted General Grievous to prove his worth to the Separatist cause by killing the intruders. As part of the plot, a hologram of Gunray was used to taunt his Jedi and Republic pursuers. Shortly later, the Jedi and Clone troopers were [[Mission to Vassek 3|attacked]] by Grievous. Nahdar Vebb and all the Republic clones present on the mission, with the exception of Fisto, were killed.<ref name="Lair of Grievous">{{TCW|Lair of Grievous}}</ref>
+
+====Working with Cad Bane====
+Under Darth Sidious' orders, Viceroy Gunray dispatched several Trade Federation [[Munificent-class star frigate|''Munificent''-class star frigates]] to assist the Separatist [[bounty hunter]] [[Cad Bane]] on the planet [[Devaron]]. Bane had stolen a Jedi [[Kyber memory crystal]], which contained information of value to Sidious, and kidnapped the Jedi Master [[Bolla Ropal]]. Despite Bane's successes, Gunray was furious to learn that Bane had lost four ''Munificent'' frigates to Republic forces during the [[Battle of Devaron]]. When the Neimoidian demanded compensation, Bane promised that Darth Sidious would compensate the Viceroy once the crystal had been opened.<ref name="Cargo of Doom">{{TCW|Cargo of Doom}}</ref>
+
+After Bane killed Ropal for refusing to open the crystal, the bounty hunter managed to kidnap Anakin's apprentice Ahsoka Tano during a skirmish aboard [[Cad Bane's Munificent-class star frigate|his ''Munificent'' frigate]]. Taking Ahsoka hostage, Bane was able to force Anakin to open the memory crystal. After extracting the desired information from the memory crystal, Bane escaped and reported his success to Gunray, who offered to send him a rescue ship if he disclosed the data from the crystal. However, Bane refused and insisted on sending the information directly to Darth Sidious. Bane escaped into space as the last ship in Gunray's fleet was destroyed.<ref name="Cargo of Doom" />
+
+====Last Days of the Clone Wars====
+[[File:Sep council.png|thumb|250px|Gunray along with the Separatist Council on Utapau.|left]]
+Following the death of Count Dooku and the defeat of the Separatist fleet during the [[Battle of Coruscant]], Nute Gunray and the other leaders of the [[Separatist Council]] met with General Grievous on the planet [[Utapau]]. With the Republic closing in on the Separatist leadership, Grievous informed the Council that he was transferring them to the volcanic planet of [[Mustafar]] for their safety. Gunray responded by questioning the cyborg General's ability to protect them, citing Grievous' failure to capture Supreme Chancellor Palpatine on Coruscant. In the light of Dooku's death, Gunray doubted the General's ability to protect him and the other Separatist leaders. Angered by Gunray's complaints, Grievous remarked that the Viceroy should be thankful not to find himself in his grip before dismissing the Council, telling them that their ship was waiting.<ref name="Episode III" />
+
+===Death===
+{{Quote|The war is over! Lord Sidious promised us peace! We only want&mdash;AAAAAAAAAAAUGH!!!|Nute Gunray's last words, to Darth Vader|Star Wars: Episode III Revenge of the Sith}}
+[[File:TheDeathofNuteGunray.png|thumb|250px|Gunray is slaughtered by the newly christened Darth Vader along with the rest of the Separatist Council on Mustafar.]]
+After seducing Anakin Skywalker to the dark side and initiating the [[Jedi Purge]], Darth Sidious dispatched his new apprentice, now called Darth Vader, to Mustafar to kill Gunray and the other Separatist leaders. Sidious also informed the Separatist leaders of Darth Vader's arrival but claimed that he had come to make peace with them. After Vader landed, Gunray greeted the Sith apprentice, who then proceeded to shut the blast doors and execute the Separatist Council with his lightsaber. The Trade Federation Viceroy was the last to be slain. As Vader cornered Gunray, he told the Sith apprentice that the war was over and that Sidious had promised them peace. However, Darth Vader ignored Gunray's desperate pleas for mercy and proceeded to slash him across the chest with his lightsaber, killing him. The end of the Clone Wars also coincided with the transformation of the Galactic Republic into the first [[Galactic Empire]].<ref name="Episode III" /> Following Gunray's death, the Trade Federation and its assets were dissolved by the Empire.<ref name="Aftermath">''[[Aftermath]]''</ref>
+
+==Personality and traits==
+{{Quote|Don't shoot! I am an innocent pawn!|Nute Gunray, showing his cowardice|Cloak of Darkness}}
+As Viceroy of the Trade Federation, Nute Gunray was an avaricious and calculating business leader who was primarily concerned with maximizing profits and his own well-being. His opposition to the Galactic Senate's taxation of trade routes led him to impose a military blockade of the planet Naboo. Gunray wanted to force the-then Naboo Queen Padmé Amidala to sign a favorable treaty with the Trade Federation. His desire to achieve these goals led him to blockade and subsequently occupy Naboo, which generated much hostility towards both Gunray and the Federation. While the wider galactic public thought that the Viceroy's Invasion of Naboo was solely motivated by greed, few were aware that Gunray was being manipulated from behind the scenes by the Sith Lord Darth Sidious.<ref name="Episode I" />
+
+Due to Amidala's role in his defeat on Naboo, Gunray harbored a deep grudge towards the Naboo politician and made several attempts on her life in the years following the Invasion of Naboo. Gunray's vindictiveness towards Senator Amidala led him to pledge the Trade Federation's support to Count Dooku's emerging Confederacy of Independent Systems.<ref name="Episode II" /> As an opportunistic bully, Gunray used the Trade Federation's wealth to manipulate the Rodian Senator Onaconda Farr into luring Senator Amidala into a trap in return for sending much-needed aid to the planet Rodia. However, Farr and Amidala took advantage of Gunray's vindictiveness and opportunism to capture the Viceroy.<ref name="Bombad Jedi" />
+
+While Gunray preferred to leave most of the fighting to his battle droids, he was still capable of physical action when push came to shove. During an escape hatched by the traitorous [[Senate Commando]] [[Argyus]], Gunray assisted his rescuer by knocking out the Clone Commander Gree.<ref name="Cloak of Darkness" />
+
+==Behind the scenes==
+Nute Gunray was played by [[Silas Carson]] in all of the [[Prequel trilogy]] films. Carson also acted as Lott Dod, Jedi Master [[Ki-Adi-Mundi]], and [[Antidar Williams]] in ''[[Star Wars: Episode I The Phantom Menace|The Phantom Menace]]''. Gunray's back-story was subsequently expanded in several [[Star Wars Legends|Legends]] novels and comics. In [[Star Wars: The Clone Wars (TV series)|''The Clone Wars'']] television series, Gunray was voiced by [[Tom Kenny]].
+
+In a deleted scene of ''Attack of the Clones'', Gunray was going to assist to the judgement of Padmé Amidala and Anakin Skywalker. In the ''Revenge of the Sith'' original script, Gunray was set to hide under the table with Rune Haako. After Haako is killed by Skywalker in an attempt of escape, Gunray was going to call the droidekas and would try to escape, but finally, he would be decapitated by Anakin, who would have been destroyed the droidekas at that time. Although this scene was apparently deleted from the movie's script, it's possible that the scene was filmed but was cut.{{Fact}}
+
+Nute Gunray's name had two sources from real life: The first was the Republican congressman [[Wikipedia:Newt Gingrich|Newt Gingrich]], and the second was former President of the United States [[Wikipedia:Ronald Reagan|Ronald Reagan]]. The former source was because he primarily wrote the Trade Federation members in terms of motives and characterizations in response to the 1994 Republican Revolution (which occurred eight days into Lucas's draft-writing the film), specifically then-Speaker of the House Gingrich's ''Contract with America'',<ref name="Republican Revolution's ties to Trade Federation and TPM's plot">Chris Taylor. How Star Wars Conquered the Universe: The Past, Present Future of a Multibillion Dollar Franchise. New York, New York, USA: Basic Books, 2014-2015. Pp. 300-301. "Anyone sitting down to write a screenplay on November 1, 1994, as Lucas apparently did, would have been interrupted eight days into the writing process by one of the most seismic midterm in postwar American history. Republicans took the House and the Senate for the first time in 40 years. A resurgent GOP under House Speaker Newt Gingrich started pushing its tax-cutting, regulation-slashing 'Contract with America.' Democrats, whose messaging had improved since Ted Kennedy's "Star Wars" flub, started calling it a 'Contract On America."<br />"It was perhaps no co-incidence, then, that Lucas started writing about a "Trade Federation," aided and emboldened by corrupt politicians, embroiled in some sort of dispute over the taxing of trade to the outlying star systems. We never learn what the dispute is about -- whether the Trade Federation was pro- or anti-tax. But what we know is that the name of the leader of the Trade Federation -- never actually spoken in the movie, but noted in the script from the start -- was Nute Gunray. By 1997, when the GOP Senate leader was Trent Lott, Lucas named the Trade Federation's representative in the Galactic Senate: Lott Dodd. We're a long way from the subtlety of his [George Lucas's] [North] Vietnam metaphor here."</ref> and the latter source was as a response to Reagan's SDI program being labeled as "Star Wars" without Lucas' permission.<ref>http://www.americanpopularculture.com/archive/film/star_wars_reagan.htm</ref>
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*''[[Star Wars Journeys: The Phantom Menace]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars: Galactic Defense]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]] {{Flash}}
+*{{TCW|Supply Lines}} {{Mo}}
+*{{TCW|Rookies}} {{Flash}}
+*{{TCW|Bombad Jedi}}
+*{{TCW|Cloak of Darkness}}
+*{{TCW|Lair of Grievous}} {{Hologram}}
+*{{TCW|Cargo of Doom}} {{Hologram}}
+*{{TCW|The Zillo Beast}} {{C|Gunship art only}}
+*{{TCW|Senate Spy}} {{Flash}}
+*{{TCW|Sphere of Influence}} {{Mo}}
+*{{TCW|Hostage Crisis}} {{Flash}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+
+===Non-canon appearances===
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+*{{Droid Tales|Exit from Endor}} {{Flash}}
+*{{Droid Tales|Crisis on Coruscant (episode)|Crisis on Coruscant}} {{Flash}}
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+*{{SWE|characters|argyus|Captain Argyus}}
+*{{SWE|technology|neimoidianshuttle|Neimoidian escort shuttle}}
+*{{SWE|characters|nutegunray|Nute Gunray}}
+*{{SWE|characters|padmeamidala|Padmé Amidala}}
+*{{SWE|characters|siobibble|Sio Bibble}}
+*{{SWE|groups|tradefederation|Trade Federation}}
+*''[[Ultimate Star Wars]]''
+*[[Star Wars: Star Pilot (2015)|''Star Wars: Star Pilot'']] {{Po}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: I Am a Jedi]]'' {{Po}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Aliens of the Galaxy]]'' {{Po}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]''
+*''[[Star Wars: Galactic Atlas]]'' {{Po}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{Databank|captain-argyus|Captain Argyus|archivedate=20160823220521}}
+*{{Databank|confederacy-of-independent-systems|Confederacy of Independent Systems|archivedate=20170504153602}} {{Po}}
+*{{Databank|jar-jar-binks-biography-gallery|Jar Jar Binks biography gallery}}; image #10 {{C|of 29}}
+*{{Databank|nute-gunray|Nute Gunray}}
+*{{Databank|padme-amidala|Padmé Amidala}}
+*{{Databank|poggle-the-lesser|Poggle the Lesser}} {{Po}}
+*{{Databank|sio-bibble|Sio Bibble}}
+*{{Databank|trade-federation|Trade Federation}}
+*{{Databank|wat-tambor|Wat Tambor|archivedate=20170603221250}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|bg=Нют Гънрей
+|cs=Nute Gunray
+|da=Nute Gunray
+|de=Nute Gunray#kanon
+|el=Νιούτ Γκάνρεϊ
+|es=Nute Gunray
+|fr=Nute Gunray
+|hu=Nute Gunray
+|it=Nute Gunray
+|ja=ヌート・ガンレイ
+|nl=Nute Gunray
+|no=Nute Gunray
+|pl=Nute Gunray
+|pt=Nute Gunray
+|ru=Нут Ганрей/Канон
+|sv=Nute Gunray
+|uk=Нут Ґанрей
+|zh=紐特·岡雷
+}}
+
+{{DEFAULTSORT:Gunray, Nute}}
+[[Category:Business owners and executives]]
+[[Category:Males]]
+[[Category:Neimoidians]]
+[[Category:Separatist leadership]]
+[[Category:Sith minions]]
+[[Category:Trade Federation members]]

@@ -1,0 +1,57 @@
+{{Eras}}
+{{Character
+|type=CIS
+|image=[[File:LokDurd.png]]
+|name=Lok Durd
+|homeworld=[[Neimoidia]]<ref name="The Complete Season One">[[Star Wars: The Clone Wars The Complete Season One|''Star Wars: The Clone Wars'': The Complete Season One]]</ref>
+|birth=
+|death=
+|species=[[Neimoidian]]<ref name="Defenders of Peace">{{TCW|Defenders of Peace}}</ref>
+|gender=[[Sexes|Male]]<ref name="Defenders of Peace" />
+|height=2.11 [[meter]]s<ref name="Lok Durd">{{Databank|lok-durd|Lok Durd}}</ref>
+|mass=
+|hair=
+|eyes=[[Color|Yellow]]<ref name="Defenders of Peace" />
+|skin=Gray<ref name="Defenders of Peace" />
+|cyber=
+|era=
+|affiliation=*[[Confederacy of Independent Systems]]<ref name="Defenders of Peace" />
+**[[Separatist Droid Army]]<ref name="Defenders of Peace" />
+|masters=
+|apprentices=}}
+{{Quote|I am General Lok Durd of the Separatist Alliance. ''[&hellip;]'' You are now under the ''protection'' of the Separatist Alliance. I congratulate you on your good fortune.|Lok Durd to [[Tee Watt Kaa]]|audio=LokDurd1.ogg|Defenders of Peace}}
+'''Lok Durd''' was a [[Sexes|male]] [[Neimoidian]] arms developer who served as a [[general]] in the [[Separatist Droid Army]] during the [[Clone Wars]]. He was [[Defense of Maridun|defeated]] by [[Galactic Republic|Republic]] forces and was taken into Republic [[Prison|custody]].<ref name="Defenders">{{TCW|Defenders of Peace}}</ref> Durd, along with [[Nuvo Vindi]], were part of [[Lieutenant Commander]] [[Orson Callan Krennic|Orson Krennic's]] original plans for a [[prisoner]] exchange with the [[Confederacy of Independent Systems]] to secure the [[Rescue of Galen Erso|release]] of [[Galen Walton Erso|Galen Erso]], [[Lyra Erso]], and the baby [[Jyn Erso]] from imprisonment on [[Vallt]].<ref name="Catalyst">''[[Catalyst: A Rogue One Novel]]''</ref>
+
+{{Char-stub}}
+
+==Behind the scenes==
+{{Quote|We decided that going with this sort of really big, heavy, rolly guy with an even bigger hat than Nute Gunray's would just&hellip;would work, would sort of sell that this guy was extremely flamboyant and very bossy and even more gluttonous than your average Neimoidian.|Series Designer [[Kilian Plunkett]], on modeling Lok Durd|Star Wars: The Clone Wars The Complete Season One}}
+Lok Durd first appeared in "[[Defenders of Peace]]" from [[Star Wars: The Clone Wars (TV series)|''The Clone Wars'' television series]]. He was voiced by [[George Takei]], and was intended as a recurring villain, though this never came to pass.<ref name="NA">[http://www.newsarama.com/tv/010919-George-Takei.html NewsArama.com]</ref> Durd was never seen in any other episodes of ''The Clone Wars'', canceled in [[2013]] as part of a "new direction" for [[Lucasfilm Ltd.]]<ref name="New Direction">{{SW|url=news/a-new-direction-for-lucasfilm-animation.html|text=A New Direction for Lucasfilm Animation}}</ref>
+
+==Appearances==
+*{{TCW|Defenders of Peace}} {{1st}}
+*''[[Catalyst: A Rogue One Novel]]'' {{Mo}}
+
+==Sources==
+*{{SWE|technology|aattank|AAT battle tank}}
+*{{SWE|technology|defoliatortank|DDT tank}}
+*{{SWE|characters|lokdurd|Lok Durd}}
+*{{SWE|groups|lurmen|Lurmen}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{Databank|aat-battle-tank|AAT Battle Tank|archivedate=20170711224900}}
+*{{Databank|aayla-secura|Aayla Secura|archivedate=20170707040717}}
+*{{Databank|ddt-tank|DDT tank}}
+*{{Databank|lok-durd|Lok Durd}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ru=Лок Дурд/Канон
+|ja=ロク・ダード
+}}
+{{DEFAULTSORT:Durd, Lok}}
+[[Category:Males]]
+[[Category:Neimoidians]]
+[[Category:Separatist admirals and generals]]

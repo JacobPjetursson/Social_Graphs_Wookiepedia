@@ -1,0 +1,87 @@
+{{Eras|sprot}}
+{{Update|[[Before the Awakening]]}}
+{{Character
+|type=First Order
+|image=[[File:Nines no helmet.png]]
+|name=FN-2199<br />"Nines"
+|homeworld=
+|birth=
+|death=[[34 ABY]], [[Takodana]]<ref name="Databank">{{Databank|fn-2199|FN-2199|archivedate=20170806170054}}</ref>
+|species=[[Human]]<ref name="BTA">''[[Before the Awakening]]''</ref>
+|gender=[[Sexes|Male]]<ref name="BTA" />
+|height=
+|mass=
+|hair=[[Color|Red]]<ref name="BTA" />
+|eyes=Blue<ref name="BTA" />
+|skin=Light<ref name="BTA" />
+|cyber=
+|era=
+|affiliation=*[[First Order]]<ref name="BTA" />
+**[[FN Corps]]<ref name="BTA" />
+|masters=
+|apprentices=}}
+{{Quote|Traitor!|FN-2199, to Finn|Star Wars: Episode VII The Force Awakens}}
+'''FN-2199''', nicknamed "'''Nines'''," was a [[human]] [[Sexes|male]] [[Stormtrooper (First Order)|stormtrooper]] who served the [[First Order]] in the [[Standard decade|decades]] following the [[Galactic Civil War]]. He served alongside his friend and brother-in-arms, [[Finn|FN-2187]]. Following [[FN Corps|FN]]-2187's [[Deserter|desertion]], Nines confronted his former comrade at the [[Battle of Takodana]] where they fought each other in single combat. Accusing the former [[trooper]] of [[treason]], Nines gained the upper hand but was [[Death|fatally]] shot by [[Han Solo]] before he could kill FN-2187.
+
+==Biography==
+===Early life===
+FN-2199 was a [[Stormtrooper (First Order)|stormtrooper]] who served the [[First Order]] in the [[Standard decade|decades]] after the [[Galactic Civil War]]. Training in the [[FN Corps]] alongside [[FN-2000]] "Zeroes," [[FN-2003]] "Slip," and [[Finn|FN-2187]] "Eight-Seven," he took the nickname "Nines" because he liked the sound of it. They trained under [[Captain]] [[Phasma]], practicing in simulated combat for most of their lives. During their first deployment, the FN [[Corps]] was brought to the [[Pressy's Tumble refinery complex|mining facility]] in [[Pressy's Tumble]], an [[asteroid field]], and ordered to [[Death|kill]] the workers that had gone on [[Strike at Pressy's Tumble|strike]]. Initially reluctant, Nines followed as ordered once Slip and Zeroes opened [[fire]].<ref name="BTA" />
+
+===First Order–Resistance war===
+[[File:FN-2199 confronts Finn.png|left|thumb|300px|FN-2199 "Nines" confronted the traitor FN-2187 "Finn" during the Battle of Takodana.]]
+During the [[Cold war|conflict]] between the First Order and the [[New Republic|Republic]]-backed [[Resistance]], [[Kylo Ren]] of the [[Knights of Ren]] sought part of a [[Map to Skywalker|map]] that led to [[Jedi Master]] [[Luke Skywalker]], who had vanished [[Standard year|years]] earlier. The map was held by [[BB-8]], an [[astromech droid]] that the First Order tracked to the [[Maz Kanata's castle|castle]] of the [[pirate]] [[Maz Kanata]] on the [[planet]] [[Takodana]]. Nines was one of the [[soldier]]s in the [[division]] that followed Ren to Takodana where he attempted to acquire the [[droid]] in the early stages of the [[First Order–Resistance war|new galactic conflict]]. By then, FN-2187 [[Deserter|defected]] from the First Order after witnessing the [[Attack on Tuanul|massacre]] of [[Tuanul]] on [[Jakku]].<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+
+Nines encountered his old comrade,<ref name="Databank" /> who now went by the name of "Finn,"<ref name="Episode VII" /> during the [[Battle of Takodana|raid]] on Takodana. Utilizing a [[Z6 riot control baton]]<ref name="Databank" /> against a [[Jedi]] [[Skywalker's lightsaber|lightsaber]] wielded by Finn,<ref name="Episode VII" /> Nines attempted to subdue the former stormtrooper through single combat.<ref name="Databank" /> Although he gained the upper hand in their [[Lightsaber duel|duel]], knocking Finn to the ground with a direct hit to the torso,<ref name="Episode VII" /> Nines was ultimately [[Death|gunned down]] by [[Han Solo]],<ref name="Databank" /> who shot the unsuspecting [[trooper]] with [[Chewbacca]]'s [[Chewbacca's bowcaster|bowcaster]].<ref name="Episode VII" />
+
+==Personality and traits==
+Nines was a [[human]] [[Sexes|male]] who had [[Color|red]] [[hair]], blue [[eye]]s and light skin.<ref name="BTA" /> Trained since [[Reproduction|birth]],<ref name="Databank" /> he was a loyal soldier in the [[First Order military|armed forces]] of the First Order, to the point of executing civilians in spite of his own reluctance to carry out such an order.<ref name="BTA" /> Finn's desertion of the [[Stormtrooper Corps (First Order)|Stormtrooper Corps]] angered Nines, who denounced his former friend as a [[Treason|traitor]].<ref name="Databank" /> He discarded his [[F-11D blaster rifle]] and [[riot shield]], choosing to attack Finn with only a single [[melee weapon]].<ref name="Episode VII" />
+
+==Behind the scenes==
+FN-2199 was first introduced in the [[2015]] novel ''[[Before the Awakening]]'', written by [[Greg Rucka]].<ref name="BTA" /> He appeared in the [[2015]] film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']].<ref name="Episode VII" />
+
+FN-2199 was physically portrayed by veteran stuntman [[Liang Yang]], while his voice was provided by [[David Acord]], a sound editor for [[Skywalker Sound]].<ref name="SW.com TR-8R">{{SW|url=news/meet-fn-2199-a-k-a-tr-8r-the-stormtrooper-behind-the-meme/|text=Meet FN-2199, A.K.A. TR-8R: The Stormtrooper Behind the Meme}}</ref>
+
+His scene in the film, where he shouts "Traitor!" at Finn, led to him quickly becoming an internet sensation shortly after its release. Before his official name was given, fans had labeled the character as "'''TR-8R'''." Because of his popularity among fans, FN-2199 became the star of many internet memes.<ref name="SW.com TR-8R" />
+
+In the free-roam mode of ''[[LEGO Star Wars: The Force Awakens]]'', FN-2000 appears on Takodana and is seen mourning FN-2199's passing during the battle. FN-2000 provides the player with a side mission, in which he asks the player to retrieve FN-2199's stun baton, which has been stolen by mercenaries residing on Takodana. Completing that mission awards the player with a gold brick.<ref name="Lego Star Wars">''[[LEGO Star Wars: The Force Awakens]]''</ref>
+
+==Appearances==
+*''[[Before the Awakening]]'' {{1stID}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*''[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]''
+*''[[Star Wars: The Force Awakens: A Junior Novel]]''
+*''[[The Force Awakens: Finn's Story]]''
+*[[The Force Awakens (Golden Book)|''The Force Awakens'' Golden Book]] {{Po}}
+*''[[Chaos at the Castle]]''
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part IV]]''
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*{{SW|url=news/meet-fn-2199-a-k-a-tr-8r-the-stormtrooper-behind-the-meme/|text=Meet FN-2199, A.K.A. TR-8R: The Stormtrooper Behind the Meme}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|first-order-riot-control-stormtroopers|First Order Riot Control Stormtroopers|archivedate=20170810044243}} {{Po}}
+*{{Databank|fn-2199|FN-2199|archivedate=20170806170054}}
+*{{Databank|z6-riot-control-baton|Z6 Riot Control Baton}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SW|url=news/poll-who-is-your-favorite-character-introduced-in-star-wars-the-force-awakens|text=Poll: Who is Your Favorite Character Introduced in ''Star Wars: The Force Awakens''?}}
+
+{{Interlang
+|de=FN-2199#kanon
+|el=FN-2199
+|es=FN-2199
+|ja=FN-2199
+|ka=FN-2199
+|nl=FN-2199
+|pl=FN-2199
+|ru=FN-2199
+}}
+
+[[Category:First Order stormtroopers]]
+[[Category:Males]]

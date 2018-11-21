@@ -1,0 +1,76 @@
+{{Eras}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Karbin the cyborg.jpg]]
+|name=Karbin
+|homeworld=
+|birth=
+|death=[[0 ABY]], [[Vrogas Vas]]<ref name="Vader Down 6">''[[Darth Vader 15: Vader Down, Part VI]]''</ref>
+|species=[[Mon Calamari]]<ref name="Darth Vader 5">''[[Darth Vader 5: Vader, Part V]]''</ref>
+|gender=[[Sexes|Male]]<ref name="Darth Vader 6">''[[Darth Vader 6: Vader, Part VI]]''</ref>
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Yellow]]<ref name="Darth Vader 5" />
+|skin=Brown mottle<ref name="Darth Vader 5" />
+|cyber=[[Cyborg|Cybernetic]] body<ref name="Darth Vader 6" />
+|era=
+|affiliation=[[Cylo Directive]]<ref name="Darth Vader 6" />
+|masters=[[Cylo]]<ref name="Darth Vader 6" />
+|apprentices=}}
+{{Quote|I'm glad you ''didn't'' die without knowing it was Karbin who engineered your doom. And who shall rise ascendant from your ashes.|Karbin, to Darth Vader|Star Wars 14: Vader Down, Part V}}
+'''Karbin''' was a [[Sexes|male]] [[Mon Calamari]] who served as a [[commander]] during the [[Clone Wars]]. Towards the end of the conflict, his [[starship]] was damaged, causing Karbin considerable and untreatable injuries. After the incident, he spent the next eighteen [[Standard year|years]] on [[life support]], the final two of which he spent being enhanced with a [[Cyborg|cybernetic]] body inspired by that of the [[Death|late]] [[General]] [[Grievous]] by [[Doctor]] [[Cylo]] and trained to replace [[Anakin Skywalker|Darth Vader]], [[Galactic Emperor|Emperor]] [[Darth Sidious|Palpatine's]] [[Sith apprentice]].
+
+==Biography==
+===Reconstruction===
+{{Quote|This is Commander Karbin. You may remember him from the Separatist War. His ship was lost towards the end. Considerable injuries. Untreatable. He spent the last eighteen years on life support. He spent the last ''two'' being enhanced.|Doctor Cylo|Darth Vader 6: Vader, Part VI}}
+[[File:Enhanced Karbin.png|left|thumb|250px|Karbin's cybernetic enhancements]]
+[[Commander]] Karbin fought in the [[Clone Wars]] until [[Sexes|his]] [[Starship|ship]] was lost towards the end of the conflict, which resulted in him receiving considerable injuries that were considered to be untreatable. He spent the next eighteen [[Standard year|years]] on [[Life support/Legends|life support]]<ref name="Darth Vader 6" /> in a [[Medcenter|medical center]],<ref name="Darth Vader 8">''[[Darth Vader 8: Shadows and Secrets, Part II]]''</ref> and during the final two of which he was given a [[Cybernetics|cybernetic]] body inspired by that of the [[Death|late]] [[General]] [[Grievous]] by [[Doctor]] [[Cylo]].<ref name="Darth Vader 6" />
+
+His cybernetic body has two arms which can split to reveal another pair, giving him four arms. He can wield up to 4 lightsabers at once, just as his predecessor General Grievous did.
+
+===Meeting Vader===
+[[File:Blasphemy to the force itself.jpg|right|thumb|250px|Karbin and his contemporaries meet Darth Vader.]]
+Shortly after the [[Battle of Yavin]], Darth Vader discovered [[Cylo's research base]] and discovered Karbin and Cylo's other potential replacements for Vader. Vader was prevented from killing Cylo when the Emperor intervened.<ref name="Darth Vader 5" /> Cylo then had Karbin and the others battle Vader to demonstrate their abilities to the Emperor.<ref name="Darth Vader 6" />
+
+===Tracking Luke Skywalker===
+[[Grand General]] [[Cassio Tagge]] assigned Karbin to track down the Rebel pilot who destroyed the [[DS-1 Orbital Battle Station|Death Star]].<ref name="Darth Vader 8" /> While Vader was assigned another mission, he was personally pursuing the pilot for his own reason: the pilot was in fact his son [[Luke Skywalker]]. Vader learned that Luke was on the planet [[Vrogas Vas]]. However, Karbin planned an ambush to eliminate Vader.<ref name="Darth Vader 12">''[[Darth Vader 12: Shadows and Secrets, Part VI]]''</ref>
+
+===Battle of Vrogas Vas===
+Darth Vader crashed on Vrogas Vas and fought Rebel forces there. In the middle of the [[Battle of Vrogas Vas|battle]], the Rebel leader [[Leia Organa]] sent a [[Amber Wing|squadron]] of bombers to eliminate Vader, however they were shot down by Karbin's forces as he landed on the planet.<ref name="Vader Down 4">''[[Darth Vader 14: Vader Down, Part IV]]''</ref> While Karbin's forces attacked the Rebels, Karbin personally dueled Vader, believing that with four [[lightsaber]]s against Vader's one, he would be victorious. Using [[the Force]], Vader got the upper hand on Karbin and severed one of his arms.<ref name="Vader Down 5">''[[Star Wars 14: Vader Down, Part V]]''</ref> Eventually, Vader lured Karbin onto a natural bridge made of rock and had his minion Doctor [[Chelli Lona Aphra|Aphra]] crash her ship, the ''[[Ark Angel]]'', into him. Karbin barely survived the impact, and was executed shortly after by Vader. In his last moments of life, he realized that Vader had a personal reason for pursuing Luke, but never knew what it was.<ref name="Vader Down 6" />
+
+{{Char-stub}}
+
+==Appearances==
+*''[[Darth Vader 4: Vader, Part IV]]'' {{C|First mentioned; albeit indirectly}}
+*''[[Darth Vader 5: Vader, Part V]]'' {{1st}}
+*''[[Darth Vader 6: Vader, Part VI]]'' {{1stID}}
+*''[[Darth Vader 7: Shadows and Secrets, Part I]]'' {{C|Indirectly mentioned only; in the opening crawl}}
+*''[[Darth Vader 8: Shadows and Secrets, Part II]]''
+*''[[Darth Vader 10: Shadows and Secrets, Part IV]]'' {{Imo}}
+*''[[Darth Vader 12: Shadows and Secrets, Part VI]]''
+*''[[Vader Down, Part I]]'' {{Mo}}
+*''[[Darth Vader 14: Vader Down, Part IV]]''
+*''[[Star Wars 14: Vader Down, Part V]]''
+*''[[Darth Vader 15: Vader Down, Part VI]]''
+*''[[Darth Vader 16: The Shu-Torun War, Part I]]'' {{Corpse}}
+*''[[Darth Vader 20: End of Games, Part I]]'' {{Hologram}}
+*''[[Darth Vader 21: End of Games, Part II]]'' {{Mo}}
+*''[[Darth Vader 22: End of Games, Part III]]'' {{Mo}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Karbin#kanon
+|es=Karbin
+|fr=Karbin
+|ja=カービン
+|pl=Karbin
+|ru=Карбин
+}}
+
+[[Category:Cyborgs]]
+[[Category:Males]]
+[[Category:Mon Calamari]]
+[[Category:Officers of the Galactic Empire]]

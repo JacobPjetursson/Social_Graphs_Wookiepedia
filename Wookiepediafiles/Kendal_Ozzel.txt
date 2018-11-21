@@ -1,0 +1,140 @@
+{{Eras}}
+{{Update|[[Star Wars Book XI: Hope Dies]]}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Ozzel.jpg]]
+|name=Kendal Ozzel
+|homeworld=[[Carida]]<ref name="UltimateSW">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[3 ABY]], ''[[Executor]]'', [[Hoth system]]<ref name="ESB">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+|species=[[Human]]<ref name="SWE">{{SWE|characters|admiral-ozzel|Admiral Ozzel}}</ref>
+|gender=[[Sexes|Male]]<ref name="SWE" />
+|height=1.75 [[Imperial standard meter|meters]]<ref name="SWE" />
+|mass=
+|hair=[[Color|Blond]], later gray<ref name="ESB" />
+|eyes=Blue<ref name="ESB" />
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="charencupdated">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+**[[Republic Navy]]<ref name="charencupdated" />
+*[[Galactic Empire]]<ref name="ESB" />
+**[[Joint Chiefs]]<ref name="Tarkin">''[[Tarkin (novel)|Tarkin]]''</ref>
+**[[Death Squadron]]<ref name="ESB" />
+**[[Imperial Officer Corps]]<ref name="ESB" />
+|masters=
+|apprentices=}}
+{{Quote|He is as clumsy as he is stupid.|Darth Vader, referring to Kendal Ozzel|Star Wars: Episode V The Empire Strikes Back}}
+'''Kendal Ozzel''' was a [[human]] [[Sexes|male]] [[officer]] who served the [[Galactic Republic]] and the [[Galactic Empire]] in turn. [[Reproduction|Born]] on the [[planet]] [[Carida]] prior to the [[Proclamation of the New Order|rise]] of the Empire, he served in the [[Republic Navy]] as a [[Republic officer|commissioned officer]] during the [[Clone Wars]]&mdash;a civil war fought in [[the galaxy]] during the [[Fall of the Republic|last years]] of the Republic. After the war, his [[Imperial Military|military]] [[Imperial officer|career]] would continue under the [[New Order|new regime]] established by [[Galactic Emperor|Emperor]] [[Darth Sidious|Sheev Palpatine]].
+
+As an [[admiral]], Ozzel was the commanding officer of the ''[[Executor]]''&mdash;an [[Imperial Navy]] [[Executor-class Star Dreadnought|''Executor''-class Star Dreadnought]] and the [[flagship]] of the [[Sith Lord]] [[Anakin Skywalker|Darth Vader]]&mdash;at the [[time]] of the [[Galactic Civil War]]. In the [[Standard year|year]] [[3 ABY]], he oversaw the initial [[Battle of Hoth|attack]] on [[Hoth]] after the Empire discovered the location of the [[Alliance to Restore the Republic|Rebel Alliance's]] [[Echo Base|secret base]], but was [[Force choke|summarily executed]] by way of [[the Force]] as a result of Vader's displeasure in the admiral's fundamentally incompetent tactics. Following Ozzel's [[death]], his [[Military rank|rank]] and command were awarded to his [[captain]], [[Firmus Piett]], by the [[Dark Lord of the Sith|Dark Lord]].
+
+==Biography==
+===Early service===
+{{Quote|We have thousands of probe droids searching the galaxy. I want proof, not leads!|Admiral Ozzel|Star Wars: Episode V The Empire Strikes Back}}
+A [[Sexes|male]] [[human]] [[Reproduction|born]] into a wealthy family from [[Carida]], Kendal Ozzel attended multiple [[Core Worlds|Core World]] institutes in his youth. Eventually, he graduated and became a [[Captain of the Line]]. However, his superiors did not see him fit to serve as an effective field [[commander]], and he was relegated to teaching positions for a while.<ref name="SWCT">{{Topps|set=Star Wars: Card Trader|sformat=''Star Wars'': Card Trader|cardname=Admiral Ozzel - Imperial Officer|link=http://starwarscardtrader.wikia.com/wiki/Admiral_Ozzel_-_Imperial_Officer}}</ref>
+
+Ozzel served for a [[time]] in the [[Republic Navy]] during the [[Clone Wars]].<ref name="charencupdated" /> Eventually, he ended up serving in the [[Imperial Navy|navy]] of the [[Galactic Empire]]. In [[14 BBY]], he held the rank of [[Rear Admiral]], and was a member of the [[Joint Chiefs]].<ref name="Tarkin" />
+
+===Admiralship===
+[[File:Tagge's death.jpg|thumb|left|250px|Ozzel witnesses Tagge's death at Vader's hand, a fate he would one day share.]]
+Following the [[Battle of Yavin|destruction]] of the First [[DS-1 Orbital Battle Station|Death Star]], he had become an [[Admiral]]. He personally issued a communique to the Imperial Starfleet ordering the fleet to enter battle readiness.<ref name="Smuggler's Run">''[[Smuggler's Run: A Han Solo & Chewbacca Adventure]]''</ref> After this occurred the [[Hijacking of the Executor|Hijacking of the ''Executor'']], in which the [[Sith Lord]] [[Anakin Skywalker|Darth Vader]] dispatched the [[scientist]] [[Cylo]], who had attempted to steal the [[Executor-class Star Dreadnought|''Executor''-class Star Dreadnought]] ''[[Executor]]''. The [[Super Star Destroyer|SSD]] was originally designed to be given to [[Grand General]] [[Cassio Tagge]], however, [[Darth Sidious|the]] [[Galactic Emperor|Emperor]] demoted him to [[General]], and gave the ''Executor'' to Vader, due to Tagge's trust of Cylo. Vader [[The Force|force]] [[Force choke|choked]] Tagge on his new [[command ship]]'s [[Bridge (starship)|bridge]] in front of Ozzel. Vader asked him when the ''Executor'' would be ready, and gave him two [[Standard week|weeks]], after Ozzel replied he needed a [[Standard month|month]].<ref name="DV 25">''[[Darth Vader 25: End of Games, Part VI]]''</ref> After [[Captain]] [[Magna Tolvan]] [[Raid at the Great Temple|failed]] to capture [[Chelli Lona Aphra]], who was investigating the [[Great Temple (Yavin 4)|Great Temple]], Ozzel contacted the captain, and warned her that Vader would be less forgiving of failure than Cassio Tagge, her former commanding officer.<ref name="DA 4">''[[Doctor Aphra 4: Aphra, Part IV]]''</ref>
+
+===Weeds in a storm===
+Sometime later, Ozzel along with [[General]] [[Maximillian Veers|Veers]] traveled to the planet Mustafar to meet with Darth Vader at [[Fortress Vader|his castle]]. As the Sith Lord looked out over the Mustafar landscape, the admiral relayed how the Death Star's destruction had galvanized the rebellion. Resources for the Empire's construction projects were being delayed and what Rebel forces there were where too scattered and well hidden to make effective progress against. Ozzel went on to suggest that a fleet carrying out a world-by-world bombardment would serve as a suitable deterrent and told Vader that the Death Squadron had to be the force that applying the bombarment. Just as he was saying it was ludicrous to not use the fleet, Vader interrupted him by questioning the admrial's usage of the word ludicrous.<ref name="Shu-Torun Lives">{{Shortstory|story=Shu-Torun Lives|book=Star Wars 50: Hope Dies, Part I}}</ref>
+
+After apologizing, Ozzel went on to question how they could elimate the Rebels comparing them to vermin. General Veers then spoke up and contradicted the Admrial, comparing the Rebels to weeds which angered Ozzel. Ozzel kept his gaze on Veers as the general explained how weeds survive storms and how the Rebellion would continue to survive Imperial attacks as they were flexible and not sturdy as a tree. Turning his attention back to Vader, Ozzel addressed the Sith Lord after he showed interest in what Veers had said.<ref name="Shu-Torun Lives" />
+
+===Searching for the Rebel base===
+{{Quote|You are in command now, Admiral Piett.''"<br />"''Thank you, Lord Vader.|Vader promotes Piett shortly after killing Ozzel|Star Wars: Episode V The Empire Strikes Back}}
+[[File:YouSuckPiett-ESBHD.jpg|thumb|260px|Ozzel and Piett preparing for the attack on Hoth.]]
+He later became the commanding [[Imperial officer|officer]]<ref name="ESB" /> of the [[Death Squadron]], an armada of Imperial [[Starship|vessels]]<ref name="ISD-SWE">{{SWE|technology|imperialstardestroyer|Imperial Star Destroyer}}</ref> tasked with locating the [[Alliance to Restore the Republic|Alliance's]] hidden main base in the aftermath of the Battle of [[Yavin]], though the [[fleet]] was under the ''de facto'' control of Vader. In his capacity as admiral of the fleet, Ozzel led [[Death]] [[Squadron]] from Vader's [[flagship]], the ''Executor''.<ref name="ESB" /> As he had been assigned to oversee the Empire's search for the Rebel headquarters, Ozzel felt that he was the perfect being to command the massive [[warship]] during the [[Hunting|hunt]].<ref name="SWE" /> During his time as the senior [[officer]] aboard the ''Executor'', Ozzel took time to personally congratulate [[Lieutenant Commander]] [[Ciena Ree]], a young officer whose service had been outstanding for the past two [[Standard year|years]]. After commending Ree for her dedication, the admiral implied that she might obtain a promotion to the rank of Commander soon enough.<ref name="Lost Stars">''[[Lost Stars]]''</ref>
+
+The Empire dispatched thousands of [[probe droid]]s throughout [[the galaxy]] to participate in the search for the Rebel base, one of which discovered signs of an [[Echo Base|occupied settlement]] on the [[Water|ice]] [[planet]] [[Hoth]]. Before being destroyed by Rebel [[Captain]] [[Han Solo]], the [[droid]] relayed its data to the ''Executor'', where it was reviewed by Admiral Ozzel, his subordinate, Captain [[Firmus Piett]], and General [[Maximillian Veers]] of the [[Imperial Army]]. Piett cited the data as their best lead in the search, but Ozzel dismissed the information as lacking definitive proof of any Rebel presence. Nevertheless, Vader overruled him and ordered the fleet to make haste to the [[Hoth system]] to deal with the Rebels headquartered there.<ref name="ESB" />
+
+As Vader withdrew to his [[Darth Vader's meditation chamber|private quarters]], Ozzel assumed command of the fleet's maneuvering and pre-battle strategy. Believing he could surprise and overwhelm the Rebels, Ozzel opted to have the [[Star Destroyer]]s of Death Squadron emerge from [[hyperspace]] directly above Hoth. The Alliance detected their arrival immediately, but the tactic did not shock them as Ozzel had planned, for the presence of the probe droid had made them suspect that the Empire had discovered their base. Before Death Squadron could initiate an [[orbital bombardment]], the Rebels activated the base's [[Deflector shield|shield]], which was powerful enough to deflect any [[laser]] barrage unleashed by the Imperial warships; even the full firepower of the ''Executor'' wouldn't be able to breach it.<ref name="ESB" />
+
+[[File:Ozzel croaks.jpg|thumb|left|250px|Vader personally saw to it that Ozzel's tactical blunder at Hoth was his last mistake.]]
+General Veers reported this development to Vader, who voiced his disapproval at the admiral's tactical blunder as they would now be forced to deploy [[troop]]s and equipment into a costly ground battle rather than simply annihilate the Rebels from [[Realspace|space]]. The [[Sith]] Lord opened a [[Viewscreen|channel]] to Ozzel on the ''Executor''{{'s}} bridge and, before an oblivious Ozzel could report on the situation, began telekinetically strangling the admiral in full view of Captain Piett and others. Citing the tactical decision as Ozzel's final failure, Vader executed the pompous and inept officer and simultaneously promoted Piett to take his place as admiral, bestowing the title at the exact moment Ozzel's still-twitching corpse hit the floor. The Empire went on to win the [[Battle of Hoth]] despite Ozzel's actions.<ref name="ESB" />
+
+==Personality and traits==
+{{Quote|Lord Vader, the fleet has moved out of lightspeed, and we're preparing to&hellip;''"<br />"''You have failed me for the last time, Admiral.|Ozzel reports to Vader, mere moments before his execution|Star Wars: Episode V The Empire Strikes Back}}
+Standing 1.75 [[meter]]s tall, Admiral Kendal Ozzel was a smug and arrogant man who fancied himself the obvious choice to command the ''Executor''. In his position as the ranking officer of Darth Vader's Death Squadron, he often tested the Sith Lord's patience by challenging his orders<ref name="SWE" /> and making foolish tactical decisions.<ref name="ESB" /> Ozzel's subordinate, the ambitious Captain Piett, had nothing but contempt for the admiral, whom he considered incompetent.<ref name="Piett-SWE">{{SWE|characters|admiral-piett|Admiral Piett}}</ref> Ultimately, Ozzel's personality, combined with his blunder in the opening stages of the Battle of Hoth, persuaded Vader to immediately&mdash;and permanently&mdash;remove him from command.<ref name="ESB" />
+
+A man of science and warfare, Ozzel did not think much of Darth Vader's use of the Force, which the admiral regarded as vulgar hocus-pocus. Despite that, Ozzel was still terrified of Vader, like most other officers. Ambitious young captains like Firmus Piett annoyed him; in particular, Ozzel thought Piett was entirely too enthusiastic, as if everything he said might have proved sufficient for a promotion.<ref name="SYWtBaJ?">''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''</ref>
+
+==Behind the scenes==
+Admiral Ozzel appeared in [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']], released in [[1980]]. In his two brief scenes, he was portrayed by the Scottish actor [[Michael Sheard]].<ref name="ESB" />
+
+According to Sheard himself, he didn't audition for the role of Ozzel. Instead, he was sent the ''Empire'' script by the casting director. By the time he finished his work on the [[1979]] film ''[[Wikipedia:Escape to Athena|Escape to Athena]]'', his name was up on the casting's board for the role of Ozzel.<ref name="MS.com Interview">[https://web.archive.org/web/20060108003425/http://michaelsheard.com:80/interviews/johnj.htm John Jagwani Interviews Michael Sheard] on [http://michaelsheard.com MichaelSheard.com] {{C|Web archive}}</ref>
+
+In the reference book ''[[Ultimate Star Wars]]'', Ozzel's first name was mistakenly spelled as "Kendel" instead of "Kendal".<ref name="Pablo Hidalgo Twitter">{{Twitter|pablohidalgo|status/710136823515881472|[[Pablo Hidalgo]]|quote=@LelalMekha It should be Kendal. Unfortunately, I think this stubborn typo made it's way into the Character Encyclopedia too.|image=File:Kendel_vs_Kendal.png|noimage=}}</ref>
+
+==Appearances==
+*''[[Tarkin (novel)|Tarkin]]''
+*''[[Lost Stars]]''
+*[[Lost Stars (webcomic)|''Lost Stars'' webcomic]]
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*''[[Star Wars: Commander]]''
+*''[[Smuggler's Run: A Han Solo & Chewbacca Adventure]]'' {{Mo}}
+*''[[Darth Vader 25: End of Games, Part VI]]''
+*''[[Doctor Aphra 4: Aphra, Part IV]]'' {{Hologram}}
+*{{Shortstory|story=Shu-Torun Lives|book=Star Wars 50: Hope Dies, Part I}}
+*''[[Star Wars 50: Hope Dies, Part I]]''
+*''[[Star Wars 51: Hope Dies, Part II]]''
+*''[[Star Wars 52: Hope Dies, Part III]]''
+*''[[Star Wars 54: Hope Dies, Part V]]''
+*''[[Star Wars 55: Hope Dies, Part VI]]''
+*''[[Star Wars: Forces of Destiny—Leia]]''
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+
+==Sources==
+*{{SWE|characters|admiral-ozzel|Admiral Ozzel}}
+*{{SWE|characters|admiral-piett|Admiral Piett}}
+*{{SWE|characters|darthvader|Darth Vader}} {{Imo}}
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*{{Topps|set=Star Wars: Card Trader|sformat=''Star Wars'': Card Trader|cardname=Admiral Ozzel - Imperial Officer|link=http://starwarscardtrader.wikia.com/wiki/Admiral_Ozzel_-_Imperial_Officer}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{Databank|admiral-ozzel|Admiral Ozzel|archivedate=20170623041918}}
+*{{Databank|admiral-piett|Admiral Piett|archivedate=20170623041911}}
+*{{Databank|executor|Executor|archivedate=20170415203122}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SW|url=news/star-wars-in-the-uk-star-wars-monthly-issues-159-165|text=''Star Wars'' In The UK: ''Star Wars Monthly'' Issues 159 – 165}}
+
+{{Interlang
+|cs=Kendal Ozzel
+|de=Kendal Ozzel#kanon
+|el=Κένταλ Οζέλ
+|es=Kendal Ozzel
+|fr=Kendal Ozzel
+|hu=Kendal Ozzel
+|it=Kendal Ozzel
+|ja=ケンダル・オッゼル
+|ko=켄달 오젤
+|nl=Kendal Ozzel
+|pl=Kendal Ozzel
+|pt=Kendal Ozzel
+|ru=Кендал Оззель/Канон
+|tr=Ozzel
+|uk=Кендал Оззель
+}}
+
+{{DEFAULTSORT:Ozzel, Kendal}}
+[[Category:Carida residents]]
+[[Category:Death Squadron personnel]]
+[[Category:Humans]]
+[[Category:Imperial Navy admirals of the Galactic Empire]]
+[[Category:Joint Chiefs of the Imperial military]]
+[[Category:Males]]
+[[Category:Republic Navy officers]]

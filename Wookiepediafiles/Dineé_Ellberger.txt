@@ -1,0 +1,47 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Ellberger.jpg]]
+|name=Dineé Ellberger
+|homeworld=
+|birth=
+|death=
+|species=[[Human]] {{C|[[Naboo (people)|Naboo]]}}<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|gender=[[Sexes|Female]]<ref name="Episode I" />
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="Episode I" />
+|eyes=Green<ref name="Episode I" />
+|skin=Fair<ref name="Episode I" />
+|cyber=
+|era=
+|affiliation=*[[Naboo Royal Space Fighter Corps]]<ref name="Episode I" />
+**[[Bravo Flight]]<ref name="Episode I" />
+|masters=
+|apprentices=}}
+{{Dialogue|Ric Olié|Fighters straight ahead!|Arven Wendik|Roger, Bravo Leader.|Dineé Ellberger|Roger, Bravo Leader.|attr=[[Ric Olié]], Arven Wendik, and Dineé Ellberger, during the battle against the Droid Control Ship over Naboo|src=Star Wars: Episode I The Phantom Menace|audio=ObviousFighters-TPM.ogg}}
+'''Dineé Ellberger'''<ref name="Visual Encyclopedia">''[[Star Wars: The Visual Encyclopedia]]''</ref> was a [[human]] [[Sexes|female]] [[Naboo pilot|pilot]] who flew an [[N-1 starfighter]] as part of [[Bravo Flight]] during the [[Invasion of Naboo|Invasion]] of [[Naboo]].<ref name="Episode I" />
+
+As a [[pilot]] of the [[Naboo Royal Space Fighter Corps]], Ellberger wore a pilot uniform consisting of a space fighter corps [[Coat|overcoat]], a [[Flight jacket|flying jacket]] and [[glove]]s, and pilot-issue [[boot]]s.<ref name="Visual Encyclopedia" />
+
+{{Char-stub}}
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+
+==Sources==
+*''[[Star Wars: The Visual Encyclopedia]]'' {{1stID}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ko=디네 엘버거
+}}
+
+{{DEFAULTSORT:Ellberger, Dinee}}
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Naboo]]
+[[Category:Pilots]]
+[[Category:Royal Naboo Security Force officers]]

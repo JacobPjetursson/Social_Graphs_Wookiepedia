@@ -1,0 +1,92 @@
+{{Eras}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Thire.png]]
+|name=CC-4477<br />"Thire"
+|homeworld=[[Kamino]]<ref name="Clone troopers">{{Databank|clone-troopers|Clone Troopers|archivedate=20170602182649}}</ref>
+|birth=
+|death=
+|species=[[Human]] {{C|[[Cloning|clone]]}}<ref name="Clone troopers" />
+|gender=[[Sexes|Male]]<ref name="Ambush">{{TCW|Ambush}}</ref>
+|height=1.83 [[meter]]s<ref name="Clone troopers" />
+|mass=
+|hair=[[Color|Black]]<ref name="Ambush" />
+|eyes=Brown<ref name="Ambush" />
+|skin=Tan<ref name="Ambush" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Ambush" />
+**[[Coruscant Guard]]<ref name="Ambush" />
+*[[Galactic Empire]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref><ref name="Force">''[[Star Wars: Force Collection]]''</ref>
+|masters=
+|apprentices=}}
+{{Quote|Thire. Rush not into fights. Long is the war. Only by surviving it, will you prevail.|Yoda, to CC-4477|audio=YodaThire.ogg|Ambush}}
+'''CC-4477''', nicknamed "'''Thire'''," was a [[clone shock trooper]] who served as a [[Clone Lieutenant|lieutenant]] in the [[Coruscant Guard]] of the [[Grand Army of the Republic]]. During the [[Clone Wars]], he accompanied [[Grand Master]] [[Yoda]] of the [[Jedi Order]] on an [[diplomat]]ic [[Mission to Rugosa|assignment]] to meet with [[King]] [[Katuunko]] of [[Toydaria]] in [[22 BBY]]. In the course of their mission Yoda inspired his [[clone trooper]]s to take strength from their individual traits, such as Thire's patience.
+
+Following the initiation of [[Order 66]] and the subsequent [[Duel in the Galactic Senate|confrontation]] between Yoda and [[Galactic Emperor|Emperor]] [[Darth Sidious|Palpatine]] in [[19 BBY]], Thire and his [[trooper]]s were ordered to hunt the [[Jedi Master]]. The failure to locate his body convinced Mas Amedda that Yoda was still alive, leading the Emperor to order Thire to resume the search. However, Yoda succeeded in escaping from [[Coruscant]] with the aid of [[Senator]] [[Bail Organa]]. Thire later accompanied Palpatine to [[Mustafar]] to recover the critically wounded [[Anakin Skywalker|Darth Vader]].
+
+==Biography==
+===Clone Wars===
+[[Clone Lieutenant]] CC-4477,<ref name="Force" /> also known as "Thire," was a [[clone shock trooper]] who served in the [[Coruscant Guard]]<ref name="Ambush" />&mdash;an elite group of [[Grand Army of the Republic|Grand Army]] [[clone trooper]]s tasked with [[Law enforcement agency|keeping the peace]] on the [[Galactic Republic]] [[capital]] [[Planet|world]] of [[Coruscant]]<ref name="Coruscant Guard">{{Databank|coruscant-guard|Coruscant Guard|archivedate=20170705040948}}</ref> during the [[Clone Wars]].<ref name="Ambush" /> Like all clone [[trooper]]s, Thire was [[Cloning|created]] on the planet [[Kamino]] through the [[DNA|genetic]] [[Clone template|source]] of the [[bounty hunter]] [[Jango Fett]].<ref name="Clone troopers" />
+
+====Mission to Rugosa====
+{{Quote|Learned something today, have you Lieutenant?''"<br />"''I think we all did, General.|Yoda and CC-4477|Ambush}}
+Following the [[Battle of Geonosis]] in [[22 BBY]],<ref name="GA">''[[Star Wars: Galactic Atlas]]''</ref> [[Jedi General]] [[Yoda]]&mdash;the [[Grand Master]] of the [[Jedi Order]]&mdash;[[Mission to Rugosa|journeyed]] to the [[moon]] [[Rugosa]] to [[Diplomat|negotiate]] an alliance between the [[The galaxy|Galactic]] Republic and [[King]] [[Katuunko]] of [[Toydaria]] against the [[Confederacy of Independent Systems]]. [[Lieutenant]] Thire, along with two other clone [[Bodyguard|guards]] nicknamed "[[Jek]]" and "[[Rys]]," accompanied Yoda to meet with the leader of the [[Toydarian]]s.<ref name="Ambush" />
+
+[[File:TeamRepublic-Ambush.png|thumb|left|250px|Thire, Jek and Rys served as Yoda's military escort during the mission on Rugosa.]]
+In the course of their journey to Rugosa, Separatist [[Munificent-class star frigate|warships]] attacked the [[Jedi Master]] and his troopers in an effort to impede the meeting between Yoda and Katuunko. Forced to abandon their [[Consular-class cruiser (Charger c70 retrofit)|Republic frigate]], Yoda, Thire, Jek and Rys boarded an [[escape pod]] to reach the moon's surface. As a result, the [[Separatist Droid Army]] was sent to hunt and eliminate the Republic envoy in order to convince Katuunko to support the Confederacy's cause. Using the terrain to their advantage, Thire and his troopers managed to set an ambush for the [[battle droid]]s, eliminating multiple enemy units in the process. Due to the [[droid]]s' numerical advantage, however, Yoda ordered the clones to fall back while using his [[Lightsaber combat|skills]] to cover their retreat.<ref name="Ambush" />
+
+After locating a [[cave]], Yoda gave the clones [[time]] to recuperate before continuing the mission. Thire was given a modified [[DC-15 blaster rifle]] to use as a makeshift crutch by Yoda, having injured his [[Limb|leg]] during the skirmish. While taking inventory, the clones saw their dwindling supplies as inefficient against a [[battalion]] of droid [[soldier]]s. Noticing their low morale, Yoda inspired them to find strength in their individualism and personal traits; to Thire, he advised the clone lieutenant to utilize patience instead of rushing headlong into battle, for the war would be long and survival was key to success. After meditating on the Grand Master's advise, Thire and his men departed the cave to investigate a nearby group of battle droids.<ref name="Ambush" />
+
+[[File:Mission to Rugosa3.png|thumb|right|250px|After defeating the battle droids, Yoda, Thire, Jek and Rys saved King Katuunko from Asajj Ventress.]]
+Yoda decided to confront the droids on his own, ordering the shock troopers to stand by and wait for the right opportunity to support him. While the [[general]] single-handedly destroyed numerous units, the clones noticed a group of [[droideka]] reinforcements approaching Yoda's position. Using the [[squad]]'s last [[Missile|rocket]], Thire created a rock-slide on the side of the [[canyon]] to destroy the droidekas.<ref name="Ambush" /> Having made their general proud,<ref name="Episode Gallery">{{SW|url=tv-shows/clone-wars/ambush-episode-gallery|text="Ambush" Episode Gallery}}</ref> the clones and Yoda continued to the rendezvous point and ultimately prevented the Separatist [[commander]] [[Asajj Ventress]] from [[assassin]]ating Katuunko. Impressed by their efforts, the king pledged his loyalty to the Republic. Afterward, Republic [[Republic military|reinforcements]] arrived on Rugosa, allowing Thire to board a [[Low Altitude Assault Transport/infantry]] [[gunship]] with Yoda, Katuunko, Jek and Rys.<ref name="Ambush" />
+
+===Imperial service===
+{{Dialogue|CC-4477|There's no sign of his body, sir.|Mas Amedda|Then he is not dead.|Darth Sidious|Double your search!|CC-4477|Yes, sir! Right away.|attr=CC-4477, Mas Amedda, and Darth Sidious|src=Star Wars: Episode III Revenge of the Sith}}
+[[File:Thiresenate.png|thumb|left|250px|After the Clone Wars, Thire and his brothers went on to serve the Galactic Empire, enforcing Emperor Palpatine's rule on Coruscant and across the galaxy.]]
+In [[19 BBY]],<ref name="GA" /> as the Clone Wars drew to an end, [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]]&mdash;alter ego of the [[Sith Lord]] [[Darth]] Sidious&mdash;declared that all [[Jedi]] were [[Treason|traitors]] and enemies of the state. He therefore commanded the clone [[army]] to execute [[Order 66]],<ref name="Episode III" /> a hidden protocol authorizing the [[Jedi Purge|extermination]] of the Jedi. The clone troopers obeyed the chancellor without hesitation, having been secretly [[Control chip|programmed]] to comply with Order 66.<ref name="Clone troopers" /> As a result, Thire also turned against the Jedi and, like his brothers soon found himself in service to the [[Galactic Empire]] that [[Proclamation of the New Order|replaced]] the Republic.<ref name="Episode III" /><ref name="Force" />
+
+Following Yoda's [[Duel in the Galactic Senate|attempt]] to cut short the reign of the newly-anointed [[Galactic Emperor|Emperor]] Palpatine, the Coruscant Guard searched the [[Senate Building]] but could find no evidence of Yoda's [[Death|demise]].<ref name="Episode III" /> Thire, now a [[Clone Commander]] and in command of the Coruscant Guard detachment guarding the Senate Building,<ref name="Force" /> was ordered to find Master Yoda and reported their lack of progress directly to the Emperor and [[Mas Amedda]], who concluded that the Grand Master was still alive. Palpatine ordered Thire to resume the search before sensing that his [[Sith apprentice|apprentice]] [[Anakin Skywalker|Darth Vader]] was in danger on [[Mustafar]],<ref name="Episode III" /> and so Commander Thire escorted Papatine to recover the critically wounded Darth Vader.<ref name="Force" /> Ultimately, Yoda eluded his pursuers by escaping into exile with the help of [[Senator]] [[Bail Organa]].<ref name="Episode III" />
+
+==Personality and traits==
+{{Quote|There's not much to look at here, sir. We all share the same face.''"<br />"''Deceive you, eyes can. In the Force, very different each one of you are.|CC-4477 and Yoda|Ambush}}
+[[File:Ambush Yoda clones.png|thumb|right|250px|As with clone troopers in general, Thire was a loyal soldier who obeyed the orders of his Jedi leader.]]
+Like his clone brothers, Thire was trained to become a capable and loyal soldier of the Galactic Republic.<ref name="Clone troopers" /> He was also dedicated to completing his assignments; at one time, Thire volunteered to remain behind with his men and confront a battalion of battle droids so that Yoda could move forward with their mission on Rugosa. The Jedi Master declined Thire's offer and instructed his troopers to remove their [[Armor|helmets]], an order which Thire followed but did not understand. In his mind, there was nothing physically unique about the clones as they were all genetically identical to each other, having been grown from the same template. Yoda contended that although Thire and his brethren were clones, each of them felt uniquely different to him through [[the Force]]. He therefore encouraged them to draw strength from their individual traits, such as patience in Thire's case. Upon defeating the droid battalion, Thire felt that he and his men benefited from the teachings of Yoda.<ref name="Ambush" />
+
+[[File:ThiresBrightIdea-Ambush.png|thumb|left|250px|Thire used his squad's last rocket to save General Yoda from a group of droidekas.]]
+After the Clone Wars, Thire complied with an order to hunt Yoda, by now his former ally-turned-fugitive.<ref name="Episode III" /> As with every clone trooper who possessed a control chip in their [[brain]],<ref name="Orders">{{TCW|Orders}}</ref> Thire's programming enabled him to follow Order 66 without question or hesitation,<ref name="Episode III" /> despite the long-standing alliance between the clones and their Jedi leaders.<ref name="Clone troopers" /> In contrast to his turning against the Jedi, Thire remained obedient to the will of Emperor Palpatine.<ref name="Episode III" />
+
+With the exception of certain alterations that affected growth acceleration and enhanced docility, Thire was a physically identical clone of Jango Fett,<ref name="Clone troopers" /> a [[human]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref> [[Sexes|male]] who stood at 1.83 [[meter]]s.<ref name="Jango Fett">{{Databank|jango-fett|Jango Fett}}</ref> Like his progenitor, Thire possessed [[Color|black]] [[hair]] and brown [[eye]]s as well.<ref name="Ambush" />
+
+==Equipment==
+[[File:Thire_TFC.png|thumb|right|200px|Thire's Phase II armor reflected his affiliation with the Coruscant Guard.]]
+Thire originally wore the [[Phase I clone trooper armor]],<ref name="Ambush" /> the [[Clone trooper armor|standard armor]] worn by all regular clone units at the beginning of the Clone Wars.<ref name="DB-CT Armor">{{Databank|clone-trooper-armor|Clone Trooper Armor|archivedate=20170606024651}}</ref> In addition to featuring the distinctive red patterns that identified him as a member of the Coruscant Guard, Thire customized his armor with a few additional pieces such as a command [[pauldron]] and [[macrobinoculars]].<ref name="Ambush" />
+
+In addition to two [[DC-17 hand blaster]]s, Thire wielded the standard [[DC-15 blaster rifle]]. During the mission on Rugosa, he also utilized a [[rocket launcher]] to protect his Jedi general from a group of droidekas.<ref name="Ambush" /> By the end of the Clone Wars, Thire had switched over to the [[phase II clone trooper armor]] and customized it with the Guard's new markings.<ref name="Episode III" />
+
+==Behind the scenes==
+Thire first appeared in [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']], where he was voiced by [[Temuera Morrison]]. Like every clone trooper in the film, he was portrayed through computer-generated imagery.<ref name="DB">{{DB|organization|clonetroopers|Clone troopers}}</ref> The clone trooper voiceover artist [[Dee Bradley Baker]] provided Thire's voice in "[[Ambush]]," the first episode in [[The Clone Wars: Season One|Season One]] of ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]''.
+
+==Appearances==
+{{Imagecat|Images of CC-4477|Thire}}
+*{{TCW|Ambush}} {{1stID|Thire}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}}
+
+==Sources==
+*{{SW|url=tv-shows/clone-wars/ambush|text="Ambush" Episode Guide - ''The Clone Wars''}}
+*{{SWE|locations|rugosa|Rugosa}}
+*{{ForceCollection|Clone Commander Thire|star=5}} {{1stID}}
+*{{Databank|clone-troopers|Clone Troopers|archivedate=20170602182649}}
+*{{Databank|yoda|Yoda|archivedate=20140703043000}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|el=Θάιρ
+|ru=Тайр/Канон
+}}
+
+[[Category:Clone trooper commanders]]
+[[Category:Clone trooper lieutenants]]
+[[Category:Coruscant Guard troopers]]

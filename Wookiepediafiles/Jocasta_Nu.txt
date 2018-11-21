@@ -1,0 +1,149 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=Jedi
+|image=[[File:Jocasta Nu SWE.png]]
+|name=Jocasta Nu
+|homeworld=[[Coruscant]]<ref name="SWE">{{SWE|characters|jocastanu|Jocasta Nu}}</ref>
+|birth=
+|death=[[19 BBY]], Coruscant<ref name="Dying Light IV">''[[Darth Vader: Dark Lord of the Sith 10: The Dying Light, Part IV]]''</ref>
+|species=[[Human]]<ref name="SWE" /> {{C|[[Coruscanti]]}}<ref name="SWE" />
+|gender=[[Sexes|Female]]<ref name="SWE" />
+|height=1.69 [[meter]]s<ref name="SWE" />
+|mass=
+|hair=[[Color|White]]<ref name="AOTC">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|eyes=Blue<ref name="AOTC" />
+|skin=Light<ref name="VE">''[[Star Wars: The Visual Encyclopedia]]''</ref>
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="AOTC" />
+**[[Jedi High Council]]<ref name="Holocron Heist">{{TCW|Holocron Heist}}</ref>
+*[[Galactic Republic]]<ref name="AOTC" />
+|masters=
+|apprentices=}}
+{{Quote|That was my prerogative as Master Archivist. I denied ''many'' such requests. It was my ''duty''! It ''remains'' my duty!|Jocasta Nu, to the Grand Inquisitor|Darth Vader: Dark Lord of the Sith 9: The Dying Light, Part III}}
+'''Jocasta Nu''', a [[Force-sensitive]] [[human]] [[Sexes|female]], was a [[Jedi Master]] who served as the [[Chief Librarian]] of the [[Jedi Archives]] during the [[Clone Wars]]. In this role, Nu would assist fellow [[Jedi]] in finding information they needed from the Jedi Archives, and controlled access to the restricted [[Holocron Vault]]. Sometime prior to the [[Invasion of Naboo]], Nu sat on the [[Jedi High Council|Jedi Council]]. Shortly before the war, she assisted [[Obi-Wan Kenobi]] in his attempt to locate the [[planet]] [[Kamino]] in the Archives. After not finding any information, and Nu's insistence that any item that did not appear in the Archives did not exist, it was determined that information about Kamino had been erased from Jedi records. During the war, Nu was attacked by [[bounty hunter]] [[Cato Parasitti]], who was helping [[Cad Bane]] steal a holocron from the Holocron Vault. She later assisted [[Ahsoka Tano]] in finding the thief who stole the [[Padawan]]'s [[lightsaber]].
+
+After the [[Order 66|fall]] of the [[Jedi Order]] and the [[Galactic Republic]], and the [[Proclamation of the New Order|rise]] of the [[Galactic Empire]] in their place, Nu survived the [[Jedi Purge|purge]] of the Jedi unlike many of her fellows and went into hiding, all the while attempting to preserve what she could of the Jedi. Determined to put a permanent end to the Jedi, the newly crowned [[Galactic Emperor|Emperor]] [[Hunt for Jocasta Nu|dispatched]] his agents in the form of [[Anakin Skywalker|Darth Vader]] and the [[Inquisitorius]] to hunt her down, a hunt which culminated with Nu's [[death]] at the hands of Vader.
+
+==Biography==
+===Early life===
+Jocasta Nu was [[Reproduction|born]] on [[Coruscant]] prior to the [[Clone Wars]]. [[Sexes|She]] was found to be [[Force-sensitive]] and brought to the [[Imperial Palace|Jedi Temple]] for [[Jedi training|training]].<ref name="USW">''[[Ultimate Star Wars]]''</ref>She soon became part of the [[Jedi High Council]] and a [[librarian]] in the Jedi Archives.<ref name="Holocron Heist" /> She studied to become a [[Consular Jedi]], and did become one shortly after.<ref>''[[Star Wars: The Visual Encyclopedia]]''</ref> As a [[Jedi]], she focused her interests and life's work on the Temple's massive [[Jedi Archives]] and soon became their [[Chief Librarian]], which did not prevent her from attaining the rank of [[Jedi Master]] and training several [[Padawan]]s.<ref name="SWCT">{{Topps|set=Star Wars: Card Trader|sformat=''Star Wars'': Card Trader|cardname=Jocasta Nu - Jedi Archivist|link=http://starwarscardtrader.wikia.com/wiki/Jocasta_Nu_-_Jedi_Archivist}}</ref> She would hold this title for several [[Standard decade|decades]] by the time of the [[Imperial Era|Imperial Era.]]<ref name="Dying Light I" /> She had complete confidence in the accuracy and integrity of the records she maintained, suggesting that an item that did not appear in her library did not exist.<ref name="USW" /> She would collect several things as an archivist, such as the Mask of Lord Momin.<ref name="Dying Light II" />
+
+===The Separatist Crisis===
+{{Quote|If an item does not appear in our records, it does not exist.|Jocasta Nu, to Obi-Wan Kenobi|Star Wars: Episode II Attack of the Clones}}
+[[File:JocastaHelpsObiWan.png|250px|right|thumb|Jocasta Nu and Obi-Wan Kenobi in the Archives]]
+During the [[Separatist Crisis]] in [[22 BBY]], Nu tended to [[Obi-Wan Kenobi]] when he came to the archives in search of the [[planet]] [[Kamino]], based on information from his friend [[Dexter Jettster]].<ref name="AOTC" /> Jocasta found him staring at a bust of Count Dooku and provided him a brief history about him and that he left and a while later, he came back as a Sith Lord and that he had once trained his master, [[Qui-Gon Jinn]]. When Kenobi said that he doesn't understand why he left, Nu said that it was because he was frustrated with the Council and its ways. She told told him that she wasn't here to give him a history lesson and asked if he had a problem.<ref>{{SWE|characters|jocasta-nu|Jocasta Nu}}</ref> Kenobi finally told her that he was in search of a [[bounty hunter]] and the supposed mastermind behind [[Plot to assassinate Padmé Amidala|a plot]] to [[assassin]]ate the [[senator]] [[Padmé Amidala]]. Nu was not familiar with Kamino, and noted that since it was not in the Archives, it must not exist. Nu became irritated when Kenobi suggested her records could be incomplete. She left him to his investigations, instead seeing to the young [[Zett Jukassa]].<ref name="AOTC" />
+
+===Clone Wars===
+Following the [[First battle of Felucia|First battle]] of [[Felucia]] in [[21 BBY]], Nu was assigned [[Anakin Skywalker]]'s [[Padawan]], [[Ahsoka Tano]], to serve as the Jedi Archives new security [[officer]] after the young [[Togruta]] was assigned to Temple duty for disobeying orders. She took Tano on a tour of the archives, and showed her the entrance to the [[Holocron Vault]], explaining that only members of the [[Jedi High Council|Jedi Council]] were allowed access due to the sensitive information contained inside and that she herself had not been inside it for years. When Master Ord Enisence bullied Tano while she was trying to help him, Nu was organizing books as she watched the scene unfold and looked suspicious of the Jedi. When the Jedi Temple was put on high alert due to [[Cad Bane]]'s efforts to [[Mission to the Jedi Temple|break into the Temple]], Nu informed Master [[Ord Enisence]] of this after noticing him in the archives working at a terminal seemingly unconcerned. However, she was then knocked out by Enisence, who was actually the [[Clawdite]] [[bounty hunter]] [[Cato Parasitti]] disguised, and also working as Bane's accomplice in the heist. Nu was then dragged away and relieved of her [[lightsaber]] by Parasitti, who [[Changeling|shapeshifted]] to impersonate the Master Librarian. Tano subdued the [[bounty]] hunter after determining that she was an imposter. After Nu recovered, she and Tano took Parasitti away and brought in more security, but were unable to prevent Bane from escaping with a [[holocron]].<ref name="Holocron Heist" />
+
+[[File:SinubeNuTano-LL.png|thumb|left|250px|left|Jocasta Nu introduced Tera Sinube and Ahsoka Tano]]
+Following that incident, Nu assisted Tano when she came to the library to examine criminal records to locate the [[Bannamu|thief]] who stole her [[Ahsoka Tano's lightsaber|lightsaber]]. Nu suggested that Tano admit to Skywalker that she had lost her lightsaber, but the Padawan refused due to how often her master told her to never lose her weapon. Nu admitted that finding thieves was not her area of expertise, and recommended that Tano seek the help of [[Jedi]] Master [[Tera Sinube]], an expert on the [[Coruscant underworld]], to find the thief. She led Tano to the elderly [[Cosian]], who was [[sleep]]ing at a table in the archives. They woke the sleeping Master, and Nu left the two to begin their search.<ref name="Lightsaber Lost">{{TCW|Lightsaber Lost}}</ref>
+
+After Master [[Plo Koon]] discovered the wreckage of a [[Starship|vessel]] on the [[desert]] [[Oba Diah moon|moon]] of [[Oba Diah]] that was identified as the ship of former Jedi Council member [[Sifo-Dyas]] and which still contained his [[Sifo-Dyas' lightsaber (Oba Diah)|lightsaber]] in [[19 BBY]], Nu was asked to brief the Jedi Council on the events surrounding the Jedi Master's [[Death|demise]]. She informed them that Sifo-Dyas' last assignment was to Felucia, where he was killed attempting to negotiate a peace treaty between two tribes. Plo Koon inquired about the status of Sifo-Dyas' body, and Nu informed him that she did not know as further records on the [[Mission to Oba Diah (pre–Naboo Crisis)|mission]] had been ordered sealed. Master [[Mace Windu]] asked who had sealed them, and Nu revealed that the [[Office of the Chancellor|Office of the Supreme Chancellor]] was responsible. Windu thanked Nu for her briefing and she took her leave to allow the Jedi Council to discuss the situation.<ref name="The Lost One">{{TCW|The Lost One}}</ref>
+
+Near the end of the Clone Wars, Nu explained to [[Kanan Jarrus|Caleb Dume]], [[Sammo Quid]], and [[Tai Uzuma]], three [[Jedi youngling|Jedi Initiates]] who had passed their [[Initiate Trials]], how [[Jedi Knight]]s chose Padawans. Dume questioned how and why the Jedi settled on that method to chose their Padawans and if anyone had ever questioned it. Nu noted that Dume was questioning it now, but he protested that he simply wanted to know how that method had been developed.<ref name="Kanan 7">''[[Kanan 7: First Blood, Part I: The Corridors of Coruscant]]''</ref>
+
+She separated the Jedi in her mind: the ones worthy for education and the rest of them. As such, she didn't allow the Grand Inquisitor into the higher archives and always hovered over him when she did let him read a datafile or two. This ultimately caused him to turn to the Dark side of the Force.<ref name="Dying Light I" />
+
+===Preserving the Order===
+{{Quote|Whoever is seeing this&hellip; It's up to ''you'' now. Don't let our deaths have been in vain.|Jocasta Nu's message she recorded in a number of [[holocron]]s|Darth Vader: Dark Lord of the Sith 7: The Dying Light, Part I}}
+[[File:Jocasta nu post purge.jpg|right|thumb|180px|Jocasta Nu, in hiding during the Jedi Purge.]]
+Nu survived the [[Order 66|destruction of the Jedi]] and during the early stages of the [[Jedi Purge]] she attempted to gather and preserve whatever she could of the Order's legacy. Nu went into hiding and started recording holocrons and collecting information with her [[Aide|assistant]] [[Gar (human)|Gar]], in an attempt to start a [[Jocasta Nu's school|school]] for new Jedi. Nu was included in a list of possible survivors, which [[Darth Sidious]] gave to [[the Grand Inquisitor]]. He was shocked that Nu survived as he had never seen her fight once in her life. He also told Vader how much he hated Nu. The [[Inquisitorius]] was instructed to [[Hunt for Jocasta Nu|find Nu]], though Sidious requested [[Darth]] Vader to bring Nu to him alive even though he sensed his eagerness. Sidious believed that Nu had a way to access key information for the future of the Empire which was hidden away in the Jedi Archives. He told him that Jocasta had served the Archives for decades and that every relic the Jedi have, they give it to her. He told him that the Jedi were abusing their power and that Jocasta would most likely try to escape their custody.<ref name="Dying Light I">''[[Darth Vader: Dark Lord of the Sith 7: The Dying Light, Part I]]''</ref> She realized that the Jedi Archives contained a holocron with a list of every Force-sensitive [[Youngling|child]] catalogued prior to Order 66,<ref name="Dying Light II">''[[Darth Vader: Dark Lord of the Sith 8: The Dying Light, Part II]]''</ref> and decided returned to Coruscant to rescue it. Gar caught her glancing at her lightsaber, and told her that she didn't need it anymore and that they were done building the archive. However, Nu told him that he misunderstood and that she had build a school. As Nu was about to leave, she bid him farewell and when Gar, in a last attempt to convince her to stay, asked what could be worth the risk, she told him that since this was a school, it will need students. Soon, [[clone trooper]]s told her to identify herself, but with a [[mind trick]], she convinced them that she was no one and that they saw nothing. to enter the Temple.<ref name="Dying Light I" /> Shocked at the devastation within, she spotted the [[Grand Inquisitor]] poring over the knowledge she once kept, but forced herself to focus on her mission. Entering a [[Jedi Archive vault|secret vault]] within the Archives, Nu reunited with [[Cator]] and retrieved the holocron, saying that the Jedi will rebuild and leaving the [[droid]] on guard once more, but upon sighting the Inquisitor again, Nu accosted him with her lightsaber, offended that he dared to read her [[book]]s only to toss them aside.<ref name="Dying Light II" />
+
+[[File:Grand_Inquistor_vs_Jocasta_Nu.jpg|thumb|left|250px|Master Nu, attacking the Grand Inquisitor.]]
+He revealed to her that he was once a Jedi, shocking Nu. Nu told him that he was a traitor and that he had less right in the Archives than she imagined and to meet a traitor's end. He then whipped out his lightsaber, and started a duel. Nu asked why he betrayed his order, but he said the Jedi were nothing and had only shown him the light side of the force, and that now he knew the whole view of the force, he can accomplish anything using hatred, and he had lots of hatred. Then he accused her of what she done to him, but she told him that the Archives were very diverse and that if she refused him access, then it meant that she believed he wasn't ready and that it was her goal as Chief Librarian and that since it was once her duty, it will stay her duty. But he said that now she had no duty and tossed her to the floor and said that killing her felt better than he had imagined.<ref name="Dying Light III" />
+
+After a brief [[lightsaber duel]] against the Grand Inquisitor however, she was bested and as he prepared to deliver the final blow, he was interrupted by Vader's blocking [[Kirak Infil'a's lightsaber|saber]]. Jocasta closed her eyes began praying until she discovered what had happened. Vader demanded her alive but the other said that it was a Jedi and that he didn't trust Vader; in the confusion Nu [[Telekinesis|telekinetically]] hurled several books at the two and fled. She later retreated to a [[computer]] access room in the Library and subsequently initiated deletion of the archive files. As Vader continued his pursuit, Nu assembled [[Lightsaber rifle|a weapon]] capable of fighting Vader for the next round.<ref name="Dying Light III">''[[Darth Vader: Dark Lord of the Sith 9: The Dying Light, Part III]]''</ref> After failing to kill him with the weapon and ruining her lightsaber in the process, Nu attempted to kill Vader by self-destructing it but he managed to redirect it so that it blew a hole in the Temple's outer wall. Grabbing a green-bladed lightsaber from a shelf, Nu took the opportunity to escape out the gap, but was forced to fight off several [[Coruscant Guard]] [[shock trooper]]s led by [[Clone Commander|Commander]] [[CC-1010|Fox]], who also fired on Vader by mistake due to Fox neglecting to provide a description of the [[Sith Lord]]. Snapping the [[Cloning|clone]] [[commander]]'s neck, Vader ordered the [[trooper]]s to take Nu alive, stopping her with [[the Force]] after she attempted to commit [[suicide]] in order to deny them the information she held. Restrained and confined aboard a [[LAAT/le gunship|patrol transport]], Nu was forced to watch as Vader accessed the coveted information: the [[Kyber memory crystal]], containing a list of all known Force-sensitive children in [[the galaxy]]. Though regarded with contempt by the troopers restraining her for being a Jedi, Nu revealed that they were taking orders from one themselves. Vader was in fact fallen Jedi Knight Anakin Skywalker, which Nu had learned from Cator as the droid held off Vader beforehand. Vader then proceeded to blast all of the shock troopers out of the [[gunship]], killing them in order to keep his secret. When Nu inquired as to what her fate would be, Vader ignited [[Kirak Infil'a's lightsaber|his lightsaber]] but met no resistance from Nu, who accepted her death. <ref name="Dying Light IV" />
+
+===Legacy===
+Vader reported back to his master that Nu tried an escape attempt and that she was so careless that she had perished in the process. The emperor expressed regret at this and told him to come back to him so that he could know more of Jocasta's death and asked if he learned anything from her before she died, while Vader replied that he had learned nothing. The list of names was then destroyed by Vader, to ensure that his [[Sith Master|master]] could not use it to find and train other Sith apprentices. Later on, Palpatine told Vader that even though he wouldn't called Vader's encounter with Nu a victory, he can't call it a defeat, as the relics she held were fascinating, Jedi and Sith artifacts alike. But, the artifact that Palpatine was most interested in was the [[Mask of Lord Momin]].
+
+Though Nu perished on her failed mission to locate prospective Jedi students, her sacrifice was ultimately not in vain. Her secret vault of Jedi artifacts and knowledge was tended to faithfully by Gar for many years until he grew too old to continue protecting it and sealed it by commiting suicide. The vault, and the information inside it, was then uncovered many years after her death by Vader's son [[Luke Skywalker]], who was [[Jedi Order#A new generation|attempting]] to rebuild the Order.<ref name="Dying Light IV" />
+
+==Personality and traits==
+Jocasta Nu had white [[hair]], blue [[eyes]], and light skin. She had a blue scar going down her cheek. She was thin and frail by the time of the [[Separatist Crisis]] and often wore her hair in a tidy bun. She was helpful, as she recommended Ahsoka Tano find Tera Sinube when she lost her lightsaber and when she toured the Holocron Vault with Tano. She can be suspicion when something peculiar is happening at the Archives, including when "Ord Enisense" hassled Tano.<ref name="Holocron Heist" /> She was also not good at solving crimes, as shown when she couldn't find out who stole Ahsoka Tano's lightsaber.<ref name="Lightsaber Lost" /> Due to her position as Chief Librarian of the Jedi Archives, Nu was sometimes too confident that her library had the answers for all the questions and that it cannot be altered,<ref name="Databank">{{Databank|jocasta-nu|Jocasta Nu}}</ref> to the point that she could easily became irritated by the suggestion that her records could be incomplete, for example when Kenobi asked her why the Archives didn't have any information about Kamino.<ref name="AOTC" /> She separated the Jedi in her mind, the ones worthy for education and the rest of them.<ref name="Dying Light I" /> When she felt that they weren't ready,<ref name="Dying Light III" /> she refused them access to the higher archives and hovered over them when she did let them read a datafile or two. She took this as her goal as Chief Librarian and that it was her duty. This eventually caused some Jedi to turn over to the Dark side of the Force.<ref name="Dying Light II" />
+
+==Powers and abilities==
+{{Quote|You may have Madame Jocasta's shape, but not her skills.|Ahsoka Tano, to Cato Parasitti|audio=NotHerSkills-HH.ogg|Holocron Heist}}
+[[File:JocastaNuSkills-SWE.jpg|left|thumb|180px|Jocasta wielding her lightsaber.]]
+Despite being far from the strongest Force user or lightsaber combatant, Nu was still capable in both regards and possessed basic skills as a Jedi. She was therefore able to use [[telekinesis]], which she could use as a tool or as a weapon, from activating and assembling a holocron to summoning the books in Jedi library to fire them at Vader and the Grand Inquisitor. Additionally, Jocasta demonstrated skill in the mind [[mind trick]], which she used on clone troopers to get them to ignore her. Despite her wealth of knowledge however, she was described by Darth Sidious as being "middling in the Force" and "barely competent with a lightsaber".<ref name="Dying Light I" />
+
+While she was well past her physical prime, Nu also demonstrated feats of physical prowess, such as jumping down several stories from a crater made in the wall of the Jedi Temple. As a lightsaber duelist, she was skilled enough to briefly hold her own against the Grand Inquisitor, until she was overwhelmed by his own skill and strength. She could also [[Form V|deflect]] several [[blaster]] bolts fired at her by multiple clone troopers.<ref name="Dying Light IV" />
+
+==Equipment==
+Jocasta Nu had a [[Jocasta Nu's lightsaber|blue lightsaber]], which she sometimes uses during [[Fall of the Republic]] and the [[Imperial Era]]. However, she wasn't good at [[lightsaber combat]].<ref name="Lightsaber Lost" /> She also wore brownish robes on the outside with several symbols on it and wore black clothing on the inside.<ref name="AOTC" /> At the time of her death, she wore a black cloak.<ref name="Dying Light III" />
+
+==Behind the scenes==
+Jocasta Nu was played by actress and comedian [[Alethea McGrath]] in the [[2002]] film [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']], the second installment of the ''[[Star Wars]]'' [[prequel trilogy]].<ref name="AOTC" /> She was voiced by [[Flo DiRe]] in the ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' TV series.
+
+Her fate differs from [[Star Wars Legends]], in which Skywalker kills her during [[Order 66]] as a a result of refusing him access to the Archives.<ref>[[Star Wars: Purge: Seconds to Die|''Star Wars: Purge: Seconds to Die'']]</ref>
+
+In an interview featured in ''[[Star Wars Insider 75]]'', McGrath indicated that a lot of Nu's backstory and scenes from ''Attack of the Clones'' were cut before filming and during editing, including the revelation that Nu and [[Count]] [[Dooku]] used to be in love during Dooku's days in the Jedi Order.<ref name="Appearing Knightley">{{InsiderCite|75|Appearing Knightley (and the Women of Star Wars)}}</ref>
+
+==Appearances==
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*{{TCW|Holocron Heist}}
+*{{TCW|Lightsaber Lost}}
+*{{TCW|R2 Come Home}} {{Del}}
+*{{TCW|Assassin (episode)|Assassin}}
+*{{TCW|The Lost One}}
+*''[[Kanan 7: First Blood, Part I: The Corridors of Coruscant]]''
+*''[[Darth Vader: Dark Lord of the Sith 6: The Chosen One, Part VI]]''
+*''[[Darth Vader: Dark Lord of the Sith 7: The Dying Light, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 8: The Dying Light, Part II]]''
+*''[[Darth Vader: Dark Lord of the Sith 9: The Dying Light, Part III]]''
+*''[[Darth Vader: Dark Lord of the Sith 10: The Dying Light, Part IV]]''
+*''[[Darth Vader: Dark Lord of the Sith 11: The Rule of Five, Part I]]'' {{C|Mentioned only; in the opening crawl}}
+*''[[Darth Vader: Dark Lord of the Sith 12: The Rule of Five, Part II]]'' {{Mo}}
+*''[[A New Dawn]]'' {{Mo}}
+
+==Sources==
+*{{SWE|characters|jocastanu|Jocasta Nu}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}} {{Po}}
+*{{Databank|jocasta-nu|Jocasta Nu}}
+
+{{Start box}}
+{{Succession box
+|title=Member of the [[Jedi High Council]]
+|years=Prior to [[32 BBY]]<ref name="Holocron Heist" />
+|before=Unknown
+|after=Unknown
+}}
+{{Succession box
+|title=[[Chief Librarian]] of the [[Jedi Archives]]
+|years=Prior to [[22 BBY]]<ref name="USW" />&ndash;[[19 BBY]]<ref name="Dying Light IV" />
+|before=Unknown
+|after=None
+}}
+{{End box}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SW|url=news/the-jedi-council-meet-the-masters|text=The Jedi Council: Meet The Masters}}
+
+{{Interlang
+|el=Τζοκάστα Νου
+|ja=ジョカスタ・ヌー
+|ka=ჯოკასტა ნიუ
+|ru=Джокаста Ню/Канон
+|uk=Джокаста Ню
+}}
+
+{{DEFAULTSORT:Nu, Jocasta}}
+[[Category:Coruscanti]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Jedi Council members]]
+[[Category:Jedi Masters]]
+[[Category:Jedi Purge victims]]
+[[Category:Jedi Researchers]]
+[[Category:Librarians]]
+[[Category:Pilots]]

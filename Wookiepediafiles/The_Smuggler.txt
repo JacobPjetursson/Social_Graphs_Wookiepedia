@@ -1,0 +1,120 @@
+{{Eras}}
+{{Youmay|the smuggler active during the Iron Blockade|[[Voidhound]]}}
+{{Redlink}}
+{{Nickname|canon=1}}
+{{Character
+|type=Criminal
+|image=
+|name=The Smuggler
+|homeworld=[[Burnin Konn]]<ref name="Uprising">''[[Star Wars: Uprising]]''</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="Uprising" />
+|gender=
+|height=
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Trade Spine League]]<ref name="Uprising" />
+*[[Ivax Syndicate]]<ref name="Uprising" />
+*[[Alliance to Restore the Republic]]<ref name="Uprising" />
+*[[Uprising]]<ref name="Uprising" />
+|masters=
+|apprentices=}}
+'''The Smuggler''' was a [[thief]] and [[smuggler]] active during the [[Imperial Era|reign]] of the [[Galactic Empire]]. Several [[Standard month|months]] into the Imperial lockdown of the [[Anoat sector]], referred to as the "[[Iron Blockade]]," the Smuggler and their older sister, [[Riley]], were instrumental in founding the [[Uprising]].
+
+==Biography==
+===Early life===
+[[File:Burnin Konn planet.png|thumb|left|The Mining World of Burnin Konn, home of the Smuggler]]
+{{Quote|Heard your daddy died in these mines. Now you do, too.|Tryken, threatening the Smuggler|Star Wars: Uprising}}
+The Smuggler was the younger sibling of a young woman named [[Riley]]. The two [[Homeworld|hailed]] from [[Burnin Konn]], one of the [[Mining Worlds]] of the [[Anoat sector]], and were orphaned at a young age when [[Riley's father|their father]] died in the mines. Despite their age, the siblings were renowned for their skill as [[Thief|thieves]]. At some point, however, Riley had a fight with the [[Cadevon Family]] over a payment, which earned her injuries. Following that incident, she gained a [[Cybernetics|cybernetic]] leg brace and became mostly a planner, giving her younger sibling help and information on missions (via comlink).<ref name="Uprising" />
+
+===The Iron Blockade===
+====Paying off the debts====
+[[File:Happy Dapp.png|thumb|150px|The gangster "Happy" Dapp, who employed the Smuggler for a time]]
+At some point during the [[Iron Blockade]], the Smuggler was secretly conveying a package of [[synthetic kyber crystal]]s for the gangster [[Dapp|"Happy" Dapp]] on Burnin Konn. Whilst smuggling the crystals, the young scoundrel was stopped by an [[Unidentified Imperial Security Officer|Imperial Seurity Officer]] who had caught wind of the operation. To avoid being arrested, the Smuggler [[stun]]ned the officer and escaped via a nearby mineshaft, using the kyber crystals to cause an explosion and seal off the entrance. Whilst maneuvering through the mines on Burnin Konn, the scoundrel got into a confrontation with [[Tryken]], Happy Dapp's bodyguard, and managed to defeat him, only to then run into Dapp himself.<ref name="Uprising" />
+
+In order to make up for destroying the crystals and putting Tryken out of action, Riley and her sibling decided to work for Happy Dapp to pay off their debts. That arrangement involved the scoundrel retrieving smuggled supplies from [[Trade Spine League]] ships that were shot down trying to get past the Iron Blockade, lest those supplies be stolen by different gangs.<ref name="Uprising" />
+
+Eventually, a meeting was a arranged between the Smuggler and [[Shortpaw]], head of the Trade Spine League. At the meeting, Shortpaw explained how his organization were planning to sneak a ship past the blockade. In order to do so, they needed to get a scan of where the blockade was the weakest. The Smuggler was therefore sent to [[Mataou]] in order to activate the deep space scanners located in the [[Hutt]] ruins on that [[planet]]. After activating the four scanners, the League was able to find a weak point in the Imperial blockade and to smuggle a ship through.<ref name="Uprising" />
+
+Due to their increasing reputation, Riley believed that she and her sibling needed to take care of some of their previous enemies in order to stop them from coming after them in the future. This led Riley to come into contact with [[Nogba Quush]], a member of the [[Ivax Syndicate]], who agreed to help the pair if in return they dealt with some of the Syndicate's problems. The Smuggler therefore traveled around Burnin Konn, dealing with the [[Chromium Kings]] for bragging about working for the Syndicate, the [[Starscorch Robbery Crew]] for being too reckless, and the [[Shuxl Brotherhood]] for betraying the Syndicate.<ref name="Uprising" />
+
+In return, the Ivax Syndicate helped Riley locate a number of her enemies and prevented anyone from interfering whilst her sibling went to confront them. That allowed them to attack the [[Nexu Claws]] and convince them to remove any [[Bounty|bounties]] the group had set on them, confront their father's old partner, [[Roonlo|Roonlo the Stalker]], warning him to leave the siblings alone, and finally to kill the [[Cadevon Family]], Riley's ex employers who crushed her leg after disagreeing on a payment. After finally dealing with their problems, the Syndicate thanked Riley and the Smuggler as well as giving Riley the parts she needed to repair her cybernetic leg.<ref name="Uprising" />
+
+After dealing with their enemies the two returned to Shortpaw who informed them that Happy had plans for the score of a lifetime. In order to complete the plan an imperial shuttle was needed. The Smuggler then had to travel to the planet [[Hoth]] in order to acquire the parts needed to assemble the shuttle. The scoundrel then traveled to a scavenger camp to retrieve the data they had stored their and get a better map of the area but the plan proved unsuccessful as the data was incomplete. As an alternative, the Trade Spine League suggested getting the data from a group of Imperials down on the planets surface. The Smuggler therefore ambushed an imperial patrol down on Hoth and managed to steal an astromech named [[B9-DT]], who had the necessary data needed.<ref name="Uprising" />
+
+With the map of the area completed, the Smuggler was ready to start collecting the parts needed to fix up the imperial shuttle. The crew needed an imperial codebreaker, a trivalve assembly and a vortex stabiliser. After obtaining the trivalve and the vortex manipulator from a scavenger camp, B9-DT informed the crew of the location of the codebreaker. The last part was being auctioned off by the leader of the scavengers on Hoth, [[Bohento Splinth]], an [[Aqualish]] who had history with Happy Dapp. The Smuggler fought their way to Splinth and offered to buy the codebreaker off of him, explaining that they were working with Happy. Upon hearing Dapp's name, the Aqualish became hostile, leaving the smuggler no choice but to kill him and take the codebreaker back to Happy and Shortpaw.
+
+In order to continue with the plan, the Smuggler would have to slow down an imperial salvage team led by [[Lieutenant]] [[Mindak]] so that Dapp and B9-DT could repair the shuttle without interruption. Upon the shuttle's completion, Happy was attacked by the remainder of Bohento Splinth's crew and required the assist of the Smuggler. While Riley made the suggestion of leaving Dapp to be killed, her sibling refused, and the gangster was saved. With the shuttle complete, Shortpaw went into hiding as to avoid being identified and arrested by the Empire. Happy Dapp then explained how the next step of the plan required the Smuggler to meet with one of his contacts.<ref name="Uprising" />
+
+Happy instructed the young scoundrel to work with [[Tam Bastion]], leader of the local Rebel regiment. Bastion sent the Smuggler to [[Anoat]] in order to find an abandoned Rebel base on that planet. Riley also volunteered her sibling to help rescue a team of Bastion's men who had been ambushed by gangsters on Mataou whilst purchasing weapons. In return for finding the base and dealing with the Imperial forces tracking the Rebels, Bastion gave Happy Dapp information on where the Empire was storing the cargo seized by [[Governor]] [[Ubrik Adelhard]] and the Iron Blockade.<ref name="Uprising" />
+
+Happy Dapp, Riley, and the Smuggler then worked with Shortpaw and the Trade Spine League to plan an assault on the Imperial impound facilities. After setting up a series of sensor disruptors that allowed escape from Imperial pursuit, the Smuggler assaulted the Imperial facilities on [[Nar Hypa]] to secure the impounded cargo. At the final facility, the scoundrel located a recorded message from [[Leia Organa]] informing the galaxy of the Empire's defeat at the [[Battle of Endor]] and the death of [[Galactic Emperor|Emperor]] [[Darth Sidious|Palpatine]].<ref name="Uprising" />
+
+Following their discovery, the siblings were labeled as public enemies and pursued by the dreaded [[Purge Trooper]]s of [[Commander]] [[Bragh]]. The Purge Troopers attacked the [[Carbon Score Cantina]], killing Happy Dapp and injuring Riley in the process.<ref name="Uprising" />
+
+===Joining the Syndicate and Securing Alliances===
+Because of their hostile actions, Riley and the Smuggler were forced to flee Burnin Konn and relocate to [[Cloud City]]. Thanks to to Nogba Quush, the siblings met [[Voras]] the [[Hutt]], leader of the Ivax Syndicate. The Hutt agreed to help them getting rid of their [[death mark]], on the condition that they would work for him. The Smuggler agreed to hunt down four members of the [[Zenowai Crime Society]], who were trying to seize control over Cloud City's black market. Searching the bowels of the city, the young scoundrel managed to take out [[Shoka Jo]], who used to oversee the [[spice]] gangs of [[Plexis]]. After that, the scoundrel also flushed out [[Slim Jek]], who simply surrendered, and took down the enforcer [[Roen Torcher]]. The last Zenowai, [[Mehedo Clynch]], proved to be a trickier adversary. In order to starve the Ivax Syndicate, Clynch was paying off Cloud City's [[Bespin Wing Guard|security forces]] to shut down two mining levels and beat any miners who showed up to work despite the threat. The Smuggler easily reclaimed the mining levels, which only made Clynch more desperate. The last Zenowai seized [[mining droid]]s and sent them to sabotage the repulsors that maintained Cloud City aloft. As the floating city had already started to crash, the Smuggler set off to stop the sabotage. After destroying the droids, the Smuggler went after Mehedo Clynch himself and defeated him.
+
+The Smuggler then returned to the Paradise Atrium, and learned of Riley and Voras's plan against the Empire. That plan involved gaining allies in order to strike a blow to the Empire as soon as possible, since its forces were weakened by its continuous attempt to maintain the Iron Blockade and keep the sector running. In order to secure such allies.<ref name="Uprising" />
+
+The Smuggler was sent to the [[Apex Overlook]] to speak with the masked Sir [[Corto Belrake]] to secure an alliance with the Noble Court. The mysterious Sir Belrake explained that, in order to earn favor with him and his fellow nobles, the Smuggler would have to take on the treacherous [[Earl]] [[Alner]], who was located on Anoat. In order to accomplish this, the Smuggler seized the rogue noble's two stockpiles before stopping the Earl himself. Upon defeating the Earl, the Smuggler was introduced to Her Majesty. After exchanging pleasantries and politely declining an offer of adoption into the house of Her Majesty, the Smuggler secured an alliance between the Ivax Syndicate and the Noble Court. <ref name="Uprising" />
+
+The Smuggler was then sent by Riley to secure an alliance with the mysterious [[Kouhun (order)|Kouhun]]. Riley had offered the services of the Smuggler, and though the Kouhun had no interest in an alliance with the syndicate, Deathstick, leader of the Kohun, did have an interest in the Smuggler. [[Deathstick]] challenged the Smuggler to participate in the Kouhun's initiation ritual on Mataou as the first step in securing an alliance. The ritual involved the Smuggler drinking a poisonous liquid and passing a series of trials while battling the effects of the poison. The tests all involved killing, and, after completing the final test, the Smuggler was given the cure to the poison and a tentative offer of alliance with the syndicate from Deathstick.<ref name="Uprising" />
+
+After securing alliances with the Noble Court and Kouhun, the Smuggler and Riley set off to Burnin Konin to rescue members of the Trade Spine League from the purge teams attempting to eradicate anyone with knowledge of the Emperor's death. The Smuggler rescued [[Ndaya]] in Drifter's Gorge, Zephasi and Fryoto, [[Onn Iria]], and Tiquip. Shortpaw, upon saving his grandson,Tiquip, offered the Trade Spine League's help to the new alliance.<ref name="Uprising" />
+
+===Kidnapping and Betrayal===
+Riley and the Smuggler hatched a plan to kidnap Bragh and ransom him in exchange for safety. When presented with this plan, newly formed alliance agreed to the plan and made preparations to scavenge much needed weaponry from Hoth to arm the Noble Court's Throneships, including the stardrop torpedo, a Noble Court [[superweapon]]. On Hoth, the Smuggler hired the scavenger Grimraker to assist with the collections and cleared several staging areas and campsites.<ref name="Uprising" />
+
+With the Throneships of the Noble Court armed, the Smuggler traveled to Anoat as bait to lure Bragh into a Kouhun ambush. The Smuggler cleared the area of local inhabitant, disabled planetary sensors, and eliminated teams of purge troopers on the planet. Before Bragh could be kidnapped, the Ivax Syndicate leaked the details of the plan, resulting in the capture of Her Majesty and Loathe by the Imperials.<ref name="Uprising" />
+
+===Rescue===
+After learning that Riley and Voras had betrayed the Noble Court and Kouhun, the Smuggler contacted Bastion. Bastion and the rebels assisted the Smuggler in ascertaining the location of the Crypt, the prison facility where the Imperials were holding Her Majesty and Loathe. The Smuggler assisted the rebels in broadcasting the recorded message from Leia Organa to the entire system. The ensuing riots created the distraction needed to infiltrate the prison facility and free the Smuggler's captive friends. As Imperial starships carrying troopers left Pujool, the Smuggler headed toward the Crypt.<ref name="Uprising" />
+
+Riley informed the Noble Court about the Smugglers plans, and Sir Corto arrived at Pujool with Noble Court Throneships to provide the Smuggler with backup. At the Crypt, the Smuggler first came across Kosimas and freed him. The Smuggler then disabled the Crypt's alarm and camera systems, then disabled the prisoners held in the delta compound section of the prison. Riley contacted theTrade Spine League, and the League's ships transported the prisoners from delta compound to freedom. The Smuggler next freed the prisoners from the gamma compound section of the prison where the Smuggler freed Loathe. Loathe decided to stay and free his fellow Kouhun rather than escape, and the Smuggler continued on. Loathe transmitted data about the prison to Riley, which allowed the Smuggler to attack the various guard stations and keep the Imperials from sending reinforcements. As the Kouhun wreaked havoc throughout the prison, Loathe was able to find the location of Her Majesty before being killed. Acting on the intelligence gathered by Loathe, the Smuggler rescued Her Majesty. As the Noble Court began pulling away from Pujool orbit, the Ivax Syndicate sent reinforcements to protect the Smuggler in an attempt to free the remaining prisoners held in gamma compound section of the prison. In a final effort, the Ivax Syndicate, the Kouhun, the Noble Court, and the Trade Spine League contributed in their own ways to disrupt the prison while the Smuggler closed in on Bragh. The Smuggler found Bragh mid-transmission with Adelhard and interrupted their conversation by killing Bragh.<ref name="Uprising" />
+
+===Secrets of the Force===
+{{Gamemechanics|canon=1}}
+The Smuggler received holodiscs from the data broker, [[Dazur Dar]], that contained information regarding the secrets weapons of the Noble Court and the origins of the Kouhun. Through the tutoring of [[Shelish]] and [[Xiath]], the Smuggler became more attuned to the [[The Force|Force]].
+
+[[Untabros Munkh]], an [[Ugnaught]] shopkeeper that lived in the Cloud City Shadow Market, told the Smuggler about rumors of Jedi scrap material. The Smuggler partnered with Munkh to retrieve the material, with Munkh providing information and the Smuggler engaging in dangerous missions to retrieve the Jedi relic. The investigations lead to the location of a Jedi Vault, containing the remnants of a [[The Smuggler's lightsaber|Jedi's lightsaber]]. During the investigations, the Smuggler learned of the fate of four Jedi ([[Mususiel]], [[Zubain Ankonori]], [[Khandra]], and [[Nuhj]]) that escaped [[Order 66]], but who were eventually hunted down and killed by [[Inquisitorius|Inquisitors]].<ref name="Uprising" />
+
+{{Endgame}}
+
+===New Base of Operations===
+After killing Bragh, Riley gathered the everyone together, and the Smuggler returned and gave a rousing speech in front of Riley, Vorax, Deathstick, Her Majesty, Bastion, and Shortpaw, convicing them to band together and overthrow Adelhard. The group then agreed to establish a new joint base of operations. The Smuggler awaited word from contacts regarding the new base.<ref name="Uprising" />
+
+==Personality and traits==
+The Smuggler was initially interested only in profit, but would honor the deals they'd made rather than break them for a better offer. The Smuggler was willing to take full responsibility for their actions, such as the destruction of a shipment of kyber crystals meant for "Happy" Dapp. The Smuggler was also known to use humor to stave off fear.<ref name="Uprising" />
+
+==Behind the scenes==
+[[File:SmugglerMale.png|thumb|left|200px|Default Male Character Set for The Smuggler]]
+The Smuggler is the player character in ''[[Star Wars: Uprising]]'', a [[2015]] [[Video game|mobile game]] ''[[Star Wars: Uprising]]''. Since the game allows the player to give the character a name and a gender of his or her choosing, the Smuggler has no real canon identity.<ref name="Uprising" /> However, the official website for ''Star Wars: Uprising'' describes the game's hero as "an unknown Smuggler," with a capital S.<ref name="SWUweb">{{Cite_web |url=https://playstarwarsuprising.com/game-guide/lore/#story |title=Lore: Story |accessdate=2016-02-06 |author= |last= |first= |authorlink= |coauthors= |date= |year= |month= |format= |work=Star Wars: Uprising Official Website|publisher= |pages= |language= |archiveurl= |archivedate= |quote=}}</ref>
+
+[[File:SmugglerFemale.png|thumb|right|200px|Default Female Character Set for The Smuggler]]
+Riley was consistently depicted as a fair-skinned human in the game's promotional material,<ref name="Uprising Launch">{{SW|url=video/star-wars-uprising-launch-trailer|text=Star Wars: Uprising Launch Trailer}}</ref><ref name="New Galaxy">{{SW|url=news/star-wars-uprising-puts-you-in-a-whole-new-galaxy|text=''Star Wars: Uprising'' Puts You in a Whole New Galaxy|archivedate=20170813153940}}</ref> but later consistently depicted as a blue Twi'lek female. For purposes of this article, the Smuggler and Riley are depicted as humans.
+
+Star Wars Uprising was abruptly cancelled in November of 2016, leaving the storyline of the game and the story of the Smuggler incomplete.
+
+===Physical Appearance===
+In game, the species and gender of the Smuggler may be chosen by the player at the start of a game. This choice also affects Riley's appearance.<ref name="Uprising" />
+
+==Appearances==
+*''[[Star Wars Battlefront II]]'' {{Imo}}
+*''[[Star Wars: Uprising]]'' {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Smuggler, The}}
+[[Category:Humans]]
+[[Category:Individuals of unspecified gender]]
+[[Category:Members of the Smuggler's crew]]
+[[Category:Smugglers]]
+[[Category:Thieves]]
+[[Category:Unidentified Force-users]]

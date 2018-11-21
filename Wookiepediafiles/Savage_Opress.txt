@@ -1,0 +1,175 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=Sith
+|image=[[File:Savage Opress missing horn.png]]
+|name=Savage Opress
+|homeworld=[[Dathomir]]<ref name="Encyclopedia">{{SWE|characters|savageopress|Savage Opress}}</ref>
+|birth=
+|death=[[19 BBY]], [[Mandalore]]<ref name="The Lawless">{{TCW|The Lawless}}</ref>
+|species=[[Zabrak]]<ref name="Monster">{{TCW|Monster}}</ref> {{C|[[Dathomirian]]}}<ref name="Encyclopedia" />
+|gender=[[Sexes|Male]]<ref name="Encyclopedia" />
+|height=1.89 [[meter]]s<ref name="Encyclopedia" /> {{C|pre-transformation}}<ref name="Pre-Transform Height">Although Opress's [http://www.starwars.com/explore/encyclopedia/characters/savageopress/ Encyclopedia entry] lists his height as 1.89 meters, this is significantly lower than that of Dooku, whose height is [http://www.starwars.com/explore/encyclopedia/characters/dooku/ given] as 1.93 meters. Since the post-transformation Opress is portrayed as being taller than Dooku in "[[Monster]]," this article assumes that Opress's Encyclopedia height refers to his pre-transformation height.</ref>
+|mass=
+|hair=
+|eyes=[[Color|Grayish-green]]; yellow {{C|[[Dark side of the Force|dark side]]}}<ref name="Monster Ep Guide">{{SWArchive|url=theclonewars/guide/episode313.html|text=''The Clone Wars'' Episode Guide: Monster}}</ref>
+|skin=Yellow and brown<ref name="Monster" />
+|cyber=[[Cybernetics|Prosthetic left arm]]<ref name="Eminence">{{TCW|Eminence (episode)|Eminence}}</ref>
+|era=
+|affiliation=*Nightbrothers<ref name="Monster" />
+*[[Sith]]<ref name="Monster" />
+*[[Confederacy of Independent Systems]] {{C|briefly}}<ref name="Monster" />
+*[[Shadow Collective]]<ref name="Eminence" />
+|masters=*[[Viscus]]<ref name="Monster" />
+*[[Dooku|Darth Tyranus]] {{C|formerly}}<ref name="Witches of the Mist">{{TCW|Witches of the Mist}}</ref>
+*[[Maul|Darth Maul]]<ref name="Revival">{{TCW|Revival (episode)|Revival}}</ref>
+|apprentices=}}
+{{Quote|Brother, I am an unworthy apprentice. I'm not like you. I never was.|Savage Opress's last words, spoken to Darth Maul|The Lawless}}
+'''Savage Opress''' was a [[Dathomirian]] [[Nightbrothers|Nightbrother]] who became a [[Sith apprentice]] under [[Dooku|Darth Tyranus]] during the [[Clone Wars]]. After defecting, he, along with [[Maul|Darth Maul]], formed a rival [[Sith]] order to that of [[Darth Sidious]]'s, and would later be [[Death|killed]] by Sidious.
+
+==Biography==
+===The Clone Wars===
+[[File:TheCloneWarsseason3e13.jpg|left|thumb|148x148px|Opress and fellow Nightbrothers ]]
+Born on [[Dathomir]] to [[Mother (title)|Mother]] [[Talzin]],<ref name="Absolutely Everything You Need to Know">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref> Savage Opress was handpicked by the [[Nightsisters|Nightsister]] [[Asajj Ventress]] to become [[Sexes|her]] servant following her grueling tests of [[Selection]], in which many of Opress's fellow Nightbrothers were killed, as part of Ventress' plot for revenge on her former [[Sith Master|Master]], the [[Sith Lord]] [[Count]] [[Dooku]]. [[File:SavageStranglesFeral-Monster.png|left|thumb|148x148px|Savage Opress chokes Feral, his own brother]]
+In accordance with their plot against Dooku, Mother Talzin and her Nightsister witches employed their [[magick]]s to grant Opress fearsome [[Force power|abilities]], placing him under their [[Mesmerism|control]]. After [[Death|murdering]] his beloved brother [[Feral]] in a display of loyalty to Ventress, Opress entered the [[Clone Wars]] as a [[Sith apprentice]], serving as an enforcer in Dooku's [[Confederacy of Independent Systems]]. He executed a [[Devaron massacre|mission]] against the [[Galactic Republic]] at [[Devaron]]'s [[Temple of Eedit]], slaying his first [[Jedi]], Master [[Halsey]] and Padawan [[Knox]], in the former campaign. Opress soon became apprenticed to Dooku, who intended to use his new acolyte to overthrow his own Master, [[Darth Sidious]], and claim control of [[the galaxy]].<ref name="Monster" />
+
+====Brothers Reunited====
+[[File:KatuunkoChoked-WOTM.png|right|thumb|218x218px|Opress chokes King Katuunko to death]]
+While Opress was subjected to brutal [[Sith training/Canon|Sith training]] under Dooku's charge, Ventress prepared to pit the monstrous Nightbrother against Dooku. Opress was sent on a mission to [[Toydaria]], where he killed [[King Katuunko]]. However the assingment had been to bring the King back to Dooku alive. Yet when Ventress's plans for revenge [[Showdown at Toydaria|culminated]] there, she and her ex-Master found that neither of them could contain Opress's impulsive nature and rage. In what became a three-way [[Lightsaber combat|lightsaber battle]], Opress overcame Ventress's spell of control and also terminated his service to Dooku, further battling his way through [[Jedi Knight]] [[Anakin Skywalker]] and [[Jedi Master]] [[Obi-Wan Kenobi]] before escaping to Dathomir. After learning from Talzin of his kinship to the former Sith apprentice [[Darth]] [[Maul]],<ref name="Witches of the Mist" /> Opress [[Mission to Lotho Minor|rescued]] his weakened brother from the depths of [[Lotho Minor]]<ref name="Brothers">{{TCW|Brothers}}</ref> and brought him home to Dathomir, where Talzin restored his mind and body. Opress then became involved with Maul's pursuit of vengeance on Kenobi, who had [[Battle of Naboo|cut him in half]] over a [[Standard decade|decade]] ago in the Theed Royal Palace, on [[Naboo]].<ref name="Revenge">{{TCW|Revenge (episode)|Revenge}}</ref>
+
+[[File:MaulAndSavageWillBePatient-Revenge.png|thumb|left|220px|Opress and Maul, brothers reunited]]
+Although Kenobi escaped from them with the aid of Asajj Ventress during a [[Skirmish above Raydonia|confrontation]] at [[Raydonia]],<ref name="Revenge" /> Opress and Maul continued their plans for revenge and galactic domination, turning to the criminal underworld to achieve their needs. Opress and Maul cut a swath through the [[Outer Rim Territories|Outer Rim]], battling through civilians and Jedi Knights alike who stood in their way. As part of Maul's plans, Opress became a [[Sith]] Lord, but he was forced to become the apprentice&mdash;submitting to his brother, the Master&mdash;in accordance with the Sith [[Rule of Two]]. While attempting to recruit [[Weequay]] [[Ohnaka Gang|pirates]] into their service on [[Florrum]], Opress [[Skirmish on Florrum|killed]] renowned Jedi Master [[Adi Gallia]], though he soon thereafter lost his left [[Limbfree|arm]] to Kenobi's [[Obi-Wan Kenobi's lightsaber (Jedi Master)|lightsaber]].<ref name="Revival" />
+
+====Opress's death====
+[[File:Cybernetic_savageopress.jpeg|thumb|right|Opress' prosthetic arm|left]]
+Kenobi then chased Opress and Maul off Florrum, destroying their [[Starship|ship]] and leaving them stranded until they were discovered by members of the [[Death Watch]], a group of [[Mandalore|Mandalorian]] warriors led by [[Pre Vizsla]]. Opress, Maul, the [[Mandalorian]]s, and various criminal groups in the galaxy, including Black Sun, Pyke Sindicate, and Hutts formed an [[Shadow Collective|alliance]] to overthrow the pacifist [[New Mandalorians|rulers]] of the planet [[Mandalore]],<ref name="Eminence" /> and even though the operation ended successfully, Viszla and his men arrested Opress and Maul. After breaking free from [[prison]] with Mandalore's incarcerated [[Prime Minister]], [[Almec]], Opress and Maul [[Takeover of Mandalore|seized control]] of Mandalore after Maul killed Viszla in lightsaber combat.<ref name="Shades of Reason">{{TCW|Shades of Reason}}</ref>
+
+[[File:DoubleShotShiak-TL.png|thumb|left|220x220px|Opress is killed by Darth Sidious.]]
+The brothers' rule of Mandalore attracted unwanted attention from Maul's former Master, Darth Sidious, who saw their power as a threat to the dominance of his Sith Order. Sidious traveled to Mandalore and [[Mandalorian civil war (Clone Wars)|confronted]] the two. Though Opress was skilled, Sidious ultimately bested the Zabrak warrior in combat, fatally impaling Opress. Ironically the way Savage died was very similar to the way Maul had killed [[Qui-Gon Jinn]] in front of Obi-Wan Kenobi over a decade earlier. In his dying breath, Opress expressed regret for never having been Maul's equal. As he died, a green mist emanated from his body and his armor disappeared. His muscles and physique reverted back to their form from before the Nightsister ritual. Opress died the man he had been before become Ventress's pawn. An enraged Maul tried to kill his former master, but was quickly defeated and captured. <ref name="The Lawless" />
+
+===Legacy===
+{{Quote|Next you're going to tell me that you weren't planning to mention Captain Rex, Ahsoka, Ventress, Cad Bane, Savage Opress, Jar Jar, and the Mandalorians?"<br>"Well.. I guess I could always go back and tell their stories later."<br>"Out of order?|A Whill, to [[Unidentified Whill|another]]|Whills}}
+Opress was remembered long after the Clone Wars, and was mentioned by a [[Second Whill (From a Certain Point of View)|member]] of the [[Whills (community)|Whills]] as someone to be remembered in [[Timeline of galactic history|galactic history]].<ref name="Whills">{{Shortstory|story=Whills|book=From a Certain Point of View}}</ref>
+
+==Behind the scenes==
+Savage Opress is voiced by prolific voice actor [[Clancy Brown]] in ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'', first appearing in the episode "[[Monster]]". Savage Opress' introduction in the series was instrumental, along [[George Lucas]]' recommendations, to bring back Darth Maul into the series following his apparent death in the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']].<ref name="SWCO 2017">{{SW|url=news/swco-2017-11-things-we-learned-from-dave-filoni-and-pablo-hidalgos-animated-origins-and-unexpected-fates-panel|text=SWCO 2017: 11 Things We Learned from Dave Filoni and Pablo Hidalgo's "Animated Origins and Unexpected Fates" Panel}}</ref>
+
+Early plans of the ''[[Star Wars Rebels]]'' episode "[[Twin Suns (episode)|Twin Suns]]" featured Maul experiencing [[vision]]s of both Opress and Satine Kryze before facing Obi-Wan Kenobi on [[Tatooine]]. In contrast to Kryze, Opress nearly actually made it to design phase before [[Dave Filoni]] thought it better, feeling that in an already lengthy episode, there was no time to explain Savage's origins as they couldn't risk alienating new ''[[Star Wars]]'' fans who would be confused with Opress' sudden appearance.<ref name="SWCO 2017" />
+
+==Appearances==
+*''[[Star Wars: Galactic Defense]]''
+*{{TCW|Monster}} {{1st}}
+*{{TCW|Witches of the Mist}}
+*{{TCW|Massacre}} {{Flash}}
+*{{TCW|Brothers}}
+*{{TCW|Revenge (episode)|Revenge}}
+*{{TCW|Revival (episode)|Revival}}
+*{{TCW|Eminence (episode)|Eminence}}
+*{{TCW|Shades of Reason}}
+*{{TCW|The Lawless}}
+*''[[Dark Disciple]]'' {{Mo}}
+*''[[Darth Maul—Son of Dathomir, Part One]]'' {{Mo}}
+*{{Rebels|Twilight of the Apprentice}} {{Mo}}
+*''[[Maul: A Star Wars Rebels Cinestory Comic]] ''{{Mo}}
+*{{Shortstory|story=Whills|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Mo}}
+
+===Non-canon appearances===
+*{{Droid Tales|Crisis on Coruscant (episode)|Crisis on Coruscant}} {{Flash}}
+*''[[LEGO Star Wars: The Force Awakens]]'' {{C|DLC}}
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+{{Scroll_box|content=
+*{{SWE|characters|adigallia|Adi Gallia}}
+*{{SWE|characters|asajjventress|Asajj Ventress}}
+*{{SWE|groups|blacksun|Black Sun}}
+*{{SWE|characters|dooku|Count Dooku}}
+*{{SWE|characters|darthmaul|Darth Maul}}
+*{{SWE|characters|darthsidious|Darth Sidious}}
+*{{SWE|locations|dathomir|Dathomir}}
+*{{SWE|technology|firebreather|firebreather}}
+*{{SWE|characters|jiro|Jiro}}
+*{{SWE|groups|junkers|Junkers}}
+*{{SWE|characters|katuunko|King Katuunko}}
+*{{SWE|characters|morley|Morley}}
+*{{SWE|characters|mothertalzin|Mother Talzin}}
+*{{SWE|locations|lothominor|Lotho Minor}}
+*{{SWE|groups|nightsisters|Nightsisters}}
+*{{SWE|characters|obiwankenobi|Obi-Wan Kenobi}}
+*{{SWE|locations|raydonia|Raydonia}}
+*{{SWE|characters|savageopress|Savage Opress}}
+*{{SWE|locations|serenno|Serenno}}
+*{{SWE|groups|sith|Sith}}
+*{{SWE|technology|turtletanker|Turtle Tanker}}
+*{{SWE|locations|zanbar|Zanbar}}
+*{{SWE|characters|zitonmoj|Ziton Moj}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|adi-gallia|Adi Gallia|archivedate=20170706043936}}
+*{{Databank|asajj-ventress|Asajj Ventress|archivedate=20170708191423}}
+*{{Databank|bo-katan-kryze|Bo-Katan Kryze|archiveurl=https://archive.fo/4ySEh}}
+*{{Databank|brother-viscus|Brother Viscus|archivedate=20170309232238}}
+*{{Databank|count-dooku|Count Dooku|archivedate=20170705061812}}
+*{{Databank|count-dookus-lightsaber|Count Dooku's Lightsaber|archivedate=20170504152745}}
+*{{Databank|darth-maul|Darth Maul|archivedate=20170710180356}}
+*{{Databank|death-watch|Death Watch|archivedate=20170706053752}}
+*{{Databank|devaron|Devaron|archivedate=20170705034830}}
+*{{Databank|emperor-palpatine-darth-sidious|Emperor Palpatine / Darth Sidious|archiveurl=https://archive.is/BR4CY}}
+*{{Databank|jiro|Jiro}}
+*{{Databank|morley|Morley}}
+*{{Databank|mother-talzin|Mother Talzin}}
+*{{Databank|nightbrothers|Nightbrothers}}
+*{{Databank|nightsister-crystal-ball|Nightsister Crystal Ball}}
+*{{Databank|obi-wan-kenobi-biography-gallery|Obi-Wan Kenobi biography gallery}}
+*{{Databank|palpatines-lightsaber|Palpatine's lightsaber}}
+*{{Databank|pre-vizsla|Pre Vizsla}}
+*{{Databank|savage-opress|Savage Opress}}
+*{{Databank|sith|Sith}}
+*{{Databank|solar-sailer|Solar Sailer}}
+*{{Databank|xomit-grunseit|Xomit Grunseit|archivedate=20151231220215}}}}
+
+{{Start box}}
+{{Succession_box
+|title=[[Dark Lord of the Sith]] with [[Maul|Darth Maul]] {{C|informally}}<ref name="Monster" />
+|years=[[20 BBY]]<ref name="Monster" />&ndash;[[19 BBY]]<ref name="The Lawless" />
+|before=
+|before-years=
+|after=
+|after-years=
+}}
+{{End box}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Savage Opress
+|de=Savage Opress#kanon
+|el=Σαβάζ Οπρές‏‎
+|es=Savage Opress
+|hu=Savage Opress
+|it=Savage Opress
+|nl=Savage Opress
+|pl=Savage Opress
+|pt=Savage Opress
+|ru=Саваж Опресс/Канон
+|sv=Savage Opress
+|uk=Саваж Опресс
+}}
+
+{{DEFAULTSORT:Opress, Savage}}
+[[Category:Assassins]]
+[[Category:Dathomirians]]
+[[Category:Jedi hunters]]
+[[Category:Males]]
+[[Category:Nightbrothers]]
+[[Category:Shadow Collective members]]
+[[Category:Sith Lords]]
+[[Category:Zabrak]]

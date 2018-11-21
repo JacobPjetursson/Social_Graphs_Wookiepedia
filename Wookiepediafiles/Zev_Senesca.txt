@@ -1,0 +1,78 @@
+{{Eras}}
+{{Update|[[Star Wars 45: Mutiny at Mon Cala, Part II]], [[Star Wars 51: Hope Dies, Part II]]}}
+{{Character
+|type=Rebel
+|image=[[File:ZevSenescaHS-TESB.png]]
+|name=Zev Senesca
+|homeworld=[[Kestic Station]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[3 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Hoth]]<ref name="ESB">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+|species=[[Human]]<ref name="Ultimate Star Wars" />
+|gender=[[Sexes|Male]]<ref name="ESB" />
+|height=1.6 [[meter]]s<ref name="Databank">{{Databank|zev-senesca|Zev Senesca}}</ref>
+|mass=
+|hair=[[Color|Brown]]<ref name="ESB" />
+|eyes=Brown<ref name="ESB" />
+|skin=Fair<ref name="ESB" />
+|cyber=
+|era=
+|affiliation=*[[Alliance to Restore the Republic]]<ref name="ESB" />
+**[[Rogue Squadron]]<ref name="ESB" />
+|masters=
+|apprentices=}}
+{{Quote|Echo Base, this is Rogue Two. I've found them. Repeat, I've found them.|Zev Senesca, after locating Luke Skywalker and Han Solo on Hoth|Star Wars: Episode V The Empire Strikes Back}}
+'''Zev Senesca''' was a [[human]] [[Sexes|male]] [[rebel pilot]] who served the [[Alliance to Restore the Republic|Rebel Alliance]] as a member of [[Rogue Squadron]]. While operating on [[Hoth]], Senesca flew a [[T-47 airspeeder|snowspeeder]] under the [[callsign]] [[Rogue Two]]. He was the [[pilot]] who located the missing Alliance members [[Captain]] [[Han Solo]] and [[Commander]] [[Luke Skywalker]], and he later participated in the [[Battle of Hoth]]. During the battle, Senesca and [[Kit Valent|his gunner]] [[Death|died]] when their snowspeeder was shot down by an [[All Terrain Armored Transport|AT-AT]].
+
+==Biography==
+{{Quote|Like hunting sharwhales on Uthura! I'm coming home!|Zev Senesca, during the Battle of Hoth|The Empire Strikes Back: So You Want to Be a Jedi?}}
+[[File:Zev-hd.png|thumb|left|250px|Zev Senesca locates Han Solo and Luke Skywalker.]]
+Zev Senesca was a [[human]] [[Sexes|male]] from [[Kestic Station]]. At some point, Senesca left Kestic Station<ref name="Ultimate Star Wars" /> and resided on [[Uthura]], where he [[Hunting|hunted]] [[starwhale]]s.<ref name="SYWTBAJ">''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''</ref> By the [[time]] of the [[Galactic Civil War]], Senesca had joined the [[Alliance to Restore the Republic]], serving the [[Rebel Alliance Starfighter Corps]]. After joining the Alliance, he met [[Wedge Antilles]] and [[Derek Klivian|Hobbie]] whilst at one of [[General]] [[Hera Syndulla]]'s training exercises.<ref name="Star Wars 45">''[[Star Wars 45: Mutiny at Mon Cala, Part II]]''</ref>
+
+Eventually Senesca became a [[pilot]] of [[Rogue Squadron]].<ref name="SYWTBAJ" />
+
+In [[3 ABY]],<ref name="Galactic Atlas" /> Senesca was among the Rebels stationed at [[Echo Base]] on the [[Water|ice]]-[[planet]] of [[Hoth]], where he flew a [[T-47 airspeeder]] under the [[callsign]] of [[Rogue Two]]. When [[Rogue Leader]] [[Luke Skywalker]] went missing during a patrol, [[Captain]] [[Han Solo]] went in search of him. The following morning, Senesca led Rogue Squadron and located the two missing [[officer]]s.<ref name="ESB" />
+
+Soon after, the [[Galactic Empire]] discovered Echo Base, and the Rebel Alliance began an evacuation. During the subsequent [[Battle of Hoth]], Senesca piloted his snowspeeder,<ref name="ESB" /> with [[Kit Valent]] serving as his [[gunner]].<ref name="Complete Locations">''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''</ref> While defending Echo Base from Imperial [[All Terrain Armored Transport]]s, Senesca's snowspeeder was shot down, and both he and Valent were [[Death|killed]].<ref name="ESB" />
+
+==Behind the scenes==
+Zev Senesca was created for the [[1980]] film [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']], in which he was portrayed by actor [[Christopher Malcolm]]. The film's credits identified the character as "Zev,"<ref name="ESB" /> and the surname of "Senesca" was later [[canon]]ized in ''[[Ultimate Star Wars]]'', a [[2015]] reference book.<ref name="Ultimate Star Wars" />
+
+According to ''Ultimate Star Wars'', Senesca hailed from Kestic Station.<ref name="Ultimate Star Wars" /> However, the 2015 junior novel ''[[The Empire Strikes Back: So You Want to Be a Jedi?]]'' states that Uthura is his [[homeworld]],<ref name="SYWTBAJ" /> and a cohesive timeline from [[Lucasfilm Ltd.|Lucasfilm]] has yet to be determined.
+
+==Appearances==
+{{Imagecat|Images of Zev Senesca}}
+*''[[Star Wars 45: Mutiny at Mon Cala, Part II]]''
+*''[[Star Wars 51: Hope Dies, Part II]]''
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[The Empire Strikes Back: So You Want to Be a Jedi? (audiobook)|''The Empire Strikes Back: So You Want to Be a Jedi?'' audiobook]]
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*''[[Ultimate Star Wars]]'' {{1stID|Senesca}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|rebel-pilots|Rebel Pilots}}
+*{{Databank|zev-senesca|Zev Senesca}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SW|url=news/inside-the-fearless-rogue-group|text=Inside the Fearless Rogue Group}}
+
+{{Interlang
+|ko=제브 세네스카
+|ja=ゼヴ・セネスカ
+|es=Zev Senesca
+|ru=Зев Сенеска/Канон
+|pl=Zev Senesca}}
+
+{{DEFAULTSORT:Senesca, Zev}}
+[[Category:Humans]]
+[[Category:Hunters]]
+[[Category:Males]]
+[[Category:Rogue Squadron personnel]]

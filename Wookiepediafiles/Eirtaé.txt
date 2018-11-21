@@ -1,0 +1,64 @@
+{{Eras|notoc=1}}
+{{Cleanup}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Eirtae-TPM.png]]
+|name=Eirtaé
+|homeworld=[[Naboo]]<ref name="TPM">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|birth=
+|death=
+|species=[[Human]] {{C|[[Naboo (people)|Naboo]]}}<ref name="TPM" />
+|gender=[[Sexes|Female]]<ref name="TPM" />
+|height=
+|mass=
+|hair=[[Color|Blond]]<ref name="TPM" />
+|eyes=Blue<ref name="TPM" />
+|skin=Fair<ref name="TPM" />
+|cyber=
+|era=
+|affiliation=*[[Royal House of Naboo]]<ref name="TPM" />
+**[[Naboo Royal Handmaidens]]<ref name="TPM" />
+*[[Galactic Republic]]<ref name="TPM" />
+|masters=
+|apprentices=}}'''Eirtaé''' was a [[Sexes|female]] [[human]] who was part of [[Queen]] [[Padmé Amidala|Amidala's]] retinue of [[Naboo Royal Handmaidens|handmaidens]].
+
+==Biography==
+
+===Early Life===
+Eirtaé was born on Naboo prior to the Invasion of Naboo. She joined the Naboo Royal Handmaidens by the time Queen Amidala was elected as the Queen of the Naboo.<ref name="TPM" />
+
+===Naboo Crisis===
+In [[32 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> Eirtae was on [[Naboo]] when the [[planet]] was [[Invasion of Naboo|invaded]] by the [[Trade Federation]]. After [[Monarch of Naboo|queen]] [[Padmé Amidala]] was captured, [[Viceroy of the Trade Federation|Viceroy]] [[Nute Gunray]] told Amidala that [[Sexes|he]] was going to force her to sign a treaty to make the Federation's invasion legal. After Amidala refused to cooperate, Amidala, [[Governor]] [[Sio Bibble]], the [[Royal Naboo Security Forces|Naboo Security Forces]] and the [[Naboo Royal Handmaidens|handmaidens]] were to be taken by [[b1 battle droid]]s to [[Camp Four]]. As they made their way to the camp, [[Jedi Master]] [[Qui-Gon Jinn]] and his [[Padawan]], [[Obi-Wan Kenobi]] rushed in and saved the group and they fled to the [[transport]]s so that they could go to [[Coruscant]] Amidala could plea her case to the [[Galactic Senate|Senate]]. After a brief stop on Coruscant, Amidala decided to go to Naboo and free [[Naboo (people)|her people]] herself. She went to the [[Gungan]]s and begged for their help. The Gungan leader, [[Boss]] [[Rugor Nass|Nass]], agreed to help. Later, after planning the [[Battle of Naboo|liberation]], they made their way into the [[Theed Royal Palace|Theed palace]]. Inside, they ran into [[Maul|Darth Maul]] and they agreed to let Jinn deal with them while they fight the Federation [[droid]]s. After the battle, Eirtae attended Jinn's [[Funeral of Qui-Gon Jinn|funeral]], who had been [[Death|killed]] by Maul during the battle. Eirtae also attended the celebration of the liberation of Naboo shortly after.<ref name="TPM" />
+
+==Personality and Traits==
+Contrarily to all the other handmaidens and to the Queen herself, she had [[Color|blond]] [[hair]] and blue [[eye]]s. She also had fair skin.<ref name="TPM" />
+
+==Behind the scenes==
+Eirtaé was portrayed by [[Liz Wilson|Friday "Liz" Wilson]] in ''[[Star Wars: Episode I The Phantom Menace|The Phantom Menace]]''.<ref name="TPM" />
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*''[[The Phantom Menace Read-Along Storybook and CD]]''
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+
+==Sources==
+*{{SW|text = ''Star Wars'': Episode I ''The Phantom Menace''|url = films/star-wars-episode-i-the-phantom-menace}}
+*{{SWE|groups|nabooroyalhandmaidens|Naboo royal handmaidens}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]'' {{Imo}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]'' {{Imo}}
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*{{Databank|confederacy-of-independent-systems|Confederacy of Independent Systems|archivedate=20170504153602}} {{Po}}
+*{{Databank|naboo|Naboo}} {{Po}}
+*{{Databank|naboo-royal-guards|Naboo Royal Guards}} {{Po}}
+*{{Databank|otoh-gunga|Otoh Gunga}} {{Po}}
+*{{Databank|padme-amidala|Padmé Amidala}} {{Po}}
+*{{Databank|sabe|Sabé}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Females]]
+[[Category:Galactic Republic individuals]]
+[[Category:Humans]]
+[[Category:Naboo Royal Handmaidens]]
+[[Category:Naboo]]

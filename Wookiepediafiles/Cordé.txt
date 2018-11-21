@@ -1,0 +1,66 @@
+{{Eras}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Cordé - SW Card Trader.png]]
+|name=Cordé
+|homeworld=
+|birth=
+|death=[[22 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Coruscant]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|species=[[Human]] {{C|[[Naboo (people)|Naboo]]}}<ref name="Episode II" />
+|gender=[[Sexes|Female]]<ref name="Episode II" />
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="Episode II" />
+|eyes=Brown<ref name="Episode II" />
+|skin=Light<ref name="Episode II" />
+|cyber=
+|era=
+|affiliation=*[[Royal House of Naboo]]<ref name="Episode II" />
+**[[Naboo Royal Handmaidens]]<ref name="Episode II" />
+*[[Galactic Republic]]<ref name="Episode II" />
+|masters=
+|apprentices=}}
+{{Quote|M'lady, I'm so sorry. I've failed you, Senator.|Cordé, to Padmé Amidala|Star Wars: Episode II Attack of the Clones}}
+'''Cordé''' was a [[Naboo Royal Handmaidens|handmaiden]] who served [[Senator]] [[Padmé Amidala]] in the [[Standard day|days]] leading up to the [[Clone Wars]]. She was acting as a decoy when she was [[Death|killed]] in an [[Plot to assassinate Padmé Amidala|attempt]] on Amidala's life by [[Clawdite]] [[bounty hunter]] [[Zam Wesell]].
+
+==Biography==
+Cordé served [[Padmé Amidala]], the former [[Monarch of Naboo|queen]] of [[Naboo]], during [[Sexes|her]] tenure as [[senator]] on [[Coruscant]]. In the [[Standard day|days]] leading up to the [[Battle of Geonosis|outbreak]] of the [[Clone Wars]], Amidala returned to [[The galaxy|the galactic]] [[capital]] from Naboo to take part in a [[Military Creation Act|vote]] on the creation of a [[Galactic Republic|Republic]] [[Grand Army of the Republic|army]] in the wake of the [[Separatist Crisis]].<ref name="Episode II" />
+
+[[File:Corde.jpg|thumb|left|200px|Cordé, moments before her death]]
+On the orders of Amidala's chief of security, [[Captain]] [[Gregar Typho|Typho]], Cordé served as her decoy, traveling on the senator's [[J-type diplomatic barge|ship]] posing as Amidala while the real senator [[pilot]]ed a [[N-1 starfighter|Naboo starfighter]] in disguise. Upon landing, Cordé descended the ramp with her retinue, but was soon caught up in an [[Plot to assassinate Padmé Amidala|explosion]] that destroyed the [[Starship|ship]] and [[Death|killed]] both her and six other people. The explosion was set up by [[bounty hunter]] [[Zam Wesell]], who had been hired by [[Jango Fett]] to [[assassin]]ate the senator.<ref name="Episode II" />
+
+While Cordé lay dying, Amidala ran to her [[Naboo Royal Handmaidens|handmaiden's]] side. With her dying words, Cordé apologized for failing her mistress, though Amidala insisted that she had not.<ref name="Episode II" /> Sometime later, Amidala shared private tears for Cordé with [[Duja]], another of her handmaidens.<ref name="Thrawn: Alliances">''[[Thrawn: Alliances]]''</ref>
+
+==Personality and traits==
+Cordé had [[Color|brown]] [[hair]], brown [[eye]]s and light skin. As she lay dying, she thinks she failed the senator.<ref name="Episode II" />
+
+==Behind the scenes==
+Cordé was played by [[Natalie Portman]] inside the cruiser and walking down the entry ramp, a stunt actress during the explosion that took her life, and [[Veronica Segura]] during her death.<ref name="Chronicles">''[[Star Wars Chronicles: The Prequels]]''</ref>
+
+==Appearances==
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*''[[Attack of the Clones Read-Along Storybook and CD]]'' {{Imo}}
+*''[[Thrawn: Alliances]]'' {{Mo}}
+
+==Sources==
+*{{SW|text=Star Wars: Episode II - Attack of the Clones|url=explore/the-movies/episode-ii/}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*[[Star Wars: Card Trader|''Star Wars'': Card Trader]]
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|padme-amidala|Padmé Amidala}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ja=コーデ/正史
+|ru=Корде/Канон
+}}
+
+[[Category:Females]]
+[[Category:Galactic Republic individuals]]
+[[Category:Humans]]
+[[Category:Naboo Royal Handmaidens]]
+[[Category:Naboo]]
+[[Category:Political decoys]]

@@ -1,0 +1,61 @@
+{{Eras}}
+{{Character
+|type=Rebel
+|image=[[File:Dackralter.jpg]]
+|name=Dak Ralter
+|homeworld=[[Kalist VI]]<ref name="Ultimate">''[[Ultimate Star Wars]]''</ref>
+|birth=[[17 BBY]]&ndash;[[16 BBY]]<ref name="Lost Stars Note">''[[Lost Stars]]'', Ch. 15 and 17</ref>
+|death=[[3 ABY]], [[Hoth]]<ref name="ESB">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+|species=[[Human]]<ref name="ESB">[[Star Wars: Episode V The Empire Strikes Back']]</ref>
+|gender=[[Sexes|Male]]<ref name="ESB" />
+|height=1.62 [[meter]]s<ref name="Databank">{{Databank|dak-ralter|Dak Ralter|archivedate=20170622135826}}</ref>
+|mass=
+|hair=[[Color|Brown]]<ref name="ESB" />
+|eyes=Green<ref name="ESB" />
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Alliance to Restore the Republic]]<ref name="ESB" />
+**[[Rogue Squadron]]<ref name="ESB" />
+|masters=
+|apprentices=}}
+{{Quote|Right now I feel I can take on the whole Empire myself.''"<br />"''I know what you mean.|Dak Ralter and Luke Skywalker|audio=TakeOnTheEmpireMyself-ESB.ogg|Star Wars: Episode V The Empire Strikes Back}}
+'''Dak Ralter''' was a [[human]] [[Sexes|male]] from [[Kalist VI]]<ref name="Ultimate" /> who served as a [[Rebel pilot|pilot]] in the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]]. He was very idealistic, joining the Rebel Alliance in order to bring back the Republic and end the [[Galactic Empire]]. He was a member of [[Rogue Squadron]], befriending [[Thane Kyrell]] shortly before the [[Battle of Hoth]]. Before the battle, he was very excited to work with [[Luke Skywalker]], the hero he had heard so much about.<ref name="Lost Stars">''[[Lost Stars]]''</ref> He served as Skywalker's [[gunner]] and [[Death|died]] in the battle. Shortly after his death, their snowspeeder was shot down and crash landed in front of an AT-AT. Skywalker escaped the wreckage as the walker's foot stomped on the speeder, crushing Ralter's corpse inside.<ref name="ESB" />
+
+{{Char-stub}}
+
+==Behind the scenes==
+Dak Ralter first appeared in [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']], which was released in North America on [[1980]]. He was portrayed by [[John Morton]].
+
+==Appearances==
+*''[[Lost Stars]]''
+*[[Lost Stars (webcomic)|''Lost Stars'' webcomic]] {{Imo}}
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]] {{C|Misspelled as Dack}}
+
+==Sources==
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*{{SW|url=news///inside-the-fearless-rogue-group|text=Inside the Fearless Rogue Group}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|dak-ralter|Dak Ralter|archivedate=20170622135826}}
+*{{Databank|rebel-pilots-biography-gallery|Rebel Pilots biography gallery}}; image #7 {{C|of 15}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Dak Ralter
+|ko=댁 랄터
+|ja=ダック・ラルター
+|pl=Dak Ralter
+|ru=Дак Ралтер/Канон
+}}
+
+{{DEFAULTSORT:Ralter, Dak}}
+[[Category:Gunners]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Rogue Squadron personnel]]

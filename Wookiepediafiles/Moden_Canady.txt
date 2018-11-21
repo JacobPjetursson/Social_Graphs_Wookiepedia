@@ -1,0 +1,81 @@
+{{Eras}}
+{{Update|[[Star Wars: The Last Jedi: Expanded Edition]]}}
+{{Character
+|type=First Order
+|image=[[File:Moden Canady.png]]
+|name=Moden Canady
+|homeworld=
+|birth=Between [[25 BBY]] and [[16 BBY]]<ref name="TLJ-TVD">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref>
+|death=[[34 ABY]],<ref name="Date Note">''[[Star Wars: Galactic Atlas]]'' places the events of [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] in [[34 ABY]]. [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] takes place immediately after the end of ''The Force Awakens''.</ref> ''[[Fulminatrix]]'', [[Ileenium system]]<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+|species=[[Human]]<ref name="Databank">{{Databank|captain-canady|Captain Canady|archiveurl=https://archive.fo/rJ8MJ}}</ref>
+|gender=[[Sexes|Male]]<ref name="Databank" />
+|height=
+|mass=
+|hair=[[Color|Orange-grey]]<ref name="Episode VIII" />
+|eyes=Blue<ref name="Episode VIII" />
+|skin=Fair<ref name="Episode VIII" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="TLJ-TVD" />
+**[[Imperial Navy]]<ref name="Databank" />
+**[[Imperial Officer Corps]]<ref name="Databank" />
+*[[First Order]]<ref name="Databank" />
+**[[First Order Navy]]<ref name="Episode VIII" />
+|masters=
+|apprentices=}}
+{{Quote|What are we waiting for? Fire on the base!|Moden Canady during the siege of D'Qar|Star Wars: Episode VIII The Last Jedi}}
+'''Moden Canady''' was a [[human]] [[Sexes|male]] who served as a [[Navy|naval]] [[officer]] in both the [[Galactic Empire]] and the [[First Order]]. During the [[Imperial Era|reign]] of the Empire, Canady commanded the [[Star Destroyer]] ''[[Solicitude]]'' of the [[Imperial Navy|Imperial Starfleet]]. He later joined the First Order, becoming [[captain]] of the [[Mandator IV-class Siege Dreadnought|Siege Dreadnought]] ''[[Fulminatrix]]'', a capacity in which he served during the [[evacuation of D'Qar]]. To his irritation, however, he had to put up with the crew of the ''Fulminatrix'', who were younger than him and, in Canady's view, inexperienced and arrogant. Canady, along with everyone else on his [[Starship|ship]], were [[Death|killed]] in a [[Resistance]] bombing run led by [[Poe Dameron]] in the [[Realspace|space]] battle above [[D'Qar]].
+
+==Biography==
+Moden Canady<ref name="TLJ-TVD" /> served as the [[commander]]<ref name="Databank" /> of the [[Star Destroyer]] ''[[Solicitude]]'' of the [[Imperial Navy|Imperial Starfleet]] during the [[Imperial Era|reign]] of the [[Galactic Empire]]. Following the Empire's [[Battle of Jakku|fall]], Canady became an [[First Order officer|officer]] of the [[First Order]].<ref name="Databank" /> He eventually became the [[captain]] of the ''[[Fulminatrix]]''.<ref name="TLJ-TVD" />
+
+During the [[Evacuation of D'Qar|evacuation]] of [[D'Qar]], [[General]] [[Armitage Hux]] ordered Canady to command the ''Fulminatrix'' against the Resistance. During the battle, he ordered his warrant officer, [[Suday Bascus]], to reorient the ship's topside cannons and prepare the onboard fighter squadrons for deployment against the Resistance Fleet, and proceeded to sternly remind the man that there was a difference between the orders "prep for launch" and "launch" when Bascus protested that Hux had previously ordered for the ship not to deploy their fighter squadrons due to wanting to give a demonstration to the Resistance.<ref name="TLJ:ED">''[[Star Wars: The Last Jedi: Expanded Edition]]''</ref>
+
+[[File:Canady & Hux.jpg|thumb|202x202px|left|Canady speaking with Hux]]
+In a surprise maneuver, [[Wing Commander]] [[Poe Dameron]] led a lone spearhead attack on the point-defense [[cannon]]s of the ''Fulminatrix'', to the annoyance of General Hux who demanded to know why Canady was not blasting the ship. Canady responded by stating that the ship was too fast and too close for the cannons and ordered his crew to launch their fighters. Canady was then informed by Bascus that there were several Resistance bombers approaching the dreadnought. While his fighters wiped out all but one of the bombers, Canady ordered the crew to fire on the [[Resistance base]], destroying the complex after it was fully evacuated and then had them target the main Resistance cruiser. Before they could fire, however, the [[gunner]] [[Paige Tico]] managed to launch her [[Cobalt Hammer|ship's]] payload of [[bomb]]s against the ''Fulminatrix'', causing systematic destruction. Accepting he had been bested, Canady stood firm silently respecting the courage of his enemies as his ship blew up, killing him and his loathed crew.<ref name="Episode VIII" />
+
+==Personality and traits==
+{{Quote|What a bloody idiot.|Moden Canady, on Armitage Hux|The Last Jedi Adaptation 1}}
+[[File:Canady opinion.jpg|thumb|261x261px|Canady gives his opinion of General Hux]]
+A veteran [[Imperial officer|officer]] of the Galactic Empire, Moden Canady was proud to serve the First Order just like when he served the Empire at the beginning of his career. However, he loathed having to serve alongside arrogant and inexperienced young First Order [[officer]]s due to their lack of discipline and failure to work as a team hindering his operational duties, to the point that he once entertained a brief fantasy of ejecting one out of an airlock.{{Fact}} Despite this loathing, he nonetheless sympathized to a degree with their zeal for the First Order.<ref name="TLJ-TVD" />
+
+Canady also detested serving under the command of General Armitage Hux, a First Order officer younger than him.<ref name="Databank" /> He also held some irritation towards Hux, to the extent that he once privately denounced Hux as a "bloody idiot" after signing off, due to Hux insisting on continuing bad strategy.<ref name="TLJA1">''[[The Last Jedi Adaptation 1]]''</ref> As Canady suspected, Hux's orders would prove to be Canady's undoing, as Poe Dameron's and Paige Tico's actions eventually led to his death.<ref name="Episode VIII" />
+
+Unlike many officers of the First Order, Canady was honorable, and he demonstrated that trait until the very end. When he became aware that the ''Fulminatrix'' had been defeated and there was no escape, he accepted his fate, silently respecting the courage of his enemies and remaining on his [[Mandator IV-class Siege Dreadnought|''Mandator'' IV-class Siege Dreadnought]] rather than trying to flee.<ref name="Episode VIII" />
+
+==Behind the scenes==
+Canady was portrayed by [[Mark Lewis Jones]] in the [[2017]] film [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']].<ref name="Episode VIII" /> Jones also provided the voice for [[Darth Decimus]] in the [[2011]] video game ''[[Star Wars: The Old Republic]]'', which belongs to the [[Star Wars Legends|''Star Wars'' Legends]] continuity.<ref name="TOR">''[[Star Wars: The Old Republic]]''</ref>
+
+Canady's surname is a reference to May Dove Canady, the titular main character of the [[2002]] film ''[[Wikipedia:May (film)|May]]'', on which ''The Last Jedi'' director [[Rian Johnson]] previously worked as editor.<ref name="Twitter">{{Twitter|rianjohnson|status/946709577613144064|[[Rian Johnson]]|quote=I can neither confirm nor deny an- YES|image=File:Rian_Johnson_Canady_tweet.png}}&mdash;[[Rian Johnson]] confirms that Moden Canady's name is a reference to ''May''.</ref>
+
+==Appearances==
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] {{1st}}
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[The Last Jedi Adaptation 1]]''
+
+==Sources==
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]'' {{1stID|Moden}}
+*''[[Star Wars: The Last Jedi: Ultimate Sticker Collection]]''
+*{{Databank|captain-canady|Captain Canady|archiveurl=https://archive.fo/rJ8MJ}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Moden Canady#kanon
+|el=Μόντεν Κάναντι
+|es=Moden Canady
+|fr=Moden Canady
+|ja=モーデン・キャナディ
+|ko=모덴 캐너디
+|nl=Moden Canady
+|pl=Moden Canady
+|ru=Моден Кенеди
+|uk=Моден Кенеді
+}}
+
+{{DEFAULTSORT:Canady, Moden}}
+[[Category:Humans]]
+[[Category:Imperial Navy personnel of the Galactic Empire]]
+[[Category:Males]]
+[[Category:Officers of the First Order]]

@@ -1,0 +1,55 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Rotta the Huttlet.png]]
+|name=Rotta
+|homeworld=[[Tatooine]]<ref name="RottaSWE">{{SWE|characters|rotta|Rotta}}</ref>
+|birth=
+|death=
+|species=[[Hutt]]<ref name="TCWFilm">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]</ref>
+|gender=[[Sexes|Male]]<ref name="TCWFilm" />
+|height=0.43 [[meter]]s<ref name="RottaSWE" />
+|mass=
+|hair=
+|eyes=[[Color|Orange]]<ref name="TCWFilm" />
+|skin=Greyish-green<ref name="TCWFilm" />
+|cyber=
+|era=
+|affiliation=[[Jabba Desilijic Tiure's criminal empire]] {{C|Informally}}
+|masters=
+|apprentices=}}
+{{Quote|The most gracious Jabba has one more small condition: he demands you bring back the slime who kidnapped his little&hellip;punky muffin.|[[TC-70]]|audio=PunkyMuffin-TCWf.ogg|Star Wars: The Clone Wars (film)}}
+'''Rotta''', nicknamed "'''Pedunkee Mufkin'''", translated as Punky Muffin, by his father and he was also nicknamed "'''Stinky'''" by [[Ahsoka Tano]], was a [[Sexes|male]] [[Hutt]] and the son of [[Jabba Desilijic Tiure|Jabba the Hutt]]. During the [[Clone Wars]], he was secretly kidnapped by the [[Confederacy of Independent Systems]], which was orchestrated by Count Dooku with help from [[Ziro Desilijic Tiure/Canon|Ziro]], Rotta's great-uncle. The plot was meant to discredit the [[Jedi Order]] and scuttle negotiations between the [[Galactic Republic]] and the Hutts, but the Jedi were able to rescue him.<ref name="TCWFilm" />
+
+{{Char-stub}}
+
+==Behind the scenes==
+Rotta appears in the [[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]], where he was vocalized by [[David Acord]].<ref name="TCWFilm" /> Per Supervising Director [[Dave Filoni]]'s initial series concept, Rotta was intended to be a character in the series alongside his father, Jabba. The concept was later developed into the theatrical film.<ref name="Art of">''[[The Art of Star Wars: The Clone Wars]]''</ref>
+
+==Appearances==
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]] {{1st}}
+*{{TCW|Sphere of Influence}}
+*{{TCW|Hunt for Ziro}} {{Imo}}
+
+==Sources==
+*{{SWE|characters|rotta|Rotta the Huttlet|archivedate=20130504131451}}
+*{{SWE|technology|trident|Trident drill assault craft|archivedate=20140428201820}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}}
+*{{Databank|rotta-the-huttlet|Rotta the Huttlet}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Rotta
+|ka=როტა
+}}
+
+[[Category:Hutts]]
+[[Category:Males]]
+[[Category:Tatooinians]]

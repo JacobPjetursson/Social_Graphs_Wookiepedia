@@ -1,0 +1,64 @@
+{{Eras}}
+{{Youmay|the clone trooper|[[Dokma|the creatures native to Atollon]]}}
+{{Nickname|canon=1}}
+{{Character_infobox
+|type=Galactic Republic
+|image=[[File:Dogma-POD.png]]
+|name="Dogma"
+|homeworld=[[Kamino]]<ref name="Clone troopers">{{Databank|clone-troopers|Clone Troopers|archivedate=20170602182649}}</ref>
+|birth=
+|death=
+|species=[[Human]] {{C|[[Cloning|clone]]}}<ref name="Clone troopers" />
+|gender=[[Sexes|Male]]<ref name="Dogma">{{Databank|dogma|Clone Trooper Dogma|archivedate=20160211144016}}</ref>
+|height=1.83 [[meter]]s<ref name="Dogma" />
+|mass=
+|hair=[[Color|Black]]<ref name="Darkness on Umbara">{{TCW|Darkness on Umbara}}</ref>
+|eyes=Brown<ref name="Darkness on Umbara" />
+|skin=Tan<ref name="Darkness on Umbara" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Dogma" />
+**[[501st Legion]]<ref name="Darkness on Umbara" />
+|masters=
+|apprentices=}}
+{{Quote|You ever think that maybe the General knows what he is doing?|Dogma, on General Pong Krell|Darkness on Umbara}}
+"'''Dogma'''" was the nickname of a [[clone trooper]] who served in the [[501st Legion]] of the [[Grand Army of the Republic]] during the [[Clone Wars]].<ref name="Darkness on Umbara" /> He was known to always follow orders. After being manipulated by [[Confederacy of Independent Systems|Separatist]] agent [[Pong Krell]] during the [[Battle of Umbara]], Dogma [[Death|executed]] Krell to prevent him from revealing [[Galactic Republic|Republic]] military secrets.<ref name="Carnage of Krell">{{TCW|Carnage of Krell}}</ref> Dogma wore [[phase II clone trooper armor]] with blue markings and used a [[DC-15A blaster|DC-15A]] [[blaster]].
+
+{{Char-stub}}
+
+==Appearances==
+*{{TCW|Darkness on Umbara}} {{1st}}
+*{{TCW|The General}}
+*{{TCW|Plan of Dissent}}
+*{{TCW|Carnage of Krell}}
+
+==Sources==
+*{{SW|text=Darkness on Umbara|url=explore/the-clone-wars/ep407/#!/about}}
+*{{SW|text=The General|url=explore/the-clone-wars/ep408/#!/about}}
+*{{SW|text=Plan of Dissent|url=explore/the-clone-wars/ep409/#!/about}}
+*{{SW|text=Carnage of Krell|url=explore/the-clone-wars/ep410/#!/about}}
+*{{SWE|characters|rex|Captain Rex}}
+*{{SWE|characters|dogma|Dogma}}
+*{{SWE|characters|fives|Fives}}
+*{{SWE|characters|generalpongkrell|General Pong Krell}}
+*{{SWE|characters|hardcase|Hardcase}}
+*{{SWE|characters|jesse|Jesse}}
+*{{SWE|characters|kix|Kix}}
+*{{SWE|characters|tup|Tup}}
+*{{SWE|groups|umbarans|Umbarans}}
+*{{SWE|locations|umbara|Umbara}}
+*{{SWE|characters|vixus|Vixus}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|dogma|Clone Trooper Dogma|archivedate=20160211144016}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ru=Догма/Канон
+}}
+
+[[Category:Clone troopers]]
+[[Category:Members of the 501st Legion]]

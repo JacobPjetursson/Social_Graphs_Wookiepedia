@@ -1,0 +1,75 @@
+{{Eras}}
+{{Update|[[Poe Dameron 15: Legend Lost, Part II]], [[Poe Dameron 20: Legend Found, Part I]], [[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]], [[Poe Dameron 28: The Awakening, Part III]], [[Star Wars: The Rebel Files]]}}
+{{Character
+|type=Resistance
+|image=[[File:Statura CT.png]]
+|name=U.O. Statura
+|homeworld=[[Garel]]<ref name="TVD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+|birth=Between [[14 BBY|14]]&ndash;8 BBY<ref name="Age note">''Star Wars: The Force Awakens: The Visual Dictionary'' states that Statura was a teenager when the Galactic Civil War ended (at the Battle of Jakku). With a maximum age of nineteen at the Battle of Jakku and a minimum age of thirteen, it can be determined that Statura was born thirteen to nineteen years before the Battle of Jakku. The Battle of Yavin took place five years before the Battle of Jakku; thus it can be calculated that Statura was born between eight and fourteen years before the Battle of Yavin.</ref>
+|death=
+|species=[[Human]]<ref name="VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+|gender=[[Sexes|Male]]<ref name="VII" />
+|height=1.72 [[meter]]s<ref name="ECUC">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|mass=
+|hair=[[Color|Black]]{{C|graying}}<ref name="VII" />
+|eyes=Brown<ref name="VII" />
+|skin=Light<ref name="VII" />
+|cyber=
+|era=
+|affiliation=*[[Resistance]]<ref name="VII" />
+**[[Resistance navy]]<ref name="VII" />
+**[[Resistance High Command]]<ref name="TVD" />
+|masters=
+|apprentices=}}
+{{Quote|We weren't prepared for anything like this.|U.O. Statura, on Resistance casualties, during the assault on Starkiller Base|Star Wars: The Force Awakens (novelization)}}
+'''U.O. Statura''' was a [[human]] [[Sexes|male]] [[admiral]] and senior [[Resistance officer|officer]] with the [[Resistance]]. Statura [[Homeworld|hailed]] from the [[planet]] [[Garel]] and had a scientific background. Statura's knowledge aided in the Resistance's efforts during their [[Cold war|conflict]] with the [[First Order]], in which he helped plan the [[Battle of Starkiller Base|assault]] on [[Starkiller Base]], the First Order's [[superweapon]], from their [[Resistance base|command center]] on [[D'Qar]]. Statura correctly predicted the attack on Starkiller Base would be successful if the Resistance crippled its [[thermal oscillator‎]], which led to the destruction of the superweapon.
+
+==Biography==
+U.O. Statura<ref name="Flightlog">''[[Poe Dameron: Flight Log]]''</ref> was [[Reproduction|born]] on [[Garel]] sometime prior to the [[Galactic Civil War]]. By the [[time]] [[Sexes|he]] was a teenager, he had [[Liberation of Garel|fought]] against the [[Galactic Empire]] to liberate his [[homeworld]]. Following the [[Battle of Endor]], he pursued a career in applied sciences. He was then recruited by [[General]] [[Leia Organa]] as [[commander]] of [[Starship|ship]] procurement and logistics for her [[Resistance]] [[Resistance military|forces]],<ref name="TVD" /> becoming an [[admiral]].<ref name="VII" /> He was never far from Organa's side, as she relied upon Statura for advice and perspective.<ref name="TVD" /> He awarded the [[Rieekan Ribbon for Bravery in Battle]] to [[Poe Dameron]] for his role in the [[rescue of Admiral Ackbar]].<ref name="Flightlog" /> After the [[Hosnian Cataclysm|destruction]] of the [[Hosnian system]], he helped plan the [[Battle of Starkiller Base|assault]] on [[Starkiller Base]].<ref name="VII" />
+
+==Behind the scenes==
+U.O. Statura was portrayed by [[Ken Leung]] in the [[2015]] film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']].<ref name="VII" /> Leung previously played [[Wikipedia:Miles Straume|Miles Straume]] on the television series ''[[Wikipedia:Lost (TV series)|Lost]]'', which was produced by [[J.J. Abrams]], who directed, produced, and co-wrote ''The Force Awakens''.<ref>Yamato, Jen. (December 19, 2015). [http://www.thedailybeast.com/articles/2015/12/19/how-to-spot-all-the-star-wars-the-force-awakens-cameos-from-daniel-craig-to-radiohead.html "How to Spot All the 'Star Wars: The Force Awakens' Cameos, From Daniel Craig to Yoda"]. [[Wikipedia:The Daily Beast|The Daily Beast]].</ref>
+
+==Appearances==
+*''[[Poe Dameron 15: Legend Lost, Part II]]''
+*''[[Poe Dameron 20: Legend Found, Part I]]''
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens: A Junior Novel]]''
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part V]]''
+*''[[Star Wars: The Force Awakens Beginner Game]]'' {{Po}}
+*''[[Poe Dameron: Flight Log]]'' {{1stID|U.O.}}
+*''[[The Last Jedi: Bomber Command]]''
+*''[[Poe Dameron 28: The Awakening, Part III]]'' {{Flash}}
+*''[[Poe Dameron 29: The Awakening, Part IV]]'' {{Mo}}
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars: The Force Awakens: New Adventures]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: The Rebel Files]]''
+*{{Databank|admiral-statura|Admiral Statura|archivedate=20170901210108}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Statura#kanon
+|es=U.O. Statura
+|el=Γ.Ο. Στατούρα
+|ja=スタトゥラ
+|pl=Statura
+|ru=Статура
+|zh=斯塔圖拉上將
+}}
+
+{{DEFAULTSORT:Statura, U.O.}}
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Resistance admirals and generals]]

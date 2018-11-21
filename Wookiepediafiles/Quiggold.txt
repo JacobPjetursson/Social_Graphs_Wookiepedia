@@ -1,0 +1,76 @@
+{{Eras}}
+{{Cleanup}}
+{{Character
+|type=Criminal
+|image=[[File:Quiggold CT Cropped.png]]
+|name=Quiggold
+|homeworld=[[Quiggold's homeworld]]<ref name="Lost Treasure">''[[The Crimson Corsair and the Lost Treasure of Count Dooku]]''</ref>
+|birth=
+|death=
+|species=[[Gabdorin]]<ref name="Lost Treasure" />
+|gender=[[Sexes|Male]]<ref name="Lost Treasure" />
+|height=
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=Peg leg<ref name="DB">{{Databank|quiggold|Quiggold}}</ref>
+|era=
+|affiliation=[[Sidon Ithano's crew]]<ref name="Lost Treasure" />
+|masters=
+|apprentices=}}
+'''Quiggold''' was a male [[Gabdorin]] [[pirate]] and the [[First Mate|first mate]] of Captain [[Sidon Ithano]]'s [[Sidon Ithano's crew|crew]] in the [[Outer Rim Territories|Outer Rim]] in the decades after the [[Galactic Civil War]]. Assisting Ithano in the hunt for a possible lost shipment of [[kyber crystal]]s meant for Count [[Dooku]], Quiggold and the rest of the crew ended up finding a [[clone trooper]] frozen in stasis named [[CT-6116|Kix]] and locations to long-forgotten former [[Confederacy of Independent Systems|Separatist]] bases.<ref name="Lost Treasure" />
+
+He would also accompany Captain Ithano on a visit to [[Maz Kanata's castle]] 30 years after the [[Battle of Endor]] where a fugitive [[First Order]] defector named [[Finn]] offered to join their crew in exchange for safe passage into the Outer Rim, away from the First Order's reach.<ref name="TFA">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+
+He wore a simple brown hood and had a peg-leg fashioned from a fuel funnel and carried a set of prayer beads fashioned from hyperdrive plotter pins.<ref name="DB" />
+
+==Behind the scenes==
+{{Quote|This one has the ability to do loads of movement performed in real time using what we call a performance delivery system, that allows the person whose operating this to act and talk and deliver a set of lines.|[[Neal Scanlan]] describes Quiggold's costume in the "Crafting Creatures" featurette|Star Wars: Episode VII The Force Awakens}}
+Quiggold first appeared in the short story "[[The Crimson Corsair and the Lost Treasure of Count Dooku]]", which was written by [[Landry Q. Walker]] and released as the ''[[Journey to Star Wars: The Force Awakens]]'' multi-media campaign leading into the release of [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] in [[2015]]. The character then made a minor appearance in the film itself played by real-life leg amputee [[Scott Richardson]], and was controlled and voiced by key animatronic designer [[Chris Clarke]] with additional cover provided by Patrick Comerford. The mask of the Quiggold costume was an animatronic that allowed Clarke to manipulate the character's facial expression using a performance delivery system while delivering his lines. Richardson expressed interest in return for [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']],<ref>[https://www.starwarsinterviews.com/sequel-trilogy/episode-vii-the-force-awakens/scott-richardson-quiggold/ Scott Richardson | Quiggold | Star Wars Interviews]</ref> but neither he nor the character returned in that film.
+
+Quiggold appeared in the [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] toy line in a two-pack with [[Delphidian]] Captain [[Sidon Ithano]]. His name on the packaging was "''First Mate Quiggold''."
+
+==Appearances==
+*"[[The Crimson Corsair and the Lost Treasure of Count Dooku]]" {{1st}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens: A Junior Novel]]''
+*''[[The Force Awakens: Finn's Story]]''
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part III]]''
+*''[[The Force Awakens, Part IV]]''
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*{{SWYoutube|video=J5lknh4bCSCk|text=The Creatures, Droids and Aliens of Star Wars: The Force Awakens <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]'' {{Po}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]'' {{Po}}
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]'' {{C|Misspelled as Quiggod}}
+*''[[Star Wars: Women of the Galaxy]]'' {{Imo}}
+*{{Databank|meson-martinet|Meson Martinet}}
+*{{Databank|quiggold|Quiggold}}
+*{{Databank|sidon-ithano|Sidon Ithano}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Quiggold#kanon
+|es=Quiggold
+|fr=Quiggold
+|ja=クウィゴルド
+|nl=Quiggold
+|pl=Quiggold
+|ru=Куигголд
+}}
+
+[[Category:Gabdorins]]
+[[Category:Males]]
+[[Category:Sidon Ithano's crew members]]

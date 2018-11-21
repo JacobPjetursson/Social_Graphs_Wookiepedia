@@ -1,0 +1,118 @@
+{{Eras}}
+{{Youmay|the individual known as Bendu|[[Bendu (religion)|the beliefs]] of the [[Order of Dai Bendu]]}}
+{{Update|[[Thrawn: Alliances]]}}
+{{Image}}
+{{Character
+|type=
+|image=[[File:Bendu.png]]
+|name=Bendu
+|homeworld=
+|birth=
+|death=
+|species=Unknown<ref name="Twit">{{Twitter|starwars|status/779896358887010304|[[Star Wars]]|quote=What do you think of our new friend Bendu? #StarWarsRebels|image=File:Bendu tweet.png}}</ref>
+|gender=[[Sexes|Male]]<ref name="Steps">''[[Star Wars Rebels: Steps Into Shadow]]''</ref>
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="Steps" />
+|eyes=White<ref name="Steps" />
+|skin=Tan<ref name="Steps" />
+|cyber=
+|era=
+|affiliation=[[The Force]]<ref name="Zero Hour">{{Rebels|Zero Hour}}</ref>
+|masters=
+|apprentices=[[Kanan Jarrus]] {{C|Force-sight apprentice}}<ref name="Steps" />}}
+{{Quote|Jedi and Sith wield the Ashla and Bogan. The light and the dark. I'm the one in the middle. The Bendu.|Bendu|Star Wars Rebels: Steps Into Shadow}}
+'''Bendu''' was a [[Force-sensitive]] entity who resided on the remote [[planet]] of [[Atollon]] and claimed to represent the center of [[the Force]], between the [[Light side of the Force|light side]] and the [[Dark side of the Force|dark side]]. Bendu encountered [[Jedi Knight]] [[Kanan Jarrus]] in [[2 BBY]]. He developed a friendly relationship with Kanan and his [[Padawan]] [[Ezra Bridger]] and helped the two [[Jedi]] repair their relationship and deal with their fears and anxieties. Despite his wisdom and powers, Bendu refused to take sides in any conflict, and was angered when Kanan called him a coward for not intervening during the [[Battle of Atollon]], which caused him to unleash a storm against both the [[Alliance to Restore the Republic|rebel]] and [[Galactic Empire|Imperial]] forces on Atollon.
+
+==Biography==
+===Meeting Ahsoka Tano===
+{{Quote|You are set on this confrontation then?''"<br />"''I have to know the truth.''"<br />"''So be it, but understand this, much will change as a result of this encounter, including you.''"<br />"''Isn't that true of all things, as time advances?''"<br />"''My dear, when I say change, I mean death.''"<br />"''So I will die?''"<br />"''Will you? I didn't know that. Goodbye then, Ahsoka Tano, former Jedi Knight.|Bendu and Ahsoka Tano, prior to Tano's confrontation with her former master|url=https://twitter.com/dave_filoni/status/883124880157192192}}
+[[File:Ahsoka and Bendu.png|thumb|left|200px|Bendu meets with Ahsoka Tano]]
+An ancient being,<ref name="Databank">{{Databank|bendu|Bendu|archivedate=20170501213911}}</ref> Bendu claimed to represent the center of [[the Force]], standing between the [[Light side of the Force|light]] and the [[Dark side of the Force|dark side]].<ref name="Steps" /> In [[2 BBY]],<ref name="Chronology Note">The events of this article take place in or after ''[[Star Wars Rebels: Steps Into Shadow]]'', which is the first known episode to take place in the second year before the Battle of Yavin. As such, we can deduce that this event takes place in the second year before the Battle of Yavin. For more information, see [[Forum:SH:Timeline of Star Wars Rebels Events|'s Timeline of ''Star Wars Rebels'' Events]].</ref> Bendu lived on the [[planet]] [[Atollon]] where the [[Phoenix Cell]] maintained a [[Chopper Base|base]].<ref name="Steps" />
+
+At some point, Bendu met [[Ahsoka Tano]], a former [[Jedi]] [[Padawan]]. During their conversation, Bendu mentioned Tano's [[Mission to Malachor|upcoming confrontation]] with her [[Anakin Skywalker|former master]]. When Tano explained that she had to know the truth, Bendu retorted that everything would change as a result of their encounter, including her. As the [[Togruta]] failed to see his point, [[Sexes|he]] precised that "change" meant [[death]]. Tano asked then if she would die, but Bendu acted as if she was affirming it, and so replied that he did not know that before telling her goodbye.<ref name="Dave Filoni Tweet">{{Twitter|dave_filoni|status/883124880157192192|[[Dave Filoni]]|image=File:AhsokaBenduMeeting.jpg}}</ref>
+
+===Mentoring Kanan===
+Sometime later, Bendu called out to the Jedi Knight [[Kanan Jarrus]], who was [[Meditation|meditating]] outside Chopper Base. Kanan had retreated into meditation after losing his sight during a mission to [[Malachor]]. Bendu called out to Kanan and eventually led him into a series of mesas in the wilderness.<ref name="Steps" />
+[[File:Bendu and the blind man.png|thumb|250px|The Bendu meeting Kanan]]
+When Kanan finally arrived, Bendu told the [[Jedi Knight]] that his imbalance had awoken him from his slumber. After introducing himself, he allowed Kanan to identify himself as a Jedi Knight. Bendu listened as Kanan told him about his fear that his apprentice [[Ezra Bridger]] was falling to the dark side. When Kanan showed him the [[Sith holocron|Sith]] [[holocron]] that Ezra had obtained on Malachor, Bendu explained that an object could not make someone good or evil. However, he stressed that only a person could choose to change themselves. Bendu then took an interest in Kanan's [[sensor beacon|sensor marker]], which the Jedi had used to ward off several [[krykna]], arachnid predators that were indigenous to Atollon.<ref name="Steps" />
+
+Bendu then destroyed the sensor marker. When Kanan protested, he told the Jedi that he would never regain his sight but that he could teach Kanan to see through his other senses. When Kanan agreed to take his lesson, Bendu instructed the Jedi to empty his mind, turn around and walk forward. Kanan was quickly surrounded by two krykna which did not attack him. Bendu then explained that Kanan's bad experience with creatures stemmed from not seeing them for what they actually were. Kanan began to make peace with the krykna but was startled when he sensed that Ezra was in danger. After igniting [[Kanan's lightsaber|his]] [[lightsaber]], Kanan realized that the krykna had been feeding off his fear and emotions. When Kanan deduced that he had isolated himself from everyone and the Force, Bendu commented that he had finally regained his Force connection. Before leaving to [[Mission to Reklam Station|rescue]] Ezra, Kanan left the Sith holocron with Bendu. Bendu then inspected the object and laughed.<ref name="Steps" />
+
+===Ezra's trials===
+[[File:Ezra & Kanan meet Bendu.jpeg|thumb|left|250px|Ezra meets Bendu]]
+After the former [[Sith]] [[Maul]] kidnapped the other crew of the ''[[Ghost]]'', Kanan and Ezra traveled on a [[speeder bike]] to Bendu's lair in Atollon's wilderness. The two Jedi were surrounded by several krykna but Bendu awoke and scared them away. When Bendu asked the two Jedi whether they had come for a chat, Ezra related to the Force-wielder their predicament with Maul. Ezra and Kanan explained that Maul desired both the [[Sith holocron (Malachor)|Sith holocron]] and Kanan's [[Kanan Jarrus' holocron|own]] [[Jedi holocron]]. While Bendu was unfamiliar with Maul, he remarked that the [[Holocron fusion|convergence]] of the Sith and Jedi holocrons would be dangerous.<ref name="Holocrons of Fate">{{Rebels|The Holocrons of Fate}}</ref>
+
+Bendu corrected Ezra's view that the holocrons were merely libraries and pointed out that they could grant clarity of vision but also produce chaos. When Ezra reiterated that he needed the Sith holocron in order to save his friends, Bendu optioned that the object was a source of imbalance between him and his master Kanan. However, he told the boy that he needed to enter a [[cave]] inhabited by krykna in order to retrieve the Sith holocron. Before entering the cave, Kanan instructed his apprentice to leave [[Ezra Bridger's second lightsaber|his lightsaber]] behind and to use a [[comlink]] instead. When asked why, Kanan explained that his apprentice needed to learn how to resolve problems without a lightsaber.<ref name="Holocrons of Fate" />
+
+While Bendu waited outside, the two Jedi ventured into the cave and managed to retrieve the Sith holocron after a trial which involved Ezra learning to overcome his fear of the krykna and forgiving himself for the events on Malachor. After Ezra and Kanan returned from the cave, Bendu expressed satisfaction that the imbalance between master and apprentice had been resolved. However, he warned the two Jedi that their true test had just begun. Since Maul was unable to open the Jedi holocron, Bendu told the pair that the task would have to fall on one of them. When Ezra suggests they could wield the power of both holocrons, Bendu warned him that it came with a price. He stressed that once a secret was known, it could not be unknown.<ref name="Holocrons of Fate" />
+
+===The specter of Maul===
+After Maul used the dark side of the Force to torment Ezra with [[Force vision]]s, Ezra and Kanan traveled into the wilderness to seek help from Bendu. Bendu had been expecting them and remarked that they were not very "quiet creatures." When Ezra told Bendu that Maul had resurfaced, Bendu replied that joining the holocrons together would bring great wisdom and danger at the same time. Ezra admitted that this was the price of his power and that his vision was incomplete because he let go before the holocrons could reveal their full secrets.<ref name="Visions and Voices">{{Rebels|Visions and Voices}}</ref>
+
+Bendu remarked that this was not a good sign. When Bendu asked Ezra what he wanted, he advised Ezra and Kanan not to turn around. Despite his warnings, the two Jedi turned around and saw Maul watching them from atop a dune, at which Bendu made himself scarce and vanished. Maul then persuaded Ezra to come with him to [[Dathomir]] in return for keeping the location of Chopper Base a secret. Kanan and Sabine followed Maul and Ezra to Dathomir. Following a [[Skirmish on Dathomir|skirmish]] with the spirits of fallen [[Nightsisters]], they discovered that the [[Jedi Master]] [[Obi-Wan Kenobi]] held the key to destroying the Sith.<ref name="Visions and Voices" />
+
+===Sabine's test===
+While the [[Mandalorian]] weapons expert [[Sabine Wren]] was undergoing instruction with the [[Darksaber]], she went to a rock to contemplate on her fears and struggles about her family. Ezra went to comfort her and reassured her that Kanan meant well. Realizing that Ezra was right, Sabine went into the wilderness to clear her mind. As she left, Bendu surfaced but did not initiate contact with her.<ref name="Trials of the Darksaber">{{Rebels|Trials of the Darksaber}}</ref>
+
+===Battle of Atollon===
+{{Quote|You cannot see. But I can.''"<br />"''What? What do you see?''"<br />"''I see your defeat. Like many arms surrounding you in a cold embrace.|Bendu and Grand Admiral Thrawn|Zero Hour}}
+[[File:Bendu lighting form.jpg|thumb|right|250px|Bendu as a storm throwing lighting.]]
+Eventually, the rebel forces at Atollon were located and [[Battle of Atollon|ambushed]] by [[Grand Admiral]] [[Mitth'raw'nuruodo|Thrawn]]. Kanan went to the wilderness seeking out Bendu for help. However, Bendu refused to help Kanan in order to keep his neutrality and blamed him for bringing the war to Atollon. Kanan then called Bendu a coward, which led to Bendu rising into a ball of smoke and exclaiming that perhaps it was the will of the Force to destroy the Jedi "and all your kind," which he vowed to carry out. While Kanan returned to Chopper Base, the Empire initiated an [[orbital bombardment]] on Atollon.<ref name="Zero Hour" />
+
+After Thrawn landed on Atollon and trapped the rebel leaders at Chopper Base, all were drawn to look at a gathering storm in the sky, with one bolt of lightning almost striking Thrawn himself. Two glowing yellow eyes appeared in the midst of the clouds and Bendu's echoing voice proclaimed his identity. He then cried "I bring death!" and unleashed powerful lightning strikes onto the ground, destroying two AT-ATs and several grounded rebel starfighters. Desiring his world to be left in peace, Bendu ordered both rebels and Imperials alike to leave Atollon, killing several Death Troopers with his lightning strikes as emphasis. Kanan and his fellow rebels then attempted to flee on the ''Ghost;'' noticing the fleeing rebel ships, Bendu called out to Kanan by name and struck the ''Ghost'' with lightning but not enough to destroy it. One A-wing was destroyed by him but the others escaped and so Bendu increased his onslaught on the Imperials, once more demanding that they leave. Dismissing the attack as "Jedi devilry," Thrawn ordered his forces to shoot at the eye of the storm. Bendu was struck by fire coming from the [[All Terrain Armored Transport|AT-AT walkers]] and a squad of [[death trooper]]s, causing the huge Force entity to fall from the sky and crash to ground.<ref name="Zero Hour" />
+
+After the defeated rebel forces abandoned the system, Thrawn found Bendu lying wounded on the ground and asked him what sort of creature he was. The defiant Bendu replied that he was one beyond Thrawn's power to destroy. When Thrawn disagreed, Bendu warned him that he could see where the [[Chiss]] couldn't; [[Liberation of Lothal|his defeat]], like [[Purrgil|"many arms]] surrounding him in a cold embrace." His eyes narrowed in anger, Thrawn attempted to finish Bendu by shooting him with his blaster, but the Force entity vanished before the blast could touch him and let out a laugh.<ref name="Zero Hour" />
+
+===A prophecy fulfilled===
+The Bendu's warning to Thrawn eventually came true when Ezra Bridger defeated the Grand Admiral aboard his flagship with the help of several purrgil, the "many arms" of the creatures holding him in their "cold embrace," just as the Bendu had prophesied.<ref name="Family&Farewell">{{Rebels|Family Reunion – and Farewell}}</ref>
+
+==Personality and traits==
+Bendu was a wise and enigmatic being who existed as a balance between the light side and the dark side. He resembled a giant rocky monolith with two eyes, a flat nose, and a long beard. He was a powerful being who could control nature including the krykna spiders of Atollon. Bendu could also sense the presence of other Force-wielders from a distance. He was also a wise and patient teacher who believed that other [[Force-sensitive]] beings needed to learn to overcome their fears and imbalances through personal trials. He taught Kanan how to overcome his blindness as well as his fear of krykna by teaching the Jedi Knight how to rely on his senses.<ref name="Steps" />
+
+While recognizing that the Sith holocron was dangerous, Bendu believed that only the user had the power to change themselves for better or worse. Bendu was immensely powerful and had the power to destroy a sensor marker with a mere flick of his hands.<ref name="Steps" /> Bendu recognized that the convergence of Sith and Jedi holocrons had the power to produce clarity of vision but could also lead to chaos. He was concerned with the relationship between Kanan and his apprentice Ezra and believed that the two needed to repair it.<ref name="Holocrons of Fate" />
+
+Bendu felt at peace living on Atollon and was angered when the rebels unintentionally lured the Empire to his planet. He was insulted when Kanan pleaded for him to break his neutrality and fight the Empire. Bendu was ambivalent to the galaxy's problems. Despite his patience, wisdom and powers, Bendu entered into a rage when Kanan accused him of cowardice for not wanting to help the rebels during the Battle of Atollon, showing a degree of pride and a desire for respect. Still, Bendu was not intimidated by Thrawn and predicted the Grand Admiral's defeat.<ref name="Zero Hour" />
+
+==Powers and abilities==
+Bendu was an immensely powerful being who possessed incredible connections to the Force and could perceive the emotions of others. He also had the power to appear and disappear at will.<ref name="Visions and Voices" /> Despite his ability to create powerful storms by manipulating the nature around him, he was knocked to the ground when Grand Admiral Thrawn directed artillery fire at him. Bendu also had the power of foresight and predicted Thrawn's defeat. Bendu disappeared when Thrawn shot at him but laughed.<ref name="Zero Hour" />
+
+==Behind the scenes==
+Bendu was first revealed in the trailer for the [[Star Wars Rebels Season Three|third season]] of the animated television series ''[[Star Wars Rebels]],''<ref name="Trailer">{{SW|url=video/star-wars-rebels-season-three-trailer|text=Star Wars Rebels Season Three Trailer}}</ref> and made his debut in the season's first episode, ''[[Star Wars Rebels: Steps Into Shadow]]''.<ref name="Steps" /> The character is voiced by famed ''[[Wikipedia:Doctor Who|Doctor Who]]'' actor [[Tom Baker]].<ref name="Panel Recap">{{SW|url=news/swce-2016-11-things-we-learned-from-the-star-wars-rebels-season-three-panel|text=SWCE 2016: 11 Things We Learned From the ''Star Wars Rebels'' Season Three Panel}}</ref> The term "Bendu" first appears in the original script for ''[[Star Wars: Episode IV A New Hope|Star Wars]]'' as the name of the Jedi Knights, the "[[Jedi-Bendu]]."<ref name="roughdraft">''[[The Star Wars: Rough Draft]]''</ref>
+
+After the conclusion of the third season, series executive producer [[Dave Filoni]] revealed that Ahsoka Tano met Bendu during the events of "[[The Mystery of Chopper Base]]." Though these events were never depicted on screen, Filoni tweeted dialogue from their encounter as well as artwork illustrating the event.<ref name="Dave Filoni Tweet" />
+
+==Appearances==
+*''[[Star Wars Rebels: Steps Into Shadow]]'' {{1st}}
+*{{Rebels|The Holocrons of Fate}}
+*{{Rebels|Visions and Voices}}
+*{{Rebels|Trials of the Darksaber}}
+*{{Rebels|Zero Hour}}
+*''[[Thrawn: Alliances]]'' {{Imo}}
+
+==Sources==
+*{{SW|url=video/star-wars-rebels-season-three-trailer|text=Star Wars Rebels Season Three Trailer}}
+*{{SW|url=news/swce-2016-11-things-we-learned-from-the-star-wars-rebels-season-three-panel|text=SWCE 2016: 11 Things We Learned From the ''Star Wars Rebels'' Season Three Panel}}
+*{{SW|url=video/star-wars-rebels-meet-bendu|text=Star Wars Rebels: "Meet Bendu"}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Dawn of Rebellion]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{Databank|bendu|Bendu|archivedate=20170501213911}}
+
+==Notes and references==
+{{Imagecat|Images of Bendu}}{{Reflist}}
+
+{{Interlang
+|de=Bendu#kanon
+|es=Bendu
+|fr=Bendu
+|hu=Kánon:Bendu
+|ja=ベンドゥ
+|pl=Bendu
+|ru=Бенду (существо)
+}}
+
+[[Category:Force entities]]
+[[Category:Force-sensitives]]
+[[Category:Individuals of unidentified species]]
+[[Category:Males]]

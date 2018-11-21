@@ -1,0 +1,84 @@
+{{Eras}}
+{{Droid
+|image=[[File:R4-P17.jpg]]
+|name=R4-P17
+|homeworld=
+|birth=
+|death=[[19 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Coruscant system]]<ref name="ROTS">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|creator=
+|manufacturer=[[Industrial Automaton]]<ref name="Ultimate">''[[Ultimate Star Wars]]''</ref>
+|line=[[R-series]]<ref name="AOTC">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|model=
+|class=[[Astromech droid]]<ref name="AOTC" />
+|degree=
+|cost=
+|length=
+|width=
+|height=1.09 [[meter]]s<ref name="R4-P17">{{Databank|r4-p17|R4-P17}}</ref>
+|mass=
+|gender=[[Sexes|Feminine programming]]<ref name="Ultimate" />
+|sensor=
+|plating=Red
+|armament=[[Electro-shock prod]]<ref name="TCW film">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]</ref>
+|equipment=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="AOTC" />
+*[[Galactic Republic]]<ref name="Ultimate" />}}
+{{Quote|Arfour, be careful! You have a&mdash;|Obi-Wan Kenobi warns R4 just before her destruction|Star Wars: Episode III Revenge of the Sith}}
+'''R4-P17''', nicknamed '''Arfour''', was an [[astromech droid]], programmed with a female personality, that was assigned to [[Jedi Master]] [[Obi-Wan Kenobi]] prior to and throughout the [[Clone Wars]]. She was destroyed by a [[Pistoeka sabotage droid|buzz droid]] during [[Battle of Coruscant]].
+
+==Biography==
+R4-P17 was manufactured by [[Industrial Automaton]] some time prior to the Clone Wars.<ref name="Ultimate" /> When an [[Plot to assassinate Padmé Amidala|assassination attempt]] on [[Naboo]] [[senator]] [[Padmé Amidala]] occurred on [[Coruscant]], R4 [[Mission to Kamino (Separatist Crisis)|accompanied]] Jedi Master Obi-Wan Kenobi to [[Kamino]] and [[Geonosis]] to reveal the plot.<ref name="AOTC" />
+
+During the final days of the Clone Wars, R4 joined Obi-Wan Kenobi once again aboard his [[Eta-2 Actis-class light interceptor|Eta-2 ''Actis''-class light interceptor]] in a [[Battle of Coruscant|battle above Coruscant]]. During the battle, [[Jedi Knight]]s Obi-Wan Kenobi and [[Anakin Skywalker]] approached [[Confederacy of Independent Systems|Separatist]] [[general]] [[Grievous]]' [[flagship]], the ''[[Invisible Hand]]'', in an attempt to rescue the kidnapped [[Supreme Chancellor]] [[Darth Sidious|Palpatine]]. As the two Jedi neared the flagship they encountered attacks from [[Pistoeka sabotage droid]]s; during the attack, R4's dome was torn apart by a [[Pistoeka sabotage droid|buzz droid]], ending her career.<ref name="ROTS" />
+
+She was later replaced by [[R4-G9]] as Kenobi's companion [[droid]] during his travel to the [[planet]] [[Utapau]].<ref name="ROTS" />
+
+==Personality and traits==
+R4 had a [[Sexes|female]] personality and showed bravery against Separatists.<ref name="Ultimate" />
+
+==Skills and abilities==
+{{Quote|Arfour, prepare to jettison spare part canisters.|Obi-Wan Kenobi to R4-P17|Star Wars: Episode II Attack of the Clones}}
+As a product of Industrial Automaton, R4 was designed to qualify as [[hyperspace]] navigator for calculating [[lightspeed]] jumps and an engineer for repair and maintenance.<ref name="Ultimate" />
+
+==Equipment==
+[[File:R4-P17 zaps Jawa.png|thumb|250px|R4 protects Kenobi's starfighter from Jawas.]]
+R4 had an [[electro-shock prod]], which she used once to protect Kenobi's [[Delta-7B Aethersprite-class light interceptor|Delta-7B ''Aethersprite''-class light interceptor]] from [[Jawa]]s during a visit to Jabba's Palace.<ref name="TCW film" />
+
+==Behind the scenes==
+R4-P17 first appeared in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']], a film released in [[2002]].<ref name="AOTC" /> Despite being an R4 series astromech, she possessed the dome shaped head of a R2 or R3 unit rather than the cone shaped one of most R4s.
+
+==Appearances==
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]
+*{{TCW|Children of the Force}}
+*{{TCW|The Mandalore Plot}}
+*{{TCW|Voyage of Temptation}} {{Flash}}
+*{{TCW|Nightsisters (episode)|Nightsisters}}
+*{{TCW|Voices}}
+*{{TCW|Unfinished Business}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+
+==Sources==
+*''[[Journey Through Space (2015)|Journey Through Space]]''
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]'' {{Po}}
+*{{Databank|r4-p17|R4-P17}}
+*[[Star Wars: The Complete Visual Dictionary, New Edition|''Star Wars: The Complete Visual Dictionary, New Edition'']]
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=R4-P17#kanon
+|ja=R4-P17
+|ko=R4-P17
+|ru=R4-P17/Канон
+}}
+
+[[Category:Astromech droids]]
+[[Category:Feminine programming]]
+[[Category:Galactic Republic individuals]]

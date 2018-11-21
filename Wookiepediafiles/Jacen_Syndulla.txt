@@ -1,0 +1,67 @@
+{{Eras}}
+{{Otheruses|title=Syndulla}}
+{{Character
+|type=
+|image=[[File:Jacen Syndulla.jpeg]]
+|name=Jacen Syndulla
+|homeworld=
+|birth=Some time after the [[liberation of Lothal]]<ref name="Family Reunion – and Farewell">{{Rebels|Family Reunion – and Farewell}}</ref>
+|death=
+|species=[[Human]]/[[Twi'lek]] [[hybrid]]<ref name="Family Reunion – and Farewell" />
+|gender=[[Sexes|Male]]<ref name="Family Reunion – and Farewell" />
+|height=
+|mass=
+|hair=[[Color|Green]]<ref name="Family Reunion – and Farewell" />
+|eyes=Blue<ref name="Family Reunion – and Farewell" />
+|skin=Light {{C|with a slight green hue}}<ref name="Family Reunion – and Farewell" />
+|cyber=
+|era=
+|affiliation=*[[Syndulla clan]]<ref name="Family Reunion – and Farewell" />
+*[[Spectres]]<ref name="Family Reunion – and Farewell" />
+|masters=
+|apprentices=}}
+{{Quote|By that time, there had been a new member added to the crew of the ''Ghost''&mdash;Spectre-7, Jacen Syndulla. Born to fly, just like his mother. And, well, we all know what his father was like.|[[Sabine Wren]]|Family Reunion – and Farewell}}
+'''Jacen Syndulla''' was a [[Sexes|male]] [[human]] and [[Twi'lek]] [[hybrid]] who was [[Reproduction|born]] during the time of the [[Galactic Civil War]]. He was the son of [[General]] [[Hera Syndulla]] and the late [[Jedi Knight]] [[Kanan Jarrus]], and the grandson of Twi'lek revolutionary leader [[Cham Syndulla]].
+
+==Biography==
+Jacen Syndulla was [[Reproduction|born]] to [[General]] [[Hera Syndulla]] of the [[Alliance to Restore the Republic|Rebel Alliance]] sometime after the [[Liberation of Lothal|liberation]] of [[Lothal]],<ref name="Family Reunion – and Farewell" /> which occurred shortly before the [[Battle of Scarif|outbreak]] of the [[Galactic Civil War]].<ref name="Filoni Scarif Luke">{{Cite web|url=http://fandom.wikia.com/articles/how-luke-skywalker-influenced-the-star-wars-rebels-finale|title=How Luke Skywalker Influenced the "Star Wars Rebels" Finale|first=Brandon|last=Rhea|work=FANDOM|date=March 5, 2018|accessdate=March 6, 2018}}</ref> His [[Parent|father]] was [[Jedi Knight]] [[Kanan Jarrus]],<ref name="Family Reunion – and Farewell" /> who was [[Death|killed]] in combat against the [[Galactic Empire]] while [[Rescue of Hera Syndulla|saving]] Hera and their [[Spectres|crew]] shortly before Lothal's liberation.<ref name="Jedi Night">{{Rebels|Jedi Night}}</ref> His maternal grandfather was the [[Twi'lek]] revolutionary leader [[Cham Syndulla]],<ref name="Cham Syndulla Note">The ''[[Star Wars Rebels]]'' episode "[[Homecoming]]" establishes that [[Cham Syndulla]] is [[Hera Syndulla]]'s father, making him Jacen Syndulla's grandfather.</ref> a legendary veteran of the [[Clone Wars]] and the fight against the Empire.<ref name="Homecoming">{{Rebels|Homecoming}}</ref>
+
+Syndulla grew up during the [[Galactic Civil War]], which his mother fought in for the Rebel Alliance.<ref name="Family Reunion – and Farewell" /> By the [[time]] the Empire was shattered in [[4 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> during the [[Battle of Endor]], the young Syndulla was already considered a member of his mother's crew on the [[starship]] ''[[Ghost]]''. He was given the [[callsign]] Spectre 7.<ref name="Family Reunion – and Farewell" />
+
+==Personality and traits==
+Jacen Syndulla was a [[Sexes|male]] [[hybrid]], born to a [[human]] father and a Twi'lek mother. He had mostly human features, though his [[Color|green]] [[hair]] was similar to his mother's green skin, as well as the tips of his ears being green, and his eyelashes also being green. Even at a young age, Hera's old friend and crew member, [[Sabine Wren]], recognized that Syndulla was born to fly just like his mother. He also had blue eyes and light skin.<ref name="Family Reunion – and Farewell" />
+
+==Behind the scenes==
+{{Quote|It seemed, in a very small way, naming him 'Jacen' was a way to honor the expanded universe character of Jacen Solo who just really isn't there anymore as the timelines have changed. I thought that's a little bit of a wink to people that I know that was an important character. And maybe, in some way, that lives on through this character. I don't know yet.|Dave Filoni on Jacen Syndulla's namesake|url=https://io9.gizmodo.com/lucasfilm-creatives-are-very-interested-in-that-new-sta-1823646768}}
+[[File:Jacen_concept_art.jpg|thumb|300px|right|Concept art for Jacen Syndulla]]
+Jacen Syndulla was introduced in the epilogue of "[[Family Reunion – and Farewell]]," the series finale of ''[[Star Wars Rebels]]''.<ref name="Family Reunion – and Farewell" /> His first name, Jacen, was inspired by [[Darth Caedus|Jacen Solo]], the son of [[Leia Organa Solo]] and [[Han Solo/Legends|Han Solo]] in the [[Star Wars Legends|''Star Wars'' Legends]] continuity.<ref name="SW.com Twitter">{{Twitter|starwars|status/970856627401211904|''[[Star Wars]]''|quote=Spelled exactly like you're hoping it is. 😉 #StarWarsRebels|image=File:Jacen Syndulla Star Wars Twitter.png|noimage=}}</ref>
+
+The decision to introduce Jacen Syndulla in the series finale was one that executive producer [[Dave Filoni]] had been thinking of throughout production on the [[Star Wars Rebels Season Four|fourth season]]. He initially only shared his idea with [[Kiri Hart]], the head of the [[Lucasfilm Story Group]], who was supportive of the character's introduction. Filoni deliberately chose the name Jacen as a way of honoring the character of Jacen Solo and his importance in the stories of ''[[Star Wars]]'' Legends.<ref name="Filoni io9">{{Cite web|url=https://io9.gizmodo.com/lucasfilm-creatives-are-very-interested-in-that-new-sta-1823646768|title=Lucasfilm Creatives Are Very Interested in That New ''Star Wars Rebels'' Character|first=Germain|last=Lussier|work=io9|date=March 9, 2018|accessdate=March 9, 2018}}</ref> Voice actress [[Vanessa Marshall]], however, was unaware about Hera being pregnant with Jacen when she recorded the final episode, just discovering it during a fan screening.<ref name="Vanessa Fandom">{{Cite web|url=http://fandom.wikia.com/articles/star-wars-rebels-hera-syndulla-son?li_source=LI&li_medium=wikia-impactfooter|title=‘Star Wars Rebels’: Even Voice Actor Surprised By Hera Syndulla’s Fate|first=Lawrence|last=Yee|work=Fandom|date=July 31, 2018|accessdate=August 1, 2018}}</ref>
+
+Though Filoni says he has not given much thought to where the character might go in future stories, many creatives within Lucasfilm have expressed interest in the future of the character since the ''Star Wars Rebels'' finale aired on [[March 5]], [[2018]].<ref name="Filoni io9" />
+
+==Appearances==
+*{{Rebels|Family Reunion – and Farewell}} {{1st}}
+
+==Sources==
+*{{SW|url=tv-shows/star-wars-rebels/family-reunion-and-farewell-episode-guide|text=Family Reunion - and Farewell Episode Guide}}
+*''[[Star Wars: Women of the Galaxy]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Jacen Syndulla
+|fr=Jacen Syndulla
+|pl=Jacen Syndulla
+|ja=ジェイセン・シンドゥーラ
+|pt=Jacen Syndulla
+|pt=Jacen Syndulla
+|ru=Джейсен Синдулла
+|es=Jacen Syndulla
+}}
+
+{{DEFAULTSORT:Syndulla, Jacen}}
+[[Category:Males]]
+[[Category:Members of the Spectres]]
+[[Category:Twi'lek-Human hybrids]]

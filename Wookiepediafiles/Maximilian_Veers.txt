@@ -1,0 +1,252 @@
+{{Eras|imp|reb|new|canon=Maximillian Veers}}
+{{Citation}}
+{{Update|[[Star Wars: Imperial Handbook: A Commander's Guide]]}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Veers.jpg]]
+|name=Maximilian Veers
+|homeworld=[[Denon/Legends|Denon]]<ref>''[[Star Wars Character Encyclopedia]]''</ref>
+|birth=[[48 BBY]]{{Fact}}
+|death=[[10 ABY/Legends|10 ABY]], [[Balmorra/Legends|Balmorra]]<ref name="DEII1">''[[Dark Empire II 1: Operation Shadow Hand]]''</ref>
+|species=[[Human/Legends|Human]]<ref name="NEGTC">''[[The New Essential Guide to Characters]]''</ref>
+|gender=[[Sexes/Legends|Male]]<ref name="NEGTC" />
+|height=1.93 [[Imperial standard meter|meters]]<ref name="NEGTC" />
+|mass=82 [[Kilogram/Legends|kilograms]]<ref name="H2H">''[[Star Wars: Head-to-Head Tag Teams]]''</ref>
+|hair=Brown<ref name="NEGTC" />
+|eyes=Hazel<ref name="NEGTC" />
+|skin=
+|cyber=
+|era=*[[Rise of the Empire era]]<ref name="GG3">''[[Galaxy Guide 3: The Empire Strikes Back]]''</ref>
+*[[Rebellion era]]<ref name="GG3" />
+*[[New Republic era]]
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]<ref name="VeersDB">{{DB|character|generalmaximilianveers|General Maximilian Veers}}</ref>
+**[[Imperial Army/Legends|Imperial Army]]<ref name="VeersDB" />
+**[[Death Squadron/Legends|Death Squadron]]<ref name="VeersDB" />
+***[[Blizzard Force/Legends|Blizzard Force]]
+*[[Eriadu Authority]]<ref name="TIW:DoaE2">{{SW|url=news/the-imperial-warlords-despoilers-of-an-empire-part-2|int=The Imperial Warlords: Despoilers of an Empire|text=The Imperial Warlords: Despoilers of an Empire, Part 2}}</ref>
+*[[Thrawn's confederation]]
+*[[Dark Empire (Galactic Empire)|Dark Empire]]
+|masters=
+|apprentices=}}
+{{Quote|General, prepare your troops for a surface attack.|Darth Vader, preparing Veers for the [[Battle of Hoth/Legends|Battle of Hoth]]|Star Wars: Episode V The Empire Strikes Back}}
+'''Maximilian Veers''' was a [[Sexes/Legends|male]] [[Human/Legends|Human]] [[Major General]] of the [[Galactic Empire/Legends|Galactic Empire's]] [[Imperial Army/Legends|Imperial Army]], famous for his leadership at the [[Battle of Hoth/Legends|assault]] on [[Hoth/Legends|Hoth]] in [[3 ABY/Legends|3 ABY]] and other battles. He also was the father of [[Zevulon Veers]]. He [[Death/Legends|died]] on a [[Suicide/Legends|suicide]] mission in [[10 ABY/Legends|10 ABY]].
+
+==Biography==
+===Early life and career ([[48 BBY]]&ndash;[[0 BBY/Legends|0 BBY]])===
+[[File:Veers SWGTCG.jpg|left|thumb|Colonel Veers early in his military career]]
+Maximilian Veers was the son of a middle-class working family<ref name="NEGTC" /> on the [[Ecumenopolis/Legends|ecumenopolis]] [[Planet/Legends|planet]] of [[Denon/Legends|Denon]] in the [[Core Worlds/Legends|Core Worlds]].<ref>''[[Star Wars Character Encyclopedia]]''</ref> He joined the [[Imperial Academy/Legends|Imperial Academy]] and, while there, decided to train towards a career in the [[Assault Armor Division]], where he might operate the mechanical behemoths that were the [[All Terrain Armored Transport/Legends|All Terrain Armored Transports]].<ref name="GG3" /> He believed the massive vehicles introduced during the [[Clone Wars/Legends|Clone Wars]]<ref name="SWR55">''[[Republic 55: The Battle of Jabiim, Part 1]]''</ref> best embodied his own personality as well as that of the [[Galactic Empire/Legends|Galactic Empire]]. He took up his training with rigorous determination, showing a surprising intellect and initiative after emerging from several "suicide missions" by surpassing his mission assignments.<ref name="GG3" /> Veers graduated at the top of his class,{{Fact}} and, his superiors finding him both skillful and dangerous, was promoted to the rank of [[Lieutenant/Legends|Lieutenant]] upon graduation and an assignment as commander of an [[All Terrain Armored Transport/Legends|AT-AT]]. As a test of his abilities, he was soon shipped to a barbaric and backwater [[Outer Rim Territories/Legends|Outer Rim Territories]] world called [[Culroon III/Legends|Culroon III]].<ref name="GG3" />
+
+The Culroon III campaign was designed to either make or break Veers. If he failed, he was likely to perish.<ref name="GG3" /> He quickly learned that the Empire did not tolerate incompetence and failure. During the attempt to pacify the natives of Culroon III, [[General/Legends|General]] [[Irrv]] had ordered for Lieutenant Veers to remain confined to the base while he and an Imperial party went to negotiate a peace with the Culroon natives. Veers had warned that it was a trap and that Irrv should bring armored support to deter any would-be ambushers. General Irrv did not listen and paid the price with his life when he was executed for incompetence after the Culroon natives deceived and [[Ambush on Culroon III|killed]] most of his party. If it had not been for Lieutenant Veers's quick thinking and disregard of a direct order, the Imperial party would have been utterly slaughtered.{{Fact}} For his bravery and brilliance in saving the Culroon mission's [[Stormtrooper/Legends|stormtrooper]] detail, Veers was promoted to [[Major/Legends|major]].<ref name="GG3" />
+
+[[File:Maximilian Veers.jpg|thumb|Maximilian Veers]]
+Major Veers [[Marriage/Legends|married]] and had a son named [[Zevulon Veers|Zevulon]]. When Zevulon was only a young boy, Veers lost his [[Maximilian Veers's wife|wife]] to a rare disease during a family vacation.<ref name="DESB">''[[Dark Empire Sourcebook]]''</ref> Devastated by the death of his wife, Veers buried his grief in his military career. This began to affect his relationship with his son, who he advised to honor his mother by joining the [[Sub-Adult Group/Legends|Sub-Adult Group]], a youth paramilitary organization of the Empire.<ref name="NEGTC" />
+
+Veers's devotion to the army seemed to pay off, as he was granted the rank of colonel and the command of an Imperial garrison on [[Corellia/Legends|Corellia]]. Veers was also widely recognized as an authority on the AT-AT, and often returned to [[Carida/Legends|Carida]] to guest-lecture at AT-AT training courses and demonstrate prototypes of new AT-AT models. During one of these demonstrations, shortly before [[0 ABY/Legends|0 ABY]], Veers came to the attention of [[Anakin Skywalker/Legends|Darth Vader]] when he defeated a [[Alliance to Restore the Republic/Legends|Rebel]] [[Skirmish on Carida|invasion force]].<ref name="EAW">''[[Star Wars: Empire at War]]''</ref>
+
+At this point, however, Veers's career seemed to stagnate. Veers lacked the aristocratic connections needed to move up in rank,<ref name="NEGTC" /> and questions had arisen regarding his methods of career advancement.<ref name="GG3" /> Worse, during one of the training courses on Carida, a promising [[Cadet/Legends|Cadet]] named [[Davin Felth]] lowered his walker to its knees in order to prevent the opposing force from exploiting the weakness its long legs presented. The weakness threatened Veers's career, as it was so closely tied to the success of the walkers. Veers buried the incident by reassigning Felth to the infantry.
+
+===Galactic Civil War ([[0 BBY/Legends|0 BBY]]&ndash;[[3 ABY/Legends|3 ABY]])===
+{{Quote|Colonel, you are too important to the Empire to languish in a prison camp.|Darth Vader, freeing Veers on Zaloriis|Star Wars: Galactic Battlegrounds}}
+[[File:GeneralVeers Murray TCG.jpg|thumb|left|200px|[[General/Legends|General]] Veers in his [[All Terrain Armored Transport/Legends|AT-AT]] pilot armor during the [[Battle of Hoth/Legends|Battle of Hoth]].]]
+Veers had been selected for a position on the [[DS-1 Orbital Battle Station/Legends|first Death Star]], as a ground commander, and as an academic instructor. With Felth out of the way, this seemed the perfect opportunity to achieve an elite position. The assignment turned out to be another dead end, as Veers had only just arrived in-system at the [[Battle of Yavin/Legends|Battle of Yavin]]. A Rebel [[T-65 X-wing starfighter|X-wing]] fighter spotted his shuttle and forced a crash landing on the jungle moon of [[Yavin 4/Legends|Yavin 4]]. For some time, Colonel Veers survived on emergency rations and local wildlife before he contacted an assault force led by Major [[Brenn Tantor]], which was able to rescue him.<ref name="SW:FC">''[[Star Wars: Force Commander]]''</ref>
+
+Having had his new position blown out from under him, Colonel Veers returned to his garrison on [[Corellia/Legends|Corellia]]. There he helped [[Corellian Security Force|CorSec]] Inspectors [[Hal Horn|Hal]] and [[Corran Horn]] put an end to the criminal [[Black Sun/Legends|Black Sun]] lieutenant, [[Zekka Thyne]], by storming his fortress on the notion that Thyne was harboring [[Alliance to Restore the Republic/Legends|Rebel]] insurgents. Impressed by Veers's performance in removing Black Sun's presence near [[Coronet City/Legends|Coronet City]], Vice Admiral [[Mitth'raw'nuruodo/Legends|Thrawn]] recommended the brilliant ground commander to Darth Vader.<ref name="ST">''[[Side Trip]]''</ref>
+
+As it turned out, the destruction of the Death Star aided Veers's career in the long run. The deaths of so many high-ranking officers aboard the station had left a power vacuum that Veers stepped into following the raid on Thyne's stronghold.<ref name="GG3" />
+
+Veers was able to continue work in secret on the new AT-AT prototype on [[Zaloriis/Legends|Zaloriis]], which he described as "''the'' walker". Unexpectedly, the Zalorians declared independence from the Empire and abducted him. He was later [[Battle of Zaloriis/Legends|rescued]] by Darth Vader. Together, Vader and Veers completed work on the prototype and used it to crush the Zalorian rebellion, destroying [[Zaloriis City]] in the process.<ref name="SW:GB">''[[Star Wars: Galactic Battlegrounds]]''</ref>
+
+Impressed, Vader accepted Thrawn's recommendation and promoted Veers to [[Major General]]{{Fact}} over the heads of several high colonels, placing him in command of [[Death Squadron/Legends|Death Squadron's]] ground troops. Despite the questions that had surfaced concerning his career advancement, not a single high colonel questioned Veers' unorthodox promotion to Vader's fleet, and these issues quickly faded. Veers recruited only the best pilots to serve in his [[Thundering Herd]] AT-AT squadron.<ref name="GG3" /> In [[2 ABY/Legends|2 ABY]], he personally recruited several pilots from the [[Raithal Academy/Legends|Raithal Academy]].<ref name="">{{Topps|set=Star Wars Illustrated: The Empire Strikes Back|cardname=One Year Earlier: General Veers}}</ref> Often, he would pilot an extra armored and more powerful walker.<ref name="EAW" />
+
+His new appointment was the pinnacle of success for someone in Veers's position, and he wasted no time proving himself. Just weeks after the promotion, Veers had his forces pared down by ten percent, yet efficiency had risen by 50 percent. His timing was impeccable, for in [[3 ABY/Legends|3 ABY]] an [[Arakyd Industries/Legends|Arakyd]] [[Viper probe droid/Legends|Viper probe droid]] from Death Squadron had discovered the [[Alliance High Command/Legends|Alliance High Command's]] secret [[Echo Base/Legends|Echo Base]] on the planet [[Hoth/Legends|Hoth]].<ref name="GG3" />
+
+[[File:Veers-hd.png|thumb|200px|Veers speaks to Darth Vader.]]
+
+Veers's most notable success occurred at the [[Battle of Hoth/Legends|Battle of Hoth]] when he was given the chance to correct a mistake caused by the incompetent [[Admiral/Legends|Admiral]] [[Kendal Ozzel/Legends|Ozzel]]. General Veers lived up to both his reputation and [[Lord/Legends|Lord]] Vader's expectations by quickly deploying his armored regiment, designated [[Blizzard Force/Legends|Blizzard Force]], into the [[Echo Base/Legends|Echo Base]] mountain valley and personally destroying the [[deflector shield generator/Legends|shield generator]] protecting the Rebel base. Shortly after the destruction of the shield generator, Rebel [[T-47 airspeeder/Legends|snowspeeder]] [[Rebel pilot/Legends|pilot]] [[Derek Klivian/Legends|Derek "Hobbie" Klivian]] flew his damaged vessel directly into the cockpit of Veers's Blizzard One [[Walker/Legends|walker]].
+
+Both men miraculously survived the incident but came out badly injured. General Veers attempted to flee the bridge of his walker, but was not swift enough and a falling support beam crushed his leg bones into pieces so small that reconstruction and [[Bacta/Legends|bacta]] could not restore them. Veers, like many in [[The galaxy/Legends|the galaxy]], held a dislike for cybernetics and refused to have his legs replaced with [[Cybernetics/Legends|prosthetics]]. Because of this, Veers would be confined to a [[Power chair|hoverchair]] for the rest of his life.
+
+===After Hoth ([[3 ABY/Legends|3 ABY]]&ndash;[[10 ABY/Legends|10 ABY]])===
+Although the Battle of Hoth was a great victory for him, bringing him fame and glory, it was overshadowed by a report from his son's [[Commission for the Preservation of the New Order/Legends|COMPNOR]] [[Sub-Adult Group/Legends|SAGroup]] commander. The commander reported that Zevulon Veers had gone missing during a SAGroup mission dealing with Rebel spies. However, the honored General suspected that his son had defected to the Rebellion and disowned him. The betrayal of his son brought shame and dishonor to the Veers name despite the General's victory at [[Hoth/Legends|Hoth]]. He would suffer from the ignominy his son brought forth for the rest of his life.
+
+[[4 ABY/Legends|Nearly a year later]], General Veers was on a planetside mission when the ''Executor'' was destroyed over [[Endor/Legends|Endor]].
+
+After the [[Death/Legends|death]] of [[Galactic Emperor/Legends|Emperor]] [[Palpatine/Legends|Palpatine]] at the [[Battle of Endor/Legends|Battle of Endor]], General Veers served under command of [[Admiral/Legends|Admiral]] [[Sander Delvardus]]. Delvardus soon became one of the first Imperial [[Warlord/Legends|Warlords]] and created the Imperial splinter faction known as the [[Eriadu Authority]]. This was criticized by General Veers and other Imperial [[Officer/Legends|officers]] serving under him.<ref name="TIW:DoaE2" />
+
+In the following years he would move from one Imperial commander to the next in search of a new command, eventually serving as a template for Grand Admiral Thrawn's [[cloning/Legends|clones]].
+
+[[File:Veers last battle.jpg|thumb|200px|left|Veers leads the infantry assault on Balmorra's capital [[Bin Prime]] from a repulsor transport.]]
+
+Most of the time he was shunned away or rejected downright because of his relationship with Lord Vader. Most post-Endor officers despised anyone who had served and survived Darth Vader and wanted nothing to do with those people. For six years, Veers wandered the galaxy watching as everything he believed in and fought for crumbled around him. Eventually, he became disappointed and distraught with the path the Empire was following, but his sense of loyalty and honor had kept him from defecting or going [[wikipedia:AWOL|AWOL]].
+
+When the message recalling the remaining Imperial forces to the [[Deep Core/Legends|Deep Core]] arrived, Veers, like many other officers searching for a new hope, answered it and reported to the Imperial Fleet orbiting [[Byss/Legends|Byss]]. Six months after Thrawn's defeat at the [[Battle of Bilbringi (9 ABY)|Battle of Bilbringi]], Veers would participate in the [[Battle of Calamari]] and [[Balmorra/Legends|Balmorra]].
+
+It was during the [[Battle of Balmorra]] that Veers suffered the worst fate that could be given to an established officer of the Empire. Hated for the fact that he served and survived Lord Vader, Veers was severely demoted to the rank of captain and sent on a suicide mission by [[Executor (Imperial rank)|Executor]] [[Sedriss QL]]. Maximilian Veers, one of the Empire's greatest ground tacticians and heroes, perished on that fateful suicide mission.<ref name="DEII1" />
+
+==Personality and traits==
+{{Quote|They call ''that'' a defense?|Veers during battle|Star Wars: Empire at War}}
+Veers was a ruthless and aggressive officer who enjoyed wreaking havoc with the destructive Imperial ground forces,<ref name="EAWGG">''[[Star Wars: Empire at War: Prima Official Game Guide]]''</ref> but was also an honorable frontline commander who was not opposed to putting himself in harm's way. These traits earned him the respect of Grand Admiral Thrawn for his courage under fire.
+
+==Behind the scenes==
+[[File:Maximilian Veers NEGTC.jpg|thumb|150px|General Veers]]
+Maximilian Veers was portrayed by [[Julian Glover]] in ''[[Star Wars: Episode V The Empire Strikes Back|The Empire Strikes Back]]''. [[George Lucas]] would later cast Glover as the villainous Walter Donovan in ''Indiana Jones and the Last Crusade'', reuniting him with [[Harrison Ford]] (although ''Indiana Jones and the Last Crusade'' was the first film in which Glover and Ford appeared together onscreen, having shared no scenes in ''The Empire Strikes Back''). Veers was voiced by [[Gordon Gould]] in the [[The Empire Strikes Back (radio)|audio drama version]] of ''The Empire Strikes Back''. [[Guy Siner]] provided the voice of Veers in ''[[Star Wars: Force Commander|Force Commander]]''. His voice in the [[2005]] [[video game]] ''[[Star Wars: Battlefront II]]'' was provided by [[Jamie Glover]], Julian's son.
+
+In the novel adaptation of the screenplay of ''The Empire Strikes Back'', General Veers was killed shortly after the destruction of the shield generator during the [[Battle of Hoth/Legends|Battle of Hoth]]. The snowspeeder pilot [[Derek Klivian/Legends|Derek Klivian]] suffered severe damage to his craft and sped it into a suicide attack on Veers's walker. The resulting explosion destroyed the "head" of the walker, killing Veers and his crew.
+
+Early versions of the ''[[Star Wars: Episode VI Return of the Jedi|Return of the Jedi]]'' script had Veers present, commanding scout forces on [[Had Abbadon]].{{Fact}}
+
+His death in ''[[Dark Empire II 1: Operation Shadow Hand]]'' made him the second film character with a speaking role to be killed in the [[Star Wars Legends|Expanded Universe]].
+
+''[[Star Wars: Galactic Battlegrounds]],'' a [[video game]] released in [[2001]], portrays Veers as a colonel at the beginning of the [[Battle of Zaloriis/Legends|Battle of Zaloriis]] and being promoted to general afterward. "Congratulations, ''General'' Veers," Vader tells him. This may be inconsistent with other sources. However, a stormtrooper calls him "General" before this promotion, when Veers arrives to take the prototype AT-AT. Also, when the player selects Veers, he sometimes responds by saying "General Veers, my Lord?" The game's [[Star Wars: Galactic Battlegrounds: Prima's Official Strategy Guide|strategy guide]] incorrectly states he led the [[Imperial Marine]]s at the Battle of Hoth.
+
+In the [[2006]] video game ''[[Star Wars: Empire at War]]'', [[Grand Moff/Legends|Grand Moff]] [[Wilhuff Tarkin/Legends|Tarkin]] states that Veers designed the AT-AT personally. In the game he commands a modified AT-AT.
+
+{{Noncanonstart}}
+Veers also appeared in a skit for the [[Canon|non-canon]] special ''[[Robot Chicken: Star Wars Episode II]]'', where he tells the AT-ATs to start their attack on Echo Base, only to be completely dumbfounded when two of the AT-ATs jumped out of line to participate in a race that greatly resembled a freeway race by teenagers, resulting in one of the AT-ATs being totaled. When Vader asks for the results of the mission, Veers was in such a state of shock that he wasn't able to give any, causing him to instead cover Vader's hologram with a plastic coffee cup.
+
+General Veers briefly appeared in the [[2007]] video game ''[[LEGO Star Wars: The Complete Saga]]'' at the beginning of the "Escape from Echo Base" level (''The Empire Strikes Back'').
+{{Noncanonend}}
+
+==Appearances==
+{{Imagecat|Images of Maximilian Veers}}
+*{{WEGCite|book=The Star Wars Sourcebook|text=''The Star Wars Sourcebook''|story=The Promotion of Lieutenant Veers}}
+*{{WEGCite|book=Star Wars Sourcebook (Second Edition)|text=''Star Wars Sourcebook'', Second Edition|story=The Promotion of Lieutenant Veers}} {{C|Reprint}}
+*''[[Star Wars: Galactic Battlegrounds]]''
+*''[[Star Wars: Battlefront II]]''
+*''[[Star Wars: Galactic Battlegrounds: Clone Campaigns]]''
+*''[[Star Wars: Empire at War]]''
+*''[[Star Wars: Force Commander]]''
+*''[[When the Desert Wind Turns: The Stormtrooper's Tale]]''
+*''[[Deadly Reunion]]''
+*{{SWG|An Empire Divided}}
+*''[[Side Trip]]''
+*[[The Empire Strikes Back (radio)|''Star Wars Episode V: The Empire Strikes Back'' radio drama]]
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]
+*[[Star Wars Episode V: The Empire Strikes Back (junior novelization)|''Star Wars Episode V: The Empire Strikes Back'' junior novel]]
+*[[Star Wars Episode V: The Empire Strikes Back (novel)|''Star Wars Episode V: The Empire Strikes Back'' novel]] {{1st}}
+*''[[Star Wars 39: The Empire Strikes Back: Beginning]]'' {{Mo}}
+*''[[Star Wars 40: The Empire Strikes Back: Battleground Hoth]]''
+*''[[The Empire Strikes Back Storybook]]''
+*''[[Dark Empire II 1: Operation Shadow Hand]]''
+*[[Dark Empire II (audio)|''Dark Empire II'' audio drama]]
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Complete Saga]]'' {{Cutscene}}
+*''[[LEGO Star Wars II: The Original Trilogy]]'' {{Cutscene}}
+*''[[Star Wars: Rebellion (video game)|Star Wars: Rebellion]]''
+*''[[Star Wars Infinities: The Empire Strikes Back]]''
+
+==Sources==
+{{Scroll_box|content=
+*''[[The Empire Strikes Back Official Poster Monthly 4]]''
+*''[[Star Wars: The Empire Strikes Back: Official Collectors Edition]]''
+*{{KennerCite|set=Star Wars: The Empire Strikes Back (toy line){{!}}Star Wars: The Empire Strikes Back|pack=Imperial Commander|link=VINtImperialCommander.asp}}
+*{{KennerCite|set=Star Wars: The Empire Strikes Back (toy line){{!}}Star Wars: The Empire Strikes Back|pack=AT-AT Commander|link=VINtATATCommander.asp}}
+*''[[A Guide to the Star Wars Universe]]''
+*''[[The Star Wars Sourcebook]]''
+*''[[Assault on Hoth]]''
+*''[[Galaxy Guide 3: The Empire Strikes Back]]''
+*''[[Heir to the Empire Sourcebook]]''
+*''[[Dark Force Rising Sourcebook]]''
+*''[[Wanted by Cracken]]''
+*''[[Dark Empire Sourcebook]]''
+*''[[The Movie Trilogy Sourcebook]]''
+*''[[The Last Command Sourcebook]]''
+*{{GalaxyCite|4|The Hard, Cold Facts About Hoth}} {{Po}}
+*[[Star Wars: The Power of the Force (1995 toy line)|''Star Wars: The Power of the Force'' (1995)]]
+*''[[The Empire Strikes Back: The National Public Radio Dramatization]]''
+*{{CCG|set=Hoth Limited|cardname=Blizzard 1}}
+*{{CCG|set=Hoth Limited|cardname=Electro-Rangefinder}} {{Po}}
+*{{CCG|set=Hoth Limited|cardname=General Veers}}
+*{{CCG|set=Hoth Limited|cardname=Target The Main Generator}} {{Qo}}
+*{{InsiderCite|31|Scouting the Galaxy|Scouting the Galaxy: Of Freebies, Wimps and Fake Fetts}}
+*{{InsiderCite|32|Rebel Pilot Reunion}}
+*{{CCG|set=Endor Limited|cardname=Commander Igar}}
+*{{CCG|set=Endor Limited|cardname=Lieutenant Page}}
+*{{CCG|set=Empire Strikes Back Introductory Two-Player Game|cardname=Veers}}
+*''[[Star Wars: Rebellion: Prima's Official Strategy Guide]]''
+*{{CollectorCite|3|It's All In The Cards}}
+*{{CollectorCite|6|Special (FX)tions}}
+*''[[Star Wars: Galactic Battlegrounds: Prima's Official Strategy Guide]]''
+*''[[The New Essential Guide to Characters]]''
+*''[[Star Wars Miniatures: Rebel Storm]]''
+*''[[Star Wars: The Complete Visual Dictionary]]''
+*''[[Inside the Worlds of Star Wars Trilogy]]''
+*''[[Rebellion Era Sourcebook]]''
+*{{FFCite|3|ATA1, ''All-Terrain Armoured Transport (AT-AT)''}} {{Po}}
+*{{FFCite|4|HOT4-6, ''The Battle of Hoth''; OZZ2, ''Admiral Ozzel''}}
+*{{FFCite|11|END9, ''The Battle of Endor''}}
+*{{FFCite|31|VEE1-2, ''General Maximilian Veers''}}
+*{{FFCite|45|VEE3-4, ''General Maximilian Veers''}}
+*''[[Star Wars: The Action Figure Archive]]''
+*{{TCG|set=The Empire Strikes Back (TCG)|link=http://www.wizards.com/swtcg/images/esb/general_maximilian_veers_(b).jpg|cardname=General Maximilian Veers}}
+*{{TCG|set=The Empire Strikes Back (TCG)|link=http://wizards.com/swtcg/images/esb/shield_generator.jpg|cardname=Shield Generator}}
+*{{TCG|set=The Empire Strikes Back (TCG)|link=http://wizards.com/swtcg/images/esb/snowspeeder_rogue_ten.jpg|cardname=Snowspeeder Rogue Ten}} {{Po}}
+*{{TCG|set=The Empire Strikes Back (TCG)|link=http://wizards.com/swtcg/images/esb/ground_assault.jpg|cardname=Ground Assault}} {{Imo}}
+*''[[Dressing a Galaxy: The Costumes of Star Wars]]''
+*''[[Star Wars: Empire at War: Prima Official Game Guide]]''
+*''[[Star Wars: Empire at War: Forces of Corruption: Prima Official Game Guide]]''
+*''[[Star Wars Roleplaying Game Saga Edition Core Rulebook]]'' <!--p.220-->
+*{{SonyCite|url=players/news_archive.vm?id=67382&month=082007|text=Serving the Empire|archivedate=20111124012415}}
+*{{InsiderCite|96|The Empire's Finest: Who's Who in the Imperial Military}}
+*{{Journal|15|Special Military Unit Intelligence Update}}
+*''[[Star Wars: The Official Starships & Vehicles Collection 10]]''
+*''[[The Force Unleashed Campaign Guide]]''
+*{{SWGTCG|set=Champions of the Force (SWGTCG)|text=Champions of the Force|cardname=Maximilian Veers}}
+*''[[The Complete Star Wars Encyclopedia]]''
+*''[[Tinker, Tailor, Soldier, Praji]]''
+*{{InsiderCite|96|The Men Who Built the Empire}}
+*''[[Star Wars: The Official Starships & Vehicles Collection 4]]''
+*''[[Star Wars: The Official Starships & Vehicles Collection 23]]''
+*{{SWGTCG|set=The Shadow Syndicate|cardname=Maximilian Veers}}
+*{{SWGTCG|set=The Nightsister's Revenge|cardname=Walker Assault}}
+*{{SWGTCG|set=The Nightsister's Revenge|cardname=Missile Crate}}
+*{{InsiderCite|119|In Their Own Words: Making The Empire Strikes Back}}
+*{{InsiderCite|119|The Empire Strikes Fact!}}
+*{{InsiderCite|119|Empire Tales}}
+*''[[Star Wars: Head-to-Head Tag Teams]]''
+*''[[Star Wars Character Encyclopedia]]''
+*{{DB|character|generalmaximilianveers|General Maximilian Veers}}
+*''[[The Essential Reader's Companion]]''
+*{{InsiderCite|Special Edition 2013|The Executor of the Empire}}
+*''[[Star Wars: The Ultimate Action Figure Collection]]''
+*''[[Star Wars: Force Collection]]'' {{C|Card: General Veers}}
+*{{FFGTCG|set=Assault on Echo Base|cardname=The General's Imperative}} {{Po}}
+*{{FFGTCG|set=Assault on Echo Base|cardname=General Veers}}
+*{{SWE|characters|general-veers|General Veers}}
+*{{FFGTCG|set=The Battle of Hoth (Force Pack)|cardname=Aggressive Assault}}
+*{{SW|url=news/the-imperial-warlords-despoilers-of-an-empire-part-2|int=The Imperial Warlords: Despoilers of an Empire|text=The Imperial Warlords: Despoilers of an Empire, Part 2}}
+*{{InsiderCite|148|Imperial Icons}}
+*{{SWMCite|1|Meet the Imperials!}}
+*''[[Star Wars: Imperial Handbook: A Commander's Guide]]''
+*{{Topps|set=Star Wars Illustrated: The Empire Strikes Back|cardname=Echo Base Invasion}}
+*{{Topps|set=Star Wars Illustrated: The Empire Strikes Back|cardname=One Year Earlier: General Veers}}
+*{{Topps|set=Star Wars Illustrated: The Empire Strikes Back|cardname=The Mission: Capture Skywalker: General Veers}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{Hyperspace|url=hyperspace/member/photoreceptor/2005/08/photoreceptor20050809.html|text=Warranted Trepidation|int=}}
+
+{{Interlang
+|de=Maximilian Veers
+|es=Maximilian Veers
+|fr=Maximilian Veers
+|it=Maximilian Veers
+|hu=Maximilian Veers
+|nl=Maximilian Veers
+|pl=Maximilian Veers
+|pt=Maximilian Veers
+|ru=Максимилиан Вирс
+|fi=Maximilian Veers
+}}
+
+{{DEFAULTSORT:Veers, Maxmilian}}
+[[Category:Death Squadron personnel]]
+[[Category:Denon residents]]
+[[Category:Humans]]
+[[Category:Imperial Army generals of the Galactic Empire]]
+[[Category:Males]]
+[[Category:Pilots]]

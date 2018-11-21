@@ -1,0 +1,72 @@
+{{Eras}}
+{{Droid
+|image=[[File:AZ-345211896246498721347.png]]
+|name=AZI-345211896246498721347
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=
+|line=
+|model=
+|class=[[Medical droid]]<ref name="AZI-3">{{Databank|azi-3|AZI-3|archivedate=20170602125510}}</ref>
+|degree=
+|cost=
+|length=
+|width=
+|height=
+|mass=
+|gender=
+|sensor=
+|plating=
+|armament=
+|equipment=
+|era=
+|affiliation=*[[Kamino]]<ref name="AZI-3" />
+*[[Galactic Republic]]<ref name="AZI-3" />}}
+'''AZI-345211896246498721347''' was a [[medical droid]] who served the [[Grand Army of the Republic]] during the [[Clone Wars]]. He was known as '''AZI-3''' by the [[Advanced Recon Commando|ARC trooper]] "[[CT-5555|Fives]]," who felt that numbers were demeaning. In [[19 BBY]], AZI-3 struck an unlikely friendship with Fives as the two worked together to investigate a supposed "tumor" that had caused Fives' fellow soldier [[CT-5385|Tup]] to assassinate the [[Jedi General]] [[Tiplar]]. During the course of their investigation, the two discovered that all [[Clone trooper]]s had been implanted with [[Control chip|inhibitor chips]] for an unknown purpose; which subsequently turned out to be [[Darth Sidious]]'s planned [[Jedi Purge]].
+
+==Biography==
+===An unlikely friendship===
+AZI-3 served in the medical facility at [[Kamino]]'s [[Tipoca City]]. He was present for the arrival of "[[CT-5385|Tup]]," a [[clone trooper]] who was suffering from a mysterious condition that had caused him to attack and [[Death|kill]] the [[Jedi General]] [[Tiplar]]. He was assigned to oversee testing on Fives, whom it was believed might have been exposed to whatever condition had affected Tup.<ref name="Conspiracy">{{TCW|Conspiracy}}</ref>
+
+Fives, wanting to help his friend Tup, used a wordplay to convince AZI-3 that, by not helping the patient, he was doing the opposite of what he was programmed to. After convincing AZI-3 to help him, Fives explained to the droid that no clone went by a number these days and his camaraderie with Tup. AZI-3 suggested that they complete a [[Level 5 atomic brain scan]] on Tup but the [[Kaminoan]] doctor [[Nala Se]] refused on the grounds that a post-mortem dissection would yield the proper results.<ref name="Conspiracy" /> AZI-3 and Fives were unaware that Nala was trying to conceal the existence of [[Control chip|inhibitor chips]] in all [[Clone trooper]]s, which was central to [[Darth Sidious]]' [[Order 66]].<ref name="Orders">{{TCW|Orders}}</ref>
+
+Continuing to work with Fives, AZI-3 performed the procedure, eventually conducting a biopsy based on the readings, and discovered a mysterious "tumor" inside Tup. It transpired that the tumor was actually a control chip and when it was removed, Tup died. Shortly later, AZI-3 and Fives were corned by Nala Se and Shaak Ti.<ref name="Conspiracy" /> Following an argument, Shaak Ti and Nala Se reached an agreement for the "tumor" to be transported to the [[Imperial Palace|Jedi Temple]] and then the [[Grand Republic Medical Facility]] for further analysis.<ref name="Fugitive">{{TCW|Fugitive}}</ref>
+
+===Unmasking a conspiracy===
+Due to his role in helping Fives to defy his superiors' orders, AZI-3 was sent to have his [[memory wipe]]d in order to purge for his knowledge of these chips and malfunctioning. On the way, AZI-3 casually informed Fives that the Clone trooper was to undergo a memory wipe as well and to be reassigned to sanitation duty. Realizing that the Kaminoans were trying to hide a conspiracy, Fives broke free of his captors and fled the medical suit with AZI-3 in tow. The two stole a [[Kaminoan flight pod]] from a [[hangar]] and fled into the skies above [[Tipoca City]].<ref name="Fugitive" />
+
+Fives then informed AZI-3 that his plan was to use the flight pod's autopilot to distract the Kaminoan security forces while he and AZI-3 returned to the clone laboratories to continue their investigation into the "tumors". Fives flung AZI-3 into the sea before jumping in as well. AZI-3 then revealed that he could reconfigure his body into an improvised hover mode. AZI-3 and Fives then re-entered Tipoca City through a service hatch. Under Five's orders, AZI-3 lured another Clone trooper into the service area so that Fives could knock him unconscious and steal his armor.<ref name="Fugitive" />
+
+The two then made their way to Kamino's [[Genetic Records Hall/Canon|Genetic Records Hall]] where AZI-3 compared to the tumor's DNA to that of the late [[Jango Fett]], who had been the Clone troopers' genetic template. The scan confirmed that the "tumor" did not match Fett's genotype and that it was an organic chip that had been implanted into Tup. After Nala Se learned of their presence, AZI-3 and Fives escaped Shaak Ti and several Clone troopers through a ceiling hatch. While crawling through the service tunnels, AZI-3 speculated that the chip had an unknown purpose. Fives convinced AZI-3 to operate on him in order to investigate whether he too had the implant.<ref name="Fugitive" />
+
+After finding a sterile room, AZI-3 operated on Fives and found a healthy chip inside his head. The two then headed to the [[Kamino embryo room|embryo room]]. On the way, they passed through a training room and AZI-3 tried to distract the Kaminoan instructors by singing. After entering the embryo room, AZI-3 and Fives discovered that all of the Clone embryos had been implanted with the chips at the third stage of their development. The two fugitives were soon cornered by Shaak Ti, Nala Se, and several Clone troopers. Nala Se wanted to destroy Fives on the grounds that he was an "aberrant" Clone who was Kaminoan property. However, Shaak Ti insisted that the clones were the property of the Galactic Republic and convinced Nala Se to allow Fives and the chips to be presented to [[Supreme Chancellor]] [[Darth Sidious|Palpatine]], who was secretly Darth Sidious.<ref name="Fugitive" />
+
+AZI-3 expressed jubilation that he had helped Fives prove his case to Nala Se and Shaak Ti. He escorted Fives to a transport that took him to the galactic [[capital]] [[Coruscant]].<ref name="Fugitive" /> Despite the efforts of AZI-3 and Fives, Darth Sidious and his [[Sith apprentice]] [[Dooku|Darth Tyranus]] successfully conspired to prevent AZI-3 from revealing the existence of the inhibitor chips to the wider public. The concealed Clone inhibitor chips would play an important role in advancing Darth Sidious' [[Jedi Purge]] at the end of the Clone Wars.<ref name="Orders" />
+
+==Characteristics==
+AZI-3 was a [[medical droid]] with a [[Sexes|masculine]] programming. He was an optimistic "by-the-books" droid who usually followed protocol. Despite his attention to protocol, AZI-3 also deeply cared for his Clone trooper patients. Fives was able to use AZI-3's devotion to his patients to convince the droid to help him investigate a "tumor" that was affecting his comrade Tup.<ref name="Conspiracy" /> AZI-3 displayed considerable bravery and loyalty to his unlikely friend Fives during the course of their mission. AZI-3' knowledge of the Tipoca City cloning facilities enabled him to help Fives discover that all Clone troopers were implanted with inhibitor chips for an unknown purpose,<ref name="Fugitive" /> later revealed to be Order 66.<ref name="Orders" />
+
+==Equipment==
+AZI-3 was a small floating medical droid with a humanoid head and torso. He had [[repulsorlift]]s that allowed him to float.<ref name="Conspiracy" /> AZI-3 was also a skilled surgeon and was familiar with the computer systems at the Tipoca City cloning facilities.<ref name="Fugitive" />
+
+==Behind the scenes==
+AZI-3 first appeared in ''[[The Clone Wars: The Lost Missions]]'' episodes "[[Conspiracy]]" and "[[Fugitive]]", which first premiered on the German TV network [[Wikipedia:Super RTL|Super RTL]] on [[February 15]], [[2014]] and were later released in the US and Canada via [[Wikipedia:Netflix|Netflix]] on [[March 7]], 2014.
+
+==Appearances==
+*{{TCW|Conspiracy}} {{1st}}
+*{{TCW|Fugitive}}
+*{{TCW|Orders}} {{Flash}}
+
+==Sources==
+*{{InsiderCite|152|A Trip to the Light Side}} {{Po}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|azi-3|AZI-3|archivedate=20170602125510}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Medical droid models]]
+[[Category:Medical droids]]

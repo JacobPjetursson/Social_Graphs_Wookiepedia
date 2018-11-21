@@ -1,0 +1,54 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Greeata btm.jpg]]
+|name=Greeata Jendowanian
+|homeworld=[[Rodia]]<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|birth=
+|death=
+|species=[[Rodian]]<ref name="RTOJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|gender=[[Sexes|Female]]<ref name="RTOJ" />
+|height=1.7 [[meter]]s<ref name="Databank">{{Databank|greeata|Greeata|archivedate=20161216125834}}</ref>
+|mass=
+|hair=[[Color|Orange]]<ref name="Databank" />
+|eyes=Black<ref name="RTOJ" />
+|skin=Green<ref name="RTOJ" />
+|cyber=
+|era=
+|affiliation=[[Max Rebo Band]]<ref name="Music">{{SW|url=/news/music-in-the-star-wars-galaxy-the-modal-nodes-vs-the-max-rebo-band|text=''Music in the Star Wars Galaxy: The Modal Nodes vs. The Max Rebo Band''}}</ref>
+|masters=
+|apprentices=}}
+'''Greeata Jendowanian''' was a [[Sexes|female]] [[Rodian]] who worked as a singer and dancer for the [[Max Rebo Band]].<ref name="Music" /> During the [[Clone Wars]] between the [[Galactic Republic]] and the [[Confederacy of Independent Systems]], she attended a performance of a [[Mon Calamari]] opera on the [[planet]] [[Coruscant]].<ref name="ROTS">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref> Four [[Standard year|years]] after the [[Battle of Yavin]], she and the rest of the [[Max Rebo]] Band performed for [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]] at his [[Jabba's Palace|palace]] on the planet [[Tatooine]]. The group played the song [[Jedi Rocks]] for the Hutt, who demanded that they repeat the performance, but then dropped his [[Slavery|slave]] dancer [[Oola]] into his [[rancor]] pit during the repeat performance, causing the band to stop playing. Greeata was visibly shocked when Oola was eaten by the rancor, and then witnessed [[Prince]]ss [[Leia Organa]] arrive in the palace disguised as the [[bounty hunter]] [[Boushh]] with the [[Wookiee]] [[Chewbacca]] as a prisoner.<ref name="RTOJ" />
+
+==Behind the scenes==
+Greeata Jendowanian first appeared in the [[The Star Wars Trilogy Special Edition|Special Edition]] re-release of [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] in [[1997]], played by [[Celia Fushille-Burke]]. She was first named in the ''[[Star Wars Legends]]'' ''[[Power of the Force]]'' set of [[Hasbro Inc.]]'s action figure collection which was released in [[1998]]. The name was confirmed to be [[canon]] by ''[[Music in the Star Wars Galaxy: The Modal Nodes vs. The Max Rebo Band]]'', a [[StarWars.com]] article written by [[Amy Ratcliffe]] and published in [[2015]].
+
+==Appearances==
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+*[[Star Wars (LINE Webtoon)|''Star Wars'' LINE Webtoon]]
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}} {{C|Post-[[1997]] releases}}
+
+==Sources==
+*{{SWE|characters|sysnootles|Sy Snootles}} {{Imo}}
+*{{SW|url=/news/music-in-the-star-wars-galaxy-the-modal-nodes-vs-the-max-rebo-band|text=''Music in the Star Wars Galaxy: The Modal Nodes vs. The Max Rebo Band''}} {{1stID}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|greeata|Greeata|archivedate=20161216125834}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Greeata Jendowanian#kanon
+|fr=Greeata Jendowanian
+|ja=グリアータ・ジェンドワニアン
+|nl=Greeata Jendowanian
+|pl=Greeata Jendowanian
+|ru=Гриата Джендованиан
+}}
+
+{{DEFAULTSORT:Jendowanian, Greeata}}
+[[Category:Females]]
+[[Category:Max Rebo Band members]]
+[[Category:Rodians]]

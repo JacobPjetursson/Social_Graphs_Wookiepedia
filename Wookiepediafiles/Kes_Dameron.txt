@@ -1,0 +1,97 @@
+{{Eras}}
+{{Update|[[Before the Awakening]], [[Star Wars: The Rebel Files]], [[Star Wars: On the Front Lines]]}}
+{{Character
+|type=
+|image=[[File:Kes Dameron.png]]
+|name=Kes Dameron
+|homeworld=
+|birth=
+|death=
+|species=[[Human]]<ref name="Shattered Empire 1">''[[Shattered Empire, Part I]]''</ref>
+|gender=[[Sexes|Male]]<ref name="Shattered Empire 1" />
+|height=
+|mass=
+|hair=[[Color|Black]]<ref name="Shattered Empire 1" />
+|eyes=Brown<ref name="Shattered Empire 1" />
+|skin=Tan<ref name="Shattered Empire 1" />
+|cyber=
+|era=
+|affiliation=*[[Alliance to Restore the Republic]]<ref name="Shattered Empire 1" />
+**[[Pathfinders]]<ref name="Shattered Empire 1" />
+**[[Endor strike team]]<ref name="Shattered Empire 1" />
+|masters=
+|apprentices=}}
+{{Quote|I'm asking myself all those questions I never let myself ''ask'' before.''"<br />"''Such as?''"<br />"''Such as, what do we do now that it's ''over''?|Kes Dameron and Shara Bey|Shattered Empire, Part I}}
+'''Kes Dameron''' was a [[human]] [[Sexes|male]] [[Rebel trooper|soldier]] who served as a [[sergeant]] in the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]]. He was [[Marriage|married]] to [[Shara Bey]], a [[Rebel pilot]]. They both fought against the [[Galactic Empire]] in the [[Battle of Endor]], during which Dameron was part of the [[Pathfinders]], a special forces strike team led by [[General]] [[Han Solo]] that destroyed the [[Death Star II|Death Star II's]] [[deflector shield generator]]. After the Empire's defeat during the battle, both Dameron and Bey participated in an [[Assault on an Imperial outpost|assault]] on an [[Imperial outpost (Endor)|outpost]] manned by Imperial holdouts on [[Endor]].
+
+Dameron fought with the Pathfinders for the next several [[Standard week|weeks]], including the [[raid at the Wretch of Tayron]]. After fighting their way into an [[Imperial Security Bureau]] black site, the team was able to gain data needed to uncover and stop [[Operation: Cinder]], an Imperial operation designed to destroy numerous worlds to avenge the [[death]] of the [[Galactic Emperor|Emperor]], [[Darth Sidious]], who had been killed during the Battle of Endor. Three [[Standard month|months]] after the raid, Dameron and Bey both left Rebel service and began a new life together. At their new home on [[Yavin 4]], they planted a fragment of a [[Great Tree (Coruscant)|Force-sensitive tree]], one that had once dwelled at the heart of the [[Imperial Palace|Jedi Temple]] on [[Coruscant]], after it had been gifted to Bey by [[Commander]] [[Luke Skywalker]].
+
+==Biography==
+===Galactic Civil War===
+{{Quote|People were hurting. People were suffering. Your father and I couldn't sit and do nothing.|Shara Bey, to her son Poe|Before the Awakening}}
+====Battle of Endor====
+{{Quote|Worried? Why would I be worried? Mister find-a-nice-planet-build-a-house-oh-sorry-gotta-go-get-shot-at-some-more-love-ya-babe.|Shara Bey, as Dameron assaulted an Imperial outpost on Endor|Shattered Empire, Part I}}
+[[Sergeant]] Kes Dameron was a [[Rebel trooper|soldier]] in the [[Alliance to Restore the Republic]] during its fight against the [[Galactic Empire]] in the [[Galactic Civil War]]. He was [[Marriage|married]] to [[Rebel pilot]] [[Shara Bey]], with whom he served in the Rebel Alliance,<ref name="Shattered Empire 1" /> and together they had a son, [[Poe Dameron|Poe]].<ref name="Shattered Empire 2">''[[Shattered Empire, Part II]]''</ref> Because of their service in the Rebellion, Dameron and Bey only saw each other for short periods of time, often for [[Standard hour|hour]]-long intervals after several [[Standard week|weeks]] apart.<ref name="Shattered Empire 4">''[[Shattered Empire, Part IV]]''</ref>
+
+[[File:Shara and Kes victory celebration.png|thumb|300px|right|Dameron and Bey reunite during the Rebel victory celebration on Endor.]]
+During the [[Battle of Endor]], Dameron fought as part of a special-forces group known as the [[Pathfinders]] under the command of [[General]] [[Han Solo]]. The group's objective was to destroy the [[Deflector shield generator|generator]] powering the [[Deflector shield|shield]] for the [[orbit]]ing [[Death Star II]], which would allow the [[Alliance Fleet]] to destroy the [[battle station]]. The plan was successful; the Death Star was destroyed, the [[Galactic Emperor|Emperor]], [[Darth Sidious]], was [[Death|killed]], and the Empire was dealt a crippling blow before retreating from [[Endor]]. Dameron and the surviving Pathfinders returned to [[Bright Tree Village]], the home of the native [[Ewok]]s who helped them win the battle, where they and others in the Rebellion celebrated their victory over the Empire. Many of the Alliance pilots and other personnel also ferried down to the village, including Bey, who flew with [[Green Squadron (Rebel Alliance)|Green Squadron]] during the battle to destroy the Death Star. They were relieved to find one another safe and sound, and they took a walk through the village to talk about their future and what they would do with the war coming to an end. They then spent the night together.<ref name="Shattered Empire 1" />
+
+The next morning, Solo reassembled the Pathfinders and informed them that a group of Imperials was still holding out in an [[Imperial outpost (Endor)|outpost]] on the far side of Endor. Solo intended to attack the base, not wanting to leave a group of Imperials on Endor after the Ewoks helped the Alliance in the battle. Dameron and the rest of the Pathfinders would [[Assault on an Imperial outpost|assault]] the outpost, while Bey volunteered to [[pilot]] the [[gunship]] that would transport the soldiers to the base. The gunship soon arrived and assaulted the outpost, and the Pathfinders deployed into the area. As he disembarked from the gunship, Dameron told Bey that he was ready to settle down on another [[planet]] and build a house. Dameron and the Pathfinders fought their way into the base, where they found Imperial intelligence suggesting that the Empire still had plans for [[the galaxy]], before returning to the ship.<ref name="Shattered Empire 1" /> Dameron and Bey were soon sent on separate assignments, with Dameron continuing to serve alongside General Solo. His duties necessitated a communications blackout, so he was unable to speak with Bey for several weeks.<ref name="Shattered Empire 2" />
+
+====Final missions====
+{{Quote|Let's go ''home'', Shara Bey.|Dameron to Bey, after they both left Rebel service|Shattered Empire, Part IV}}
+[[File:Kes Dameron and Sakas raid.png|thumb|300px|left|Dameron fights alongside Sakas during the raid at the Wretch of Tayron.]]
+Twenty [[Standard day|days]] after the Battle of Endor, Dameron fought with the Pathfinders in a [[Raid at the Wretch of Tayron|raid]] on the [[Wretch of Tayron|Wretch]] of [[Tayron]], the location of an [[Imperial Security Bureau]] black site in the [[Outer Rim Territories]]. He and [[Sakas]], a fellow Pathfinder, performed reconnaissance before the raid began, while other members of the strike team set up charges to infiltrate the secret base. Dameron and other Pathfinders fired several shots at the base, taking out [[All Terrain Scout Transport]]s and other heavy equipment. The Pathfinders moved in, with Dameron having cleared a hole, and began fighting the [[stormtrooper]]s stationed outside the base. Dameron was nearly shot by a [[scout trooper]], but he was saved by [[Chewbacca]], General Solo's [[Wookiee]] companion, who attacked the trooper before he could kill Dameron. Solo soon arrived and reviewed the plan of attack, at which point they entered the base.<ref name="Shattered Empire 3">''[[Shattered Empire, Part III]]''</ref>
+
+The Pathfinders fought their way through the base and captured its commander before he could purge the data from the ISB computer banks. The commander surrendered, and the Rebels, using the [[protocol droid]] [[C-3PO]], [[Slicer|hacked]] into the computers. Once inside the computers, Threepio discovered that an Imperial operation known as [[Operation: Cinder]] was underway, including on [[Naboo]]&mdash;where Bey was located, as she was serving as the personal pilot of [[Prince]]ss [[Leia Organa]]. With Naboo under heavy, world-ending siege to enact the Emperor's final wrath, a Rebel fleet under the command of General [[Lando Calrissian]] made their way to Naboo. They were able to rescue Bey and Organa, who, along with [[Monarch of Naboo|Queen]] [[Sosha Soruna]], flew a mission to destroy the Imperial [[satellite]]s being used in an attempt to destroy Naboo. The Rebels stopped the Empire from destroying Naboo, and Dameron reunited with Bey on the Rebel fleet.<ref name="Shattered Empire 3" /> For his actions during the raid at the Wretch of Tayron, as well as the assault on the Imperial base on Endor, General Solo remarked in a letter to General Madine that Dameron had performed several acts of valor.<ref name="Flight Log">''[[Poe Dameron: Flight Log]]''</ref>
+
+[[File:Shara and Kes go home.png|thumb|300px|right|Dameron and Bey approach their new home on Yavin 4.]]
+Three [[Standard month|months]] later, Dameron put in a request to end his service to the Rebel Alliance. The paperwork was approved, and Bey also faced a decision as to whether she wanted to leave the Rebellion or not. After a final [[Mission to Vetine|mission]] with [[Commander]] [[Luke Skywalker]], in which Bey helped save and was given ownership of one of two fragments of a [[Great Tree (Coruscant)|Force-sensitive tree]] that once dwelled in the heart of the [[Imperial Palace|Jedi Temple]] on [[Coruscant]], Bey too ended her service to the Rebel Alliance. Dameron and Bey settled on [[Yavin 4]], where they planted the tree from the Jedi Temple.<ref name="Shattered Empire 4" />
+
+==Personality and traits==
+Kes Dameron was a [[human]] [[Sexes|male]] with [[Color|black]] [[hair]], brown [[eye]]s, and tan skin. He loved his wife, Shara Bey, and wanted to start a new life with her after the Empire's defeat in the Battle of Endor, including building a home on another world. Such dreams of the future were ideas he never let himself have before the Battle of Endor, due to the struggles of the Galactic Civil War.<ref name="Shattered Empire 1" /> Three months after the Battle of Endor, however, they both retired from Rebel service and began a new life together.<ref name="Shattered Empire 4" />
+
+==Behind the scenes==
+Kes Dameron was introduced in the [[2015]] [[Star Wars comic books|comic book]] ''[[Shattered Empire, Part I]]'' by [[Greg Rucka]], with art by [[Marco Checchetto]]. He is the father of Poe Dameron,<ref name="Shattered Empire 2" /> a character in the film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']].<ref name="Poe DB">{{Databank|poe-dameron|Poe Dameron}}</ref>
+
+==Appearances==
+*''[[Shattered Empire, Part I]]'' {{1st}}
+*''[[Shattered Empire, Part II]]'' {{Mo}}
+*''[[Shattered Empire, Part III]]''
+*''[[Shattered Empire, Part IV]]''
+*''[[Before the Awakening]]'' {{Mo}}
+*''[[Poe Dameron 7: The Gathering Storm]]'' {{Imo}}
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]'' {{Imo}}
+*''[[Poe Dameron: Flight Log]]''
+*''[[Star Wars: The Last Jedi: Expanded Edition]]'' {{Mo}}
+
+==Sources==
+*{{SW|url=news/the-new-galaxy-of-star-wars-shattered-empire-an-interview-with-greg-rucka|text=The New Galaxy of ''Star Wars: Shattered Empire'': An Interview with Greg Rucka}}
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|poe-dameron|Poe Dameron}}
+*{{Databank|resistance-pilots-biography-gallery|Resistance Pilots Biography Gallery|archiveurl=http://www.webcitation.org/6yQuNKtib}}; image #1 {{C|of 6}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Kes Dameron
+|ja=ケス・ダメロン
+|ko=케스 다메론
+|pl=Kes Dameron
+|ru=Кес Дэмерон
+}}
+
+{{DEFAULTSORT:Dameron, Kes}}
+[[Category:Alliance Military enlisted personnel]]
+[[Category:Endor strike team personnel]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Pathfinders]]

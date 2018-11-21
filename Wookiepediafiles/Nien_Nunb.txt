@@ -1,0 +1,213 @@
+{{Eras}}
+{{Update|[[Battlefront: Twilight Company]], [[Star Wars: The Last Jedi: Expanded Edition]], [[Poe Dameron 27: The Awakening, Part II]], [[Star Wars: The Rebel Files]]}}
+{{Character
+|type=Resistance
+|image=[[File:Old nien nunb - profile.png]]
+|name=Nien Nunb
+|homeworld=[[Sullust]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Sullustan]]<ref name="Ultimate Star Wars" />
+|gender=[[Sexes|Male]]<ref name="Databank">{{Databank|nien-nunb|Nien Nunb}}</ref>
+|height=1.6 [[meter]]s<ref name="Databank" />
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|skin=Light<ref name="Episode VI" />
+|cyber=
+|era=
+|affiliation=*[[SoroSuub Corporation]]<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+*[[House of Organa]]<ref name="Leia 4">''[[Princess Leia, Part IV]]''</ref>
+*[[Sullustan resistance]]<ref name="BFTC">''[[Battlefront: Twilight Company]]''</ref>
+*[[Alliance to Restore the Republic]]<ref name="Episode VI" />
+**[[Gold Squadron (Rebel Alliance)|Gold Squadron]]<ref name="Episode VI" />
+*[[New Republic]]<ref name="Databank" />
+*[[Resistance]]<ref name="VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+**[[Red Squadron (Resistance)|Red Squadron]]<ref name="Flight Log">''[[Poe Dameron: Flight Log]]''</ref>
+**[["Reb" Squadron]]<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+|masters=
+|apprentices=}}
+{{Quote|Only ''you'' could have smuggled an entire ''rescue craft'' under the Empire's noses.|Princess Leia Organa, to Nien Nunb|Princess Leia, Part V}}
+'''Nien Nunb''' was a [[Sullustan]] [[Sexes|male]] [[arms dealer]] and [[smuggler]] who joined the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]]. Shortly after the [[Battle of Yavin]], Nunb answered the call from his friend, [[Rebel pilot]] [[Evaan Verlaine]], to help smuggle a group of [[Alderaanian]]s off of [[Sullust]] while avoiding detection from the [[Galactic Empire]]; the Empire was searching for surviving Alderaanians after Death Star I blew up its first planet, [[Alderaan]]. He went on to further assist Verlaine and [[Prince]]ss [[Leia Organa]] in their [[Mission to rescue the survivors of Alderaan|mission]] to unite the surviving Alderaanians, during which time he helped Organa escape from potential Imperial captivity.
+
+Only a few [[Standard year|years]] later, Nunb became part of the [[Alliance Fleet]] and flew as the co-[[pilot]] for [[General]] [[Lando Calrissian]] aboard the ''[[Millennium Falcon]]'' during the [[Battle of Endor]]. Together, they fought against Imperial forces while attempting to destroy the [[Death Star II]] in [[orbit]] of the [[Tree|forest]] [[moon]] of [[Endor]]. Their battle was a success, and the ''Millennium Falcon'' fired the shot that destroyed the Death Star and delivered a devastating blow to the Galactic Empire.
+
+Three [[Standard decade|decades]] later, Nunb was a [[starfighter]] pilot with the [[military rank]] of [[Lieutenant Commander]] in the [[Resistance]] and fought in the [[cold war]], including the [[Battle of Starkiller Base]]. After the [[Battle of Crait]] Nunb was left as one of the few surviving Resistance members and successfully escaped with the remainder of the Resistance.
+
+==Biography==
+===Early life===
+Nien Nunb [[Homeworld|hailed]] from the [[planet]] [[Sullust]].<ref name="Ultimate Star Wars" /> [[Sexes|He]] would learn his early [[pilot]]ing skills flying a [[freighter]] for the local [[Sullustan]] [[SoroSuub Corporation]], however once the [[company]] became friendly with the [[Galactic Empire|Empire]], he displayed his opposition by stealing from it on the behalf of the [[Alliance to Restore the Republic|Rebellion]].<ref name="Character Encyclopedia" /> He soon thereafter became an independent ace pilot and an able [[arms dealer]] and [[smuggler]] who owned and operated the [[starship]] ''[[Mellcrawler (starship)|Mellcrawler]]''.<ref name="Leia 4" /> He became friends with fellow smuggler [[Lando Calrissian]],<ref name="Ultimate Star Wars" /> as well as [[Rebel pilot]] [[Evaan Verlaine]].<ref name="Leia 4" />
+
+===Galactic Civil War===
+====Organa's mission====
+{{Quote|Nien Nunb, with stealth and courage you led the Alderaanian survivors off Sullust at great risk of Imperial interception. Thanks to you, we are now in command of a small fleet. Were these not lean days for the throne, a precious medal would have been struck in your honor. As it stands, I am pleased to award you the chalcedony waves from my late mother.|Princess Leia Organa|Princess Leia, Part IV}}
+[[File:Nunb Chalcedony waves.png|thumb|200px|left|Organa presents Nunb with the chalcedony waves that once belonged to her mother as a token of gratitude for his assistance.]]
+Shortly after the [[The Disaster|destruction]] of [[Alderaan]] and the [[Battle of Yavin]], [[Alderaanian]] [[Prince]]ss [[Leia Organa]] set out with Verlaine on a [[Mission to rescue the survivors of Alderaan|mission]] to unite the few Alderaanians who remained alive in [[the galaxy]]. Their mission brought them to Sullust, where a group of Alderaanians lived in an [[Alderaan Enclave|enclave]] beneath the world's [[Volcano|volcanic]] surface. The Galactic Empire, which used its [[Imperial Military|military might]] to hunt the surviving Alderaanians across the [[galaxy]], discovered Organa and her united forces on Sullust. Nunb answered Verlaine's call for help and smuggled the Alderaanians off of Sullust and into [[Realspace|space]], without detection from Imperial forces. He also provided the arms in his [[Starship|ship]] to Organa and her people, so they could be used against the Empire. Organa was grateful for Nunb's assistance and presented him with the [[chalcedony waves]] [[necklace]] that once belonged to her adoptive mother, [[Alderaanian monarchy|Queen]] [[Breha Organa]] of Alderaan, as a token of her gratitude.<ref name="Leia 4" />
+
+Later in the mission, Organa turned herself over to Imperial [[Commander]] [[Dreed]] on the [[desert]] world of [[Skaradosh]] in exchange for the release of [[Tula]], an [[Imperial officer]] from Alderaan; Tula's sister, [[Tace]], was part of Organa's group of [[refugee]]s and Tula secretly manipulated her sister for information about Organa's whereabouts. Before Organa could be taken captive, the ''Mellcrawler'' arrived to rescue her, with Nunb having slipped the ship onto the planet without the [[orbit]]ing Imperial forces noticing. Verlaine fired on Dreed and his Imperial [[stormtrooper]]s, [[Death|killing]] the commander while Organa and Tula were able to make their way on board. Though Organa thanked him for his efforts, Nunb said that the real test would be making it past the Imperial forces alive.<ref name="Leia 5">''[[Princess Leia, Part V]]''</ref>
+
+The [[Star Destroyer]] in orbit detected the ''Mellcrawler'' once they received word that Dreed had been killed. Nunb launched a decoy to fool the Imperial vessels, leaving them to follow the [[sensor]] decoy as the ''Mellcrawler'' avoided their detection. The trick was successful and the [[Dreed's Star Destroyer|Star Destroyer]] crew believed the ''Mellcrawler'' had been destroyed, and Organa with it. It was at that moment that a [[Alderaan Flotilla|fleet]] of Alderaanians from [[Espirion]] arrived to assist Organa and her people. The arrival of the [[fleet]] allowed the Alderaanians to destroy the [[Star Destroyer]], and the Alderaanian fleet escaped the wrath of the Empire. Nunb later attended a celebration in which Organa, Verlaine, and their people celebrated the success of the mission to unite them.<ref name="Leia 5" />
+
+====Sullustan resistance====
+{{Quote|Memorize the names on display. Nien Nunb, [[Sian Tevv]], [[Corjentain Malaqua]]&hellip;these are rebels with known ties to Sullust. They are potential infiltrators. They may be smuggling in arms and equipment for a full-on revolution.|An Imperial lieutenant|Battlefront: Twilight Company}}
+About three [[Standard year|years]] later, Nunb returned to Sullust on a mission for the Rebel Alliance, in which he led the [[Sullustan resistance]] as they supplied items to members of the [[Cobalt Laborers' Reformation Front]] at [[Pinyumb]]. Shortly after, a [[Siege of Inyusu Tor|battle]] broke out between Imperial and [[Alliance Military|Alliance's]] [[Sixty-First Mobile Infantry]] as they took the factory of [[Inyusu Tor]]. As the Sixty-First attempted to leave for the next target in their [[Operation Ringbreaker|operation]], their [[CR90 corvette]] the ''[[Thunderstrike]]'' was shot down and it's escort,
+the [[Braha'tok-class gunship]] ''[[Apailana's Promise]]'', was forced to flee. The Sixty-First was stranded and faced an inevitable attack so it's [[Captain]], [[Hazram Namir]], went to Pinyumb to find Nunb and the Sullustan resistance. Namir and his soldiers were attacked and Namir was apprehended by [[Stormtrooper]]s, but Nunb came to the rescue and took Namir to the [[Sullustan resistance safe house]] to meet the others. He asked Nunb for support but Nunb and the others could not help them. The [[Imperial-class Star Destroyer|''Imperial''-class Star Destroyer]] ''[[Herald]]'' soon arrived to finish the Sixty-First and the ''Apailana's Promise'' came back too to fight it off. The battle went on in the sky and on the ground but the ''Herald'' was forced to retreat due to internal sabotage turning the tide of the battle. Nunb rallied the Sullustan resistance Cobalt Laborers to take Pinyumb as the ground forces began to dwindle at Inyusu Tor. The joint effort caused a planet wide uprising on Sullust, taking it for the alliance.<ref name="BFTC" />
+
+====Look Before You Leap====
+{{Quote|Those two TIE fighters definitely landed here, right? We tracked them. We did, Nien Numb. To this exact spot. Which is why I told you it's dangerous for us to land here.|Nien Nunb and Shriv Suurgav before discovering the TIEs were destroyed.|Tales from Wild Space: Look Before You Leap}}
+[[File:Worm planet.jpg|right|thumb|245px|Nien and Shriv escaping the cave that was invested with worms.]]
+Nunb and the [[Duros]] [[Shriv Suurgav]] tracked two [[TIE/ln space superiority starfighter|TIE fighters]] to a [[Unidentified planet (Live islands)|dangerous planet]], but they lost sight of the TIEs while entering the [[atmosphere]]. After landing Suurgav insisted that they should first have done a full scan for dangerous life forms. Shortly after, the ground moved and sucked them and the ''[[Mellcrawler II]]'' and droped them into a [[cave]] covered in [[Color|green]] gunk which clogged the starship. They discovered one of the TIE fighters; which was being eaten by [[Unidentified worm species|blue worm creatures]]. Suurgav manged to unclog the starship and later escaped.<ref name="Look">{{IDWAdventuresCite|7|[[Tales from Wild Space: Look Before You Leap]]}}</ref>
+
+====Operation Yellow Moon====
+{{Quote|It's good to be wanted.|Nien Nunb on his bounty from the Empire|Moving Target: A Princess Leia Adventure}}
+Shortly after the [[Battle of Hoth]], Nunb was tasked with [[transport]]ing Organa to a meeting on [[Zastiga]]. On Zastiga, Nunb met with [[Wedge Antilles]] and [[Luke Skywalker]] to discuss reconnaissance tactics. Once [[Operation Yellow Moon]] was approved, Nunb transported the team to the [[Corva sector]]. Upon reaching [[Basteel]], Nunb flew his ship to [[Eladro City]]. His casual piloting through the turbulent atmosphere unnerved [[Kidi Aleri]] but he was able to safely land his ship. Once on the ground, Nunb was given some [[credit]]s by Organa and he headed to a [[Cantina|bar]] to get a drink and some local intel. On the way to the bar, Nunb, [[Kidi Aleri]], and [[Antrot]] stopped at a [[Eladro City bazaar|bazaar]]. While the rest of the team climbed out of the [[mountain]] in the tunnels above the [[city]], Nunb returned to his ship so he could pick them up once they were clear. He was detained when the Empire arrived on Basteel and checked out the credentials for all the ships that were present. Once he was cleared, he flew to the top of the mountain and picked up the team. When they were all on-board and safely away from Basteel, Nunb got them hot beverages and [[blanket]]s to help them warm up from the exposure to Basteel's harsh environment.<ref name="MovingTarget">''[[Moving Target: A Princess Leia Adventure]]''</ref>
+
+Nunb then flew the team to [[Sesid]]. Once they landed at [[Thrinaka]], he suggested that they purchase tourist [[Clothing|clothes]] to better blend in. After they completed their mission to place a beacon, he warned them not to return to Thrinaka, as stormtroopers were present in the city. He rendezvoused with the team above the planet, and flew them to their next destination.<ref name="MovingTarget" />
+
+After they arrived at [[Jaresh]], Nunb went to see if he could swing a deal with any local [[merchant]]s for a load of the planet's main export, [[fertilizer]]. As they were leaving the planet, Nunb was ambushed by the ''[[Shieldmaiden]]'', which snuck up on his ship from the dark side of the planet. He was able to avoid being snared by a [[tractor beam]] by skimming under a massive commercial freighter that happened to be passing through the [[Star system|system]]. Once clear of the tractor beams, he made the jump to [[hyperspace]]. When they were safe in hyperspace, Organa had a meeting with the team and left them decide if they wanted to continue with the operation. Nunb found it humorous that if he quit, they wouldn't have a ship to finish the mission, but agreed to stay to the end.<ref name="MovingTarget" />
+
+Nunb flew the team to the rendezvous at [[Galaan]] and when other starships arrived, he made sure his ship was in position to transmit the tightbeam encryption code directly to them so Organa could contact them. During Organa's speech to the assembled ships, Nunb detected the ''Shieldmaiden'' incoming. He attempted to flee, but was unable to avoid the Star Destroyer's tractor beams and was forced to shut down his [[engine]]s to prevent damage to the ''Mellcrawler''. As the yacht was drawn into the belly of the Star Destroyer, Organa prepared to destroy the ''Mellcrawler'' using the volatile fertilizer Nunb had picked up on Jaresh, which he was hoping to sell elsewhere at a profit. However, when [[Lokmarcha]] stopped her, Nunb instead purged the logs of his ship to prevent any data from falling into Imperial hands. Nunb was captured and [[Prison|imprisoned]] onboard the ''Shieldmaiden''. He was able to free himself when Lokmarcha set off an [[electromagnetic pulse]] that disabled part of the Star Destroyer.<ref name="MovingTarget" />
+
+He gave directions to Organa so she could lead the surviving members of the team from the detention center to the [[Hangar|docking bay]]. Once in the bay, they were discovered by a squad of stormtroopers and Nunb quickly entered an [[Lambda-class T-4a shuttle|Imperial shuttle]]. He powered it up and was able to safely escape the ''Shieldmaiden'' with the surviving members of the team.<ref name="MovingTarget" />
+
+====Battle of Endor====
+{{Quote|Don't worry. My friend's down there. He'll have that shield down on time. Or this'll be the shortest offensive of all time.|Lando Calrissian, assuaging Nunb's concerns about the Battle of Endor|Star Wars: Episode VI Return of the Jedi}}
+Shortly thereafter, Nunb was a member of the [[Alliance Fleet]] and was selected to fly as co-pilot to [[General]] Calrissian aboard the ''[[Millennium Falcon]]'' during the [[Battle of Endor]], where the ''Falcon'' led the assault to destroy the [[Death Star II|second Death Star]]. Before the battle, when the Alliance Fleet was gathered near Sullust, Nunb expressed concern about the plan of attack and whether General [[Han Solo]], Organa, and their [[Endor strike team|team]] would be able to successfully destroy the Death Star's [[Deflector shield generator|shield generator]] on the [[moon]] of [[Endor]] before the fleet arrived. Owing to Lando's understanding of the [[Sullustese|Sullustan]] [[language]], he personally picked Nunb for the mission, impressed by his exploits aboard the ''Mellcrawler''.<ref name="Character Encyclopedia" /> Worried about the mission, Calrissian assured Nunb that Solo would have the [[Death Star's shield generator|shield]] down on schedule.<ref name="Episode VI" />
+
+[[File:Blountincockpit.jpg|thumb|300px|left|Nunb and Calrissian in the cockpit of the ''Millennium Falcon'', just before the Battle of Endor.]]
+The Alliance Fleet arrived over Endor to find that the shield generator was still active, and they realized that the battle was a trap set by [[Galactic Emperor|Emperor]] [[Darth Sidious|Palpatine]], to destroy the Rebel Alliance once and for all. The fleet remained over Endor and engaged Imperial forces in the hopes that Solo and his team would be able to destroy the generator. The fleet kept to fighting TIE/ln space superiority starfighters and Star Destroyers, particularly once they learned that the Death Star was operational, after previously believing that it did not yet have the use of its primary, planet-destroying [[superlaser]]. Once Solo's team destroyed the shield generator, the ''Millennium Falcon'' entered the Death Star's superstructure and fired the shot that began a chain reaction that led to the [[battle station]]'s destruction. Calrissian and Nunb were in a race against [[time]] as they outran the fireball that their attack created, and they escaped the Death Star just before it was consumed in a massive explosion. The Alliance was victorious, the Emperor was dead, and the Empire was shattered. On the surface of Endor the Rebels held a celebration along with the native [[Ewok]]s, who helped Solo's team destroy the shield.<ref name="Episode VI" />
+
+Following the battle, Nunb was awarded a [[medal]] by the Alliance known as the [[Kalidor Crescent]] for his bravery.<ref name="Character Encyclopedia" />
+
+===New Republic===
+Twenty [[Standard day|days]] after the Battle of Endor, Imperial [[Captain]] [[Lerr Duvat]] began [[Operation: Cinder]], a [[contingency]] plan issued posthumously by the late Emperor. Operation: Cinder called for the scouring of Palpatine's homeworld, [[Naboo]], with the use of a [[climate disruption array]]. The Rebel Alliance, currently transitioning into the [[New Republic]], quickly deployed a portion of their fleet to defend the planet. Nunb accompanied the fleet aboard his new yacht, the ''[[Mellcrawler II]]''. The fleet soon [[Battle of Naboo (Galactic Civil War)|destroyed]] the Imperial forces, succeeding in the planet's defense.<ref name="SE3">''[[Shattered Empire, Part III]]''</ref>
+
+Following the revelations of [[Senator]] Organa's [[parent]]age as the daughter of [[Anakin Skywalker|Darth Vader]] in the New Republic's [[Galactic Senate (New Republic)|Galactic Senate]], Nunb sent a message expressing support for his former rebel colleague. Later, he along with several former rebel veterans and New Republic personnel were present at a meeting in the [[New Republic senatorial complex]]'s hangar bay where Leia established the [[Resistance]], a paramilitary organization to protect the Republic.<ref name="Bloodline">''[[Bloodline (novel)|Bloodline]]''</ref>
+
+===Service under the Resistance===
+[[File:Nien Nunb X-wing.jpg|thumb|right|300px|Nunb piloting his X-wing during the Battle of Starkiller Base.]]
+After joining the Resistance, Nunb offered his support and provided his skills by piloting a [[T-70 X-wing starfighter]] in the [[Resistance Starfighter Corps]]<ref name="VII" /><ref name="TVD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref> having the [[Navy|naval]] [[military rank|rank]] of [[Lieutenant Commander]]<ref name="TFA NA">''[[Star Wars: The Force Awakens: New Adventures]]''</ref>. He wore flight gauntlets, a pressurized interstellar orange g-suit and a gear harness, along with a specialized [[flight helmet]] to fit his unique head.<ref name="Character Encyclopedia" /> His helmet also featured older [[Coalstreak Squadron]] stripes on the upper right-hand side of his helmet, appearing as two, parallel black lines.<ref name="TVD" /> Nunb attended the [[Funeral of L'ulo L'ampar|funeral]] of fellow [[Resistance pilot]] [[L'ulo L'ampar]] at the [[Resistance base]] on [[D'Qar]] after the [[Duros]] was killed during a [[Battle over a desert planet|battle]] with the [[First Order]] over a [[Unidentified desert planet (Cold war)|desert planet]].<ref name="Poe Dameron 14">''[[Poe Dameron 14: Legend Lost, Part I]]''</ref>
+
+====Battle of Starkiller Base====
+When the First Order [[Hosnian Cataclysm|destroyed]] the [[Hosnian system]] with the use of the [[Starkiller Base|Starkiller]], the Resistance base became the next target. Quickly establishing a plan to destroy Starkiller Base, Nunb, along with the rest of the [[Starfighter Corps]], flew to the planet in an attempt to destroy its [[thermal oscillator]] and disable the weapon. During the [[Battle of Starkiller Base|assault]], many Resistance pilots were lost before the oscillator was destroyed by [[Poe Dameron]]. Nunb was one of seven surviving [[X-wing starfighter|X-wing]] pilots, and he celebrated with the rest of the Resistance upon returning to D'Qar.<ref name="VII" />
+
+====Funeral of Han Solo====
+Following the victory at Starkiller Base, Nunb attended the [[funeral of Han Solo]], who died at Starkiller at the hands of his son [[Kylo Ren]].<ref name="Expanded Edition">''[[Star Wars: The Last Jedi: Expanded Edition]]''</ref>
+
+====Evacuation of D'Qar====
+[[File:The Resistance TLJ.png|left|thumb|226px|Nien Nunb on the ''Raddus'', listening to Commander [[Larma D'Acy]].]]
+With the Resistance base's location revealed to the First Order, the Resistance [[Evacuation of D'Qar|evacuated]] their base and during the ensuing battle above D'Qar, Nunb spent his time on the [[flagship]] ''[[Raddus (MC85 Star Cruiser)|Raddus]]''.<ref name="Episode VIII" />
+
+====Escape from Crait====
+{{Quote|Oh. Hello, Nien.''"<br />"''Eetuu achaa doo ahmtee vee an&hellip;?''"<br />"''No, no. Be my guest. I have other work to do. And from what I recall, you have as much right to the co-pilots seat on the ''Falcon'' as anyone.|Leia Organa and Nien Nunb|Poe Dameron 27: The Awakening, Part II}}
+Shortly after the arrival of the Resistance on the old [[Crait outpost|rebel base]] on [[Crait]], an evacuation of the whole of the Resistance took place. After [[Battle of Crait|taking]] heavy losses, Nunb was one of the few remaining Resistance members to escape, on board the ''Millennium Falcon''.<ref name="Episode VIII" />
+
+===Aboard the ''Falcon''===
+Having escaped from the First Order, Nunb met Organa and Chewbacca in the ship's cockpit while the ''Falcon'' traveled into hyperspace. Organa invited Nunb to be her guest and left the cockpit to him and Chewie, assuring him that as she recalled, he had as much right to seat on the co-pilot's seat as anyone.<ref name="PD27">''[[Poe Dameron 27: The Awakening, Part II]]''</ref>
+
+==Personality and traits==
+[[File:Nien Nunb T-70 XWM.png|right|thumb|250px|Nunb's T-70 X-wing fighter]]
+Nien Nunb was a Sullustan male. He had large black [[eye]]s, as well as large [[ear]]s and jowl, and had light skin. He spoke in the liquid-like [[tongue]] of the Sullustan language<ref name="Ultimate Star Wars" /> but was able to speak [[Galactic Basic]] with difficulty.<ref name="MovingTarget187">''[[Moving Target: A Princess Leia Adventure]]'' pg 187</ref> He was considered upbeat and optimistic, and frequently cracked sarcastic, if not anti-climactic jokes. Known for celebrating little victories, his comrades were always upbeat with Nunb's laugh and jokes. Despite his outward appearance of wisecracking jollity, he was extremely dedicated to whatever mission or cause he served, and displayed a loyalty and courage heralded by many of his closest friends.<ref name="MovingTarget" /> Caring deeply about others, he would go out of his way to provide for those less fortunate than him, and would help his people during the Imperial occupation of his planet as a resistance fighter.<ref name="BFTC" />
+
+==Skills and abilities==
+{{Quote|Nunb can fly anything, in any conditions.|[[Gial Ackbar]]|Moving Target: A Princess Leia Adventure}}
+Nunb was an able pilot and smuggler, one who had the skills necessary to often avoid Imperial detection.<ref name="Leia 4" /><ref name="Leia 5" /> His piloting abilities led to Calrissian personally selecting him to co-pilot the ''Millennium Falcon'' during the Battle of Endor.<ref name="Ultimate Star Wars" />
+
+==Behind the scenes==
+{{Quote|Nien Nunb is a Muppet, a guy under the deck does his thing. He's got some dialogue to do. He's got this funny, twitchy face. He's a terrific character in my mind.|[[Richard Marquand]], director of ''Return of the Jedi''|The Making of Star Wars: Return of the Jedi}}
+Nien Nunb made his first appearance in the [[1983]] film [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']].<ref name="Episode VI" /> He was brought to life as both a puppet and as a costumed-actor during the film. For scenes in the ''Millennium Falcon'', Nunb was puppeteered by [[Mike Quinn]].<ref name="Making Jedi">''[[The Making of Star Wars: Return of the Jedi]]''</ref> He was portrayed by [[Richard Bonehill]] in wide shots. Nunb's name originated from the fact that he was referred to as "Number Nine" on creature packaging.<ref name="Quinn Interview">{{Cite web|url=http://starwarsinterviews1.blogspot.com/2010/01/mike-quinn-interview.html|title=Mike Quinn interview|work=Star Wars Interviews|accessdate=July 10, 2015}}</ref> The character was voiced by [[Kipsang Rotich]], a [[Wikipedia:Kenya|Kenyan]] student who spoke in his native Kalenjin language, as well as in [[wikipedia:Gikuyu language|Kikuyu]].<ref name="Kenyan">{{Cite web|url=http://www.csmonitor.com/1983/0728/072823.html|title=In Kenya, audiences roar at language in 'Jedi' film|work=Christian Science Monitor (Compiled From Wire Service Dispatches With Analysis From Monitor Correspondents Around The World)|date=July 28, 1983|accessdate=July 10, 2015}}</ref> Quinn and Rotich returned to the role for the [[2015]] film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']].<ref name="Mike Quinn FB">{{FacebookCite|author=[[Mike Quinn]]|dateposted=October 20, 2015|timeposted=12:44am|description=Mike Quinn on reprising his role as Nien Nunb|quote=Well I'm small and blurry and only in a brief moment, but I made the trailer, lol! I'm just to the left of Finn's cheek. You can just make out my large head and black vest ;) Dang I love those new X-Wings!|link=photo.php?fbid=1020510661313136|archive=|dateaccessed=November 22, 2015|timeaccessed=11:55a|archivedate=|image=File:Mike Quinn on returning as Nien Nunb.png}}</ref><ref name="Christian Simpson">{{Cite web|url=http://www.starwars.com/news/the-road-to-rotich-finding-nien-nunb-part-1|title=Finding Nien Nunb}}</ref>
+
+==Appearances==
+{{Scroll box|
+[[File:Nien_Nunb.png|thumb|right|150px|Nien Nunb as a fighter pilot for the Resistance in ''The Force Awakens''.]]
+*''[[Star Wars Battlefront II]]'' {{Mo}}
+*''[[Star Wars: Force Arena]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*[[Lost Stars (webcomic)|''Lost Stars'' webcomic]]
+*''[[Star Wars Battlefront]]'' {{C|DLC}}
+*''[[Princess Leia, Part IV]]''
+*''[[Princess Leia, Part V]]''
+*''[[Battlefront: Twilight Company]]''
+*{{IDWAdventuresCite|7|[[Tales from Wild Space: Look Before You Leap]]}}
+*''[[Moving Target: A Princess Leia Adventure]]''
+*''[[Leia and the Great Island Escape]]''
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*''[[Shattered Empire, Part III]]''
+*''[[Aftermath]]'' {{Imo}}
+*''[[Aftermath: Life Debt]]'' {{Imo}}
+*{{IDWAdventuresCite|4|[[Tales from Wild Space: Mattis Makes a Stand]]}} {{C|Appears through imagination}}
+*''[[Bloodline (novel)|Bloodline]]''
+*[[Star Wars: Galaxy's Edge|''Star Wars'': Galaxy's Edge]]
+*''[[Poe Dameron 14: Legend Lost, Part I]]''
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens: A Junior Novel]]'' {{Mo}}
+*[[The Force Awakens (Golden Book)|''The Force Awakens'' Golden Book]] {{Po}}
+*''[[The Force Awakens Read-Along Storybook and CD]]''
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part V]]''
+*''[[Star Wars: The Force Awakens Beginner Game]]''
+*''[[Poe Dameron: Flight Log]]''
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[The Last Jedi Adaptation 2]]''
+*''[[The Last Jedi Adaptation 6]]''
+*''[[Poe Dameron 27: The Awakening, Part II]]''
+*''[[Poe Dameron 28: The Awakening, Part III]]'' {{Flash}}
+*''[[Poe Dameron 31: The Awakening, Part VI]]''}}
+
+===Non-canon appearances===
+*{{Droid Tales|Flight of the Falcon (episode)|Flight of the Falcon}}
+*{{Droid Tales|Gambit on Geonosis}}
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*{{SWE|characters|niennunb|Nien Nunb}}
+*{{SWE|groups|rebelalliance|Rebel Alliance}} {{Po}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Ships of the Galaxy]]''
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars: The Force Awakens: New Adventures]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: ABC-3PO]]''
+*''[[Star Wars: Aliens of the Galaxy]]''
+*{{FFGXW|Heroes of the Resistance Expansion Pack|link=http://xwing-miniatures.wikia.com/wiki/Nien_Nunb_(T-70_X-Wing)|cardname=Nien Nunb&mdash;T-70 X-Wing}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars: The Last Jedi: Incredible Cross-Sections]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]'' {{Po}}
+*{{Databank|amilyn-holdo|Amilyn Holdo|archivedate=20180407184111}} {{Po}}
+*{{Databank|lando-calrissian-biography-gallery|Lando Calrissian biography gallery}}; image #9 {{C|of 9}}
+*{{Databank|millennium-falcon|Millennium Falcon}}
+*{{Databank|nien-nunb|Nien Nunb}}
+*{{Databank|resistance-pilots|Resistance Pilots|archivedate=20180518225058}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|el=Νάιν Νανμπ
+|es=Nien Nunb
+|fr=Nien Nunb
+|pl=Nien Nunb
+|ru=Ниен Нунб/Канон
+|ko=니엔 넌브
+|ja=ナイン・ナン
+|zh=尼恩·南布
+}}
+
+{{DEFAULTSORT:Nunb, Nien}}
+[[Category:Arms dealers]]
+[[Category:Gold Squadron personnel]]
+[[Category:Males]]
+[[Category:Rebel Alliance members]]
+[[Category:Red Squadron (Resistance) personnel]]
+[[Category:Resistance Military officers]]
+[[Category:Smugglers]]
+[[Category:Sullustans]]

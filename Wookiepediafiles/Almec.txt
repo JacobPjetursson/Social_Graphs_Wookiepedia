@@ -1,0 +1,95 @@
+{{Eras}}
+{{Character
+|type=Mandalorian
+|image=[[File:Almec SWE.png]]
+|name=Almec
+|homeworld=[[Mandalore]]<ref name="AlmecEncyclopedia">{{SWE|characters|almec|Almec}}</ref>
+|birth=
+|death=
+|species=[[Human]] {{C|[[Mandalorian]]}}<ref name="AlmecEncyclopedia" />
+|gender=[[Sexes|Male]]<ref name="AlmecEncyclopedia" />
+|height=1.89 [[meter]]s<ref name="AlmecEncyclopedia" />
+|mass=
+|hair=[[Color|Blond]]<ref name="TMP">{{TCW|The Mandalore Plot}}</ref>
+|eyes=Purple<ref name="TMP" />
+|skin=Pale<ref name="TMP" />
+|cyber=
+|era=
+|affiliation=*[[New Mandalorians]]
+*[[Shadow Collective]]
+**[[Death Watch]] <ref name="ShadesOfReason">{{TCW|Shades of Reason}}</ref>
+|masters=
+|apprentices=}}
+{{Quote|Master Kenobi, Mandalore's violent past is ''behind'' us.|Almec to Obi-Wan Kenobi|The Mandalore Plot}}
+'''Almec''' was a [[Sexes|male]] [[human]] from the [[planet]] [[Mandalore]], and a one-time believer in the [[New Mandalorians|pacifist ways]] of Duchess [[Satine Kryze]]. During the [[Clone Wars]], Almec served as the [[Prime Minister]] of Mandalore and did as he thought best to watch over and represent the interests of Mandalore. His dedication became his undoing, however; when Mandalore declared neutrality in the Clone Wars and became cut off from [[Galactic Republic]] aid, Almec established a [[black market]] trade network to bring much-needed goods to the Mandalorian people. [[Mooga smuggling ring|These]] [[smugglers]] [[poison]]ed the people of [[Sundari]] with toxic [[tea]], putting numerous children in [[Sundari Mandalorian hospital|hospital]]. Almec was exposed as the leader of the black market network and summarily [[Royal prison|imprisoned]] for his crimes.
+
+When [[Maul|Darth Maul]] [[Takeover of Mandalore|took over]] Mandalore, he broke Almec out of prison and reinstated him as Prime Minister, with Almec declaring loyalty to Maul and his [[Death Watch]] allies. Following Maul's capture and imprisonment by [[Darth Sidious]], Almec saw to it that Maul was [[Escape from the Spire|rescued]] and brought back to the Death Watch.
+
+==Biography==
+===The Clone Wars===
+====Mandalore's neutrality====
+{{Quote|Mandalore would never turn against the Republic. The Duchess Satine values ''peace'' more than her own life.|Almec to Obi-Wan Kenobi|The Mandalore Plot}}
+Almec was a native of the planet [[Mandalore]] and, for many years, an ally of Duchess [[Satine Kryze]] and her pacifist government. By the time of the [[Clone Wars]], Almec had become the [[Prime Minister]] of Mandalore and served as the head of the Ruling Council of ministers that comprised the Mandalorian government.<ref name="Corruption">{{TCW|Corruption}}</ref> During the war, Almec met with [[Jedi Master]] [[Obi-Wan Kenobi]], who had been sent by the [[Jedi High Council|Jedi Council]] to investigate rumors that Kryze was building an army and preparing to ally with the [[Confederacy of Independent Systems]]; Kenobi was also an old friend of the Duchess'. Almec assured Kenobi that the rumors were false, believing that Mandalore would never turn against the [[Galactic Republic]] and that Mandalore's violent warrior history was confined to the past. Kenobi mentioned his encounter with supposed Mandalorian [[mercenary]] [[Jango Fett]], but Almec dismissed Fett as nothing but a mere [[bounty hunter]] who had acquired [[Mandalorian armor]] through unknown means.<ref name="TMP" />
+
+[[File:ObiWanEvidence-TMP.png|left|thumb|300px|Almec was appalled at the evidence of Mandalorian involvement in the war.]]
+During Kenobi's audience with the Duchess, Almec spoke out when the Jedi Master presented a [[Hologram|recording]] of a [[Unidentified Death Watch saboteur|Mandalorian saboteur]] responsible for [[Attack on a Republic cruiser|an attack]] on a Republic cruiser, declaring that no Mandalorian would perpetrate such an attack. Although the Prime Minister expressed interest in the whereabouts of the Mandalorian in question, he appeared quite shocked when Kenobi revealed that the man had chosen [[suicide]] rather than submit to questioning. It was later revealed that the saboteur was a member of the resurgent group known as the [[Death Watch]]&mdash;a Mandalorian splinter-faction intent on returning the Mandalorians their warrior past&mdash;and that the once-trusted ally [[Pre Vizsla]], the [[Governor]] of Mandalore's [[moon]] [[Concordia]], was leading the group. Following the revelations, Almec was part of the cadre of retainers and guards that escorted Kryze to her personal [[starship]], the ''[[Coronet/Legends|Coronet]]'', for her trip to [[Coruscant]].<ref name="TMP" /> There, she hoped to convince the [[Galactic Senate]] that the Death Watch did not represent the views of the entire Mandalorian community.<ref name="DoM">{{TCW|Duchess of Mandalore}}</ref>
+
+While the Duchess spoke on behalf of her people in the [[Galactic Senate Chamber|Senate chamber]], Almec remained on Mandalore. It was there that he received a troubling report from a Mandalorian scout: the Death Watch was amassing an army at [[Death Watch hideout|their base]] on Concordia. Almec agreed with the scout's assessment that the Death Watch would be unable to take over Mandalore without the popular backing of its residents, although he also surmised that, were the Republic to deploy a [[Grand Army of the Republic|military force]] as they [[Mandalore Defense Resolution|planned]] to do, it would drive the people to support the Death Watch as liberators standing against foreign oppressors. Left with no other recourse, Almec could only place his trust in Duchess Satine's efforts, trust that was rewarded when the Duchess convinced the Senate against sending an occupying force of [[Clone trooper|clone troops]] to Mandalore.<ref name="DoM" />
+
+====Creating the black market====
+The Duchess' efforts successfully allowed Mandalore to remain free of entanglement in the Clone Wars, but it's neutrality came at the cost of losing vital Republic aid in the form of supply shipments.<ref name="Corruption" /> In response, Almec took it upon himself to [[Mandalorian black market conspiracy|establish a network]] of [[black market]] trade in order to ensure the continuing importation of much needed supplies for the New Mandalorian people.<ref name="TA">{{TCW|The Academy}}</ref> At a later point in time, Senator [[Padmé Amidala]] of [[Naboo]] came to [[Sundari]], the capital of Mandalore, to assure the government that aide would come from sympathetic parties within the Senate. During her stay, Amidala and Kryze discovered the illegal [[Smuggler|smuggling]] ring circumventing the previous loss of Republic trade, when it was revealed to endanger the lives of Mandalorian children. The [[Moogan]] smugglers moving the goods had diluted imported [[Ardees Beverage|tea]] with the chemical [[slabin]], which in the high doses used by the smugglers proved [[Poison|toxic]] to its consumers. Almec was informed of this development by Amidala and Kryze, though he reflectively implicated the Death Watch as the party behind the illicit activities. When the Duchess and senator shut down the smuggling ring and brought the issue of the corruption growing in the Mandalorian government to Almec's attention, the Prime Minister offered to form a committee to further investigate the issue.<ref name="Corruption" />
+
+[[File:ForcedConfession2-TA.png|thumb|300px|right|Almec attempts to force Duchess Satine to sign a confession of conspiracy.]]
+Not long after, Jedi [[Padawan]] [[Ahsoka Tano]] was invited to Mandalore in order to lecture at the [[Imperial Academy of Mandalore|Royal Academy]] on the perils of corruption. She was met at the landing platform in Sundari by Almec, Kryze, and a gathering of Mandalorian academy cadets. These cadets&mdash;[[Amis]], [[Lagos]], [[Soniee]], and Duchess Kryze's own nephew, [[Korkie Kryze|Korkie]]&mdash;along with Tano, uncovered Almec's involvement in the black market trade network, and thus his complicity with the poisonings of Sundari's [[Sundari Mandalorian school|school]] children. Using the [[Mandalorian secret service]],<ref name="TA" /> over which the Prime Minister's office held authority,<ref>{{SWE|groups|mandalorianguard|Mandalorian Guard}}</ref> Almec had the cadets and Tano arrested, in addition to Duchess Kryze herself upon learning that she had been informed of his involvement as well. He attempted to have the Duchess sign a confession of conspiracy, but upon being denied, Almec used a [[Slaving collar/Canon|shock collar]] as a means of [[Torture|persuading]] her. When Kryze refused to yield, he turned his attention to her nephew, Korkie; Tano and the cadets fought back, managing to overpower Almec and his guards until he could be fitted with a shock collar himself, forcing the Prime Minister to surrender. Almec and his conspirators were placed under arrest, and subsequently [[Royal prison|imprisoned]].<ref name="TA" />
+
+====Death Watch allegiance====
+[[File:AlmecReinstatementSpeech-SoR.png|thumb|300px|left|Almec promises to move beyond his questionable path and to lead Mandalore back to its warrior heritage as Prime Minister.]]
+Some time later, after Death Watch allied with crime syndicates and the Sith brothers, [[Maul|Darth Maul]] and [[Savage Opress]], Kryze was overthrown in a [[Takeover of Mandalore|political coup]] led by Pre Vizsla and was imprisoned in a cell next to Almec. The former Prime Minister refused to apologize for his past actions and mocked Kryze for her beliefs. He was later recruited by the Sith brothers, who had been betrayed by Death Watch, to stand as their puppet ruler once they had overthrown Vizsla. Maul then challenged Vizsla to an honorable death match for the allegiance of Death Watch, which he inevitably won. Almec was reinstalled as Prime Minister and told the general populace that Satine murdered Vizsla. He then began setting up a new administration, and Maul warned the Prime Minister that would be held fully responsible for their failures.<ref name="SoR">{{TCW|Shades of Reason}}</ref> Almec was later present in the [[Sundari Royal Palace|throne room]] when Obi-Wan Kenobi was brought before Maul and bore witness to Satine's murder by Maul.<ref name="Lawless">{{TCW|The Lawless}}</ref>
+
+Darth Maul's takeover of Mandalore also led to a conflict between those still loyal to Pre Vizsla, and those who had sworn their allegiance to Maul. During the hostilities, Maul was captured by his former master, the [[Sith Lord]] [[Darth Sidious]], and taken to [[Stygeon Prime]] where he was [[Spire (Stygeon Prime)|imprisoned]] so the Sith could use Maul for their own purposes. Almec ordered Death Watch forces to pursue the Sith and rescue Maul before rendezvousing on [[Zanbar]]. When the [[Escape from the Spire|rescue]] was completed, Almec spoke to Maul, who was on Zanbar, via hologram and told the Sith that the prison break was repayment for releasing Almec from prison on Mandalore.<ref name="SonOfDathomir1">''[[Darth Maul—Son of Dathomir, Part One]]''</ref> Maul would return to Mandalore shortly before the world was [[Siege of Mandalore|sieged]] by Republic forces led by Tano and Clone Captain [[Rex]].
+
+==Personality and traits==
+Almec was a large man, standing at a height of 1.89 [[meter]]s, and possessed both blond [[hair]] and fair skin, in addition to violet-[[color]]ed [[eye]]s.<ref name="AlmecEncyclopedia" /> Almec was a firm believer in the peaceful ways of the New Mandalorians, displaying this by dismissing the supposed Mandalorian Jango Fett as nothing but a common bounty hunter, when questioned by Jedi Master Obi-Wan Kenobi.<ref name="TMP" /> While he held a high-ranking office in the Mandalorian government, he considered himself a servant of the people.<ref name="TMP" /> That did not change the fact that he was a shrewd [[Politics|politician]], able to correctly deduce the Death Watch's plans to rally favor for their cause by instigating a Republic invasion in order to appear as liberators to the Mandalorian populace. Almec was a friend of the New Mandalorians' leader, Duchess Satine Kryze, and placed a great deal of faith in her leadership abilities,<ref name="DoM" /> until he was arrested for black market activities.<ref name="TA" />
+
+[[File:ForcedConfession-TA.png|thumb|right|300px|Almec reveals his duplicity to Duchess Satine.]]
+When the Mandalorian people were threatened with starvation after the Republic shut down [[Hyperspace route|trade routes]] to Mandalore in the face of the planet's declared neutrality, Almec took it upon himself to find a solution to the problem plaguing his people. To that end, he established an illegal black market trade network to smuggle the needed goods from [[the galaxy]] into Sundari, but, in doing so, opened himself up to the risk of greed and corruption.<ref name="TA" /> In trying to help his people, Almec instead made it possible for Moogan smugglers to poison innocent children throughout Sundari with toxin-laced tea.<ref name="Corruption" /> He attempted to cover it up, going so far as to turn on the Duchess. He betrayed his pacifistic beliefs by torturing Kryze and threatening to do the same to her young nephew, Korkie.<ref name="TA" />
+
+==Behind the scenes==
+Almec first appeared in the ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' [[The Clone Wars: Season Two|Season Two]] episode "[[The Mandalore Plot]]," the first in a trilogy of episodes featuring the Mandalorians. He would appear again in the flashback reel at the start of the subsequent episode, "[[Voyage of Temptation]]," before making his second true appearance in the final episode of the trilogy, "[[Duchess of Mandalore]]." Almec is portrayed by voice actor [[Julian Holloway]].<ref name="TA" />
+
+==Appearances==
+*{{TCW|The Mandalore Plot}} {{1st}}
+*{{TCW|Voyage of Temptation}} {{Flash}}
+*{{TCW|Duchess of Mandalore}}
+*{{TCW|Corruption}}
+*{{TCW|The Academy}}
+*{{TCW|Shades of Reason}}
+*{{TCW|The Lawless}}
+*''[[Darth Maul—Son of Dathomir, Part One]]'' {{Hologram|canon}}
+*''[[Darth Maul—Son of Dathomir, Part Three]]'' {{Mo}}
+
+==Sources==
+*{{SWE|characters|amis|Amis}}
+*{{SWE|groups|mandalorianguard|Mandalorian Guard}}
+*{{SWE|characters|almec|Prime Minister Almec}}
+*''[[Star Wars: Galactic Atlas]]''
+*[[Star Wars Helmet Collection 1|''Star Wars Helmet Collection'' 1]]
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]'' {{Imo}}
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}} {{Imo}}
+*{{Databank|prime-minister-almec|Prime Minister Almec}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ja=アルメク
+|ru=Алмек/Канон
+|uk=Алмек
+}}
+
+[[Category:Government figures]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Mandalorians]]
+[[Category:Shadow Collective members]]

@@ -1,0 +1,80 @@
+{{Eras|legends=Davijaan}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Odd Ball.jpg]]
+|name=CC-2237<br />"Odd Ball"
+|homeworld=[[Kamino]]<ref name="Clone troopers">{{Databank|clone-troopers|Clone troopers}}</ref>
+|birth=
+|death=
+|species=[[Human]] {{C|[[Cloning|clone]]}}<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|gender=[[Sexes|Male]]<ref name="Episode III" />
+|height=1.83 [[meter]]s<ref name="Databank">{{Databank|clone-pilot-odd-ball|Clone Pilot Odd Ball|archivedate=20160919192927}}</ref>
+|mass=
+|hair=[[Color|Black]]<ref name="Episode III" />
+|eyes=Brown<ref name="Episode III" />
+|skin=Tan
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Episode III" />
+**[[Clone Flight Seven]]<ref name="SWE">{{SWE|technology|arc170starfighter|ARC-170 starfighter}}</ref>
+|masters=
+|apprentices=}}
+{{Quote|We're on your tail, General Kenobi.|CC-2237, during the Battle of Coruscant|Star Wars: Episode III Revenge of the Sith}}
+'''CC-2237''', nicknamed "'''Odd Ball'''" was a [[Clone Commander]] and [[Clone trooper pilot|pilot]] during the [[Clone Wars]] who participated in campaigns such as the [[Battle of Teth]], the [[Battle of Umbara]], the [[Battle of Coruscant]], and the [[Battle of Utapau]]. A skilled [[pilot]], Odd Ball flew an assortment of various [[starfighter]]s including the [[V-19 Torrent starfighter]] and the [[Aggressive ReConnaissance-170 starfighter|ARC-170]]. During the Clone Wars, Odd Ball often served under the command of [[Jedi General]] [[Obi-Wan Kenobi]].
+
+==Biography==
+===Early Life===
+CC-2237<ref name="On the Front Lines">''[[Star Wars: On the Front Lines]]''</ref> was a [[Sexes|male]] [[human]]<ref name="Episode III" /> [[Cloning|clone]] of the [[bounty hunter]] [[Jango Fett]] created on [[Kamino]].<ref name="Clone troopers" />
+
+===The Clone Wars===
+Over the course of the [[Clone Wars]], Odd Ball proved to be a capable [[pilot]] and participated in many battles throughout the war, even serving under the command of [[Jedi General]] [[Obi-Wan Kenobi]]. He was present at the sites of many battles, fighting on planets such as [[Teth]], [[Umbara]], [[Coruscant]] and [[Utapau]].{{Fact}}
+
+====Battle of Teth====
+{{Quote|Thank you, sir. Sorry I panicked.''"<br>"''That's alright, Odd Ball. It happens to everybody.|CC-2237 apologizes to Obi-Wan Kenobi, during the Battle of Teth|Star Wars: The Clone Wars (film)}}[[File:Oddball_Teth.png|thumb|left|CC-2237 during the Battle of Teth.]]
+During the [[Galactic Republic]]'s attempt to rescue [[Jabba Desilijic Tiure|Jabba the Hutt's]] kidnapped [[Rotta|son]], Odd Ball was called in to assist the [[troop]]s who were [[Battle of Teth|fighting]] [[Confederacy of Independent Systems|Confederate]] [[Confederacy military|forces]] on Teth. Flying in a [[V-19 Torrent starfighter]], he fought oncoming [[Variable Geometry Self-Propelled Battle Droid, Mark I|vulture droids]] alongside Kenobi. During the battle, Odd Ball was tailed by vulture droids and remarked that he was unable to shake them off. [[General]] Kenobi came to the pilot's aid and was able to destroy the droids and save Odd Ball. The clone pilot apologised for panicking and Kenobi assured him that it happened to everybody.<ref name="The Clone Wars film">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]</ref>
+
+====Battle of Umbara====
+{{Quote|Good old Oddball. Always on target.|Jesse|Darkness on Umbara}}
+[[File:DoU_Oddball_Bombing_Run.png|thumb|CC-2237 and a wingman conduct a bombing run during the Battle of Umbara.]]
+At the start of the [[Battle of Umbara]], Odd Ball and another bomber were called in to provide reinforcements. They bombed a vulnerable enemy position moments after the last of the clone forces evacuated the area.<ref name="DoU">{{TCW|Darkness on Umbara}}</ref>
+
+====Battle of Coruscant====
+{{Quote|Clone Flight Squad Seven launched from the carrier ''Ro-Ti-Mundi''. Our mission was to escort Jedi Generals Obi-Wan Kenobi and Anakin Skywalker to the Separatist flagship ''Invisible Hand'' and cover them while they executed a boarding action.|Oddball's gives his account of the Battle of Coruscant|Star Wars: On the Front Lines}}
+He also participated in the [[Battle of Coruscant]], leading [[Clone Flight Squad Seven]] to the ''[[Invisible Hand]]'' for Kenobi and [[Anakin Skywalker]].<ref name="Episode III" /> He ordered the squad's V-19 Torrent [[starfighter]]s to take point, this group of fighters punched a hole through the [[Droid tri-fighter]]s. This allowed the [[Jedi]] and the [[squad]]s [[Aggressive ReConnaissance-170 starfighter|Arc-170 Starfighters]] to move towards the ''Invisible Hand''. When the Jedi landed in the ships [[hangar]], the squad eliminated priority targets and stayed close in case they were needed for aid. He did not expect the Jedi to survive.<ref name="On the Front Lines" />
+
+====Battle of Utapau====
+When it was discovered that the leader of the [[Separatist Droid Army]], General [[Grievous]] was hiding on the [[planet]] Utapau, Kenobi and the [[212th Attack Battalion]] were sent to investigate. [[Clone trooper]]s engaged [[battle droid]]s in a heated confrontation, whilst Kenobi dueled with Grievous. After Grievous's defeat at the hands of the Jedi, [[Order 66]] was issued by [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]].<ref name="Episode III" /> As the contingency was issued, Odd Ball was in battle above Utapau.<ref name="Databank" />
+
+{{Char-stub}}
+
+==Personality and traits==
+A human male clone of the bounty hunter Jango Fett,<ref name="Clone troopers" /> CC-2237 was 1.83 [[meter]]s tall<ref name="Databank" /> and had [[color|brown]] [[eye]]s.<ref name="Episode III" /> He proved to be a skilled pilot during the Clone Wars and was apologetic towards Obi-Wan Kenobi when the Jedi provided assistance at the Battle of Teth.<ref name="The Clone Wars film" />
+
+==Equipment==
+Initially during the Clone Wars, Odd Ball donned standard [[Phase I clone trooper armor|Phase I]] armor for all clone trooper pilots. Later on in the war, he switched to the [[Phase II clone trooper armor|Phase II]] variant which featured a fully enclosed helmet and breathing apparatus. However even further on in the war his armor changed yet again when he adopted the newer open-helmet design, which he wore during the Battle of Coruscant.<ref name="Episode III" />
+
+==Behind the scenes==
+CC-2237 was portrayed by [[Temuera Morrison]] in [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]. He also appeared in the [[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]] and [[Star Wars: The Clone Wars (TV series)|television series]], in which he was voiced by [[Dee Bradley Baker]].
+
+==Appearances==
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]
+*{{TCW|Darkness on Umbara}} {{Mo}}
+*{{TCW|The Jedi Who Knew Too Much}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}}
+
+==Sources==
+*{{SWE|technology|arc170starfighter|ARC-170 starfighter}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: On the Front Lines]]'' {{1stID}}
+*{{Databank|clone-pilot-odd-ball|Clone Pilot Odd Ball|archivedate=20160919192927}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ja=CC-2237
+|es=CC-2237}}
+
+[[Category:Clone trooper commanders]]
+[[Category:Clone trooper pilots]]

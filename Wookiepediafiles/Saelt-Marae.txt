@@ -1,0 +1,51 @@
+{{Eras|notoc=1}}
+{{Update|[[Darth Vader 1: Vader]]}}
+{{Character
+|type=Criminal
+|image=[[File:Saelt-Marae2.jpg]]
+|name=Saelt-Marae
+|homeworld=
+|birth=
+|death=
+|species=[[Yarkora]]<ref name="Absolutely Everything You Need to Know">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref>
+|gender=
+|height=2.2 [[meter]]s<ref name="Absolutely Everything You Need to Know" />
+|mass=
+|hair=[[Color|White]]<ref name="ROTJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|eyes=Black<ref name="ROTJ" />
+|skin=
+|cyber=
+|era=
+|affiliation=[[Jabba Desilijic Tiure's criminal empire]]<ref name="Absolutely Everything You Need to Know" />
+|masters=
+|apprentices=}}
+'''Saelt-Marae'''<ref name="Absolutely Everything You Need to Know" /> was a [[Yarkora]] who worked for [[Jabba Desilijic Tiure]], a powerful [[Hutt]] [[crime lord]]. Posing as a humble [[merchant]], the Yarkora mingled with the various denizens of Jabba's [[Jabba's Palace|fortress]] on [[Tatooine]], learning of the intrigues developing behind the Hutt's back and revealing those to his employer.<ref name="Absolutely Everything You Need to Know" />
+Shortly before the [[Battle of Endor]], Saelt-Marae traveled on board Jabba's [[sail barge]] ''[[Khetanna]]'' to the [[Great Pit of Carkoon]] to witness the [[Death|execution]] of two of the Hutt's prisoners, [[Luke Skywalker]] and [[Han Solo]]. The prisoners were to be fed to the [[sarlacc]] which resided in the pit, but managed to escape and kill Jabba before destroying the sail barge.<ref name="ROTJ" />
+
+==Behind the scenes==
+[[File:MaraeBTS.jpg|thumb|right|150px|Saelt-Marae's mask for ''Return of the Jedi''.]]
+Saelt-Marae was played by [[Sean Crawford]]<ref name="Website">[http://www.coolwatersprods.com/id63.html Sean Crawford's website]</ref> in the [[1983]] film [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]. In the film, he went unnamed.<ref name="ROTJ" /> Saelt-Marae was given the name "Yak Face" during the production of ''Return of the Jedi''.<ref name="DB">{{DB|character|saeltmarae|Saelt-Marae}}</ref> The character was first named in ''[[Star Wars Trilogy Sourcebook, Special Edition]]'', a [[Star Wars Legends|''Star Wars'' Legends]] supplement for ''[[Star Wars: The Roleplaying Game]]'' by [[West End Games]].<ref name="TSB">''[[Star Wars Trilogy Sourcebook, Special Edition]]''</ref>
+
+While filming of ''Return of the Jedi'' was underway, Saelt-Marae was originally supposed to have a quarrel with [[Ree-Yees]], leading [[C-3PO]] to intervene in order to separate them. Though it was indeed filmed, it was ultimately cut from the film's release.<ref name="DB" />
+
+==Appearances==
+*''[[Darth Vader 1: Vader]]''
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+
+==Sources==
+*{{SW|url=tv-shows/clone-wars/a-friend-in-need|text="A Friend in Need" Episode Guide}} {{Po}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]'' {{1stID}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]'' {{Po}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]'' {{Po}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ja=セイルト＝マレイ
+}}
+
+[[Category:Desilijic servants]]
+[[Category:Yarkora]]

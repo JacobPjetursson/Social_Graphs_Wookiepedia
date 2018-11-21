@@ -1,0 +1,58 @@
+{{Eras}}
+{{Character
+|type=Rebel
+|image=[[File:Paploo.jpg]]
+|name=Paploo
+|homeworld=[[Endor]]<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|birth=
+|death=
+|species=[[Ewok]]<ref name="Episode VI" />
+|gender=[[Sexes|Male]]<ref name="Episode VI" />
+|height=0.96 [[meter]]s<ref name="Paploo">{{Databank|paploo|Paploo}}</ref>
+|mass=
+|hair=[[Color|Brown]]<ref name="Episode VI" />
+|eyes=
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Bright Tree tribe]]<ref name="Episode VI" />
+*[[Alliance to Restore the Republic]]<ref name="Episode VI" />
+|masters=
+|apprentices=}}
+{{Quote|I'm afraid our furry companion has gone and done something rather rash.|[[C-3PO]], to [[Leia Organa]]|Star Wars: Episode VI Return of the Jedi}}
+'''Paploo''' was a [[Sexes|male]] [[Ewok]] of the [[Bright Tree tribe]] on the forest [[moon]] of [[Endor]]. During the [[Battle of Endor]], Paploo aided the [[Alliance to Restore the Republic|Rebel]] strike team that was led by [[Han Solo]] in destroying the [[Death Star's shield generator|generator]] powering the [[Death Star II|Death Star II's]] [[deflector shield]].
+
+==Biography==
+Paploo lived in [[Bright Tree Village]] on the forest [[moon]] of [[Endor]] during the [[Galactic Civil War]],<ref name="Episode VI" /> and was a skilled [[Ewok]] [[scout]] like his friends [[Teebo]] and [[Wicket W. Warrick]].<ref name="USW">''[[Ultimate Star Wars]]''</ref> When a [[Alliance to Restore the Republic|Rebel]] strike team, led by [[Han Solo]], arrived on the moon to destroy the [[Death Star's shield generator|generator]] powering the [[Death Star II|Death Star II's]] [[deflector shield]], Palpoo aided the Rebels in infiltrating the generator facility. In order to reduce the number of guards outside of the bunker's back entrance, Paploo stole a [[speeder bike]] belonging to [[Galactic Empire|Imperial]] [[scout trooper]]s. Two of the three troopers sped after him, while only one remained behind. Though the Rebels were initially concerned that Paploo's actions would draw unwanted attention, his actions allowed the Rebels to capture the remaining stormtroopers and enter the facility. Though the Rebels were captured, they were nonetheless able to later destroy the shield generator, allowing the [[Alliance Fleet]] the successful chance to destroy the [[orbit]]ing Death Star.<ref name="Episode VI" />
+==Behind the scenes==
+[[File:Kenny Paploo.jpg|left|thumb|150px|Kenny Baker in his Paploo costume.]]
+In [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']], Paploo was portrayed by [[Kenny Baker]], who also portrayed [[R2-D2]].
+
+==Appearances==
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{SW|url=ewok-history-gallery|text=Ewok history gallery}}; image #8 {{C|of 13}}
+*{{Databank|paploo|Paploo}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Paploo
+|ja=パプルー
+}}
+
+[[Category:Ewoks]]
+[[Category:Males]]

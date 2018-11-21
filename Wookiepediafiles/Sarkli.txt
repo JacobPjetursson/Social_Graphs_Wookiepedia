@@ -1,0 +1,101 @@
+{{Eras|imp|reb}}
+{{Update|[[Threat of the Conqueror]] - Light Side and Dark Side scenario campaigns}}
+{{Character
+|type=Galactic Empire
+|image=[[File:CaptainSarkli-SWGTCG.JPG]]
+|name=Sarkli
+|homeworld=
+|birth=
+|death=[[4 ABY/Legends|4 ABY]], [[Endor/Legends|Endor]]<ref name="Rebel Strike">''[[Star Wars: Rogue Squadron III: Rebel Strike]]''</ref>
+|species=[[Human/Legends|Human]]<ref name="TotC-Card">{{SWGTCG|set=Threat of the Conqueror|cardname=Storm Commando Captain}}</ref>
+|gender=[[Sexes/Legends|Male]]<ref name="Rebel Strike" />
+|height=
+|mass=
+|hair=[[Color/Legends|Black]]<ref name="Rebel Strike" />
+|eyes=
+|skin=
+|cyber=
+|era=[[Rebellion era]]<ref name="Rebel Strike" />
+|affiliation=*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]] {{C|formerly}}<ref name="Rebel Strike" />
+*[[Galactic Empire/Legends|Galactic Empire]]<ref name="Rebel Strike" />
+|masters=
+|apprentices=}}
+{{Quote|The Empire maintains order, and people like you disrupt that order.|Sarkli to Wedge Antilles over Geonosis|Star Wars: Rogue Squadron III: Rebel Strike}}
+'''Sarkli''' was a [[Human/Legends|Human]] [[Sexes/Legends|male]] [[Captain/Legends|captain]] in the [[Galactic Empire/Legends|Galactic Empire's]] [[Stormtrooper Corps/Legends|Stormtrooper Corps]] during the [[Galactic Civil War/Legends|Galactic Civil War]]. A member of the elite [[storm commando]]s, Sarkli was [[Admiral/Legends|Admiral]] [[Firmus Piett/Legends|Firmus Piett's]] nephew and one of the Empire's best [[Spy/Legends|spies]], even finding audience with [[Galactic Emperor/Legends|Emperor]] [[Palpatine/Legends|Palpatine]]. Prior to his involvement in the Empire, Sarkli was an [[T-65 X-wing starfighter|X-wing]] [[Starfighter/Legends|starfighter]] [[Pilot/Legends|pilot]] for the [[Alliance to Restore the Republic/Legends|Rebel Alliance]], flying under [[Commander/Legends|Commander]] [[Luke Skywalker/Legends|Luke Skywalker]] in [[Red Squadron (Rebel Alliance)/Legends|Red Squadron]]. Sarkli was among the Rebel force that assisted in the [[Evacuation of Yavin|evacuation of]] [[Great Temple (Yavin 4)/Legends|the Alliance's Yavin 4 base]], and later assisted in the operation to [[Mission to Dantooine|extract]] Imperial defector [[Tycho Celchu]] from the planet [[Dantooine/Legends|Dantooine]]. Sarkli, who was known for his big ego, eventually defected to the Empire during a rebel [[Defense of Ralltiir|defense of]] the planet [[Ralltiir/Legends|Ralltiir]].
+
+During his time with the Empire, Sarkli disrupted Rebel plans to free Alliance prisoners of war from a facility orbiting the planet [[Bakura/Legends|Bakura]], eventually being tracked to the planet [[Geonosis/Legends|Geonosis]] by the Rebel starfighter unit [[Rogue Squadron/Legends|Rogue Squadron]]. He managed to survive this encounter, and was later assigned to the [[Endor/Legends|forest moon of Endor]], where he guarded the [[deflector shield generator/Legends|shield bunker]] protecting the [[Superweapon/Legends|superweapon]] [[Death Star II/Legends|Death Star II]]. Sarkli would ultimately be [[Death/Legends|killed]] during the [[Battle of Endor/Legends|Battle of Endor]] by [[General/Legends|General]] [[Han Solo/Legends|Han Solo]] of the Rebel Alliance, who infiltrated the bunker with a team of Rebel operatives.
+
+==Biography==
+===Life under the Rebellion===
+{{Quote|What do you mean 'stay behind?' You're gonna need my help to get out of there in one piece.|Sarkli voicing his disapproval of Luke Skywalker's orders on Dantooine|Star Wars: Rogue Squadron III: Rebel Strike}}
+Sarkli, a [[Human/Legends|Human]] [[Sexes/Legends|male]], was born prior to [[0 BBY/Legends|0 BBY]] as the nephew of [[Firmus Piett/Legends|Firmus Piett]], an [[Admiral/Legends|Admiral]] under [[The galaxy/Legends|the galaxy's]] governing body, the [[Galactic Empire/Legends|Galactic Empire]].<ref name="SWCCG">{{CCG|set=Death Star II Limited|link=DeathStarII-Dark/large/captainsarkli.gif|cardname=Captain Sarkli}}''<nowiki/>''</ref> Sarkli was eventually pit against his uncle's side during the [[Galactic Civil War/Legends|Galactic Civil War]] when he was recruited by the freedom-fighting movement known as the [[Alliance to Restore the Republic/Legends|Rebel Alliance]] sometime around the [[Battle of Yavin/Legends|Battle of Yavin]]. Following the destruction of the planet-destroying [[Superweapon/Legends|superweapon]], the [[DS-1 Orbital Battle Station/Legends|Death Star]], during that battle, Sarkli took the place of fallen Rebel [[Starfighter/Legends|starfighter]] [[Pilot/Legends|pilot]] [[Biggs Darklighter/Legends|Biggs Darklighter]], flying under the [[T-65 X-wing starfighter|X-wing]] starfighter unit [[Red Squadron (Rebel Alliance)/Legends|Red Squadron]].<ref name="Rebel Strike" />
+
+During one of the routine raids on the Alliance's base on the [[Moon/Legends|moon]] [[Yavin 4/Legends|Yavin 4]] conducted by Imperial forces, Sarkli accompanied pilots [[Luke Skywalker/Legends|Luke Skywalker]] and [[Wedge Antilles/Legends|Wedge Antilles]] with the mission of defending the Rebel [[Transport/Legends|transport]] ''[[Luminous]]''. Sarkli provided an aerial defense of the [[Great Temple]] while Skywalker and Antilles extracted [[General/Legends|General]] [[Jan Dodonna/Legends|Jan Dodonna]] and [[Lieutenant/Legends|Lieutenant]] [[Bren Derlin/Legends|Bren Derlin]], who were trapped inside. Sarkli ultimately saved the group from a pair of Imperial [[All Terrain Scout Transport/Legends|scout]] [[Walker/Legends|walkers]] in the main [[Hangar/Legends|hangar]] bay.<ref name="Rebel Strike" />
+
+Sarkli later accompanied Red Squadron to a meeting with [[Tycho Celchu]], a Rebel sympathizer wishing to defect from the Empire. However, when Celchu's rendezvous point on the planet [[Dantooine/Legends|Dantooine]] was compromised by Imperial [[storm commando]]s, the meeting was quickly converted into a [[Mission to Dantooine|rescue operation]]. Commander Skywalker took it upon himself to infiltrate the makeshift Imperial camp to rescue Celchu, ordering Sarkli and the rest of the strike team to wait with the ships. During Skywalker's absence, the team was wiped out by a sudden Imperial ambush, leaving Sarkli the only survivor, who reported what was happening to Skywalker when he and Celchu were arriving back to the landing area.<ref name="Rebel Strike" />
+
+===Defection to the Empire===
+{{Quote|He walked us right into their arms.|Luke Skywalker reflecting on Sarkli's defection|Star Wars: Rogue Squadron III: Rebel Strike}}
+[[File:Captain sarkli.jpg|thumb|left|100px|Captain Sarkli on the Death Star II]]
+Sarkli later took part in a Rebel operation to [[Defense of Ralltiir|save]] a group of [[Scientist/Legends|scientists]] holed up by a team of storm commandos in a [[City/Legends|city]] on [[Ralltiir/Legends|Ralltiir]]. Although Sarkli initially flew with Red Squadron during the mission and helped stem the flow of Imperial reinforcements, he used the battle as an opportunity to defect to the Empire, surrendering himself to a storm commando [[Convoy/Legends|convoy]].<ref name="Rebel Strike" /> Sarkli quickly made a name for himself in the Empire, becoming [[Captain/Legends|captain]]<ref name="TotC-Card" /> of a storm commando unit. Sarkli also became a renowned [[Spy/Legends|spy]], even finding personal favor with [[Galactic Emperor/Legends|Emperor]] [[Palpatine/Legends|Palpatine]].<ref name="SWCCG" />
+
+Following the [[Battle of Hoth/Legends|Battle of Hoth]], Sarkli interfered with a Rebel [[raid at Bakura|rescue mission]] over the planet [[Bakura/Legends|Bakura]]. Piloting an [[Imperial escort carrier/Legends|Imperial escort carrier]], he boarded and destroyed a [[GR-75 medium transport/Legends|Rebel transport]] carrying several Rebel prisoners of war rescued from the orbital detainment facility before fleeing to [[Geonosis/Legends|Geonosis]]. He lured the pursuing Alliance fleet into an [[Battle of Geonosis (Galactic Civil War)|ambush]] in the Geonosian asteroid field, where he engaged in combat with former wingman Wedge Antilles. Sarkli's escort carrier sustained critical damage during the fight, forcing him to retreat to the planet's surface in an [[Escape pod/Legends|escape pod]]. Antilles pursued Sarkli into the Geonosian canyons, where Sarkli attacked him using a [[Low Altitude Assault Transport/infantry/Legends|LAAT/i gunship]]. Using a single [[E-Web heavy repeating blaster|E-Web blaster cannon]] stolen from an Imperial [[Stormtrooper/Legends|stormtrooper]], Antilles damaged Sarkli's gunship, causing it to careen into one of the canyon walls.<ref name="Rebel Strike" />
+
+===Battle of Endor and death===
+{{Quote|This is the end, Solo. You'll never leave this bunker alive!|Sarkli to Han Solo in the shield bunker|Star Wars: Rogue Squadron III: Rebel Strike}}
+Sarkli managed to survive the incident,<ref name="Rebel Strike" /> and was later present on the superweapon [[Death Star II/Legends|Death Star II]] over the forest moon of [[Endor (planet)/Legends|Endor]] during [[Anakin Skywalker/Legends|Darth Vader's]] visit to the station in [[4 ABY/Legends|4 ABY]].<ref name="ROTJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+
+Sarkli was later assigned to the [[deflector shield generator/Legends|shield bunker]] on the sanctuary moon, commanding a storm commando sentry [[unit]]. His unit failed to prevent a [[Endor strike team/Legends|Rebel strike team]] led by [[General/Legends|General]] [[Han Solo/Legends|Han Solo]] from entering the bunker and planting explosives. In a last ditch effort, Sarkli confronted Solo with a [[Blaster rifle/Legends|blaster rifle]] and attempted to block his escape from the exploding bunker, with Solo telling him that the Empire was finished, and Sarkli had chosen the wrong side. The two men simultaneously tried to kill each other and retreat from the bunker. Sarkli ultimately received a fatal wound from Solo's blaster near the main entrance after a short skirmish through the hallways, falling to Solo despite his skill with a blaster.<ref name="Rebel Strike" /> His uncle, Admiral Piett, would die in the same battle when [[Rebel pilot/Legends|Rebel pilot]] [[Arvel Crynyd/Legends|Arvel Crynyd]] careened his starfighter into the bridge of the flagship ''[[Executor/Legends|Executor]]''.<ref name="ROTJ" />
+
+==Personality and traits==
+{{Quote|The Empire is where someone of my caliber belongs.|Sarkli|Star Wars: Rogue Squadron III: Rebel Strike}}
+Sarkli had a large ego, one which would ultimately lead to his defection from the Rebellion. During his time under Red Squadron, he was not as respected as pilots such as his commander, Luke Skywalker, who was sometimes credited with Sarkli's successes. During the Empire's raid on Yavin 4, General Dodonna overlooked Sarkli's heroic actions in saving them from two Imperial walkers in the main hanger bay, instead claiming he owed his life to Skywalker. He also often felt restrained by his commander's orders, and vocally expressed dismay at being ordered to stand down from battle on Dantooine. Moments before his ultimate defection to the Empire on Ralltiir, Sarkli claimed a person of his own skill was above the Rebellion.<ref name="Rebel Strike" />
+
+As an Imperial, Sarkli viewed the Empire as a peacekeeping entity, and the Rebellion as an inhibitor of that peace.<ref name="Rebel Strike" /> His commitment to the Empire's cause, going as far as to having no qualms with killing his former allies, led him to become one of their most valuable assets, and he was considered a master spy.<ref name="SWCCG" /> However, despite his abilities with a blaster, he was never able to best his former allies in the Rebel Alliance, ultimately meeting his end by challenging his former teammate Han Solo.<ref name="Rebel Strike" />
+
+==Behind the scenes==
+Sarkli's first appearance in ''[[Star Wars]]'' canon was in the sixth film [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] as a nameless Imperial officer during the Death Star II hangar bay scenes. In [[2000]], the [[Star Wars Customizable Card Game|''Star Wars'' Customizable Card Game]] named Sarkli and established him as a highly commendable [[Spy/Legends|spy]] and relative of Piett who found favor with Emperor [[Palpatine/Legends|Palpatine]].<ref name="SWCCG" />
+
+Sarkli's character was fleshed out in the [[LucasArts]] video game ''[[Star Wars: Rogue Squadron III: Rebel Strike]]'', voiced by [[Robin Atkin Downes]]. He initially appears as an ally and wingmate to the player in the missions "Revenge of the Empire," "Defiance on Dantooine," and "Defenders of Ralltiir" before becoming the game's primary antagonist. The first time the player fights him during the mission "Relics of Geonosis", Sarkli pilots a salvaged Republic gunship and is shot down by the player with an E-web cannon. He is fought a second and final time in the final mission of the Endor campaign, "Triumph of the Rebellion." The player, as Han Solo, engages in a firefight with Sarkli (who is donning storm commando armor) while escaping the burning bunker on Endor.<ref name="Rebel Strike" />
+
+[http://www.starwarz.com/tbone/index.php?categoryid=11&p2_articleid=5 Several images] found on [http://www.starwarz.com/tbone/index.php?categoryid=1 T-bone's Star Wars Universe] website show that Sarkli was meant to appear in at least two more scenes in ''Return of the Jedi''. The first four images show Sarkli and other Imperial officers heading toward the Death Star's hangar bay to greet Palpatine upon his arrival. The last two images show an extended version of the Emperor's arrival, with Sarkli visible on the penultimate photo.<ref name="T-bone">[http://www.starwarz.com/tbone/index.php?categoryid=11&p2_articleid=5 "Off To See The Emperor"] on [http://www.starwarz.com/tbone/index.php?categoryid=1 T-bone's Star Wars Universe]</ref>
+
+Stock footage of scenes from ''Return of the Jedi'' was later added into the [[star Wars Trilogy (Special Edition)|special edition]] of [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]. Although the extra playing Sarkli can be seen during Darth Vader's return to the ''Executor'', that does not necessarily make Sarkli canonically appear in the film.
+===Non-canon storyline===
+{{Quote|Captain Sarkli.''"<br />"''My liege?''"<br />"''Take your troops and destroy the clone.|Emperor Palpatine and Captain Sarkli|Star Wars: The Force Unleashed II}}
+Sarkli is present during the non-canon exploits of fallen [[Jedi Knight/Legends|Jedi Knight]] [[Galen Marek]]'s [[cloning/Legends|clone]], the [[Dark Apprentice]], in the [[Infinities]] expansion of the LucasArts video game ''[[Star Wars: The Force Unleashed II]]'', voiced by [[Jaron Monroe]]. The Dark Apprentice is tasked with countering the Rebel attack on the shield generator on Endor to keep the second Death Star secure, killing the [[Wookiee/Legends|Wookiee]] [[Chewbacca/Legends|Chewbacca]], [[Prince/Legends|Princess]] [[Leia Organa Solo|Leia Organa]]<ref name="FUII">''[[Star Wars: The Force Unleashed II]]''</ref>, and Han Solo, the latter being Sarkli's would be murderer.<ref name="Rebel Strike" /> After the death of Organa, Emperor Palpatine orders Captain Sarkli to lead his men in a mission destroy the Dark Apprentice. A fleet commanded by Sarkli is seen enclosing around the Dark Apprentice before the game cuts to black. Sarkli's name is misspelled as "Sarcli" in the mission's end credits.
+<ref name="FUII" />
+
+==Appearances==
+*''[[Star Wars: Rogue Squadron III: Rebel Strike]]''
+*{{SWGTCG|set=Threat of the Conqueror|scenario=Light Side and Dark Side scenario campaigns}}
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*[[classic Star Wars: Return of the Jedi (book-and-tape)|''Classic Star Wars: Return of the Jedi'' book-and-record]] {{Po}}
+===Non-canon appearances===
+*''[[Star Wars: The Force Unleashed II]]'' {{Voice}}
+
+==Sources==
+*''[[Star Wars: Behind the Magic]]'' {{Po}}
+*{{CCG|set=Death Star II Limited|link=DeathStarII-Dark/large/captainsarkli.gif|cardname=Captain Sarkli}} {{1stID}}
+*''[[Star Wars: Rogue Squadron III: Rebel Strike: The Official Nintendo Player's Guide]]''
+*''[[Star Wars: The Complete Visual Dictionary]]'' {{Po}}
+*{{SWGTCG|set=Threat of the Conqueror|cardname=Captain Sarkli}}
+*{{SWGTCG|set=Threat of the Conqueror|cardname=DLT-19 Heavy Blaster Rifle}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Sarkli
+|es=Sarkli
+|nl=Sarkli
+|ru=Саркли
+}}
+
+[[Category:Defectors]]
+[[Category:Humans]]
+[[Category:Imperial Intelligence personnel of the Galactic Empire]]
+[[Category:Males]]
+[[Category:Rogue Squadron personnel]]
+[[Category:Spies]]
+[[Category:Stormtrooper officers of the Galactic Empire]]

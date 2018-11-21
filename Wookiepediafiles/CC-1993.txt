@@ -1,0 +1,41 @@
+{{Eras}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Jet-LaPR.png]]
+|name=CC-1993<br />"Jet"
+|homeworld=[[Kamino]]<ref name="Encyclopedia">{{SWE|characters|clone-commander-jet|Clone Commander Jet}}</ref>
+|birth=
+|death=
+|species=[[Human]] {{C|[[Cloning|clone]]}}<ref name="Encyclopedia" />
+|gender=[[Sexes|Male]]<ref name="Databank">{{Databank|clone-commander-jet|Clone Commander Jet|archivedate=20170522124714}}</ref>
+|height=1.83 [[meter]]s<ref name="Databank" />
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Databank" />
+**[[Grand Army of the Republic]]<ref name="Landing at Point Rain">{{TCW|Landing at Point Rain}}</ref>
+|masters=
+|apprentices=}}
+{{Quote|Cody, get the tanks down. Come in, Cody!|Jet, trying to contact Commander Cody during the Second Battle of Geonosis|Landing at Point Rain}}
+'''CC-1993''', nicknamed "'''Jet'''," was a [[clone trooper]] [[commander]] and a heavy weapons specialist who served in the [[Grand Army of the Republic]] during the [[Clone Wars]]. He notably led a unit of [[clone flametrooper]]s and other special operations [[trooper]]s in the [[Second Battle of Geonosis]].<ref name="Encyclopedia" /> He served under [[Jedi General]] [[Ki-Adi-Mundi]] and fought in the [[Second Battle of Geonosis|battle]] to retake the [[planet]] [[Geonosis]] from the [[Confederacy of Independent Systems]].<ref name="Landing at Point Rain" />
+
+{{Char-stub}}
+
+==Appearances==
+*{{TCW|Landing at Point Rain}} {{1st}}
+*{{TCW|Weapons Factory}} {{Flash}}
+
+==Sources==
+*{{SWArchive|url=theclonewars/guide/episode205.html|text=''The Clone Wars'' Episode Guide: Landing at Point Rain}}
+*{{SW|url=tv-shows/clone-wars/landing-at-point-rain|text=Landing at Point Rain}}
+*{{SWE|characters|clone-commander-jet|Clone Commander Jet}} {{1stID}}
+*{{Databank|wullf-yularen|Admiral Wullf Yularen|archivedate=20170404042020}}
+*{{Databank|clone-commander-jet|Clone Commander Jet|archivedate=20170522124714}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Clone trooper commanders]]

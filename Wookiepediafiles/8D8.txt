@@ -1,0 +1,71 @@
+{{Eras}}
+{{Droid
+|image=[[File:8D8 Databank.jpeg]]
+|name=8D8
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=[[Roche Hive]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|line=
+|model=[[8D-series]]<ref name="Ultimate Star Wars" />
+|class=[[Smelter droid]]<ref name="8D8">{{Databank|8d8|8D8|archivedate=20170606170924}}</ref>
+|degree=
+|cost=
+|length=
+|width=
+|height=1.83 [[meter]]s<ref name="8D8" />
+|mass=
+|gender=[[Sexes|Masculine programming]]<ref name="Ultimate Star Wars" />
+|sensor=[[Color|White]]<ref name="Smelter Droid">{{Databank|smelter-droid|Smelter Droid|archivedate=20171011071132}}</ref>
+|plating=White<ref name="Smelter Droid" />
+|armament=
+|equipment=
+|era=
+|affiliation=[[Jabba's Palace]]<ref name="Ultimate Star Wars" />}}
+'''8D8''' was a [[Sexes|masculine]] [[8D-series]] [[smelter droid]] owned by the [[Hutt]] [[crime lord]] [[Jabba Desilijic Tiure]] who assisted [[EV-9D9]] in terrorizing misbehaving [[droid]]s in [[Jabba's Palace]]. He was deactivated after his master's [[Death|demise]].
+
+==Biography==
+[[File:DroidChamber-BF.png|left|thumb|250px|A powered-down 8D8]]
+An [[8D-series]] [[smelter droid]] manufactured by [[Roche Hive]],<ref name="Ultimate Star Wars" /> 8D8 was originally programmed to perform simple tasks in [[ore]]-extraction facilities until [[Sexes|he]] came into the possession of the [[Hutt]] [[crime lord]] [[Jabba Desilijic Tiure]], who had him reprogrammed for sadism. While working in [[Jabba's Palace]], he served as an assistant to the [[supervisor droid]] [[EV-9D9]],<ref name="8D8" /> terrorizing the [[droid]] pool to keep it in line.<ref name="Ultimate Star Wars" /> Shortly before the [[Battle of Endor]], 8D8 was [[Torture|torturing]] a [[GNK-series power droid]] when EV-9D9 assigned [[R2-D2]] and [[C-3PO]] positions within the palace's droid pool<ref name="Return of the Jedi">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref> and was deactivated following Jabba's [[Death|demise]].<ref name="Battlefront">''[[Star Wars Battlefront]]''</ref>
+
+==Characteristics==
+A cruel industrial droid<ref name="Ultimate Star Wars" /> who was reprogrammed for sadism,<ref name="8D8" /> 8D8, like most 8D-series droids, resented the more sophisticated [[Protocol droid|protocol]] and [[astromech droid]]s. A bully, he sometimes tortured other droids for his own amusement.<ref name="Ultimate Star Wars" />
+
+A lanky smelter droid,<ref name="8D8" /> 8D8 was a long-faced [[humanoid]] droid with a blank [[Color|white]] pair of [[photoreceptor]]s and body<ref name="Smelter Droid" /> that stood 1.83 [[meter]]s tall<ref name="8D8" /> and was designed with extreme durability.<ref name="Smelter Droid" />
+
+==Behind the scenes==
+8D8 was created for the [[1983]] film [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']],<ref name="Return of the Jedi" /> where he was realized as a puppet that shared its body structure with [[BG-J38]].<ref name="Bts">{{DB|droid|8d8|8D8 (Atedeate)}}</ref>
+
+==Appearances==
+*''[[Star Wars Battlefront II]]'' {{C|DLC}}
+*''[[Bounty Hunt]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*''[[Star Wars Battlefront]]'' {{C|DLC}}
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+
+==Sources==
+*''[[Ultimate Factivity Collection: Star Wars]]'' {{Po}}
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Droidography]]''
+*{{Databank|8d8|8D8|archivedate=20170606170924}}
+*{{Databank|smelter-droid|Smelter Droid|archivedate=20171011071132}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=8D8#kanon
+|ja=8D8
+|nl=8D8
+|pl=8D8
+|ru=8D8/Канон
+}}
+
+[[Category:8D smelter droids]]
+[[Category:Desilijic servants]]
+[[Category:Masculine programming]]
+[[Category:Torture droids]]

@@ -1,0 +1,35 @@
+{{Eras|reb}}
+{{Youmay|an [[Imperial officer/Legends|Imperial officer]] in the [[Galactic Empire/Legends|Galactic Empire]]|[[CC-5576-39|the clone commando]]}}
+{{Character
+|type=Galactic Empire
+|image=[[File:ltgregor1.jpg]]
+|name=Gregor
+|homeworld=
+|birth=
+|death=
+|species=[[Human/Legends|Human]]
+|gender=[[Sexes/Legends|Male]]
+|height=
+|mass=
+|hair=[[Brown]]
+|eyes=[[Green (disambiguation)|Green]]
+|skin=Fair
+|cyber=
+|era=[[Rebellion era]]
+|affiliation=[[Galactic Empire/Legends|Galactic Empire]]
+|masters=
+|apprentices=}}
+{{Quote|Welcome to the war, soldier! The Rebel scum are moving-in forces from all over [[The galaxy/Legends|the galaxy]] and we need determined elite [[Soldier/Legends|soldiers]] to make sure they never reach [[Restuss]]. Your orders will be to hunt down 40 members of the Rebels' ragtag army.|Lieutenant Gregor|Star Wars Galaxies}}
+'''Gregor''' was a [[Human/Legends|Human]] [[Sexes/Legends|male]] [[Lieutenant/Legends|lieutenant]] in the [[Galactic Empire/Legends|Galactic Empire]] who lived during the [[Galactic Civil War/Legends|Galactic Civil War]]. He ordered troops to [[Talus]] to eliminate [[Alliance to Restore the Republic/Legends|Rebel]] [[Commando/Legends|Commandos]] being sent to [[Rori]] during the [[Battle of Restuss]].
+
+{{Char-stub}}
+
+==Behind the scenes==
+Gregor was a [[Wikipedia:Non-player character|non-player character]] in the [[2003]] [[video game]] ''[[Star Wars Galaxies|Star Wars Galaxies: An Empire Divided]]'', a [[Wikipedia:Massively multiplayer online-role playing game|massively multiplayer online-role playing game]] developed by [[Sony|Sony Online Entertainment]] and published by [[LucasArts]], prior to its closure on [[December 15]], [[2011]].
+
+==Appearances==
+*{{SWG|An Empire Divided}} {{1st}}
+
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Officers of the Galactic Empire]]

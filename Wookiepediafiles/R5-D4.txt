@@ -1,0 +1,102 @@
+{{Eras}}
+{{Update|[[Star Wars: Episode II Attack of the Clones]], [[Star Wars: Card Trader]]}}
+{{Image}}
+{{Droid
+|image=[[File:R5-D4 Sideshow.png]]
+|name=R5-D4
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=[[Industrial Automaton]]<ref name="USW">''[[Ultimate Star Wars]]''</ref>
+|line=
+|model=[[R5 unit]]<ref name="SWCT">[[Star Wars: Card Trader|''Star Wars'': Card Trader]]</ref>
+|class=[[Astromech droid]]<ref name="Bad Motivator">{{SW|url=video/bad-motivator|text="Bad Motivator" (video)}}</ref>
+|degree=
+|cost=
+|length=
+|width=
+|height=0.97 [[meter]]s<ref name="R5-D4">{{Databank|r5-d4|R5-D4}}</ref>
+|mass=
+|gender=[[Sexes|Masculine programming]]<ref name="USW" />
+|sensor=[[Color|Red]]<ref name="USW" />
+|plating=White, red, blue<ref name="USW" />
+|armament=
+|equipment=
+|era=
+|affiliation=[[Alliance to Restore the Republic]]<ref name="USW" />}}
+{{Quotetrans|Thank you, friend. You may have saved the galaxy today. I will never forget you.|R2-D2 to R5-D4, in [[binary]]|The Red One}}
+'''R5-D4''', also called "'''Red'''" by [[Luke Skywalker]], was a red and white-striped [[R5 unit|R5]] [[astromech droid]] owned by a group of [[Jawa]]s on [[Tatooine]] in the early days of the [[Galactic Civil War]]. Shortly before the [[Battle of Yavin]], the Jawas attempted to sell [[Sexes|him]] to [[Owen Lars]], but the [[droid]] purposely malfunctioned his [[motivator]], so that Lars could purchase [[R2-D2]] in R5-D4's place. The droid survived an Imperial attack on the sandcrawler soon after, and went out to find the rebellion.
+
+==Biography==
+===Origins===
+{{Quote|Come on, Red, let's go!|Luke Skywalker|Star Wars: Episode IV A New Hope}}
+The [[astromech droid]] known as R5-D4 was involved with the [[Early rebellion against the Galactic Empire|rebellion against]] the [[Galactic Empire]]. [[4 BBY|Four years]] before the [[Battle of Yavin]] between the Empire and the [[Alliance to Restore the Republic]], however, [[Sexes|he]] fell into the possession of a group of [[Jawa]]s on [[Tatooine]], where they worked as junkers, and [[Memory wipe|wiped]] the [[droid]]'s memory. For the next four [[standard year|years]], R5-D4 longed to be sold and repaired. One evening, R5 was overjoyed when two Jawas inspected him and decided that he was ready to be sold. They scooped sand out of his tool compartments, wiped down his [[photoreceptor]]s, and added [[lubricant]] to his chassis and joints.<ref name="The Red One">{{Shortstory|story=The Red One|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}</ref><ref name="Episode IV">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref>
+
+===Encounter with R2-D2===
+[[Standard hour|Hours]] later, he was awaken by a jolt and saw several Jawas manhandling an [[R2-series astromech droid|R2 unit]]. This droid turned out to be [[R2-D2]], who had been captured by the Jawas following the events of the [[secret mission to Tatooine]]. R5-D4 watched as R2 was fitted with a [[restraining bolt]]. Later that night, R5 was awoken by the R2 droid,<ref name="The Red One" /> who was in the process of sabotaging him to ensure he would be the only remaining functional astromech that the Jawas had for sale.<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> R5 bleated angrily, and R2 apologized explaining he was on an important mission. R5 responded that he was on no mission and that his memory had been wiped four years ago.<ref name="The Red One" />
+
+R2 responded that he had to escape the [[sandcrawler]] tomorrow and that the fate of [[the galaxy]] depended on his sale. Unknown to R5, R2 was carrying the [[Battle of Scarif|stolen]] [[Death Star plans]] within his [[memory bank]]s. R2 then added that the Rebellion needed his help. The word Rebellion triggered something, the phantom of a memory. When R2 begged again, R5 responded that if he did not escape this sandcrawler and find a new master soon, he would cease to function. R2 was sympathetic but stressed that if he did not find [[Obi-Wan Kenobi|his master]], the [[galaxy]] would be doomed. As a couple of Jawas approached, R2 promised not to hurt him again.<ref name="The Red One" />
+
+The following morning, the sandcrawler stopped at the [[Lars moisture farm|moisture farm]] owned by the [[Lars family]], including [[Owen Lars]] and his nephew, [[Luke Skywalker]]. Lars and Skywalker were interested in purchasing droids from the Jawas. The droids which included R5 as well as R2 and the [[protocol droid]] [[C-3PO]] were lined up for Lars to choose and he chose R5 and C-3PO. As Lars talked to the Jawas about the purchase, Skywalker began leading C-3PO and R5 towards his home. When R2 moaned, R5 reassured him that someone would buy him.<ref name="The Red One" />
+
+R2 then reiterated that the galaxy was doomed and told R5 that he was his only hope. Realizing how important R2's mission was, R5 loosened the hinge on his head plate and redirected the lubricant into a mass just behind his photoreceptors. When that was ready, R5 purposely discharged the power, causing his head plate to pop off. This led Skywalker to think that R5 had a bad [[motivator]].<ref name="The Red One" /> In his place, Lars instead purchased R2-D2, C-3PO's companion and, along with the protocol droid, secretly a member of the Rebel Alliance.<ref name="Episode IV" /> Only powering his [[Auditory sensor|auditory receptors]], R5 heard R2's farewell, thanking him for his sacrifice and that he would never forget him.<ref name="The Red One" />
+
+R2's warning was proven right when [[Galactic Empire|Imperial]] [[stormtrooper]]s stopped the sandcrawler and interrogated the Jawas about the two droids they had sold. While the stormtroopers blasted the Jawas, R5 played dead and was overlooked by the stormtroopers. Later, R5 recomposed himself and made a trek along the Jawas' trade route in hopes of finding a new owner in the next valley and potentially finding the Rebellion.<ref name="The Red One" />
+
+===Legacy===
+R5's malfunctioning led to Skywalker discovering a message within R2 from [[Leia Organa]], the [[Prince]]ss of [[Alderaan]], which was soon delivered to [[Jedi Master]] Obi-Wan Kenobi as per Organa's instruction to R2. As a result of owning R2 instead of R5, Skywalker joined with Kenobi and soon destroyed the [[DS-1 Orbital Battle Station|Death Star]] during the Battle of [[Yavin]].<ref name="Episode IV" /> At some point, he later found his new place within the Rebellion, just like his old friend R2.<ref name="USW" />
+
+==Characteristics==
+[[File:R5-D4.jpg|thumb|left|R5-D4]]
+R5-D4 was an [[R5 unit]] with a [[Color|white]] and red chassis.<ref name="Episode IV" /> R5 was once part of the rebellion but was captured by Jawas who wiped his memories. For the next four years, R5 longed to be sold so that he could find a new master and escape the sandcrawler, which had become his [[prison]]. R5 was angry when R2 tried to sabotage him to ensure that he could continue his mission for the Rebellion. R5 regarded the well-maintained R2 unit as snobbish initially. However, R5 became sympathetic to R2's cause when the other droid explained that the fate of the galaxy depended on him being sold. This led R5 to make the difficult decision to sacrifice his own opportunity of being sold by blowing off his own head plate. R5 kept a low profile while the stormtroopers [[Death|killed]] his Jawa captors, allowing him to escape and find a new master.<ref name="The Red One" />
+
+==Behind the scenes==
+After the character appeared in the [[1977]] film [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']],<ref name="Episode IV" /> R5-D4 was featured in a number of [[Star Wars Legends|''Star Wars'' Legends]] stories. One such story was "[[Skippy the Jedi Droid]]", an [[Infinities]] story from the [[1999]] [[Star Wars comic books|comic book]] anthology ''[[Star Wars Tales 1]]''. The story posited that the character, nicknamed Skippy, could use the Force. After seeing a vision of Luke Skywalker's future, Skippy made it appear that his motivator malfunctioned so that Owen Lars could purchase R2-D2 and Skywalker could fulfill his destiny as a Jedi Knight.<ref name="Skippy">"[[Skippy the Jedi Droid]]"</ref>
+
+Another storyline, first included in the [[1989]] roleplaying game sourcebook ''[[Galaxy Guide 1: A New Hope]]'', had R5-D4 as an ordinary droid who was eventually purchased by Rebel Alliance historian and spy [[Voren Na'al/Legends|Voren Na'al]]. As part of the Rebel Alliance, R5-D4 helped Na'al spy on the Imperial forces on Tatooine and provided background information for official Alliance profiles for R2-D2 and C-3PO.<ref name="GG1">''[[Galaxy Guide 1: A New Hope]]''</ref>
+
+R5-D4's [[canon]]ical origins story was retold in [[Rae Carson]]'s short story "[[The Red One]]", which was published in the [[2017]] anthology collection ''[[From a Certain Point of View]]''. As in the Legends ''[[Star Wars (radio)|Star Wars]]'' radio adaptation, R2-D2 still attempts to sabotage R5-D4 but relents when the droid wakes up. R2-D2 instead convinces R5-D4 that the fate of the galaxy depends on him being sold. After R2-D2 mentions he is fighting for the Rebellion, R5 decides to sacrifice his own opportunity of being sold in order to guarantee the success of R2-D2's mission.<ref name="The Red One" />
+
+==Appearances==
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*''[[Episode IV: A New Hope Read-Along Storybook and CD]]'' {{C|Appears in illustration only}}
+*''[[The Rise of a Hero]]''
+*''[[Star Wars: A New Hope: Activity Book]]''
+*''[[Star Wars: Heroes Path]]''
+*''[[Star Wars Battlefront]]''
+*{{Shortstory|story=Reirin (short story)|sformatted=Reirin|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*{{Shortstory|story=The Red One|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+
+===Non-canon appearances===
+*{{The Freemaker Adventures|The Maker of Zoh}}
+
+==Sources==
+*{{SW|url=films/star-wars-episode-iv-a-new-hope|text=''Star Wars Episode IV: A New Hope''}}
+*{{SW|url=video/bad-motivator|text="Bad Motivator" (video)}}
+*[[Star Wars: Card Trader|''Star Wars'': Card Trader]] {{1stID}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Galactic Atlas]]'' {{Po}}
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Droidography]]''
+*{{Databank|c-3po|C-3PO (See-Threepio)|archivedate=20170603062029}}
+*{{Databank|jawa|Jawa}}
+*{{Databank|luke-skywalker|Luke Skywalker}}
+*{{Databank|r5-d4|R5-D4}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=R5-D4
+|ja=R5-D4
+|ko=R5-D4
+}}
+
+[[Category:Industrial Automaton products]]
+[[Category:Masculine programming]]
+[[Category:R5-series astromech droids]]
+[[Category:Rebel Alliance members]]

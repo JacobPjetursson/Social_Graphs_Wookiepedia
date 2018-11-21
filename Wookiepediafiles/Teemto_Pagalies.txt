@@ -1,0 +1,62 @@
+{{Eras}}
+{{Update|[[Ultimate Star Wars]]}}
+{{Character
+|type=
+|image=[[File:Teemto Databank Crop.png]]
+|name=Teemto Pagalies
+|homeworld=[[Moonus Mandel]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Veknoid]]<ref name="Ultimate Star Wars" />
+|gender=[[Sexes|Male]]<ref name="DB">{{Databank|teemto-pagalies|Teemto Pagalies}}</ref>
+|height=1.24 [[meter]]s<ref name="DB" />
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="TPM">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|skin=Orange, brown, off-white<ref name="TPM" />
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+{{Quote|Teemto Pagalies!|[[Fodesinbeed Annodue|Beed]], a [[Troig]] Podrace announcer|Star Wars: Episode I The Phantom Menace}}
+'''Teemto Pagalies''' was a [[Veknoid]] [[Podracer]] [[pilot]] from the [[planet]] [[Moonus Mandel]]. An outcast of his [[homeworld]], Pagalies found fame as a [[Podracer (profession)|Podracer]], and eventually went on to compete in a [[Boonta Eve Classic]] [[Podracing|Podrace]] on the planet [[Tatooine]]. However, during the race's second lap, Pagalies' [[IPG-X1131 LongTail]] Podracer was shot down on the [[Canyon Dune Turn]] by a native [[Tusken Raider]]. Despite the severity of the crash, Pagalies survived.
+
+==Biography==
+{{Quote|Looks like a few Tusken Raiders have camped out on the Canyon Dune Turn.|Podrace commentator Fode|Star Wars: Episode I The Phantom Menace}}
+A native of the [[planet]] [[Moonus Mandel]], the [[Veknoid]] [[Sexes|male]] Teemto Pagalies was a Moonus Mandel outcast that eventually found solace in the deadly sport of [[Podracing]]. Armed with an [[IPG-X1131 LongTail]] [[Podracer]] and his good looks, Pagalies found fame in the sport,<ref name="DB" /> and eventually went to compete on the planet [[Tatooine]], which annually hosted the [[Boonta Eve Classic]] race. At the start of the race, Pagalies found himself on the inside position of the third row, right next to two-time Boonta winner [[Boles Roor]], and behind racer [[Clegg Holdfast]]. The race was overseen by the two-headed [[Troig]] commentator [[Fodesinbeed Annodue]], and was hosted by the [[Hutt]] gangster [[Jabba Desilijic Tiure|Jabba the Hutt]]. Pagalies was formally introduced to the audience by the Annodue head named Beed.<ref name="TPM" />
+
+After Annodue wrapped up the [[pilot]] introductions, Jabba officially began the race. Pagalies performed well for the first lap, avoiding numerous hazards including stalactites, boulders, and the native [[Tusken Raider]]s who were trying to shoot the [[Podracer (profession)|Podracer pilots]] from a ledge overlooking the [[Canyon Dune Turn|Canyon Dune turn]]. Early during the second lap, Pagalies bumped into the pod of [[Anakin Skywalker]], which in turn caused Skywalker to scrape a cliff face. After wiping his [[Goggles|goggles clean]], Pagalies again neared Skywalker's craft, but the [[Human]] pilot managed to swing his pod over Pagalies'<ref name="TPM" /> LongTail,<ref name="DB" /> effectively moving out of harm's way. Pagalies was later able to overtake Skywalker, but was once again surpassed by the young pilot yet again.<ref name="TPM" />
+
+Eventually, Pagalies attempted his second passing of the Canyon Dune turn, which still hosted several sniping Tusken Raiders. After avoiding several potshots, Pagalies' right engine was blasted by a Tusken's [[slugthrower]], which caused the massive craft to plummet into the sand. Both engines were completely destroyed as Pagalies' circular [[cockpit]] was thrown through the air.<ref name="TPM" /> Despite the crash's severity, the Veknoid pilot survived, and went on to race again.<ref name="DB" />
+
+==Personality and traits==
+Teemto Pagalies was an outcast of his [[homeworld]], but was able to find fame in the dangerous sport of Podracing nonetheless. Pagalies was considered to be handsome, hilarious, and flamboyant. As far as looks are concerned, Pagalies stood 1.24 [[meter]]s tall, and had predominately brown and orange skin all over his body, and had off-white skin on his underarms and lower jaw. Pagalies also sported black pupils in his [[eye]]s.<ref name="DB" />
+
+==Equipment==
+Pagalies flew a large IPG-X1131 LongTail Podracer,<ref name="DB" /> which sported cylindrical engines and an upright, circular cockpit. The whole Podracer was covered in an orange, white, and cyan color motif. Although the Veknoid flew the large craft successfully for the first lap of the Boonta, the right engine was not able to sustain a blast from a Tusken slugthrower.<ref name="TPM" />
+
+==Behind the scenes==
+Teemto Pagalies was created for the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']], but first appeared in the film's [[Star Wars: Episode I The Phantom Menace (novelization)|novelization]] by [[Terry Brooks]]. Conceptual art for the character, including bone structure, was created by concept artist [[Terryl Whitlatch]].
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*''[[Star Wars Journeys: The Phantom Menace]]''
+*''[[Star Wars Journeys: Beginnings]]''
+
+==Sources==
+*{{SWSB|36|Boonta Eve Classic}}
+*[[Star Wars: Star Pilot (2015)|''Star Wars: Star Pilot'']]
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|teemto-pagalies|Teemto Pagalies}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Pagalies, Teemto}}
+[[Category:Males]]
+[[Category:Podracers]]
+[[Category:Veknoids]]

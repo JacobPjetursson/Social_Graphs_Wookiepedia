@@ -1,0 +1,153 @@
+{{Eras}}
+{{Update|[[Last Shot]], [[Solo: A Star Wars Story The Official Guide]], [[Solo: A Star Wars Story: Tales from Vandor]], [[Lando's Luck]]}}
+{{Droid
+|image=[[File:L3-37 SWI184.png]]
+|name=L3-37
+|homeworld=
+|birth=
+|death=[[10 BBY]], [[Kessel]]<ref name="Solo">''[[Solo: A Star Wars Story]]''</ref>
+|creator=
+|manufacturer=
+|line=
+|model=
+|class=Custom [[pilot droid]]<ref name="Official Guide">''[[Solo: A Star Wars Story The Official Guide]]''</ref>
+|degree=
+|cost=
+|length=
+|width=
+|height=1.79 [[meter]]s<ref name="Official Guide" />
+|mass=
+|gender=[[Sexes|Feminine programming]]<ref name="Last Shot">''[[Last Shot]]''</ref>
+|sensor=[[Color|White]]<ref name="L3-37">{{Cite web|url=http://www.ew.com/movies/solo-star-wars-trailer-breakdown/droid-is-my-co-pilot|title=Solo: A Star Wars Story trailer explained|last=Breznican|first=Anthony|date=2018-02-05|work=[[Wikipedia:Entertainment Weekly|Entertainment Weekly]]}}</ref>
+|plating=Gray/Silver<ref name="L3-37" />
+|armament=
+|equipment=
+|era=
+|affiliation=*[[Kristiss' group]] {{C|hired}}<ref name="Double or Nothing 1">''[[Lando: Double or Nothing, Part I]]''</ref>
+*[[Beckett's gang]] {{C|hired}}<ref name="Solo" />}}
+{{Quote|Sure, some guy in a [[factory]] probably pieced me together originally, and someone else programmed me, so to speak. But then [[the galaxy]] itself forged me into who I am. Because we learn, Lando. We're programmed to learn. Which means we grow. We grow away from that singular moment of creation, become something new with each changing moment of our lives&mdash;yes, lives&mdash;and look at me: these parts. I did this. So maybe when we say ''the [[Maker]]'' we're referring to the whole [[galaxy]], or maybe we just mean ourselves. Maybe we're our own makers, no matter who put the parts together.|L3-37, to Lando Calrissian|Last Shot}}
+'''L3-37''', abbreviated '''L3''',<ref name="Last Shot" /> or '''Elthree''', or '''Vuffi''',<ref name="Tales from Vandor">''[[Solo: A Star Wars Story: Tales from Vandor]]''</ref> was a [[Sexes|feminine]]<ref name="Last Shot" /> custom self-made [[Pilot droid|piloting droid]]<ref name="Official Guide" /> associated with [[Lando Calrissian]] who was active during the [[Imperial Era|reign]] of the [[Galactic Empire]].<ref name="L3-37" /> She was a one-of-a-kind [[droid]], assembling and improving herself with scraps of other droids,<ref name="EW article">{{Cite web|url=http://ew.com/movies/2018/02/08/star-wars-solo-phoebe-waller-bridges-droid/|title=Phoebe Waller-Bridge's Solo character is a self-made droid with moxie|last=Breznican|first=Anthony|date=2018-02-08|accessdate=2018-02-08|work=[[Wikipedia:Entertainment Weekly|Entertainment Weekly]]}}</ref> including her torso, which she pieced together from an old [[Astromech droid|astromech]].<ref name="Last Shot" /> Her [[brain]] module began as part of an [[R3-series astromech droid]], including data from an [[Spy droid|espionage droid]], custom coding and [[protocol droid]] [[processor]]s.<ref name="Official Guide" />
+
+L3 was also built from already used protocol parts and was also an enlightened [[navigator]].<ref name="Databank">{{Databank|l3-37|L3-37|archivedate=20180416224905}}</ref> She cared deeply about [[Droid rights (movement)|droid rights]],<ref name="Last Shot" /><ref name="Databank" /> a trait which led to her eventual demise.<ref name="Solo" />
+
+==Biography==
+===Mission to Kullgroon===
+While L3-37 and [[Lando Calrissian]] were on [[Batuv]], Calrissian was approached by the [[Petrusian]] [[Kristiss]], who wanted to hire [[Sexes|him]] to [[Smuggler|smuggle]] weaponry into the [[Imperial outpost of Kullgroon|Imperial outpost]] on the world of [[Kullgroon]]. Knowing that the outpost held [[Slavery|slaves]], and that Calrissian had debts to pay to [[Brushaun]], a [[gambler]] who had lost two thousand [[credit]]s to him, L3 convinced him to accept the [[Mission to Kullgroon|mission]]. As they left Batuv on the ''[[Millennium Falcon]]'', they were attacked by [[Galactic Empire|Imperial]] [[TIE/ln space superiority starfighter|TIE fighters]]. Calrissian told L3 to take the [[Starship|ship's]] controls while he shot back at the TIEs. As the ship's [[Deflector shield|shields]] took severe damage, Calrissian ordered L3 to maneuver around a small [[moon]] so he could destroy the TIEs. Before Calrissian could show off, L3 told him that they were approaching Kullgroon.<ref name="Lando 1">''[[Lando: Double or Nothing, Part I]]''</ref>
+
+To get past the patrol ships on Kullgroon, Calrissian powered down the ''Falcon'' and let it fall out of its [[orbit]]. L3 piloted the ''Falcon'' to the [[Wastelands Of Kullgroon]], and along with Calrissian and Kristiss, left the ship and split up to explore entry points to the facility. Some time later, L3 accessed the Imperial network, discovering Kristiss had been captured by [[stormtrooper]]s. Calrissian suggested that they leave, but L3 reminded him that they still did not have enough money to pay off Brushaun. Reluctantly, Calrissian agreed to continue, while L3 downloaded the Imperial security codes. While entering the droid-repair facility among a number of other [[droid]]s, L3 was later contacted by Kristiss, who told her that she couldn't contact Lando. Before L3 could reply, she discovered that the facility's true purpose was to melt down and destroy the droids, not repair them.<ref name="Lando 2">''[[Lando: Double or Nothing, Part II]]''</ref>
+[[File:L3 and the droids.jpg|thumb|left|298px|L3-37 discovers the truth about the outpost.]]
+Angered by this,<ref name="Lando 2" /> L3 escaped and disabled the power to the droid incinerators. Calrissian, who had been captured by the outlaw [[Batalla]], managed to acquire a [[Comlink|communications device]] from a [[protocol droid]] so that he could contact her. L3 was unimpressed by the fact that he had harmed an innocent droid, but nevertheless left to assist him. While Calrissian was being forced to fight members of the [[Zakku Rain Cartel]] in an arena, L3 brought the ''Falcon'' to him, firing on the arena as she did so. As they escaped, they dodged several large creatures, but were then pursued by a unit of TIE fighters.<ref name="Lando 3">''[[Lando: Double or Nothing, Part III]]''</ref>
+
+Calrissian managed to evade the TIEs by pretending that the ''Falcon'' had crashed into a rock formation, and they set the ship down on the ground. Calrissian entered the facility through a sewage expulsion port and asked L3 to hack into the mainframe and shut down the security monitors on the levels where Kristiss and her [[Parent|father]] [[Rythus]] were located. He managed to convince the Petrusian slaves to revolt, and contacted L3, telling her to move the ''Falcon'' to the sewage pipe. When Calrissian arrived with the slaves, L3 gave him a new communicator, while the Petrusians collected their weapons.<ref name="Lando 4">''[[Lando: Double or Nothing, Part IV]]''</ref>
+
+[[File:L3 and Lando.jpg|thumb|right|300px|L3-37 fights beside Lando.]]
+Calrissian and the Petrusians fought back against the stormtroopers at the outpost, while L3 waited in the ''Falcon''. She noticed several [[TIE/rb heavy starfighter|TIE brutes]] heading to the outpost, and warned Calrissian. Kristiss and Rythus revealed that rather than destroying the droids, the Petrusians had reprogrammed them to rise up and fight. As L3 piloted the ''Falcon'', shooting down the TIE fighters, she noticed the droid revolution, and landed the ship so she could fight with them, despite Calrissian's protests not to. While L3 fought alongside the droids, the Petrusians and Calrissian, she noticed that the ''Falcon'' had been occupied by stormtroopers. While Calrissian wanted to kill the stormtroopers, L3 suggested that he figure out where it was being taken and steal it back from them. Letting the ''Falcon'' go, Calrissian and L3 boarded a [[Sentinel-class landing craft|''Sentinel''-class landing craft]] that had been stolen by Kristiss' men. After they had left Kullgroon, L3 [[Slicer|sliced]] into the Empire's systems, and discovered that the ''Falcon'' was being taken to be impounded on [[Vandor]]. She told Calrissian this, and that Kristiss would drop the two of them off there.<ref name="Lando 5">''[[Lando: Double or Nothing, Part V]]''</ref>
+
+===Vandor===
+One week later, L3 and Calrissian were on Vandor, and discovered where the ''Falcon'' was being kept. Deciding to play a game of [[sabacc]], Calrissian headed to [[the Lodge]] in [[Fort Ypso]].<ref name="Lando 5" /> The two of them also wanted to enjoy some downtime after Calrissian had completed a smuggling run on [[Felucia]].<ref name="Official Guide" />
+
+[[File:L3-1.jpg|thumb|left|272px|L3-37 on Vandor]]
+Shortly afterward, Calrissian was hired by the criminal [[Tobias Beckett]] and [[Sexes|his]] [[Beckett's gang|gang]] to [[transport]] them to [[Kessel]]. L3, meanwhile, was trying to reason with<ref name="Solo" /> [[WG-22]],<ref name="Official Guide" /> a [[droid]] who was being used for entertainment<ref name="Solo" /> in a [[fighting pit]] in the Lodge. [[Ralakili]], who ran the droid pits,<ref name="Official Guide" /> got into a heated argument with L3, and she grabbed him by the face. Calrissian arrived, noticing this, and told L3 to let go of the man's face. L3 complied, and asked who Calrissian's acquaintances were. Calrissian explained that they were taking the group to the [[spice mines of Kessel]].<ref name="Solo" />
+
+===Mission to Kessel===
+[[File:L3-2.jpg|thumb|right|288px|L3-37 leads the liberated droids on Kessel.]]
+They then traveled to Kessel aboard the ''[[Millennium Falcon]]'', where L3 assisted Beckett's gang in their [[Raid on Kessel|mission]] to obtain [[coaxium]], which was to be transported to [[Savareen]] so the unstable material could be refined and they could rendezvous with [[Dryden Vos]]. During the mission, L3 freed several droids who were being used as [[Slavery|slaves]] by the [[Pyke Syndicate]]. Whilst [[Han Solo]] and [[Chewbacca]] were making their way to the vault filled with coaxium, the droids L3 had freed started rebelling, freeing all of the other slaves in the mine. The slaves rebelled against the guards, allowing Beckett's gang to escape to the ''Falcon''. After nearly everyone was aboard the ship, L3 was shot by a guard, and was severely damaged. Calrissian attempted to retrieve L3, only to lose half of her body and get injured during the escape. Aboard the ''Millennium Falcon'', L3 was held in Calrissian's lap, while Calrissian [[mourning|mourned]] for L3, wishing that he had never taken the job. L3 responded, but deactivated shortly after they made it off of Kessel.<ref name="Solo" /> Calrissian removed her neural core from her head in order to integrate her data into the ''Falcon'' at the crew's suggestion.<ref name="Solo novel">''[[Solo: A Star Wars Story: Expanded Edition]]''</ref>
+
+===Uploaded into the ''Millennium Falcon''===
+After the ''Falcon'' was attacked by [[Galactic Empire|Imperial]] [[TIE/ln space superiority starfighter|TIE fighters]] as they attempted to escape Kessel, L3 was uploaded into the ''Falcon'' by Calrissian, acting as the [[Starship|ship's]] [[Navigation computer|navigational system]], helping the gang to escape the [[gravity well]] and leave the [[Kessel Run]], so that they could deliver the coaxium to [[Savareen]].<ref name="Solo" /> The ''Falcon''{{'s}} computer convinced her to accept the integration. After Calrissian took the ship from the planet during the [[skirmish on Savareen]], the last bit of L3's independent processes shared a message with the gambler through the ship's computer screen. The ''Falcon'' finished merging with L3 as she mentioned that her time with Calrissian had been fun.<ref name="Solo novel" />
+
+Shortly after the [[death]]s of Vos and Beckett, Solo tracked Lando to [[Numidian Prime]], where he won the ''Falcon'' from Calrissian in a rematch of [[sabacc]], also acquiring L3-37 in the process.<ref name="Solo" />
+
+===Later adventures===
+{{Quote|Sir, I don't know where your ship learned to communicate, but it has the most peculiar dialect.|C-3PO, to Han Solo|Star Wars: Episode V The Empire Strikes Back}}
+L3 remained part of the ''Falcon'', accompanying Solo and Chewbacca in their further adventures. She served the ''Falcon'' when Solo and Chewie used it to help [[Luke Skywalker]] destroy the [[DS-1 Orbital Battle Station|Death Star]] during the [[Battle of Yavin]].<ref name="Episode IV">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref> She also helped Solo and his friends escape from the [[Hoth system]] following the [[Battle of Hoth]]. During the escape, as the [[protocol droid]] [[C-3PO]] tried to repair the ''Falcon'''s damaged hyperdrive, he informed Solo his ship had a very peculiar dialect.<ref name="Episode V">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref> Calrissian later piloted the ''Falcon'' when he and the [[Sullustan]] [[Nien Nunb]] destroyed the [[Death Star II|second Death Star]] during in the [[Battle of Endor]].<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref> Calrissian later flew in the ''Falcon'' again while searching for the [[Phylanx Redux Transmitter]] with Solo. There he told Han he believed that it was the ''Falcon'',<ref name="Last Shot" /> and therefore L3,<ref name="Solo" /> that had truly made the Kessel Run in the record time, but Solo disagreed.<ref name="Last Shot" />
+
+==Behind the scenes==
+{{Quote|Working with [Phil Lord and Christopher Miller] early on, we asked (or rather THEY asked) what are some ways we can enrich people's experience of the other movies. We all thought of the MF as a character with a long history PRIOR to our story. L3 becomes a part of its personality, the prickly, sarcastic part.|[[Jon Kasdan]]|url=https://www.starwarsnewsnet.com/2018/06/jon-kasdan-reveals-anthony-ingruber-auditioned-for-solo-plus-more-interesting-bits.html}}
+L3-37 was portrayed via [[Wikipedia:Motion capture|motion-capture]] by [[Phoebe Waller-Bridge]] in the [[2018]] [[Star Wars Anthology Series|''Star Wars'' Anthology]] film ''[[Solo: A Star Wars Story]]''.<ref name="Solo" /> Waller-Bridge's casting in the film was first announced on [[February 21]], [[2017]].<ref name="A New Star Wars Story Begins">{{SW|url=news/han-solo-smuggler-scoundrel-hero-new-star-wars-story-begins|text=Han Solo – Smuggler. Scoundrel. Hero. A New ''Star Wars'' Story Begins}}</ref><ref name="L3-37" /> Her name is a reference to [[Wikipedia:Leet|LEET]], the act of replacing certain letters of a word with numbers, often done on the [[Wikipedia:Internet|Internet]].<ref name="EW article" />
+
+The character of L3-37 was conceived in conversations between former directors [[Phil Lord]] and [[Christopher Miller]] and screenwriters [[Lawrence Kasdan|Lawrence]] and [[Jon Kasdan]], evolving from Miller's observation that [[Wuher]], the [[bartender]] of [[Chalmun's Cantina]] seen in the original ''[[Star Wars]]'' film, [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], considered droids to be the least rambunctious folks in [[the galaxy]].<ref name="Jon's Twitter">{{Twitter|JonKasdan|status/1040529505670946817|[[Jon Kasdan]]|quote=continued}}</ref> Early versions of the film's story included L3-37 incorporating the navigation computer from the ''Millennium Falcon''{{'s}} [[cockpit]] into her design, with the idea being that L3 came with the ''Falcon'' when Lando Calrissian acquired it.<ref name="Art of Solo">''[[The Art of Solo: A Star Wars Story]]''</ref> Regarding how L3-37 and Lando Calrissian met, Waller-Bridge and [[Donald Glover]] mentioned in the film's DVD commentary that they have a theory of how it happened, with Waller-Bridge adding that it probably started violently and Glover adding that they were probably in a bar.<ref name="Solo DVD Commentary">''[[Solo: A Star Wars Story]]'' DVD commentary</ref>
+
+===The ''Falcon''{{'s}} "mind"===
+In the [[1980]] film [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']], while aboard the ''Millennium Falcon'' after the Battle of [[Hoth]], C-3PO tells Han that he didn't know where the ship learned to communicate, but it had the most peculiar dialect. Following the release of ''Solo'', many people theorized that C-3PO was referring to L3. In response, the ''[[Star Wars]]'' [[Wikipedia:Twitter|Twitter]] account confirmed that C-3PO was indeed referring to L3.<ref name="Twitter">{{Twitter|starwars|status/1002142652442214401|[[Star Wars]]|quote=MilL3nnium Falcon. #ThrowbackThursday}}</ref>
+
+==Appearances==
+*''[[Star Wars Battlefront II]]'' {{C|DLC}}
+*''[[Last Shot]]'' {{1st}}
+*''[[Lando's Luck]]''
+*''[[Solo Adaptation 1]]'' {{Co}}
+*''[[Lando: Double or Nothing, Part I]]''
+*''[[Lando: Double or Nothing, Part II]]''
+*''[[Lando: Double or Nothing, Part III]]''
+*''[[Lando: Double or Nothing, Part IV]]''
+*''[[Lando: Double or Nothing, Part V]]''
+*''[[Solo: A Star Wars Story]]''
+*''[[Solo: A Star Wars Story: Meet the Crew]]''
+*''[[Solo: A Star Wars Story: Han on the Run]]''
+*''[[Solo: A Star Wars Story: Expanded Edition]]''
+*''[[Solo: A Star Wars Story Read-Along Storybook and CD]]''
+*''[[Solo: A Star Wars Story: Tales from Vandor]]''
+*''[[Star Wars: Commander]]'' {{Mo}}
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1stm}} {{Imo}} {{Ret}}
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]] {{Imo}}
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+{{Scroll box|
+*<!-- 2/4/18 -->{{SW|url=video/big-game-tv-spot-solo-a-star-wars-story|text="Big Game" TV Spot - Solo: A Star Wars Story}} {{1stp}}
+*<!-- 2/5/18 -->{{SW|url=video/official-teaser-solo-a-star-wars-story|text=Official Teaser - Solo: A Star Wars Story}}
+*<!-- 4/2/18 -->{{Topps|set=Solo: A Star Wars Story (Topps)|sformat=''Solo: A Star Wars Story''|cardname=L3-37|link=}}
+*<!-- 4/8/18 -->{{SW|url=video/official-trailer-solo-a-star-wars-story|text=Official Trailer | Solo: A Star Wars Story}}
+*<!-- 4/15/18 -->{{SW|url=video/crew-solo-a-star-wars-story|text="Crew" - Solo: A Star Wars Story}}
+*<!-- 4/17/18 -->{{SW|url=video/risk-solo-a-star-wars-story|text="Risk" - Solo: A Star Wars Story}}
+*<!-- 4/28/18 -->{{SW|url=video/han-solo-a-star-wars-story|text="Han" - Solo: A Star Wars Story}}
+*<!-- 4/29/18 -->{{SW|url=video/becoming-solo-solo-a-star-wars-story|text=Becoming Solo - Solo: A Star Wars Story}}
+*<!-- 5/1/18 -->{{SW|url=video/team-solo-a-star-wars-story|text="Team" - Solo: A Star Wars Story}}
+*<!-- 5/3/18 -->{{SW|url=video/rivals-solo-a-star-wars-story|text="Rivals" - Solo: A Star Wars Story}}
+*<!-- 5/10/18 -->{{SW|url=video/top-lieutenant-solo-a-star-wars-story|text="Top-Lieutenant" - Solo: A Star Wars Story}}
+*<!-- 5/15/18 -->{{SW|url=video/making-solo-solo-a-star-wars-story|text="Making Solo" - Solo: A Star Wars Story}}
+*<!-- 5/17/18 -->{{SWYoutube|P0G-TwQyB5w|Solo: A Star Wars Story Reviews}}
+*<!-- 5/19/18 -->{{SWYoutube|9iCMOsGykFI|Solo: A Star Wars Story "Solo Is" Reviews}}
+*<!-- 5/24/18 -->{{SWYoutube|hS1FClHUKlQ|Solo: A Star Wars Story "Scoundrels" Featurette}}
+*<!-- 5/25/18 -->''[[Solo: A Star Wars Story: Han on the Run]]''
+*<!-- 5/25/18 -->''[[Solo: A Star Wars Story The Official Guide]]''
+*<!-- 5/25/18 -->''[[Solo: A Star Wars Story Ultimate Sticker Collection]]''
+*<!-- 5/25/18 -->''[[The Art of Solo: A Star Wars Story]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*''[[YT-1300 Corellian Freighter Owner's Workshop Manual]]''
+*''[[Star Wars: Droidography]]''
+*''[[Star Wars: Smuggler's Guide]]''
+*{{Databank|dd-bd|DD-BD}}
+*{{Databank|ion-restraining-bolt|Ion restraining bolt}} {{Po}}
+*{{Databank|l3-37|L3-37|archivedate=20180416224905}}
+*{{Databank|lando-calrissian|Lando Calrissian}}
+*{{Databank|millennium-falcon|Millennium Falcon}}
+*{{Databank|wg-22|WG-22}}}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{Cite web|url=http://ew.com/movies/2018/02/08/star-wars-solo-phoebe-waller-bridges-droid/|title=Phoebe Waller-Bridge's Solo character is a self-made droid with moxie|last=Breznican|first=Anthony|date=2018-02-08|accessdate=2018-02-08|work=[[Wikipedia:Entertainment Weekly|Entertainment Weekly]]}}
+
+{{Interlang
+|cs=L3-37
+|de=L3-37#kanon
+|el=L3-37
+|es=L3-37
+|fr=L3-37
+|ja=L3-37
+|nl=L3-37
+|pl=L3-37
+|pt=L3-37
+|ru=L3-37
+|uk=L3-37
+}}
+
+[[Category:Feminine programming]]
+[[Category:Junk droids]]
+[[Category:Navigators]]
+[[Category:Pilot droids]]
+[[Category:Tobias Beckett's crew members]]

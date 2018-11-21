@@ -1,0 +1,77 @@
+{{Eras}}
+{{Character
+|type=Galactic Empire
+|image=
+|name=Dodd Rancit
+|homeworld=[[Outer Rim Territories]]<ref name="Tarkin">''[[Tarkin (novel)|Tarkin]]''</ref>
+|birth=
+|death=[[14 BBY]], [[Carida system]]<ref name="Tarkin" />
+|species=[[Human]]<ref name="Tarkin" />
+|gender=[[Sexes|Male]]<ref name="Tarkin" />
+|height=
+|mass=
+|hair=[[Color|Black]]<ref name="Tarkin" />
+|eyes=
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Tarkin" />
+**[[Republic Intelligence]]<ref name="Tarkin" />
+*[[Galactic Empire]]<ref name="Tarkin" />
+**[[Naval Intelligence Agency]]<ref name="Tarkin" />
+**[[Imperial Officer Corps]]<ref name="Tarkin" />
+*[[Berch Teller's rebel cell]]<ref name="Tarkin" />
+|masters=
+|apprentices=}}
+{{Quote|Perhaps I should have made him a Moff, after all. He might have had a brilliant career, if ambition hadn't brought him down.|Emperor [[Darth Sidious|Palpatine]]|Tarkin (novel)}}
+'''Dodd Rancit''' was a [[human]] [[Sexes|male]] officer who served in the [[Naval Intelligence Agency]] of the [[Galactic Empire]], a position he had been appointed to personally by [[Galactic Emperor|Emperor]] [[Darth Sidious|Palpatine]]. However, he later ended up working with a [[Berch Teller's rebel cell|group of rebels]] that he hoped to use as a tool to improve his standing with the Emperor. Rancit's plot was discovered and he was executed for treason by the order of [[Anakin Skywalker|Darth Vader]].
+
+==Biography==
+===Clone Wars and early Imperial service===
+Dodd Rancit<ref name="Life Debt">''[[Aftermath: Life Debt]]''</ref> was [[Reproduction|born]] in the [[Outer Rim Territories|Outer Rim]] and attended the illustrious [[Prefsbelt Fleet Camp|academy]] at [[Prefsbelt IV|Prefsbelt]]. During the [[Clone Wars]], [[Sexes|he]] served the [[Galactic Republic]] as part of [[Republic Intelligence]]. In this role, he was the [[case officer]] that was responsible for supplying his old friend, [[Captain]] [[Wilhuff Tarkin]], with counterintelligence operatives to combat the [[Confederacy of Independent Systems|CIS]] [[Shadowfeed]]s. Another major assignment was the oversight of subcontractor [[Knotts]] and [[station chief]] [[Berch Teller]], both of whose roles were the support of partisans and resistance groups that operated on [[Planet|worlds]] occupied by the the Separatist Alliance, including [[Antar 4]].<ref name="Tarkin" />
+
+After the end of the war and the [[Proclamation of the New Order|transition]] into the [[Galactic Empire]], Rancit's first assignment was the command of [[Sentinel Base]], a remote outpost [[Project Stardust|supporting]] the construction of the [[DS-1 Orbital Battle Station|Death Star]] [[battle station]]. Later, he was removed from the Death Star project and transferred back to [[Coruscant]], replaced at Sentinel by now-[[Moff]] Wilhuff Tarkin. His many rivals enjoyed interpreting this as a demotion, despite being appointed to head the new [[Naval Intelligence Agency]] by [[Galactic Emperor]] [[Darth Sidious|Sheev Palpatine]] himself, with the rank of [[Vice Admiral]]. During this [[time]], he was often seen in the company of fellow-NIA Vice Admiral [[Terrinald Screed]], and developed hardened rivalries with other members of the [[Imperial Military]], especially [[Harus Ison]].<ref name="Tarkin" /> The-then NIA [[Commander]] [[Gallius Rax]], who was tasked with the execution of the Emperor's [[Contingency]] plan,<ref name="Empire's End">''[[Aftermath: Empire's End]]''</ref> submitted his reports directly to [[Wullf Yularen]]; bypassing Rancit and Screed in the chain of command.<ref name="Life Debt" />
+
+In the [[Standard year|years]] following the end of the war and the formation of the Empire, Rancit became extremely dissatisfied with the course his military career was taking. He felt pushed aside during his time as the commanding [[officer]] of Sentinel Base, despite its importance to the Imperial cause. His bitterness only grew when his old comrade Tarkin, now a Moff while he, Rancit, languished as an admiral, was given command of Sentinel and Rancit himself sent back to Intelligence.<ref name="Tarkin" />
+
+===Berch Teller campaign===
+Hatching a plot of vengeance against the Empire, and against [[Galactic Emperor|Emperor]] [[Darth Sidious|Palpatine]] and Tarkin in particular, Rancit arranged for his old Clone Wars subordinate Berch Teller, as well as his [[Berch Teller's rebel cell|crew of insurgents]] (the names of which he may have personally provided to Teller from ISB databases), to [[Attack on Sentinel Base|attack]] Sentinel Base and later [[Mission to Murkhana|steal]] Tarkin's personal [[Starship|ship]], the ''[[Carrion Spike]]'' from [[Murkhana]] and use it in a variety of [[Berch Teller campaign|anti-Imperial activities]]. Rancit managed to convince the Emperor to divert substantial Imperial military resources to defending Imperial facilities in the [[Perlemian Trade Route]] and [[Hydian Way]]. While this won him the Emperor's favor, it enabled the dissidents to plan an attack on an Imperial convoy ferrying supplies to the Death Star. In addition, Rancit secretly planned to [[Treason|betray]] Teller and his crew and destroy the ''Carrion Spike'' at [[Carida]], in the hopes of earning himself a promotion and improving his standing with Palpatine.<ref name="Tarkin" />
+
+Teller however had figured out that Rancit was not trustworthy and instead had abandoned the ''Carrion Spike'', sending it on [[autopilot]] towards the [[Imperial Navy|Imperial fleet]] at Carida, in order to take a [[Berch Teller's warship|cobbled-together warship]] to [[Battle near the Gulf of Tatooine|attack]] a supply convoy en route to Sentinel Base from [[Desolation Station]] in the hopes of delaying construction of the Death Star, intending to leave Rancit holding the bag. Rancit, unaware of Teller's counter-betrayal, was aboard the [[Secutor-class Star Destroyer|''Secutor''-class Star Destroyer]] ''[[Conquest]]'' at Carida, and ordered its [[Unidentified Imperial commander (Conquest)|commander]] to fire upon the ''Carrion Spike'' as soon as it emerged from [[hyperspace]].<ref name="Tarkin" />
+
+[[Anakin Skywalker|Darth Vader]] arrived with [[Lieutenant]] [[Crest]] and a contingent of [[stormtrooper]]s to arrest Rancit, preventing the ''Conquest'' from destroying Tarkin's ship. After proving to Rancit that the ''Carrion Spike'' was empty by scanning it for lifeforms in order to prove to the Vice Admiral that his erstwhile allies had double-crossed him before ''he'' could double-cross ''them'', Vader ordered Crest to take Rancit and load him into an [[escape pod]], then shoot him into [[Realspace|space]].<ref name="Tarkin" />
+
+As he was taken away, Rancit defiantly told Vader he wouldn't beg for mercy. Unmoved, Vader simply replied that it wouldn't make a difference if he did. The Vice Admiral's punishment was carried out without delay, with the added humiliation that Rancit was made to issue one final order to the ''Conquest''&mdash;to fire on his own escape pod and [[Death|kill]] him, which he did.<ref name="Tarkin" />
+
+===Legacy===
+Rancit's betrayal was the main reason that led to the end of Naval Intelligence as an independent agency, being folded into [[Imperial Intelligence]] and headed by Rancit's rival, [[Colonel]] [[Wullf Yularen]] of the [[Imperial Security Bureau]]. His demise ironically benefited many of his other contemporary rivals as well; with Ison promoted into the [[Ubiqtorate]] and [[Nils Tenant]] elevated to the [[Joint Chiefs]], along with similar promotions for [[Cassio Tagge]] and [[Conan Antonio Motti]].<ref name="Tarkin" />
+
+The details of Rancit's treason and death were kept a closely guarded secret from his colleagues in Naval Intelligence on direct orders from Palpatine, so that he couldn't be martyred.<ref name="Tarkin" /> After Rancit's demise, it was said that he perished in an attack by the [[Alliance to Restore the Republic|Rebel Alliance]], though the true circumstances regarding his death&mdash;that Vader had killed him for treason&mdash;circulated as rumors.<ref name="Life Debt" />
+
+==Personality and traits==
+Unlike many of his more-reclusive contemporaries in the Imperial hierarchy, Rancit was very much familiar in the social circles of Coruscant, known to be a lover of art and of the [[Coruscant Opera]]. This fact did much to mask his covert operations, both for and against the Empire. He was considered friends with fellow-NIA Vice Admiral Terrinald Screed as well as Moff Wilhuff Tarkin, despite secretly resenting the latter's success. Rancit was inwardly jealous of Tarkin's and others' career advances, a feeling that would eventually fester into concealed hatred.<ref name="Tarkin" />
+
+==Appearances==
+*''[[Tarkin (novel)|Tarkin]]'' {{1st}}
+*''[[Aftermath: Life Debt]]'' {{Hologram}} {{1stID|Dodd}}
+
+==Sources==
+*{{Databank|death-star|Death Star|archivedate=20170703151616}}
+*{{Databank|grand-moff-tarkin|Grand Moff Tarkin|archivedate=20170728054701}}
+
+==Notes and references==	
+{{Reflist}}
+
+{{Interlang
+|de=Dodd Rancit#kanon
+|fr=Dodd Rancit
+|ja=ドッド・ランシット
+|deFA=1
+|ru=Додд Рансит
+}}
+
+{{DEFAULTSORT:Rancit, Dodd}}
+[[Category:Humans]]
+[[Category:Imperial Navy admirals of the Galactic Empire]]
+[[Category:Males]]
+[[Category:Naval Intelligence Agency personnel]]

@@ -1,0 +1,59 @@
+{{Eras}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Admiral Screed MoM.png]]
+|name=Terrinald Screed
+|homeworld=
+|birth=
+|death=Sometime before the [[Liberation of Kashyyyk|liberation]] of [[Kashyyyk]]<ref name="Life Debt">''[[Aftermath: Life Debt]]''</ref>
+|species=[[Human]]<ref name="Tark">[[Tarkin (novel)|''Tarkin'']]</ref>
+|gender=[[Sexes|Male]]<ref name="Tark" />
+|height=
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=[[Cybernetics|Cybernetic]] [[eye]]<ref name="Tark" />
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="Tark" />
+**[[Naval Intelligence Agency]]<ref name="Tark" />
+**[[Imperial Officer Corps]]<ref name="Tark" />
+|masters=
+|apprentices=}}
+{{Quote|When last we left Admiral Screed, the navy had driven the Iska pirates from Fanha and smashed them at Tosste.|[[Colonel]] [[Julyan]], during a Strategy and Tactics lecture|Servants of the Empire: The Secret Academy}}
+'''Terrinald Screed''' was a [[human]] [[Sexes|male]] who served the [[Galactic Empire]] as an [[Imperial officer|officer]] of the [[Imperial Navy]], along with being a high-ranking member of the [[Naval Intelligence Agency]], in the [[Standard year|years]] following the end of the [[Clone Wars]]
+
+==Biography==
+At some point during the [[Clone Wars]], Terrinald Screed lost [[Sexes|his]] [[eye]] and had it replaced with a [[Cyborg|cybernetic]] one.<ref name="Tark" />
+
+By [[14 BBY]], five [[Standard year|years]] after the end of the war and the [[Proclamation of the New Order|transition]] into the [[Galactic Empire]], [[Vice Admiral]] Screed had joined the [[Naval Intelligence Agency]] and occupied a high position in its hierarchy. He was present alongside other Imperial [[Imperial officer|officers]], including fellow Naval Intelligence [[officer]] Vice Admiral [[Dodd Rancit]] on [[Coruscant]] when [[Moff]] [[Wilhuff Tarkin]] arrived to give his report about the [[Attack on Sentinel Base|attack]] on [[Sentinel Base]].<ref name="Tark" />
+
+Along with Rancit, he requested a meeting of the [[Joint Chiefs]] following another rebel [[Attack on Galidraan Station|attack]] on [[Galidraan Station]], and argued that the [[Berch Teller's rebel cell|rebel cell]] posed a much more serious threat than was believed by [[Imperial Security Bureau|ISB]] [[Deputy Director]] [[Harus Ison]]. However, he was proven wrong in his prediction that the next target would be [[Nam Chorios]], instead of [[Lucazec]]. He was again duped when it was discovered by Tarkin and [[Anakin Skywalker|Darth Vader]] that his colleague Rancit had been a [[Treason|traitor]] cooperating with the rebels the whole time, having fooled both him and Ison, although this information was kept secret from Screed and others in Naval Intelligence.<ref name="Tark" />
+
+At some point, Screed was later promoted to [[admiral]], and he led forces of the [[Imperial Navy]] in [[Battle of Fanha|driving]] the [[Iska pirates]] from [[Fanha]] before decisively [[Battle of Tosste|defeating]] them at [[Tosste]]. This feat was remarkable enough that it became mandated learning in [[Imperial Academy|Imperial Academies]], including the [[Arkanis Academy|one]] on [[Arkanis]].<ref name="TSA">''[[Servants of the Empire: The Secret Academy]]''</ref> At some point before the [[Liberation of Kashyyyk|Liberation]] of [[Kashyyyk]], he was [[Death|killed]] by [[pirate]]s off the [[Iktari Circle]].<ref name="Life Debt" />
+
+==Appearances==
+*''[[Tarkin (novel)|Tarkin]]'' {{1st}}
+*''[[Servants of the Empire: The Secret Academy]]'' {{Mo}}
+*''[[Aftermath: Life Debt]]'' {{Hologram}} {{1stID|Terrinald}}
+
+==Sources==
+*{{FFGTCG|set=Meditation and Mastery|cardname=Admiral Screed|link=opposition-cycle/meditation-and-mastery/admiral-screed-r1840}} {{1stp}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Terrinald Screed
+|ja=テリナルド・スクリード
+|pt=Screed
+|ru=Терринальд_Скрид/Канон
+|es=Terrinald Screed
+}}
+
+{{DEFAULTSORT:Screed, Terrinald}}
+[[Category:Cyborgs]]
+[[Category:Humans]]
+[[Category:Imperial Navy admirals of the Galactic Empire]]
+[[Category:Males]]
+[[Category:Naval Intelligence Agency personnel]]

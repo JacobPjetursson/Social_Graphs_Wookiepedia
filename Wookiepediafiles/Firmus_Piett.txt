@@ -1,0 +1,119 @@
+{{Eras}}
+{{Cleanup}}
+{{Update|[[Star Wars: The Rebel Files]]}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Admiral piett.png]]
+|name=Firmus Piett
+|homeworld=[[Axxila]]<ref name="USW">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[4 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> ''[[Executor]]'', [[Endor system]]<ref name="ROTJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|species=[[Human]]<ref name="Databank">{{Databank|admiral-piett|Admiral Piett|archivedate=20170623041911}}</ref>
+|gender=[[Sexes|Male]]<ref name="Databank" />
+|height=1.73 [[meter]]s<ref name="CE Updated">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|mass=
+|hair=[[Color|Brown]]<ref name="ROTJ" />
+|eyes=Hazel<ref name="ROTJ" />
+|skin=Light<ref name="ROTJ" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="TESB">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+**[[Death Squadron]]<ref name="TESB" />
+**[[Fleet Command (Galactic Empire)|Fleet Command]]<ref name="Rebel Files">''[[Star Wars: The Rebel Files]]''</ref>
+**[[Imperial Officer Corps]]<ref name="TESB" />
+|masters=
+|apprentices=}}
+{{Quote|Don't fail me again&hellip; ''Admiral''.|Darth Vader, to Firmus Piett|Star Wars: Episode V The Empire Strikes Back}}
+'''Firmus Piett''', a [[human]] [[Sexes|male]] [[Homeworld|native]] to [[Axxila]], was an [[Imperial officer]] who served in the [[Imperial Navy|naval forces]] of the [[Galactic Empire]] during the [[Galactic Civil War]]. At the [[time]] of the [[Battle of Hoth]], he served as [[Captain|first officer]] of the [[Star Dreadnought]] ''[[Executor]]''&mdash;[[flagship]] of the [[Sith Lord]] [[Anakin Skywalker|Darth Vader]]&mdash;assisting [[Admiral]] [[Kendal Ozzel]]. After Ozzel committed a [[Death|fatal]] mistake during the hunt for the [[Alliance to Restore the Republic|Rebel Alliance]], Piett was promoted to admiral and given command of Vader's flagship. Piett served in that capacity until the [[Battle of Endor]], where he served as a [[Fleet Admiral]], when the Imperial [[Navy]] confronted the [[Alliance Fleet|Rebel Fleet]] around the [[Death Star II|second Death Star]] [[battle station]] in the [[Standard year|year]] [[4 ABY]]. The admiral perished aboard his [[starship]] when [[Arvel Crynyd|Arvel Crynyd's]] [[RZ-1 A-wing interceptor|A-wing starfighter]] crashed into the ''Executor''{{'}}s [[Bridge (starship)|bridge]].
+
+==Biography==
+===Early life and career===
+{{Quote|You see, Piett? We should never hesitate to use the lash, when necessary&mdash;but there are moments when the lure is even more effective.|Grand Moff Tarkin, to Firmus Piett|Lost Stars}}
+[[Reproduction|Born]] a [[Sexes|male]] [[human]], Firmus Piett hailed from [[Axxila]], a [[planet]] located in the [[Outer Rim Territories]] of [[the galaxy]]. At some point, Piett joined the [[Imperial Navy|starfleet]] of [[Darth Sidious|Palpatine's]] [[Galactic Empire]], and rose through the ranks.<ref name="USW" /> As a junior [[Imperial officer|officer]] under the command of [[Grand Moff]] [[Wilhuff Tarkin]], he attended the planet [[Jelucan]]'s introduction ceremony into the Galactic Empire, following its conquest eight [[Standard year|years]] after the [[Clone Wars]].<ref name="Lost Stars">''[[Lost Stars]]''</ref>
+
+===Search for the Rebels===
+By [[3 ABY]],<ref name="Galactic Atlas" /> Piett had been made a [[captain]]. He was stationed on the ''[[Executor]]'', a [[Executor-class Star Dreadnought|Super Star Destroyer]] that acted as the [[flagship]] of [[Anakin Skywalker|Darth Vader]], the right-hand man of [[Galactic Emperor|Emperor]] Sheev Palpatine himself. The mission of Vader's personal [[fleet]] of [[Star Destroyer]]s, the [[Death Squadron]], was to search the galaxy for the Rebel Alliance's secret base.<ref name="TESB" />
+
+On the ''Executor'', Piett was subordinate to [[Admiral]] [[Kendal Ozzel]], whom he saw as a pompous and incompetent officer.<ref name="Databank" /> Piett was notably tasked with collecting and analyzing data sent by Imperial [[probe droid]]s looking for traces of the Rebels. When information came in from a probe exploring the [[Hoth system]], Piett called out to Admiral Ozzel while Vader was present on the bridge. Vader recognized the information as a solid lead on the location of the Rebel headquarters, and he ordered the Death Squadron to set course for the icy world of [[Hoth]].<ref name="TESB" />
+
+===Admiralty===
+{{Dialogue|Ozzel|Lord Vader, the fleet has moved out of lightspeed, and we're preparing to...|Darth Vader|You have failed me for the ''last time'', Admiral.  Captain Piett.|Firmus Piett|Yes, my Lord.|Darth Vader|Make ready to land our troops beyond their energy shield and deploy the fleet so that nothing gets off the system. You are in command now, ''Admiral'' Piett.|Firmus Piett|Thank you, Lord Vader.|attr=Firmus Piett's promotion|src=Star Wars: Episode V The Empire Strikes Back}}
+[[File:Ozzel croaks.jpg|thumb|left|250px|Piett receives his promotion to admiral]]
+However, Admiral Ozzel made a complete mess of the Death Squadron's approach to Hoth, taking the ships out of [[hyperspace]] too close to the system. As the Rebels were now aware of the Empire's presence, they were able to erect a [[Deflector shield|defense shield]] over [[Echo Base|their base]], preventing any orbital bombardment. Captain Piett stood at Ozzel's side when Darth Vader [[force choke]]d the admiral. With Ozzel dead, the Emperor's right-hand man promoted Captain Piett to admiral at that moment. Piett's first action as an admiral of the Imperial Navy was to order the disposal of his predecessor's corpse.<ref name="TESB" />
+
+Thanks to the intervention of [[General]] [[Maximillian Veers|Veers]]' [[Walker|ground force]], the Empire managed to get the upper hand on Hoth, forcing the Rebels to evacuate. Despite the orbital blockade imposed by the Death Squadron, many enemy ships managed to fall through the cracks. Subsequently, Admiral Piett was ordered to track one of the fleeing ships, the ''[[Millennium Falcon]]''. With that vessel and its crew of [[Han Solo]], [[Leia Organa]], [[C-3PO]], and [[Chewbacca]] as bait, Vader was confident he could lure [[Luke Skywalker]] into a trap.<ref name="TESB" />
+
+Under Piett's command, the ''Executor'' then engaged in the pursuit of the ''Millennium Falcon''.<ref name="TESB" /> One of the bridge crew that served under his command during the pursuit was [[Lieutenant Commander]] [[Ciena Ree]].<ref name="Lost Stars" /> When it transpired that the Rebel craft was hiding in the Hoth system's asteroid field, the admiral was concerned that debris would cause significant damage to Death Squadron's vessels. Vader, however, ignored Piett's advice, ordering the fleet to enter the asteroid field. True to his words, the asteroid field brutally punished the Imperial fleet with repeated meteor impacts, destroying at least one Star Destroyer and causing significant damage. In a holographic conference with Vader and the commanders of the other Destroyers, one of whom was killed during the meeting when his Destroyer was obliterated, Captain Needa voiced his belief that the rebel ship must logically have been destroyed considering the damage they had taken, but Vader insisted that they were still alive and ordered him to keep searching. Shortly thereafter, Piett joined the conference after receiving word that Emperor Palpatine himself demanded to speak with his right hand man, informing Vader. On Vader's orders, he moved the ''Executor'' out of the asteroid field, in hopes of sending a clear transmission.<ref name="TESB" />
+
+[[File:ThreeNaziAmigos-ESB.jpg|thumb|right|200px|Piett monitoring crew members]]
+To Admiral Piett's discreet distaste, Vader later assembled a motley crew of bounty hunters on the ''Executor''{{'}}s bridge, enlisting them in his track for the ''Millennium Falcon''.<ref name="TESB" />
+
+===Dogfight in the Hudalla system===
+Later, Admiral Piett assembled a group of Imperial officers including the now-[[Commander]] Ciena Ree and her friend [[Nash Windrider]] for a patrol in the outer edge of the planet [[Hudalla]]'s ring. In private, Piett told Commander Ree that there were rebel [[spy|spies]] in the planetary ring. He tasked her with ensuring that at least one of the pilots escaped into hyperspace. During the [[Dogfight in the Hudalla system|dogfight]], Ciena and Nash encountered their former fellow cadet [[Thane Kyrell]], who had joined the Rebel Alliance's [[Corona Squadron]]. Since she still loved Thane, Ciena ensured that he and most of Corona Squadron escaped into hyperspace. Following the mission, the TIE fighter pilots were reprimanded for their failure to destroy all the rebel ships. However, Piett discreetly nodded at Ciena to thank her for following his orders. Ciena later learned that the dogfight was part of an Imperial plan to lure the rebels into a trap at [[Endor]].<ref name="Lost Stars" />
+
+===Death at Endor===
+{{Dialogue|Bridge officer|Sir, we've lost our bridge deflector shield.|Firmus Piett|Intensify the forward batteries. I don't want anything to get through&hellip; Intensify forward firepower!|Gherant|Too late!|attr=Admiral Firmus Piett's final moments|src=Star Wars: Episode VI Return of the Jedi}}
+[[File:FireandBrimstone.jpg|thumb|left|250px|Piett is killed in a fiery explosion]]
+Although he failed to capture the Rebel hero [[Luke Skywalker]] at [[Bespin]], Piett managed to escape Vader's wrath<ref name="TESB" /> and eventually rose to the rank of [[Fleet Admiral]].<ref name="Rebel Files" /> Some time later, he commanded the Imperial fleet in the [[Battle of Endor]], where he received orders from the Emperor himself to retain the ''Executor '' and the Imperial fleet from directly engaging the rebel forces; Piett wryly cited to a fellow officer that he was told the Emperor had something special planned and that the ships only needed to prevent another Rebel retreat. The special plan was revealed to be the fully operational superlaser, which annihilated two Rebel cruisers in quick succession. However, Piett's orders backfired when the rebels, in a desperate gambit, moved their remaining fleet into direct combat with his own armada in the hopes that the Death Star would cease fire rather than risk friendly casualties.<ref name="ROTJ" />
+
+When [[Han Solo]] and his force, who had managed to sneak under Piett's nose in a [[Tyderium|stolen Imperial shuttle]], destroyed the shield generator protecting the second Death Star, the battle began to turn against the Empire. Rebel starfighters began to strafe the superstructure of the ''Executor'', which had been personally targeted by Rebel admiral [[Gial Ackbar]], a former personal slave to Firmus' deceased mentor, Grand Moff Tarkin, and dealt a potentially mortal blow to the mighty ship when two A-wings destroyed the portside bridge-mounted deflector shield generator, disabling the ''Executor''{{'s}} bridge shields. In response to the increasing threat, Piett ordered that all guns on the flagship "intensify forward firepower." This was to be his final command, however, as moments later an [[RZ-1 A-wing interceptor]] piloted by [[Arvel Crynyd]] was struck by turbolaser fire and spun on a collision course with the bridge. Piett's subordinate, seeing it coming, screamed that it was too late. Piett whipped round, saw the fighter barreling straight for him and reflexively, but futilely, dived for cover as it crashed into the ''Executor''{{'s}} bridge and exploded, killing Piett and the entire bridge crew and, moments later, causing the vessel to lose control and crash into the [[Death Star II|second Death Star]].<ref name="ROTJ" />
+
+==Personality and traits==
+{{Quote|Piett... you fool.|Admiral [[Garrick Versio]], watching the demise of the ''Executor''|Star Wars Battlefront II}}
+An ambitious officer,<ref name="Databank" /> Firmus Piett was known for his quick thinking in his ability to shift blame for his blunders.<ref name="USW" /> After the ''Executor'' was lost at Endor under Piett's captaincy, some members of the Imperial Navy, such as Admiral [[Garrick Versio]], judged him foolish.<ref name="Battlefront II">''[[Star Wars Battlefront II]]''</ref>
+
+==Behind the scenes==
+Admiral Piett was played by [[Kenneth Colley]] in both [[1980]]'s [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] and [[1983]]'s [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]. Piett is the only Imperial officer to survive more than one film and be portrayed by the same actor.<ref name="DB">{{DB|character|admiralpiett|Admiral Piett}}</ref> Though not originally intended to return in ''Return of the Jedi'', [[List of fanon elements in continuity#Fan letter|fan mail]] supporting the return of the character convinced [[George Lucas]] to rehire Colley once more and write several new lines of dialogue for him.<ref name="The Mail Who Brought Back Firmus">{{Cite web|url=http://jedinewscurrent.azurewebsites.net/news/news.aspx?newsID=7679|title=Kenneth Colley Interview|work=Jedi News|date=March 9, 2008}}</ref>
+
+Colley recalled that when he auditioned for the role, ''The Empire Strikes Back'' director [[Irvin Kershner]] said to him, "'I'm looking for someone that would frighten [[Wikipedia:Adolf Hitler|Adolf Hitler]]!' And he sized me up and down and continued, 'Yes, I think you’re it.'"<ref name="Imperial Officers">{{SW|url=news/from-world-war-to-star-wars-imperial-officers|text=From World War to Star Wars: Imperial Officers}}</ref> In playing the role, Colley chose not to play a single attitude and instead attempted to evoke the humanity of Piett's character, as the actor believed that this made audiences react so strongly.<ref name="sabre">[http://www.lightsabre.co.uk/Interviews/kennethcolleyinterview.htm The Lightsabre Interview: Kenneth Colley]</ref>
+
+In [[Lawrence Kasdan]]'s rough draft for ''Return of the Jedi'', instead of being stationed over Endor, Piett was stationed at [[Had Abbadon]], where [[Habitation sphere|two new Death Stars]] were being constructed. Piett accompanies Darth Vader to his communications chamber, where Grand Moff [[Tiaan Jerjerrod]] is present, disabling all surveillance devices. Later, when the Rebels are able to blow up a communications dish on Had Abbadon, Piett informs Vader that all communications have been disabled. He also tells Vader that a large Rebel force was incoming. Vader then directs Piett to take the fleet and defend the Death Stars under construction over the Green Moon. Vader also instructs Piett to send more troops down to the moon to reinforce the beleaguered General Veers, while Vader plans to take Luke Skywalker to see Emperor Palpatine. Despite this, Piett's death remained largely the same than in the final cut.<ref name="tas">''[[Star Wars: The Annotated Screenplays]]''</ref>
+
+==Appearances==
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars Battlefront II]]'' {{Mo}}
+*''[[Lost Stars]]''
+*[[Lost Stars (webcomic)|''Lost Stars'' webcomic]]
+*''[[Star Wars: The Original Trilogy &ndash; A Graphic Novel]]''
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*{{Shortstory|story=The Levers of Power|book=The Rise of the Empire|bformatted=''The Rise of the Empire''}} {{Mo}}
+
+==Sources==
+*{{SWE|characters|admiral-piett|Admiral Piett}}
+*{{InsiderCite|153|Dave on the Dark Side}}
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars: Ships of the Galaxy]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{SW|url=a-wing-fighter-history-gallery|text=A-wing Fighter History Gallery|archivedate=20180120232822}}; image #5
+*{{Databank|admiral-piett|Admiral Piett|archivedate=20170623041911}}
+*{{Databank|executor|Executor|archivedate=20170415203122}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|pl=Firmus Piett
+|fr=Firmus Piett
+|ka=ფირმუს პიეტი
+|ko=퍼무스 피에트
+|ru=Фирмус Пиетт/Канон
+|es=Firmus Piett/Canon
+|el=Φίρμους Πίετ
+|de=Firmus Piett
+}}
+
+{{DEFAULTSORT:Piett, Firmus}}
+[[Category:Death Squadron personnel]]
+[[Category:Humans]]
+[[Category:Imperial Navy admirals of the Galactic Empire]]
+[[Category:Males]]

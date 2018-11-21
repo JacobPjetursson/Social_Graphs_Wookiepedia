@@ -1,0 +1,36 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Casca Panzoro.jpg]]
+|name=Casca Panzoro
+|homeworld=[[Atterra Bravo]]<ref name="Cobalt">''[[The Last Jedi: Cobalt Squadron]]'', chapter 04</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="Cobalt" />
+|gender=[[Sexes|Female]]<ref name="Cobalt" />
+|height=
+|mass=
+|hair=[[Color|Gray]]<ref name="Cobalt" />
+|eyes=Blue<ref name="Bomber">''[[The Last Jedi: Bomber Command]]''</ref>
+|skin=Fair<ref name="Bomber" />
+|cyber=
+|era=
+|affiliation=[[Bravo Rising]]<ref name="Cobalt" />
+|masters=
+|apprentices=}}
+'''Casca Panzoro''' was a [[commander]] in the united resistance movement [[Bravo Rising]] at the [[time]] of the [[Atterra campaign]]. [[Sexes|She]] was the grandmother of fellow resistance member [[Reeve Panzoro]].<ref name="Cobalt" />
+
+{{Char-stub}}
+
+==Appearances==
+*''[[The Last Jedi: Cobalt Squadron]]'' {{1st|''The Last Jedi: Bomber Command''}}
+*''[[The Last Jedi: Bomber Command]]'' {{1st|''The Last Jedi: Cobalt Squadron''}} {{1stp}}
+*''[[The Last Jedi: Rose Tico: Resistance Fighter]]'' {{Imo}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Panzoro, Casca}}
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Resistance fighters]]

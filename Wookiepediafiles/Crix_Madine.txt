@@ -1,0 +1,127 @@
+{{Eras}}
+{{Update|[[Star Wars: The Rebel Files]], [[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]}}
+{{Image}}
+{{Character
+|type=New Republic
+|image=[[File:MadineHS-ROTJ.png]]
+|name=Crix Madine
+|homeworld=[[Corellia]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=[[34 BBY/Canon|34 BBY]], Corellia<ref name="Scum and Villainy Case Files>''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''</ref>
+|death=
+|species=[[Human]] {{C|[[Corellian]]}}<ref name="Ultimate Star Wars" />
+|gender=[[Sexes|Male]]<ref name="Ultimate Star Wars" />
+|height=1.7 [[meter]]s<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|mass=82 [[kilogram]]s<ref name="TFA head to head">''[[Star Wars: The Force Awakens: Head-to-Head]]''</ref>
+|hair=[[Color|Reddish blond]],<ref name="ROTJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref> later white<ref name="Aftermath">''[[Aftermath]]''</ref>
+|eyes=Blue<ref name="ROTJ" />
+|skin=Fair<ref name="ROTJ" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="Character Encyclopedia" />
+**[[Imperial Special Forces]]<ref name="Rebel Files">''[[Star Wars: The Rebel Files]]''</ref>
+*[[Alliance to Restore the Republic]]<ref name="ROTJ" />
+**[[Alliance High Command]]<ref name="ROTJ" />
+**[[Alliance Special Forces]]<ref name="ROTJ" />
+*[[New Republic]]<ref name="Aftermath" />
+**[[New Republic Special Forces]]<ref name="Aftermath" />
+|masters=
+|apprentices=}}
+{{Quote|We have stolen a small Imperial shuttle. Disguised as a cargo ship, and using a secret Imperial code, a strike team will land on the moon and deactivate the shield generator.|General Madine|Star Wars: Episode VI Return of the Jedi}}
+'''Crix Madine''' was a [[human]] [[Sexes|male]] who led a [[commando]] unit of the [[Galactic Empire]]'s [[Imperial Military|military]] until he defected to the [[Alliance to Restore the Republic|Rebel Alliance]], where he served as a [[general]]. As the [[officer]] responsible for covert actions, he devised the [[Battle of Endor|attack]] on the [[Endor]] [[Deflector shield|shield]] [[Deflector shield generator|generator]] and trained the [[Rebel trooper|soldiers]] who accompanied [[Han Solo]] to the forest [[moon]]. At the end of the [[Galactic Civil War]], Madine went on to serve in the [[New Republic]], a democratic government founded by the Rebels.
+
+==Biography==
+===Early life===
+[[File:Imperial Madine.jpg|thumb|250px|left|Crix Madine in his Imperial days]]
+A [[human]] [[Sexes|male]] native to [[Corellia]],<ref name="Ultimate Star Wars" /> Crix Madine initially served in the [[Imperial Military|military]] of the [[Galactic Empire]], an authoritarian regime [[Proclamation of the New Order|founded]] at the end of the [[Clone Wars]], in which he led a [[commando]] unit.<ref name="Character Encyclopedia" /> He became a highly decorated officer.<ref name="RotJ novel">[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]</ref> However, he ended up defecting to the [[Alliance to Restore the Republic|Rebel Alliance]], a resistance group that opposed the tyranny of the Empire during the [[Galactic Civil War]].<ref name="Character Encyclopedia" /> Holding the rank of [[General]], he specialized in covert actions that involved the theft of equipment from the Empire and infiltration of strike teams onto occupied [[Planet|worlds]].<ref name="SWE">{{SWE|characters|general-madine|General Madine}}</ref>
+
+He was a practitioner of [[Corellian boxing]].<ref name="TFA head to head" />
+
+===Galactic Civil War===
+====Operation: Yellow Moon====
+[[File:Death Star II revealed.png|thumb|250px|Madine and several other members of the Alliance's leadership discuss the Death Star II.]]
+Several [[Standard month|months]] after the [[Battle of Hoth|battle]] of [[Hoth]], Madine and other [[Alliance High Command|high-ranking rebel officers]] secretly met on [[Zastiga]], where [[Chancellor (Rebel Alliance)|Chancellor]] [[Mon Mothma]] revealed that the Alliance had discovered the Empire was building a new planet-killing [[battle station]], the [[Death Star II|second Death Star]], over the [[Forest]] [[Moon]] of [[Endor]]. The Alliance decided to destroy the battle station before it was completed, but needed time to gather the [[Alliance Fleet]] near [[Sullust]]. [[Prince]]ss [[Leia Organa]] proposed leading a mission, dubbed [[Operation Yellow Moon]], to distract the Empire's attention to the [[Corva sector]] on the opposite side of [[the galaxy]] from Sullust.<ref name="Visual Guide">''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''</ref>
+
+Madine and the other rebel [[commander]]s agreed with her plan, and Madine volunteered to serve on the mission as a [[Rebel Commando|commando]]. Mon Mothma rejected him, noting that he was needed to plan the assault on the second Death Star. Instead, Madine assigned one of his best commandos, [[Major]] [[Lokmarcha]], to the mission. Leia succeeded in completing the operation, although Lokmarcha and [[Antrot|another]] rebel operative died. Leia also managed to steal the ''[[Tydirium]]'', an Imperial [[Lambda-class T-4a shuttle|''Lambda''-class T-4a shuttle]], which Madine intended to use on the mission to Endor.<ref name="Moving Target">''[[Moving Target: A Princess Leia Adventure]]''</ref>
+
+====Battle of Endor====
+{{Quote|General Solo, is your strike team assembled?|General Madine, to his colleague Han Solo|Star Wars: Episode VI Return of the Jedi}}
+With the Alliance Fleet in place, Madine, Mon Mothma, and [[Admiral]] [[Gial Ackbar]] briefed Alliance forces on the plan to destroy the second Death Star. Thanks to Leia's theft of the ''Tydirium'', the general planned on sneaking a [[Pathfinders|strike team]] onto the Forest Moon of Endor, where the Empire had built a [[Deflector shield|shield]] [[Deflector shield generator|generator]] to protect the battle station. From the moon's surface, the Rebels could take down the shield generator, leaving the Death Star vulnerable to the Alliance Fleet's firepower. In order to accomplish that mission, Madine asked his fellow general [[Han Solo]] to assemble and lead the strike team.<ref name="ROTJ" />
+
+Prior to the [[Battle of Endor]], General Madine gave a [[hologram]] briefing to the various starfighter squadrons in the Alliance Fleet including [[Corona Squadron]], which was based aboard the [[MC80 star cruiser|Mon Calamari cruiser]] ''[[Liberty]]''. When [[Kendy Idele]] asked who would take care of the deflector shield generator on Endor, Madine reassured her that Solo's team would handle that matter. When several Corona pilots including [[Yendor]] chatted about Han, Madine interjected that Solo was one of their best assets. He then assigned Corona Squadron to escort General [[Lando Calrissian]] in the ''[[Millennium Falcon]]'' and the [[Gold Squadron (Rebel Alliance)|Gold]], [[Red Squadron (Rebel Alliance)|Red]], [[Green Squadron (Rebel Alliance)|Green]], and [[Gray Squadron (Rebel Alliance)|Gray Squadrons]] as they penetrated the second Death Star.<ref name="Lost Stars">''[[Lost Stars]]''</ref> Madine's plan ultimately succeeded, which led to the Alliance's most crucial victory over the Empire.<ref name="ROTJ" />
+
+Following the destruction of the second Death Star, Madine kept the fleet on alert over the moon of Endor as he was concerned about a possible Imperial counterattack. The next day, Madine conferred with General Solo about an [[Imperial outpost (Endor)|Imperial outpost]] still operating on the other side of the moon from the shield generator. Both agreed that they could not allow the Imperials to remain and threaten the [[Ewok]]s, and Solo led his strike team in a [[Assault on an Imperial outpost|assault]] on the outpost.<ref name="SE1">''[[Shattered Empire, Part I]]''</ref>
+
+====War continues====
+{{Quote|...as much as Admiral Ackbar and I wish we could tell you the end is at hand, we see no respite from hostilities at this time...|General Madine, briefing rebel pilots and soldiers about Operation: Cinder|Shattered Empire, Part IV}}
+A few months after Endor, Madine and other elements of the Rebel Fleet Command were aboard a [[MC80 Star Cruiser]] at Muster Point: Stalwart. He and Admiral Gial Ackbar briefed rebel [[soldier]]s and [[pilot]]s on the Empire's ongoing planetary assaults, including [[Operation: Cinder]]. Madine thanked the rebels for their efforts against the Empire and for the thousands of lives they saved countering Operation: Cinder, but sadly noted that the war was far from over.<ref name="SE4">''[[Shattered Empire, Part IV]]''</ref>
+
+====New Republic service====
+{{Quote|...This is a fragile peace. And we must be wary of any ruse set before us. General Madine, do you think you could put together a strike team? Small five to seven Republic soldiers.''"<br>"''I think that's doable. You want them on the ground?|Ackbar and Madine discussing the events on Akiva|Aftermath}}
+Soon after the battle of Endor, the Rebel Alliance was reorganized into the [[New Republic]] and Madine was placed in command of the [[New Republic Special Forces]]. After Admiral Ackbar received vital intelligence on Imperial fleet movements from a mysterious informant called [[Gallius Rax|the Operator]], General Madine was part of a hologram conference that included Commander [[Kyrsta Agate]], [[Captain]] [[Saff Melor]], and [[Chancellor (New Republic)|Chancellor]] Mon Mothma. When Madine questioned the trustworthiness of this informant, Agate responded that the Operator had been reliable so far. However, Ackbar cautioned that the Empire was playing a long game. At the advice of Ackbar, Madine agreed to divert a small team of Special Forces soldiers led by [[Sergeant]] [[Jom Barell]] to investigate the Imperial presence on [[Akiva]]. While most of the unit was killed, Barell played a role in the successful [[rebellion on Akiva]].<ref name="Aftermath" />
+
+In [[5 ABY]],<ref name="Life Debt Date">{{LifeDebtdate}}</ref> Madine attended the [[Liberation Day (New Republic)|Liberation Day]] celebrations held at [[Chandrila]]'s [[Old Gather-House]]. Mothma had organized Liberation Day to celebrate the liberation of a hundred former rebel prisoners from [[Ashmead's Lock]] on the planet [[Kashyyyk]]. However, the prisoners had been fitted with inorganic biochip implants which allowed [[Fleet Admiral]] Gallius Rax, the true leader of the Imperial remnants, to transmit signals which turned the prisoners into unwilling assassins. Madine was rumored to have died during the [[attack on Chandrila]].<ref name="Life Debt">''[[Aftermath: Life Debt]]''</ref>
+
+==Personality and traits==
+Crix Madine was a [[Color|blue]]-[[eye]]d man<ref name="ROTJ" /> of average height, standing 1.7 [[meter]]s.<ref name="Character Encyclopedia" /> He had reddish blond [[hair]] and, at the time of the Battle of Endor, he sported a full beard.<ref name="ROTJ" /> As an [[officer]], he was very respectful of the [[Rebel trooper|troopers]] under his command. He always made sure that his men were properly equipped and prepared for the dangerous missions he assigned to them.<ref name="SWE" /> While writing letters of notification to the loved ones of rebels who died in the line of duty, Madine used a protocol droid to assist him.<ref name="SE2">''[[Shattered Empire, Part II]]''</ref>
+
+==Behind the scenes==
+[[File:Madine btm.jpg|right|thumb|200px|Unused shot of General Madine from ''Return of the Jedi''.]]General Crix Madine first appeared in the [[1983]] movie [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']], the third installment in the [[original trilogy]] of ''[[Star Wars]]'', in which he was played by the [[Wikipedia:Ireland|Irish]] actor [[Dermot Crowley]].<ref name="ROTJ" /> When Crowley first walked onto the set of ''Return of the Jedi'', he was smooth-faced, and the crew presented him with a false beard, insisting that he had to wear it. In fact, the [[Kenner Products]] toy company had already begun pre-production on Madine's action figure, and, since that toy sported a beard, Crowley had to match.<ref name="MakeROTJ">''[[The Making of Return of the Jedi]]''</ref>
+
+Given the uncertainty inherent in giving key expository dialog to the [[Mon Calamari]] Admiral Gial Ackbar&mdash;portrayed by a fishfaced puppet&mdash;the filmmakers of ''Return of the Jedi'' shot a number of "backup" shots of General Madine standing in for his colleague. However, those shots ultimately went unused in the movie's final cut.<ref name="MadineDB">{{DB|character|generalcrixmadine|General Crix Madine}}</ref>
+
+==Appearances==
+*''[[Lost Stars]]''
+*[[Star Wars (LINE Webtoon)|''Star Wars'' LINE Webtoon]]
+*''[[Moving Target: A Princess Leia Adventure]]''
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*''[[Shattered Empire, Part I]]'' {{Mo}}
+*''[[Shattered Empire, Part II]]'' {{Mo}}
+*''[[Aftermath]]'' {{Hologram}}
+*''[[Shattered Empire, Part IV]]''
+*''[[Aftermath: Life Debt]]''
+*''[[Poe Dameron: Flight Log]]''
+
+===Non-canon appearances===
+*{{The Freemaker Adventures|The Embersteel Blade}}
+*{{The Freemaker Adventures|Return to the Wheel}}
+*{{The Freemaker Adventures|A Perilous Rescue}}
+*{{The Freemaker Adventures|Escape from Coruscant}}
+
+==Sources==
+*{{SWE|characters|general-madine|General Madine}}
+*{{SWE|groups|rebelalliance|Rebel Alliance}} {{Po}}
+*{{InsiderCite|151|My Star Wars}}
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*{{Databank|general-madine|General Madine|archivedate=20161216130232}}
+*{{Databank|wedge-antilles|Wedge Antilles|archivedate=20140714220601}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Crix Madine/Canon
+|fr=Crix Madine
+|pl=Crix Madine
+|ru=Крикс Мадин/Канон
+|uk=Крікс Мадін
+}}
+
+{{DEFAULTSORT:Madine, Crix}}
+[[Category:Alliance Army generals]]
+[[Category:Alliance High Command personnel]]
+[[Category:Alliance Special Forces personnel]]
+[[Category:Corellians]]
+[[Category:Humans]]
+[[Category:Imperial defectors]]
+[[Category:Males]]
+[[Category:New Republic Army generals]]
+[[Category:New Republic Special Forces personnel]]
+[[Category:Officers of the Galactic Empire]]

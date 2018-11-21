@@ -1,0 +1,59 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=Corporate
+|image=[[File:DaultayDofineHS-SWE.jpg]]
+|name=Daultay Dofine
+|homeworld=
+|birth=
+|death=[[32 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> ''[[Vuutun Palaa]]'', [[Naboo system]]<ref name="tpm">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|species=[[Neimoidian]]<ref name="tpm" />
+|gender=[[Sexes|Male]]<ref name="tpm" />
+|height=1.90 [[meter]]s<ref name="DB DD">{{Databank|daultay-dofine|Daultay Dofine|archivedate=20170806144529}}</ref>
+|mass=
+|hair=
+|eyes=[[Color|Red]]<ref name="tpm" />
+|skin=Mottled<ref name="tpm" />
+|cyber=
+|era=
+|affiliation=[[Trade Federation]]<ref name="tpm" />
+|masters=
+|apprentices=}}
+{{Quote|Viceroy, I don't want this stunted slime in my sight again.|[[Darth Sidious]], to [[Nute Gunray]]|audio=StuntedSlime-TPM.ogg|Star Wars: Episode I The Phantom Menace}}
+'''Daultay Dofine''' was a [[Neimoidian]] [[captain]] of the [[Trade Federation]]'s [[Lucrehulk-class Battleship|Droid Control Ship]] the ''[[Vuutun Palaa]]'' during the [[Invasion of Naboo]].
+
+==Biography==
+A [[Sexes|male]] [[Neimoidian]], Daultay Dofine made a career as a [[starship]] [[captain]] in the [[Trade Federation]],<ref name="DB DD" /> one of the wealthiest corporate organizations in [[the galaxy]].<ref name="DB TF">{{Databank|trade-federation|Trade Federation}}</ref>
+
+In [[32 BBY]],<ref name="Galactic Atlas" /> a mysterious and malevolent [[Dark Lord of the Sith|Dark Lord]] of [[Sith]] called [[Darth Sidious]] conspired with the Federation, and Dofine became one of his three principal Neimoidian collaborators, along with [[Viceroy]] [[Nute Gunray]] and [[Settlement Officer]] [[Rune Haako]].<ref name="SWE Dofine">{{SWE|characters|daultaydofine|Daultay Dofine}}</ref> Sidious arranged for the Federation to blockade and [[Invasion of Naboo|invade]] the peaceful [[planet]] of [[Naboo]] in protest over increased taxation from the Senate.<ref name="tpm" /> According to the plan, Dofine was at the helm of the ''[[Saak'ak]]'', the [[Lucrehulk-class LH-3210 cargo freighter|''Lucrehulk-''class LH-3210 cargo freighter]] that served as the Federation's [[flagship]].<ref name="TPM Journey">''[[Star Wars Journeys: The Phantom Menace]]''</ref> The captain led a [[Standard month|month]]-long blockade that left the fragile planet starved and ill-supplied.<ref name="SWE Dofine" />
+
+Eventually, the [[Democracy|democratic]] union known as the [[Galactic Republic]] dispatched [[ambassador]]s to the ''Saak'ak'' in an attempt to resolve was looked like a mere trade dispute gone awry. However, when said ambassadors were revealed to be the [[Jedi Master]] [[Qui-Gon Jinn]] and his [[Padawan]] [[Obi-Wan Kenobi]], Dofine panicked. Suddenly doubting Darth Sidious's plan, the captain boldly told the Sith Lord that his scheme was finished if the [[Jedi]] were involved. Although he was verbally reprimanded by Sidious for speaking out of turn, Dofine nevertheless remained in command of the blockade's forces for the remainder of the operation.<ref name="tpm" />
+
+When the blockade was complete, the Neimoidians were ready to initiate the next phase of Sidious' plan: invading and occupying Naboo. In order to do so, Dofine transferred from the ''Saak'ak'' to the [[Lucrehulk-class Battleship|Droid Control Ship]] ''[[Vuutun Palaa]]'', which contained legions of [[B1 battle droid|B1]] [[battle droid]]s.<ref name="SWE Dofine" /> It was he who gave the order to activate the ship's droids, unleashing a mechanical army on the surface of Naboo. Dofine later [[Death|perished]] aboard the vessel when it was blown up by [[Anakin Skywalker]].<ref name="tpm" />
+
+==Behind the scenes==
+[[File:Daultay Dofine Concept Art.jpg|thumb|right|200px|Concept art of Daultay Dofine]]
+The character of Daultay Dofine was conceived by director [[George Lucas]] for the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]. In the film, he was played by [[Alan Ruscoe]] and voiced by [[Chris Sanders]].<ref name="tpm" /> In the revised rough draft of the film's script, Dofine was described as fat and short, although by production, the character was thin, much like the other Neimoidian characters.<ref name="db">{{DB|character|daultaydofine|Daultay Dofine}}</ref>
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+
+==Sources==
+*{{SWE|characters|daultaydofine|Daultay Dofine}}
+*{{SWE|groups|tradefederation|Trade Federation}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]'' {{Po}}
+*{{Databank|daultay-dofine|Daultay Dofine|archivedate=20170806144529}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Daultay Dofine
+|ru=Долтей Дофайн/Канон
+}}
+
+{{DEFAULTSORT:Dofine, Daultay}}
+[[Category:Males]]
+[[Category:Neimoidians]]
+[[Category:Trade Federation members]]

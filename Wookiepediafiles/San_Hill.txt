@@ -1,0 +1,69 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=CIS
+|image=[[File:SanHill hs.jpg]]
+|name=San Hill
+|homeworld=[[Scipio]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[19 BBY]], [[Mustafar]]<ref name="Ultimate Star Wars" />
+|species=[[Muun]]<ref name="San Hill">{{Databank|san-hill|San Hill}}</ref>
+|gender=[[Sexes|Male]]<ref name="San Hill" />
+|height=1.91 [[meter]]s<ref name="San Hill" />
+|mass=
+|hair=
+|eyes=[[Color|Yellow]]<ref name="Attack of the Clones">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|skin=Pale<ref name="Attack of the Clones" />
+|cyber=
+|era=
+|affiliation=*[[InterGalactic Banking Clan]]<ref name="Attack of the Clones" />
+**[[Muunilinst Banking Clan]]<ref name="Complete Locations">''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''</ref>
+*[[Confederacy of Independent Systems]]<ref name="Attack of the Clones" />
+**[[Separatist Council]]<ref name="San Hill" />
+|masters=
+|apprentices=}}
+{{Quote|The Banking Clan will sign your treaty.|San Hill to [[Dooku]]|Star Wars: Episode II Attack of the Clones}}
+'''San Hill''' was a [[Sexes|male]] [[Muun]] and [[Chairman]] of the [[InterGalactic Banking Clan]] during the [[Clone Wars]]. He pledged the support of the Banking Clan to the [[Confederacy of Independent Systems]] and served as the financial cartel's representative on the [[Separatist Council]]. Hill was slaughtered by [[Anakin Skywalker|Darth Vader]] on [[Mustafar]] following the end of the Clone Wars.
+
+==Biography==
+A [[Sexes|male]] [[Muun]] from the [[planet]] [[Scipio]], San Hill was the [[Chairman]] of the [[InterGalactic Banking Clan]].<ref name="Ultimate Star Wars" /> On the onset of the [[Clone Wars]],<ref name="San Hill" /> Hill attended a secret meeting on [[Geonosis]]<ref name="Attack of the Clones" /> and signed a treaty with the [[Confederacy of Independent Systems]],<ref name="San Hill" /> pledging the Banking Clan's financial and military assets to the movement,<ref name="Card Trader">[[Star Wars: Card Trader|''Star Wars'': Card Trader]]</ref> with Hill serving as the financial cartel's representative on the [[Separatist Council]].<ref name="San Hill" /> During the final [[Standard day|days]] of the Clone Wars, Hill, along with the other [[Separatist Council|Separatist leaders]], moved from [[Utapau]] to [[Mustafar]]<ref name="Revenge of the Sith">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref> where they were all [[Death|killed]] by [[Anakin Skywalker|Darth Vader]].<ref name="Ultimate Star Wars" />
+
+==Personality and traits==
+Like most Muuns, San Hill was more comfortable with business and closed-door [[politics]] than being on the front lines of war. Hill was highly influential, and wasn't above conspiring with others to get his way.<ref name="Card Trader" />
+
+A male Muun, Hill stood at 1.91 [[meter]]s tall,<ref name="San Hill" /> and had [[Color|yellow]] [[eye]]s and pale skin.<ref name="Attack of the Clones" />
+
+==Behind the scenes==
+San Hill first appeared in the [[2002]] film [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']], the second installment of the ''[[Star Wars]]'' [[prequel trilogy]].<ref name="Attack of the Clones" /> Hill then appeared once more in [[2005]]'s [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']].<ref name="Revenge of the Sith" /> The character's gaunt form is draped in CG wardrobe developed by concept artist [[Dermot Power]].<ref name="databank">{{DB|character|sanhill|San Hill}}</ref>
+
+==Appearances==
+*''[[Star Wars Journeys: Beginnings]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*{{TCW|Destroy Malevolence}} {{Imo}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+
+==Sources==
+*[[Star Wars: Card Trader|''Star Wars'': Card Trader]] {{1stID}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Galactic Atlas]]'' {{Po}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{Databank|poggle-the-lesser|Poggle the Lesser}} {{Po}}
+*{{Databank|san-hill|San Hill}}
+*{{Databank|separatist-alliance|Separatist Alliance}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ru=Сэн Хилл/Канон
+|pl=San Hill
+|fr=San Hill
+|es=San Hill
+}}
+
+{{DEFAULTSORT:Hill, San}}
+[[Category:InterGalactic Banking Clan members]]
+[[Category:Males]]
+[[Category:Muuns]]
+[[Category:Separatist leadership]]

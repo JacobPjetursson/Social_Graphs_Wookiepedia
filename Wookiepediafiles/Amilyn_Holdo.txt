@@ -1,0 +1,144 @@
+{{Eras|sprot}}
+{{Update|[[Leia, Princess of Alderaan]], [[The Last Jedi: Cobalt Squadron]], [[Star Wars: The Last Jedi: Expanded Edition]], [[The Last Jedi Adaptation 2]], [[Star Wars: The Rebel Files]]}}
+{{Character
+|type=Resistance
+|image=[[File:Holdo-Elle.png]]
+|name=Amilyn Holdo
+|homeworld=[[Gatalenta]]<ref name="Leia">''[[Leia, Princess of Alderaan]]''</ref>
+|birth=
+|death=[[34 ABY]],<ref name="Date">''[[Star Wars: Galactic Atlas]]'' places the events of the film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] in [[34 ABY]]. As [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] carries on immediately from the events of ''The Force Awakens'', it can be assumed to take place in the same [[Standard year|year]].</ref> ''[[Raddus (MC85 Star Cruiser)|Raddus]]'', [[Crait system]]<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+|species=[[Human]]<ref name="Leia" />
+|gender=[[Sexes|Female]]<ref name="Leia" />
+|height=
+|mass=
+|hair=[[Hair dye|Dyed]] various [[color]]s<ref name="Leia" />
+|eyes=Blue<ref name="Leader">''[[A Leader Named Leia]]''</ref>
+|skin=Light<ref name="Leia" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="Leia" />
+**[[Apprentice Legislature]]<ref name="Leia" />
+*[[Alliance to Restore the Republic]]<ref name="TLJ VD">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref>
+*[[Resistance]]<ref name="Leader" />
+**[[Fleet Command (Resistance)|Resistance Fleet Command]]<ref name="TLJ VD" />
+|masters=
+|apprentices=}}
+{{Quote|Then there's this girl from Gatalenta named Amilyn Holdo who is&hellip;let's say, a little odd.''"<br />"''I trust your judgement, Leia, but don't be too quick to write people off. Sometimes they can surprise you.|Leia and Bail Organa|Leia, Princess of Alderaan}}
+'''Amilyn Holdo''' was a [[human]] [[Sexes|female]] from the [[planet]] [[Gatalenta]]. In her youth, Holdo served in the [[Apprentice Legislature]] of the [[Imperial Senate]], where she became acquainted with [[Prince]]ss [[Leia Organa]] of [[Alderaan]]. During her [[time]] in the Apprentice Legislature, Holdo became friends with Organa, who confided with her about involvement with the rebellion [[Early rebellion against the Galactic Empire|against]] the [[Galactic Empire]].
+
+By the [[Standard year|year]] [[34 ABY]], Holdo became a [[Vice Admiral]] in Organa's [[Resistance]] during its [[First Order–Resistance war|war]] with the [[First Order]], and was given command of the [[cruiser]] ''[[Ninka]]''. Taking overall command of the Resistance after the [[Attack on the Resistance fleet|deaths]] of most of the [[commander]]s and Organa's incapacitation, Holdo devised a plan to save the remaining personnel by evacuating them on [[transport]]s while she stayed behind on the command [[Starship|ship]] to draw attention away from them.
+
+When the transports came under fire, Holdo [[pilot]]ed the heavy cruiser ''[[Raddus (MC85 Star Cruiser)|Raddus]]'' into position and jumped to [[lightspeed]] through [[Supreme Leader]] [[Snoke]]'s [[flagship]], the [[Mega-class Star Dreadnought|''Mega''-class Star Destroyer]] ''[[Supremacy]]''. Her sacrifice allowed the remaining transports to reach the planet [[Crait]], where they subsequently [[Battle of Crait|escaped]] to fight another [[Standard day|day]].
+
+==Biography==
+===Early life===
+[[File:Young Amilyn Holdo.jpg|thumb|200px|left|The young Amilyn Holdo]]
+A [[human]] [[Sexes|female]], Amilyn Holdo was [[Reproduction|born]] on the [[planet]] [[Gatalenta]] during the early [[Imperial Era]]. In the [[Standard year|year]] [[3 BBY]], Holdo joined the [[Apprentice Legislature]], an [[Galactic Empire|Imperial]] organization on [[Coruscant]] for youth in [[politics]]. While in the Apprentice Legislature, Holdo met [[Prince]]ss [[Leia Organa]] of [[Alderaan]], daughter of [[Senator]] [[Bail Organa]]. Holdo and Princess Organa spent much [[time]] together during senatorial sessions and routine [[pathfinding]] training on various worlds such as Alderaan, [[Eriadu]], and [[Felucia]]. While pathfinding on the planet [[Pamarthe]], Holdo discovered Organa's involvement with the rebellion [[Early rebellion against the Galactic Empire|against]] the Galactic Empire. Soon after, Holdo helped Organa find passage to the [[Paucris system]] in order to warn the [[fleet]] of an impending Imperial attack.<ref name="Leia" />
+
+===Organa's Resistance===
+In [[2 BBY]], the rebellion became the [[Alliance to Restore the Republic]],<ref name="Secret Cargo">{{Rebels|Secret Cargo}}</ref> and in the subsequent [[Galactic Civil War]], the Empire was toppled and replaced with a [[New Republic]].<ref name="Empire's End">''[[Aftermath: Empire's End]]''</ref> However, an [[Imperial remnant (cold war)|Imperial remnant]] reorganized into the [[First Order]],<ref name="Bloodline">''[[Bloodline (novel)|Bloodline]]''</ref> so in [[28 ABY]],<ref name="Timeframe">{{Twitter|DelReyStarWars|status/652893780236988420|[[Del Rey]]|quote=So excited to have @claudiagray writing a #StarWars novel with us. SW: New Republic: Bloodline coming 2016. Set 6 years before TFA.|image=File:New Republic Bloodline Twitter Post.jpg}} The tweet in question states that the events of ''Bloodline'' take place six [[Standard year|years]] before the events of the film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]. ''[[Star Wars: Galactic Atlas]]'' establishes that ''The Force Awakens'' takes place in the year [[34 ABY]], so simple math reveals that the events of ''Bloodline'' take place in [[28 ABY]].</ref> Organa created the [[Resistance]] to oppose them.<ref name="Bloodline" /> By [[34 ABY]],<ref name="Date" /> during the [[Cold war|conflict]] between the two groups, Holdo joined the [[Resistance military]] and served as a [[Vice Admiral]]<ref name="Leader" /> and [[commanding officer]] of the [[cruiser]] ''[[Ninka]]''.<ref name="Episode VIII" />
+
+After the attack on [[Starkiller Base]], she was posted on the Resistance ship ''Ninka''. On [[D'Qar]] just before the First Order's arrival, she briefed the Resistance pilots from Cobalt and Crimson Squadron about the events of the annihilation of the Hosnian system as well as the subsequent destruction of Starkiller Base. She offered ammunition from her ship to help arm their squadrons. Having heard of [[Rose Tico]]'s previous accomplishments with Cobalt Squadron, Holdo asked her to take a position on the ''Ninka'' as part of the maintenance team.<ref name="Cobalt Squadron">''[[The Last Jedi: Cobalt Squadron]]''</ref>
+
+====Commanding the fleet====
+{{Quote|Four hundred of us&hellip; on three ships. We're the very last of the Resistance. But we're not alone. In every corner of the galaxy&hellip; the downtrodden and oppressed know our symbol&hellip; and they put their hope in it. We are the spark that will ignite the fire that will restore the Republic. That spark&hellip; this Resistance, must survive. That is our mission. Now, to your stations. And may the Force be with us.|Amilyn Holdo to members of the Resistance|Star Wars: Episode VIII The Last Jedi}} [[File:Amilyn_Holdo_Ellen.png|thumb|right|275px|Amilyn Holdo addresses the Resistance.]]
+During an [[Attack on the Resistance fleet|attack]] on the ''[[Raddus (MC85 Star Cruiser)|Raddus]]'', the ship's commander Leia Organa was ejected from the bridge and left unconscious, the attack also killing the entire High Command stationed on the bridge. Following the chain of command, Commander [[Larma D'Acy]] delegated overall command of the Resistance to Holdo, who had transferred from her ship to the ''Raddus'' to take full command. After thanking D'Acy, Holdo addressed the situation by explaining that the 400 personnel on three ships comprised the very last of the Resistance, but they would survive. Holdo had the remaining ships continue full ahead to keep out of the First Order's range, but their fuel reserves dwindled and they lost their medical frigate ''[[Anodyne (Nebulon-C)|Anodyne]]'' when it ran dry. Holdo received a communication from the ''Anodnye''{{'s}} captain informing her that the rest of its crew had escaped and were heading her way, but the transmission was lost as the First Order destroyed the defenseless frigate. Shortly after, Holdo's own ship, the ''Ninka'', was destroyed as well.<ref name="Episode VIII" />
+
+[[File:Poe_meets_Holdo.jpeg|thumb|250px|left|The tension begins between Holdo and Dameron.]]
+[[Poe Dameron]] and Holdo were not on good terms, immediately butting heads over the issue of Dameron's recent demotion and apparent lack of any decisive action. Deeming him an impulsive and reckless "fly-boy," Holdo recognized that as a liability rather than an asset for the current situation and instead ordered him to stick to his post and follow her orders. Unfortunately, Holdo's lack of transparency with Dameron would have serious repercussions.
+
+When Tico and former First Order Stormtrooper [[Finn]] devised a plan to infiltrate the First Order's flagship, the ''[[Supremacy]]'', Dameron went behind Holdo's back and sanctioned their mission, which ultimately failed and resulted in the First Order eventually learning of Holdo's plans. When Holdo ordered the crew of the ''Raddus'' to evacuate to the planet [[Crait]] via [[U-55 orbital loadlifter|rescue transports]], Dameron and some crew members held the Admiral and several senior officers at gunpoint and took control of the ship. Holdo escaped the mutiny, however, by kicking a steam pipe and stunning her antagonists while Organa, who had recovered, incapacitated Dameron and sent him to Crait with the rest of the crew. Although labeling Dameron a troublemaker, Holdo and Organa agreed that they liked him. Holdo refused to board a transport herself, however, and told Organa that someone had to stay on the ''Raddus'' to keep it going and said she would be honored to do it. Though Organa was extremely reluctant to take any more losses that day, especially another good friend, Holdo consoled her and bid her friend goodbye with the phrase, "[[May the Force be with you]]."<ref name="Episode VIII" />
+
+====Sacrifice====
+{{Quote|Godspeed, Rebels.|Amilyn Holdo wishing good luck to the Resistance|Star Wars: Episode VIII The Last Jedi}}
+[[File:HoldoKamikaze.jpg|thumb|250px|right|Holdo's sacrifice devastated the First Order fleet.]]
+Holdo willed the transports on their way from the ship's secondary command bridge, but was horrified when the First Order detected and fired on the fleeing transports, destroying many of them. After personally witnessing the demise of a transport whilst conferring with [[Unidentified transport pilot|its frantic]] [[pilot]], Holdo resolved to prevent any more deaths and fired up the [[hyperdrive]] on the ''Raddus''. Both the Resistance and First Order thought she was fleeing the battle zone, but [[General]] [[Armitage Hux]] ignored the ship as he thought it was simply a distraction, only realizing Holdo's real intent when the ''Raddus'' turned to face the ''Supremacy''. Activating the hyperdrive, Holdo rammed the ''Supremacy'' at lightspeed, slicing the mammoth Dreadnought in two, destroying much of its escort fleet and coincidentally saving a captured Finn and Tico, who were about to be executed when the impact occurred.<ref name="Episode VIII" />
+
+===Legacy===
+{{Quote|I can't believe she did that&hellip;''"<br />"''I can.|Poe Dameron and Leia Organa about Holdo's death|The Last Jedi Adaptation 5}}
+Though Holdo perished in the collision, her sacrifice allowed the escape of the remaining Resistance personnel to Crait, where they would eventually escape definitely from the First Order thanks to [[Rey]]'s help.<ref name="Episode VIII" /> Before the [[Battle of Crait]], while en route to the planet, Dameron stated that he couldn't believe that Holdo sacrificed her own life for them, while Organa responded that she did believe it.<ref name="TLJA5">''[[The Last Jedi Adaptation 5]]''</ref>
+
+==Personality and traits==
+{{Quote|I like comparing different planets' traditional astrological charts to see if they agree on the influences exercised by various stars. The parallels are uncanny!|Amilyn Holdo, introducing herself to the Apprentice Legislature|Leia, Princess of Alderaan}}
+[[File:Amilyn Holdo TLJ.png|left|thumb|200px|Holdo sports her Defender 5.]]
+Holdo was tall, and had [[Color|blue]] [[eye]]s and light-colored skin. In her youth, Holdo rebelled against the peaceful culture of her [[homeworld]] and expressed herself by [[Hair dye|dyeing]] her [[hair]] vibrant colors, wearing vibrantly colored [[clothing]], and going on daring escapades. In spite of that, Holdo showed great interest in esoteric practices of her planet, like meditation and [[astrology]], and she was knowledgeable of [[the galaxy]]. Organa found Holdo insightful and charming, but also irritating at times.<ref name="Leia" />
+
+Holdo had a quirky personality, often getting distracted, speaking in riddles and metaphors with a monotone/singsong voice, and being eccentric. She was by no means stupid, however, and her oddball persona hid a keen intellect. She was not afraid of death, and dreamed of dangerous adventures “to get more comfortable with the nearness and inevitability" of it. Holdo was a determined and patriotic person, able to react to changing circumstances and ready to sacrifice herself for the cause. As a commander she had a cool head for the greater strategy, and expected her orders to be executed precisely. Holdo was known to carry a [[Defender-5 sporting blaster]], which was favored by many nobles on her homeworld.<ref name="TLJ VD" /> According to Dameron, Holdo was recognized within the Resistance as a great strategic mind due to her actions the [[Battle of Chyron Belt|Battle]] of [[Chyron Belt]]<ref name="Episode VIII" /> and was admired even by [[Admiral]] [[Gial Ackbar|Ackbar]].<ref name="TLJ Junior novel">''[[Star Wars: The Last Jedi: A Junior Novel]]''</ref>
+
+==Behind the scenes==
+{{Quote|She's somebody who's a bit off-kilter, who sees the world through a prism most others don't understand. At first Leia thinks she's pleasant but weird, but as time goes on, it becomes apparent that there's much more to Holdo than you might guess when you first met her. We don't really have a lot of true oddballs in ''Star Wars'', so it was fun to introduce one!|Claudia Gray, on Amilyn Holdo|url=http://www.starwars.com/news/11-revelations-from-claudia-gray-on-leia-princess-of-alderaan}}
+Amilyn Holdo is a character developed for the [[2017]] film [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']], in which she is portrayed by actress [[Laura Dern]]. The casting announcement was revealed on [[February 15]], [[2016]],<ref name="Casting Announcement">{{SW|url=news/star-wars-episode-viii-now-filming|text=Star Wars: Episode VIII Now Filming}}</ref> and Holdo's name was revealed on [[May 24]], 2017 in a ''[[Wikipedia:Vanity Fair (magazine)|Vanity Fair]]'' article.<ref name="Vanity Fair: The Last Jedi Preview">{{Cite web|url=https://www.vanityfair.com/hollywood/2017/05/star-wars-the-last-jedi-cover-portfolio/|title=Cover Story: Star Wars: The Last Jedi, the Definitive Preview|first=David|last=Kamp|work=Vanity Fair|date=2017-05-24|accessdate=2017-05-24|archiveurl=https://web.archive.org/web/20170524125612/http://www.vanityfair.com/hollywood/2017/05/star-wars-the-last-jedi-cover-portfolio|archivedate=2017-05-24}}</ref> During the [[Journey to Star Wars: The Last Jedi|Journey to ''Star Wars: The Last Jedi'']] marketing campaign, Holdo appeared as a supporting character in the young-adult novel ''[[Leia, Princess of Alderaan]]'' by [[Claudia Gray]],<ref name="Leia" /> and was briefly shown in the picture book ''[[A Leader Named Leia]]''.<ref name="Leader" /> Holdo's appearance in ''Leia, Princess of Alderaan'' was received positively, with some readers comparing her to the character [[w:c:harrypotter:Luna Lovegood|Luna Lovegood]] from [[Wikipedia:Harry Potter|''Harry Potter'']].<ref name="11 Revelations">{{SW|url=news/11-revelations-from-claudia-gray-on-leia-princess-of-alderaan|text=11 Revelations from Claudia Gray on ''Leia, Princess of Alderaan''}}</ref>
+
+==Appearances==
+*''[[Leia, Princess of Alderaan]]'' {{1st|''A Leader Named Leia''}}
+*''[[A Leader Named Leia]]'' {{1st|''Leia, Princess of Alderaan''}}
+*''[[The Last Jedi: Cobalt Squadron]]''
+*''[[The Last Jedi: Bomber Command]]''
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[Star Wars: The Last Jedi: A Junior Novel]]''
+*''[[The Last Jedi Adaptation 2]]''
+*''[[The Last Jedi Adaptation 3]]''
+*''[[The Last Jedi Adaptation 4]]''
+*''[[The Last Jedi Adaptation 5]]''
+*''[[The Last Jedi: Rose Tico: Resistance Fighter]]''
+*''[[Poe Dameron 29: The Awakening, Part IV]]'' {{Mo}}
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+*<!-- 07/15/17 -->{{SW|url=video/star-wars-the-last-jedi-behind-the-scenes|text=Star Wars: The Last Jedi Behind The Scenes}}
+*''[[Star Wars Insider 177]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*''[[Star Wars: The Last Jedi: Incredible Cross-Sections]]''
+*''[[Star Wars: The Last Jedi: Ultimate Sticker Collection]]''
+*''[[Star Wars: The Last Jedi: Heroes of the Galaxy]]''
+*''[[The Art of Star Wars: The Last Jedi]]''
+*''[[Star Wars: The Last Jedi – The Official Collector's Edition]]''
+*{{ForceCollection|Amilyn Holdo|star=4}}
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|c-ai-threnalli|C'ai Threnalli|archiveurl=https://archive.fo/toKa6}}
+*{{Databank|commander-d-acy|Commander D'Acy|archiveurl=https://archive.fo/wLq6n}}
+*{{Databank|kaydel-ko-connix|Kaydel Ko Connix}}
+*{{Databank|nien-nunb-biography-gallery|Nien Nunb Biography Gallery}}; image #10 {{C|of 10}}
+*{{Databank|poe-dameron|Poe Dameron}}
+*{{Databank|resistance-pilots|Resistance Pilots}} {{Po}}
+*{{Databank|resistance-transport|Resistance Transport}}
+*{{Databank|rose-tico-biography-gallery|Rose Tico Biography Gallery}}; image #2 {{C|of 8}}
+*{{Databank|the-ninka|The Ninka}}
+*{{Databank|vice-admiral-holdo|Vice Admiral Holdo}}
+
+===Non-canon sources===
+*{{LEGOCite|tlj|75188|Resistance Bomber}}
+
+==Notes and references==
+{{Imagecat|Images of Amilyn Holdo}}
+{{Reflist}}
+
+==External links==
+*{{SW|url=news/11-revelations-from-claudia-gray-on-leia-princess-of-alderaan|text=11 Revelations from Claudia Gray on ''Leia, Princess of Alderaan''}}
+
+{{Interlang
+|bg=Амилин Холдо
+|de=Amilyn Holdo#kanon
+|el=Άμιλιν Χόλντο
+|es=Amilyn Holdo
+|fr=Amilyn Holdo
+|ja=アミリン・ホルド
+|ka=ემილინ ჰოლდო
+|ko=아밀린 홀도
+|nl=Amilyn Holdo
+|pl=Amilyn Holdo
+|pt=Amilyn Holdo
+|ru=Эмилин Холдо
+|uk=Емілін Голдо
+|deFA=1
+}}
+
+{{DEFAULTSORT:Holdo, Amilyn}}
+[[Category:Females]]
+[[Category:Gatalentans]]
+[[Category:Humans]]
+[[Category:Resistance admirals and generals]]

@@ -1,0 +1,124 @@
+{{Eras}}
+{{Update|[[From a Certain Point of View]], [[Dawn of Rebellion]]}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Admiral_Motti.png]]
+|name=Conan Antonio Motti
+|homeworld=[[Seswenna]]<ref name="Ultimate SW">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[0 BBY]],<ref name="GA">''[[Star Wars: Galactic Atlas]]''</ref> [[DS-1 Orbital Battle Station|Death Star]], [[Yavin system]]<ref name="Encyclopedia">{{SWE|characters|admiral-motti|Admiral Motti}}</ref>
+|species=[[Human]]<ref name="anh">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref>
+|gender=[[Sexes|Male]]<ref name="anh" />
+|height=1.7 [[meter]]s<ref name="Encyclopedia" />
+|mass=
+|hair=[[Color|Brown]]<ref name="anh" />
+|eyes=Brown<ref name="anh" />
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="anh" />
+**[[Imperial Navy]]<ref name="DB">{{Databank|admiral-motti|Admiral Motti|archivedate=20170808073039}}</ref>
+**[[Joint Chiefs]]<ref name="DB" />
+**[[Imperial Officer Corps]]<ref name="anh" />
+|masters=
+|apprentices=}}
+{{Quote|This station is now the ultimate power in the universe! I suggest we use it.|Conan Antonio Motti|Star Wars: Episode IV A New Hope}}
+'''Conan Antonio Motti''' was the [[Chief of the Imperial Navy]] who held the rank of [[admiral]] aboard the [[DS-1 Orbital Battle Station|Death Star]] during the [[Galactic Civil War]]. Motti was extremely confident in his viewpoint that the Death Star was invulnerable, believing that the [[Alliance to Restore the Republic|Rebel Alliance]] posed no threat to the [[battle station]]. He was even bold and arrogant enough to openly question [[Dark Lord of the Sith]] [[Anakin Skywalker|Darth Vader]] for his failure to discover the location of the Rebellion's [[Great Temple (Yavin 4)|secret base]] during one meeting in the Death Star. For this, Vader [[Force choke]]d him. Despite Motti's unshakable faith in the Death Star, the Rebel Alliance&mdash;which had obtained a copy of the [[Death Star plans|Death Star blueprints]]&mdash;managed to find a [[Thermal exhaust port|weak spot]] in the station's defenses, and succeeded in destroying it during a [[Battle of Yavin|battle]] above the Death Star, killing Motti.
+
+==Biography==
+===Early life and career===
+{{Quote|Don't try to frighten us with your sorcerer's ways, Lord Vader. Your sad devotion to that ancient religion has not helped you conjure up the stolen data tapes, or given you clairvoyance enough to find the Rebel's hidden fort&hellip;|Motti, before being Force choked by Darth Vader|Star Wars: Episode IV A New Hope}}
+[[File:I_find_your_lack_of_faith_disturbing.png|left|300px|thumb|Vader Force chokes Motti for his lack of faith.]]
+Conan Antonio Motti was a [[human]] [[Sexes|male]] who hailed from a wealthy and powerful family in the [[Outer Rim Territories|Outer Rim]]. A native of [[Seswenna]], Motti became an [[Imperial officer|officer]] in the [[Imperial Navy]], eventually rising to the [[Military rank|rank]] of [[Rear Admiral]], commanding the [[Star Destroyer]] ''[[Steel Talon]]''.<ref name="Ultimate SW" /><ref name="AbEverything">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref> In [[14 BBY]],<ref name="GA" /> he was a member of the [[Joint Chiefs]]. By this time, he was considered by [[Galactic Emperor|Emperor]] [[Darth Sidious|Sheev Palpatine]] to be a potential candidate for the newly-created position of [[Grand Moff]]. However, this position eventually went to [[Moff]] [[Wilhuff Tarkin]], who played a major part in a [[Berch Teller campaign|plot]] to destroy several Imperial [[space station]]s. However, Motti was involved in the campaign, being a part of several meetings of the Joint Chiefs at [[Coruscant|Imperial Center]]. Due to this, he received a promotion from the Emperor.<ref name="Tarkin">''[[Tarkin (novel)|Tarkin]]''</ref>
+
+===Death Star command===
+{{Quote|Any attack made by the Rebels against this station would be a useless gesture, no matter what technical data they've obtained. This station is now the ultimate power in the universe! I suggest we use it.|Motti|Star Wars: Episode IV A New Hope}}
+By [[0 BBY]],<ref name="GA" /> he was aboard the [[DS-1 Orbital Battle Station|Death Star]], a [[planet]]-destroying [[battle station]], and served as not only an [[Admiral]], but the [[Chief of the Imperial Navy]], as well remaining a Joint [[Chief]].<ref name="Ultimate SW" /><ref name="AbEverything" /> When the [[Alliance to Restore the Republic]] managed to [[Battle of Scarif|obtain]] a copy of the [[Death Star plans|technical readouts]] of the Death Star, the [[Tantive IV|Rebel corvette]] carrying the stolen plans was [[Secret mission to Tatooine|captured]] by [[Anakin Skywalker|Darth Vader]], but the plans themselves eluded the [[Dark Lord of the Sith|Dark Lord]]. During a meeting of high ranking Imperial staff aboard the station, he argued with [[General]] [[Cassio Tagge]] of the [[Imperial Army]] over the effectiveness of the Death Star and the threat of the Rebellion in the [[Galactic Civil War]]. Tagge felt that the Rebel Alliance posed a threat to the battle station, whereas Motti was confident that the superweapon was invincible. Tagge also feared that the growing Rebel movement would gain sympathy in the [[Imperial Senate]]. However, the two were interrupted by Grand Moff Tarkin, who informed the [[Imperial officer|officers]] present that the Senate had been recently dissolved by the Emperor himself.<ref name="anh" />
+
+The regional governors would now have direct control over [[Star system|systems]], and the planets would not dare step out of line due to fear of the Death Star. However, Tagge continued to insist that the Rebellion was dangerous, especially if they had obtained a copy of the Death Star plans. Though Darth Vader&mdash;who had recently arrived to interrogate [[Prince]]ss [[Leia Organa]]&mdash;admitted that the plans were in the hands of the Rebellion, he proclaimed that soon the Empire would have them. Motti then boasted of the Death Star's power, claiming that it was the preeminent power in [[the galaxy]]. However, Vader rebutted this claim, warning Motti not to underestimate the power of [[the Force]]. Arrogance clouding his judgment, Motti mocked Vader, insulting his devotion to the Force, alleging that it had not helped him recover the stolen Death Star plans or locate the Rebels' [[Massassi Site|hidden base]]. In response, Vader simply [[Force choke]]d him while rebuking him for his disturbing lack of faith, relenting only when ordered to do so by Tarkin but only at the very last moment. Motti slumped across the conference table, gasping for breath and considerably unnerved.<ref name="anh" />
+
+Motti later submitted a sharply worded incident report regarding the matter in which he stated that he would submit to discipline if necessary, but objected to Vader's attempt to proselytize him in his religion and stressing that it was important to take pride in this project that had taken so much of the Empire's time and effort.<ref name="incidentreport">{{Shortstory|story=An Incident Report|book=From a Certain Point of View}}</ref>
+
+[[File:Motti2.png|220px|right|thumb|Motti]]
+When the Death Star arrived near Organa's home planet of [[Alderaan]], Motti informed Tarkin prior to Vader's return with the Princess in his possession. Tarkin threatened to destroy the planet if she did not reveal the location of the Alliance's base, and Organa informed them that the base was on [[Dantooine]]. Tarkin then ordered the Death Star's superlaser to [[The Disaster|fire]] when ready, shocking the princess. He felt that this would be a demonstration that would terrify the rest of the galaxy&mdash;fear would keep dissidents in line. A group of Rebels managed to make it aboard the Death Star, and [[Rescue of Princess Leia|succeeded]] in freeing Organa from her [[Detention Block AA-23|cell]]. They then fled in their ship, the ''[[Millennium Falcon]]''. Imperial [[stormtrooper]]s had placed a [[Homing beacon|tracking device]] aboard the starship earlier, however, and the Empire was able to track the [[freighter]] to the Rebel base on [[Yavin 4|a]] [[moon]] of the planet [[Yavin]], which was located in in the [[Outer Rim Territories|Outer Rim]].<ref name="anh" />
+
+A [[Battle of Yavin|battle]] began between the Imperial and Rebel forces above the Death Star. When several [[T-65 X-wing starfighter|X-wing]] [[Starfighter|fighters]] proved adept at evading the station's defenses, Vader manned his [[Darth Vader's TIE Advanced|personal]] [[TIE Advanced x1|TIE fighter]] and attacked them. He began picking off the surviving fighters one by one, but some [[officer]]s nevertheless began to worry that the Rebel attack posed a danger. However, the Alliance was aware of a flaw in the Death Star&mdash;a small, uncovered [[thermal exhaust port]] leading directly to the station's [[Reactor|main reactor]]. Against all odds, and much to Tarkin's surprise, a Rebel X-wing piloted by [[Luke Skywalker]] succeeded in flying through the trench where the exhaust port was located, and successfully fired a pair of [[proton torpedo]]es into the shaft, causing the Death Star to explode, instantly killing all those on board,<ref name="anh" /> Motti included.<ref name="Encyclopedia" />
+
+==Personality and traits==
+{{Quote|Whatever conclusions you ultimately draw about the incident taking place between myself and Lord Vader during yesterday morning's briefing, he was wrong, and trying to crush someone else's windpipe doesn't make you any less wrong, if you're wrong to begin with. Which he was. I do not concede the argument.|An unrepentant Motti after being telekinetically choked by Darth Vader|An Incident Report}}
+Motti was loyal to Grand Moff Tarkin and held a rivalry against Vader.<ref name="Encyclopedia" /> The admiral believed in the infallibility of the Death Star, feeling that any attack made by the Rebellion against the station would be a useless gesture doomed to fail.<ref name="anh" /> According to Leia Organa, Motti enjoyed one of the largest egos in the galaxy.<ref name="PSFB">''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]''</ref> He was extremely arrogant and condescending to everyone around him, including fellow high-ranking officers like the more pragmatic General Tagge. He was also dismissive of the Force and doubted its very existence, calling Darth Vader a mere sorcerer with a "sad devotion to an ancient religion." This nearly resulted in his death when Vader Force-choked him for his insolence.
+
+Motti's arrogance led him to submit a lengthy incident report on the strangulation incident between him and Darth Vader in the Death Star conference room. Despite being on the receiving end of the Sith Lord's displeasure, Motti remained unrepentant, insisting that Vader was the one at fault for using violence, which Motti interpreted as meaning that he had won the argument. He further insinuated that Vader and Tagge were disloyal to the Empire, the former for putting his faith in the Force over the Death Star and the latter for being overly-concerned with the strength of the Rebellion.<ref name="incidentreport" /> Though Motti was more humble after his encounter with Vader, he nonetheless remained convinced of the Death Star's infallibility up until it blew up around him.
+
+==Behind the scenes==
+[[File:Richard_LeParmentier.jpg|thumb|right|200px|Motti was portrayed by American actor Richard LeParmentier]]
+Motti first appeared in the [[1977]] film [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], the first installment of the ''[[Star Wars]]'' [[original trilogy]]. He was played by [[Richard LeParmentier]], who was credited as "General Motti".<ref name="anh" /> Motti was originally intended to be an admiral, but as LeParmentier proved to be too tall for the uniform that he was to wear, he was fitted in the uniform of a general and Motti's rank was changed.<ref name="Motti Dearest">{{InsiderCite|40|In the Star Wars Universe}}</ref>
+
+Richard LeParmentier originally auditioned for the role of [[Han Solo]], but lost out to [[Harrison Ford]]. He was then offered the role of a customs officer who would try to stop Solo from leaving Mos Eisley. The role was ultimately cut from the film after LeParmentier turned it down, but he was invited back to read for Motti's part.<ref name="Motti Dearest" /> An American actor, LeParmentier was one of the few non-English actors cast as Imperial officers who spoke without an English accent.<ref name="anh" /><ref name="esb">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref><ref name="rotj">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref> To shoot the scene where Motti gets Force-choked by Darth Vader, LeParmentier spent days practicing choking in his dressing room to make it look convincing until he was able to control and induce spasms in his neck.<ref name="Motti Dearest" />
+
+In retrospective, Richard LeParmentier liked to be remembered as Motti, considering that it was an honor to have been part of the ''Star Wars'' saga.<ref name="actor">[http://www.admiralmotti.co.uk/ LeParmentier's site]</ref> LeParmentier was proud of the fact that Motti's Force choke was the first point in the saga that fans saw working the power of The Force, although back at that time, he had no idea if the film was to be as successful as it ultimately turned out. He greatly enjoyed his experience and cited the only inconvenience he faced on set was Motti's boots, as they caused him a considerable amount of foot perspiration. As such, the film's crewmembers would take the boots of the Imperials off and air-dry their feet bBetween shots.<ref name="Motti Dearest" />
+
+While portraying the character, Richard LeParmentier saw Motti as a trigger-happy military type who was aching to demonstrate the Death Star's power and was resentful to the people who disagreed with him. He played Motti as a sanctimonious and smug character, believing that it was necessary in the contrast with the calm and reasonable Cassio Tagge played by [[Don Henderson]] to prompt Darth Vader to use The Force on Motti.<ref name="Motti Dearest" /> By the time of his death in [[2013]], LeParmentier was producing an animated [[fan film]] called ''Motti Now'', in which Motti survives the Battle of Yavin and abandons the Empire. Unfortunately, it's likely that he didn't completed it before dying as it hasn't been released as of today.<ref name="actor" />
+
+===Name origins===
+{{Quote|See, because Lucas is the supreme creator of the Star Wars universe, when he says something it becomes real. Oh yeah. I think you hear what I'm saying, party people: There is now officially a Star Wars character named after Conan!! HOW AWECELLET IS THAT?! The Star Wars wiki Wookieepedia has already incorporated the change into the Star Wars Mythology! Man! This week couldn't get any better!|Conan O'Brien's NBC blog|url=http://web.archive.org/web/20080303214713/http://blog.nbc.com/latenight/2007/05/breaking_hearts_and_making_far.php}}
+Motti's full name was revealed by ''Star Wars'' creator [[George Lucas]] on an episode of ''[[Wikipedia:Late Night with Conan O'Brien|Late Night with Conan O'Brien]]'' on [[May 1]], [[2007]]. When Lucas was challenged to a trivia question by a fan&mdash;''Late Night'' Associate Producer Jordan Schlansky&mdash;as to the name of the officer who Darth Vader Force chokes in ''A New Hope'', Lucas jokingly replied "Conan Antonio Motti", a [[tuckerization]] of [[Conan O'Brien]]'s name. The next day after the episode's airing, ''Late Night'' posted a blog entry on the NBC website about their surprise at the [http://starwars.wikia.com/index.php?title=Conan_Antonio_Motti&diff=1315629&oldid=1306890 quick response] of [[Wookieepedia]] in adopting the new full name for Motti as well as their appreciation for Lucas' decision to name the character after O'Brien.<ref name="blog">[http://web.archive.org/web/20080303214713/http://blog.nbc.com/latenight/2007/05/breaking_hearts_and_making_far.php Conan O'Brien's NBC.com blog]</ref> The name was then confirmed in-universe by [[Star Wars Legends|''Star Wars'' Legends]] novels and eventually in the [[canon]] novel ''[[Tarkin (novel)|Tarkin]]''.<ref name="Tarkin" />
+
+==Appearances==
+*''[[Tarkin (novel)|Tarkin]]'' {{1stID|Antonio Motti}}
+*''[[Bounty Hunt]]''
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]''
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*''[[Star Wars: Heroes Path]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*{{Shortstory|story=Fully Operational (short story)|sformatted=Fully Operational|book=From a Certain Point of View}}
+*{{Shortstory|story=An Incident Report|book=From a Certain Point of View}}
+*{{Shortstory|story=Change of Heart|book=From a Certain Point of View}}
+*{{Shortstory|story=Verge of Greatness|book=From a Certain Point of View}}
+*''[[Darth Vader 1: Vader]]'' {{Flash}}
+*{{Shortstory|story=Shu-Torun Lives|book=Star Wars 50: Hope Dies, Part I}} {{Flash}}
+
+===Non-canon appearances===
+*{{Droid Tales|Mission to Mos Eisley (episode)|Mission to Mos Eisley}} {{Flash}}
+
+==Sources==
+*{{SW|url=explore/the-movies/episode-iv/|text=''Star Wars: Episode IV - A New Hope''}} {{Po}}
+*{{SWE|characters|admiral-motti|Admiral Motti}}
+*{{SWE|characters|tarkin|Tarkin}}
+*{{SWE|characters|yularen|Admiral Yularen}}
+*{{InsiderCite|152|Launch Pad}}
+*''[[Ultimate Star Wars]]'' {{1stID|Conan}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]'' {{C|As Antonio Motti}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|admiral-motti|Admiral Motti|archivedate=20170808073039}}
+*{{Databank|wullf-yularen|Admiral Wullf Yularen|archivedate=20170404042020}}
+*{{Databank|general-tagge|General Tagge|archivedate=20170623095656}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWSB|53|Imperial Officers}}
+*{{SWSB|14|Darth Vader Vol. 1}}<!--"I find your lack of faith disturbing"-->
+*{{SWSB|21|Darth Vader Vol. 2}}<!--"Don't be too proud of this technological terror you've constructed"-->
+
+{{Interlang
+|de=Conan Antonio Motti#kanon
+|es=Conan Antonio Motti
+|nl=Conan Antonio Motti
+|no=Conan Antonio Motti
+|pl=Conan Antonio Motti
+|pt=Conan Antonio Motti
+|ru=Конан Антонио Мотти
+|uk=Конан Антоніо Мотті
+|esFA=1
+}}
+
+{{DEFAULTSORT:Motti, Antonio}}
+[[Category:Death Star residents]]
+[[Category:Humans]]
+[[Category:Imperial Navy admirals of the Galactic Empire]]
+[[Category:Joint Chiefs of the Imperial military]]
+[[Category:Males]]
+[[Category:Motti family]]

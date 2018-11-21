@@ -1,0 +1,148 @@
+{{Eras}}
+{{Droid
+|image=[[File:R2-KT_set_photo.png]]
+|name=R2-KT
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=[[Industrial Automaton]]<ref name="SWCE Note">''[[Star Wars Character Encyclopedia: Updated and Expanded]]'' notes that [[R2 series astromech droid]]s were manufactured by [[Industrial Automaton]], and the book also identifies several [[astromech droid]] features, many of which are visible on R2-KT in ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' and [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakes'']].</ref>
+|line=[[R-series]]<ref name="Star Wars: Droidography">''[[Star Wars: Droidography]]''</ref>
+|model=[[R2 series astromech droid]]<ref name="Film">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]</ref>
+|class=[[Astromech droid]]<ref name="Star Wars: Droidography" />
+|degree=
+|cost=
+|length=
+|width=
+|height=1.09 [[meter]]s<ref name="Astromech Droid">{{Databank|astromech-droid|Astromech Droid|archivedate=20170605070448}}</ref>
+|mass=
+|gender=[[Sexes|Feminine programming]]<ref name="Star Wars: Droidography" />
+|sensor=[[Color|Blue]]<ref name="Film" />
+|plating=Pink<ref name="Star Wars: Droidography" />
+|armament=
+|equipment=*[[Arc welder]]<ref name="AEYNTK Note">''[[Star Wars: Absolutely Everything You Need to Know]]'' establishes that [[R2 series astromech droid]]s were equipped with [[arc welder]]s.</ref>
+*[[Holoprojector]]<ref name="SWCE Note" />
+*[[Reader socket]]<ref name="SWCE Note" />
+*[[Recharge coupling]]<ref name="SWCE Note" />
+*Various others<ref name="SWCE Note" />
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Film" />
+**[[501st Legion]]<ref name="Film" />
+**[[Republic Navy]]<ref name="Film" />
+*[[Resistance]]<ref name="VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>}}
+'''R2-KT''' was a compassionate, [[Color|pink]]-plated [[R2 series astromech droid]] with [[Sexes|feminine]] programming who witnessed the rise and fall of numerous [[The galaxy|galactic]] powers. Serving in the [[Galactic Republic]] through the [[Clone Wars]], R2-KT eventually came into the service of [[Leia Organa]]'s [[Resistance]] several [[Standard decade|decades]] later during their [[First Order&ndash;Resistance war|war]] against the [[First Order]].
+
+While in service to the Galactic Republic, R2-KT worked in the [[Republic Navy]] alongside the [[501st Legion]] of the [[Grand Army of the Republic]]. Often stationed aboard the ''[[Resolute]]'', the [[flagship]] of [[Jedi General]] [[Anakin Skywalker]], R2-KT assisted in various campaigns, including the search for [[Rotta]] the [[Hutt]]let in the [[Battle of Teth]], the rescue of [[Jedi Master]] [[Aayla Secura]] in the [[Battle of Quell]], and the destruction of the [[Confederacy of Independent Systems|Separatist]] [[blockade]] prior to the [[Battle of Ryloth]].
+
+Over fifty [[Standard year|years]] later, the [[droid]] served in the ground forces of the Resistance, maintaining [[starfighter]]s at the [[Resistance base]] on the [[planet]] [[D'Qar]]. R2-KT held this position during the [[Battle of Starkiller Base|assault]] on [[Starkiller Base]], a [[superweapon]] of the First Order. Following the battle, R2-KT attended the send-off of [[Rey]] and [[Chewbacca]] on their journey to find [[Luke Skywalker]], the last [[Jedi]].
+
+==Biography==
+===Droid of the 501st===
+R2-KT was an [[R2 series astromech droid]] who served in the [[Republic Navy]] beside the [[501st Legion]] of the [[Grand Army of the Republic]] during the [[Clone Wars]], a [[The galaxy|galactic]] campaign of the [[Galactic Republic]] against the [[Confederacy of Independent Systems]].<ref name="Film" /> Less than a [[Standard year|year]] into the war,<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Rotta]], the [[Sexes|son]] of [[crime lord]] [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]], was kidnapped by the Separatists, and the 501st Legion was assigned to rescue the Huttlet.<ref name="Film" />
+
+[[File:R2-KT_meeting.png|thumb|left|300px|R2-D2 and R2-KT served together with the 501st Legion.]]
+Meeting with [[Jedi General]] [[Anakin Skywalker]], R2-KT and the 501st rendezvoused for a mission briefing in the [[hangar]] of an [[Acclamator-class transgalactic military assault ship|''Acclamator''-class transgalactic military assault ship]] above the [[planet]] [[Teth]], the location of Jabba's kidnapped son. Prior to the mission, Skywalker's [[Padawan]], [[Ahsoka Tano]], told the story of how she saved her master in the [[Battle of Christophsis]] by collapsing a wall over him and onto enemy [[battle droid]]s. The story humored the 501st [[clone trooper]]s, prompting [[Clone Captain]] [[Rex]] to ask Skywalker if it was true. When the [[Jedi]] affirmed that most of it was, R2-KT and fellow [[astromech droid]] [[R2-D2]]<ref name="Film" /> chuckled.<ref name="Film subtitles">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]] subtitles</ref> Wasting no [[time]], Skywalker reminded his men that they had a [[Battle of Teth|battle]] to prepare for, and at the order of Rex, R2-KT and the 501st disbanded.<ref name="Film" />
+
+Later in the war, R2-KT served aboard the ''[[Resolute]]'', a [[Venator-class Star Destroyer|''Venator''-class Star Destroyer]], which served as [[General]] Skywalker's [[flagship]] and was commanded by [[Admiral]] [[Wullf Yularen]]. While the ''Resolute'' was defensively stationed in the [[Quell system]] of the [[Outer Rim Territories]], Jedi General [[Aayla Secura]] requested aid from Skywalker, since her forces were heavily outnumbered in the [[Battle of Quell]]. As the ''Resolute'' arrived in [[Quell]]'s [[atmosphere]], R2-KT was present in the [[capital ship]]'s hangar bay beside a [[Low Altitude Assault Transport/infantry]] [[gunship]] which Skywalker, Tano, and Rex promptly boarded. As R2-KT left the hangar, the [[commander]]s, along with two additional gunships, exited the ''Resolute'' to assist Secura's forces.<ref name="Jedi Crash">{{TCW|Jedi Crash}}</ref>
+
+In the time after the Battle of Quell, the planet [[Ryloth]] came under siege by Separatist forces led by [[Wat Tambor]]. To confront the [[blockade]], the Republic dispatched three [[Star Destroyer]]s, the ''Resolute'', the ''[[Defender]]'', and the ''[[Redeemer]]''. Skywalker assigned Tano to lead the attack through the blockade, and R2-KT was stationed in the ''Resolute''{{'}}s hangar bay as the Padawan and [[Blue Squadron (Galactic Republic)|Blue Squadron]] prepared their [[starfighter]]s. Once Tano and Blue Squadron engaged the enemy forces, four [[Munificent-class star frigate|''Munificent''-class star frigates]] appeared out of [[hyperspace]] to reinforce the blockade. Overpowered, the Republic Star Destroyers were forced into a retreat, although the ''Redeemer'' was destroyed before it could escape. After the retreat, R2-KT remained in the ''Resolute'' hangar, moving past the remaining [[V-19 Torrent starfighter]]s as Skywalker requested a headcount from two [[clone trooper pilot]]s. Soon after, R2-KT continued roaming the hangar as Skywalker and R2-D2 made repairs to Tano's [[Delta-7B Aethersprite-class light interceptor|Delta-7B ''Aethersprite''-class light interceptor]]. After talking with Tano, Skywalker decided that they should return to the blockade, planning to use the heavily-damaged ''Defender'' to ram the [[Lucrehulk-class Battleship|''Lucrehulk''-class Battleship]] and break the Separatist formation. As the crew of the ''Resolute'' rushed to the hangar and worked to evacuate the ''Defender'', R2-KT remained posted near an LAAT/i gunship. Skywalker's plan succeeded, and additional Republic [[Starship|ships]] arrived to begin the ground assault.<ref name="Storm Over Ryloth">{{TCW|Storm Over Ryloth}}</ref>
+
+===Serving the Resistance===
+After fighting for three years, the war came to an end in [[19 BBY]], and the victorious Republic [[Proclamation of the New Order|reformed]] into the [[Galactic Empire]]. However, many [[Star system|systems]] were against the Imperial rule, so the [[Alliance to Restore the Republic]] was created, and in [[0 BBY]], the [[Galactic Civil War]] began. In [[4 ABY]], the Empire suffered a major loss at the [[Battle of Endor]], in which [[Galactic Emperor]] [[Darth Sidious|Sheev Palpatine]] was [[Death|killed]].<ref name="Galactic Atlas" /> In the [[Standard month|months]] after the Battle of [[Endor]], the Rebel Alliance reformed into the [[New Republic]] and decisively defeated the Empire in the [[Battle of Jakku]]. However, in the following [[Standard decade|decades]], Imperial sympathizers created the [[First Order]], threatening the safety of the Republic. To [[Cold war|combat]] the First Order, [[Leia Organa]] created the [[Resistance]], a small military force, and within six years of the Resistance's creation,<ref name="Bloodline">''[[Bloodline (novel)|Bloodline]]''</ref> R2-KT came into its service, operating at the [[Resistance base]] on the planet [[D'Qar]].<ref name="SaBBotage">{{Shortstory|story=SaBBotage|book=Poe Dameron 1: Black Squadron, Part I}}</ref> Like many Resistance [[droid]]s,<ref name="B-U4D">{{Databank|b-u4d-buford|B-U4D (Buford)|archivedate=20170605105309}}</ref> R2-KT was granted independence<ref name="SaBBotage" /> and viewed as a partner rather than a machine.<ref name="B-U4D" /> Alongside the [[Labor droid|loading droid]] [[B-U4D]], the [[BB-series|BB unit]] [[BB-8]], and [[Technician|tech officer]] [[Peet Deretalia]], R2-KT was part of the ground forces responsible for keeping the Resistance's [[T-70 X-wing starfighter]]s ready for flight.<ref name="SaBBotage" />
+
+[[File:Resistance_group_shot_R2-KT.jpg|thumb|right|300px|R2-KT (far right) attended the send-off of Rey and Chewbacca on their journey to find Luke Skywalker.]]
+Twenty-nine years after the Battle of [[Jakku]],<ref name="Battlefront">''[[Star Wars Battlefront]]''</ref> the First Order [[Hosnian Cataclysm|destroyed]] the Republic [[capital]] in the [[Hosnian system]] with the use of a [[superweapon]] called [[Starkiller Base]]. In response, the Resistance established plans to destroy the weapon, and the [[Resistance pilot]]s prepared their starfighters; during this time, R2-KT was stationed at the Resistance base airfield. Led by [[Poe Dameron]], the Resistance began their [[Battle of Starkiller Base|assault]] on Starkiller Base, successfully destroying the superweapon by crippling its [[thermal oscillator]]. Shortly after the battle, R2-D2&mdash;who was also in service to the Resistance&mdash;completed a map to [[Luke Skywalker]], the last Jedi, with the help of BB-8. Resistance members [[Rey]] and [[Chewbacca]] were selected to find Skywalker aboard the ''[[Millennium Falcon]]'', and R2-KT attended their send-off.<ref name="VII" />
+
+==Characteristics==
+R2-KT was a 1.09 [[meter]]-tall,<ref name="Astromech Droid" /> [[Sexes|feminine]] R2 [[R-series|series]] astromech droid<ref name="Star Wars: Droidography" /> produced by [[Industrial Automaton]].<ref name="SWCE Note" /> Covered in [[Color|white]], pink-accented plating and a gray dome, R2-KT had a light blue [[photoreceptor]].<ref name="Film" /> R2-KT had a compassionate personality<ref name="Star Wars: Droidography" />&mdash;a characteristic present in the programming of many R2 units.<ref name="Droids in Distress">[[Droids in Distress (book)|''Droids in Distress'' book]]</ref> She also had a sense of humor,<ref name="Star Wars: Droidography" /> chuckling with R2-D2 when Tano told a story about saving Anakin Skywalker's life.<ref name="Film subtitles" />
+
+==Equipment==
+As an R2 series astromech droid,<ref name="Film" /> R2-KT was equipped with an [[arc welder]],<ref name="AEYNTK Note" /> a [[holoprojector]], a [[reader socket]], a [[recharge coupling]], and various concealed tools. Additionally, R2-KT had two motorized all-terrain treads and a third, retractable tread for balancing on uneven surfaces.<ref name="SWCE Note" />
+
+==Behind the scenes==
+===Creation and charity===
+{{Quote|In 2004 Katie was diagnosed with terminal brain cancer. Katie loved ''Star Wars'' and loved the color pink. When her health declined to the point she couldn't get out of bed, she said she wished she had a droid to watch over her like R2-D2 watched over a sleeping Padmé in ''Attack of the Clones''.|Albin Johnson|url=http://www.starwars.com/news/the-power-of-the-pink-side}}
+[[File:TheRealR2KT.PNG|thumb|left|250px|R2-KT honors the memory of Katie Johnson by raising awareness of pediatric illness.]]
+R2-KT, the "Droid With the Heart of Gold,"<ref name="Insider 147">{{InsiderCite|147|Bantha Tracks}}</ref> was created by the [[R2-D2 Builders Club]] in [[2005]] as a tribute to [[Katie Johnson]], the seven-year-old daughter of [[Albin Johnson]], the founder of the [[501st Legion (fan organization)|501st Legion]] costuming group. Katie was diagnosed with terminal brain cancer in [[2004]], and Albin (who was doing 501st charity work at the time), began to receive support from around the ''[[Star Wars]]'' community. Garrisons of the 501st Legion started independent fundraisers, and when ''Star Wars'' creator [[George Lucas]] visited [[Wikipedia:Japan|Japan]] on a promotional tour for [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']], the Japanese Garrison told him of Katie's condition. In response, Lucas filmed her a "get well" video.<ref name="Pink Side">{{SW|url=news/the-power-of-the-pink-side|text=R2-KT and the Power of the Pink Side}}</ref>
+
+As Katie's declining health struck her bedridden, the girl wished she had a droid to watch over her, like R2-D2 watched over [[Padmé Amidala]] in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]. When [[Jerry Greene]] of the R2 Builders heard about the Johnsons' story, he and his fellow builders organized a campaign to collect parts and assemble an R2 unit for Katie. In a few months, they constructed a custom, fully functional droid which they painted pink and named "R2-KT." According to Albin, Katie kept the droid by her bedside through her final days.<ref name="Pink Side" />
+
+R2-KT has since been used to visit children's hospitals and spread awareness of pediatric illness by attending ''Star Wars'' events. The droid has also been the focus of various fundraisers; in [[2007]], [[Hasbro Inc.]] produced an R2-KT action figure, raising $100,000 for the [[Wikipedia:Make-A-Wish Foundation|Make-A-Wish Foundation]],<ref name="Pink Side" /> and in [[2015]], [[Wikipedia:Mattel|Mattel]] sold a [[Celebration Anaheim]]&ndash;exclusive R2-KT [[Wikipedia:Hot Wheels|Hot Wheels]] collectible, donating the proceeds to [[Wikipedia:Star Wars: Force for Change|''Star Wars'': Force for Change]].<ref name="Insider 157">{{InsiderCite|157|Blaster (Star Wars Insider)|Blaster}}</ref> With the 501st Legion, R2-KT has raised millions of dollars for charity.<ref name="Albin Johnson">{{SW|url=news/contributor/ajohnson|text=Albin Johnson}}</ref>
+
+===Role in ''Star Wars'' canon===
+{{Quote|R2-KT, an astromech that came out of the fan group the 501st is in the film, was in ''Clone Wars''&mdash;shows up all over the place&mdash;is in LEGO, because we respect the fans and want you to feel like you are heard.|Dave Filoni|url=https://www.youtube.com/watch?v=VNkvAt5p4k0}}
+In [[2008]], R2-KT was introduced to ''Star Wars'' [[canon]] when [[Dave Filoni]] of [[Lucasfilm Ltd.]] featured the droid in the animated feature film ''[[Star Wars: The Clone Wars (film)|Star Wars: The Clone Wars]]''<ref name="Pink Side" /> as a way to honor the memory of Katie<ref name="Film commentary">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]] commentary</ref> and show respect to fans of ''Star Wars''.<ref name="Storytelling">{{SWYoutube|video=VNkvAt5p4k0|text=Lucasfilm: The Art of Storytelling Panel <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}</ref> R2-KT made two additional cameo appearances in the [[Star Wars: The Clone Wars (TV series)|''Clone Wars'' television series]], appearing in the [[The Clone Wars: Season One|season one]] episodes "[[Jedi Crash]]"<ref name="Jedi Crash" /> and "[[Storm Over Ryloth]]."<ref name="Storm Over Ryloth" /> In the [[The Clone Wars: Season Five|season five]] episode "[[Secret Weapons]]," R2-KT was set to appear alongside R2-D2 as a member of [[D-Squad]]. However, to avoid the confusion of having two characters named "Artoo," R2-KT was replaced with [[QT-KT]], a droid styled in R2-KT's likeness.<ref name="Secret Weapons">{{SW|url=tv-shows/clone-wars/secret-weapons-trivia-gallery|text=Secret Weapons Trivia Gallery|archivedate=20170605033622}} {{C|Image 5}}</ref>
+
+[[File:Poe at the Resistance Base.png|thumb|right|300px|One of R2-KT's background cameos in ''Star Wars'': Episode VII ''The Force Awakens''.]]
+In 2015, Albin Johnson revealed that R2-KT would make a live-action appearance in [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']],<ref name="Albin Tweet">{{Twitter|tk210|status/670633464056684545|[[Albin Johnson]]|quote=It's official, R2-KT is in The Force Awakens. We just received permission to share the news.|image=File:R2-KT The Force Awakens Confirmation.png}}</ref> the seventh installment to the episodic ''Star Wars'' saga,<ref name="VII" /> and [[Pablo Hidalgo]] of the [[Lucasfilm Story Group]] confirmed that the droid was the same [[in-universe]] character from ''The Clone Wars''.<ref name="Pablo Tweet">{{Twitter|pablohidalgo|status/679407029136416768|[[Pablo Hidalgo]]|quote=Is it the same droid from the TCW movie? That would be the intent. Droid got around in 56 years.|image=File:R2-KT Tweet.png}}</ref> In the film, R2-KT appears in three brief cameos.<ref name="VII" /> R2-KT also appears as a playable character in ''[[LEGO Star Wars: The Force Awakens]]'', a non-canon [[video game]] adaptation of the film released in [[2016]].<ref name="LEGO">''[[LEGO Star Wars: The Force Awakens]]''</ref>
+
+==Appearances==
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]] {{1st}}
+*{{TCW|Jedi Crash}}
+*{{TCW|Storm Over Ryloth}}
+*{{Shortstory|story=SaBBotage|book=Poe Dameron 1: Black Squadron, Part I}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*{{SW|url=tv-shows/clone-wars/storm-over-ryloth-episode-guide|text="Storm Over Ryloth" Episode Guide - ''The Clone Wars''|org=theclonewars/guide/episode019.html|archivedate=20170628191048}}
+*{{SW|url=tv-shows/clone-wars/secret-weapons-episode-guide|text="Secret Weapons" Episode Guide - ''The Clone Wars''}}
+*{{InsiderCite|153|Bantha Tracks}} {{Po}}
+*{{InsiderCite|157|Blaster (Star Wars Insider)|Blaster}}
+*{{InsiderCite|169|Launch Pad}}
+*{{SW|url=video/taran-killam-talks-matt-the-radar-technician-we-check-out-fan-made-droids-and-more|text=Taran Killam Talks Matt the Radar Technician, We Check Out Fan-Made Droids, and More!}}
+*{{SW|url=video/albin-johnson-and-the-power-of-fandom-our-star-wars-stories|text=Albin Johnson and the Power of Fandom - Our Star Wars Stories}}
+*''[[Star Wars: Women of the Galaxy]]''
+*''[[Star Wars: Droidography]]''
+
+==Notes and references==
+{{Reflist}}
+
+==See also==
+{{Imagecat|Images of R2-KT}}
+*[[KT-10]]
+*[[List of fanon elements in continuity]]
+*[[R2-HA]]
+
+==External links==
+{{Scroll_box|content=
+*[http://r2kt.com/ R2-KT.com]
+*{{SW|url=news/contributor/ajohnson|text=Albin Johnson}}
+*{{SW|url=news/introducing-albin-johnson|text=Introducing... Albin Johnson}}
+*{{SW|url=news/may-the-4th-be-with-you-special-product-releases-and-events|text=May the 4th Be with You: Special Product Releases and Events}}
+*{{SW|url=news/celebrating-celebration-europe|text=Celebrating Celebration Europe}}
+*{{SW|url=news/the-power-of-the-pink-side|text=R2-KT and the Power of the Pink Side}}
+*{{SW|url=news/remembering-katie-inspiring-hope-with-r2-kt-art-part-1|text=Remembering Katie, Inspiring Hope with R2-KT Art, Part 1}}
+*{{SW|url=news/remembering-katie-inspiring-hope-with-r2-kt-art-part-2|text=Remembering Katie, Inspiring Hope with R2-KT Art, Part 2}}
+*{{SW|url=news/collecting-the-galaxy-star-wars-day-product-releases-events|text=Collecting the Galaxy: ''Star Wars'' Day Product Releases/Events}}
+*{{SW|url=news/remembering-katie-inspiring-hope-with-r2-kt-art-part-3|text=Remembering Katie, Inspiring Hope with R2-KT Art, Part 3}}
+*{{SW|url=news/from-world-war-to-star-wars-pink-secret-weapons|text=From World War to ''Star Wars'': Pink Secret Weapons}}
+*{{SW|url=news/sdcc-2014-star-wars-collectibles-panel-liveblog|text=SDCC 2014: ''Star Wars'' Collectibles Panel – Liveblog}}
+*{{SW|url=news/star-wars-in-the-uk-london-film-and-comic-con-2014|text=''Star Wars'' in the UK: London Film and Comic Con 2014}}
+*{{SW|url=news/remembering-celebration-europe-one-year-on|text=Remembering Celebration Europe: One Year On}}
+*{{SW|url=news/star-wars-force-for-change-at-celebration-anaheim|text=Star Wars: Force For Change at Celebration Anaheim}}
+*{{SW|url=news/the-adventures-of-r2-kt-at-celebration-anaheim|text=The Adventures of R2-KT at Celebration Anaheim}}
+*{{SW|url=news/8-things-to-look-and-listen-for-in-star-wars-the-force-awakens|text=8 Things to Look (and Listen) for in ''Star Wars: The Force Awakens''}}
+*{{SWYoutube|video=RzzWmTIVv3c|text=Droids of The Force Awakens Panel <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}
+*{{SWYoutube|video=VNkvAt5p4k0|text=Lucasfilm: The Art of Storytelling Panel <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}
+}}
+
+{{Interlang
+|de=R2-KT
+|es=R2-KT
+|fi=R2-KT
+|it=R2-KT
+|ja=R2-KT
+|ko=R2-KT
+|pl=R2-KT
+|ru=R2-KT/Канон
+}}
+
+[[Category:Feminine programming]]
+[[Category:Members of the 501st Legion]]
+[[Category:R2-series astromech droids]]
+[[Category:Republic Navy personnel]]
+[[Category:Resistance members]]
+[[Category:Star Wars culture]]

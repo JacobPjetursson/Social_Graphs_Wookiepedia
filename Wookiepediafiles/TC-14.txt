@@ -1,0 +1,59 @@
+{{Eras}}
+{{Droid
+|image=[[File:TC-14_Disney.png]]
+|name=TC-14
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=
+|line=
+|model=[[TC-series protocol droid]]<ref name="AEYNtK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref>
+|class=[[Protocol droid]]<ref name="TPM">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|degree=
+|cost=
+|length=
+|width=
+|height=1.67 [[meter]]s<ref name="TC-14">{{Databank|tc-14|TC-14}}</ref>
+|mass=
+|gender=[[Sexes|Feminine programming]]<ref name="TPM" />
+|sensor=
+|plating=
+|armament=
+|equipment=
+|era=
+|affiliation=[[Trade Federation]]<ref name="TPM" />}}
+{{Quote|The ambassadors are Jedi Knights, I believe.|TC-14|Star Wars: Episode I The Phantom Menace}}
+'''TC-14''' was a [[TC-series protocol droid|TC-series]] [[protocol droid]] displaying [[Sexes|feminine programming]] that served aboard the stationed aboard the [[Trade Federation]] [[flagship]], the [[Lucrehulk-class LH-3210 cargo freighter]] ''[[Saak'ak]]''. Due to the nature of her job, her memory banks were wiped regularly to prevent her from developing a personality or conscience.<ref name="AEYNtK" /> She greeted the [[Jedi]] [[Qui-Gon Jinn]] and [[Obi-Wan Kenobi]] when they boarded the vessel and then informed her masters that she believed their guests to be Jedi.<ref name="TPM" />
+
+{{Char-stub}}
+
+==Behind the scenes==
+TC-14 was played by [[John Fensom]] and voiced by [[Lindsay Duncan]] in the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']].<ref name="TPM" />
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*''[[The Prequel Trilogy Stories]]''
+
+===Non-canon appearances===
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+
+==Sources==
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*{{InsiderCite|161|Jedi Challenge!}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Droidography]]''
+*{{Databank|tc-14|TC-14}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=TC-14#kanon
+|ko=TC-14
+}}
+
+[[Category:Feminine programming]]
+[[Category:TC-series protocol droids]]
+[[Category:Trade Federation members]]

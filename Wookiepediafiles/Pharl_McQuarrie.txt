@@ -1,0 +1,41 @@
+{{Eras}}
+{{Character
+|type=Rebel
+|image=[[File:PharlMcQuarriewalking.png]]
+|name=Pharl McQuarrie
+|homeworld=
+|birth=
+|death=
+|species=[[Human]]<ref name="ESB">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+|gender=[[Sexes|Male]]<ref name="ESB" />
+|height=
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Alliance to Restore the Republic]]<ref name="Updated and Expanded">''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''</ref>
+**[[Rebel army]]<ref name="Updated and Expanded" />
+|masters=
+|apprentices=}}
+'''Pharl McQuarrie''' was a [[general]] in the [[Rebel army|army]] of the [[Alliance to Restore the Republic]].<ref name="Updated and Expanded" />
+
+{{Char-stub}}
+
+==Behind the scenes==
+Pharl McQuarrie's name is a [[tuckerization]] of the late [[Ralph McQuarrie]], who was the conceptual designer responsible for much of the aesthetics of and many designs featured in the ''[[Star Wars]]'' [[original trilogy]].
+
+==Appearances==
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+
+==Sources==
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]'' {{1stID|Pharl McQuarrie}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:McQuarrie, Pharl}}
+[[Category:Alliance Army generals]]
+[[Category:Humans]]
+[[Category:Males]]

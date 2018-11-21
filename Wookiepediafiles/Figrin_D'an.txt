@@ -1,0 +1,65 @@
+{{Eras}}
+{{Update|[[Not for Nothing]]}}
+{{Character
+|type=
+|image=[[File:FigrinDan CT.png]]
+|name=Figrin D'an
+|homeworld=[[Bith (planet)|Bith]]<ref name="USW">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Bith]]<ref name="Music">{{SW|url=/news/music-in-the-star-wars-galaxy-the-modal-nodes-vs-the-max-rebo-band|text=''Music in the Star Wars Galaxy: The Modal Nodes vs. The Max Rebo Band''}}</ref>
+|gender=[[Sexes|Male]]<ref name="SWCT">[[Star Wars: Card Trader|''Star Wars'': Card Trader]]</ref>
+|height=1.79 [[meter]]s<ref name="Databank">{{Databank|figrin-d-an|Figrin D'an|archivedate=20161229181030}}</ref>
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="ANH">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref>
+|skin=Pink<ref name="ANH" />
+|cyber=
+|era=
+|affiliation=[[Figrin D'an and the Modal Nodes]]<ref name="ANH" />
+|masters=
+|apprentices=}}
+{{Quote|Whoever heard of a bander who didn't gamble?|Figrin D'an|Ultimate Star Wars}}
+"'''Fiery'''" '''Figrin D'an''' was a [[Sexes|male]] [[Bith]] [[musician]] who played the [[Kloo horn]] as frontman and leader of the [[band]] [[Figrin D'an and the Modal Nodes]].
+
+==Biography==
+A [[Sexes|male]] [[Bith]] [[Reproduction|born]] on the [[species]]' [[homeworld]] of [[Bith (planet)|Bith]], Figrin D'an proved to have a fine aptitude for [[music]] and high manual dexterity for playing a range of instruments,<ref name="USW" /> and became the bandleader and organizer of the all-Bith [[band]] [[Figrin D'an and the Modal Nodes]].<ref name="SWCT" /> D'an favored the [[Kloo horn]], although could also play a mean [[Gasan string drum]].<ref name="USW" /> He proved overbearing and compulsive to his band-mates, although the Modal Nodes earned a reputable standing in the music industry, and achieved reasonable success on the [[The galaxy|galactic]] circuit. However, the band largely remained an entertainment feature on the [[Outer Rim Territories]], theorized to be due to the lack of vocals in their tracks.<ref name="SWCT" /> In particular, they became a popular fixture at [[Chalmun's Spaceport Cantina]] in [[Mos Eisley]] on [[Tatooine]],<ref name="USW" /> where patrons preferred D'an's work on the Gasan string drum over his usual Kloo horn.<ref name="Modal Nodes Databank">{{Databank|figrin-d-an-and-the-modal-nodes|Figrin D'an and the Modal Nodes|archivedate=20170602113800}}</ref>
+
+Shortly before the [[Battle of Yavin]], D'an and the Modal Nodes played<ref name="ANH" /> their most recognizable tune<ref name="Databank" /> "[[Mad About Me]]"<ref name="Absolutely Everything">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref> on stage in [[Chalmun]]'s [[cantina]], although their performance was interrupted by [[Jedi Master]] [[Obi-Wan Kenobi]] slicing off the arm of the [[Aqualish]] [[Ponda Baba]] in defense of the young farmboy [[Luke Skywalker]]. Once the incident was over, the band began playing again as the cantina's patrons returned to their drinks.<ref name="ANH" />
+
+==Personality and traits==
+As a Bith, Figrin D'an had a fine aptitude for music and boasted a high manual dexterity, allowing him to play a range of instruments.<ref name="USW" /> While head of the Modal Nodes, Figrin D'an was overbearing and compulsive, although the band managed to maintain a reputable standing in the music industry.<ref name="SWCT" /> Nonetheless, Figrin was a rocking frontman, and his deft playing of his Kloo horn earned him the nickname "Fiery" Figrin.<ref name="Databank" />
+
+==Appearances==
+*''[[Star Wars Battlefront II]]'' {{Hologram}}
+*''[[Bounty Hunt]]''
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]''
+*{{Shortstory|story=The Luckless Rodian|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*{{Shortstory|story=Not for Nothing|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*{{Shortstory|story=The Kloo Horn Cantina Caper|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Imo}}
+
+===Non-canon appearances===
+*''[[Disney Infinity 3.0]]''
+
+==Sources==
+*{{SW|url=/news/music-in-the-star-wars-galaxy-the-modal-nodes-vs-the-max-rebo-band|text=''Music in the Star Wars Galaxy: The Modal Nodes vs. The Max Rebo Band''}} {{1stID}}
+*[[Star Wars: Card Trader|''Star Wars'': Card Trader]] {{1stID|"Fiery" Figrin D'an}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
+*{{Databank|bith|Bith|archivedate=20170905085010}}
+*{{Databank|figrin-d-an|Figrin D'an|archivedate=20161229181030}}
+*{{Databank|figrin-d-an-and-the-modal-nodes|Figrin D'an and the Modal Nodes|archivedate=20170602113800}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:D'an, Figrin}}
+[[Category:Bith]]
+[[Category:Males]]
+[[Category:Musicians]]

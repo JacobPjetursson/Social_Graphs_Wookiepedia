@@ -1,0 +1,60 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Yarna-dal-Gargan-SWCT.png]]
+|name=Yarna d'al' Gargan
+|homeworld=[[Askaji]]<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|birth=
+|death=
+|species=[[Askajian]]<ref name="Character Encyclopedia" />
+|gender=[[Sexes|Female]]<ref name="DB Yarna">{{Databank|yarna-d-al-gargan|Yarna d'al' Gargan|archivedate=20150902090139}}</ref>
+|height=1.5 [[meter]]s<ref name="DB Yarna" />
+|mass=
+|hair=[[Color|Dark brown]]<ref name="RotJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|eyes=
+|skin=
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+'''Yarna d'al' Gargan''' was a [[Sexes|female]] [[Askajian]] whose [[Parent|father]] was a tribal [[chief]] back on her [[homeworld]] of [[Askaji]]. Many [[Standard year|years]] prior to the [[Battle of Endor]], she was captured by [[slaver]]s and transported to the [[desert]] [[planet]] of [[Tatooine]], where the [[Hutt]] [[crime lord]] [[Jabba Desilijic Tiure]] bought her. One of Jabba's many [[Slavery|slaves]], she served him as a dancing girl at [[Jabba's Palace|his palace]] on [[Tatooine]], often working alongside a young [[Twi'lek]] called [[Oola]]. She was present for Oola's execution, which horrified her, and the arrival of Luke Skywalker at the palace.
+
+==Biography==
+Yarna d'al' Gargan was the daughter of an Askajian tribal chief, the [[Marriage|wife]] of [[Nautag]], and the [[Parent|mother]] of four [[Youngling|cublings]]. On her [[homeworld]] of [[Askaji]], she would only dance for the honor of her tribe. One [[Standard day|day]], however, she and her family were captured by [[slaver]]s and brought to the [[desert]] planet of [[Tatooine]], where the [[Hutt]] [[crime lord]] [[Jabba Desilijic Tiure]] bought them. When Nautag attempted to rebel, the Hutt fed him to his pet [[rancor]] [[Pateesa]], and Yarna's cublings were sent to his [[Desilijic Complex|townhouse]] in [[Mos Eisley]].<ref name="Character Encyclopedia" />
+
+One of Jabba's many [[Slavery|slaves]], Yarna served him as an exotic dancing girl at [[Jabba's Palace|his palace]] in the [[Dune Sea]], often working alongside a young [[Twi'lek]] called [[Oola]].<ref name="DB Yarna" /> The Hutt was cruel with her, forcing the Askajian to enlarge her body to resemble a Hutt and wear make-up to make her look more like [[Jabba Desilijic Tiure's mother|his mother]]. Although she hated Jabba, Yarna managed to make friends with some of the palace regulars.<ref name="Character Encyclopedia" /> Eventually, the Hutt was strangled to [[death]] by [[Leia Organa]] near the [[Great Pit of Carkoon]], which effectively freed his slaves.<ref name="RotJ" /> That allowed Yarna to escape Jabba's palace and, at long last, reunite with her children.<ref name="Character Encyclopedia" />
+
+==Behind the scenes==
+Yarna d'al' Gargan was portrayed by [[Claire Davenport]] in [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]. During production of the movie, her character was known as Wiebba-wiebba.<ref name="Blog">{{Blog|official=true|2013/08/19/star-wars-mysteries-who-is-wiebba-wiebba/|''Star Wars'' Mysteries: Who is Wiebba-Wiebba?}}</ref> [[Pablo Hidalgo]] detailed this revelation on The Official Star Wars Blog in [[2013]]. [[Holocron continuity database]] keeper [[Leland Chee]] had however previously identified "[[Weeba Weeba]]" as the human Rancor keeper who wears apparel resembling that of [[Nizuc Bek/Legends|Nizuc Bek]] and [[Velken Tezeri/Legends|Velken Tezeri]] but is not conclusively one or the other.<ref name="Holocron">{{Blog|holocron|27/comments|Jabba's Skiff Guards|Keeper of the Holocron's Blog|Leland Chee|archivedate=20120504152912}}</ref>
+
+[[Kenner Products]] considered selling an action figure of Yarna, but thought it would be inappropriate to have a six [[breast]]ed toy on the shelves, as parents would not buy that toy for their children because they could see it immoral.<ref name="io9">{{cite web|url=https://io9.gizmodo.com/9-star-wars-toys-that-were-canceled-before-anybody-coul-1723640150|title=9 Star Wars Toys That Were Canceled Before Anybody Could Buy Them|work=io9.gizmodo.com|date=2015-08-18|last=Whitbrook|first=James}}</ref> Later on [[2008]] an action figure was released.
+
+==Appearances==
+*''[[Bounty Hunt]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+
+==Sources==
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
+*{{Databank|yarna-d-al-gargan|Yarna d'al' Gargan|archivedate=20150902090139}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ja=ヤーナ・ダル・ガーガン
+}}
+
+{{DEFAULTSORT: Gargan, Yarna d'al'}}
+[[Category:Askajians]]
+[[Category:Females]]
+[[Category:Jabba's dancers]]
+[[Category:Performing artists]]
+[[Category:Slaves]]
+[[Category:Tatooinians]]

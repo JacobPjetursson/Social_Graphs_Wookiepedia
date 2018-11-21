@@ -1,0 +1,70 @@
+{{Eras|imp}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Elle-SWcom.jpg]]
+|name=Ellé
+|homeworld=[[Naboo/Legends|Naboo]]<ref name="DB">{{DB|character|elle|Ellé}}</ref>
+|birth=
+|death=
+|species=[[Human/Legends|Human]]<ref name="DB" />
+|gender=[[Sexes/Legends|Female]]<ref name="DB" />
+|height=
+|mass=
+|hair=[[Color/Legends|Brown]]<ref name="DB" />
+|eyes=Brown<ref name="DB" />
+|skin=Tan<ref name="DB" />
+|cyber=
+|era=[[Rise of the Empire era]]<ref name="DB" />
+|affiliation=*[[Royal House of Naboo/Legends|Royal House of Naboo]]<ref name="DB" />
+**[[Royal Naboo Security Forces/Legends|Royal Naboo Security Forces]]<ref name="DB" />
+*[[Galactic Republic/Legends|Galactic Republic]]<ref name="DB" />
+**[[Naboo Senatorial Delegation]]<ref name="DB" />
+|masters=
+|apprentices=}}
+'''Ellé''' was a [[Human/Legends|Human]] [[Sexes/Legends|female]] from [[Naboo/Legends|Naboo]] who served as one of [[Senator/Legends|Senator]] [[Padmé Amidala/Legends|Padmé Amidala's]] [[handmaiden]]s at the end of the [[Clone Wars/Legends|Clone Wars]].
+
+==Biography==
+In [[19 BBY/Legends|19 BBY]], Ellé served with her fellow [[handmaiden]], [[Moteé/Legends|Moteé]], with whom she had a romantic relationship. She was one of the select few who knew of [[Padmé Amidala/Legends|Amidala's]] secret [[Wedding of Anakin Skywalker and Padmé Amidala/Legends|marriage]] to the [[Jedi/Legends|Jedi]] [[Anakin Skywalker/Legends|Anakin Skywalker]].<ref name="DB" />
+
+==Behind the scenes==
+Ellé was portrayed by Australian actress [[Chantal Freer]] in a deleted scene of [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']].<ref name="SWI71">{{InsiderCite|71|Prequel Update}}</ref>
+
+==Appearances==
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{C|Deleted scene}}
+*[[Star Wars: Episode III Revenge of the Sith (novelization)|''Star Wars'': Episode III ''Revenge of the Sith'' novelization]] {{1st}}
+*[[Star Wars Episode III: Revenge of the Sith (junior novelization)|''Star Wars Episode III: Revenge of the Sith'' junior novel]]
+
+==Sources==
+{{Imagecat|Images of Ellé}}
+*{{InsiderCite|71|Prequel Update}} {{1stm}}
+*{{InsiderCite|72|Prequel Update}}
+*''[[Star Wars: Revenge of the Sith The Visual Dictionary]]''
+*''[[Dressing a Galaxy: The Costumes of Star Wars]]'' {{Po}}
+*{{Blog|teekay-421|32|Handmaiden ID Roster|Sompeetalay's Source Blog|Tim Veekhoven}}
+*''[[Star Wars Chronicles: The Prequels]]''
+*''[[Star Wars: The Complete Visual Dictionary]]''
+*''[[The Complete Star Wars Encyclopedia]]''
+*''[[Star Wars: The Official Starships & Vehicles Collection 28]]''
+*{{DB|character|elle|Ellé}}
+*{{InsiderCite|142|Rogues Gallery (Star Wars Insider)|Rogues Gallery: Loyal to their Queen!}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*[http://www.royalhandmaidensociety.org/ep3.html Royal Handmaiden Society]
+
+{{Interlang
+|de=Ellé
+|es=Ellé
+|nl=Ellé
+|ja=エレイ
+|pl=Ellé
+|sk=Ellé
+}}
+
+[[Category:Females]]
+[[Category:Galactic Republic individuals]]
+[[Category:Humans]]
+[[Category:Naboo Royal Handmaidens]]
+[[Category:Naboo]]

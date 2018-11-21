@@ -1,0 +1,351 @@
+{{Eras|sprot}}
+{{Youmay|the Pau'an male who held the rank of Grand Inquisitor|[[Grand Inquisitor|the Grand Inquisitor title]]}}
+{{Update|[[Darth Vader: Dark Lord of the Sith 7: The Dying Light, Part I]], [[Darth Vader: Dark Lord of the Sith 8: The Dying Light, Part II]], [[Darth Vader: Dark Lord of the Sith 9: The Dying Light, Part III]], [[Darth Vader: Dark Lord of the Sith 19: Fortress Vader, Part I]]}}
+{{Nickname}}
+{{Character
+|type=Galactic Empire
+|image=[[File:TheInquisitor.png]]
+|name=The Grand Inquisitor
+|homeworld=[[Utapau]]<ref name="Visual Guide">''[[Star Wars Rebels: The Visual Guide]]''</ref>
+|birth=Prior to [[47 BBY]], Utapau<ref name="Visual Guide Year">''[[Star Wars Rebels: The Visual Guide]]'' indicates that the Grand Inquisitor is in his mid-40s. Given that ''[[Star Wars Rebels]]'' takes place five years before [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], in which the Battle of Yavin was depicted, we can deduce using simple math that he was born over forty-seven years prior to the battle.</ref>
+|death=[[4 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> ''[[Sovereign]]'', [[Mustafar system]]<ref name="Fire Across the Galaxy">{{Rebels|Fire Across the Galaxy}}</ref>
+|species=[[Pau'an]]<ref name="Visual Guide" />
+|gender=[[Sexes|Male]]<ref name="Visual Guide" />
+|height=1.98 [[meter]]s<ref name="Head to Head">''[[Star Wars Rebels: Head to Head]]''</ref>
+|mass=80 [[kilogram]]s<ref name="Head to Head" />
+|hair=
+|eyes=[[Color|Silver]],<ref name="Shroud of Darkness">{{Rebels|Shroud of Darkness}}</ref> later yellow {{C|[[Dark side of the Force|dark side]]}}<ref name="Visual Guide" />
+|skin=Ashen<ref name="Head to Head" /> white<ref name="Droids in Distress">[[Droids in Distress (book)|''Droids in Distress'' book]]</ref> {{C|with red markings}}<ref name="Visual Guide" />
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="Shroud of Darkness" />
+*[[Galactic Republic]]<ref name="Forbes SWRS2 Finale">{{Cite web|url=http://www.forbes.com/sites/lukethompson/2016/03/29/review-star-wars-rebels-season-finale-non-spoiler-and-the-inquisitors-past-revealed/|title=Reaction: 'Star Wars Rebels' Season Finale <nowiki>[Non-Spoiler]</nowiki>, And The Inquisitor's Past Revealed|first=Luke Y.|last=Thompson|work=Forbes|date=March 29, 2016|accessdate=March 29, 2016}}</ref>
+*[[Galactic Empire]]<ref name="Visual Guide" />
+**[[Inquisitorius]]<ref name="Visual Guide" />
+|masters=*[[Darth Sidious]]<ref name="Dark Lord 6">''[[Darth Vader: Dark Lord of the Sith 6: The Chosen One, Part VI]]''</ref>
+*[[Anakin Skywalker|Darth Vader]]<ref name="Gathering Forces">{{Rebels|Gathering Forces}}</ref>
+|apprentices=}}
+{{Quote|There are some things far more frightening than death.|The Grand Inquisitor's final words|Fire Across the Galaxy}}
+'''The Grand Inquisitor''', commonly known simply as '''the Inquisitor''', was the name adopted by a [[Pau'an]] [[Sexes|male]] [[Jedi Knight]] who turned to the [[dark side of the Force]] and became the [[Grand Inquisitor|leader]] of the [[Inquisitorius]], a band of [[Jedi hunter]]s who served the [[Galactic Empire]]. The Grand Inquisitor was once a [[Jedi Temple Guard]] and was involved in the events surrounding the [[Bombing of the Jedi Temple hangar|bombing]] of the [[Imperial Palace|Jedi Temple]] during the [[Clone Wars]], arresting the innocent and later exonerated [[Padawan]] [[Ahsoka Tano]] as well as the true culprit, [[Barriss Offee]]. After his fall to the dark side, the Grand Inquisitor was responsible for hunting down and [[Death|eliminating]] Jedi during the [[Jedi Purge]]. He personally served the [[Sith Lord]] [[Anakin Skywalker|Darth Vader]], from whom he received his orders, and was intimately familiar with the records of the Jedi Temple.
+
+The Grand Inquisitor took an active interest in eliminating the [[Spectres|rebel]] crew of the [[starship]] ''[[Ghost]]'', particularly the [[Jedi]] [[Kanan Jarrus]] and his Padawan, [[Ezra Bridger]]. He encountered these two Jedi on a number of occasions, including a [[Duel on Stygeon Prime]] and a [[Rescue of Tseebo|duel]] on the [[asteroid]] base [[Fort Anaxes]]. After the Grand Inquisitor and the government of [[Lothal]], from which the rebels operated, were consistently unable to eliminate the rebels, [[Grand Moff]] [[Wilhuff Tarkin]] arrived on Lothal to hunt for the rebels. Together, they [[Raid on the communications tower|captured]] Jarrus and hoped to use him to learn more about a larger rebel movement that was operating in the galaxy. They brought Jarrus to [[Mustafar]], where the rebels mounted a [[Action at Mustafar|rescue mission]] in [[orbit]]. During the operation, the Grand Inquisitor engaged Jarrus and Bridger in [[lightsaber combat]], and Jarrus eventually bested him. Rather than face the infamous wrath of Darth Vader for his repeated failures, the Grand Inquisitor chose to fall to his death.
+
+Sometime after his death, a vision of the Grand Inquisitor as his former Jedi Temple Guard self appeared to Jarrus in the [[Lothal Jedi Temple|Jedi Temple]] on Lothal. In the vision, this Sentinel warned Jarrus that Bridger could fall to the dark side, and the two engaged in a lightsaber duel. After Jarrus refused to fight any further, the Sentinel knighted Jarrus and told him he was a Jedi Knight as the Grand Inquisitor once was.
+
+==Biography==
+===Early life and knighthood===
+The [[Pau'an]] [[Sexes|male]] who would one [[Standard day|day]] become the [[Grand Inquisitor]] [[Homeworld|hailed]] from the [[planet]] [[Utapau]],<ref name="Visual Guide" /> where he was born over fifteen [[Standard year|years]] prior to the [[Invasion of Naboo]].<ref name="Visual Guide Year" /> At some point, he became a member of the [[Jedi Order]] and rose to the rank of [[Jedi Knight]]. As a [[Jedi]], he served in the [[Jedi Temple Guard]],<ref name="Shroud of Darkness" /> a group of Jedi tasked with defending the [[Imperial Palace|Jedi Temple]] on [[Coruscant]].<ref name="The Wrong Jedi">{{TCW|The Wrong Jedi}}</ref>
+
+[[File:BarrissInCourt-TWJ.png|thumb|left|300px|The future Grand Inquisitor was one of the Jedi Temple Guards who brought Barriss Offee before Supreme Chancellor Palpatine.]]
+During the [[Clone Wars]], in a period of protests against the [[Jedi High Council]] for their continued leadership over the war between the [[Galactic Republic]] and the [[Confederacy of Independent Systems]], a [[Bombing of the Jedi Temple hangar|bombing]] at the Jedi Temple rocked the Jedi Order.<ref name="Sabotage">{{TCW|Sabotage (episode)|Sabotage}}</ref> Although the true culprit was [[Padawan]] [[Barriss Offee]], who believed that the Jedi Order had lost its way and were the true villains in the war against the Confederacy, she framed her friend and fellow Padawan [[Ahsoka Tano]] for the crime. Tano fled into the [[Coruscant underworld]], away from the [[Grand Army of the Republic]] forces that pursued her, but she was eventually captured and brought to the Jedi Temple. She was brought before the Jedi Council, who stripped her of her Padawan status and expelled her from the Jedi Order.<ref name="The Wrong Jedi" /> The future Grand Inquisitor was one of the guardsmen who led Tano from the Jedi Temple,<ref name="Forbes SWRS2 Finale" /> and she was ultimately brought to [[Trial of Ahsoka Tano|trial]] before [[Supreme Chancellor]] [[Darth Sidious|Palpatine]]. During the trial, Tano's master, Jedi Knight [[Anakin Skywalker]], [[Duel at the Jedi Temple|uncovered]] Offee's duplicity and had her arrested.<ref name="The Wrong Jedi" /> The future Grand Inquisitor was one of the guards who escorted Offee into the trial,<ref name="Forbes SWRS2 Finale" /> where she admitted her guilt in front of the chancellor and was subsequently taken away by the guards. Tano was exonerated, but she refused to rejoin the Jedi Order<ref name="The Wrong Jedi" /> and chose to seek a new path.<ref name="Ahsoka DB">{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}}</ref>
+
+===Fall to the dark side===
+{{Quote|You do know the Emperor personally selected me, Vader? Raised me up, gave me this position. He believes in my abilities.|The Grand Inquisitor, to Darth Vader|Darth Vader: Dark Lord of the Sith 7: The Dying Light, Part I}}
+The events with Offee and Tano left the future Grand Inquisitor feeling disaffected, and he lost faith in the Jedi Order. This left him susceptible to the pull of the [[Dark side of the Force|dark side]] of [[the Force]], and ultimately, at some point, he did fall to the dark side.<ref name="Forbes SWRS2 Finale" /> At the end of the war, the Supreme Chancellor&mdash;secretly Darth Sidious, the [[Dark Lord of the Sith]]&mdash;[[Proclamation of the New Order|transformed]] the Republic into the [[Galactic Empire]] and declared himself [[Galactic Emperor|Emperor]] of [[the galaxy]].<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+
+===Age of the Empire===
+====Serving Lord Vader====
+The Inquisitor came into the service of the Empire and the [[Sith]], though he was not a Sith himself. When the Inquisitor entered the Jedi Temple's [[Jedi Archives|Archives]], he was confronted by the [[Sith Lord]] [[Darth]] Vader, who was once Anakin Skywalker before his own fall to the dark side. He and Vader then fought each other until Vader damaged his [[The Grand Inquisitor's lightsaber|lightsaber]]. The fight was then stopped by the Emperor, who explained to Lord Vader who the Inquisitor and the [[Inquisitorius]] were. They then went to the [[Inquisitorius Headquarters]] in [[The Works]] to meet with the other Inquisitors.<ref name="Dark Lord 6" />
+
+Vader then tasked the Inquisitor with hunting down and eliminating any Jedi who had survived [[Order 66]],<ref name="Visual Guide" /> the order given to the [[clone trooper]]s of the Grand Army of the Republic to destroy the Jedi Order.<ref name="Episode III" /> To accomplish this task, the Inquisitor was trained in the ways of the dark side<ref name="Visual Guide" /> and studied the records of the Jedi Temple in order to better know his enemies.<ref name="Rise of the Old Masters">{{Rebels|Rise of the Old Masters}}</ref>
+
+[[File:Luminara Unduli hologram in the Spire.png|thumb|300px|A hologram of Luminara Unduli, taken as she looked up at the Inquisitor in the moments before her death.]]
+One such Jedi that the Inquisitor led to their [[death]] was [[Jedi Master]] [[Luminara Unduli]]. After the execution of Order 66, Unduli was captured and held in the [[Spire (Stygeon Prime)|Spire]],<ref name="Rise of the Old Masters" /> a former Separatist<ref name="Son of Dathomir">''[[Darth Maul—Son of Dathomir, Part One]]''</ref>-turned-Imperial [[prison]] on [[Stygeon Prime]].<ref name="Rise of the Old Masters" /> At her end, Unduli was in the presence of the Inquisitor, who stood in the doorway of her cell as she walked into an execution chamber and died. The Inquisitor kept her remains in the prison cell, using them to lure other Jedi to their deaths when they heard rumors that Unduli was still alive. A [[Hologram|holographic]] recording of Unduli and her execution was kept by the Empire as part of this ruse.<ref name="Filoni Rise of the Old Masters">{{Cite web|publisher=IGN|title=Star Wars Rebels: Dave Filoni on the Luminara Twist in "Rise of the Old Masters"|url=http://www.ign.com/articles/2014/10/28/star-wars-rebels-dave-filoni-on-the-luminara-twist-in-rise-of-the-old-masters|accessdate=March 4, 2016}}</ref>
+
+At some point, he became the Grand Inquisitor and led the Inquisitorius. Among these Inquisitors were dark warriors such as the [[Fifth Brother]],<ref name="Always Two There Are">{{Rebels|Always Two There Are}}</ref> the [[Sixth Brother]],<ref name="Ahsoka">''[[Ahsoka (novel)|Ahsoka]]''</ref> the [[Seventh Sister]]<ref name="Always Two There Are" /> and the [[Eighth Brother]].<ref name="Twilight of the Apprentice">{{Rebels|Twilight of the Apprentice}}</ref> Like the Grand Inquisitor, these Inquisitors had their roots in the Jedi Order.<ref name="Dark Lord 7">''[[Darth Vader: Dark Lord of the Sith 7: The Dying Light, Part I]]''</ref>
+
+====Evidence of another survivor====
+{{Quote|Set a course back to base. And inform Lord Vader that we have found evidence of another survivor.|The Grand Inquisitor, after investigating the Sixth Brother's death on Raada|Ahsoka (novel)}}
+One year after the rise of the Galactic Empire, the Grand Inquisitor was alerted of the presence of a [[Force-sensitive]] being old enough to have received [[Jedi training]] on the [[farm]]ing [[moon]] of [[Raada]]. Though he wanted to hunt down the supposed Jedi himself, his talents were needed elsewhere and the task instead went to the Sixth Brother, who then went to Raada to lay a trap for the Force-sensitive. However, he was killed in the following [[Uprising on Raada|battle]] and the Jedi, as well as the [[farmer]]s who had rebelled against the recent occupation, escaped. Meanwhile, the Grand Inquisitor was alerted to the situation and traveled to the moon with a [[fleet]] of [[Imperial-class Star Destroyer|Star Destroyers]] to provide backup, but by the time they arrived, the insurgents were gone. The Grand Inquisitor personally examined the damage done by the battle and discovered the burnt corpse of the Sixth Brother. Though annoyed by the incompetence and recklessness of his subordinate, the Grand Inquisitor was impressed by what the Jedi had done. He then went back to his ship and instructed his [[agent]]s to set a course back to base and to inform Darth Vader that they had found evidence of another survivor&ndash;who was in fact Ahsoka Tano, Anakin Skywalker's former Padawan.<ref name="Ahsoka" />
+
+====The children of the Force====
+{{Quote|The Emperor has foreseen a new threat rising against him: the children of the Force. They must not become Jedi."<br />"Yes, Lord Vader."<br />"Hunt down this new enemy, and if they will not serve the Empire, eliminate them along with any surviving Jedi who would train them. This is my master's command.|Darth Vader and the Grand Inquisitor|Star Wars Rebels: Spark of Rebellion}}
+In the years prior to the [[Battle of Yavin]], the Grand Inquisitor was contacted by Darth Vader, who told the [[Jedi hunter]] that the Emperor had foreseen a new threat rising to challenge his rule: the "children of the Force," who could not be allowed to become Jedi. Vader ordered the Inquisitor to hunt these individuals down and either make them serve the Empire or destroy them, along with any Jedi survivors who could train them. With the orders of the Emperor given, the Inquisitor told Vader that it would be done.<ref name="Spark of Rebellion">''[[Star Wars Rebels: Spark of Rebellion]]''</ref>
+
+[[File:Inquisitor Speaks to Vader.png|thumb|left|300px|The Grand Inquisitor was ordered by Darth Vader to hunt down the "children of the Force."]]
+One method that the Inquisitor used to find Force-sensitive individuals was to look for [[cadet]]s at the [[Academy for Young Imperials]] on [[Lothal]] who met a set of criteria, one that indicated their ability to use the Force,<ref name="Breaking Ranks">{{Rebels|Breaking Ranks}}</ref> an operation known as [[Project Harvester]]. One known target of Project Harvester was [[Dhara Leonis]], a promising cadet and the daughter of Imperial agricultural scientists. The Imperial authorities attempted to cover up her kidnapping by claiming that she had run away from the Academy.<ref name="rebelranks">''[[Servants of the Empire: Rebel in the Ranks]]''</ref> However, her mother [[Tepha Leonis|Tepha]] and younger brother [[Zare Leonis]] suspected that the Empire was lying. To ascertain his sister's fate, Zare enrolled at the Academy the following year.<ref name="edge of the galaxy">''[[Servants of the Empire: Edge of the Galaxy]]''</ref>
+
+Some time later, fourteen years after the rise of the Empire, a group of [[Spectres|rebels]] who operated on Lothal came to the attention of Agent [[Alexsandr Kallus|Kallus]] of the [[Imperial Security Bureau]]. The rebels [[Mission to free Wookiee prisoners|rescued]] a group of [[Wookiee]]s that had been [[Slavery|enslaved]] in the [[Spice mines of Kessel|spice mines]] of [[Kessel]], a mission in which the rebel leader, [[Kanan Jarrus]], used a [[lightsaber]] and revealed himself as a Jedi survivor. After the rebels escaped, Kallus contacted the Inquisitor and informed him about what happened on Kessel. The Inquisitor was pleased that Kallus informed him of the rebel cell and the Jedi in its ranks.<ref name="Spark of Rebellion" />
+
+====Trap on Stygeon Prime====
+{{Quote|Yes, I'm afraid Master Luminara died with the Republic, but her bones continue to serve the Empire. Luring the last Jedi to their ends.|The Grand Inquisitor to Kanan Jarrus and Ezra Bridger|Rise of the Old Masters}}
+The Grand Inquisitor laid a trap for Jarrus and his Padawan, [[Ezra Bridger]], in the Spire. The Empire was able to project an image suggesting that she was alive, and this information was then reported by [[Gall Trayvis]], a former member of the [[Imperial Senate]] who claimed to have gone into exile after speaking out against the Empire<ref name="Rise of the Old Masters" />&mdash;in reality, Trayvis was a loyal agent of the Empire, one who used his position to lure rebel groups into traps around the galaxy.<ref name="Vision of Hope">{{Rebels|Vision of Hope}}</ref> Not wanting to pass up an opportunity to rescue a Jedi survivor, the rebels undertook a [[Duel on Stygeon Prime|mission]] to the Spire where they intended to rescue the Jedi Master.<ref name="Rise of the Old Masters" />
+
+Once in the prison, the rebels fought their way through [[stormtrooper]]s who were stationed there. Jarrus and Bridger made it to the detention area, and Jarrus believed he could sense the Jedi Master&mdash;though in actuality, it was the power from her bones. They entered the cell and saw a projected image of Unduli, which faded into a sarcophagus that revealed the remains of the Jedi Master. The Grand Inquisitor entered the cell, his lightsaber ignited, and approached the two Jedi, revealing that Luminara had been dead for many years. Jarrus attacked the Inquisitor and the two engaged in lightsaber combat. The Inquisitor was able to correctly deduce that Jarrus had been trained by Jedi Master [[Depa Billaba]], as she had been a teacher of [[Form III]] lightsaber combat in close quarter fighting, which Jarrus employed extensively. The two continued their duel within the cell until Bridger set off a small detonator that allowed him and Jarrus to flee.<ref name="Rise of the Old Masters" />
+
+[[File:Inquisitor Duels Kanan.png|thumb|300px|The Grand Inquisitor fights Kanan Jarrus.]]
+Though they had escaped the cell, the Grand Inquisitor pursued them and continued his fight with Jarrus in the halls of the prison. He soon pushed Jarrus away through the Force and, per Vader's command, attempted to convert Bridger to the dark side. The boy refused, however, and the Inquisitor prepared to strike him down, but Jarrus used the Force to pin the Inquisitor to the ceiling, giving the two Jedi a chance to flee. The Grand Inquisitor followed them and chased them through the prison, before they met back up with their fellow rebels. Separated by a number of closed doors, the Inquisitor sliced through them with his lightsaber and arrived in time to see the rebels beginning to escape. He made one last attempt to stop them by throwing his lightsaber towards them, but Jarrus deflected it and the rebels escaped aboard the ''[[Phantom]]'', the attack shuttle that belonged to their main ship, the ''[[Ghost]]''.<ref name="Rise of the Old Masters" />
+
+====Incident at the Imperial Academy====
+{{Quote|Well, Leonis, let's take a walk, shall we? I want to know everything about your ''former'' friends.|The Grand Inquisitor, to Zare Leonis|Breaking Ranks}}
+After his failure to stop the rebels on Stygeon Prime, the Inquisitor was contacted by [[Commandant]] [[Cumberlayne Aresko]], the lead officer at the Imperial Academy on Lothal, who informed him of two students who potentially met his criteria for Force-sensitivity. He learned that these cadets were Dev Morgan&mdash;who, unknown to the Academy, was Bridger in disguise, who [[Mission to destroy a kyber crystal|infiltrated]] the Academy to learn the location of a giant [[kyber crystal]] of great power&mdash;and [[Jai Kell]]. Having learned this information, the Inquisitor, speaking via hologram, told Aresko that he would arrive at the Imperial Academy the next day. Bridger overheard the conversation, and he and Kell escaped the Academy with another cadet, Zare Leonis, who suspected that the Inquisitor was behind the disappearance of his sister, Dhara Leonis; Dhara was the star cadet at the Academy before her disappearance, which the Empire claimed was a result of her running away from the Academy.<ref name="Breaking Ranks" />
+
+Upon his arrival at the Imperial Academy, Aresko and Agent Kallus informed him of Bridger and Kell's escape. The Jedi hunter was shown the datafiles on the two cadets and recognized "Dev Morgan" as Bridger from their encounter on Stygeon Prime. The Inquisitor informed Aresko that the incident was a black mark on the Academy's record, though he did have hope of learning more about the rebels, as Leonis was also present in the meeting. During the escape, Leonis had opted to stay behind so he could find out what happened to his sister, and pretended to try to stop Bridger and Kell upon their escape. The Inquisitor spoke to Leonis and told the cadet to tell him everything he knew about Bridger and Kell. <ref name="Breaking Ranks" />
+
+[[File:The Grand Inquisitor and Zare Leonis.png|thumb|left|300px|The Grand Inquisitor speaks to Zare Leonis.]]
+During his private chat with Leonis, the Inquisitor led the young cadet to an interrogation room. Once inside, the Inquisitor asked Leonis everything he knew about Morgan while trying to probe the cadet's thoughts. While hiding his collaboration with Morgan, Leonis pretended to support the Inquisitor's assessment that something was not right about Morgan. When the Inquisitor told Leonis that that Morgan was a pseudonym, Zare pretended to be a "perfect cadet" and asked whether the victories in his assessments would be vacated. The Inquisitor merely replied that he should ask Commandant Aresko.<ref name="rebelranks" />
+
+Zare then attempted to convince the Inquisitor that he was Force-sensitive like his missing sister Dhara. He claimed that he could somehow sense that there was something wrong with Dev and Jai and that they were hiding something. The Inquisitor quickly deduced that Leonis was Dhara's younger brother. While the Inquisitor was fully aware that Dhara had been abducted and forcibly inducted into Project Harvester, he repeated the official Imperial account that Dhara had merely run away. When Zare claimed that he and his sister could always sense each others' presence, the Inquisitor merely told the young cadet that it made sense and that in time he would understand why.<ref name="rebelranks" />
+
+====Skirmish on Vyndal====
+{{Quote|Another Jedi! This is indeed a surprise. How many more Padawans have you taken?"<br>"He's not my Padawan."<br>"Then you won't be emotionally compromised when he dies.|The Grand Inquisitor, to Kanan Jarrus about Yeleb the Protector|The fake Jedi}}
+The Inquisitor and his Imperial forces arrived in a [[Unidentified village (Vyndal)|village]] on the planet [[Vyndal]] in search of Jarrus after he had been seen close by. The Inquisitor and his forces were greeted by the protector of the village, [[Yeleb]] who lied to the Inquisitor that he had not seen Jarrus in their village, however, the Inquisitor could see through the protectors' lies and when Yeleb ordered the Imperials to leave, the Pau'an ordered his stormtroopers to destroy the village.<ref name="TFJ">''[[The fake Jedi]]'' in [[Star Wars Rebels Magazine 3|''Star Wars Rebels'' Magazine 3]]''</ref>
+
+[[File:Skirmish on Vyndal.png|thumb|300px|The Grand Inquisitor duels Yeleb alongside the Jedi, Jarrus.]]
+This is when Jarrus revealed himself to the Inquisitor and [[Skirmish on Vyndal|attacked]] him. Yeleb would soon join the combat as well, wielding his own green-bladed lightsaber, leading the Inquisitor to assume that Yeleb was a Jedi too, although, in actual fact, a few years earlier Yeleb had taken the lightsaber from a crashed [[Eta-2 Actis-class light interceptor|Eta-2 ''Actis''-class light interceptor]] with a dead [[Unidentified Jedi (Vyndal)|Jedi]] [[pilot]] inside. Using the Force, the Inquisitor pushed Jarrus out of combat, allowing him to focus on Yeleb and slash the man across the chest with his blade. After Yeleb collapsed onto the floor, the Inquisitor took Yeleb's lightsaber and Jarrus fled from the Inquisitor to draw him away from the wounded [[human]]. The Pau'an along with his stormtroopers gave chase, and Jarrus was able to trick the Imperials into thinking he had fled Vyndal on one of their [[cruiser]]s, causing them to chase after it and leave the planet in the other.<ref name="TFJ" />
+
+After the Imperials left the planet, Yeleb died of his injuries and Jarrus ended up leaving the planet and returning to the rebels, leaving the [[Unidentified Vyndal species|people of Vyndal]] with hope that without himself and the lightsaber on the planet, the Empire would not return, and even if they did, the people were able to protect themselves.<ref name="TFJ" />
+
+====Empire Day====
+{{Quote|I still sense the Jedi and his Padawan, within my ''grasp''.|The Grand Inquisitor|Gathering Forces}}
+The Inquisitor was on Lothal for [[Empire Day]] when the rebels destroyed the prototype [[TIE Advanced v1]]. When the rebels attempted to smuggle [[Tseebo]], an [[Imperial Information Office]] worker who had fled with Imperial secrets, off Lothal, he led a TIE fighter squadron while piloting his own [[The Inquisitor's TIE Advanced|TIE Advanced v1]] to stop them from escaping. He was able to plant an [[XX-23 S-thread tracker]] on their ship moments before they jumped to hyperspace.<ref name="Empire Day">{{Rebels|Empire Day (episode)|Empire Day}}</ref>
+
+[[File:The Grand Inquisitor on Fort Anaxes.png|thumb|left|300px|The Grand Inquisitor on Fort Anaxes.]]
+Realizing they were being tracked, Jarrus and Bridger boarded the ''Phantom'' and ejected from the ''Ghost'', flying it to [[Fort Anaxes]]. The Inquisitor took a squad of troops with him aboard a [[Sentinel-class landing craft|''Sentinel''-class landing craft]] to confront the two Jedi. As the Inquisitor and his troopers entered the base, they spotted Jarrus and Bridger along with a multitude of [[fyrnock]]s. The two Jedi used the Force to command the fyrnocks to attack the stormtroopers. Jarrus fought the Inquisitor once more, but he was easily overwhelmed and knocked out. Cornering Bridger, the Inquisitor told him to give into the dark side, and that his friends would die and that everything he fought for would be lost. Bridger briefly succumbed to the dark side and summoned a giant fyrnock to attack the Inquisitor. Jarrus reawakened, grabbing Bridger and reclaiming his lightsaber. After driving off the mother fyrnock, the Inquisitor attempted to halt their escape, but they managed to board their ship, the ''Phantom'', and destroy the Imperial landing craft. Accepting his failure, the Inquisitor simply stated that his Master would not be pleased.<ref name="Gathering Forces" />
+
+====Dealing with Zare Leonis====
+{{Quote|Who can doubt the commitment of such a promising young cadet?|The Grand Inquisitor probing Zare Leonis|Servants of the Empire: Imperial Justice}}
+Following the Lothal rebels' attack on the Empire Day celebrations, the Grand Inquisitor returned to Lothal to deal with another unfinished business: Dhara Leonis' younger brother Zare Leonis. While Zare was a promising cadet at the Academy for Young Imperials who had earned the glowing praise of his instructors, the Inquisitor suspected that Leonis was connected to Ezra Bridger and the other Lothal rebels. A perfect opportunity to make his move against Zare surfaced when the young cadet took action against an unscrupulous fellow cadet named [[Nazhros Oleg]], who had attempted to shield his smuggler uncles from Imperial justice. Under the pretext of rewarding Leonis, the Inquisitor arranged for the cadet to be transferred to the [[Arkanis Academy]], which was connected to [[Project Harvester]]. There, he hoped to create the circumstances that would expose Leonis as a traitor to the Empire. In addition, the Inquisitor wanted to ascertain whether Zare was actually Force-sensitive as he had claimed earlier.<ref name="Imperial Justice">''[[Servants of the Empire: Imperial Justice]]''</ref>
+
+Following Leonis' raid on a group of smugglers, the Inquisitor and [[Captain]] [[Piers Roddance]] summoned Zare for a private meeting. When Leonis suggested that Oleg was genuinely unaware that his uncles were involved in smuggling and suggested showing the delinquent some compassion, the Inquisitor replied that compassion was the most insidious business. After ordering Captain Roddance to leave the room, the Inquisitor told Leonis that he had arranged for the cadet to be transferred to the Arkanis Academy as a "reward" for his loyalty to the Empire. Throughout the meeting, the Inquisitor made every effort to probe Leonis' thoughts.<ref name="Imperial Justice" />
+
+[[File:Morgan and Leonis Secret Meeting.jpg|thumb|300px|The Grand Inquisitor suspected that Leonis had rebel ties, through a connection with Ezra Bridger.]]
+Pretending to be a "model" cadet, Leonis expressed gratitude at the opportunity to serve the Empire. Sensing Leonis' true motivations for joining the Imperial Academy, the Inquisitor patronized Leonis by asking "who could doubt the commitment of such a promising young cadet." Intimidated by the Inquisitor, Zare turned away from the Pau'an's gaze; prompting the Inquisitor to ask the cadet to make eye contact with him. Prior to Leonis' departure, the Inquisitor told the cadet that he looked forward to his training on Arknanis and "assured" the Cadet that his service to the Empire would be more important than he had hoped for. While Leonis was uncertain whether the Inquisitor knew his true agenda, his girlfriend [[Merei Spanjaf]] uncovered Imperial documents which confirmed that the Inquisitor had intended to use the Arkanis transfer to break the young cadet.<ref name="Imperial Justice" />
+
+Later, the Inquisitor visited the Arkanis Academy and landed at [[Area Null]], a secluded tower in the Academy that hosted several top-secret Imperial projects including Project Harvester and [[Project Unity]], the latter a program for re-educating former dissident youths. After dining with Commandant [[Brendol Hux]] and the cadets in the Academy's banquet hall, the Inquisitor summoned Cadet Leonis for a private meeting at the Commandant's balcony. There, the Inquisitor asked Leonis why he had tried to enter Area Null even though it was off-limits to Cadets. Leonis claimed that he thought that a fellow cadet was in trouble but the Inquisitor quickly realized that he was lying.<ref name="Secret Academy">''[[Servants of the Empire: The Secret Academy]]''</ref>
+
+He then gave Leonis a second chance to answer his question. Leonis claimed that he had sensed that there was something in that tower that he was meant to find. The Inquisitor then asked if Morgan had told him about the tower on Lothal or something called Project Harvester. In response, Leonis feigned ignorance but the Inquisitor could see that he was trying to hide something. Before the Inquisitor could carry on with the interrogation, the Commandant's droid [[DDM-38]] arrived and informed him that he had received a priority encrypted message from Lothal. Before leaving, the Inquisitor warned Leonis that he would soon have Morgan and his companions. He also vowed to get to the truth behind Leonis' connection to Morgan. Unknown to the Inquisitor and Leonis, this was to be their last meeting due to unexpected developments.<ref name="Secret Academy" />
+
+====Visions of darkness====
+{{Quote|Ready to die, boy, or are you afraid to face your demise?''"<br />''"No. Afraid of being alone again? Sure. Afraid of letting down my master? Absolutely.''"<br />''"Your master lies dead and rotting in a forgotten tunnel. You could hardly have let him down more.''"<br />''"I'm not afraid.|The vision of the Grand Inquisitor speaks to Ezra Bridger|Path of the Jedi}}
+To continue tracking the rebels, at some point the Grand Inquisitor sought information from [[Vice Admiral]] [[Rae Sloane]] of the [[Imperial Navy]].<ref name="Kanan 12">''[[Kanan 12: First Blood, Epilogue: The Ties That Bind]]''</ref> Sloane once had a run-in with Jarrus on the planet [[Gorse]], where Jarrus first met Captain [[Hera Syndulla]] and joined her rebel cause.<ref name="A New Dawn">''[[A New Dawn]]''</ref> The Grand Inquisitor found Sloane on [[Lahn]], where she had set a trap for Jarrus. Jarrus escaped, but Sloane remained on Lahn when she was confronted by the Inquisitor&mdash;who wanted to know everything she knew about Jarrus.<ref name="Kanan 12" />
+
+[[File:Vision of the Inquisitor.png|thumb|left|300px|In the Jedi Temple on Lothal, the vision of the Grand Inquisitor represented Bridger's fears.]]
+Having had his first experience with the dark side on Fort Anaxes, Bridger ventured to the [[Lothal Jedi Temple|Jedi Temple]] on Lothal with Jarrus, who wanted to make sure that his Padawan could actually become a Jedi. Once inside the temple Bridger encountered visions of the Grand Inquisitor killing his friends, whom he had come to regard as his family. The Inquisitor first dueled and killed Jarrus in the vision, before entering the ''Ghost'' and killing the crew inside. Soon thereafter, the vision of the Grand Inquisitor moved to kill Bridger himself. Bridger realized, however, that he was not afraid of dying. Rather, he was afraid of losing those he cared about and being abandoned like he was when he lost his parents at a young age&mdash;a fear represented through the threat of the Inquisitor. Once Bridger realized what his fear was, the vision of the Grand Inquisitor disappeared.<ref name="Path of the Jedi">{{Rebels|Path of the Jedi}}</ref>
+
+====Capturing Kanan====
+{{Quote|Inquisitor, I am giving you the opportunity to redeem yourself. Do not disappoint me, and remember, I want this Jedi, alive.''"<br />"''Your faith will be rewarded.|Grand Moff Tarkin and the Grand Inquisitor|Call to Action}}
+The Inquisitor was present in the Imperial Complex hangar when [[Grand Moff]] [[Wilhuff Tarkin]] arrived to investigate the situation on Lothal. Reports of the rebel activities had reached the highest levels of the Imperial government and worries had begun to emerge as Lothal's industries were vital for the Empire's expansion into the [[Outer Rim Territories|Outer Rim]]. Immediately upon arriving, Tarkin berated [[Minister]] [[Maketh Tua]] and Agent Kallus for their inability to stop the rebellion. He also dismissed the rumors that a Jedi was leading the rebels, claiming that all the Jedi had died during the Purge and that he knew because he had witnessed it.<ref name="Call to Action">{{Rebels|Call to Action}}</ref>
+
+Later that day, Tarkin summoned Commandant Cumberlayne Aresko and [[Taskmaster]] [[Myles Grint]] who had been pursuing the rebels for some time and who had failed at every turn. After a brief conversation during which he revealed that other rebel cells were active in the Empire and that the rumors of a Jedi leading a rebellion could spark hope and encourage unity, Tarkin informed the assembled dignitaries that there would be consequences for failure henceforth. Upon these words, the Inquisitor activated his lightsaber directly behind Aresko and Grint and triggered the spinning feature, decapitating the two officers as a horrified Tua and Kallus watched on. When Kallus discovered that the Rebels were planning to strike at the Imperial communications tower, Tarkin instructed him to let them enter the tower but prepare his troops to intervene as soon as they did. After Kallus left, Tarkin told the Inquisitor that this was his chance to redeem himself for his previous failures. The Pau'an promised the Grand Moff that his faith would be rewarded.<ref name="Call to Action" />
+
+[[File:Kanan vs the Grand Inquisitor at the communication tower.png|thumb|300px|The Grand Inquisitor fights Jarrus outside of the communication tower.]]
+After the Rebels struck the tower, Kallus and his troops intervened, surrounding the tower and forcing the Rebels to escape to the roof. Only Kanan Jarrus remained behind to give them time to escape, at which point the Inquisitor arrived to confront the Jedi. Jarrus destroyed the console giving them access to the tower. Once again, the Inquisitor and the Jedi fought, with the former noticing that Jarrus had improved his technique. However, the Inquisitor proved the strongest of the two once again and he subdued Jarrus with the Force. However, the rest of the Rebels successfully escaped. With Jarrus in custody, Grand Moff Tarkin arrived and was given the captured Jedi just as a signal broadcast by the rebels begun to transmit by the tower. Tarkin gave orders for the tower to be destroyed before leaving with his prisoner.<ref name="Call to Action" />
+
+====Kanan's interrogation====
+{{Quote|Tell me, Jedi, how did you survive Order 66? It was your master Billaba who laid down her life for yours. Do you remember her last words to you? Her last and final breath before she died? You do, don't you? You see it in your sleep, you hear her voice when you wake. Tell me Jedi, what was her last word to you?''"<br />"''Run.|The Grand Inquisitor asks Jarrus about his master's last words|Fire Across the Galaxy}}
+[[File:Inquisitor-tortures-Kanan.png|thumb|left|300px|The Grand Inquisitor uses the Force to try to cause Jarrus to reveal what he knows about the rebels.]]
+After Kanan was captured, he was brought aboard Grand Moff Tarkin's [[flagship]] in orbit above Lothal: the ''[[Sovereign]]''. Tarkin and Kallus proceed to interrogate Kanan with a [[mind probe]] but the Jedi proved stronger than this tactic. As Tarkin grew more frustrated with the lack of results, the Inquisitor arrived and told them that Jedi were trained to resist mind probes. Instead, he claimed that pain would be a more effective technique, as Jedi still felt it. The Inquisitor used the Force to try and pry the information from Kanan's mind but, once again, the Jedi resisted. Instead, the Inquisitor electrocuted Kanan to make him talk. However, the rebel proved to be far stronger than he believed and he resisted the torture. The Inquisitor came to believe that Kanan did not know anything of a larger rebellion. Tarkin eventually suggested to transfer him to a facility which had never failed to gain results. The ''Sovereign ''then departed Lothal for [[Mustafar]], a world deep in the Outer Rim.<ref name="Rebel Resolve">{{Rebels|Rebel Resolve}}</ref>
+
+[[File:Tarking & Inquisitor interrogation.jpeg|thumb|220x220px|The Grand Inquisitor continuing his interrogation with Governor Tarkin]]
+Over Mustafar, the Inquisitor continued his interrogation of Kanan, asking him about other rebels he may have known. Specifically, he wanted to know about a mysterious rebel known as "Fulcrum". Kanan still refused to talk so the Inquisitor changed tactics: he asked Kanan how he had survived Order 66. When Kanan failed to answer, the Inquisitor revealed that he knew how; Jarrus' Master, Depa Billaba, had sacrificed herself to save him, losing her own life in the process. The Inquisitor taunted Kanan, asking him if he remembered what his Master's last words were and Kanan answered that she told him to run. The Inquisitor told Jarrus that he could not save his friends anymore than he could save his Master because he feared his own power and did not even dare wear his lightsaber in public because of it. When alarms began going off, the Inquisitor was unsurprised to find that the other rebels had come to [[Action at Mustafar|rescue]] their friend.<ref name="Fire Across the Galaxy" />
+
+====Confrontation aboard the ''Sovereign''====
+{{Quote|You have no idea what you've unleashed here today. There are some things far more frightening than death.|The Grand Inquisitor talking to Kanan Jarrus, directly before letting go and falling into the exploding reactor.|Fire Across the Galaxy}}
+After Ezra broke Kanan out of his cell, they headed back for their evacuation ship through the generator complex. The Inquisitor waited for them and ignited his lightsaber. Kanan borrowed Ezra's [[Ezra's lightsaber|lightsaber]] and attacked the Inquisitor. As he was about to reach him, he activated the lightsaber's stun gun, surprising his opponent. The two engaged in a lightsaber duel with Kanan using both the blade and the stun gun to attack the Inquisitor. When Ezra used the Force to snatch Kanan's lightsaber from the Imperial agent's belt, the Inquisitor disengaged from the duel with Kanan and, activating his second blade, claimed that he would finally get the challenge that he had always wanted. After a brief engagement, he used the Force to push Kanan back before throwing his spinning lightsaber at Ezra, who fell from the pathway, to Kanan's horror.<ref name="Fire Across the Galaxy" />
+
+[[File:InquisitorDeath.png|thumb|left|300px|The Grand Inquisitor lets go of the platform and falls into the ''Sovereign''{{'}}s exploding reactor.]]
+Distraught at the apparent loss of his Padawan, Kanan remained on his knees for a while as the Inquisitor stood over him, smiling sadistically at the Jedi's obvious anguish. However, he eventually pulled himself together, remembering his Jedi training and rose to his feet. When the Inquisitor asked him what would happen now that no one else would die for him, Kanan replied that he no longer had anything left to fear. He then used the Force to draw his lightsaber to him, using both it and Ezra's. After saluting each other, the Inquisitor and the Jedi resumed their duel. This time however, Kanan proved a much more effective foe and he gradually started to drive the Inquisitor back, the latter of whom began to show fear and uncertainty for the first time. When the Inquisitor came perilously close to the edge, Kanan interrupted the duel to say that his foe was right: he was a coward but that he had discovered that there was something far more powerful than fear: the Force. The Inquisitor made his blades spin to defend himself, but Kanan destroyed the Inquisitor's lightsaber and the Imperial agent fell off the edge, catching the side of the pathway in his fall. The two halves of his lightsaber hit the generator, causing it to catch fire and starting a chain reaction within the ''Sovereign.''<ref name="Fire Across the Galaxy" />
+
+As Kanan stood over his defeated foe, the Inquisitor looked up at him and told him that his defeat would unleash something far worse upon them all. Knowing the punishment he would receive for his failure, the Inquisitor told the Jedi that there were some things far more frightening than death before letting himself fall into the exploding generator, killing himself.<ref name="Fire Across the Galaxy" />
+
+===Legacy===
+{{Quote|You are what I once was: a Knight of the Jedi Order.|The Sentinel, to Kanan Jarrus|Shroud of Darkness}}
+The Inquisitor's warning to Jarrus proved true. With their primary agent on Lothal dead and a growing rebellion in the galaxy, the Empire sent out a far deadlier agent to Lothal to root out and destroy the rebels: Darth Vader himself.<ref name="Fire Across the Galaxy" /> After Vader [[Attack on Phoenix Squadron (4 BBY)|attacked]] and crippled [[Phoenix Cell]] and learned that his former Padawan, Ahsoka Tano, was still alive and in league with the rebellion, the Emperor ordered Vader to dispatch another Inquisitor to hunt the rebels.<ref name="The Siege of Lothal">''[[Star Wars Rebels: The Siege of Lothal]]''</ref> Vader sent the Seventh Sister and the Fifth Brother, both of whom hoped to become the new Grand Inquisitor.<ref name="Always Two There Are" />
+
+[[File:Kanan vs the Sentinel.png|thumb|300px|The vision of the Grand Inquisitor as a Sentinel fights Jarrus in the Jedi Temple on Lothal.]]
+Some time after the death of the Grand Inquisitor, Jarrus and Bridger traveled with Ahsoka Tano to the Jedi Temple on Lothal to seek the guidance of Jedi Master [[Yoda]], with whom Jarrus and Bridger had communed with from there before. It was there that they hoped to find guidance for how to deal with the threat of the Inquisitors, who attacked the rebels at every turn. While in the temple, Jarrus entered a vision in which he saw a Jedi Temple Guard known as the Sentinel within a dojo.<ref name="Shroud of Darkness" /> Unknown to Jarrus, this was a vision conjured by Yoda of the Grand Inquisitor, as the Jedi he once was.<ref name="Recon #2.17">{{SW|url=video/rebels-recon-inside-shroud-of-darkness|text=Rebels Recon: Inside "Shroud of Darkness"}}</ref> The Sentinel warned Jarrus that Bridger would fall to the dark side of the Force and that the boy had to be eliminated. Jarrus refused and the two engaged in a lightsaber duel. By the end of the duel, Jarrus refused to fight any further and admitted that while he may not be able to protect Bridger forever, he would continue to do his best to train him. The Sentinel looked as if he was about to strike Jarrus down, but instead performed the knighting ritual. Then he removed his mask to reveal the face of the Grand Inquisitor. Jarrus asked what everything that had happened meant, and the Sentinel said that it meant Jarrus was now a Jedi Knight, as the Grand Inquisitor once was. As the Seventh Sister and the Fifth Brother descended on the temple, the Sentinel told Jarrus to flee and said he would hold off the enemy. The vision of the Sentinel, flanked by other Jedi Temple Guards, surrounded the two Inquisitors as Jarrus, Bridger, and Tano fled from the Jedi Temple.<ref name="Shroud of Darkness" />
+
+In [[1 BBY]], shortly after Jarrus' own death, his confrontation with the Grand Inquisitor was heard among numerous voices by Bridger as he passed through a [[hyper tunnel]] while riding a [[Loth-wolf]] on his [[mission to the Lothal Jedi Temple]].<ref name="Wolves and a Door">{{Rebels|Wolves and a Door}}''</ref>
+
+==Personality and traits==
+{{Quote|Compassion is the most insidious weakness of all...|The Inquisitor, responding to a comment by Zare Leonis|Servants of the Empire: Imperial Justice}}
+A male Pau'an, the Grand Inquisitor had furrowed<ref name="Visual Guide" /> ashen<ref name="Head to Head" /> white skin<ref name="Droids in Distress" /> and stood 1.98 [[meter]]s in height and weighed 80 [[kilogram]]s.<ref name="Head to Head" /> Prior to his fall to the dark side, his [[eye]]s had gray sclerae and silver irises and pupils, along with light red markings around his eyes and down the sides of his face.<ref name="Shroud of Darkness" /> After his fall, the Grand Inquisitor's sclerae and pupils turned black and his irises became yellow with red rims. He also adorned his face with dark side [[tattoo]]s<ref name="Visual Guide" /> inked in the same shade of red as human [[blood]],<ref name="Droids in Distress" /> striking fear into targets and subordinates alike.<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref> He wore black armor emblazoned with the crest of the Galactic Empire and carried a red gyroscopic double-bladed lightsaber, using this type of lightsaber in order to intimidate his opponents. In particular, he was able to throw inexperienced Jedi off-balance. Because Jedi relied on balanced emotions, the imbalance gave the Inquisitor an edge in combat.<ref name="Visual Guide" /> Although he was a physical opponent for Jedi and tapped into the dark side of the Force, he did not appear overly emotional, instead operating as a cold and analytical mind. Whatever intensity he showed was a result of his purpose in completing his mission.<ref name="Meet Inquisitor">{{SW|url=video/star-wars-rebels-meet-the-inquisitor-the-empire-s-jedi-hunter|text=Star Wars Rebels: Meet the Inquisitor, the Empire's Jedi Hunter}}</ref>
+
+Through the dark side, the Grand Inquisitor was able to learn about individual Jedi and use their secrets against them.<ref name="Visual Guide" /> He studied the records of the Jedi Temple<ref name="Rise of the Old Masters" /> to not only identify Jedi, but also have an understanding of their combat forms and traditions. His knowledge was extensive enough that he could identity who a Jedi was trained by,<ref name="Visual Guide" /> such as when he identified Depa Billaba as Jarrus' Jedi Master,<ref name="Rise of the Old Masters" /> and identify their fighting style in 10.6 [[second]]s.<ref name="Absolutely Everything You Need to Know">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref> He utilized this, like his lightsaber, to inflict an opponent with fear, which was his most powerful weapon against his enemies. Once in combat, he did not show mercy, having been tasked with judging and eliminating Jedi survivors.<ref name="Visual Guide" /> The Inquisitor also supported Captain Piers Roddance's view that the Empire needed to purge itself of all weakness and regarded compassion as the most insidious weakness.<ref name="Imperial Justice" />
+
+After realizing he had been defeated by Jarrus, the Grand Inquisitor chose death rather than face the wrath of his Master for his failure.<ref name="Databank">{{Databank|the-grand-inquisitor|The Grand Inquisitor}}</ref>
+
+==Powers and abilities==
+[[File:Grand Inquisitor by JB Casacop.jpg|thumb|left|250px|The Grand Inquisitor gets ready to fight.]]
+The Grand Inquisitor was a practitioner of the dark side of the Force and trained in lightsaber combat,<ref name="Visual Guide" /> having learned to use and counter all seven forms recognized by the Jedi Order.<ref name="Absolutely Everything You Need to Know" /> He wielded a double-bladed lightsaber,<ref name="Visual Guide" /> which he used in multiple settings; single-bladed, double-bladed, as well as double-bladed with the blades spinning on the hilt.<ref name="Rise of the Old Masters" /> In addition to using the weapon to unnerve his enemies, he wielded it in order to quickly and efficiently end combat with as little effort as was required. This allowed him to skillfully execute the Jedi he encountered. The Inquisitor also demonstrated skill in the use of [[Jar'Kai|dual blades]] to the point of using a single-bladed lightsaber and his double-bladed spinning lightsaber at the same time, such as when he fended off a giant fyrnock in Fort Anaxes.<ref name="Gathering Forces" />
+
+The Grand Inquisitor held some skill in [[Form II|Makashi]], able to hold the upper hand against Kanan Jarrus twice whilst using the form before quickly defeating him.<ref name="Absolutely Everything You Need to Know" /> He would sometimes use a one-handed dueling technique not unlike that of [[Count]] [[Dooku]],<ref name="Rise of the Old Masters" /><ref name="Witches of the Mist">{{TCW|Witches of the Mist}}</ref> a Makashi master.<ref name="KoF">''[[Knights of Fate]]''</ref>
+
+In addition to being a formidable lightsaber duelist, the Grand Inquisitor was skilled in the use of telekinesis. He possessed enough telekinetic power to [[Force push|push]] Kanan Jarrus clear across a hall and throw his lightsaber with lethal precision.<ref name="Rise of the Old Masters" /><ref name="Gathering Forces" /> The Inquisitor had a keen Force Sense, which he demonstrated during his pursuit of Kanan Jarrus and Ezra Bridger on Empire Day.<ref name="Gathering Forces" /> While interrogating Kanan, the Inquisitor demonstrated an affinity for [[mind trick]]s and the [[Mind probe (Force power)|mind probe]], allowing to potentially compel his victims to divulge information or to scan their thoughts and emotions for it.<ref name="Rebel Resolve" /> He was also a skilled pilot, and commonly demonstrated his competence in flying a TIE prototype while hunting rebels.<ref name="Visual Guide" />
+
+==Equipment==
+The Jedi Knight who would become the Grand Inquisitor wore formal robes and an identity-concealing mask,<ref name="The Wrong Jedi" /> the ultimate expression of emotional detachment required in service to a higher calling.<ref name="Jedi Temple Guard">{{Databank|jedi-temple-guard|Jedi Temple Guard}}</ref> He also carried a<ref name="The Wrong Jedi" /> folding<ref name="Shroud of Darkness" /> [[lightsaber pike]], a thick and imposing double-bladed weapon that produced a rare and distinctive yellow blade.<ref name="Jedi Temple Guard" /> As an Inquisitor, he wore a [[Special Adjutant's Helmet]]<ref name="ERJ">''[[Rebel Journal by Ezra Bridger]]''</ref> during his flights in his TIE Advanced v1 starfighter.<ref name="Empire Day" /> As a Pau'an, he wore coverings to protect his hypersensitive [[ear]]s.<ref name="Absolutely Everything You Need to Know" />
+
+==Behind the scenes==
+{{Quote|Once we put the Utapauan head on, it all kinda fell into place. Suddenly there was this black-suited, evil Inquisitor.|Dave Filoni|url=http://www.starwars.com/video/star-wars-rebels-meet-the-inquisitor-the-empire-s-jedi-hunter}}
+The Grand Inquisitor was created as one of the primary antagonists of the animated television series ''[[Star Wars Rebels]]''. When designing the character, who is voiced by actor [[Jason Isaacs]],<ref name="Meet Inquisitor" /> the look and species went through several different iterations and was a topic of much discussion at [[Lucasfilm Ltd.|Lucasfilm]].<ref name="Visual Guide" /> The production team wanted to ensure that the character was not a carbon copy of past iconic villains such as [[Maul|Darth Maul]] or Darth Vader.<ref name="Meet Inquisitor" /> At one point, the Inquisitor was designed as a [[Chagrian]].<ref name="Dave on the Dark Side">{{InsiderCite|153|Dave on the Dark Side}}</ref> Eventually, it was decided that they would make the character a Pau'an, which, according to series executive producer [[Dave Filoni]], was when the character fell into place. Fellow executive producer [[Simon Kinberg]] felt it gave the character a real and human quality, while at the same time evoking a "creaturely", terrifying, and nightmarish look.<ref name="Meet Inquisitor" />
+
+[[File:Inquisitor concept.jpg|thumb|300px|Concept art for the Grand Inquisitor.]]
+In further differentiating the Inquisitor from past villains, the production team crafted him as a cold and analytical character who presents himself as elegant, sophisticated, and educated.<ref name="Visual Guide" /> Furthermore, they did not want him to be similar to villains from cartoons from the 1980s, which Lucasfilm's [[Pablo Hidalgo]] described as having the villains lose in every episode yet still be presented as a credible threat. Instead, the Inquisitor is meant to be someone whose arrival is a significant event and a challenge to the rebels.<ref name="Meet Inquisitor" />
+
+The Inquisitor was the first character announced for ''Star Wars Rebels''. The character was revealed at New York Comic Con [[2013]] during a panel about the show, in which a video was shown introducing the Inquisitor as a Jedi hunter who would be a recurring antagonist for the heroes.<ref name="NYCC reveal">{{SW|url=video/star-wars-rebels-the-empire-returns|text=Star Wars Rebels: The Empire Returns}}</ref> The character's action figure was revealed on [[December 30]], 2013,<ref name="Action Figure">{{SW|url=news/star-wars-rebels-inquisitor-action-figure-reveal|text=Star Wars Rebels Inquisitor Action Figure Reveal}}</ref> with a more in-depth video about the character, as well as an announcement about Isaac's casting, released on [[July 17]], [[2014]].<ref name="Meet Inquisitor" /> The Inquisitor made his first on-screen appearance in ''[[Star Wars Rebels: Spark of Rebellion]]'', which premiered on [[October 3]], 2014.<ref name="Spark Premiere">{{SW|url=news/star-wars-rebels-spark-of-rebellion-premieres-friday-october-3-on-disney-channel|text=''Star Wars Rebels: Spark of Rebellion'' Premieres Friday, October 3 on Disney Channel}}</ref> ''Spark of Rebellion'' re-aired on [[October 27]] on ABC, with a new scene at the beginning of the episode featuring the Inquisitor speaking with Darth Vader.<ref name="Spark Reair">{{SW|url=news/abc-to-air-star-wars-rebels-spark-of-rebellion-with-a-new-scene-featuring-darth-vader|text=''Star Wars Rebels: Spark of Rebellion'' With a New Scene Featuring Darth Vader Coming to ABC}}</ref>
+
+On [[October 28]], [[2015]], Dave Filoni revealed that the Inquisitor appeared in ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'', although the audience didn't know it.<ref name="Recon #2.04">{{SW|url=video/rebels-recon-inside-always-two-there-are|text=Rebels Recon: Inside "Always Two There Are"}}</ref> The episode "[[Shroud of Darkness]]" revealed that the Inquisitor was once a Jedi Temple Guard and a Jedi Knight.<ref name="Shroud of Darkness" /> At a press conference for "[[Twilight of the Apprentice]]," the finale of the show's [[Star Wars Rebels Season Two|second season]],<ref name="Forbes SWRS2 Finale" /> Filoni revealed that the Grand Inquisitor was in ''The Clone Wars'' [[The Clone Wars: Season Five|fifth season]] finale, "[[The Wrong Jedi]]," as one of the Jedi Temple Guards who escorted Ahsoka Tano from the Jedi Temple and brought Barriss Offee to trial before Supreme Chancellor Palpatine.<ref name="Forbes SWRS2 Finale" />
+
+==Appearances==
+{{Scroll_box|content=
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars: Force Arena]]''
+*{{TCW|The Wrong Jedi}} {{1st}} {{C|as Jedi Temple Guard}} {{Ret}}
+*''[[Darth Vader: Dark Lord of the Sith 6: The Chosen One, Part VI]]''
+*''[[Darth Vader: Dark Lord of the Sith 7: The Dying Light, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 8: The Dying Light, Part II]]''
+*''[[Darth Vader: Dark Lord of the Sith 9: The Dying Light, Part III]]''
+*''[[Ahsoka (novel)|Ahsoka]]''
+*''[[Darth Vader: Dark Lord of the Sith 19: Fortress Vader, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 20: Fortress Vader, Part II]]''
+*''[[Rise of the Rebels]]'' {{C|On poster}}
+*''[[Star Wars Rebels: Spark of Rebellion]]''
+*''[[The Rebellion Begins]]'' {{Hologram}}
+*[[Droids in Distress (book)|''Droids in Distress'' book]]
+*''[[The Secret Jedi: The Adventures of Kanan Jarrus: Rebel Leader]]''
+*''[[A New Hero]]''
+*{{Rebels|Rise of the Old Masters}}
+*''[[The Inquisitor's Trap]]''
+*''[[Servants of the Empire: Rebel in the Ranks]]''
+*{{Rebels|Breaking Ranks}}
+*{{SWRMCite|3|The fake Jedi}}
+*{{Rebels|Empire Day (episode)|Empire Day}}
+*''[[Ezra's Duel with Danger]]''
+*{{Rebels|Gathering Forces}}
+*''[[Kanan 12: First Blood, Epilogue: The Ties That Bind]]''
+*{{Rebels|Path of the Jedi}} {{Vision|[[Ezra Bridger]]}}
+*''[[Kanan's Jedi Training]]'' {{Vision|Ezra Bridger}}
+*''[[Sabine My Rebel Sketchbook]]''
+*''[[Servants of the Empire: Imperial Justice]]''
+*{{Rebels|Vision of Hope}} {{Mo}}
+*{{SWRMCite|11|Assessment}} {{Mo}}
+*''[[Servants of the Empire: The Secret Academy]]''
+*{{Rebels|Call to Action}}
+*''[[Battle to the End]]''
+*{{Rebels|Rebel Resolve}}
+*{{Rebels|Fire Across the Galaxy}}
+*''[[Star Wars Rebels: Recon Missions]]''
+*''[[Star Wars Rebels: The Siege of Lothal]]'' {{Mo}}
+*{{Rebels|Always Two There Are}} {{Mo}}
+*{{SWRMCite|16|Ice Breaking}} {{Imo}}
+*{{Rebels|Shroud of Darkness}} {{Vision}}
+*{{Rebels|Twilight of the Apprentice}} {{Imo}}
+*{{Rebels|Wolves and a Door}} {{Voice}}}}
+
+===Non-canon appearances===
+*''[[Angry Birds Star Wars II]]''
+
+==Sources==
+{{Scroll_box|content=
+*{{InsiderCite|148|Launch Pad}} {{Po}}
+*{{InsiderCite|148|Bantha Tracks}}
+*{{SWMCite|1|Sneak Peek: Star Wars Rebels|Sneak Peek: ''Star Wars Rebels''}}
+*{{InsiderCite|149|Blaster (Star Wars Insider)|Blaster}}
+*''[[Star Wars Rebels: Meet the Rebels]]''
+*''[[Star Wars Rebels: The Visual Guide]]''
+*''[[Ultimate Sticker Collection: Star Wars Rebels]]''
+*''[[Star Wars Rebels: Head to Head]]''
+*{{InsiderCite|152|Rebel Rouser}}
+*{{InsiderCite|152|Cowboy Jedi}} {{Po}}
+*{{InsiderCite|152|Blaster (Star Wars Insider)|Blaster}}
+*{{InsiderCite|153|Dave on the Dark Side}}
+*{{InsiderCite|153|Connecting with the Force!}}
+*{{HasbroCite|set=Star Wars Command|pack=Epic Assault|link=}}
+*{{HasbroCite|set=Star Wars Rebels (toy line)|text=''Star Wars Rebels''|pack=The Inquisitor|link=SL03-The-Inquisitor-Star-Wars-Rebels-Saga-Legends.asp}}
+*{{HasbroCite|set=Star Wars Rebels (toy line)|text=''Star Wars Rebels''|pack=The Inquisitor's TIE Advanced Prototype|link=Rebels-Vehicles-series-1-Inquisitors-TIE-Advanced-Prototype.asp}}
+*{{HasbroCite|set=Star Wars Rebels (toy line)|text=''Star Wars Rebels''|pack=The ''Phantom'' Attack Shuttle|link=Rebels-Vehicles-series-1-The-Phantom-Attack-Shuttle.asp}}
+*''[[Star Wars Rebels: Beware the Inquisitor!]]''
+*{{InsiderCite|154|Designing Star Wars Rebels}}
+*{{InsiderCite|154|Blaster (Star Wars Insider)|Blaster}}
+*{{LEGOCite|rebels|75082|TIE Advanced Prototype}}
+*{{InsiderCite|155|Launch Pad}}
+*{{InsiderCite|155|Rebels, Animated}}
+*{{InsiderCite|155|Note for Note: The Music of Star Wars Rebels}}
+*{{InsiderCite|156|Star Wars Rebels Recounted}}
+*{{InsiderCite|156|Blaster (Star Wars Insider)|Blaster}}
+*{{InsiderCite|157|Launch Pad}}
+*{{InsiderCite|157|Blaster (Star Wars Insider)|Blaster}} {{Po}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars Rebels: Complete Season One]]''
+*{{SW|url=video/rebels-recon-inside-always-two-there-are|text=Rebels Recon: Inside "Always Two There Are"}}
+*{{SW|url=video/rebels-recon-inside-shroud-of-darkness|text=Rebels Recon: Inside "Shroud of Darkness"}}
+*{{GentleGiantCite|set=''Star Wars Rebels'' Maquettes|pack=Inquisitor|link=}}<!--Reference URL, to be replaced by eventual Rebelscum.com link: http://www.gentlegiantltd.com/product_p/80414.htm?Click=23827, 8/4/14 release-->
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*{{InsiderCite|161|Jedi Challenge!}}
+*''[[Star Wars: Aliens of the Galaxy]]'' {{Po}}
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Entertainment Weekly's Ultimate Guide to Rogue One]]''
+*''[[Star Wars: Force Collection]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Lightsaber Battles]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
+*{{Databank|admiral-kassius-konstantine|Admiral Kassius Konstantine|archivedate=20170808072610}}
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}}
+*{{Databank|alexsandr-kallus|Alexsandr Kallus|archiveurl=https://archive.fo/sF7cI}}
+*{{Databank|imperial-xx-23-s-thread-tracer|Imperial XX-23 S-Thread Tracer}}
+*{{Databank|inquisitor-s-tie-advanced-prototype|Inquisitor's TIE Advanced Prototype}}
+*{{Databank|the-grand-inquisitor|The Grand Inquisitor}}
+*{{Databank|the-grand-inquisitor-s-lightsaber|The Grand Inquisitor's Lightsaber}}
+*{{Databank|tie-fighter|TIE fighter}}
+}}
+
+==Notes and references==
+{{Scroll box
+|content=
+{{Imagecat|Images of the Grand Inquisitor}}
+{{Reflist}}
+}}
+
+==External links==
+{{Scroll_box|content=
+*{{SW|url=news/nycc-2013-meet-the-inquisitor-the-new-face-of-evil-in-star-wars-rebels.html|text=NYCC 2013: Meet the Inquisitor, the New Face of Evil in ''Star Wars Rebels''}} {{1stm}}
+*{{SW|url=video/star-wars-rebels-the-empire-returns|text=Star Wars Rebels: The Empire Returns}}
+*{{SW|url=news/star-wars-rebels-inquisitor-action-figure-reveal.html|text=Star Wars Rebels Inquisitor Action Figure Reveal - Exclusive!}}
+*{{SW|url=news/star-wars-rebels-imperial-propaganda-posters-hit-online.html|text=Star Wars Rebels Imperial Propaganda Posters Hit Online}}
+*{{SW|url=video/star-wars-rebels-meet-kanan-the-cowboy-jedi|text=Kanan, the Cowboy Jedi}}
+*{{SW|url=news/the-legendary-star-wars-expanded-universe-turns-a-new-page.html|text=The Legendary Star Wars Expanded Universe Turns a New Page}}
+*{{SW|url=video/star-wars-rebels-full-trailer|text=Star Wars Rebels: Full Trailer}}
+*{{SW|url=video/star-wars-rebels-short-trailer|text=Star Wars Rebels: Short Trailer}}
+*{{SW|url=news/star-wars-rebels-and-more-at-san-diego-comic-con-2014|text=''Star Wars Rebels'' and More at San Diego Comic-Con 2014 &ndash; UPDATED!}} {{Po}}
+*{{SW|url=video/star-wars-rebels-meet-the-inquisitor-the-empire-s-jedi-hunter|text=Star Wars Rebels: Meet the Inquisitor, the Empire's Jedi Hunter}}
+*{{SW|url=video/star-wars-rebels-extended-trailer|text=Star Wars Rebels: Extended Trailer}}
+*{{SW|url=news/introducing-star-wars-rebels-the-visual-guide|text=Introducing ''Star Wars Rebels: The Visual Guide''}}
+*{{SW|url=news/sdcc-2014-the-heroes-of-star-wars-rebels-panel-liveblog|text=SDCC 2014: "The Heroes of ''Star Wars Rebels''" Panel &ndash; Liveblog}}
+*{{SW|url=video/star-wars-rebels-a-look-ahead|text=Star Wars Rebels: A Look Ahead}}
+*{{SW|url=video/star-wars-rebels-sdcc-2014-exclusive-clip-kanan-vs-the-inquisitor|text=Star Wars Rebels: SDCC 2014 Exclusive Clip &ndash; "Kanan vs. the Inquisitor"}}
+*{{SW|url=news/sdcc-2014-hasbros-star-wars-panel-liveblog|text=SDCC 2014: Hasbro's ''Star Wars'' Panel &ndash; Liveblog}}
+*{{SW|url=news/sdcc-2014-star-wars-collectibles-panel-liveblog|text=SDCC 2014: ''Star Wars'' Collectibles Panel &ndash; Liveblog}}
+*{{SW|url=news/star-wars-rebels-spark-of-rebellion-premieres-friday-october-3-on-disney-channel|text=''Star Wars Rebels: Spark of Rebellion'' Premieres Friday, October 3 on Disney Channel}}
+*{{SW|url=news/nobody-expects-the-imperial-inquisition|text=Nobody Expects the Imperial Inquisition}}
+*{{SW|url=news/abc-to-air-star-wars-rebels-spark-of-rebellion-with-a-new-scene-featuring-darth-vader|text=''Star Wars Rebels: Spark of Rebellion'' With a New Scene Featuring Darth Vader Coming to ABC}}
+*{{SW|url=news/a-spark-of-rebellion-ignites-the-galaxy-in-star-wars-rebels-complete-season-one|text=''Star Wars Rebels: Complete Season One'' Coming September 1}}
+*{{SW|url=news/5-of-rae-sloanes-greatest-moments|text=5 of Rae Sloane's Greatest Moments}}
+}}
+
+{{Interlang
+|cs=Inquisitor
+|de=Großinquisitor (Pau’aner)#kanon
+|el=Ο Μέγας Ανακριτής
+|es=El Gran Inquisidor
+|fr=L'Inquisiteur
+|it=Il Grande Inquisitore
+|ja=大尋問官（パウアン）
+|ko=그랜드 인퀴지터
+|nl=Grand Inquisitor
+|pl=Inkwizytor (Pau'anin)
+|pt=O Grande Inquisidor
+|ru=Гранд-инквизитор
+|uk=Гранд-інквізитор
+}}
+
+{{DEFAULTSORT:Grand Inquisitor, The}}
+[[Category:Fallen Jedi]]
+[[Category:Inquisitors]]
+[[Category:Jedi hunters]]
+[[Category:Jedi Knights]]
+[[Category:Males]]
+[[Category:Pau'ans]]
+[[Category:Torturers and interrogators]]

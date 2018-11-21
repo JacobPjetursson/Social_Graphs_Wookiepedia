@@ -1,0 +1,131 @@
+{{Eras}}
+{{Update|[[Star Wars: On the Front Lines]], [[Sons of the Sky]], [[Star Wars 45: Mutiny at Mon Cala, Part II]], [[Star Wars 51: Hope Dies, Part II]]}}
+{{Character
+|type=Rebel
+|image=[[File:Klivian-Derek-Hobbie.png]]
+|name=Derek Klivian
+|homeworld=[[Ralltiir]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[3 ABY]], [[Hoth]]<ref name="OTFL">''[[Star Wars: On the Front Lines]]''</ref>
+|species=[[Human]]<ref name="ESB">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+|gender=[[Sexes|Male]]<ref name="Databank">{{Databank|derek-hobbie-klivian|Derek "Hobbie" Klivian|archivedate=20170706054504}}</ref>
+|height=1.75 [[meter]]s<ref name="Databank" />
+|mass=
+|hair=[[Color|Blond]]<ref name="The Antilles Extraction">{{Rebels|The Antilles Extraction}}</ref>
+|eyes=Blue<ref name="The Antilles Extraction" />
+|skin=Fair<ref name="The Antilles Extraction" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="The Antilles Extraction" />
+*[[Alliance to Restore the Republic]]<ref name="ESB" />
+**[[Phoenix Cell]]<ref name="The Antilles Extraction" />
+**[[Red Squadron (Rebel Alliance)|Red Squadron]] {{C|Standby}}<ref name="UVG">''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''</ref>
+**[[Massassi Group]]<ref name="UVG" />
+**[[Rogue Squadron]]<ref name="ESB" />
+|masters=
+|apprentices=}}
+{{Quote|Two fighters against a Star Destroyer?|Derek Klivian, to [[Leia Organa]]|audio=Hobbie-ESB.ogg|Star Wars: Episode V The Empire Strikes Back}}
+'''Derek "Hobbie" Klivian''' was a [[Sexes|male]] [[human]] from the [[planet]] [[Ralltiir]] who served as a [[Rebel pilot|pilot]] for the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]]. He attended the [[Skystrike Academy]] with [[Wedge Antilles]] and [[Rake Gahree]]. He and Antilles [[Escape from Skystrike Academy|defected]] to the rebellion after making contact with [[Sabine Wren]]. After the [[Battle of Yavin]], [[Luke Skywalker]] invited Klivian to join [[Rogue Squadron]]. Klivian accepted and served the unit with distinction during the [[Battle of Hoth]] where he [[Death|died]].
+
+==Biography==
+===Early Life===
+Derek Klivian [[Homeworld|hailed]] from the [[planet]] [[Ralltiir]].<ref name="Ultimate Star Wars" />
+
+===Serving the rebellion===
+====Skystrike Academy====
+{{Quote|We made our choice.|Derek Klivian to Sabine Wren|The Antilles Extraction}}
+Klivian ("Hobbie") was sent to [[Skystrike Academy]], an elite [[Imperial Academy|flight academy]] on the planet [[Montross (planet)|Montross]], training under [[Flight instructor|Instructor]] [[Goran (instructor)|Goran]]. There, [[Sexes|he]] met [[Wedge Antilles]] and [[Rake Gahree]]. In [[time]], the trio became discontent with the direction they felt the Empire was taking and made plans to defect to the rebellion. This information eventually made its way to one of the many [[Fulcrum (title)|Fulcrum]] [[agent]]s, who passed the information to the [[Phoenix Cell]].<ref name="The Antilles Extraction" />
+
+[[File:Hobbie-klivian.jpeg|thumb|225px|left|Derek Klivian and Wedge Antilles imprisoned in Skystrike Academy]]
+The information also caught the attention of the [[Imperial Security Bureau]], which dispatched [[Lothal sector]]'s [[Governor]] [[Arihnda Pryce]] as well as agent [[Alexsandr Kallus|Kallus]] to investigate the claims. Hobbie, Antilles and Gahree argued that they knew about their planned defection. However, fellow [[Imperial cadet|cadet]] Ria Talla, secretly undercover [[Spectres|rebel]] [[Sabine Wren]], overheard and told Antilles that she would help them defect.<ref name="The Antilles Extraction" />
+
+Later, Hobbie and his friends found an opportunity to escape when Goran ordered the [[cadet]]s to take part in a mock combat exercise in [[Realspace|space]]. Sabine arranged for her rebel comrades [[Ezra Bridger]] and [[Kanan Jarrus]] to rendezvous their [[CR90 corvette]] near the planet. At Sabine's signal, Hobbie and his comrades flew towards the rebel [[corvette]]. However, Pryce deactivated the [[TIE/ln space superiority starfighter|TIEs']] [[solar collector]] panels, leaving them derelict in space. Pryce also ordered [[Captain]] [[Vult Skerris]] to shoot one of the TIE pods as a warning; [[Death|claiming]] the life of Rake. Hobbie, Sabine and Wedge were soon arrested by [[Galactic Empire|Imperial]] forces.<ref name="The Antilles Extraction" />
+
+Following their capture, Wedge and Hobbie were thrown into a holding cell by Kallus. Inside the two debated their escape plans with Wedge suggesting they surprise the guards. A demoralized Hobbie was dubious of their chances of success due to the lack of an escape plan. Fortunately for them, they were rescued by Sabine, who had managed to knock out Governor Pryce. The defectors and Sabine then fled down a corridor only to run into Agent Kallus. However, the ISB agent had a change of heart due to his previous encounter with Sabine's rebel cell and allowed them to escape.<ref name="The Antilles Extraction" />
+
+[[File:The Antilles Extraction thumb.png|250px|right|Cadet Hobbie with Wedge Antilles and Sabine Wren|thumb|right]]
+Heading to [[Hangar]] 24, Hobbie and his friends [[Escape from Skystrike Academy|fled]] on a [[TIE/sa bomber|TIE bomber]]. They managed to flee into the atmosphere but were pursued by Captain Skerris. At the eleventh [[Standard hour|hour]], they were rescued by Ezra's CR90 corvette and managed to flee aboard. Hobbie, Wedge, and their rebel rescuers then traveled to the Phoenix [[Chopper Base|base]] on [[Atollon]]. There, Wedge and Hobbie were greeted by [[Commander]] [[Jun Sato]] who formally welcomed them into the rebellion.<ref name="The Antilles Extraction" />
+
+====Training exercise====
+{{Quote|Hobbie, Wedge, let's go! Move it!|Hera Syndulla, to Wedge and Hobbie|Warhead (episode)}}
+[[File:Hobbie Wedge Warhead.jpeg|left|250px|thumb|Hobbie and Wedge prepare for a training mission]]
+A short while after his defection from the Empire, Hobbie, along with the rest of the Spectres and Phoenix Squadron were to take part in a training exercise. Shortly before they left, Hobbie and Wedge were conversing in the hanger despite the fact that they were behind schedule. They suddenly heard Hera Syndulla call for them, and in the shock to get ready, the two ran straight into each other. In their absence after they left, Chopper Base was [[EXD-9's infiltration of Chopper Base|infiltrated]] by the [[E-XD infiltrator droid]] [[EXD-9]], who was searching the [[Outer Rim Territories]] for rebel bases. The [[Lasat]] [[Garazeb Orrelios]], the inventory droid [[AP-5]], and the [[astromech droid]] [[C1-10P|Chopper]] managed to capture and reprogram the droid as an improvised rigged bomb which destroyed an [[Imperial-class Star Destroyer|Imperial Star Destroyer]].<ref name="Warhead">{{Rebels|Warhead (episode)|Warhead}}</ref>
+
+===Alliance to Restore the Republic===
+====Battle of Atollon====
+{{Quote|Hobbie, follow me.|Wedge signals Hobbie during the dogfight|Zero Hour}}
+[[File:Wedge-hobbie a wings.png|right|250px|thumb|Wedge, Hobbie and the other pilots attempt to attack the walkers.]]
+Eventually, all of the individual rebel cells grouped together to reorganize into the [[Alliance to Restore the Republic]].<ref name="Secret Cargo">{{Rebels|Secret Cargo}}</ref> Just as Phoenix Squadron had been preparing to make an attack on the Imperial factory on Lothal, the Chiss [[Grand Admiral]] [[Mitth'raw'nuruodo|Thrawn]] managed to discover the location of Chopper Base, and subsequently launched an all-out attack in an attempt to finally thwart out their rebel actives, which had become a legitimate threat to the Empire. During the ground assault, Hobbie, Wedge and two other rebel pilots launched their [[RZ-1 A-wing interceptor|A-wing starfighters]] in order to counter the [[All Terrain Armored Transport|AT-AT walkers]] that had been stationed on the planet's surface. With Wedge signalling Hobbie to follow him, the duo attempted to attack the walkers; however, Thrawn quickly took note of their excursion, and dispatched TIE fighters to repel them. The A-wings and the TIE-fighters consequently engaged in a dogfight. Towards the latter part of the battle, the two managed to escape, along with the remnants of Phoenix Squadron and [[General]] [[Jan Dodonna]]'s [[Massassi Group]] to [[Yavin 4]].<ref name="Zero Hour">{{Rebels|Zero Hour}}</ref>
+
+====Rand Ecliptic mutiny====
+[[File:Biggs.png|200px|thumb|left|Biggs Darklighter, the Imperial cadet who Hobbie assisted to defect]]
+Around this time, Klivian went undercover and attended the [[Prefsbelt Fleet Camp]]<ref name="Hobbie Kilvian - Snowspeeder Pilot">{{Topps|set=Star Wars: Card Trader|sformat=''Star Wars'': Card Trader|cardname=Hobbie Kilvian - Snowspeeder Pilot|link=http://starwarscardtrader.wikia.com/wiki/Hobbie_Kilvian_-_Snowspeeder_Pilot}}</ref> with one [[Biggs Darklighter]]. Together they were posted to the Imperial [[starship]] ''[[Rand Ecliptic]]'',<ref name="Rebels Recon">{{SW|url=deo/rebels-recon-inside-heras-heroes|text=Rebels Recon: Inside "Hera's Heroes"}}</ref> aboard which he had received the commission of [[First Mate|first mate]].<ref name="CL 2016">''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''</ref> In a similar manner to Sabine [[Standard year|years]] before, Klivian assisted Darklighter to [[Mutiny on the Rand Ecliptic|mutiny]] and defect to the Alliance to Restore the Republic.<ref name="Ultimate Star Wars" />
+
+===Galactic Civil War===
+====Battle of Scarif====
+By [[0 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> Klivian was a member of [[Red Squadron (Rebel Alliance)|Red Squadron]], stationed at [[Great Temple (Yavin 4)|Base One]] on Yavin 4. During the [[Battle of Scarif|mission]] to steal the [[Death Star plans|technical readouts]] of the secret [[DS-1 Orbital Battle Station|Death Star]] [[superweapon]], he served as the standby for [[Red Six]], although the position was ultimately filled by [[Jek Tono Porkins]].<ref name="UVG" />
+
+====Rebellion on the run====
+{{Quote|I hope this isn't weird but...I just wanted to say I'm honored to meet you, sir|Derek Klivian to Luke Skywalker|Star Wars 45: Mutiny at Mon Cala, Part II}}
+Months later, he and Antilles took part in a training run sponsored by General Syndulla. There they met [[Zev Senesca]]. The trio became friends based on the meeting.<ref name="SW 45">''[[Star Wars 45: Mutiny at Mon Cala, Part II]]''</ref> As the rebellion recovered and gathered there forces at [[Mako-Ta Space Docks]], the pilots met up with Red Squadron and would-be Jedi [[Luke Skywalker]] in Mess Hall 4.<ref name="SW 45" />
+
+====Battle of Hoth====
+[[File:Walker Assault DICE.png|220px|thumb|right|Hobbie and Rogue Squadron flew T-47 airspeeders against the Imperial ground assault]]
+After the Battle of [[Yavin]], [[Luke Skywalker]] invited Klivian to join [[Rogue Squadron]]. Klivian accepted<ref name="SWCT">[[Star Wars: Card Trader|''Star Wars'': Card Trader]]</ref><ref name="ESB" /> and came to be stationed at [[Echo Base]] on the planet [[Hoth]]. After the rebel presence on the planet was discovered by [[Anakin Skywalker|Darth Vader's]] [[Death Squadron]], Hobbie and other [[starfighter]] [[Rebel pilot|pilots]] attended a briefing by [[Prince]]ss [[Leia Organa]] prior to the impending [[Battle of Hoth]]. Klivian and Rogue Squadron would fly [[T-47 airspeeder|T-47 snowspeeders]] to delay the landing [[Imperial Army|Imperial ground]] [[Imperial Military|forces]] while the rest of the station evacuated. Once this task was completed, the pilots would escort each individual [[transport]] away from the base, past the Imperial [[blockade]]. Skeptical that two fighters would be able to fight their way past an Imperial Star Destroyer, Organa nevertheless assured him that the base's [[V-150 Planet Defender|v-150]] [[ion cannon]] would provide enough cover for the escape.<ref name="ESB" />
+
+During the battle, Hobbie served as Skywalker's wingman<ref name="ESB" /> but was killed when his snowspeeder crashed onto ''[[Blizzard One]]'' after it was shot down.<ref name="OTFL" />
+
+==Behind the scenes==
+[[File:Klivian helmet.jpg|210px|thumb|left|Derek Klivian's first [[K-22995 helmet|flight helmet]]]]
+Derek Klivian was portrayed by [[Richard Oldfield]] in [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']], in which he was credited only as "Hobbie (Rogue 4)." Hobbie appears as an Imperial cadet in ''[[Star Wars Rebels]]'', voiced by [[Trevor Devall]].
+
+Klivian was originally scripted to die in The Empire Strikes Back by crashing his T-47 airspeeder into the "head" of ''Blizzard One'', the All Terrain Armored Transport leading the assault on Echo Base. The scene was never finished, and thus never put in the final film. Sources like the [[Databank (website)|Databank]] on [[StarWars.com]] or the [[Star Wars: Card Trader|''Star Wars'': Card Trader]] say that Klivian managed to eject from the cockpit of his snowspeeder before it could crash, though the reference book ''[[Star Wars: On the Front Lines]]'' later contradicted that by saying Klivian died during the Battle of Hoth. The author [[Daniel Wallace]], in an interview with Eleven Thirty-Eight, clarified that the [[Lucasfilm Story Group]] pointed him to the planned scene, so he could incorporate it in the book. He also speculated that the planned scene took precedence before [[Star Wars Legends|''Star Wars'' Legends]], where Klivian survived the battle and lived long after.<ref name="11 38">{{Cite_web|url=http://eleven-thirtyeight.com/2017/07/on-the-front-lines-an-interview-with-dan-wallace/|title=On The Front Lines – An Interview with Dan Wallace|accessdate=2017-08-14|author=Nicholas W. Adams|date=2017-07-24|publisher=''Eleven Thirty-Eight''}}</ref>
+
+==Appearances==
+*{{Rebels|The Antilles Extraction}}
+*{{SWRMCite||Sons of the Sky}}
+*{{Rebels|Warhead (episode)|Warhead}}
+*{{Rebels|Zero Hour}}
+*''[[Star Wars 45: Mutiny at Mon Cala, Part II]]''
+*''[[Star Wars 51: Hope Dies, Part II]]''
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+
+==Sources==
+*{{SWE|characters|princessleia|Princess Leia Organa}} {{Po}}
+*{{SWE|groups|rebelalliance|Rebel Alliance}} {{Po}}
+*{{SWE|groups|rebel-pilots|Rebel Pilots}}
+*[[Star Wars: Card Trader|''Star Wars'': Card Trader]] {{1stID}}
+*''[[Ultimate Star Wars]]'' {{1stID|Hobbie Klivian}}
+*{{SW|url=news///inside-the-fearless-rogue-group|text=Inside the Fearless Rogue Group}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|derek-hobbie-klivian|Derek "Hobbie" Klivian|archivedate=20170706054504}}
+*{{Databank|rebel-pilots-biography-gallery|Rebel Pilots biography gallery}}; image #11 {{C|of 15}}
+*{{Databank|biggs-darklighter-biography-slideshow|Biggs Darklighter biography gallery}}; image #4 {{C|of10}}
+*{{Databank|wedge-antilles|Wedge Antilles|archivedate=20140714220601}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Derek Klivian
+|ko=데렉 클리비안
+|pl=Derek Klivian
+|ru=Дерек Кливиан/Канон
+|es=Derek Klivian}}
+
+{{DEFAULTSORT:Klivian, Derek}}
+[[Category:Cadets of the Galactic Empire]]
+[[Category:Humans]]
+[[Category:Imperial defectors]]
+[[Category:Males]]
+[[Category:Phoenix Squadron personnel]]
+[[Category:Ralltiiri]]
+[[Category:Red Squadron personnel]]
+[[Category:Rogue Squadron personnel]]

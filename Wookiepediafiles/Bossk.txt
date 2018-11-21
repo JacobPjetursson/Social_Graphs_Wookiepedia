@@ -1,0 +1,212 @@
+{{Eras}}
+{{Update|[[Solo: A Star Wars Story]], [[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]}}
+{{Character
+|type=Bounty hunter
+|image=[[File:Bossk.png]]
+|name=Bossk
+|homeworld=[[Trandosha]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Trandoshan]]<ref name="Encyclopedia">{{SWE|characters|bossk|Bossk}}</ref>
+|gender=[[Sexes|Male]]<ref name="Encyclopedia" />
+|height=1.90 [[meter]]s<ref name="Journal">''[[Rebel Journal by Ezra Bridger]]''</ref>
+|mass=113 [[kilogram]]s<ref name="Journal" />
+|hair=
+|eyes=[[Color|Orange]]<ref name="R2 Come Home">{{TCW|R2 Come Home}}</ref>
+|skin=Green<ref name="Encyclopedia" />
+|cyber=
+|era=
+|affiliation=*[[Bounty Hunters' Guild]]<ref name="Ezra's Gamble">''[[Ezra's Gamble]]''</ref>
+*[[Krayt's Claw]]<ref name="Dark Disciple">''[[Dark Disciple]]''</ref>
+*[[Galactic Empire]] {{C|as a [[mercenary]]}}<ref name="BH">''[[Bounty Hunt]]''</ref>
+|masters=
+|apprentices=}}
+{{Quote|Well, I'm just guessing, sir. But I couldn't help noticing that your ship is equipped with missile launchers as well as quad cannons, and that the Imperials seem very interested in your arrival. And given the size of your mortar gun, and the way you don't mince words, it's my impression that you're a professional bounty hunter.|[[Ezra Bridger]]'s description of Bossk|Ezra's Gamble}}
+'''Bossk''' was a [[Sexes|male]] [[Trandoshan]] [[bounty hunter]] and the son of [[Cradossk]] who was known for hunting [[Wookiee]]s. During the [[Clone Wars]], Bossk worked alongside fellow hunters [[Aurra Sing]] and [[Castas]] to mentor the orphaned [[Boba Fett]]. Their scheme to kill Fett's hated enemy [[Mace Windu]] resulted in Fett and Bossk's arrest. After a stint in prison, Bossk worked in [[Krayt's Claw]], Fett's syndicate of bounty hunters, taking jobs for clients including [[Otua Blank]] and [[Asajj Ventress]].
+
+After the rise of the [[Galactic Empire|Empire]], Bossk traveled to the [[Outer Rim Territories|Outer Rim]] planet of [[Lothal]] to collect a bounty on the [[Dug]] criminal [[Gronson Takkaro]], who had jumped bail in the [[Ahakista system]]. During his trip Bossk also joined forces with the [[Force-sensitive]] street urchin [[Ezra Bridger]] to stop the corrupt [[Imperial Security Bureau]] [[Lieutenant]] [[Jenkes]]. Following the [[Battle of Hoth]], Bossk would be called upon by [[Anakin Skywalker|Darth Vader]] to find and capture the ''[[Millennium Falcon]]''.
+
+==Biography==
+===Background===
+{{Quote|I've never seen anyone boost a landspeeder so fast. How'd you learn?''"<br />"''My father taught me.|Ezra and Bossk discussing the latter's childhood|Ezra's Gamble}}
+Bossk was the son of [[Cradossk]], a [[Trandoshan]] [[bounty hunter]].<ref name="Galactic Defense">''[[Star Wars: Galactic Defense]]''</ref> From his father, Bossk learned how to boost a [[landspeeder]]. When Bossk reached maturity, he followed in the footsteps of his father to become a bounty hunter. Looking back on his childhood, Bossk regarded fathers as overrated and was uncomfortable with people asking questions about his early life. At some point during his career as a bounty hunter, Bossk obtained a modified [[YV-666 light freighter]] that was named the ''[[Hound's Tooth]]''. This became his main transport for plying his trade as a bounty hunter.<ref name="Ezra's Gamble" />
+
+===The Clone Wars===
+====Aiding a vendetta====
+{{Quote|You got a problem with Boba, you got a problem with me.|Bossk|Deception}}
+[[File:Bossk-TCW.jpg|thumb|left|Bossk during the Clone Wars.]]
+A fierce and skilled bounty hunter, Bossk was renowned and feared for his effectiveness at killing [[Wookiee]]s. Bossk was a member of the [[Bounty Hunters' Guild]] as well, an institution that regulated the bounty-hunting trade.<ref name="Dark Disciple" /> During the [[Clone Wars]], Bossk teamed up with fellow bounty hunters [[Aurra Sing]] and the [[Klatooinian]] [[Castas]] to mentor the young [[Boba Fett]] and assist him with his vendetta against the renowned [[Jedi Master]] [[Mace Windu]].<ref name="Death Trap">{{TCW|Death Trap}}</ref> After Fett destroyed the engines of the [[Venator-class Star Destroyer|Republic attack cruiser]] ''[[Endurance]]'', making it crash on [[Vanqor]], the bounty hunters went inside and took three hostages: [[Admiral]] [[Kilian]], [[Commander]] [[CT-411|Ponds]] and a [[Clone trooper|clone]] officer. Bossk remained by [[Slave I|their ship]] to watch over the hostages. However, the trio retreated after watching Windu's fighter escape them by making the jump to [[hyperspace]].<ref name="R2 Come Home" />
+
+[[File:Bossk on Vanqor.png|thumb|300px|right|Bossk on Vanqor with the crashed Star Destroyer ''Endurance'' in the background.]]
+As the bounty hunters stopped on [[Florrum]] to request services of [[Realspace|space]] [[pirate]] [[Hondo Ohnaka]], Bossk was left in charge of the ship, the ''Slave I'', holding their two Republic hostages which survived the trip. Just as he was about to kill the hostages, the [[Padawan]] [[Ahsoka Tano]] swooped in on a [[speeder bike]], subdued Bossk and freed the hostages. Bossk was then held at [[Blaster|gunpoint]] by Kilian, with the Trandoshan's own weapon. Aurra Sing then arrived in on a speeder bike, and during the brief battle that followed, Aurra tried to escape with ''Slave I'', but crashed after Ahsoka cut off one of the wings. Later, both Bossk and Boba Fett were taken as [[Galactic Republic|Republic]] prisoners to the [[Republic Judiciary Central Detention Center]] on [[Coruscant]].<ref name="Death Trap" />
+
+====Incarcerated====
+While in prison, Bossk decided to act as a bodyguard to Boba.<ref name="Encyclopedia" /> When he saw a fight take place in the cafeteria between [[Obi-Wan Kenobi]] disguised as [[Rako Hardeen]] and Boba, he cheered his young charge on. As the guards came over to intervene, he knocked them out and threw Hardeen across a dining table, creating a distraction for the prisoners to escape. Bossk and Boba fled the room in the chaos.<ref name="Deception">{{TCW|Deception}}</ref>
+
+====A job under Fett====
+[[File:Epguide420.png|thumb|300px|left|Bossk and Boba Fett fighting Kage Warriors on Quarzite.]]
+After escaping prison, Boba formed his own [[Krayt's Claw|syndicate]] of bounty hunters, which Bossk joined. On [[Tatooine]], Bossk, along with fellow bounty hunters [[Dengar]], [[C-21 Highsinger]], [[Oked]] and [[Latts Razzi]] went to [[Chalmun's Cantina]]. After seeing Oked killed, Bossk and Latts invited his killer, [[Asajj Ventress]], for a drink and blackmailed her into taking Oked's place on their team for a job. After Ventress agreed, Bossk and Latts took her to meet Fett and the other team members. Fett's team had been hired by the [[Belugan]] [[Major]] [[Rigosso]] to protect a large chest while it was delivered via [[subtram]] to his [[Otua Blank|Lord]]. While on the job, the tram was attacked by [[Kage Warriors]]. After several minutes of fighting, Bossk was sent to help Ventress defend the rear. On the way, however, a Kage Warrior blew [[blinding dust]] into his face. Unable to see, Bossk was kicked off the tram. He hit the ground hard, bellowing his fury. Later, he and the rest of the team collected their share of the payment from Ventress, though not before Bossk inquired about Boba's whereabouts.<ref name="Bounty">{{TCW|Bounty (episode)|Bounty}}</ref>
+
+====Mission to Serenno====
+Later in the war, Bossk and Fett's syndicate of hunters stopped at a [[Unidentified bar (Level 1313)|bar]] at [[Level 1313]] on Coruscant. Bossk was sitting the bar drinking when the [[Jedi]] [[Quinlan Vos]] entered, posing as a bounty hunter. Vos, who was seeking a lead on the location of Bossk's former teammate Asajj Ventress, tried to get attention by loudly asking if anyone had any job leads, which Bossk coldly rebuked. When Vos casually referenced Ventress, however, Bossk's attention was piqued and he laughed before buying Vos a drink. Bossk inquired if she had stolen a job from Vos, and he instead asked if he knew where she was, to which Bossk answered he had no idea, but after further prodding from Vos, took him to a back alcove where Boba and the other hunters under his employ were seated. Bossk told his boss that Vos was looking for "No Name," and Boba eventually gave the undercover Jedi the information heed needed to [[Pantora|locate]] and [[Capture of Moregi|confront]] Ventress. Before Vos departed, Bossk remarked that he hoped Vos was "man enough" for the task.<ref name="Dark Disciple" />
+
+Not long after Boba and Krayt's Claw were sought out by their old associate Asajj Ventress, who needed help rescuing Vos from [[Count]] [[Dooku]]'s [[Dooku's palace|castle]] on [[Serenno]]. While initially spurning the offer due to Ventress's betrayal of Fett, the hunters, in particular Bossk and Latts Razzi, were won over when offered 250,000 [[credit]]s. Bossk and the rest of the hunters provided a distraction while Ventress [[Mission to Serenno (Krayt's Claw)|entered]] the castle to retrieve Vos and were able to trap Dooku underneath some netting; however, the appearance of the [[Dark side of the Force|dark side]]&ndash;wielding Vos forced the hunters and Ventress to flee.<ref name="Dark Disciple" />
+
+===Age of the Empire===
+By the [[Imperial Era|Age of the Empire]], Bossk was still a member of the Bounty Hunters' Guild. The Guild had developed a working partnership with the [[Galactic Empire]] and pursued acquisitions who were targeted by a government bounty. He was among a small number of bounty hunters whose Republic criminal records were expunged by the Empire, to facilitate their use as independent law enforcers in the [[Outer Rim Territories]].<ref name="Star Wars: Scum and Villainy">''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''</ref> As a licensed bounty hunter, Bossk was also issued with an [[Imperial Peace-Keeping Certificate]].<ref name="Ezra's Gamble" /> In [[10 BBY]], [[Val]] complained to her lover [[Tobias Beckett]] why they didn't hired Bossk or the [[Xan sisters]], but instead newcomers [[Han Solo]] and [[Chewbacca]], for the [[Heist on Vandor|heist]] on the [[20-T Railcrawler conveyex transport]] they performed at [[Vandor]].<ref name="Solo">''[[Solo: A Star Wars Story]]''</ref>
+
+====Trip to Lothal====
+=====Working with Ezra=====
+{{Quote|Avoid the use of firepower. We'll see about that|Bossk, prior to landing on Lothal|Ezra's Gamble}}
+[[File:Lothal Full Planet.png|right|200px|thumb|Lothal, one of the many worlds Bossk visited]]
+Five years before the [[Battle of Yavin]], Bossk visited the Outer Rim planet of [[Lothal]] to collect a bounty on the [[Dug]] criminal [[Gronson Takkaro|Gronson "Shifty" Takkaro]], who had jumped bail in the [[Ahakista system]]. While the local security [[Imperial Security Bureau]] [[Lieutenant]] [[Herdringer]] was hesitant about allowing the Trandoshan bounty hunter to enter his jurisdiction, he reluctantly acquiesced on the condition that Bossk avoided the use of firepower. Unknown to Bossk, the ISB official he was talking to was actually an impostor, the corrupt ISB Lieutenant [[Jenkes]], who had murdered the real Herdringer and stolen his identity. Jenkes was also in cahoots with "Shifty" Takkaro and informed the Dug fugitive. He also sent [[Squad Five (Lothal)|Squad Five]], a squad of [[stormtrooper]]s, to kill Bossk.<ref name="Ezra's Gamble" />
+
+After landing in Lothal [[Capital City]]'s [[spaceport]], Bossk encountered a young [[Force-sensitive]] [[Human]] street urchin named [[Ezra Bridger]]. Having been orphaned at the age of seven following the death of his parents, Ezra made his living on the streets of Capital City as a con artist. Posing as an official guide to Lothal, Ezra agreed to lead Bossk to a joint called [[Ake's Tavern]], where "Shifty" Takkaro was reported to be hiding. In return, Bossk promised to pay Ezra a thousand credits and paid the youth an upfront installment of five hundred credits. While traveling on a [[speeder bus]] to Ake's Tavern, Bossk paid Ezra the remaining half of his fee.<ref name="Ezra's Gamble" />
+
+Upon arriving at Ake's Tavern, Ezra entered the building disguised as a ticket-seller for the [[Arena Day]] tournament, which fell on the following day. However, "Shifty" Takkaro had already been warned and Bossk and Ezra soon found themselves under attack from three of Jenkes' associates, the [[Duros]] assassin [[Angrigo]] and the two [[Nikto]]s known as the [[Unidentified Kratchell twin (blaster pistols)|Kratchell]] [[Unidentified Kratchell twin (disruptor rifle)|twins]]. These assassins had been sent to protect Takkaro and to kill Bossk and his local guide. During the ensuing shootout, Bossk killed Angrigo and the Kratchells and captured Takkaro. Bossk attempted to interrogate Takkaro but before he could extract any answers, a squad of stormtroopers arrived at Ake's Tavern.<ref name="Ezra's Gamble" />
+
+Bossk identified himself as a licensed bounty hunter whose hunt for the bail jumper Takkaro had been sanctioned by Imperial Herdringer of the ISB. When the stormtroopers ignored Bossk, he used a [[concussion grenade]] to distract the Imperials before fleeing the tavern with Ezra. Following a skirmish with several stormtroopers and [[scout trooper]]s, Bossk and Ezra managed to escape on a stolen speeder bike. At Ezra's urging, Bossk reluctantly left his unconscious quarry Takkaro behind; Takkaro was subsequently apprehended by the local Imperial authorities. During their escape from the tavern, Ezra managed to confuse the Imperials by using a stolen stormtrooper helmet to issue false orders. Fleeing into a tunnel, Bossk and Ezra were pursued by a pair of scout troopers on speeder bikes but managed to lose their pursuers by entering the left-fork which led them to the outskirts of the city.<ref name="Ezra's Gamble" />
+
+=====Imperial Entanglements=====
+{{Quote|Maybe you're not as dumb as you look. I need to meet a guy at a joint called Ake's Taven. Unfortunately, the Imperials weren't very interested in giving me directions.|Bossk hiring Ezra's services as a guide|Ezra's Gamble}}
+[[File:Ezra and Bossk.jpeg|thumb|left|250px|Ezra Bridger and Bossk, unlikely allies]]
+Bossk survived the fight and escape from Ake's Tavern but has sustained a laser bolt shot through his upper shoulder. Following their escape, Ezra demanded a pay hike from Bossk as compensation for being used as a "decoy". The Trandoshan reluctantly agreed to pay Ezra all the money in his ship's strongbox if the youth took him somewhere safe to recuperate from his injury. Bossk was unable to return to his ship ''Hound's Tooth'' because the Imperial authorities were after him. Keeping his side of the bargain, Ezra took Bossk to his home: an abandoned communications tower on the outskirts of Capital City. Ezra tended to the wounded Trandoshan and applied a thick bandage around his wounded shoulder. Reflecting on his previous encounter during the day, Bossk realized that he had been set up by Lieutenant Herdringer, who had arranged for the "incident" at Ake's Tavern.<ref name="Ezra's Gamble" />
+
+In order to ascertain how the assassins he had encountered earlier had surfaced on Lothal, Bossk decided to visit the local posting agency at Capital City's spaceport to access the [[Imperial Enforcement DataCore]]. Borrowing Ezra's [[jump bike]], the two of them traveled to Capital City's spaceport. To avoid detection, Bossk pretended to be a blind invalid with Ezra pretending to serve as his guide. After Ezra used his conman skills to get them pass a squad of stormtroopers, the two partners entered the posting agency. While viewing the Imperial records, Bossk and Ezra discovered that Lieutenant Herdringer had died three months ago during a traffic accident and that his colleague Lieutenant Jenkes had stolen his identity. They also learned that Jenkes in the past had managed an illegal gladiator arena on [[Nyriaan]] and that Gronson Takkaro had worked as his bookmaster.<ref name="Ezra's Gamble" />
+
+Unknown to Bossk and Ezra, Lieutenant Jenkes was monitoring the Imperial Enforcement DataCore. The corrupt ISB agent dispatched a squad of stormtroopers to kill Bossk and placed a bounty on the Trandoshan. After escaping a second attack by stormtroopers, Bossk and Ezra decided to flee to [[Monad Outpost]], where Jenkes was organizing an illegal gladitorial event called [[Gladiator Night]] the following night. Bossk intended to confront Jenkes there and expose his corruption. During their escape from the spaceport, Bossk destroyed an Imperial surveillance remote and knocked out a [[Unidentified Ranat bounty hunter (Lothal)|Ranat bounty hunter]] and [[Unidentified Nimbanel bounty hunter (Lothal)|Nimbanel companion]], who had wanted to collected the Imperial bounty on Bossk.<ref name="Ezra's Gamble" />
+
+After Bossk deduced that Lieutenant Jenkes was the mysterious "Commissioner" who ran the illegal Gladiator Night, Ezra realized that Jenkes would want to kill anyone who knew about his operation including his [[Xexto]] mentor [[Ferpil Wallaway]], who had hired Ezra to sell the tickets for the Gladiator Night event. In an attempt to save Wallaway's life, Bossk and Ezra traveled to Wallaway's pawnshop, which lay nine kilometers away from Capital City's spaceport. However, Jenkes had already arrived at Wallaway's pawnshop and killed him with a blaster pistol. Bossk and Ezra arrived just in time to see Jenkes leaving the pawn shop with a large luggage case. Despite failing to save Wallaway's life, Bossk managed to plant a magnetic [[Homing beacon|tracer beacon]] on Jenkes' speeder. Wallaway's death convinced Ezra to join forces with Bossk to stop Jenkes' plan to steal as much money as he could from the Gladiator Night event at Monad Outpost.<ref name="Ezra's Gamble" />
+
+=====Final Showdown at Monad Outpost=====
+{{Quote|Hold on. I am Bossk from Trandosha. I did not come to Monad Outpost to die in this arena. But if I am to die tonight, I wish to die as a warrior. I challenge the gladiators to bare-handed combat!|Bossk|Ezra's Gamble}}
+[[File:Monad Outpost.png|right|thumb|250px|Monad Outpost]]
+Bossk and Ezra arrived at Monad Outpost, an abandoned mining settlement which lay on the outskirts of Lothal's Capital City; the arena was located underneath the settlement. Lieutenant Jenkes had already arrived and killed the [[Ishi Tib]] manning the box office. Before he and his two stormtrooper escorts could leave with the stolen credit chips, Bossk and Ezra intercepted them. After incapacitating his stormtrooper companions, Bossk confronted Jenkes but the lieutenant fled into the arena. Bossk and Ezra gave chase but Jenkes shot the Trandoshan bounty hunter through his right thigh. In an attempt to slow down Bossk, Jenkes seized a [[comlink]] from the arena's [[Pa'lowick]] [[Unidentified Pa'lowick announcer|master]] of ceremony and claimed that Bossk was a dangerous fugitive who was wanted by the Empire.<ref name="Ezra's Gamble" />
+
+Bossk foiled Jenkes' attempt to frame him by using Ezra's stolen comlink to issue a challenge to the arena's competitors: the [[Houk]] [[Borbig Drob]] and the [[Feeorin]] [[Warjak]]. After soundly defeating the two competitors in bare-handed combat, Bossk revealed that Lieutenant Jenkes was actually the shady criminal known as the "Commissioner" and that he had been planning to steal the spectators' credit chips. In addition, Bossk revealed Jenkes' involvement in the murders of Lieutenant Herdringer, the pawnbroker Wallaway, and the Ishi Tib manning the box office. Lieutenant Jenkes then attempted to escape the arena but was thwarted by Ezra who fired a slingshot at him. Shortly later, Jenkes was arrested by the local Imperial authorities.<ref name="Ezra's Gamble" />
+
+Following the Gladiator Night showdown, Bossk was exonerated by the Imperial authorities on Lothal who awarded him an undisclosed amount of credits via transfer register. In addition, Bossk was allowed by [[Commandant]] [[Cumberlayne Aresko]] to take back the corpse of Lieutenant Jenkes as a trophy, who had been executed for his numerous crimes. An official [[HoloNet News]] report credited the Trandoshan with saving the lives of numerous civilians and exposing a crime syndicate's operation to defraud gamblers. This brief report omitted any mention of Jenkes, whose actions were deemed an embarrassment for the Empire. Prior to departing Lothal, Bossk paid Ezra everything in his strongbox, which amounted to little more than a paltry sum of ninety credits.<ref name="Ezra's Gamble" />
+
+===Galactic Civil War===
+====Finding the rogue droid====
+{{Quote|Bossk, we need you to locate the missing files.''"<br />"''We suspect a traitor.|Two Imperial officers, briefing Bossk about 261's disappearance|Bounty Hunt}}
+[[File:Bossk looking for 261.jpg|thumb|250px|left|Bossk looking for the rogue astromech aboard a Jawa sandcrawler]]
+In the [[Standard year|year]] [[0 BBY]],<ref name="Chronology note">In ''[[Bounty Hunt]]'', the [[DS-1 Orbital Battle Station|Death Star's]] [[superlaser]] is fully operational, and ''[[Star Wars: Galactic Atlas]]'' establishes that the events of ''[[Rogue One: A Star Wars Story]]'', and thus the completion of the [[superweapon]], take place in [[0 BBY]]. Since the Death Star was destroyed in the [[Battle of Yavin]] ([[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]), it can be assumed that the events in ''Bounty Hunt'' also take place in 0 BBY.</ref> Bossk was summoned aboard the [[DS-1 Orbital Battle Station|Death Star]], a [[moon]]-sized [[planet]]-killing [[battle station]] built by the Galactic Empire. During a briefing with two Imperial officers, the Trandoshan learned that an Imperial [[Astromech droid|astromech]] designated [[261]] had gone rogue, stolen secret files, and left the battle station. Suspecting [[treason]], the Imperials hired Bossk to retrieve the missing droid.<ref name="BH" />
+
+Bossk then jumped in the ''Hound's Tooth'' and took off, hoping to catch the droid before it had a chance to enter hyperspace. Upon exiting the Death Star's [[atmosphere]], the Trandoshan found himself among a fleet of Imperial [[Star Destroyer]]s. He tuned in the [[warship]]s' frequency, where they reported the theft of a [[Lambda-class T-4a shuttle|''Lambda''-class T-4a shuttle]] bound for the [[desert]] planet Tatooine and piloted by an astromech. Having landed on Tatooine, Bossk spotted the purloined shuttle in the spaceport of [[Mos Eisley]]. Although the shuttle had crashed, injuring stormtroopers and civilians in the process, 261 was nowhere near the wreckage. Knowing that the damaged automaton would be looking for new parts, Bossk talked to several street vendors before heading into Chalmun's Cantina for a drink. He notably questioned the surly [[Bartender|barman]], [[Wuher]], but to no avail. At a dead end, the Trandoshan journeyed to the fortress of [[Jabba Desilijic Tiure]], the [[Hutt]] [[crime lord]] of Tatooine. There, he learn from [[EV-9D9]] that 261 had indeed been brought to the palace and forced to join its droid pool, but managed to escape.<ref name="BH" />
+
+The Trandoshan ended up discovering that his target had been captured by a clan of [[Jawa]] [[scavenger]]s, whom he started tracking across the barren expanses. Eventually, Bossk confronted the Jawas outside their [[sandcrawler]]. Having retrieved the crafty droid, the bounty hunter escorted it back to the Empire.<ref name="BH" />
+
+====Anthan heist====
+{{Quote|I think you'd ''think'' about it. Then ssslink away.|Bossk warning Aphra|Darth Vader 8: Shadows and Secrets, Part II}}
+During the [[Galactic Civil War]], Bossk met with [[IG-90]], [[Black Krrsantan]] and [[Beebox]] at a bar on [[Son-tuul]] after the [[Son-tuul Pride]] had been destroyed by [[Anakin Skywalker|Darth Vader]]. Vader's assistant [[Doctor]] [[Chelli Lona Aphra|Aphra]] appeared and offered them information on the [[Arquitens-class light cruiser|''Arquitens''-class light cruiser]] that was transporting the Son-tuul Pride's fortune to an Imperial vault.<ref name="Darth Vader 7">''[[Darth Vader 7: Shadows and Secrets, Part I]]''</ref> At [[Anthan Prime]], Aphra detonated an [[asteroid]], causing the cruiser to collide. Bossk disembarked from her ship the ''[[Ark Angel]]'' into the cruiser, where he and IG-90 opened fire on the [[Viper probe droid]]s guarding the vault. Meanwhile, Black Krrsantan blew open a hole in the cruiser from his [[Auzituck anti-slaver gunship|gunship]], causing most of the credits to be decompressed, much to the other bounty hunters' disappointment. Aphra explained [[BT-1]] would scoop up some credits, which was better than none. After leaving with his share, Bossk menacingly expressed hope that Aphra had considered the consequences if they found out she had double-crossed them. His suspicions were correct: most of the credits had been retrieved by a hidden satellite for Vader.<ref name="Darth Vader 8">''[[Darth Vader 8: Shadows and Secrets, Part II]]''</ref>
+
+====The hunt for the ''Millennium Falcon''====
+{{Quote|Res luk ra'auf.|Bossk utters an unmistakable warning to [[Admiral]] [[Firmus Piett]]|Star Wars: Episode V The Empire Strikes Back}}
+Bossk was one of six hunters hired by Darth Vader to hunt down and capture Han Solo. However, he failed to collect on this bounty, with his old partner Boba Fett beating him to the target.<ref name="ESB">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] </ref> Bossk later met up with Boba at [[Jabba's Palace]], and subsequently accompanied Jabba's retinue aboard the ''[[Khetanna]]''.<ref name="RotJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+
+==Personality and traits==
+{{Quote|Mr. Bossk, it's my understanding that you're a professional businessman. I expect you to honor that deal.''"<br>"''All right, shorty. You got me. All the money in the strongbox is yours.|Ezra Bridger negotiating a pay hike with Bossk|Ezra's Gamble}}
+Bossk was a ruthless and efficient bounty hunter who upheld the [[Bounty Hunter Code]]. He did not like other bounty hunters or governments interfering with any of his bounties. While Bossk tended to work alone, he was also capable of working with other individuals, including Boba Fett, Aurra Sing,<ref name="Death Trap" /> and Ezra Bridger. As a businessman, Bossk was also known to keep his promises to the letter of the law. He was also known as a fair and honest combatant.<ref name="Ezra's Gamble" />
+
+==Skills and abilities==
+{{Quote|Now that guy really knows how to put on a show.|A Pa'lowick arena manager's impression of Bossk|Ezra's Gamble}}
+As a bounty hunter, Bossk was a physically fit and a skilled fighter. He developed a fearsome reputation as an effective hunter of Wookiees, a species that shared the [[Kashyyyk system]].<ref name="Dark Disciple" /> While Bossk often wielded a mortar gun, he was also skilled in unarmed combat. On one occasion, he took on two gladiatorial fighters and bested them both in a fight.<ref name="Ezra's Gamble" />
+
+==Equipment==
+{{Quote|Bossk. He's a Trandoshan, carries a mortar gun, flies a YV-series freighter&hellip;Why am I writing this down? You can read it all on his ID card, which I swiped!|Ezra Bridger, in his private journal|Rebel Journal by Ezra Bridger}}
+[[File:Imperial Peace-Keeping Certificate.jpg|thumb|200px|left|Bossk's Imperial Peace-Keeping Certificate lists his ship model and weapon of choice]]
+Bossk's primary weapon was a [[Relby-v10 mortar gun]].<ref name="ESB" /> He also utilized a YV-series light freighter named the ''Hound's Tooth''.<ref name="Bounty" />
+
+==Behind the scenes==
+Bossk first appeared as a minor antagonist in ''[[Star Wars: Episode V The Empire Strikes Back|The Empire Strikes Back]]''. Prior to the [[1980]] release of the movie, he appeared in a mail-in flyer that revealed his role in that movie. In the ''The Empire Strikes Back'', Bossk was played by the actor [[Alan Harris]], who reprised his role in [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]. Bossk's backstory was later expanded in several [[Star Wars Legends|''Star Wars'' Legends]] short stories, novels, and comics. Bossk also appeared in the animated [[Star Wars: The Clone Wars (TV series)|''Star Wars: The Clone Wars'' TV series]] where he was voiced by [[Dee Bradley Baker]]. Bossk's animation model was redesigned between his appearances in [[The Clone Wars: Season Two|season two]] and [[The Clone Wars: Season Four|four]] to more closely resemble his film counterpart, as the more colorful designs for the Trandoshans in [[The Clone Wars: Season Three|season three]] caused the show's staff to regret how simple his appearance was.<ref>[[Star Wars: The Clone Wars The Complete Season Three|''Star Wars: The Clone Wars'': The Complete Season Three]] - ''Chewbacca Returns''</ref>
+
+Bossk's outfit was actually recycled from a [[1966]] ''Doctor Who'' serial titled ''The Tenth Planet.''<ref>http://screenburn.kotaku.com/the-star-wars-costume-thats-recycled-from-a-doctor-who-1571401648</ref> The suit itself was actually a High-Altitude Windak Pressure Suit, a suit used by the British Royal Air Force in the 1960s.<ref>http://www.starwars.com/news/5-recycled-star-wars-props-and-costumes</ref> Other Windaks also appear in ''A New Hope ''and ''Return of the Jedi'', worn by [[BoShek]] and by Rebel A-Wing pilots. Additionally, Windaks were used in the [[1964]] science-fiction film ''First Men in the Moon.''<ref>https://en.wikipedia.org/wiki/First_Men_in_the_Moon_(1964_film)#Production</ref>
+
+Before the cancellation of The Clone Wars TV series, Bossk was set to make an appearance during a four-episode arc starring Boba Fett and [[Cad Bane]]. In a clip revealed during the Animated Origins and Unexpected Fates panel at [[Celebration Orlando]] in 2017, Bossk was seen siding with Cad Bane during a stand-off against Boba Fett and other Bounty Hunters.<ref name="CO 17 AOaUF panel">{{SWYoutube|85Jw-63YNYI|text=Star Wars Celebration Orlando 2017: Animated Origins and Unexpected Fates}}</ref>
+
+Bossk later appeared as a major character in [[Ryder Windham]]'s [[2014]] young-adult novel ''[[Ezra's Gamble]]'', which introduced several Legends plot elements including the Bounty Hunters' Guild and the Bounty Hunter Code. While older Legends literature tended to portray Bossk as a clear-cut villain who had an antagonistic relationship with Han Solo and Chewbacca, Windham's novella depicted him as a reluctant anti-hero who developed an uneasy partnership with Ezra Bridger, a major protagonist in the ''[[Star Wars Rebels]]'' animated television series.
+
+Writer [[Jon Kasdan]] originally desired to include Bossk in the [[2018]] [[Star Wars Anthology Series|''Star Wars'' Anthology]] film ''[[Solo: A Star Wars Story]]'', which is a prequel to the events of ''The Empire Strikes Back''. However, Kasdan ultimately concluded that there was no place for Bossk in the film.<ref name="Bossk in Solo">{{Cite web|url=http://comicbook.com/starwars/2018/05/17/star-wars-han-solo-movie-bounty-hunter/|title=One Major Bounty Hunter was Cut From 'Solo: A Star Wars Story'
+|publisher=ComicBook.com|last=Cavanaugh|first=Patrick|date=May 16, 2016|accessdate=May 26, 2018}}</ref> In Kasdan's drafts for ''Solo'', Bossk was part of the [[Cloud-Riders]] and served as [[Enfys Nest]]'s second-in-command, only to abandon her by the end of the film. Though Kasdan fought to keep this scene, he was overruled, as previously mentioned.<ref name="Jon's Twitter">{{Twitter|JonKasdan|status/1040529511513616385|[[Jon Kasdan]]|quote=continued}}</ref>
+
+==Appearances==
+{{Scroll box|
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars Battlefront II]]''
+*''[[Star Wars: Force Arena]]''
+*{{TCW|Death Trap}}
+*{{TCW|R2 Come Home}}
+*{{TCW|Lethal Trackdown}}
+*{{TCW|Sphere of Influence}}
+*{{TCW|Assassin (episode)|Assassin}} {{Flash}}
+*{{TCW|Deception}}
+*{{TCW|Bounty (episode)|Bounty}}
+*''[[Dark Disciple]]''
+*''[[Dark Disciple (audiobook)]]''
+*''[[Solo: A Star Wars Story]]'' {{Mo}}
+*''[[Solo: A Star Wars Story: Expanded Edition]]'' {{Mo}}
+*''[[Ezra's Gamble]]''
+*''[[Rebel Journal by Ezra Bridger]]''
+*''[[The Mighty Chewbacca in the Forest of Fear!]]'' {{Mo}}
+*''[[Bounty Hunt]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*''[[Star Wars Battlefront]]'' {{C|DLC}}
+*''[[Darth Vader 7: Shadows and Secrets, Part I]]''
+*''[[Darth Vader 8: Shadows and Secrets, Part II]]''
+*''[[Darth Vader 9: Shadows and Secrets, Part III]]'' {{Imo}}
+*''[[Darth Vader 10: Shadows and Secrets, Part IV]]'' {{C|Indirectly mentioned only; in the opening crawl}}
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]}}
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+*{{Droid Tales|Flight of the Falcon (episode)|Flight of the Falcon}} {{Flash}}
+*''[[LEGO Star Wars: The Force Awakens]]'' {{C|DLC}}
+
+==Sources==
+*{{SWE|characters|Bossk|Bossk}}
+*{{SWE|characters|c21highsinger|C-21 Highsinger}}
+*{{SWE|technology|houndstooth|Hound's Tooth}}
+*{{SWE|groups|kagewarriors|Kage Warriors}}
+*{{SW|url=news/star-wars-rebels-lands-in-bookstores|text=''Star Wars Rebels'' Lands in Bookstores}}
+*{{InsiderCite|152|A Trip to the Light Side}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{LEGOCite|eu|75167|Bounty Hunter Speeder Bike Battle Pack}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*{{Databank|bossk|Bossk|archivedate=20170821184518}}
+*{{Databank|central-detention-center|Central Detention Center|archivedate=20170705030848}}
+*{{Databank|hounds-tooth|Hound's Tooth}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Bossk
+|de=Bossk#kanon
+|es=Bossk
+|fr=Bossk
+|hu=Bossk
+|it=Bossk
+|ja=ボスク
+|nl=Bossk
+|pl=Bossk
+|pt=Legends:Bossk
+|ru=Босск/Канон
+|sv=Bossk
+}}
+
+[[Category:Bounty Hunters' Guild members]]
+[[Category:Males]]
+[[Category:Members of Krayt's Claw]]
+[[Category:Pilots]]
+[[Category:Trandoshans]]

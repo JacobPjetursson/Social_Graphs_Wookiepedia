@@ -1,0 +1,53 @@
+{{Eras}}
+{{Character
+|type=Criminal
+|image=[[File:Klaatu-SWI143.jpg]]
+|name=Klaatu
+|homeworld=[[Kintan]]<ref name="Ultimate">''[[Ultimate Star Wars]]'', pg. 144</ref>
+|birth=
+|death=[[4 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Tatooine]]<ref name="RotJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|species=[[Nikto]]<ref name="DBGreen">{{Databank|nikto-green|Nikto (Green)}}</ref> {{C|[[Kadas'sa'Nikto]]}}<ref name="Ultimate" />
+|gender=[[Sexes|Male]]<ref name="DBGreen" />
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="DBGreen" />
+|skin=Green<ref name="DBGreen" />
+|cyber=
+|era=
+|affiliation=[[Jabba Desilijic Tiure's criminal empire]]<ref name="DBGreen" />
+|masters=
+|apprentices=}}
+'''Klaatu''' was a [[Sexes|male]] [[Kadas'sa'Nikto]] gambler who worked for [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]]. He often repaired the [[crime lord]]'s [[skiff]]s. Klaatu also took enjoyment in Jabba's executions by [[rancor]] in [[Jabba's Palace]].<ref name="Ultimate" />
+
+He was [[Death|killed]] aboard Jabba's [[sail barge]] on [[Tatooine]] during the failed execution of [[Luke Skywalker]] and his companions.<ref name="Klaatu DB">'{{Databank|klaatu|Klaatu}}</ref>
+
+{{Char-stub}}
+
+==Appearances==
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+
+==Sources==
+*''[[Ultimate Star Wars]]''
+*{{Databank|klaatu|Klaatu}}
+*{{Databank|nikto-green|Nikto (Green)}} {{1stID}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Klaatu#kanon
+|es=Klaatu
+|fr=Klaatu
+|ja=クラトゥ
+|nl=Klaatu
+|pl=Klaatu
+|ru=Клаату
+}}
+
+{{DEFAULTSORT:Klaatu}}
+[[Category:Criminals]]
+[[Category:Desilijic servants]]
+[[Category:Kadas'sa'Nikto]]
+[[Category:Males]]

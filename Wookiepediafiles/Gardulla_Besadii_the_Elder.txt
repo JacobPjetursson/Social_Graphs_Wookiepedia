@@ -1,0 +1,61 @@
+{{Eras}}
+{{Youmay|the character named Gardulla|[[Gardulla (drink)|the drink of the same name]]}}
+{{Character
+|type=Hutt Cartel
+|image=[[File:Treblanc.JPG]]
+|name=Gardulla Besadii the Elder
+|homeworld=[[Nal Hutta]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Hutt]]<ref name="TPM">[[Star Wars: Episode I The Phantom Menace|''Star Wars:'' Episode I ''The Phantom Menace'']]</ref>
+|gender=[[Sexes|Female]]<ref name="Ultimate Star Wars" />
+|height=3.7 [[meter]]s<ref name="SWAEYNTK">[[Star Wars: Absolutely Everything You Need to Know]]</ref>
+|mass=
+|hair=
+|eyes=[[Color|Yellow]]<ref name="TPM" />
+|skin=Green-tan<ref name="TPM" />
+|cyber=
+|era=
+|affiliation=[[Hutt Clan]]<ref name="HFZ">{{TCW|Hunt for Ziro}}</ref>
+|masters=
+|apprentices=}}
+'''Gardulla Besadii the Elder''' was a [[Sexes|female]] [[Hutt]] of the [[Hutt Clan]] [[Time|prior]] to and during the [[Clone Wars]]. Prior to the Clone Wars, Gardulla was the [[Slavery|owner]] of [[Shmi Skywalker Lars|Shmi]] and [[Anakin Skywalker]], but lost them to [[Watto]] in a bet.
+
+==Biography==
+A [[Sexes|female]] [[Hutt]] [[Reproduction|born]] on [[Nal Hutta]], Gardulla became a prominent member of the [[Hutt Clan]] and was one of the most powerful Hutt [[crime lord]]s on [[Tatooine]].<ref name="Ultimate Star Wars" /> [[Standard year|Years]] prior to the [[Invasion of Naboo]], Gardulla bought [[Shmi Skywalker Lars|Shmi Skywalker]] and her son [[Anakin Skywalker|Anakin]] as her [[Slavery|slaves]]. She lost them in a [[Gambling|bet]] with the [[Toydarian]] [[junk dealer]] [[Watto]]. Years later alongside [[Jabba Desilijic Tiure|Jabba]], she watched as her former slave, Anakin Skywalker won the [[Boonta Eve Classic]] [[Podracing|podrace]].<ref name="TPM" />
+
+===Clone Wars===
+Following [[Ziro Desilijic Tiure/Canon|Ziro]] the Hutt's [[Senate hostage crisis|breakout]] during the [[Clone Wars]], Gardulla and the [[Grand Hutt Council|Hutt Council]] met at [[Gardulla the Hutt's Palace|her palace]] on Nal Hutta and demanded that Ziro give up the [[Hutt Council records|Council's records]]. When [[Jedi Master]]s [[Obi-Wan Kenobi]] and [[Quinlan Vos]] arrived, Gardulla asked them how the war was going and denied that the Hutts had anything to do with Ziro's escape or [[Cad Bane]]. When Vos accused her and the council of freeing Ziro, Gardulla said that he was lucky that Kenobi was with him, or he would not be allowed to leave alive. Following that encounter, Gardulla and the Council discovered that Ziro had escaped. They then hired Bane to track Ziro down.<ref name="HFZ" />
+
+{{Char-stub}}
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars:'' Episode I ''The Phantom Menace'']] {{1st}}
+*''[[Star Wars Journeys: The Phantom Menace]]'' {{Mo}}
+*''[[Star Wars Journeys: Beginnings]]'' {{Mo}}
+*{{TCW|Hunt for Ziro}}
+
+==Sources==
+*{{SW|url=tv-shows/clone-wars/hunt-for-ziro|text="Hunt for Ziro" Episode Guide - ''The Clone Wars''|org=theclonewars/guide/episode309.html}}
+*{{SWE|characters|watto|Watto|archivedate=20110912224644}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]'' {{1stID}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Darth Vader: Sith Lord]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|gardulla-the-hutt|Gardulla the Hutt|archivedate=20161004000115}}
+*{{Databank|hutt|Hutt}} {{Po}}
+*{{Databank|Watto|Watto|archivedate=20140715092325}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Gardulla Besadii la Vieja
+}}
+
+[[Category:Crime lords]]
+[[Category:Females]]
+[[Category:Hutts]]

@@ -1,0 +1,50 @@
+{{Eras|legends=URoRRuR'R'R}}
+{{Update|[[Rites]]}}
+{{Character
+|type=
+|image=[[File:URoRRoRRR.jpg]]
+|name=A'Koba
+|homeworld=[[Tatooine]]<ref name="Episode IV">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref>
+|birth=
+|death=
+|species=[[Tusken Raider]]<ref name="Episode IV" />
+|gender=[[Sexes|Male]]<ref name="Episode IV" />
+|height=
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=
+|era=
+|affiliation=[[A'Yark's tribe]]<ref name="Rites">{{Shortstory|story=Rites|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}</ref>
+|masters=
+|apprentices=}}
+{{Quote|I am A'Koba! I have slain a krayt dragon. I am a Tusken!|A'Koba|Rites}}
+'''A'Koba''', also known as '''URoRRuR'R'R''', was a skilled [[Tusken Raider]] leader who lived on [[Tatooine]] during the [[Galactic Civil War]].
+
+==Biography==
+A'Koba<ref name="Rites" /> lived on the [[Outer Rim Territories|Outer Rim]] [[Planet|world]] of [[Tatooine]] during the [[Galactic Civil War]]. Shortly before the [[Battle of Yavin]], A'Koba attacked [[Luke Skywalker]], a local [[moisture farmer]] who, along with [[protocol droid]] [[C-3PO]], was searching for his missing [[astromech droid]] [[R2-D2]]. A'Koba knocked Skywalker unconscious, and the Tusken and his followers began searching Skywalker's [[landspeeder]]. They were scared off by [[Jedi Master]] [[Obi-Wan Kenobi]], who mimicked the call of a [[krayt dragon]] to spook A'Koba and his fellow Tusken Raiders into fleeing.<ref name="Episode IV" />
+
+==Appearances==
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*''[[Star Wars: Heroes Path]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*{{Shortstory|story=Rites|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{1stID}}
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+*''[[Ultimate Star Wars]]'' {{1stID|URoRRuR'R'R}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=URoRRuR'R'R
+}}
+
+[[Category:Males]]
+[[Category:Tusken Raiders]]

@@ -1,0 +1,138 @@
+{{Eras}}
+{{Cleanup}}
+{{Character
+|type=Jedi
+|image=[[File:Piell_infobox.jpg]]
+|name=Even Piell
+|homeworld=[[Lannik]]<ref name="SW:AEYNTK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref>
+|birth=
+|death=[[20 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]'' dates both "[[Ghosts of Mortis]]" and "[[Water War]]" to [[20 BBY]]. Since {{SW|url=news/star-wars-the-clone-wars-chronological-episodeorder|text=''Star Wars: The Clone Wars'' Chronological Episode Order}} places "[[Citadel Rescue]]" between those two episodes, it can be concluded that "Citadel Rescue" also takes place in 20 BBY.</ref> [[Lola Sayu]]<ref name="Citadel Rescue">{{TCW|Citadel Rescue}}</ref>
+|species=[[Lannik (species)|Lannik]]<ref name="Databank">{{Databank|even-piell|Even Piell|archivedate=20170401034513}}</ref>
+|gender=[[Sexes|Male]]<ref name="Databank" />
+|height=1.22 [[meter]]s<ref name="Databank" />
+|mass=
+|hair=[[Color|Black]]<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|eyes=Blue<ref name="Episode I" />
+|skin=Pink<ref name="Episode I" />
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="Episode I" />
+**[[Jedi High Council]]<ref name="Episode I" />
+**[[Jedi assault team]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+*[[Galactic Republic]]<ref name="Episode I" />
+|masters=
+|apprentices=}}
+{{Dialogue|Kenobi|Master Piell, are you all right?|Piell|Obi-Wan, what took you guys so long?|Skywalker|At least your sense of humor is still intact.|Piell|It takes more than they got to break me, young Skywalker.|attr=Obi-Wan Kenobi and Anakin Skywalker free Even Piell from his containment field|src=The Citadel}}
+'''Even Piell''' was a [[Sexes|male]] [[Lannik (species)|Lannik]] [[Jedi Master]] who served on the [[Jedi High Council|Jedi Council]] during the [[Invasion of Naboo]] and the [[Clone Wars]]. Considered brusque, bellicose, and even gruff, Master Piell was nonetheless respected for his immense courage.
+
+==Biography==
+===Early life===
+Even Piell was [[Reproduction|born]] on [[Lannik]] prior to the [[Clone Wars]]. [[Sexes|He]] eventually became a [[Jedi Master]] and had gained a seat on the [[Jedi High Council|Jedi Council]].<ref name="SW:AEYNTK" />
+
+===The Invasion of Naboo===
+Piell was present when [[Qui-Gon Jinn]] reported an [[Duel on Tatooine|incident]] he had with a [[Maul|mysterious warrior]] who he believed was a [[Sith]]. When Jinn mentioned he met a [[Youngling|child]] called [[Anakin Skywalker]] whom he believed was the [[Chosen One]], Piell and the rest of the Council refused to let him be [[Jedi training|trained]], as he was too old and had already formed attachments. However, the Jedi Council finally agreed to train Skywalker. Piell was present during Jinn's [[Funeral of Qui-Gon Jinn|funeral]] and was also present when the [[Naboo (people)|Naboo]] celebrated their [[Battle of Naboo|victory]] over the [[Trade Federation]].<ref name="Episode I" />
+
+===The Separatist Crisis===
+[[22 BBY|Ten]] [[Standard year|years]] later, [[Senator]] [[Padmé Amidala]] was the subject of a series of [[Plot to assassinate Padmé Amidala|assassination attempts]] and Piell, along with the Council, approved [[Obi-Wan Kenobi]] investigating the matter whilst Skywalker served as Amidala's [[bodyguard]] when she returned to on Naboo.<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref> Piell participated in the [[Battle of Geonosis]], which marked the beginning of the [[Cloning|Clone]] Wars.<ref name="Ultimate Star Wars" />
+
+===The Clone Wars===
+[[File:EvenPiellVsSBDs-TC.png|left|thumb|220px|Even Piell faces off against several super battle droids shortly before he is captured]]
+One year and nine [[Standard month|months]] into the war in 20 BBY,<ref name="Date">{{TCWcanondates|320}}</ref> he was assigned a dangerous mission to the [[Outer Rim Territories|Outer Rim]]. On the return trip, he realized his information about the [[Nexus Route]] could be dangerous if it fell into the hands of the [[Confederacy of Independent Systems]]. Memorizing one half of the information while his [[captain]], [[Wilhuff Tarkin]], memorized the other half, he erased the onboard [[computer]]'s memory so that if somehow one of them broke under interrogation, it would useless without the other half. Later, his [[cruiser]] was [[Capture of Even Piell|invaded]] by the [[Confederacy of Independent Systems]] who wanted to kidnap him in order to learn information about the route. He and his [[battalion]] tried to defend themselves but was outnumbered and captured.<ref name="The Citadel">{{TCW|The Citadel}}</ref>
+
+====Battle of Lola Soyu====
+[[File:PiellRescued-TC.jpg|thumb|right|220px|Piell being rescue by Kenobi and Skywalker]]
+At his cell, he was [[torture]]d in the infamous [[prison]], the [[Citadel]], until he would admit what he knew. Piell refused and the Separatists were about to put out his right [[eye]] when [[Galactic Republic|Republic]] [[Republic military|forces]] [[Battle of Lola Sayu|rushed]] into the cell and destroyed the [[droid]]s who were there. When he was put on the floor, he asked Kenobi what took him so long to rescue him. Skywalker told Piell he hasn't lost his sense of humor and he said it took more than that to force him to admit what he knew. He told Kenobi and Skywalker what he did on the return trip before he was captured and said he assumed his captain was also imprisoned.<ref name="The Citadel" />
+
+They freed Tarkin and they hatched a plan that Piell was to go with Kenobi whilst Tarkin with Skywalker. As they ran out of the cell, security chased them. So they exploded a bomb, destroying the majority of the droids on their trail. They found a hole and rushed out.<ref name="The Citadel" />
+
+They then split and carried out their escape plan. Kenobi's half realized a [[Probe droid|droid]] was tracking them. Piell destroyed it, but not fast enough before it told the Separatists all it saw. Then, security doors closed all over the tunnel and Kenobi warned him to move before he got cut in half. Piell, the [[Clone trooper|clones]] and Kenobi were locked in different sections. But Piell cut the door of his section and got into Kenobi's with his [[lightsaber]] and told Kenobi they already cut one door and that it was time to cut the rest.<ref name="Counterattack">{{TCW|Counterattack}}</ref>
+
+After cutting down all the doors, they couldn't find where [[R2-D2]] was. They decided to go outside and get a better view despite knowing it might be a trap. After going outside, they jumped down to a lower level. They tried to contact Skywalker's level only to hear [[Osi Sobeck]] hearing that he had watched their every move through security the whole [[time]]. They watched in horror as they were again captured by the Separatists. At Sobeck's office, he told Piell to give him the information or he would start [[Death|executing]] his men one by one. Piell only replied that it was war and that they had to protect the information. Sobeck, angered, was about to kill them when a droid reported that they had spotted Skywalker's half. Sobeck ordered Kenobi's half to be tortured slowly.<ref name="Counterattack" />
+
+[[File:PiellDeflect-CA.jpg|left|thumb|220px|Piell defends Skywalker on incoming droids on STAPs]]
+They were let out of the office and finally spotted R2. The droids told them that they should go on and they did. When they got outside, Kenobi started destroying the droids, followed by the clones. Soon the guns started firing on them as they ran away. Skywalker got on a [[Single Trooper Aerial Platform]] and Piell jumped in after him. Skywalker drove while Piell [[Form V|deflected]] shots. The Separatists blew up the STAP, throwing Skywalker and Piell off. Then they ran off. While they were running, [[Advanced Recon Commando|ARC trooper]] [[CT-1409|Echo]] tried to protect a [[transport]] they could use to escape from the Citadel, the Separatists however blew up the transport, causing Piell and the others to fall down.<ref name="Counterattack" />
+
+They contacted the [[Jedi temple|Jedi Temple]]. [[Yoda]] told him they would send a ship to evacuate him and his men and showed him where they would land it.<ref name="Counterattack" />
+
+===Death===
+[[File:EvenPiellDying2-CR.png|right|thumb|220px|Piell gives Ahsoka the information, shortly before his death.]]
+As they were walking to the location they would be rescued from, Piell sensed the Separatists coming and told the others. Everyone prepared for battle. During the battle, he destroyed some droids before an [[anooba]] jumped and attacked Piell. [[Ahsoka Tano]] used [[the Force]] to [[Telekinesis|hurl it]] away, but not before it gravely injured Piell. Tano attempted to call help, but Piell told her to stay and he will tell her the information and she needed to tell that to the Council. She denied saying Kenobi or Skywalker needed to hear that and that she only lied to be a part of the mission. But Piell told her that she was now the most important part of the mission and that she had to remember the information and make sure only the Jedi Council knew it. Tano finally agreed and Piell whispered the information into her. Shortly thereafter, Piell died of his injuries.<ref name="Citadel Rescue" />
+
+===Legacy===
+After his death, Tano brought his body to the rest of the group, saying he died honorably. Skywalker asked about the information and Tano said she had it and that he told her before he died.<ref name="Citadel Rescue" />
+
+Later, his body was wrapped up and Kenobi told everyone to take a moment to honor him and told us that they have to move on afterwards because he would've wanted them to complete the mission. Kenobi and Skywalker used the Force to [[Funeral of Even Piell|put]] Piell's body into the [[Magma|lava]]. It fell down a lava-fall and it burned shortly thereafter.<ref name="Citadel Rescue" /> He was replaced on the Council by Skywalker in 19 BBY.<ref>[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+
+==Personality and traits==
+Even Piell had a distinguishing scar on his face , which rendered his left eye useless. He was known too for being "brusque and bellicose".<ref name="TarkinNovel">''[[Tarkin (novel)|Tarkin]]''</ref><ref name="SW:AEYNTK" />
+
+==Powers and abilities==
+According to Wilhuff Tarkin, who had served under Piell's command during the Clone Wars, the Lannik excelled in [[lightsaber combat]]. Particularly, he appeared to have integrated numerous different forms into his own personalized combat style. However, according also to Tarkin, a renowned military strategist, Piell's tactical skills were somewhat subpar.<ref name="TarkinNovel" />
+
+Piell was also revered for his courage and telekinesis powers.<ref name="SW:AEYNTK" />
+
+==Behind the scenes==
+In the [[2015]] reference book ''[[Ultimate Star Wars]]'', Even Piell's species was mistakenly identified as [[Zabrak]].<ref name="Ultimate Star Wars" />
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
+*{{TCW|The Citadel}}
+*{{TCW|Counterattack}}
+*{{TCW|Citadel Rescue}}
+*''[[Tarkin (novel)|Tarkin]]'' {{Mo}}
+
+==Sources==
+*{{SWE|characters|evenpiell|Even Piell}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: I Am a Jedi]]'' {{Po}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
+*{{Databank|adi-gallia|Adi Gallia|archivedate=20170706043936}}
+*{{Databank|clone-commander-cody-biography-gallery|Clone Commander Cody Biography Gallery|archivedate=20170614155931}}; images #14-16 {{C|of 21}}
+*{{Databank|even-piell|Even Piell|archivedate=20170401034513}}
+*{{Databank|lannik|Lannik}}
+
+{{Start_box}}
+{{Succession_box
+|title=Member of the [[Jedi High Council]]
+|years=c. [[32 BBY]]<ref name="Episode I" />&ndash;[[20 BBY]]<ref name="Citadel Rescue" />
+|before=Unknown
+|before-years=
+|after=[[Anakin Skywalker]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|after-years=[[19 BBY]]<ref name="Episode III" />
+}}
+{{End_box}}
+
+==Notes and references==
+{{Reflist}}
+
+{{JediCouncil32}}
+{{JediCouncil22}}
+
+{{Interlang
+|cs=Even Piell
+|de=Even Piell#kanon
+|es=Even Piell
+|fr=Even Piell
+|ja=イーヴン・ピール
+|nl=Even Piell
+|pl=Even Piell
+|pt=Even Piell
+|ru=Эвен Пиелл/Канон
+|uk=Евен Пієлл
+|deGA=1
+}}
+
+{{DEFAULTSORT:Piell, Even}}
+[[Category:Jedi Council members]]
+[[Category:Jedi Generals]]
+[[Category:Jedi Masters]]
+[[Category:Lannik]]
+[[Category:Males]]

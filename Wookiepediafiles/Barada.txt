@@ -1,0 +1,64 @@
+{{Eras}}
+{{Update|[[Ultimate Star Wars]], [[Databank (website)|Databank]]}}
+{{Character
+|type=Criminal
+|image=[[File:Klatooinian AA.jpg]]
+|name=Barada
+|homeworld=[[Klatooine]]<ref name="USW">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[4 ABY]], [[Tatooine]]<ref name="ROTJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|species=[[Klatooinian]]<ref name="USW" />
+|gender=[[Sexes|Male]]<ref name="USW" />
+|height=1.7 [[meter]]s<ref name="Databank">{{Databank|barada|Barada|archivedate=20170707054851}}</ref>
+|mass=
+|hair=
+|eyes=[[Color|Blue]]<ref name="USW" />
+|skin=Green<ref name="ROTJ" />
+|cyber=
+|era=
+|affiliation=[[Jabba Desilijic Tiure's criminal empire]]<ref name="ROTJ" />
+|masters=
+|apprentices=}}
+'''Barada''' was a [[Klatooinian]] who served the [[crime lord]] [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]] four [[Standard year|years]] after the [[Battle of Yavin]]. When Jabba attempted to [[Death|execute]] a group of [[Alliance to Restore the Republic|Rebels]] at the [[Great Pit of Carkoon]] on the [[planet]] [[Tatooine]], Barada was one of the crime lord's minions who traveled with the prisoners to the pit. At the execution, however, the Rebels fought to free themselves, and in the struggle the [[Jedi Knight]] [[Luke Skywalker]] slashed Barada with his [[lightsaber]] and killed the Klatooinian.
+
+==Biography==
+The [[Klatooinian]] Barada was [[Slavery|enslaved]] to the [[Hutt]] [[crime lord]] [[Jabba Desilijic Tiure]] four [[Standard year|years]] after the [[Battle of Yavin]]. He worked as a [[Technician|mechanic]] in [[Jabba's Palace]] on [[Tatooine]], and was responsible for the gangster's pool of [[repulsorlift]] vehicles,<ref name="USW" /> which included his [[sail barge]] ''[[Khetanna]]'',<ref name="ROTJ" /> in addition to serve as muscle.<ref name="Databank" /> Despite his enforced servitude, Barada remained relatively content with his lot in the palace.<ref name="USW" />
+
+Barada was in the Hutt's employ when Jabba was in possession of the [[smuggler]] [[Han Solo]] frozen in [[carbonite]]. Solo's companions in the [[Alliance to Restore the Republic]] hoped to rescue their comrade, planting some of their number in Jabba's court: [[Prince]]ss [[Leia Organa]], and then [[Jedi Knight]] [[Luke Skywalker]], both attempted to free Solo, but ended up Jabba's captives along with the [[Wookiee]] [[Chewbacca]]. After Jabba's [[rancor]] failed to [[Death|kill]] Skywalker, the crime lord demanded that Solo, Skywalker and Chewbacca all be executed at the [[Great Pit of Carkoon]], where they would be fed to the [[sarlacc]]. Barada was among the henchmen Jabba assigned to ride in a secondary [[skiff]], to travel alongside the skiff carrying the prisoners to the pit. Once at the pit, Skywalker's [[astromech droid]] [[R2-D2]], who was serving in Jabba's court, armed the [[Jedi]] with his [[lightsaber]], which he used to quickly slay all of the henchmen on the skiff with him. The Jedi then leaped across to the vehicle carrying Barada, and killed a number of the men on it before the Klatooinian attacked him. Skywalker dodged the blow and slashed at Barada, knocking him into the pit of the sarlacc. The Rebels went on to slay Jabba and destroy his sail barge, killing many other members of his court in the process and escaping.<ref name="ROTJ" /> Languishing in the Pit of Carkoon, Barada would be slowly digested by the sarlacc over the next thousand years.<ref name="USW" />
+
+==Personality and traits==
+Barada had [[Color|green]] skin<ref name="ROTJ" /> and blue [[eye]]s.<ref name="USW" /> Although a slave, Barada found reasonable contentment with his lot, and helped maintain Jabba Desilijic Tiure's repulsorlift vehicles.<ref name="USW" />
+
+==Equipment==
+Barada wore a white [[Clothing|shirt]], blue [[pants]] and an orange bandana while at the Great Pit of Carkoon. The Klatooinian also wore a backpack and carried a battle-staff weapon.<ref name="ROTJ" />
+
+==Behind the scenes==
+{{Quote|Gort, Klaatu barada nikto. Klaatu barada nikto.|Helen Benson (played by Patricia Neal) in the film ''[[Wikipedia:The Day The Earth Stood Still|The Day The Earth Stood Still]]'' (1951)|url=http://en.wikipedia.org/wiki/Klaatu_barada_nikto}}
+Barada first appeared in [[James Kahn]]'s [[Star Wars Episode VI: Return of the Jedi (novel)|novelization]] of the [[1983]] film [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']], the final installment of the ''[[Star Wars]]'' [[original trilogy]]. He was played uncredited by stuntman [[Dirk Yohan Beer]].<ref name="IMDB">[http://www.imdb.com/name/nm0066482/ Dickey Beer in IMDB] ; [http://www.starwarsautographs-online.de/originaltrilogy/Beer_Dickey.html other web]</ref> Concept sketches on him were drawn, and later maquettes were crafted. Barada was executed as a costume made of a slip-on mask and gloves representing hands. Several "Barada-like" aliens were crafted for the scene of the sarlacc.<ref name="DBK">{{DB|species|klatooinian|Klatooinian}}</ref>
+
+Barada, as well as fellow skiff guard [[Klaatu]] and the species [[Nikto]], are all references to the phrase ''[[Wikipedia:Klaatu barada nikto|Klaatu barada nikto]]'' from the [[1950s#1951|1951]] science fiction film ''[[Wikipedia:The Day The Earth Stood Still|The Day The Earth Stood Still]]''.
+
+==Appearances==
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+
+==Sources==
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
+*{{Databank|barada|Barada|archivedate=20170707054851}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Barada
+|ru=Барада/Канон
+}}
+
+[[Category:Criminals]]
+[[Category:Klatooinians]]
+[[Category:Males]]
+[[Category:Mechanics]]
+[[Category:Slaves]]

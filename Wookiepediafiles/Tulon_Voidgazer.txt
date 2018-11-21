@@ -1,0 +1,56 @@
+{{Eras}}
+{{Otheruses|Tulon}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Tulon Voidgazer.png]]
+|name=Tulon Voidgazer
+|homeworld=
+|birth=
+|death=[[0 ABY]], [[Kuat system]]<ref name="DV 22">''[[Darth Vader 22: End of Games, Part III]]''</ref>
+|species=[[Human]]<ref name="Darth Vader 6">''[[Darth Vader 6: Vader, Part VI]]''</ref>
+|gender=[[Sexes|Female]]<ref name="Darth Vader 6" />
+|height=
+|mass=
+|hair=[[Color|Red]]
+|eyes=
+|skin=
+|cyber=[[Eye]]s and cranium<ref name="Darth Vader 6" />
+|era=
+|affiliation=[[Cylo Directive]]<ref name="Darth Vader 6" />
+|masters=[[Cylo]]<ref name="Darth Vader 6" />
+|apprentices=}}
+'''Tulon Voidgazer''' was a [[Sexes|female]] [[human]] genius engineered and trained by [[Doctor]] [[Cylo]] to replace the [[Dark Lord of the Sith]] [[Anakin Skywalker|Darth Vader]] as [[Darth Sidious]]' enforcer.
+
+==Biography==
+Voidgazer was a [[scientist]] working on high-level R&D work projects. She also had many close friends that were specialists. After many of her friends were [[Battle of Yavin|killed]] aboard the [[DS-1 Orbital Battle Station|Death Star]], she demonstrated her abilities against [[Sith Lord]] [[Anakin Skywalker|Darth Vader]] before [[Galactic Emperor|Emperor]] [[Darth Sidious|Palpatine]] on [[Doctor|Dr.]] [[Cylo]]'s [[Cylo's research base|research base]].<ref name="Darth Vader 6" /> She later fought alongside Vader and Cylo's other creations in the [[War on Shu-Torun]].<ref name="Darth Vader 16">''[[Darth Vader 16: The Shu-Torun War, Part I]]''</ref>
+
+{{Char-stub}}
+
+==Appearances==
+*''[[Darth Vader 4: Vader, Part IV]]'' {{C|First mentioned; albeit indirectly}}
+*''[[Darth Vader 5: Vader, Part V]]'' {{1st}}
+*''[[Darth Vader 6: Vader, Part VI]]'' {{1stID}}
+*''[[Darth Vader 8: Shadows and Secrets, Part II]]''
+*''[[Darth Vader 12: Shadows and Secrets, Part VI]]''
+*''[[Darth Vader 16: The Shu-Torun War, Part I]]''
+*''[[Darth Vader 20: End of Games, Part I]]'' {{Hologram}}
+*''[[Darth Vader 21: End of Games, Part II]]''
+*''[[Darth Vader 22: End of Games, Part III]]''
+*''[[Darth Vader 23: End of Games, Part IV]]'' {{Mo}}
+*''[[Darth Vader 25: End of Games, Part VI]]'' {{Mo}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Tulon Voidgazer
+|pl=Tulon Voidgazer
+|ru=Талон Войдгазер
+}}
+
+{{DEFAULTSORT:Voidgazer, Tulon}}
+[[Category:Cyborgs]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Personnel of the Galactic Empire]]
+[[Category:Scientists]]

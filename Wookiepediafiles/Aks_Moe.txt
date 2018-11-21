@@ -1,0 +1,54 @@
+{{Eras}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Aks Moe TPM.png]]
+|name=Aks Moe
+|homeworld=[[Malastare]]<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|birth=
+|death=After [[32 BBY]]<ref name="Helmet Collection 1">[[Star Wars Helmet Collection 1|''Star Wars Helmet Collection'' 1]]</ref>
+|species=[[Gran]]<ref name="Episode I" />
+|gender=[[Sexes|Male]]<ref name="Episode I" />
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="Episode I" />
+|skin=Orange-yellow<ref name="Episode I" />
+|cyber=
+|era=
+|affiliation=*[[Congress of Malastare]]<ref name="Episode I" />
+*[[Galactic Republic]]<ref name="Episode I" />
+**[[Galactic Senate]]<ref name="Episode I" />
+|masters=
+|apprentices=}}
+{{Quote|The Congress of Malastare concurs with the honorable delegate from the Trade Federation. A commission must be appointed.|Aks Moe|Star Wars: Episode I The Phantom Menace}}
+'''Aks Moe''' was a [[Gran]] [[Sexes|male]] who served in the [[Galactic Senate]] during the waning [[Standard year|years]] of the [[Galactic Republic]]. He represented the [[Congress of Malastare]] and, on their behalf, supported the formation of a commission to investigate the claims of [[Monarch of Naboo|Queen]] [[Padmé Amidala]] that the droid armies of the [[Trade Federation]] had [[Invasion of Naboo|invaded]] the [[planet]] [[Naboo]].
+
+==Biography==
+[[File:Malastare Delagates TPM.png|left|thumb|200px|Moe addresses the senate]]
+Aks Moe served as the [[Senator|representative]] for the [[Congress of Malastare]] in the [[Galactic Senate]] during the waning [[Standard year|years]] of the [[Galactic Republic]]. After a dispute over the taxation of trade routes to outlying [[star system]]s, the droid armies of the [[Trade Federation]] [[Invasion of Naboo|invaded]] the [[planet]] [[Naboo]]. Hoping to receive help from the Republic's government, [[Monarch of Naboo|Queen]] [[Padmé Amidala]] of Naboo addressed the Senate and explained that the Federation had invaded her world. [[Lott Dod]], the senator for the Trade Federation, strenuously objected to the claims and recommended that a commission to be sent to Naboo to ascertain the truth of the queen's claims. Moe supported Dodd's recommendation to have a commission be sent. Having little faith in the bureaucracies of the Senate, Amidala instead called for a [[Vote of No Confidence]] against [[Supreme Chancellor]] [[Finis Valorum]]. Senator [[Darth Sidious|Palpatine]] of Naboo was elected in his place, and Amidala led a [[Battle of Naboo|battle]] against the Federation that liberated her world.<ref name="Episode I" />
+
+Some [[time]] later, Moe was [[assassin]]ated and replaced by a fellow Gran senator, [[Ask Aak]].<ref name="Helmet Collection 1" />
+
+==Behind the scenes==
+Aks Moe appeared briefly in the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] and was portrayed by [[Mark Coulier]]. The character's voice was provided by [[Marc Silk]].<ref name="Episode I" />
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+
+==Sources==
+*[[Star Wars Helmet Collection 1|''Star Wars Helmet Collection'' 1]]
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Aks Moe
+|es=Aks Moe
+}}
+
+{{DEFAULTSORT:Moe, Aks}}
+[[Category:Galactic Republic senators]]
+[[Category:Gran]]
+[[Category:Males]]

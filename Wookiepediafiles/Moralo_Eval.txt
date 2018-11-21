@@ -1,0 +1,66 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=CIS
+|image=[[File:Moralo_Eval_HS-SWE.jpg]]
+|name=Moralo Eval
+|homeworld=[[Phindar]]<ref name="RedEye">{{Cite web|publisher=''RedEye''|title='Star Wars: The Clone Wars' preview: Who will survive 'The Box?'|url=http://www.redeyechicago.com/entertainment/tv/redeye-star-wars-the-clone-wars-preview-who-will-survive-the-box-20120131,0,3518025.story|accessdate=August 2, 2013}}</ref>
+|birth=
+|death=
+|species=[[Phindian]]<ref name="Encyclopedia">{{SWE|characters|moraloeval|Moralo Eval}}</ref>
+|gender=[[Sexes|Male]]<ref name="Encyclopedia" />
+|height=1.75 [[meter]]s<ref name="Encyclopedia" />
+|mass=
+|hair=
+|eyes=[[Color|Yellow]]<ref name="Deception">{{TCW|Deception}}</ref>
+|skin=Khaki<ref name="Deception" />
+|cyber=
+|era=
+|affiliation=*[[Confederacy of Independent Systems]]<ref name="Deception" />
+*[[Cad Bane's group]]<ref name="Deception" />
+|masters=
+|apprentices=}}
+'''Moralo Eval''' was a [[Sexes|male]] [[Phindian]] and criminal mastermind who invented [[Box|the Box]]. During the [[Clone Wars]], Eval plotted to kidnap [[Supreme Chancellor]] [[Darth Sidious|Palpatine]]. Together with [[Cad Bane]] and [[Obi-Wan Kenobi]] (who was disguised as [[Rako Hardeen]]), Eval fled across [[the galaxy]] from [[Anakin Skywalker]] and [[Ahsoka Tano]].
+
+==Biography==
+===Early life===
+Moralo Eval developed [[Sexes|his]] loathsome reputation at an early age. He heartlessly [[Death|killed]] his [[Moralo Eval's mother|mother]]; when apprehended by authorities, he told them he committed this crime because he was "bored." Eval spent the rest of his early life as a criminal and fugitive; this gave him a sharp survival instinct, as well as technical and engineering skills. During his time on the run, Eval became deranged and developed many odd mannerisms, such as referring to himself in the third person.<ref name="Encyclopedia" />
+
+===The plot to kidnap Palpatine===
+During the [[Clone Wars]], a war between the [[Galactic Republic]] and the breakaway [[Confederacy of Independent Systems]], Eval plotted to kidnap the [[Supreme Chancellor]] of the Republic, [[Darth Sidious|Sheev Palpatine]], despite his [[Prison|imprisonment]] in the [[Republic Judiciary Central Detention Center]].<ref name="Deception" /> Eval befriended [[Jedi Master]] [[Obi-Wan Kenobi]] (who had disguised himself as the [[bounty hunter]] [[Rako Hardeen]] to verify and then stop the criminal's plan) and convinced the [[Jedi]] to help him escape with [[Cad Bane]], a fellow inmate.<ref name="Deception" />
+
+After a successful [[Riot at the Republic Judiciary Central Detention Center|escape]], Moralo Eval and his accomplices stole a Republic [[cruiser]] and crash-landed it on [[Nal Hutta]] to escape pursuit. On the [[planet]]'s surface, the trio purchased a new [[Starship|ship]] and departed for [[Serenno]] to meet with [[Count]] [[Dooku]] for the next phase of the kidnapping plot.<ref name="FandE">{{TCW|Friends and Enemies}}</ref>
+
+On Serenno, Eval had Bane and Kenobi participate, along with several other bounty hunters, in a series of tests within his invention, the [[Box]]. During the tests, Kenobi proved to be very skilled and came up with the solution to all the problems presented. Count Dooku suggested that Kenobi lead the group because of his success in the Box, which angered Eval. When Kenobi went to complete the final test (shooting a series of targets with a sniper rifle or be dropped to your death), Eval rigged the test by having more targets than charges in the sniper rifle, meaning that Kenobi would be unable to shoot all the targets and thus fail the challenge. Eval released the floor from under Kenobi to drop him to his death, but Cad Bane intervened by releasing a rope from his wrist gauntlets to catch Kenobi. Bane insisted that Eval kill Kenobi like a man and Count Dooku agreed, intructing Kenobi and Eval fight to the death. Kenobi defeated Eval, but let him live because he "just wanted to do his job and get paid". Eval's failure resulted in Count Dooku promoting Cad Bane to be the group's leader, thus Eval was relieved of command and relegated to the role of "getaway driver." Ultimately, Moralo Eval's plans were [[Skirmish in Theed|thwarted]] and he was taken back into custody.<ref name="Crisis">{{TCW|Crisis on Naboo}}</ref>
+
+==Behind the scenes==
+In ''Star Wars: The Clone Wars'', Moralo Eval was voiced by [[Stephen Stanton]]. Throughout 2012, Stanton often served as a guest on [[The ForceCast]]; he voiced Eval in a recurring segment called "Bedtime Stories with Moralo Eval" or "Uncle Moralo's Bedtime Stories."<ref>[https://www.youtube.com/watch?v=m823g3Z1SbQ]</ref>
+
+==Appearances==
+*{{TCW|Deception}} {{1st}}
+*{{TCW|Friends and Enemies}}
+*{{TCW|The Box}}
+*{{TCW|Crisis on Naboo}}
+
+==Sources==
+{{Imagecat|Images of Moralo Eval}}
+*{{Cite web|publisher=''RedEye''|title='Star Wars: The Clone Wars' preview: Who will survive 'The Box?'|url=http://www.redeyechicago.com/entertainment/tv/redeye-star-wars-the-clone-wars-preview-who-will-survive-the-box-20120131,0,3518025.story|accessdate=August 2, 2013}}
+*{{SWE|characters|bulduga|Bulduga}}
+*{{SWE|characters|moraloeval|Moralo Eval}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*{{Databank|cad-bane|Cad Bane|archivedate=20170605082517}}
+*{{Databank|central-detention-center|Central Detention Center|archivedate=20170705030848}}
+*{{Databank|moralo-eval|Moralo Eval}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Eval, Moralo}}
+[[Category:Confederacy individuals]]
+[[Category:Criminals]]
+[[Category:Males]]
+[[Category:Phindians]]

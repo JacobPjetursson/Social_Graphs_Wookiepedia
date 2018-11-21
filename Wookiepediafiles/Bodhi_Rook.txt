@@ -1,0 +1,134 @@
+{{Eras}}
+{{Update|[[Rogue One: A Star Wars Story (novelization)]], [[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]|}}
+{{Cleanup}}
+{{Image}}
+{{Character
+|type=Rebel
+|image=[[File:Bodhi Rook Fathead.png]]
+|name=Bodhi Rook
+|homeworld=[[Jedha]]<ref name="Visual Guide">''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''</ref>
+|birth=[[25 BBY]], Jedha<ref name="Rebel Dossier">''[[Star Wars: Rogue One: Rebel Dossier]]''</ref>
+|death=[[0 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Scarif]]<ref name="Rogue One">''[[Rogue One: A Star Wars Story]]''</ref>
+|species=[[Human]]<ref name="Rogue One" />
+|gender=[[Sexes|Male]]<ref name="Databank">{{Databank|bodhi-rook|Bodhi Rook}}</ref>
+|height=1.72 [[meter]]s<ref name="Visual Guide" />
+|mass=
+|hair=[[Color|Black]]<ref name="Rogue One" />
+|eyes=Brown<ref name="Rogue One" />
+|skin=Tan<ref name="Rogue One" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="Databank" />
+*[[Alliance to Restore the Republic]]<ref name="Databank" />
+**[[Rogue One (squad)|Rogue One]]<ref name="Rogue One" />
+|masters=
+|apprentices=}}
+{{Quote|This is for you, Galen.|Bodhi Rook during the Battle of Scarif|Rogue One: A Star Wars Story}}
+'''Bodhi Rook''' was a [[human]] [[Sexes|male]] from [[Jedha]] who served as a cargo [[pilot]] for the [[Galactic Empire]] prior to the [[Galactic Civil War]]. After defecting to the [[Alliance to Restore the Republic]], he fought alongside a [[Rogue One (squad)|group]] of rebels during the [[Battle of Scarif]].
+
+==Biography==
+===Background===
+Bodhi Rook was [[Reproduction|born]] and raised on [[Jedha]].<ref name="Visual Guide" /> As a [[Youngling|youth]], [[Sexes|he]] had two run-ins with the law. One was for unlawful wagering on sporting events and the other was unsafe operating of an [[airspeeder]].<ref name="Rebel Dossier" /> Living with his mother, she usually forbade him from using a knife in the kitchen, but in one instance his mother made an exception, showing him how to cut a vegetable stalk. At some point he developed a crush on someone when he was on [[Bamayar]], but when he revealed his feelings for the individual, he was rejected. <ref name="Rogue One Novel">[[Rogue One: A Star Wars Story (novelization)|''Rogue One: A Star Wars Story'' novelization]]</ref>
+
+He enlisted in the [[Galactic Empire]] and had aspirations to become an Imperial [[starfighter]] [[pilot]]. He entered [[Terrabe Sector Service Academy]] in [[7 BBY]]<ref name="Rebel Dossier" /> and studied flight training for two [[Standard year|years]], but due to insufficient test scores Rook did not qualify for admission into the starfighter programme.<ref name="Visual Guide" /> Two years later, Rook was granted the [[Military rank|rank]] of [[Ensign]]<ref name="Rebel Files">''[[Star Wars: The Rebel Files]]''</ref> and eventually cleared to work in cargo [[shuttle]]s for the [[transport]] of Imperial documents and artifacts.<ref name="Visual Guide" />
+
+At some point during his career, he had to fly away from a group of rebels shooting at his shuttle, even as the shuttle itself was already in flames.<ref name="Rogue One Novel" />
+
+===Joining the Rebellion===
+[[File:G Erso & Rook.jpg|left|thumb|Rook speaking with Erso on Eadu]]
+Rook defected from the Empire after being entrusted with an important message by [[Galen Walton Erso|Galen Erso]], an Imperial [[scientist]] who worked on the [[Project Stardust|Death Star project]]. Erso told him to seek out [[Saw Gerrera]], a [[Partisans|resistance fighter]]. Upon his return to Jedha, the Empire placed a 75,000 credit reward for his capture.<ref name="SW: AEYNtK, U&E">''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''</ref> Although he found Gerrera, the rebel was initially distrustful of Rook's motives, believing the message was meant to lure him into a trap. In an attempt to discover if Rook was being truthful or not, Gerrera subjected him to a [[Torture|torturous]] experience involving a [[mairan]] named [[Bor Gullet]] that could sense if he was telling the truth, at the cost of a temporary loss of Rook's sanity.<ref name="Rogue One" />
+
+Rook subsequently met the rebel operative [[Cassian Jeron Andor|Cassian Andor]], who managed to help him regain his composure. Rook also met with Galen's daughter, [[Jyn Erso]], who after seeing the message sent by her father learned of the truth of Rook's defection. Together with Cassian, Jyn, the blind warrior [[Chirrut Îmwe]], and the [[assassin]] [[Baze Malbus]], Rook escaped Jedha as the [[DS-1 Orbital Battle Station|Death Star]] [[Destruction of Jedha City|destroyed]] [[Jedha City]] with its [[superlaser]]. While traveling aboard Cassian's [[UT-60D U-wing starfighter/support craft|U-wing ship]], Bodhi told Cassian and Jyn that Galen was at the [[Eadu Flight Station|Imperial flight station]] on the stormy [[planet]] of [[Eadu]].<ref name="Rogue One" />
+
+Despite the stormy conditions, Cassian and his reprogrammed [[KX-series security droid|Imperial security droid]] [[K-2SO]] managed to land their U-wing near the Imperial flight station. Bodhi along with Chirrut, Baze, and Kaytoo stayed aboard while Cassian went to assassinate Galen. Jyn followed Cassian in an attempt to stop him and the two were caught up in the [[Alliance to Restore the Republic|Rebel Alliance's]] [[Mission to Eadu|raid]] on the Eadu flight station. Bodhi and his companions managed to find the [[Zeta-class cargo shuttle|Imperial cargo shuttle]] ''[[SW-0608]]'' and used it to save Jyn and Cassian from being [[Death|killed]] by [[stormtrooper]]s. The rebels then fled offworld to the [[Great Temple (Yavin 4)|rebel base]] on [[Yavin 4]].<ref name="Rogue One" />
+
+====Stealing the Death Star plans====
+Bodhi attended a meeting of the [[Alliance High Command]] to discuss the threat posed by the Death Star. Bodhi also listened to Jyn's impassioned speech urging the rebels not to give up. Later, he accompanied Cassian, Jyn, K-2SO, Chirrut, and Baze along with several [[Rebel Marine]]s on an [[Battle of Scarif|unsanctioned mission]] to steal the [[Death Star plans]] from the [[Imperial security complex]] on the planet [[Scarif]]. For that mission, the rebels used the Imperial cargo shuttle they had stolen on Eadu. Rook and K-2SO served as the team's [[pilot]]. When the Alliance air traffic control requested their [[callsign]], Rook replied [[Rogue One (squad)|Rogue One]] but was told there was no such unit. K-2S0 then responded that there was one now and took the ship into [[Realspace|space]].<ref name="Rogue One" />
+
+After arriving above Scarif, Rook and his Rogue One comrades found the planet enveloped by a [[deflector shield]] generated by a [[Shield Gate]]. Scarif was also defended by two [[Imperial-class Star Destroyer|Imperial Star Destroyers]]. Rook notified gate control and requested a landing pad. Since their arrival was not scheduled, Rook told the [[Unidentified Shield Gate officer|gate officer]] that they had been rerouted from Eadu and ordered K-2SO to transmit the clearance codes. After the Imperials accepted their clearance code, the rebels landed their shuttle at the Imperial security complex's [[landing pad nine]].<ref name="Rogue One" />
+
+When an [[Imperial ground crew|Imperial inspection crew]] consisting of an [[Imperial officer|officer]], [[technician]], and two stormtroopers boarded the cargo shuttle, Bodhi and K-2SO greeted them. They led them down into the cargo bay where they were taken out by the other rebels. While Cassian, Jyn, and K-2SO infiltrated the security complex in order to reach the [[Scarif vault|data vault]] and steal the plans, Rook remained aboard the cargo ship ''SW-0608'' to stay in contact with the Rebel Alliance command on Yavin 4. Baze, Chirrut, and the Rebel Marines then staged a diversionary attack to draw the base's [[Scarif Deployment|garrison]] away from the data vault. Though not an active part of the fighting, he provided support by confusing Imperial officers with false reports on rebel movements throughout the base, delaying or redirecting Imperial reinforcements.<ref name="Rogue One" />
+
+During the Battle of Scarif, Rook contacted [[Admiral]] [[Raddus]]'s [[Alliance Fleet|fleet]] to tell them that they needed to destroy the Shield Gate in order to transmit the Death Star plans to them. After the broadcast, a [[Coastal defender stormtrooper|shoretrooper]] threw a [[C-25 fragmentation grenade]] into the shuttle, and Rook was killed in the ensuing explosion.<ref name="Rogue One" />
+
+===Legacy===
+Thanks in part to Bodhi's efforts and sacrifice, Jyn was able to use the Imperial security complex's [[satellite]] to transmit the Death Star plans offworld. Despite [[Grand Moff]] [[Wilhuff Tarkin|Tarkin's]] efforts to destroy the Scarif base, the rebels managed to transmit the plans to the rebel [[flagship]] ''[[Profundity]]''. [[Prince]]ss [[Leia Organa]] then fled with the plans aboard the rebel [[corvette]] ''[[Tantive IV]]'', setting the stage for the events leading up to the [[Battle of Yavin]].<ref name="Rogue One" />
+
+==Personality and traits==
+Bodhi Rook was a [[human]] male with [[Color|brown]] [[eye]]s, black [[hair]] and tan skin. He was a very experienced pilot, but had a tendency to be tense and anxious.<ref name="EW photos">{{Cite web|url=http://www.ew.com/gallery/rogue-one-first-look-photos|title='Rogue One': 16 New Photos from the 'Star Wars' Film|work=Entertainment Weekly|date=June 23, 2016|accessdate=June 23, 2016}}</ref> Bodhi also had a gambling problem. He also stole [[Weeteef Cyu-Bee]]'s candy.<ref name="SW: AEYNtK, U&E" /> He also liked to bet on [[Odupiendo]] races.<ref name="Rogue One Collectors">''[[Rogue One: A Star Wars Story The Official Collector's Edition]]''</ref>
+
+==Behind the scenes==
+Bodhi Rook is portrayed by [[Riz Ahmed]] in the ''[[Star Wars Anthology Series]]'' film ''[[Rogue One: A Star Wars Story]]''. Ahmed's casting in the film was first announced on [[August 15]], [[2015]]. As this time, the first photo of the character was released as well.<ref name="Rogue One Cast">{{SW|url=news/rogue-one-the-daring-mission-has-begun-cast-and-crew-announced|text=''Rogue One''&mdash;The Daring Mission Has Begun: Cast and Crew Announced}}</ref> His name was revealed by a preview of the [http://edelweiss.abovethetreeline.com/ProductDetailPage.aspx?group=related&sku=1942556411 ''Rogue One: A Star Wars Story: The Official Visual Story Guide'' in the Edelweiss catalogue] on [[May 17]], [[2016]].<ref name="Character revealed">''[http://edelweiss.abovethetreeline.com/ProductDetailPage.aspx?group=related&sku=1942556411 ''Rogue One: A Star Wars Story: The Official Visual Story Guide'' in the Edelweiss catalogue]''</ref> His first name "Bodhi" is [[Wikipedia:Sanskrit|Sanskrit]] and [[Wikipedia:Pāli|Pāli]] for "enlightenment" or "awaking". In [[Wikipedia:Buddhism|Buddhism]], Bodhi is the final enlightenment that ends transmigration and leads to [[Wikipedia:Nirvana|Nirvana]].<ref name="EWBodhi">{{cite web|url=http://www.ew.com/article/2016/08/09/star-wars-rogue-one-riz-ahmed-rebel-pilot-empire-insignia|title=Rogue One: Riz Ahmed on his pilot's bad attitude — and Imperial insignia|date=August 9, 2016|accessdate=December 11, 2016}}</ref><ref>{{Cite web|url=https://www.britannica.com/topic/bodhi-Buddhism|title=bodhi - Britannica.com|accessdate=December 11, 2016}}</ref>
+
+==Appearances==
+*''[[Star Wars: Force Arena]]''
+*[[Lost Stars (webcomic)|''Lost Stars'' webcomic]]
+*''[[Rogue One: A Star Wars Story]]'' {{1st}}
+*[[Rogue One: A Star Wars Story (novelization)|''Rogue One: A Star Wars Story'' novelization]]
+*''[[Star Wars: Rogue One: A Junior Novel]]''
+*''[[Star Wars: Rogue One: Secret Mission]]''
+*''[[Star Wars: Rogue One Graphic Novel Adaptation]]''
+*''[[Rogue One Adaptation 1]]''
+*''[[Rogue One Adaptation 2]]''
+*''[[Rogue One Adaptation 3]]''
+*''[[Rogue One Adaptation 4]]''
+*''[[Rogue One Adaptation 5]]''
+*''[[Rogue One Adaptation 6]]''
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+{{Scroll box|content=
+*{{SW|url=news/rogue-one-the-daring-mission-has-begun-cast-and-crew-announced|text=''Rogue One''&mdash;The Daring Mission Has Begun: Cast and Crew Announced}} {{1stp}}
+*[http://edelweiss.abovethetreeline.com/ProductDetailPage.aspx?group=related&sku=1942556411 ''Rogue One: A Star Wars Story: The Official Visual Story Guide'' in the Edelweiss catalogue] {{1stID|Bodhi}}
+*{{SW|url=video/rogue-one-a-star-wars-story-celebration-reel|text=Rogue One: A Star Wars Story - Celebration Reel|archivedate=20170806170144}}
+*{{SW|url=news/swce-2016-15-things-we-learned-from-the-rogue-one-a-star-wars-story-panel|text=15 Things We Learned from the ''Rogue One: A Star Wars Story'' Panel}}
+*{{SW|url=video/rogue-one-a-star-wars-story-trailer|text=Rogue One: A Star Wars Story Trailer}}
+*{{LEGOCite|ro|75156|Krennic's Imperial Shuttle}}
+*{{InsiderCite|169|Launch Pad}}
+*{{SWYoutube|zVJtP2qYMQ0|Rogue One: A Star Wars Story "Together" TV Spot}}
+*{{SWYoutube|5yLOid9iiwE|Rogue One: A Star Wars Story "Hope" TV Spot}}
+*{{SWYoutube|u5sdztM-p98|Rogue One: A Star Wars Story Featurette}}
+*{{SWYoutube|WcwsDJhrREU|Rogue One: A Star Wars Story "Dream" TV Spot}}
+*{{SWYoutube|uss2S4cFVbQ|Rogue One: A Star Wars Story "Jyn & Cassian" Extended TV Spot}}
+*{{SWYoutube|YWNvdoRnNv8|Rogue One: A Star Wars Story "Trust"}}
+*{{SWYoutube|BBNc7Pz35OA|Rogue One: A Star Wars Story "Breath" TV Spot}}
+*<!-- 12/5/16 -->{{SW|url=news/everything-we-know-about-rogue-one-so-far|text=Everything We Know About ''Rogue One'' So Far}}
+*<!-- 12/6/16 -->{{SWYoutube|b2MuIOtTH1U|Rogue One: A Star Wars Story "10 Days"}}
+*<!-- 12/6/16 -->{{SWYoutube|Mvo_463qvb4|Rogue One: A Star Wars Story "Prevail" TV Spot (:30)}}
+*<!-- 12/7/16 -->{{SWYoutube|A-TpMXQojRA|Rogue One: A Star Wars Story Official Chinese Trailer}}
+*<!-- 12/9/16 -->''[[Entertainment Weekly's Ultimate Guide to Rogue One]]''
+*<!-- 12/16/16 -->''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''
+*<!-- 12/16/16 -->''[[Star Wars: Rogue One: Rebel Dossier]]''
+*''[[Star Wars: Rogue One: Ultimate Sticker Encyclopedia]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{Databank|bodhi-rook|Bodhi Rook}}}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Bodhi Rook#kanon
+|es=Bodhi Rook
+|fr=Bodhi Rook
+|it=Bodhi Rook
+|ja=ボーディー・ルック
+|ka=ბოდჰი რუკი
+|ko=보디 룩
+|pl=Bodhi Rook
+|pt=Bodhi Rook
+|ru=Бодхи Рук
+|uk=Бодгі Рук
+}}
+
+{{DEFAULTSORT:Rook, Bodhi}}
+[[Category:Humans]]
+[[Category:Imperial defectors]]
+[[Category:Males]]
+[[Category:Personnel of the Galactic Empire]]
+[[Category:Pilots]]
+[[Category:Rogue One personnel]]

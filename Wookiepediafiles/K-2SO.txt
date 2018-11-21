@@ -1,0 +1,172 @@
+{{Eras}}
+{{Expand}}
+{{Update|[[Star Wars: Secrets of the Empire]]}}
+{{Image}}
+{{Droid
+|image=[[File:K-2SO Sideshow.png]]
+|name=K-2SO
+|homeworld=[[Vulpter]]<ref name="Visual Guide">''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''</ref>
+|birth=[[12 BBY]]<ref name="Visual Guide" />
+|death=[[0 BBY]], [[Scarif]]<ref name="Rogue One">''[[Rogue One: A Star Wars Story]]''</ref>
+|creator=[[Galactic Empire]]<ref name="Rogue One" />
+|manufacturer=[[Arakyd Industries]]<ref name="Commander">''[[Star Wars: Commander]]''</ref>
+|line=
+|model=[[KX-series security droid]]<ref name="Commander" />
+|class=[[Security droid]]<ref name="Databank">{{Databank|k-2so-kay-tuesso|K-2SO (Kay-Tuesso)}}</ref>
+|degree=
+|cost=
+|length=
+|width=
+|height=2.16 [[meter]]s<ref name="Visual Guide" />
+|mass=
+|gender=[[Sexes|Masculine]] programming<ref name="Battlefront VR">''[[Star Wars Battlefront]]: Rogue One: X-wing VR Mission''</ref>
+|sensor=[[Color|White]]<ref name="Databank" />
+|plating=Black<ref name="Databank" />
+|armament=
+|equipment=
+|era=
+|affiliation=*Galactic Empire<ref name="Databank" />
+*[[Alliance to Restore the Republic]]<ref name="Battlefront VR" />
+**[[Alliance Intelligence]]<ref name="Visual Guide" />
+**[[Extraction Team Bravo]]<ref name="Battlefront VR" />
+**[[Rogue One (squad)|Rogue One]]<ref name="Rogue One" />}}
+{{Quote|I find that answer vague and unconvincing.|K-2SO, about Jyn Erso's acquisition of a blaster|Rogue One: A Star Wars Story}}
+'''K-2SO (Kay-Tuesso)''', abbreviated '''K-2''' ('''Kay-Tu''' or '''Kaytoo''') or '''Kay''', was a [[KX-series security droid]] originally created for use in the [[Galactic Empire]]'s [[Imperial Army|armed forces]].
+
+At some point, the droid encountered [[Captain]] [[Cassian Jeron Andor|Cassian Andor]], a member of the resistance movement&mdash;known as the [[Alliance to Restore the Republic|Rebel Alliance]]&mdash;that sought to overthrow the Empire and restore [[democracy]] to [[the galaxy]]. Andor was able to reprogram K-2SO to serve the Alliance. In [[0 BBY]], K-2SO participated in the [[Battle of Scarif]], where he sacrificed himself so that Andor and [[Jyn Erso]] could steal the [[Death Star plans|plans]] to the Empire's [[moon]]-sized [[battle station]], the [[DS-1 Orbital Battle Station|Death Star]].
+
+==Biography==
+K-2SO was one of the [[KX-series security droid|KX-series]] [[security droid]]s assigned to the [[Galactic Empire|Imperial]] [[stormtrooper]] detachment on the [[planet]] [[Wecacoe]]. K-2SO heard a noise near a decommissioned Imperial [[cruiser]]. There he encountered [[Alliance to Restore the Republic|Rebel]] [[agent]] [[Cassian Jeron Andor|Cassian Andor]] and arrested him. K-2SO and Andor then fought each other until [[Kertas]] and [[Rismor]] found his kill switch. Cassian then attempted to [[Memory wipe|wipe]] K-2SO's memory clean.<ref name="Cassian & K-2SO">''[[Star Wars: Rogue One – Cassian & K-2SO Special 1]]''</ref>
+
+However, only 29.73% of K-2SO's memory had been erased, and he then strangled Cassian. Kertas and Rismor were able to turn him off again. Cassian gave K-2 new orders to lead him, Kertas, and Rismor back to their ship. K-2 stated he would "take out" anyone who interfered with them. He escorted Cassian and the twins as his prisoners, but came under attack by several stormtroopers. He, the twins, and Cassian attacked the troopers.<ref name="Cassian & K-2SO" />
+
+When K-2, Cassian, and the twins got to their vehicle, it was surrounded by stormtroopers. K-2 attempted to arrest Andor again. As Rismor drew the troops away, Kertas told Cassian to take K-2SO because he had the intel they needed. After Cassian's ship was destroyed, K-2 still had 8.3% of his memory and tried to decide to either terminate or arrest Cassian. Cassian removed the base layer of his programming and shut him down. K-2 turned on and took out the stormtroopers. K-2 and Andor then found a ship. Together, they made their escape.<ref name="Cassian & K-2SO" />
+
+===Serving the Rebellion===
+{{Quote|I am a reprogrammed Imperial droid.|K-2SO|Rogue One: A Star Wars Story}}
+K-2SO and Andor were sent to the [[F'tzner system]] to undertake [[Raid on an Imperial freighter|a raid]] on a Imperial [[freighter]]. Andor used gas to trick the Empire into thinking that [[smuggler]]s stole the cargo as smugglers were known to use gas to raid [[transport]]s. When they got to the cargo room, they found three [[Wookiee]]s named [[D'Koetaa]], [[D'Lylaa]], and [[Wyhyatt]], and took them instead of the cargo. Andor then took them to the monastery [[moon]] of [[Charissia]] in the [[Bartahn sector]]. There, he left K-2SO to look after the three Wookiees while Andor undertook a [[Unidentified Rebel raid|raid]].<ref name="Adventures in Wookiee-Sitting">{{IDWAdventuresCite|3|[[Tales from Wild Space: Adventures in Wookiee-Sitting]]}}</ref>
+
+At some point whilst stationed at the [[Great Temple (Yavin 4)|rebel base]] on [[Yavin 4]], K-2SO had a run-in with [[R2-D2|the]] [[C-3PO|droids]] belonging to the [[Raymus Antilles|pilot]] of [[Senator]] [[Bail Organa]].<ref name="Rebel Files">''[[Star Wars: The Rebel Files]]''</ref>
+
+K-2SO accompanied the [[Extraction Team Bravo]] which in [[0 BBY]] helped [[Jyn Erso]] [[Liberation of Erso|escape]] from the [[Imperial Detention Center & Labor Camp LEG-817|Wobani Labor Camp]]. As Erso ran outside to escape, K-2SO seized Erso, threw her to the ground, and told her not to resist as she was being rescued.<ref name="Rogue One" /> Bravo Team's [[UT-60D U-wing starfighter/support craft|U-wing]] transport, ''[[Bravo One]]'', encountered a minor technical setback and was unable to jump to [[hyperspace]]. The team proceeded to take refuge in an [[asteroid field]] in [[Wobani system|Wobani's star system]] and K-2SO sent a priority transmission to all available Rebel [[Starship|vessels]]. An [[T-65B X-wing starfighter|X-wing starfighter]] [[squadron]] called [[Red Flight (Rebel Alliance)|Red Flight]] answered their call and saved them from incoming [[Imperial Navy|Imperial forces]].<ref name="Battlefront VR" />
+
+Later, K-2SO accompanied his master Cassian Andor and Jyn on a mission to rescue Jyn's father, [[Galen Walton Erso|Galen Erso]], so that they could gather information about the the Empire's [[superweapon]], the [[DS-1 Orbital Battle Station|Death Star]]. In secret, Cassian had received orders to kill Galen in order to prevent the weapon from being built. The Alliance had learned about the [[Death Star]] from the Imperial defector [[Bodhi Rook]], who had been taken by the maverick leader [[Saw Gerrera]]. K-2SO was uncomfortable that Jyn had been given a [[blaster]] since she disliked him.<ref name="Rogue One" />
+
+===Search for Galen Erso===
+K-2SO and his companions traveled to the moon [[Jedha]] in order to find Saw Gerrera and acquire Bodhi's message so that they could locate Galen. Under orders from Cassian, Kaytoo stayed aboard their U-wing while his [[human]] companions infiltrated the [[Jedha City|Holy City]] of Jedha. Despite his instructions, K-2SO ventured into the Holy City during a [[Battle on Jedha|battle]] between Imperial forces and Saw's [[Partisans]]. K-2SO narrowly avoided being shot by Jyn, who instead shot another KX-series security droid. Kaytoo also intercepted a stormtrooper's [[grenade]] in midair and threw it at a group of advancing stormtroopers. K-2SO slipped away following the fighting and returned to their U-wing transport. Meanwhile, his companions were captured by Saw's Partisans, who brought them to the rebel leader's base in the [[Catacombs of Cadera]].<ref name="Rogue One" />
+
+After the Death Star [[Destruction of Jedha City|destroyed]] Jedha City during a test firing, K-2SO picked up Cassian, Jyn, Bodhi, and their new companions [[Chirrut Îmwe]] and [[Baze Malbus]] in his U-wing before Saw's base was caught up in the Death Star's blast. Due to the mission, the rebels learned that Galen had incorporated a design flaw into the Death Star. Having learned from Saw that Galen was on the storm-stricken planet of [[Eadu]], Kaytoo helped Cassian fly the U-wing there. Despite a powerful storm, the rebels managed to crash their ship near the [[Eadu Flight Station|Imperial Flight Station]] where Galen and the other scientists were being housed.<ref name="Rogue One" />
+
+K-2SO and the others stayed aboard the wrecked U-wing while Cassian ventured outside to find Galen. During that time, Kaytoo disclosed to Jyn that Cassian was going to assassinate her father. Jyn left to find her father before Cassian could kill him only to be caught up in a rebel [[Mission to Eadu|attack]] on the station. During that attack, Galen was killed by a stray [[BTL-A4 Y-wing assault starfighter/bomber|Y-wing]] [[proton torpedo]]. Amidst the fighting, K-2SO, Rook, and the others managed to steal an [[Zeta-class cargo shuttle|Imperial cargo shuttle]] and rescue Jyn and Cassian. The rebels then returned to Yavin 4.<ref name="Rogue One" />
+
+===Last stand on Scarif===
+{{Quote|Locking the vault door now. Goodbye.|K-2SO defends Jyn and Cassian in his final moments|Rogue One: A Star Wars Story}}
+After the Rebel Alliance was unable to reach a consensus on the Death Star, K-2SO accompanied Jyn, Cassian, and their companions on an [[Battle of Scarif|unsanctioned mission]] to steal the [[Death Star plans]] from the planet [[Scarif]]. This rebel strike team became known as [[Rogue One (squad)|Rogue One]]. Kaytoo and Rook piloted the stolen cargo shuttle they had obtained on Eadu. When the air traffic controller claimed that there was no such group with the designation Rogue One, K-2SO replied "there is now" before taking off. After exiting hyperspace, Kaytoo and the rest of his team managed to travel through the [[Shield Gate]] and land at the planetary [[Imperial security complex]].<ref name="Rogue One" />
+
+While the rest of the Rogue One unit staged a diversionary attack on the base, Kaytoo accompanied a disguised Jyn and Cassian inside the security complex. During the course of the mission, K-2SO accosted another KX unit and [[slicer|accessed]] its databanks to retrieve a map of the complex. The three rebels then made their way to the [[Scarif vault|data vault]], where the Death Star plans were stored. After incapacitating the [[technician]], Kaytoo assumed control of the [[computer]] and opened the door into the vault. At that point, K-2SO received news that the [[Alliance Fleet|rebel fleet]] had arrived over Scarif and that the Empire had locked the Shield Gate.<ref name="Rogue One" />
+
+Since they were trapped, Kaytoo suggested transmitting the plans but told them that the size of the data files meant that the shield would have to be taken down in order to transmit them to the orbiting rebel fleet. Since the two had gained each other's respect during their adventures, Jyn gave K-2SO a [[blaster pistol]] to defend himself. Kaytoo expressed surprise at her change in behavior. While Jyn and Cassian were combing through the files for the plans, several stormtroopers approached K-2SO. Kaytoo tried to divert the Imperials away, but his cover was blown when Cassian spoke through the intercom asking why he had closed the vault door.<ref name="Rogue One" />
+
+K-2SO engaged the stormtroopers in a gun battle while relaying the location of a [[data-tape]] titled "stardust," which was the codename for the Death Star plans. Before Cassian could retrieve the file, the door control was hit and the device's power was knocked out. K-2SO implored his comrades to climb through the vault before succumbing to stormtrooper fire. K-2SO gave his final farewell to the pair, and at the cost of his life, he destroyed the door control panel so the stormtroopers could not open it again.<ref name="Rogue One" /> In his last second before shutting down, K-2SO created a simulation to see where Cassain lived. He viewed it as impossible, but it gave him joy.<ref name="Rogue One novelization">''[[Rogue One: A Star Wars Story (novelization)]]''</ref>
+
+===Legacy===
+Despite his disintegration, Jyn and Cassian managed to retrieve the Death Star plans and transmit them to the orbiting rebel fleet. The rest of Rogue One were killed when [[Grand Moff]] [[Wilhuff Tarkin]] used the Death Star's [[superlaser]] to destroy the Imperial security complex in a desperate effort to prevent the plans from escaping Scarif. This set the stage for the [[Battle of Yavin]].<ref name="Rogue One" />
+
+K-2SO was remembered long after the Galactic Civil War. Krennic was mentioned by name, alongside Jyn Erso and Orson Krennic by a [[Second Whill (From a Certain Point of View)|member]] of the [[Whills (community)|Whills]] as someone to be remembered in [[Timeline of galactic history|galactic history]] years after the [[Battle of Endor]]. The Whill referred to him as "the best droid ever."<ref name="Whills">{{Shortstory|story=Whills|book=From a Certain Point of View}}</ref>
+
+==Characteristics==
+{{Quote|Jyn, I'll be there for you. Cassian said I had to.|K-2SO to Jyn Erso|Rogue One: A Star Wars Story}}
+While most KX-series droids were effectively emotionless drones, minor errors and glitches in K-2SO's reprogramming led to the development of a fully self-aware personality. He was cynical, prone to sarcasm, and stoic, often mentioning that he had calculated the poor odds of success in any given situation (which Cassian would then refuse to hear). His sarcasm extended to the point where he would disobey minor orders and prove his ability in given missions, as seen on Jedha. He was fairly independent and frequently disobeyed orders he felt were counterproductive, scolding his organic compatriots for ignoring his advice. He genuinely regarded Andor as a friend, however, and felt no hesitation in sacrificing himself in order to protect him and Jyn Erso during their mission to steal the plans to the Death Star.<ref name="Rogue One" />
+
+==Behind the scenes==
+K-2SO is voiced and portrayed in motion capture by [[Alan Tudyk]] in the ''[[Star Wars]]'' stand-alone film ''[[Rogue One: A Star Wars Story]]''. His name was revealed in a preview of ''Rogue One: A Star Wars Story: The Official Visual Story Guide'', though the source listed him as both "K-2SO" and incorrectly as "K-250." The magazine in question was later cancelled before its release.
+
+==Appearances==
+*''[[Star Wars: Force Arena]]''
+*[[Lost Stars (webcomic)|''Lost Stars'' webcomic]]
+*''[[Star Wars: Rogue One – Cassian & K-2SO Special 1]]''
+*{{IDWAdventuresCite|3|[[Tales from Wild Space: Adventures in Wookiee-Sitting]]}}
+*''[[The Mighty Chewbacca in the Forest of Fear!]]''
+*''[[Star Wars: Secrets of the Empire]]''
+*''[[Star Wars: Boots on the Ground]]''
+*''[[Rogue One: A Star Wars Story]]''
+*[[Rogue One: A Star Wars Story (novelization)|''Rogue One: A Star Wars Story'' novelization]]
+*''[[Star Wars: Rogue One: A Junior Novel]]''
+*''[[Star Wars: Rogue One: Secret Mission]]''
+*''[[Star Wars: Rogue One Graphic Novel Adaptation]]''
+*''[[Rogue One Adaptation 1]]''
+*''[[Rogue One Adaptation 2]]''
+*''[[Rogue One Adaptation 3]]''
+*''[[Rogue One Adaptation 4]]''
+*''[[Rogue One Adaptation 5]]''
+*''[[Rogue One Adaptation 6]]''
+*''[[Star Wars Battlefront]]: Rogue One: X-wing VR Mission'' {{1st}} {{Voice}}
+*{{Shortstory|story=Whills|book=From a Certain Point of View}} {{Mo}}
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+*{{All-Stars|The Good Stuff!}} {{Flash}}
+
+==Sources==
+{{Scroll box|content=
+*<!-- 4/7/16 -->{{SW|url=video/rogue-one-a-star-wars-story-official-teaser-trailer|text=Rogue One: A Star Wars Story Official Teaser Trailer}}
+*[http://www.ew.com/gallery/star-wars-rogue-one-characters/2642938_k-2so-alan-tudyk ''Rogue One'': Exclusive Details on All the New ''Star Wars'' Characters]
+*<!-- 8/11/16 -->{{SW|url=video/rogue-one-a-star-wars-story-trailer|text=Rogue One: A Star Wars Story Trailer}}
+*{{LEGOCite|ro|75156|Krennic's Imperial Shuttle}}
+*<!-- 8/30/16 -->{{SW|url=video/go-rogue-chapter-1|text=Go Rogue Chapter 1}}
+*<!-- 9/9/16 -->{{SW|url=video/go-rogue-chapter-2|text=Go Rogue Chapter 2}}
+*<!-- 9/16/16 -->{{SW|url=video/star-wars-go-rogue-chapter-3|text=Go Rogue Chapter 3}}
+*<!-- 9/26/16 -->{{SW|url=video/go-rogue-chapter-4|text=Go Rogue Chapter 4}}
+*<!-- 10/13/16 -->{{SW|url=video/rogue-one-a-star-wars-story-trailer-2|text=Rogue One: A Star Wars Story Trailer 2}}
+*<!-- 10/25/16 -->{{InsiderCite|169|Launch Pad}}
+*<!-- 11/6/16 -->{{SWYoutube|zVJtP2qYMQ0|Rogue One: A Star Wars Story "Together" TV Spot}}
+*<!-- 11/11/16 -->{{SWYoutube|5yLOid9iiwE|Rogue One: A Star Wars Story "Hope" TV Spot}}
+*<!-- 11/17/16 -->{{SWYoutube|u5sdztM-p98|Rogue One: A Star Wars Story Featurette}}
+*<!-- 11/21/16 -->{{SWYoutube|uss2S4cFVbQ|Rogue One: A Star Wars Story "Jyn & Cassian" Extended TV Spot}}
+*<!-- 11/25/16 -->{{SWYoutube|YWNvdoRnNv8|Rogue One: A Star Wars Story "Trust"}}
+*<!-- 11/27/16 -->{{SWYoutube|BBNc7Pz35OA|Rogue One: A Star Wars Story "Breath" TV Spot}}
+*<!-- 12/2/16 -->{{SWYoutube|5MIy1V9HI_4|Rogue One: A Star Wars Story "Worth It" TV Spot (:30)}}
+*<!-- 12/5/16 -->{{SWYoutube|xynhtKLc88E|Rogue One: A Star Wars Story "Introducing Jyn Erso" Featurette}}
+*<!-- 12/5/16 -->{{SW|url=news/everything-we-know-about-rogue-one-so-far|text=Everything We Know About ''Rogue One'' So Far}}
+*<!-- 12/6/16 -->{{SWYoutube|b2MuIOtTH1U|Rogue One: A Star Wars Story "10 Days"}}
+*<!-- 12/6/16 -->{{SWYoutube|Mvo_463qvb4|Rogue One: A Star Wars Story "Prevail" TV Spot (:30)}}
+*<!-- 12/7/16 -->{{SWYoutube|A-TpMXQojRA|Rogue One: A Star Wars Story Official Chinese Trailer}}
+*<!-- 12/9/16 -->''[[Entertainment Weekly's Ultimate Guide to Rogue One]]''
+*<!-- 12/16/16 -->''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''
+*<!-- 12/16/16 -->''[[Star Wars: Rogue One: Rebel Dossier]]''
+*''[[Star Wars: Rogue One: Ultimate Sticker Encyclopedia]]''
+*''[[The Art of Rogue One: A Star Wars Story]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{SW|url=news/sideshows-incredible-life-size-k-2so-will-be-there-for-you-at-sdcc|text=Exclusive: Sideshow's Incredible, Life-Size K-2SO Will Be There for You at SDCC}}
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars: What is a Droid?]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Droidography]]''
+*{{Databank|k-2so-kay-tuesso|K-2SO (Kay-Tuesso)}}
+*{{Databank|se-14-blaster-pistol|SE-14 blaster pistol}}}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=K-2SO#kanon
+|el=K-2SO
+|es=K-2SO
+|fr=K-2SO
+|ja=K-2SO
+|ka=K-2SO
+|ko=K-2SO
+|nl=K-2SO
+|pl=K-2SO
+|pt=K-2SO
+|ru=K-2SO
+|uk=K-2SO
+}}
+
+[[Category:Alliance Intelligence members]]
+[[Category:Battle droids]]
+[[Category:Extraction Team Bravo personnel]]
+[[Category:Imperial defectors]]
+[[Category:KX-series security droids]]
+[[Category:Rogue One personnel]]

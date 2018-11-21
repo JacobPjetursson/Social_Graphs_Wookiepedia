@@ -1,0 +1,69 @@
+{{Eras}}
+{{Update|[[Tarkin (novel)|Tarkin]]}}
+{{Character
+|type=Galactic Empire
+|image=[[File:ROTJ Janus Greej.png]]
+|name=Janus Greejatus
+|homeworld=
+|birth=
+|death=[[4 ABY]], [[Death Star II]] {{C|Presumably}}<ref name="DB Janus">{{Databank|janus-greejatus|Janus Greejatus}}</ref>
+|species=[[Human]]<ref name="DB Janus" />
+|gender=[[Sexes|Male]]<ref name="DB Janus" />
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="ROTJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|eyes=Dark<ref name="Trkn">''[[Tarkin (novel)|Tarkin]]''</ref>
+|skin=Fair<ref name="ROTJ" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Catalyst">''[[Catalyst: A Rogue One Novel]]''</ref>
+**[[Office of the Chancellor]]<ref name="Catalyst" />
+*[[Galactic Empire]]<ref name="DB Janus" />
+**[[Imperial Ruling Council]]<ref name="DB Janus" />
+|masters=
+|apprentices=}}
+'''Janus Greejatus''' was a [[human]] [[Sexes|male]] official who served on the [[Imperial Ruling Council|Ruling Council]] of the [[Galactic Empire]]. Prior to the [[Imperial Era|Age of the Empire]], he [[Emissary|represented]] the [[Office of the Chancellor|office]] of [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] at the homecoming of [[Poggle the Lesser]] on the [[planet]] [[Geonosis]]. Following the end of the [[Clone Wars]] and the [[Proclamation of the New Order|birth]] of the [[New Order]], Greejatus continued to serve Palpatine, now the [[Galactic Emperor|Emperor]] of [[the galaxy]].
+
+==Biography==
+During the [[Clone Wars]], a pan-[[The galaxy|galactic]] civil war between the [[Galactic Republic]] and [[Confederacy of Independent Systems]], Janus Greejatus served as an [[emissary]] of [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]]. During the homecoming of [[Poggle the Lesser]], Greejatus attended the ceremony&mdash;alongside several other dignitaries, including [[Ars Dangor]], [[Sly Moore]], [[Sate Pestage]] and [[Lieutenant Commander]] [[Orson Callan Krennic|Orson Krennic]]&mdash;which took place in the [[Petranaki arena]], on the [[planet]] [[Geonosis]].<ref name="Catalyst" />
+
+Greejatus would go on to serve Palpatine as one of his closest [[Advisor|advisers]]<ref name="DB Janus" /> after the latter's [[Proclamation of the New Order|rise]] as [[Galactic Emperor|Emperor]] of the [[Galactic Empire]]. Approximately five [[Standard year|years]] into the [[Imperial Era|Age of the Empire]], he was serving in the ranks of the [[Imperial Ruling Council]], a governing body which consisted of the [[Emperor's adviser]]s who oversaw the [[Standard day|daily]] management of the Empire.<ref name="Trkn" />
+
+In the years leading up to the [[Galactic Civil War]], Greejatus and his colleague, [[Sim Aloo]] were tasked with collecting [[Sith]] [[Sith artifact|artifacts]] from across [[the galaxy]] for their master. The Emperor heard rumors of an [[Enchantress' book|book]] of [[Dark side of the force|dark power]] guarded by [[Corellian hound|monsters]] in a [[forest]] on the [[planet]] [[Ushruu]] and expressed interest in having it for himself. Greejatus hired a team of [[Trandoshan]]s to retrieve the [[book]] from the Ushruu. However, the trandoshans were eaten by the [[queen snarler]], and Greejatus' plan failed.<ref name="Mighty Chewbacca">''[[The Mighty Chewbacca in the Forest of Fear!]]''</ref>
+
+In the year [[4 ABY]], Greejatus accompanied the Emperor aboard the [[Death Star II|second Death Star]].<ref name="ROTJ" /> It was later assumed that Greejatus was aboard the Death Star when it exploded during the [[Battle of Endor]], but his ultimate fate was unknown.<ref name="DB Janus" />
+
+==Personality and traits==
+Janus Greejatus was a gaunt [[human]] [[Sexes|male]]<ref name="DB Janus" /> of short stature, with [[Color|brown]] [[hair]] and light skin.<ref name="ROTJ" /> He had a puffy face with dark, sunken [[eye]]s. Like the other members of the Imperial Ruling Council,<ref name="Trkn" /> he wore baggy [[robe]]s of garish color and floppy [[hat]]s,<ref name="DB Janus" /> which were not unlike the [[Clothing|garb]] of the [[Naboo (people)|Naboo]] [[noble]]men.<ref name="Trkn" />
+
+==Behind the scenes==
+Greejatus was portrayed by an unnamed background extra in the [[1983]] film [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']], the final installment of the ''[[Star Wars]]'' [[original trilogy]].<ref name="ROTJ" /> Greejatus' costume was designed by [[Nilo Rodis-Jamero]], who based the costume on that of a [[Wikipedia:Catholic Church|Catholic]] [[Wikipedia:Bishop|bishop]].<ref name="SW:TAS">''[[Star Wars: The Annotated Screenplays]]''</ref>
+
+==Appearances==
+*''[[Catalyst: A Rogue One Novel]]''
+*''[[Tarkin (novel)|Tarkin]]'' {{1stID}}
+*''[[The Mighty Chewbacca in the Forest of Fear!]]'' {{Mo}}
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+
+==Sources==
+*{{SWE|characters|darthsidious|Darth Sidious}} {{Po}}
+*{{SW|url=explore/the-movies/episode-vi/|text=Star Wars: Episode VI - Return of the Jedi|archiveurl=http://web.archive.org/web/20180831085602/https://www.starwars.com/films/star-wars-episode-vi-return-of-the-jedi}} {{Video}}
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*{{Databank|janus-greejatus|Janus Greejatus}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|pt=Janus Greejatus
+|ja=ジェイナス・グリージェイタス
+|ru=Джанус Гриджатус/Канон
+}}
+
+{{DEFAULTSORT:Greejatus, Janus}}
+[[Category:Galactic Republic individuals]]
+[[Category:Humans]]
+[[Category:Imperial Advisors]]
+[[Category:Males]]

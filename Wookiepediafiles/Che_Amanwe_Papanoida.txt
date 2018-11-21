@@ -1,0 +1,67 @@
+{{Eras|}}
+{{Character
+|type=Galactic Republic
+|image=[[File:CheAmanwe-SoI.png]]
+|name=Che Amanwe Papanoida
+|homeworld=
+|birth=
+|death=
+|species=[[Pantoran]]
+|gender=[[Sexes|Female]]
+|height=
+|mass=
+|hair=[[Color|Pastel brown]]
+|eyes=Gold
+|skin=Blue
+|cyber=
+|era=
+|affiliation=[[Galactic Republic]]
+|masters=
+|apprentices=}}
+'''Che Amanwe Papanoida''' was a [[Sexes|female]] [[Pantoran]] and the daughter of [[Baron]] [[Papanoida]] who served as [[Chairman]] of [[Pantora]].
+
+==Biography==
+[[File:CheAmanweBadass-SoI.png|left|thumb|200px|Che Amanwe uses an appropriated blaster to defend her family]]
+During the [[Clone Wars]], Che Amanwe and her sister [[Chi Eekway Papanoida|Chi Eekway]] were [[Kidnapping of the Papanoida daughters|kidnapped]] by [[Rodian]] [[bounty hunter]] [[Greedo]] at their [[Coruscant]] home. He was aided by a [[Gotal]] assistant, who grabbed an unsuspecting Papanoida, followed by her sister. The two were separated, and with the help of [[Pantoran]] [[Senator]] [[Riyo Chuchi]] and [[Jedi]] [[Padawan]] [[Ahsoka Tano]], Chi Eekway Papanoida was rescued from Separatist clutches.
+
+{{Char-stub}}
+
+==Behind the scenes==
+Che Amanwe Papanoida is based on [[George Lucas]]' daughter, [[Amanda Lucas]] and voiced by [[Meredith Salenger]].<ref>{{SWArchive|url=theclonewars/guide/episode304.html|text=''The Clone Wars'' Episode Guide: Sphere of Influence}}</ref>
+
+==Appearances==
+*{{TCW|Sphere of Influence}} {{1st}}
+
+==Sources==
+*{{SWArchive|url=theclonewars/sphere_preview/index.html|text=George Lucas in Action in ''Star Wars: The Clone Wars''!}}
+*{{SW|url=explore/the-clone-wars/ep304/#!/about|text="Sphere of Influence" - ''The Clone Wars'' Episode Guide|org=theclonewars/guide/episode304.html}}
+*{{SWE|characters|papanoida|Chairman Papanoida}}
+*{{SWE|characters|greedo|Greedo}}
+*{{SWE|characters|jabba|Jabba the Hutt}} {{Imo}}
+*{{SWE|locations|cantina|Mos Eisley Cantina}} {{Imo}}
+*{{SWE|characters|riyochuchi|Riyo Chuchi}} {{Imo}}
+*{{SWE|characters|tandivo|Tan Divo}} {{Imo}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]'' {{Imo}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]'' {{Imo}}
+*{{Databank|chairman-papanoida|Chairman Papanoida|archivedate=20170203164224}} {{Imo}}
+*{{Databank|che-amanwe-papanoida|Che Amanwe Papanoida|archivedate=20160515015413}}
+*{{Databank|chi-eekway-papanoida|Chi Eekway Papanoida|archivedate=20170825165716}}
+*{{Databank|galactic-senate|Galactic Senate|archivedate=20170705025411}} {{Imo}}
+*{{Databank|ion-papanoida|Ion Papanoida}}
+*{{Databank|jabba-the-hutt|Jabba the Hutt|archivedate=20170712090459}} {{Imo}}
+*{{Databank|mos-eisley-cantina|Mos Eisley Cantina}}
+*{{Databank|pantoran|Pantoran}} {{Po}}
+*{{SW|url=riyo-chuchi-biography-gallery|text=Riyo Chuchi biography gallery}}; images #6-9 {{C|of 10}}
+*{{Databank|tatooine|Tatooine}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Che Amanwe Papanoida
+|ja=チェ・アマンウェ・パパノイダ
+}}
+{{DEFAULTSORT:Papanoida, Che Amanwe}}
+[[Category:Females]]
+[[Category:Pantorans]]

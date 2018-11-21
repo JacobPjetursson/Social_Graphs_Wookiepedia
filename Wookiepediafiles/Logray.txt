@@ -1,0 +1,58 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:LograyHS-ROTJ.png]]
+|name=Logray
+|homeworld=[[Endor]]<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|birth=
+|death=
+|species=[[Ewok]]<ref name="Episode VI" />
+|gender=[[Sexes|Male]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|height=1.0 [[meter]]s<ref name="Logray">{{Databank|logray|Logray|archivedate=20170829133942}}</ref>
+|mass=
+|hair=[[Color|Brown]], with tan stripes<ref name="Episode VI" />
+|eyes=Dark Brown<ref name="Episode VI" />
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Bright Tree tribe]]<ref name="Episode VI" />
+*[[Alliance to Restore the Republic]]<ref name="Episode VI" />
+|masters=[[Makrit]]<ref name="Tales from Vader's Castle 4">''[[Tales from Vader's Castle 4]]''</ref>
+|apprentices=[[Teebo]]<ref name="Star Wars Character Encyclopedia: Updated and Expanded>''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>}}
+'''Logray''' was a [[Sexes|male]] [[Ewok]] from the forest moon of [[Endor]] who served as the [[chief]] [[shaman]] of [[Bright Tree tribe]] during the [[Galactic Civil War]].<ref name="Ultimate Star Wars" /> At one point during the war, [[Luke Skywalker]], [[Han Solo]], [[Chewbacca]] and [[C-3PO]] were brought to the tribe. Logray, believing Threepio a [[Deity|god]] ordered Skywalker, Solo, and Chewbacca to be cooked as a sacrifice to their "god". The three were freed after Skywalker used [[the Force]] to trick the Ewoks into believing that Threepio was using his "[[magick|magic]]" in a display of powerful anger.<ref name="Episode VI" /> When the Ewoks were debating on helping the Rebels in assaulting the [[Death Star's shield generator|shield generator]], Logray was hesitant to get involved, concerned for the safety of the Ewoks and feeling that this conflict was bigger than them. Eventually he was swayed over by the others and was greatly moved by [[Teebo]]'s messages sent out to the neighboring tribes. Eventually, he and the other Ewoks attacked the Imperial forces stationed on the moon during the [[battle of Endor]]. He participated in the celebration the followed the destruction of the second [[Death Star II|Death Star]].
+
+{{Char-stub}}
+
+==Appearances==
+*''[[Tales from Vader's Castle 4: Night of the Gorax]]'' {{Flash}}
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*''[[Ewoks Join the Fight]]''
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]''
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*{{Databank|logray|Logray|archivedate=20170829133942}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Logray
+|ja=ログレイ
+}}
+
+[[Category:Ewoks]]
+[[Category:Males]]
+[[Category:Shamans]]

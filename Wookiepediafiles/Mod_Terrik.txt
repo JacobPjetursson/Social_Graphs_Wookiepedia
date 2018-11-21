@@ -1,0 +1,65 @@
+{{Eras|imp|reb}}
+{{Youmay|the sandtrooper|a member of the [[Terrik family]]}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Mod terrik.jpg]]
+|name=Mod Terrik
+|homeworld=
+|birth=
+|death=[[0 BBY/Legends|0 BBY]] (35:3:6 GrS), [[Tatooine/Legends|Tatooine]]<ref name="wtdwt:tst">''[[When the Desert Wind Turns: The Stormtrooper's Tale]]''</ref>
+|species=[[Human/Legends|Human]]
+|gender=[[Sexes/Legends|Male]]
+|height=
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=
+|era=*[[Rise of the Empire era]]
+*[[Rebellion era]]
+|affiliation=*[[Galactic Empire/Legends|Galactic Empire]]
+**[[Zeta Squadron]]
+|masters=
+|apprentices=}}
+{{Quote|Someone was in the pod. The tracks go off in this direction.|Mod Terrik|Star Wars: Episode IV A New Hope}}
+'''Mod Terrik''' was a [[Human/Legends|Human]] [[Sexes/Legends|male]] [[Galactic Empire/Legends|Imperial]] [[captain/Legends|officer]] of the [[Desert Sands]] [[Desert stormtrooper|sandtrooper]] unit. Fearless and highly motivated, Terrik was willing to sacrifice as many troops as he felt necessary in order to achieve his objectives. He was a master tactician and was known for the [[Death/Legends|deaths]] of hundreds of rebels.
+
+==Biography==
+When he was assigned to [[Tatooine/Legends|Tatooine]] in search of missing [[Droid/Legends|droids]] [[C-3PO/Legends|C-3PO]] and [[R2-D2/Legends|R2-D2]], Terrik was [[Captain/Legends|captain]] of the Desert Sands [[Zeta Squadron]]. He ordered and supervised attacks on a [[Jawa/Legends|Jawa]] [[Sandcrawler/Legends|sandcrawler]]. Following the tracks of sandcrawler, they soon moved to the [[Lars homestead]]. His troops captured [[Owen Lars/Legends|Owen Lars]] and [[Beru Whitesun Lars/Legends|Beru Whitesun Lars]], and [[Anakin Skywalker/Legends|Darth Vader]] himself ordered them to be executed. They carried out this order and left shortly before [[Luke Skywalker/Legends|Luke Skywalker]] arrived at the Lars homestead.
+
+Later Terrik was contacted by [[Garindan]], a spy working for the Imperials who had tracked C-3PO and R2-D2 to [[Docking Bay 94/Legends|Docking Bay 94]]. Terrik and his men arrived at Docking Bay 94 and engaged [[Han Solo/Legends|Han Solo]] outside the ''[[Millennium Falcon/Legends|Millennium Falcon]]'', but were unsuccessful in preventing his escape with his passengers. Amid the crossfire, Terrik was shot in the back and [[Death/Legends|killed]] by one of his own troopers, [[Davin Felth]].
+
+==Appearances==
+*''[[When the Desert Wind Turns: The Stormtrooper's Tale]]''
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*[[Star Wars Episode IV: A New Hope (junior novelization)|''Star Wars Episode IV: A New Hope'' junior novel]]
+*''[[Star Wars 1]]''
+*''[[Star Wars: Force Commander]]''
+
+==Sources==
+*{{CCG|set=A New Hope Limited|link=ANewHope-Dark/large/imperialsquadleader.gif|cardname=Imperial Squad Leader}}
+*{{SWArchive|url=episode-iv/explore/visualguides/chp07.html|text=Visual Guide &mdash; Chapter 7: Land of the Jawas}}
+*''[[The Essential Guide to Characters]]''
+*{{FFCite|10|HUN4, ''The Hunt for the Droids''}} {{Imo}}
+*{{FFCite|11|GAR4, ''Garindan''}} {{Po}}
+*''[[The Complete Star Wars Encyclopedia]]''
+*{{Hyperspace|url=hyperspace/source/praji/20090205.html|text=''Tinker, Tailor, Soldier, Praji''|int=Tinker, Tailor, Soldier, Praji}}
+*''[[The Essential Reader's Companion]]''
+*{{InsiderCite|148|Imperial Icons}} {{Imo}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Mod Terrik
+|es=Mod Terrik
+|nl=Mod Terrik
+|ja=モド・テリック
+|pl=Mod Terrik
+|ru=Мод Террик
+}}
+
+{{DEFAULTSORT:Terrik, Mod}}
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Stormtrooper officers of the Galactic Empire]]

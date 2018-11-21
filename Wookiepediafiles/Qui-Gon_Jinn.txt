@@ -1,0 +1,337 @@
+{{Eras}}
+{{Update|[[From a Certain Point of View]], [[Star Wars Lightsabers: A Guide to Weapons of the Force]]}}
+{{Character
+|type=Jedi
+|image=[[File:Qui-Gon Jinn Headshot TPM.jpg]]
+|name=Qui-Gon Jinn
+|homeworld=[[Coruscant]]<ref name="Ultimate">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[32 BBY]], [[Naboo]]<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|species=[[Human]] {{C|[[Coruscanti]]}}<ref name="SWEQui-GonJinn">{{SWE|characters|quigonjinn|Qui-Gon Jinn}}</ref>
+|gender=[[Sexes|Male]]<ref name="Databank">{{Databank|qui-gon-jinn|Qui-Gon Jinn}}</ref>
+|height=1.93 [[meter]]s<ref name="Databank" />
+|mass=
+|hair=[[Color|Brown]]<ref name="Episode I" />
+|eyes=Blue<ref name="Episode I" />
+|skin=Light<ref name="Episode I" />
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="Databank" />
+*[[Galactic Republic]]<ref name="Episode I" />
+|masters=[[Dooku]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|apprentices=*[[Obi-Wan Kenobi]]<ref name="Episode I" />
+*[[Anakin Skywalker]] {{C|informally}}<ref name="Episode I" />
+*[[Yoda]] {{C|as [[Force spirit]]}}<ref name="Sacrifice">{{TCW|Sacrifice}}</ref>}}
+{{Quote|There is always hope, my friend, though it often comes in forms not looked for. The key is knowing how to see it and seizing that opportunity.|Qui-Gon Jinn, to Yoda|Voices}}
+'''Qui-Gon Jinn''' was a [[human]] [[Sexes|male]] [[Jedi Master]] who lived during the declining days of the [[Galactic Republic]]. The [[Coruscant]]-born [[Jedi]] was a controversial figure in his time, having long been a student of the [[Living Force]] who often bucked the [[Jedi Code]] and the decisions of the [[Jedi High Council]] in order to follow the will of [[the Force]]. According to his [[Padawan]], [[Obi-Wan Kenobi]], Jinn could have been a member of the High Council had he followed the Code, but he, like his own Jedi Master, [[Count]] [[Dooku]], did not always put his faith in institutional wisdom. His studies of the Living Force helped him learn to unlock the secrets of [[Force spirit|eternal consciousness]] after [[death]], giving him and the students he would later teach influence beyond death.
+
+In [[32 BBY]], Jinn and Kenobi were sent by [[Supreme Chancellor]] [[Finis Valorum]] to negotiate a peaceful outcome to the [[Trade Federation]]{{'}} [[Invasion of Naboo|blockade]] of the [[planet]] [[Naboo]]. The Federation, in league with the shadowy [[Sith Lord]] [[Darth Sidious]], targeted them for death and forced them onto the planet, where they rescued [[Monarch of Naboo|Queen]] [[Padmé Amidala]] and helped her find safe refuge on [[Tatooine]]. It was there that Jinn helped orchestrate the freedom of a young [[Slavery|slave]] named [[Anakin Skywalker]], a boy who was strong in the Force and who Jinn believed was the [[Chosen One]] who would destroy the Sith and bring balance to the Force. Once at the [[Imperial Palace|Jedi Temple]] on Coruscant, Jinn unsuccessfully lobbied for the Council to allow him to train Skywalker.
+
+Jinn and Kenobi returned to Naboo, where they helped Queen Amidala liberate her people from the Federation. Jinn was killed in a [[lightsaber combat|lightsaber duel]] with [[Maul|Darth Maul]], and with his dying breaths asked Kenobi to train Skywalker. His [[Funeral of Qui-Gon Jinn|funeral]] was held shortly thereafter, but his studies of the Living Force allowed him to manifest his consciousness after death. During the [[Clone Wars]], he revealed himself to [[Grand Master]] [[Yoda]] and sent Yoda on a journey so he too could learn the secrets of immortality. After the fall of the [[Jedi Order]], Jinn guided Yoda and Kenobi in learning how to physically manifest their spirits, a feat he too was able to accomplish after first only being able to communicate as a disembodied voice. Through Jinn’s teachings, Kenobi and Yoda were able to guide [[Luke Skywalker]] even after death as he saved his father from the [[dark side of the Force]], became a [[Jedi Knight]], and sought to rebuild the Jedi Order.
+
+==Biography==
+===Early life===
+{{Quote|Qui-Gon Jinn would never join you.''"<br />"''Don't be so sure, my young Jedi. You forget that he was once my apprentice, just as you were once his.|Obi-Wan Kenobi and Count Dooku|Star Wars: Episode II Attack of the Clones}}
+[[File:Count Dooku headshot gaze.jpg|thumb|150px|left|Count Dooku, Jinn's former master.]]
+Qui-Gon Jinn was a [[Sexes|male]] [[human]] born on the [[The galaxy|galactic]] [[capital]] of [[Coruscant]].<ref name="Ultimate" /> Identified as a [[Force-sensitive]], he was taken for [[Jedi training|training]] by the [[Jedi Order]] and was assigned as a [[Padawan]] to [[Jedi Master]] [[Dooku]], from whom he learned the ways of [[the Force]].<ref name="Episode II" /><ref name="Ultimate" /> Jinn went on to become a [[Jedi]] Master in his own right, one who developed an independent attitude towards the Jedi Order. He was seen as a maverick Jedi, one who would disobey the [[Jedi Code]] if he felt it was the right decision. Jinn eventually took on a Padawan of his own, [[Obi-Wan Kenobi]], who believed that Jinn could have been a member of the [[Jedi High Council]] if he followed the Code.<ref name="Episode I" /> On one occasion, Jinn and Kenobi were sent on an extended mission to the planet [[Mandalore]], where a [[Mandalorian Civil War|civil war]] had been raging between various Mandalorian factions. Jinn and his Padawan were assigned to protect [[Duke|Duchess]] [[Satine Kryze]] of the pacifistic [[New Mandalorians]] faction, who had become a target for insurgents.<ref name="Voyage of Temptation">{{TCW|Voyage of Temptation}}</ref>
+
+Jinn and Kenobi spent a [[Standard year|year]] on Mandalore, constantly on the run from [[bounty hunter]]s targeting Kryze. During the mission, Kenobi developed romantic feelings for the Jedi's charge. Eventually, the civil war came to an end, with the New Mandalorians coming to power and Kryze becoming the ruler of Mandalore.<ref name="Voyage of Temptation" /> Jinn had at least some contact with his old Master after taking on Kenobi, and spoke highly of his Padawan to Dooku.<ref name="Episode II" />
+
+Sometime during his life, Jinn began discovering the secrets to [[Force spirit|manifesting his consciousness]] after [[death]].<ref name="Voices">{{TCW|Voices}}</ref> He traveled to a [[Wellspring of Life|planet]] strong with the Force, a [[Planet|world]] that legend said was the birthplace of life and the origin of [[midi-chlorian]]s. There, he learned from five [[Force Priestesses]] who had retained their own consciousness after death.<ref name="Force-Planet-SWE">{{SWE|locations|force-planet|Force planet}}</ref> He learned that, when a living thing died, its life passed through the [[Living Force]] and into the [[Cosmic Force]] to become one with the Force. As the Living Force and Cosmic Force existed in tandem, it became possible to retain one's consciousness and physically manifest themselves after death. Jinn was considered worthy of the knowledge of eternal life, and secretly began his training to fully unlock its mysteries.<ref name="Voices" /> He also learned from a [[Shaman of the Whills]] that achieving eternal consciousness required absolute selflessness.<ref name="SWEQui-GonJinn" />
+
+[[File:Yoda and qui gon.png|thumb|250px|right|Qui Gon Jinn and Yoda discuss a disturbance in the force.]]
+At some point prior to [[32 BBY]], Jinn and Kenobi were operating in the vicinity of a [[Flesh Mongers planet|planet]] that served as a base of the [[Flesh Mongers]] pirate group, flying a [[Qui-Gon Jinn's Delta-7 Aethersprite-class light interceptor|pair]] [[Obi-Wan Kenobi's Delta-7 Aethersprite-class light interceptor/Legends|of]] [[Delta-7 Aethersprite-class light interceptor|Delta-7 ''Aethersprite''-class light interceptors]]. The two received a message from the surface of the planet from Jedi Master [[Yoda]], who was asking for assistance. Landing on the planet, Jinn and Kenobi discovered that Yoda had taken out the entire pirate gang in order to rescue a young Force-sensitive [[Youngling|child]], known as [[Lo (child)|Lo]], as the pirate had planned to sell him due to his abilities in the Force.<ref name="Star Wars 26">''[[Star Wars 26: Yoda's Secret War, Part I]]''</ref>
+
+Jinn and Kenobi were asked by Yoda to escort the infant to the [[Imperial Palace|Jedi Temple]], with Yoda assuring Lo that he was in safe hands with Jinn. Jinn expressed that he was happy to help out as they had been so close. While the two conversed, Kenobi took particular interest in the fact that Yoda had taken out an entire room of pirates, and was totally in awe. Jinn then proceeded to ask Yoda if everything was all right, to which the revered master replied that he could sense a calling [[disturbance in the Force]] that he felt he must follow. Jinn noted that he could not feel the presence himself but offered to join him on his quest if he so wanted. As Yoda climbed into his [[Yoda's Delta-7 Aethersprite-class light interceptor|starship]], he responded that he felt it was simply a calling for him alone and embarked on a [[Mission to unidentified planet (Yoda)|mission]] to [[Unidentified planet (Vagadarr system)|a planet]] in the [[Vagadarr system]], where he became involved in a [[War on unidentified planet (Vagadarr system)|tribal war]] between the planet's native inhabitants.<ref name="Star Wars 26" />
+
+===War on Naboo===
+====Failed negotiations====
+{{Quote|The situation here is not what it seems. There is something else behind all this, Your Highness. There is no logic in the Federation's move here. My feelings tell me they will destroy you.|Qui-Gon Jinn, to Queen Amidala|audio=NoLogic-TPM.ogg|Star Wars: Episode I The Phantom Menace}}
+Ten years prior to the [[Battle of Geonosis|outbreak]] of the [[Clone Wars]], the [[Trade Federation]] [[blockade]]d [[Naboo]] and planned to [[Invasion of Naboo|invade]] it in retaliation for the [[Galactic Republic]]'s taxation of [[Free Trade Zone|trade routes]] in outlying [[star]] systems. Unknown to the Republic, the Federation was controlled by the [[Sith Lord]] [[Darth Sidious]]&mdash;secretly Naboo's [[Senator]] Palpatine&mdash;who engineered the conflict so he could be elected [[Supreme Chancellor]]. Then-Supreme Chancellor [[Finis Valorum]] dispatched Jinn and Kenobi to Naboo, tasking them with resolving the situation through [[diplomat]]ic means.<ref name="Episode I" />
+
+[[File:Jedi Master & Padawan.png|thumb|225px|left|Jinn and Kenobi fight to escape Federation forces on the command ship.]]
+Upon arriving at the Trade Federation [[command ship]], Jinn and Kenobi were escorted into a conference room, where they were told that [[Viceroy of the Trade Federation|Viceroy]] [[Nute Gunray]] would greet them. As the Jedi were waiting, the Federation leaders contacted [[Darth]] Sidious, informing him that the Chancellor's [[ambassador]]s were [[Jedi Knight]]s. Sidious ordered their execution, while Jinn could sense the fear that the [[Neimoidian]]s felt. This let Jinn know that this was not a normal trade dispute. These suspicions were confirmed when the Federation flooded the conference room with [[Dioxis|poison gas]] in an attempt to kill the Jedi, but the two were able to hold their breath long enough for the Federation to open the doors and inadvertently give the Jedi a chance to escape. They fought off the [[battle droid]]s waiting outside the door and fled through the corridors, where they made their way into the ventilation system.<ref name="Episode I" />
+
+Moving through the ventilation shafts, the Jedi made their way to the [[hangar]], where they saw the Federation Army preparing to mount an invasion of the planet. The Jedi stowed away aboard [[C-9979 landing craft|separate ships]], which made their way to the planet's surface, and planned to warn the Naboo that the invasion was coming. Once on the surface, Jinn ventured through a [[forest]] to rendezvous with Kenobi. It was there that the Jedi master encountered a [[Gungan]] named [[Jar Jar Binks]], who latched onto him in the chaos of the Federation invasion. This nearly got them both killed, as they fell to the ground just in [[time]] to avoid being run over by a Federation [[Multi-Troop Transport|troop carrier]]. Binks swore a [[life debt]] to Jinn for saving him, as Jinn tried to get rid of the Gungan. He finally rendezvoused with Kenobi and planned to find shelter, which Binks offered to give them in the [[Otoh Gunga|Gungan city]] beneath the [[ocean]]. The Gungan momentarily changed his mind, revealing that he had been [[Exile (punishment)|exiled]] and would be punished for returning, but Jinn and Kenobi convinced him to take them to the city to avoid the approaching Federation forces.<ref name="Episode I" />
+
+Binks led the two Jedi into the Gungan [[city]], where they were immediately apprehended and brought before the [[Gungan High Council|Gungan leaders]]. Jinn attempted to persuade [[Boss]] [[Rugor Nass|Nass]], the Gungan leader, that the Federation posed a threat to them just as much as they threatened Naboo, but Gungan prejudices against the [[Naboo (people)|Naboo]] were too strong for the Boss to care what happened on the surface. The Jedi Master used the Force to [[Mind trick|telepathically]] persuade Nass to give them a [[Gungan bongo submarine|bongo]] [[Water|aquatic]] [[transport]] that the Jedi could use to reach [[Theed]], the capital of Naboo. Nass was also persuaded to allow Binks to travel with them, as Jinn, claiming the custom of the life debt, believed the Gungan could be a guide to make it through the planet core and to the capital.<ref name="Episode I" />
+
+After traveling through the core and evading multiple large sea creatures, they arrived in Theed and rescued [[Monarch of Naboo|Queen]] [[Padmé Amidala]], who had been taken into Federation custody. Together, along with a number of the queen's [[Palace Guard (Naboo)|guards]] and [[Naboo Royal Handmaidens|handmaidens]], they made their way to a hangar to take the [[queen]]'s [[Naboo Royal Starship|starship]] off of Naboo. They were able to board the ship after fighting through a number of battle [[droid]]s, and took the vessel into orbit where they encountered the Federation blockade. They managed to escape the blockade, but the ship was damaged and needed to be set down for repairs. Jinn suggested that they land on [[Tatooine]], a [[desert]] planet where the [[Hutt]]s ruled and the Federation had no presence. Although the queen's lead guard, [[Quarsh Panaka|Panaka]], objected because of the danger posed by the [[Hutt Clan|Hutts]], the decision was made to seek refuge on Tatooine.<ref name="Episode I" />
+
+====Discovery of the Chosen One====
+{{Quote|Finding him was the will of the Force. I have no doubt of that.|Qui-Gon Jinn to the Jedi High Council|audio=WillOfTheForce-TPM.ogg|Star Wars: Episode I The Phantom Menace}}
+[[File:Jedi reflexes.png|thumb|250px|right|Jinn chides Binks during a meal with Skywalker and his mother.]]
+The ship landed on Tatooine, and the crew determined that they were in need of a new [[T-14 hyperdrive generator|hyperdrive generator]] in order to make it to their final destination of Coruscant, the capital of the Republic. Jinn decided to venture out into [[Mos Espa|the local settlement]] to find a store that would sell a generator, and brought Amidala&mdash;masquerading as a royal handmaiden&mdash;and Binks along with him. They arrived at a [[Watto's shop|shop]] owned by a [[Toydarian]] [[junk dealer]], [[Watto]], who had the parts they needed but would not accept Republic [[credit]]s for payment. Jinn attempted to telepathically persuade him that credits would be acceptable, but the Toydarian was immune to Jedi mind tricks. Jinn left empty-handed, but not before meeting [[Anakin Skywalker]], a young boy who was a [[Slavery|slave]] of Watto's.<ref name="Episode I" />
+
+Skywalker followed Jinn and the others, where he warned them that a [[sandstorm]] was coming and that they would need to find shelter. The boy knew the group would not make it back to their ship in time and brought them back to his [[Skywalker home|home]], where he introduced them to his [[Parent|mother]], [[Shmi Skywalker Lars|Shmi]], who was also one of Watto's slaves. They all shared a dinner together, where Skywalker deduced that Jinn was a Jedi, having seen his [[Qui-Gon Jinn's lightsaber|lightsaber]]. Jinn revealed that he and the others were on an important mission for the Republic and stranded on Tatooine until they could repair their ship. Knowing that it could help them escape, Skywalker volunteered to help by racing in the [[Boonta Eve Classic]] [[Podracing|podrace]] and give them the profits to repair their ship if he won. Jinn accepted the offer, though Amidala was unconvinced that trusting their fate to someone they barely knew was the right course.<ref name="Episode I" />
+
+The next [[Standard day|day]], Jinn spoke to Watto about entering Skywalker in the race with [[Anakin Skywalker's Podracer|a]] [[Podracer|pod]] that Skywalker had built in secret, and Jinn convinced Watto that it was the Jedi's pod. The two agreed that Watto would pay Skywalker's entry fee and collect all of the winnings from a potential victory, except for whatever money Jinn needed to repair his ship. If Skywalker lost, Watto would keep the queen's ship. Watto agreed to the condition, and Skywalker set out to begin getting his pod race-ready.<ref name="Episode I" />
+
+It was in watching Skywalker work on his pod that Jinn told Shmi he could sense the potential of a Jedi in the boy. Jinn wondered who Skywalker's father was, and was intrigued to hear Shmi had conceived her son without a father. Later that night, Jinn tested the boy's midi-chlorian count and sent the sample to Kenobi on the queen's ship, who told his master that Skywalker's midi-chlorian count was over 20,000&mdash;higher than any known Jedi. Through the supposed virgin [[Reproduction|birth]] and the midi-chlorian count, Jinn came to believe that Skywalker was the [[Chosen One]] of Jedi prophecy, a being who would bring balance to the Force.<ref name="Episode I" />
+
+With the belief that Skywalker was the Chosen One, Jinn knew that Skywalker should be brought to the [[Jedi temple]] on Coruscant so he could be trained as a Jedi. Jinn approached Watto with a new wager: if the boy was to win, Watto would free Skywalker and his mother. Watto scoffed at the idea of freeing two slaves, but he did agree to release one if Skywalker won. However, he left it up to chance, and threw a small multi-[[color]]ed [[Chance cube|cube]]; if it landed on blue, Skywalker would be the slave in question. Jinn [[Telekinesis|used]] the Force to help it land on blue, and Watto agreed that Skywalker would be freed if he won the race&mdash;but, according to Watto, the [[Dug]] [[Podracer (profession)|racer]] [[Sebulba]] was sure to win.<ref name="Episode I" />
+
+[[File:Maul duels Jinn.png|thumb|200px|left|Jinn fights [[Maul|Darth Maul]] on Tatooine, the first known encounter between Jedi and Sith for a thousand years.]]
+The race began later that day and Skywalker emerged victorious. Watto, who lost everything betting on Sebulba, freed the boy as per their agreement. Jinn took what profits he needed to repair the ship and gave the rest to Skywalker and his mother, and told them that Skywalker had been freed and could go with him to Coruscant to become a Jedi. Skywalker was unsure about leaving his mother, but he had always [[dream]]ed of becoming a Jedi and decided to leave. After Skywalker shared a tearful goodbye with his mother, Jinn and the boy set off for the queen's ship to make their way to Coruscant.<ref name="Episode I" />
+
+Just before arriving at the ship, Jinn was attacked by Darth Maul, a [[Sith]] [[Lord]] and the [[Sith apprentice|apprentice]] of Darth Sidious. The two [[Duel on Tatooine|fought]] across the desert floor while Skywalker rushed back to the ship to find help, and the ship made its way to Jinn's location where he was able to board it and flee Tatooine, leaving Darth Maul behind. Once on board, he introduced Skywalker to Kenobi.<ref name="Episode I" />
+
+With its [[hyperdrive]] repaired, the ship finally arrived on Coruscant, where the crew was greeted by Chancellor Valorum and Senator Palpatine. After arriving, Jinn went before the Jedi Council and told the Jedi Masters that he believed Darth Maul was a Sith Lord. The Council was dubious of the claim, as the Order believed they had [[Jedi–Sith war|destroyed]] the Sith a [[millennium]] earlier, but they committed themselves to learning Darth Maul's identity. Jinn also revealed that he had discovered Skywalker on Tatooine and believed him to be the Chosen One, asking that the boy be trained as a Jedi. At Jinn's request, the Council agreed to test Skywalker to determine if he was eligible for training. Kenobi was skeptical that Skywalker would pass the test given his age, as Jedi began their training at infancy, and worried that Jinn would defy whatever decision the Council made. Despite his Padawan's concerns, Jinn was determined to see Skywalker become a Jedi Knight.<ref name="Episode I" />
+
+The Council tested Skywalker and agreed with Jinn that he was exceptionally powerful with the Force, but declined to accept him for training. They believed that despite his power, he was too old to begin training, and dangerously full of fear and anger.<ref name="Databank" /> Nonetheless, Jinn insisted that Skywalker be trained, saying he would take the boy as his Padawan learner. Kenobi, meanwhile, could take his [[Jedi Trials]] and become a Jedi Knight, as the Jedi Code forbade a Jedi from having two Padawans. The Council tabled the discussion for another time and ordered that Jinn and Kenobi return to Naboo, where Queen Amidala was preparing to return to in order to deal with the invasion without the [[Galactic Senate|Senate's]] help. Jinn took Skywalker with him and began giving him some initial lessons about the Force.<ref name="Episode I" />
+
+====Final battle and death====
+{{Quote|Obi-Wan. Promise&hellip;Promise me you will train the boy.''"<br />"''Yes, Master.''"<br />"''He&hellip;''is'' the Chosen One. He&hellip;''will'' bring balance. Train him&hellip;|Jinn's dying request to Kenobi|audio=QuiGonDyingWish-TPM.ogg|src=Star Wars: Episode I The Phantom Menace|Star Wars: Episode I The Phantom Menace}}
+Upon arrival on Naboo, the Jedi traveled with Amidala to find the Gungans, who were hiding in a [[Gungan sacred place|sacred area]] of the forests. There, the Naboo and Gungans formed an alliance to fight the Federation, while the queen's handmaiden Padmé revealed herself to be the true Amidala, having masqueraded as a servant with one of the handmaidens portraying the queen as a safety precaution. Together with the Jedi and the Gungans, Amidala put together a plan of [[Battle of Naboo|attack]], where the Gungans would fight the [[Trade Federation Droid Army|Federation army]] away from Theed as a diversion, allowing Amidala, her forces, and the Jedi to get into the city with relatively little opposition. Jinn made it clear, however, that while he would protect the queen, he could not a fight a war for her.<ref name="Episode I" />
+
+[[File:Qui-Gon's death.png|thumb|220px|right|Darth Maul stabs Jinn through the torso, fatally wounding him.]]
+As the [[Gungan Grand Army|Gungan army]] led the bulk of the Federation forces away from the city, Jinn snuck into Theed with the others and fought their way to the palace. Once in the hangar, they were again confronted by Darth Maul, who the two Jedi prepared to fight as the Naboo fought their way to the [[throne]] [[Throne room (Theed Royal Palace)|room]] to capture [[Viceroy]] Gunray. Jinn and Kenobi [[Lightsaber duel|fought]] Maul in the hangar, with the Sith Lord dominating the duel, though Maul did give ground in order to lead the Jedi out of the hangar and throughout a [[Theed power generator|palace generator complex]]. Maul separated the two Jedi by knocking Kenobi down several levels and eventually trapping him behind shielding, leaving Jinn to fight the Sith Lord in single [[Lightsaber combat|combat]] without his apprentice. As they made their way through the area, the two combatants were evenly matched; eventually, however, Maul countered Jinn with a physical strike from his lightsaber hilt and seizing the opportunity while Jinn was off-balance, fatally stabbing the Jedi Master through the torso as his Padawan watched in horror from behind the shielding.<ref name="Episode I" />
+
+When Kenobi was finally able to reach Maul, he and the Sith Lord engaged in a furious battle, with Kenobi grieving for his master and friend. Maul was able to disarm and knock Kenobi partly down a [[reactor]] shaft, before Kenobi used the Force to summon his master's lightsaber, jump out of the pit and slice the blade through Maul's torso in one swift movement; cutting him in half and sending him tumbling down the shaft. The Padawan ran to his dying master, cradling him in his arms, and Jinn made his apprentice promise that he would train with Skywalker as a Jedi. With his dying breath, Jinn once again said that Skywalker was the Chosen One and would bring balance to the Force.<ref name="Episode I" />
+
+In the aftermath of the battle, in which the Naboo successfully captured the Viceroy and ended the Federation occupation, Kenobi was granted the rank of Jedi Knight and insisted on taking Skywalker as his apprentice. Although Yoda disagreed, the Council approved Kenobi's request, fulfilling Jinn's dying wish: Skywalker would be trained as a Jedi. Later, Jinn was given a Jedi [[Funeral of Qui-Gon Jinn|funeral]] on Naboo, where his body was burned on a [[funeral]] pyre. The funeral was attended by a number of delegates including Queen Amidala, the Jedi Council, and Chancellor Palpatine. It was at the funeral that Kenobi told Skywalker that the Council would allow him to be trained, and that Kenobi would be his master. Together, the two [[Mourning|mourned]] the death of their fallen friend, as Kenobi vowed that Skywalker would become a Jedi.<ref name="Episode I" /> Kenobi upheld his vow to Jinn dutifully over the years. At one point, when Skywalker was considering leaving the Jedi Order [[29 BBY|at the age of twelve]], Kenobi was intent on following suit, but he was still going to complete the boy's training even outside the Order. Skywalker, however, chose to remain a Jedi in the aftermath of a [[Mission to Carnelion IV|mission]] to the planet [[Carnelion IV]].<ref name="OW & A">''[[Obi-Wan & Anakin, Part V]]''</ref>
+
+===Returning as a spirit===
+{{Quote|It is I, Qui-Gon Jinn.''"<br />"''That cannot be. Dead, you are.''"<br />"''No. I am part of the Living Force, Yoda.|Jinn communes to Yoda during the Clone Wars|Voices}}
+Though his training had been incomplete, Jinn utilized what he learned from the Force Priestesses to become one with the Force and retain his identity after his death. He had not fully learned the mystery, however, so he could not physically manifest himself, only speak as a disembodied voice.<ref name="Voices" /> The first known time that Jinn communicated through the Force was approximately ten years after the events on Naboo. Skywalker had [[Mission to rescue Shmi Skywalker Lars|returned]] to Tatooine to find his mother, about whom he had been having recurring nightmares, and discovered she had been kidnapped by [[Tusken Raider]]s. He found her in a [[Tusken Raider camp|Tusken camp]], but she died only moments later. In his anger, Skywalker slaughtered all the Tuskens in the camp. Jinn, sensing the great pain and distress, called out to Skywalker through the Force, which Yoda could hear&mdash;but not comprehend&mdash;through his own [[meditation]]s. However, Jinn's pleas were for naught, as Skywalker didn't heed his words in his uncontrolled rage.<ref name="Episode II" />
+
+In the meantime, Kenobi was captured on the planet [[Geonosis]] by Dooku, who had left the Jedi Order and had become the leader of the [[Confederacy of Independent Systems]]. While interrogating Kenobi, Dooku&mdash;who was also secretly a Sith Lord&mdash;expressed his belief that Jinn would have joined his cause if he had been alive. Shortly thereafter, a conflict known as the Clone Wars began between the Galactic Republic and Dooku's Confederacy.<ref name="Episode II" /> During that conflict, Skywalker was promoted to the rank of Jedi Knight and was assigned a Padawan of his own, the Togruta [[Ahsoka Tano]], to whom he recited Jinn's teachings on at least one occasion.<ref name="TCW film">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'']]</ref>
+
+[[File:QuiGonJinnCW.png|thumb|250px|left|Jinn's spirit appears before Kenobi on Mortis.]]
+Despite his incomplete training, Jinn was able to physically manifest on one known occasion. Kenobi, Skywalker, and Tano, had been [[Mission to Mortis|lured]] to the planet [[Mortis]] by [[Force wielder|three beings]] known as the [[Father (Mortis)|Father]], [[Son]], and [[Daughter]]. Like Jinn, these beings believed that Skywalker was the Chosen One. Jinn first appeared to Kenobi to warn him that the beings sought Skywalker and his potential as the Chosen One, to use it for their own means. When Kenobi questioned how Jinn could appear, the late Jedi Master told him that the planet acted as an amplifier, and that it was a conduit through which the Force flowed. The two spoke about Skywalker and his power, with Kenobi having the opportunity to tell Jinn that the late Jedi Master's predictions about Skywalker were true: he was stronger than any other Jedi, yet still could not find balance. Jinn warned that, if Skywalker was the Chosen One, then the boy would discover it on Mortis, and if not then the planet would prove to be very dangerous for someone so powerful.<ref name="Overlords">{{TCW|Overlords}}</ref> Jinn later appeared to Skywalker himself, telling Skywalker that he still believed the boy would bring balance to the Force after facing his [[demon]]s.<ref name="GhostsMortis">{{TCW|Ghosts of Mortis}}</ref>
+
+After the three Jedi escaped Mortis, where the Father professed his belief that Skywalker was the Chosen One,<ref name="GhostsMortis" /> Kenobi came to believe, and told the Jedi Council, that the appearance of Jinn was simply an illusion, one manifested from their memories by the beings on Mortis. Skywalker, however, was not as confident, despite Jedi teachings saying that it was impossible for a being to retain their identity after death. The report about Mortis did not change these Jedi beliefs or teachings.<ref name="Voices" /> The Clone Wars also saw the return of Jinn's murderer, Darth Maul. Believed to have been killed by Kenobi on Naboo, Maul had in fact survived, replacing his lower body with a cybernetic apparatus.<ref name="Brothers">{{TCW|Brothers}}</ref> Maul sought revenge on Kenobi for maiming him, and the two fought on several occasions.<ref name="Revenge">{{TCW|Revenge (episode)|Revenge}}</ref><ref name="Revival">{{TCW|Revival (episode)|Revival}}</ref><ref name="The Lawless">{{TCW|The Lawless}}</ref> Nevertheless, Maul would go on to survive the Clone Wars.<ref name="Twilight of the Apprentice">{{Rebels|Twilight of the Apprentice}}</ref>
+
+It was not until the waning days of the Clone Wars that Yoda learned Jinn had retained his consciousness after death. Knowing Yoda was destined to be a major player in bringing balance to the Force, and that it was Yoda's destiny to complete the training Jinn himself did not, the late Jedi Master spoke to Yoda through the Force and guided him to [[Dagobah]], the first leg on Yoda's trials to determine whether he was ready to learn the secrets. Jinn told Yoda about his training, and how the Living Force fed into the Cosmic Force, allowing him to return after death. Yoda was, at first, only interested in the truth about the Clone Wars, asking if he knew the identity of Darth Sidious, but Jinn could only guide Yoda through his trials. Yoda was guided by the Living Force in the form of a glowing swarm of [[Firefly|fireflies]]. Later they guided Yoda to the planet of the Force Priestesses, where Yoda could continue his trial.<ref name="Voices" />
+
+Yoda completed the trials and was deemed worthy of learning the secret of eternal consciousness,<ref name="Sacrifice" /> as Yoda would one day train the [[Luke Skywalker|person]] who would help Skywalker bring balance to the Force.<ref name="Destiny">{{TCW|Destiny (episode)|Destiny}}</ref> The Force Priestesses instructed that Jinn would guide Yoda's training.<ref name="Sacrifice" /> After the end of the Clone Wars and the [[Order 66|fall]] of the Jedi Order, Yoda chose to go into exile on Dagobah, but not before telling Kenobi that Jinn had returned from the [[netherworld of the Force]] and could guide his former Padawan in learning the secret.<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+
+===Legacy===
+{{Quote|Obi Wan, let go.|Qui-Gon Jinn briefly communes with Obi Wan Kenobi during meditation|Ahsoka (novel)}}
+[[File:JediGhosts-ROTJ.png|thumb|300px|right|Skywalker, Kenobi, and Yoda all learned the secret of eternal consciousness.]]
+The end of the Clone Wars also saw the fall of Anakin Skywalker, who was seduced to the dark side of the Force by Darth Sidious and had become the Sith Lord Darth Vader.<ref name="Episode III" /> The fall confirmed the Council's fears about Skywalker's training,<ref name="Episode I" /> but he was still the Chosen One.<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref> During Obi-Wan Kenobi's self-imposed exile on Tatooine, he frequently dwelled upon his failure to train Skywalker, and one such time during meditation he felt himself phase out of reality for a few moments. During this time he felt Jinn commune through the Force with him, with his old Jedi Master telling him to let go.<ref name="Ahsoka">''[[Ahsoka (novel)|Ahsoka]]''</ref> In the years after the Clone Wars, Kenobi and Yoda both completed their training to retain their consciousness after death.<ref name="Episode V">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+
+During his time on Tatooine, Kenobi continued to speak with Jinn, telling him about the hardships of living in exile and Skywalker's possible destiny of the Chosen One.<ref name="Journals 7">''[[Star Wars 7: From the Journals of Old Ben Kenobi: The Last of His Breed|Star Wars 7: From the Journals of Old Ben Kenobi: "The Last of His Breed"]]''</ref><ref name="Journals>''[[Star Wars 15: From the Journals of Old Ben Kenobi]]''</ref> During an encounter with the Wookiee bounty hunter [[Black Krrsantan]], Kenobi called upon his Master to give him strength to defeat the foe.<ref name="Journals 20">''[[Star Wars 20: From the Journals of Old Ben Kenobi]]''</ref> Kenobi finally killed a resurgent Darth Maul in a [[Mission to Tatooine (Imperial Era)|duel]] on Tatooine in [[2 BBY]], using Jinn's Ataru stance to defend himself against Maul.<ref name="Twin Suns">{{Rebels|Twin Suns (episode)|Twin Suns}}</ref> In [[1 BBY]], Jinn's voice was heard by Padawan [[Ezra Bridger]] during his mission to a [[World between worlds|place]] that existed between time and [[Realspace|space]].<ref name="A World Between Worlds">{{Rebels|A World Between Worlds}}</ref> [[0 BBY|One year later]], Kenobi [[Rescue of Princess Leia|sacrificed]] himself to save Luke Skywalker, Anakin's son, and was struck down by Darth Vader.<ref name="Episode IV">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref> Though worried for not completing Luke's training, Kenobi heard Jinn's voice telling him to lay down his life so that Luke can escape.<ref name="Time of Death">{{Shortstory|story=Time of Death|book=From a Certain Point of View}}</ref> After his death, Kenobi first appeared as a disembodied voice, telling Luke to flee the [[DS-1 Orbital Battle Station|Death Star]] with his friends, and then later to guide Luke through the [[Battle of Yavin]].<ref name="Episode IV" />
+
+In the aftermath of the Battle of Yavin, Vader [[Battle of Vrogas Vas|was shot down]] over the planet [[Vrogas Vas]]. During a confrontation with Rebel Alliance forces on the planet, Vader found an ancient [[Jedi Temple (Vrogas Vas)|Jedi Temple]], where he heard disembodied voices of people from his past, including Jinn.<ref name="Vader Down">''[[Star Wars 14: Vader Down, Part V]]''</ref> A few years later, Kenobi appeared as a physical spirit to tell Luke to train with Yoda on Dagobah. He continued to manifest himself to help guide Luke through his training.<ref name="Episode V" />
+
+It was on Dagobah that Yoda fulfilled the destiny first spoken of by the Force Priestesses,<ref name="Destiny" /> training Luke to become a Jedi Knight.<ref name="Episode V" /> Yoda died shortly thereafter and passed on into the Force, where he retained his identity. Through the training Yoda gave Luke, the boy confronted and [[Battle of Endor|redeemed]] his father from the dark side, and Anakin killed Darth Sidious. Through this act, and through his own death, Anakin helped defeat the [[Galactic Empire]], brought balance to the Force, and was able to return as a spirit as well. By killing Sidious and sacrificing himself, Jinn's strongly-held belief was finally proven true: Anakin Skywalker was the Chosen One.<ref name="Episode VI" />
+
+==Personality and traits==
+{{Quote|Do not defy the Council, Master, not again.''"<br />"''I shall do what I must, Obi-Wan.|Obi-Wan Kenobi and Qui-Gon Jinn|audio=IShallDoWhatIMust-TPM.ogg|Star Wars: Episode I The Phantom Menace}}
+[[File:YodaDagobahLight.png|thumb|250px|left|Jinn's spirit explains to Yoda how the connection between the Living Force and Cosmic Force helped him retain his identity after death.]]
+Qui-Gon Jinn was a human male who stood 1.93 [[meter]]s tall<ref name="SWEQui-GonJinn" /> and had light skin, blue [[eye]]s, and long, brown [[hair]]. Though he had risen to the rank of Jedi Master, Jinn did not always agree with the structures and rules of the Jedi Order. He was known to disobey the Jedi Code if he felt he needed to, and was willing to rebuff the Jedi Council when they declined to train Skywalker.<ref name="Episode I" /> After Jinn's old master, Dooku, fell to the dark side and became the Sith Lord Darth Tyranus, Dooku told Kenobi that he wished Jinn were still alive so the late Jedi Master could have helped him with the Confederacy of Independent Systems. Kenobi rejected the idea that Jinn would have joined Dooku, but Dooku told Kenobi that Jinn knew about the corruption in the Galactic Senate and might have joined the Separatist cause&mdash;especially if he had learned that the Republic was under the control of Darth Sidious, though Dooku did not tell Kenobi that the Separatists were also under Sith control.<ref name="Episode I" />
+
+While other Jedi focused on meditation to try to understand the future, Jinn lived in the moment.<ref name="SWEQui-GonJinn" /> He believed that one's focus on the future should not compromise the concentration on the present, and believed in trusting one's instincts.<ref name="Episode I" /> Even after his death and return as a spirit, Jinn was confronted with Jedi thinking only of the future{{fact}}; he guided Yoda through Dagobah to learn the secret of eternal consciousness, but Yoda was interested in knowing if Jinn, existing outside of normal time, could tell him the true identity of Darth Sidious. Although Jinn hinted that he knew the truth, he explained he could only guide Yoda towards greater knowledge, not provide him with the answers.<ref name="Voices" /> Jinn's belief that Anakin Skywalker was the Chosen One looked both at the future and in the moment. Though he acknowledged that Skywalker's future contained an uncertain destiny, he did not dwell on the danger that the Council saw in Skywalker's potential.<ref name="Episode I" />
+
+Qui-Gon Jinn had an empathetic nature, and had a tendency to take unfortunate life forms under his protection. It was this tendency, as well his defiance towards the Jedi Council, that often frustrated and baffled his Padawan, Obi-Wan Kenobi. When Jinn saved the Gungan exile Jar Jar Binks, and Binks swore a life-debt to him, his compassionate nature was such that Jinn took the hapless Gungan under his wing, much to Kenobi's dismay. This empathy toward all life forms, including the most pitiful and unfortunate, was Jinn's greatest strength.<ref name="Ultimate" />
+
+Jinn's training to retain his identity after death led him to new philosophies, ones unknown to the Jedi Order of the time.{{fact}} Jinn learned that there were two sides to the Force, a Living Force channeled by the energies of all living beings, and the Cosmic Force into which it fed. It was this symbiotic relationship that allowed the Force to bind the galaxy together, and speak to living beings through the midi-chlorians.<ref name="Voices" />
+
+==Powers and abilities==
+{{Quote|Show yourself, can you?''"<br />"''I cannot. My training was incomplete. All energy from the Living Force, from all things that have ever lived, feeds into the Cosmic Force, binding everything and communicating to us through the midi-chlorians. Because of this, I can speak to you now.|Yoda communes with Jinn on Dagobah about eternal consciousness|Voices}}
+Like other Jedi, Qui-Gon Jinn was sensitive to and had an affinity for the Force. He utilized telekinesis and mind tricks on more than one occasion, using them to help further his goals during the Trade Federation's occupation of Naboo and while attempting to free Skywalker from slavery. Jinn was skilled with a lightsaber, able to use his blade to easily defeat battle droids on Naboo and hold his own in his first duel with Darth Maul. He was not, however, skilled enough to survive his second encounter with Darth Maul, as the Sith Lord out-fought the Jedi Master and mortally wounded him after a prolonged fight.<ref name="Episode I" />
+
+The ability to manifest consciousness after death was, for a time, a skill that other Jedi did not know. Jinn kept his training with the Force Priestesses a secret, and the Jedi Order continued to believe that death was permanent and identity could not be retained. It was not until towards the Clone Wars that Jinn revealed himself to Yoda, despite his training being incomplete at the time, and Jinn told the Jedi Master that that he too could learn to return from death through the Cosmic Force.<ref name="Voices" /> Jinn passed these teachings on to Yoda and Kenobi, who used it and the new philosophies they learned to help guide Luke Skywalker towards his destiny.<ref name="Episode VI" />
+
+==Behind the scenes==
+{{Quote|He's almost like a monk, an old-time warrior who is wise and quite philosophical, yet very skilled in martial arts. He has incredible confidence, as well as a magical quality that enables him to see into the future. He's not really a rebel, but he has his own code.|Liam Neeson's thoughts on his character, Qui-Gon Jinn|Star Wars: The Making of Episode I The Phantom Menace}}
+Qui-Gon Jinn was portrayed by [[Liam Neeson]] in [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]. The actor reprised his role in three episodes of ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]''&mdash;"[[Overlords]]," "[[Ghosts of Mortis]]," and "[[Voices]]"&mdash;and audio from his appearance in ''The Phantom Menace'' could briefly be heard in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]. Neeson was also set to lend his voice to [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']], and Neeson had hinted at his involvement in early 2005.<ref name="USA">[http://www.usatoday.com/life/people/2005-01-09-palm-springs_x.htm USATODAY - Movie-star night in Palm Springs]</ref> The scene, in which Yoda was set to commune with Jinn's disembodied voice, was cut from the film but was written for the screenplay. The scene appeared in the film's [[Star Wars: Episode III Revenge of the Sith (novelization)|novelization]].<ref name="Episode III novel">[[Star Wars: Episode III Revenge of the Sith (novelization)|''Star Wars'': Episode III ''Revenge of the Sith'' novelization]]</ref>
+
+Compared to the final screenplay, early drafts of ''The Phantom Menace'' did not have Qui-Gon Jinn joining Obi-Wan Kenobi until much later in the film, leaving Kenobi as the sole Jedi participant through many of the film's early events, such as the failed negotiations aboard the Trade Federation flagship. Additionally, the final screenplay described Qui-Gon Jinn as being in his 60s, far older than actor Liam Neeson was at the time.<ref name="old-db-jinn">{{DB|character|quigonjinn|Qui-Gon Jinn}}</ref>
+
+==Appearances==
+{{Scroll box|content=
+*''[[Master & Apprentice]]''
+*''[[Star Wars 26: Yoda's Secret War, Part I]]''
+*''[[Age of Republic: Qui-Gon Jinn 1]]''
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*[[The Phantom Menace (Golden Book)|''The Phantom
+Menace'' Golden Book]]
+*''[[The Phantom Menace Read-Along Storybook and CD]]''
+*[[Star Wars: The Prequel Trilogy – A Graphic Novel|''Star Wars: The Prequel Trilogy'' - A Graphic Novel]]
+*''[[Star Wars Journeys: The Phantom Menace]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars: Galactic Defense]]''
+*''[[5-Minute Star Wars Stories]]''
+*''[[5-Minute Star Wars Stories Strike Back]]''
+*''[[Obi-Wan & Anakin, Part I]]'' {{C|Mentioned only; in the opening crawl}}
+*''[[Obi-Wan & Anakin, Part III]]'' {{Imo}}
+*''[[Obi-Wan & Anakin, Part IV]]'' {{C|Mentioned only; in flashback}}
+*''[[Obi-Wan & Anakin, Part V]]'' {{Mo}}
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{Voice}}
+*''[[Star Wars Battlefront II]]'' {{Mo}}
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]] {{Imo}}
+*{{TCW|Voyage of Temptation}} {{Mo}}
+*{{TCW|Assassin (episode)|Assassin}} {{Mo}}
+*{{TCW|Overlords}} {{Ghost}}
+*{{TCW|Ghosts of Mortis}} {{Ghost}}
+*{{TCW|Brothers}} {{Imo}}
+*{{TCW|Revenge (episode)|Revenge}} {{Mo}}
+*{{TCW|Revival}} {{C|Mentioned only in Deleted scenes}}
+*{{TCW|Voices}} {{Voice}}
+*{{TCW|Destiny (episode)|Destiny}} {{Vision|[[Yoda]]}}
+*{{TCW|Sacrifice}} {{Mo}}
+*{{TCW|A Death on Utapau}} {{Mo}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{Mo}}
+*''[[Ahsoka (novel)|Ahsoka]]'' {{Voice}}
+*''[[Star Wars 7: From the Journals of Old Ben Kenobi: The Last of His Breed|Star Wars 7: From the Journals of Old Ben Kenobi: "The Last of His Breed"]]'' {{Mo}}
+*''[[Star Wars 15: From the Journals of Old Ben Kenobi]]'' {{Mo}}
+*''[[Star Wars 20: From the Journals of Old Ben Kenobi]]'' {{Mo}}
+*''[[The Secret Jedi: The Adventures of Kanan Jarrus: Rebel Leader]]'' {{Mo}}
+*''[[Thrawn: Alliances]]'' {{Mo}}
+*{{Rebels|A World Between Worlds}} {{Voice}}
+*[[Star Wars (LINE Webtoon)|''Star Wars'' LINE Webtoon]] {{Flash}}
+*{{Shortstory|story=Master and Apprentice (short story)|sformatted=Master and Apprentice|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*{{Shortstory|story=Time of Death|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Voice}}
+*{{Shortstory|story=There is Another|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Mo}}
+*''[[Star Wars 14: Vader Down, Part V]]'' {{Voice}}
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]] {{Mo}}
+*{{IDWAdventuresCite|Ashcan|}} {{Flash}}
+}}
+
+===Non-canon appearances===
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+*''[[Star Wars: Galaxy of Heroes]]''
+*''[[LEGO Star Wars: Droid Tales Episodes I-III]]'' {{Flash}}
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+{{Scroll box|content=
+*{{SW|url=films/star-wars-episode-i-the-phantom-menace|text=''Star Wars Episode I: The Phantom Menace''}}
+*{{SW|url=films/star-wars-episode-iii-revenge-of-the-sith|text=''Star Wars Episode III: Revenge of the Sith''}}
+*{{SW|url=tv-shows/clone-wars/overlords|text="Overlords" Episode Guide}}
+*{{SW|url=tv-shows/clone-wars/ghosts-of-mortis|text="Ghosts of Mortis" Episode Guide}}
+*{{SW|url=tv-shows/clone-wars/voices|text="Voices" Episode Guide}}
+*{{SW|url=tv-shows/clone-wars/sacrifice|text="Sacrifice" Episode Guide}}
+*{{SW|url=news/interview-dave-filoni-on-star-wars-the-clone-wars-season-five-part-2|text="Interview: Dave Filoni on ''Star Wars: The Clone Wars'' Season Five Part 2"}}
+*{{SW|url=news/e-mails-between-master-padawan-about-ahsokas-decision|text="E-mails Between Master and Padawan About Ahsoka's Decision"}}
+*{{SW|url=news/dave-filoni-on-the-lost-missions-yoda-arc|text="Dave Filoni on The Lost Missions Yoda Arc"}}
+*{{SW|url=video/jedi-reflexes|text="Jedi Reflexes" (video)}}
+*{{SW|url=video/a-game-of-chance|text="A Game of Chance" (video)}}
+*{{SW|url=video/duel-on-tatooine|text="Duel on Tatooine" (video)}}
+*{{SW|url=video/the-rogue-master|text="The Rogue Master" (video)}}
+*{{SW|url=video/duel-into-the-core|text="Duel Into the Core" (video)}}
+*{{SW|url=video/reactor-core-duel|text="Reactor Core Duel" (video)}}
+*{{SW|url=video/obi-wan-fights-darth-maul|text="Obi-Wan Fights Darth Maul" (video)}}
+*{{SW|url=video/qui-gon-s-spirit-visits-obi-wan|text="Qui-Gon's Spirit Visits Obi-Wan" (video)}}
+*{{SW|url=video/qui-gon-s-spirit-visits-anakin|text="Qui-Gon's Spirit Visits Anakin" (video)}}
+*{{SW|url=video/casting-director|text="Casting Director" (video)}}
+*{{SW|url=video/overlords-episode-featurette|text="Overlords" Episode Featurette (video)}}
+*{{SWE|character|padmeamidala|Padmé Amidala}}
+*{{SWE|character|siobibble|Sio Bibble}} {{Imo}}
+*{{SWE|character|jarjarbinks|Jar Jar Binks}}
+*{{SWE|character|c3po|C-3PO}}
+*{{SWE|character|dooku|Count Dooku}}
+*{{SWE|locations|force-planet|Force planet}}
+*{{SWE|character|adigallia|Adi Gallia}}
+*{{SWE|technology|jedibreathingdevice|Jedi breathing device}}
+*{{SWE|character|quigonjinn|Qui-Gon Jinn}}
+*{{SWE|character|obiwankenobi|Obi-Wan Kenobi}}
+*{{SWE|character|kiadimundi|Ki-Adi-Mundi}}
+*{{SWE|character|eethkoth|Eeth Koth}}
+*{{SWE|character|darthmaul|Darth Maul}}
+*{{SWE|locations|mosespagrandarena|Mos Espa Grand Arena}}
+*{{SWE|locations|naboo|Naboo}} {{Imo}}
+*{{SWE|technology|nabooroyalstarship|Naboo Royal Starship}}
+*{{SWE|locations|otohgunga|Otoh Gunga}}
+*{{SWE|character|captainpanaka|Captain Panaka}}
+*{{SWE|character|palpatine|Palpatine}}
+*{{SWE|groups|podracerpilots|Podracer Pilots}}
+*{{SWE|character|r2d2|R2-D2}}
+*{{SWE|technology|republicdiplomaticcruiser|Republic Cruiser}}
+*{{SWE|character|darthsidious|Darth Sidious}}
+*{{SWE|technology|sithprobedroid|Sith probe droid}}
+*{{SWE|character|anakinskywalker|Anakin Skywalker}}
+*{{SWE|technology|anakinpodracer|Anakin Skywalker's Podracer}}
+*{{SWE|character|shmiskywalker|Shmi Skywalker}}
+*{{SWE|technology|sithinfiltrator|Sith Infiltrator}} {{Imo}}
+*{{SWE|technology|sithspeeder|Sith Speeder}}
+*{{SWE|character|tarpals|Tarpals}} {{Imo}}
+*{{SWE|locations|tatooine|Tatooine}} {{Imo}}
+*{{SWE|character|saeseetiin|Saesee Tiin}}
+*{{SWE|character|valorum|Supreme Chancellor Valorum}} {{Imo}}
+*{{SWE|character|quinlanvos|Quinlan Vos}}
+*{{SWE|character|watto|Watto}}
+*{{SWE|character|macewindu|Mace Windu}}
+*{{SWE|character|yoda|Yoda}}
+*{{InsiderCite|150|Insider Looks Back}}
+*''[[Ultimate Star Wars]]''
+*[[Star Wars: The Story of Darth Vader (2015)|''Star Wars: The Story of Darth Vader'']]
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Ships of the Galaxy]]''
+*''[[Star Wars: I Am a Jedi]]'' {{Po}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Aliens of the Galaxy]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Princess Leia: Royal Rebel]]''
+*''[[Darth Vader: Sith Lord]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Lightsaber Battles]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{ForceCollection|Captain Typho|star=1}}
+*{{Databank|adi-gallia|Adi Gallia|archivedate=20170706043936}}
+*{{Databank|anakin-skywalker|Anakin Skywalker|archivedate=20170706054025}}
+*{{Databank|cave-of-evil|Cave of Evil|archivedate=20170504100309}}
+*{{Databank|darth-mauls-lightsaber|Darth Maul's Lightsaber|archivedate=20170815093800}}
+*{{Databank|eeth-koth|Eeth Koth|archivedate=20170706052456}}
+*{{Databank|eopie|Eopie|archivedate=20170905123153}} {{Po}}
+*{{Databank|jar-jar-binks|Jar Jar Binks}}
+*{{Databank|ki-adi-mundi|Ki-Adi-Mundi}}
+*{{Databank|mace-windu|Mace Windu}}
+*{{Databank|obi-wan-kenobi|Obi-Wan Kenobi|archivedate=20170625182018}}
+*{{Databank|padme-amidala|Padmé Amidala}}
+*{{Databank|qui-gon-jinn|Qui-Gon Jinn}}
+*{{Databank|saesee-tiin|Saesee Tiin}}
+*{{Databank|sith|Sith}}
+*{{Databank|sith-probe-droid|Sith Probe Droid}} {{Imo}}
+*{{Databank|sith-speeder|Sith Speeder}}
+*{{Databank|Watto|Watto|archivedate=20140715092325}}
+*{{Databank|yarael-poof|Yarael Poof|archivedate=20151124234837}}
+*{{Databank|yoda|Yoda|archivedate=20140703043000}}}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{WP}}
+
+{{Interlang
+|bg=Куай-Гон Джин
+|cs=Qui-Gon Jinn
+|da=Qui-Gon Jinn‎
+|de=Qui-Gon Jinn
+|es=Qui-Gon Jinn
+|fr=Qui-Gon Jinn
+|hr=Qui-Gon Jinn
+|hu=Qui-Gon Jinn
+|it=Qui-Gon Jinn
+|ja=クワイ＝ガン・ジン
+|ka=კუაი-გონ ჯინი
+|ko=콰이곤 진
+|nl=Qui-Gon Jinn
+|no=Qui-Gon Jinn
+|pl=Qui-Gon Jinn
+|pt=Qui-Gon Jinn
+|ro=Qui-Gon Jinn
+|ru=Квай-Гон Джинн/Канон
+|sv=Qui-Gon Jinn
+|tr=Qui-Gon Jinn
+|uk=Квай-Ґон Джин
+|zh=魁剛·金
+|plFA=
+|deGA=1
+}}
+
+{{DEFAULTSORT:Jinn, Qui-Gon}}
+[[Category:Coruscanti]]
+[[Category:Force ghosts]]
+[[Category:Humans]]
+[[Category:Jedi Masters]]
+[[Category:Males]]
+[[Category:Pilots]]

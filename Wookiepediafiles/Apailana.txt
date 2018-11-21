@@ -1,0 +1,67 @@
+{{Eras|notoc=1}}
+{{Character
+|type=Bureaucrat
+|image=[[File:Apailana-large.jpg]]
+|name=Apailana
+|homeworld=[[Naboo]]<ref name="DB">{{Databank|queen-apailana|Queen Apailana}}</ref>
+|birth=[[31 BBY|31]]-[[32 BBY]]<ref name="ECUC">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|death=
+|species=[[Human]] {{C|[[Naboo (people)|Naboo]]}}<ref name="DB" />
+|gender=[[Sexes|Female]]<ref name="DB" />
+|height=1.57 [[meter]]s<ref name="ECUC" />
+|mass=
+|hair=
+|eyes=[[Color|Brown]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|skin=Light<ref name="ECUC" />
+|cyber=
+|era=
+|affiliation=*[[Royal House of Naboo]]<ref name="DB" />
+*[[Galactic Republic]]<ref name="Episode III" />
+*[[Galactic Empire]]<ref name="Episode III" />
+|masters=
+|apprentices=}}
+'''Apailana''' was a [[human]] [[Sexes|female]] [[Monarchy|monarch]] who served as the [[Monarch of Naboo|Queen]] of [[Naboo]] during the final [[Standard day|days]] of the [[Clone Wars]] and the early days of the [[Galactic Empire]].<ref name="Episode III" /> She was one of the youngest rulers to be [[Politics|elected]] by [[Naboo (people)|the Naboo]], succeeding [[Neeyutnee]] at the age of twelve.<ref name="ECUC" />
+
+Shortly after the Clone Wars, the young [[queen]] attended the [[Funeral of Padmé Amidala|funeral]] of [[Senator]] [[Padmé Amidala]],<ref name="Episode III" /> who had supported Apailana's election as the new monarch. However, she did not believe the official story of Amidala's [[Death|demise]], which claimed that rogue [[Jedi]] had [[assassin]]ated the senator.<ref name="ECUC" />
+
+==Personality and traits==
+Apailana measured 1.57 [[meter]]s and had [[Color|brown]] [[eye]]s and light skin.<ref name="ECUC" /> During Amidala's funeral, she wore a headdress and put on makeup and like other queens, a [[scar of remembrance]].<ref name="Episode III" />
+
+==Behind the scenes==
+Apailana was portrayed by the [[wikipedia:Academy Award|Oscar]]-nominated [[Wikipedia:New Zealander|New Zealander]] actress [[Keisha Castle-Hughes]].<ref name="Episode III" /> Castle-Hughes spent seven hours in make-up for her role in Episode III and filmed her scene in only one day.<ref name="IMDBBio">{{Imdb|url=name/nm1095720/bio|text=Keisha Castle-Hughes &ndash; Biography}}</ref>
+
+==Appearances==
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}}
+
+==Sources==
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{Databank|naboo|Naboo}} {{Po}}
+*{{Databank|queen-apailana|Queen Apailana}} {{1stID}}
+
+{{Start_box}}
+{{Succession_box
+|title=[[Monarch of Naboo|Queen]] of [[Naboo]]<ref name="Episode III" />
+|years=[[Wikipedia:Floruit|fl.]] [[19 BBY]]<ref name="Episode III" />
+|before=Queen [[Neeyutnee]]<ref name="DB Neeyu">{{Databank|queen-neeyutnee|Queen Neeyutnee}}</ref>
+|before-years=
+|after=Eventually, Queen [[Dalné]]<ref name="Leia">''[[Leia, Princess of Alderaan]]''</ref>
+|after-years=}}
+{{End_box}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Apailana
+|pl=Apailana
+|ru=Апайлана/Канон
+|ja=アパイラナ
+|es=Apailana
+}}
+
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Monarchs of Naboo]]

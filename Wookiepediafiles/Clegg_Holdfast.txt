@@ -1,0 +1,51 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Clegg Holdfast.png]]
+|name=Clegg Holdfast
+|homeworld=[[New Plympto]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Nosaurian]]<ref name="Ultimate Star Wars" />
+|gender=[[Sexes|Male]]<ref name="ThePhantomMenace">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|height=1.52 [[meter]]s<ref name="Clegg Holdfast">{{Databank|clegg-holdfast|Clegg Holdfast|archivedate=20161216125819}}</ref>
+|mass=
+|hair=
+|eyes=[[Color|Red]]<ref name="ThePhantomMenace" />
+|skin=Orange,<ref name="ThePhantomMenace" /> white,<ref name="ThePhantomMenace" /> yellow<ref name="ThePhantomMenace" />
+|cyber=
+|era=
+|affiliation=''[[Podracing Quarterly]]''<ref name="Ultimate Star Wars" />
+|masters=
+|apprentices=}}
+{{Quote|A hearty hello to Clegg Holdfast, and his Volvec KT9 ''Wasp''.|Fode|Star Wars: Episode I The Phantom Menace}}
+'''Clegg Holdfast''' was a [[Sexes|male]] [[Nosaurian]] [[journalist]] for ''[[Podracing Quarterly]]''<ref name="Ultimate Star Wars" /> and [[Podracer (profession)|Podracer]] [[pilot]] who participated in the [[Boonta Eve Classic]], which took place during the [[Invasion of Naboo]]. Holdfast piloted a [[Voltec]] [[KT9 Wasp|KT9 ''Wasp'']] [[Podracer]] and started the race from the front row.<ref name="ThePhantomMenace" />
+
+{{Char-stub}}
+
+==Behind the scenes==
+Clegg Holdfast was created for the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']], although he first appeared in the [[Star Wars Legends]] [[Star Wars: Episode I The Phantom Menace (novelization)|novelization of the film]]. In the theatrical release of the film, Holdfast was only seen fleetingly in the cockpit of his Podracer. For the DVD release, new footage was created showcasing Holdfast on the starting grid and having his Podracer destroyed by the rival pilot Sebulba. In early concept art by [[Terryl Whitlatch]], Holdfast was depicted as being covered in fur, a trait he did not possess in the final film. An action figure of Holdfast was later released by [[Hasbro Inc.|Hasbro]] in [[2009]]. The figure came with removable goggles and a [[blaster pistol]]. He was later rereleased in a multi-pack which contained several other Podracer pilots. Along with his blaster and goggles being included in the pack, Holdfast was also given a flag, a base on which to stand on, and a trading card.
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+
+==Sources==
+*{{InsiderCite|151|Star Wars Prequels Unseen!, Part 4}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|clegg-holdfast|Clegg Holdfast|archivedate=20161216125819}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Clegg Holdfast
+|es=Clegg Holdfast
+}}
+
+{{DEFAULTSORT:Holdfast, Clegg}}
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Nosaurians]]
+[[Category:Podracers]]

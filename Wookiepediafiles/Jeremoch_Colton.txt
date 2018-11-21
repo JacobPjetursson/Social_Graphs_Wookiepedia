@@ -1,0 +1,70 @@
+{{Eras|imp|canon=Colton (Alderaan)}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Colton.jpg]]
+|name=Jeremoch Colton
+|homeworld=[[Alderaan/Legends|Alderaan]]
+|birth=
+|death=[[0 BBY/Legends|0 BBY]]<ref name="Galactic Files">''[[Star Wars: Galactic Files Series 2]]'' {{C|Card: Captain Colton (Diplomatic Cruiser))}}</ref>
+|species=[[Human/Legends|Human]]
+|gender=[[Sexes/Legends|Male]]
+|height=
+|mass=
+|hair=Blond
+|eyes=Blue
+|skin=
+|cyber=
+|era=[[Rise of the Empire era]]
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]
+*[[Royal Alderaan Civil Fleet]]
+|masters=
+|apprentices=}}
+{{Quote|We are receiving a message from the Chancellor's office, sir.|Jeremoch Colton|Star Wars: Episode III Revenge of the Sith}}
+'''Jeremoch Colton''' was a [[Human/Legends|Human]] [[Sexes/Legends|male]] who served as the [[Pilot/Legends|pilot]] of the ''[[Sundered Heart]]'' during the [[Clone Wars/Legends|Clone Wars]], and had a long record of service in the [[House of Organa/Legends|Royal House of Alderaan]]. He wore the same uniform as the rest of the ''Sundered Heart'' crew, and he had blond hair and blue eyes. He is not to be confused with [[Captain/Legends|Captain]] [[Raymus Antilles/Legends|Raymus Antilles]], who had overall command of ''Sundered Heart'' and considered Colton to be his mentor.<ref name="EAWGG">''[[Star Wars: Empire at War: Prima Official Game Guide]]''</ref>
+
+==Biography==
+Colton had a long career as a pilot of the [[House of Organa/Legends|Royal House of Alderaan]]. At the end of the [[Clone Wars/Legends|Clone Wars]], he served under [[Captain/Legends|Captain]] [[Raymus Antilles/Legends|Raymus Antilles]] on board the ''[[Sundered Heart]]'' during its return to [[Coruscant/Legends|Coruscant]] after [[Bail Prestor Organa|Bail Organa]] rescued [[Yoda/Legends|Yoda]] and [[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]] during the execution of [[Order 66/Legends|Order 66]].
+
+Colton was among the crew aboard the ''Sundered Heart'' when Bail Organa, Yoda, and Obi-Wan Kenobi went on the search for surviving [[Jedi/Legends|Jedi]]. He answered the call of [[Mas Amedda/Legends|Mas Amedda]] when Bail Organa's presence in the Senate was asked by [[Emperor]] [[Palpatine/Legends|Palpatine]]. Having learned the tricks of the trade, Colton planned to retire from active service and decided to teach at the [[University of Alderaan/Legends|University of Alderaan]] until it was destroyed [[Standard year/Legends|years]] later during the [[Galactic Civil War/Legends|Galactic Civil War]].<ref name="EAWGG" /> Presumably Colton was among the victims of Alderaan's destruction.<ref name="Galactic Files" />
+
+==Behind the scenes==
+Jeremoch Colton was played by [[Jeremy Bulloch]], the same actor who portrayed [[Boba Fett/Legends|Boba Fett]] in the [[original trilogy]]. "Jeremoch" is an obvious portmanteau of his name.
+
+The name Colton Antilles is given for Raymus Antilles in some sources, leading some fans to believe that the Captain Antilles in ''[[Star Wars: Episode IV A New Hope|A New Hope]]'' is a separate character named Colton Antilles, possibly named after the Captain Colton in ''[[Star Wars: Episode III Revenge of the Sith|Revenge of the Sith]]''. However, [[Leland Chee]] has confirmed that both Captains Antilles are meant to be the same person.<ref>[http://forums.starwars.com/thread.jspa?threadID=222689&start=1395 Leland Chee on the StarWars.com Message Boards]</ref><ref>[http://forums.starwars.com/thread.jspa?threadID=222689&start=1185 Leland Chee on the StarWars.com Message Boards]</ref>
+
+==Appearances==
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}}
+*[[Star Wars Episode IV: A New Hope (novel)|''Star Wars Episode IV: A New Hope'' novel]] {{1stm}} <!--C-3PO mentions his last master, "Captain Colton"-->
+
+==Sources==
+*''[[A Guide to the Star Wars Universe]]'' {{C|As "Captain Colton"}}
+*[[A Guide to the Star Wars Universe (Second Edition)|''A Guide to the Star Wars Universe'', Second Edition]]
+*''[[The Essential Guide to Characters]]''
+*''[[Star Wars Chronicles: The Prequels]]''
+*''[[Star Wars: Empire at War: Prima Official Game Guide]]''
+*{{InsiderCite|90|Refresher Reading}} {{1stID|Jeremoch}}
+*''[[Star Wars: Empire at War: Forces of Corruption: Prima Official Game Guide]]''
+*''[[The Complete Star Wars Encyclopedia]]''
+*{{SW|url=news/the-droids-re-animated-part-1|int=The Droids Re-Animated|text=The Droids Re-Animated, Part 1|archivedate=20170705200306}}
+*{{Topps|set=Star Wars: Galactic Files Series 2|cardname=Captain Colton (Diplomatic Cruiser)}}
+*{{SWE|characters|captainantilles|Captain Antilles}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWArchive|url=episode-iii/explore/sithsnap/2005/08/sithsnap20050825.html|text=Colton's Orders}}
+
+{{Interlang
+|de=Jeremoch Colton#legends
+|nl=Jeremoch Colton
+|pl=Jeremoch Colton
+|ru=Джеремок Колтон
+}}
+
+{{DEFAULTSORT:Colton, Jeremoch}}
+[[Category:Alderaanians]]
+[[Category:Educators]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Pilots]]

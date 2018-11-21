@@ -1,0 +1,87 @@
+{{Eras}}
+{{Character
+|type=Galactic Empire
+|image=[[File:LorthNeedaESB.jpg]]
+|name=Lorth Needa
+|homeworld=[[Coruscant]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[3 ABY]], ''[[Executor]]''<ref name="ESB">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+|species=[[Human]]<ref name="SWE">{{SWE|characters|captain-needa|Captain Needa}}</ref>
+|gender=[[Sexes|Male]]<ref name="SWE" />
+|height=1.75 [[meter]]s<ref name="SWE" />
+|mass=
+|hair=[[Color|Brown]]<ref name="ESB" />
+|eyes=Gray<ref name="ESB" />
+|skin=Light<ref name="ESB" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Ultimate Star Wars" />
+**[[Republic Navy]]<ref name="Ultimate Star Wars" />
+*[[Galactic Empire]]<ref name="ESB" />
+**[[Death Squadron]]<ref name="ESB" />
+**[[Imperial Officer Corps]]<ref name="ESB" />
+|masters=
+|apprentices=}}
+{{Quote|Apology accepted, Captain Needa.|Darth Vader, after killing Needa for losing the ''Millennium Falcon''|Star Wars: Episode V The Empire Strikes Back}}
+'''Lorth Needa''' was a [[human]] [[Sexes|male]] who served as a [[Lieutenant Commander|lieutenant commander]] of a [[Carrack-class light cruiser|''Carrack''-class light cruiser]], and later [[captain]] of the [[Imperial-class Star Destroyer|Imperial Star Destroyer]] ''[[Avenger]]'', a [[Starship|ship]] assigned to the [[Sith Lord]] [[Anakin Skywalker|Darth Vader's]] [[Death Squadron]], during the [[Battle of Hoth]]. In the midst of the battle, Needa successfully engaged several fleeing [[Alliance to Restore the Republic|Rebel]] [[Starship|transports]], but it was his pursuit of one&mdash;Captain [[Han Solo]]'s ''[[Millennium Falcon]]''&mdash;that sealed his fate. After a lengthy chase, the ''Avenger'' had the ''Falcon'' in its sights before Solo suddenly changed course and charged the Star Destroyer's bridge, only to disappear from its [[sensor]]s. Not knowing how the ''Falcon'' could have eluded him, Needa decided to take responsibility for the situation and personally apologize to Vader, who killed him as punishment for losing the ship.
+
+==Biography==
+===The Clone Wars===
+A [[human]] [[Sexes|male]] hailing from [[Coruscant]], Lorth Needa served in the [[Republic Navy|navy]] of the [[Galactic Republic]] during the [[Clone Wars]]. Needa took part in the [[Battle of Coruscant]], in which [[Confederacy of Independent Systems|Separatist]] [[General]] [[Grievous]] attacked the [[planet]] with a massive [[Separatist navy|armada]] and kidnapped [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]]. The Chancellor was rescued by [[Jedi Knight]]s [[Obi-Wan Kenobi]] and [[Anakin Skywalker]], who boarded Grievous' [[flagship]], the ''[[Invisible Hand]]''.<ref name="Ultimate Star Wars" />
+
+===Imperial Era===
+{{Quote|Shields up.|Captain Needa, after seeing the ''Millennium Falcon'' move to attack the ''Avenger''|Star Wars: Episode V The Empire Strikes Back}}
+After the Clone Wars came to an end, Needa served in the [[Galactic Empire]]'s [[Imperial Navy|Navy]] as an [[Imperial officer|officer]], serving as a [[Lieutenant Commander|lieutenant commander]] aboard a [[Carrack-class light cruiser|''Carrack''-class light cruiser]].<ref name="SWFC">''[[Star Wars: Force Collection]]''</ref>
+
+Later, he was in command of the [[Imperial-class Star Destroyer|Star Destroyer]] ''[[Avenger]]''<ref name="SWE" /> in [[Death Squadron]], a task force of the Imperial Navy under the command of the [[Sith Lord]] [[Darth]] Vader.<ref name="SD-SWE">{{SWE|technology|imperialstardestroyer|Imperial Star Destroyer}}</ref> In the aftermath of the [[Battle of Yavin|Battle]] of [[Yavin]], Death [[Squadron]] was responsible for tracking down the [[Echo Base|hidden headquarters]] of the [[Alliance to Restore the Republic|Rebel Alliance]], an insurgent faction at [[Galactic Civil War|war]] with the Galactic Empire for control of [[the galaxy]]. After discovering a Rebel base on the [[planet]] [[Hoth]], Death Squadron launched an [[Battle of Hoth|assault]] on the Rebel forces gathered there. During the fighting, which culminated in a resounding victory for the Empire,<ref name="ESB" /> Needa and the ''Avenger'' engaged several Rebel [[Starship|ships]] in battle as they attempted to flee from the [[Imperial Military|Imperial forces]].<ref name="SWE" />
+
+Among the Rebel vessels that found itself in Needa's sights was the ''[[Millennium Falcon]]'', a [[freighter]] owned by Rebel sympathizer [[Han Solo]]. Solo, along with his co-[[pilot]] [[Chewbacca]] and the Rebel leader [[Prince]]ss [[Leia Organa]], had fled from Imperial forces on Hoth, but with the ''Falcon''{{'s}} [[hyperdrive]] non-operational, they were unable to make the jump to [[hyperspace]] and escape from the [[Star Destroyer]]s in [[orbit]]. Needa and the ''Avenger'' closed in on the ''Falcon'', but Solo outmaneuvered his pursuers, causing the ''Avenger'' to nearly collide with two other [[Star Destroyer]]s. Solo and company took refuge in a nearby [[asteroid]] [[Hoth asteroid belt|field]], whereupon the Empire lost track of them for a [[time]]. Via [[hologram]], Needa informed Darth Vader that the ''Falcon'' had likely been destroyed in the asteroid field, but the [[Sith]] Lord suspected otherwise and ordered the search to continue.<ref name="ESB" />
+
+[[File:YouHaveToBeKidding-ESB.jpg|thumb|left|250px|Lorth Needa on the bridge of the ''Avenger'' during the pursuit of the ''Millennium Falcon'']]
+Sure enough, the ''Falcon'' had not been destroyed; after the freighter emerged from the asteroid field, the ''Avenger'' resumed its pursuit. With Vader informed of this development, Needa prepared to capture the elusive freighter, but Solo abruptly altered course and flew directly toward the ''Avenger''{{'s}} [[Bridge (starship)|bridge]]; a move Needa interpreted to be an attack run. He ordered the Star Destroyer to raise its [[Deflector shield|shields]], but the ''Falcon'' merely skimmed the surface of the command tower before disappearing from the [[warship]]'s [[sensor]]s. An incredulous Needa could not comprehend how the ''Falcon'' could have disappeared, since it was too small to have a functional [[cloaking device]]&mdash;unbeknown to the Imperials, Solo had merely attached his freighter to the rear of the ''Avenger''{{'s}} bridge tower.<ref name="ESB" />
+
+[[File:WorstSoreThroatEver-ESB.jpg|thumb|right|250px|Needa was telekinetically strangled to death by Darth Vader.]]
+Nevertheless, when Vader demanded an update on the ''Avenger''{{'s}} progress, Needa decided to travel to the [[Executor-class Star Dreadnought|Super Star Destroyer]] ''[[Executor]]'' to personally apologize to the Sith Lord for losing track of his quarry. Needa did just that, whereupon the Sith Lord [[Force choke|telekinetically strangled]] the [[captain]] to [[death]] as penalty for his failure. Vader mockingly accepted Needa's apology before a pair of [[Imperial Navy Trooper]]s dragged his lifeless body away.<ref name="ESB" />
+
+==Personality and traits==
+Standing 1.75 [[meter]]s tall, Captain Lorth Needa was a capable Star Destroyer commander within Darth Vader's fleet. Though he feared the Sith Lord, Needa decided to personally apologize to Vader after failing to capture the ''Millennium Falcon'' in the aftermath of the Hoth campaign.<ref name="SWE" /> Vader "accepted" his apology, but Needa did not live to hear it.
+
+==Behind the scenes==
+Captain Needa was portrayed by [[Michael Culver]] in [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']], released in [[1980]].<ref name="ESB" />
+
+Before the [[Lucasfilm Story Group]] initiated a reboot of ''[[Star Wars]]'' [[canon]] in anticipation of the [[sequel trilogy]], the backstory of Captain Needa&mdash;his first name having been identified as "Lorth"&mdash;had been explored and developed in a number of sources, including the [[Star Wars: Episode III Revenge of the Sith (novelization)|novelization]] of [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']], in which he is a [[Galactic Republic|Republic]] naval officer present at the [[Battle of Coruscant]] (his scenes are not included in the film). The vast majority of this information has been relegated to the "[[Star Wars Legends|Legends]]" realm of ''Star Wars'' continuity; as such, this article reflects only information found within the new established canon, which includes the films and the [[StarWars.com]] [[Encyclopedia (StarWars.com)|Encyclopedia]].
+
+''[[Star Wars: Force Collection]]'' says that Needa once was 'only a Lieutenant Commander', and ''The Empire Strikes Back'' tells us that Needa was a Captain, despite ''[[Thrawn (novel)|Thrawn]]'' stating that a Captain is lower than [[Lieutenant Commander]]. This could hint, however, that perhaps Needa was demoted at some point before the events of ''Empire''.
+
+==Appearances==
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+
+==Sources==
+*{{SWE|characters|captain-needa|Captain Needa}}
+*{{SWE|characters|hansolo|Han Solo}}
+*''[[Ultimate Star Wars]]'' {{1stID|Lorth}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Force Collection]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|captain-needa|Captain Needa|archivedate=20170623060207}}
+*{{SW|url=Imperial-Star-Destroyer-Biography-gallery|text=Imperial Star Destroyer biography gallery}}; images #11, 12 {{C|of 15}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ko=로스 니다
+|pl=Lorth Needa
+|ru=Лорт Нида/Канон
+}}
+
+{{DEFAULTSORT:Needa, Lorth}}
+[[Category:Coruscanti]]
+[[Category:Death Squadron personnel]]
+[[Category:Humans]]
+[[Category:Imperial Navy captains of the Galactic Empire]]
+[[Category:Males]]
+[[Category:Republic Navy personnel]]

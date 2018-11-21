@@ -1,0 +1,73 @@
+{{Eras}}
+{{Update|[[Ultimate Star Wars]]}}
+{{Character
+|type=
+|image=[[File:Oola2.jpg]]
+|name=Oola
+|homeworld=[[Ryloth]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[4 ABY]], [[Tatooine]]<ref name="RotJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|species=[[Twi'lek]]<ref name="RotJ" />
+|gender=[[Sexes|Female]]<ref name="RotJ" />
+|height=1.6 [[meter]]s<ref name="Databank">{{Databank|oola|Oola}}</ref>
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="RotJ" />
+|skin=Green<ref name="RotJ" />
+|cyber=
+|era=
+|affiliation=[[Jabba Desilijic Tiure's criminal empire]]<ref name="RotJ" />
+|masters=
+|apprentices=}}
+'''Oola''' was a green [[Twi'lek]] [[Slavery|slave]] dancer in [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]]'s palace. Shortly before a disguised [[Leia Organa]] arrived with a seemingly captured [[Wookiee]] named [[Chewbacca]], Oola performed a dance for Jabba. Enraptured, Jabba attempted to pull Oola closer to him. She struggled, and Jabba dropped her through a trapdoor, where she was eaten by his pet [[Rancor|rancor.]]
+
+==Biography==
+[[Reproduction|Born]] to a clan chieftain on her [[species]]' [[homeworld]] of [[Ryloth]], Oola was a green-skinned [[Sexes|female]] [[Twi'lek]]. She devoted herself to dancing, and was trained at a celebrated school. When given the opportunity to choose between two careers, Oola decided to take her chance on [[Tatooine]],<ref name="Card Trader">[[Star Wars: Card Trader|''Star Wars'': Card Trader]]</ref> a [[desert]] planet controlled by the [[Hutt]]s.<ref name="TPM">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+
+Around the time of the [[Battle of Endor]], Oola served as the slave girl of the Hutt [[crime lord]] [[Jabba Desilijic Tiure]] in his Tatooinian [[Jabba's Palace|palace]]. She was forced to wear skimpy fishnet garments that did little to provide her modesty and wore a collar and chain around her neck.<ref name="RotJ" />
+
+Oola made her final dance shortly before the arrival of Leia Organa and Chewbacca, to the music of the [[Max Rebo Band]]. When Jabba began pressing the Twi'lek slave for more than just dance, Oola pulled on her chain in defiance, arguing against Jabba. In retaliation, Jabba lured her with the chain over the trapdoor beneath his dais, watching as she fell into the [[Rancor]] pit. Oola was unable to defend herself as she was eaten alive by Jabba's carnivorous pet, and her screams echoed throughout the palace.<ref name="RotJ" />
+
+==Behind the scenes==
+Oola was portrayed by [[Femi Taylor]] in [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] (in both the original release and in additional scenes filmed later for the [[1997]] [[The Star Wars Trilogy Special Edition|Special Edition]]). Remarkably, Taylor looked almost unchanged after 14 years, allowing for a close up of her looking in terror at the rancor.
+
+According to Femi Taylor in a [[TheForce.net]] interview, during the early development of ''Return of the Jedi'', Oola was meant to have a major part in the scenes at [[Jabba's Palace]] because her fate was not to be eaten by [[Pateesa]]. Instead, Oola was to survive and escape from Jabba's Palace. Although director [[Richard Marquand]] storyboarded the sequence of Oola's escape, it was cut due budget constraints, so the character's role was considerably reduced as well her fate.<ref>TheForce.net. [http://theforce.net/jedicouncil/interview/femitaylor.asp TheForce.net - Jedi Council - Interviews - Cellblock 1138 - Femi Taylor]. Retrieved on [[November 18]], [[2017]].</ref>
+
+==Appearances==
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*''[[The Legends of Luke Skywalker]]''
+
+==Sources==
+*{{SW|url=news/die-wanna-wanga-encounters-of-the-twilek-kind|text=Die Wana Wanga: Encounters of the Twi'lek Kind}} {{1stID}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*{{SW|url=news/force-of-fashion-the-best-of-twilek-head-gear|text=Force of Fashinon: The Best of Twi'lek Head Gear}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|oola|Oola}}
+*{{Databank|yarna-d-al-gargan|Yarna d'al' Gargan|archivedate=20150902090139}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Oola#kanon
+|es=Oola
+|fr=Oola
+|ja=ウーラ
+|ka=ულა
+|ko=울라
+|pl=
+|ru=Ула/Канон
+}}
+
+[[Category:Females]]
+[[Category:Jabba's dancers]]
+[[Category:Performing artists]]
+[[Category:Slaves]]
+[[Category:Twi'leks]]

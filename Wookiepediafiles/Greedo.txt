@@ -1,0 +1,123 @@
+{{Eras}}
+{{Update|[[Star Wars 28: Yoda's Secret War, Part III]], [[The Luckless Rodian]]}}
+{{Character
+|type=Bounty hunter
+|image=[[File:Greedo.jpg]]
+|name=Greedo
+|homeworld=*[[Rodia]]<ref name="USW">''[[Ultimate Star Wars]]''</ref>
+*[[Tatooine]]<ref name="SWEGreedo">{{SWE|characters|greedo|Greedo}}</ref>
+|birth=
+|death=[[0 BBY]], [[Chalmun's Cantina]], Tatooine<ref name="ANH">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref>
+|species=[[Rodian]]<ref name="SWEGreedo" />
+|gender=[[Sexes|Male]]<ref name="SWEGreedo" />
+|height=1.74 meters<ref name="SWEGreedo" />
+|mass=
+|hair=
+|eyes=[[Color|Purple]]<ref name="SOI">{{TCW|Sphere of Influence}}</ref>
+|skin=Green<ref name="ANH" />
+|cyber=
+|era=
+|affiliation=*[[Trade Federation]]<ref name="SOI" />
+*[[Jabba Desilijic Tiure's criminal empire]]<ref name="ANH" />
+|masters=
+|apprentices=}}
+{{Quotetrans|Going somewhere, Solo?|Greedo, to Han Solo|audio=Greedo ANH.ogg|The Sounds of Star Wars}}
+'''Greedo''' was a [[Sexes|male]] [[Rodian]] [[bounty hunter]] who grew up on [[Tatooine]] in [[Mos Espa]]. During the [[Clone Wars]], he was hired by the [[Trade Federation]] to kidnap [[Chi Eekway Papanoida]] and [[Che Amanwe Papanoida]], the daughters of [[Chairman]] [[Papanoida]], but was forced by the chairman to lead him and his son [[Ion Papanoida|Ion]] to them. He was occasionally hired by crimelord [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]] for various mercenary jobs, including the capture of [[Han Solo]], who killed the luckless Rodian.
+
+==Biography==
+===Early life===
+[[File:GreedoTheElderTPM.jpg|thumb|left|197px|Greedo]]
+Originally [[Homeworld|hailing]] from the [[swamp]] [[planet]] of [[Rodia]],<ref name="USW" /> during [[Sexes|his]] youth, Greedo relocated and lived on the [[desert]] planet of [[Tatooine]]. After the [[Slavery|slave]] boy [[Anakin Skywalker]] won the famous [[Boonta Eve Classic]], beating the renowned [[Dug]] [[Boonta Eve Classic Podracer pilot|racer]], [[Sebulba]]; Greedo jumped to the conclusion that he had cheated. Angered by the false accusation, Skywalker consequently found himself entangled in a fight with the young [[Rodian]]. [[Wald]] warned Greedo that if he continued to pick on fights, he would eventually have a bad end.<ref name="SWEGreedo" />
+
+===Criminal career===
+<div style="float:right">[[File:PapanoidaIonNabbed SoI.png|thumb|228x228px|Greedo and friends subdue Chairman Papanoida and his son Ion.]]</div>
+By the [[Clone Wars]], Greedo was employed to [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]] as a [[bounty hunter]]. At some point in the war, he and another [[Unidentified Gotal bounty hunter|mercenary]] were hired by the [[Trade Federation]] to [[Kidnapping of the Papanoida daughters|kidnap]] [[Chairman]] [[Papanoida]]'s daughters, [[Che Amanwe Papanoida|Che Amanwe]] and [[Chi Eekway Papanoida|Chi Eekway]], to use as leverage for [[Pantora]] to join the [[Confederacy of Independent Systems]]. In the ensuing struggle, Che struck Greedo with an idol, covering it with the Rodian's [[blood]]. After finding this blood sample while investigating his daughter's kidnapping, Chairman Papanoida and his son [[Ion Papanoida|Ion]] tracked the bounty hunter to [[Jabba's Palace]] and presented the evidence to Jabba and his son [[Rotta]]. Greedo was forced to bring the [[Pantoran]]s to the [[Chalmun's Cantina|cantina]] in [[Mos Eisley]] where Che was being held. In the ensuing [[Rescue in Chalmun's Cantina|firefight]], Greedo managed to slip away while the family gunned down the rest of Che's captors.<ref name="SOI" />
+
+Later, while continuing his work for Jabba, Greedo captured [[Figrin D'an]] of [[Figrin D'an and the Modal Nodes]] and delivered him to Jabba, after which D'an and his [[band]] entered into indentured servitude under Jabba, due to D'an being in heavy debt to him. During their [[time]] there, the group kept tabs on Greedo using their superior hearing abilities, seeing how he would bring in small-time criminals, help them to escape, then bringing them back to re-collect the [[bounty]]. At one point, they discovered Greedo bringing in one [[Unidentified Jawa prisoner|unfortunate]] [[Jawa]] three times. Upon gaining enough money to free themselves, the band told Jabba of these events, which made him furious. This resulted in a grudge between Greedo and the band.<ref name="notfornothing">{{Shortstory|story=Not for Nothing|book=From a Certain Point of View}}</ref>
+
+===Death===
+{{Quotetrans|That's the idea. I've been looking forward to this for a long time.|Greedo's last words|Star Wars: Episode IV A New Hope}}
+[[File:Greedos demise.png|thumb|left|237px|Greedo's death.]]
+Greedo hunted [[Han Solo]] for the bounty Jabba placed on his head after the [[smuggler]] dropped a large shipment of illicit cargo owned by the Hutt to avoid arrest. Greedo was humiliated briefly at the Mos Eisley cantina when he was tripped by a piece of the instrument used by a member of the Model Nodes. He decided to ignore the insult, seeing payback against Solo as sweeter than revenge on the Nodes.<ref name="ANH" /> Upon entering in [[cantina]], Greedo saw how [[Wuher]] ordered the droids [[C-3PO]] and [[R2-D2]] to get out. While the Rodian steeled himself mentally for the encounter, he thought about how his former lover [[Uncelta]] fell for Solo before this one broke her heart.<ref name="thelucklessrodian">{{Shortstory|story=The Luckless Rodian|book=From a Certain Point of View}}</ref> He challenged Solo at the Mos Eisley Cantina, where, threatening Solo with [[DT-12 heavy blaster pistol|his gun]], he demanded that he pay the money to Jabba and/or to Greedo himself; or hand over the ''[[Millennium Falcon]]''. When Solo replied that he would rather [[Death|die]] than give up his ship, Greedo said that was the idea before announcing that that was something he had been looking forward to for a long time. As Greedo pulled his trigger, Solo shot Greedo dead from beneath the table with his readily prepared [[Han's heavy blaster pistol|blaster]].<ref name="ANH" /> Greedo, being a poor shot, missed Solo completely<ref name="kloohorn">{{Shortstory|story=The Kloo Horn Cantina Caper|book=From a Certain Point of View}}</ref> and the last thing that Greedo ever saw was a flash of bright light with a memory of bitter injustice.<ref name="thelucklessrodian" /> He had not originally planned to confront Solo alone, but was forced to improvise. His original plan, to use the thugs [[Cornelius Evazan]] and [[Ponda Baba]] as hired muscle, was shattered when [[Obi-Wan Kenobi]] retaliated with his [[Obi-Wan Kenobi's lightsaber (Jedi Master)|lightsaber]] after they threatened [[Luke Skywalker]].<ref name="kloohorn" />
+
+==Personality and traits==
+As a boy, Greedo was noted for his temper and tendency to pick fights with others, which his friend Wald warned would lead to trouble.<ref name="SWEGreedo" /> In adulthood, Greedo was overconfident and slow on the uptake, and something of a poor shot with a [[blaster]].<ref name="ANH" /> He thought highly of himself as a "big time" bounty hunter due to his employment to Jabba the Hutt, though others saw him as unremarkable.<ref name="SWEGreedo" /> He was a frequent customer of Chalmun's Cantina, considering it his base of operations and preferred venue for death deals. He was known for rotten luck, and that proved true for the main time of his life.<ref name="SWEGreedo" />
+
+==Behind the scenes==
+[[File:GreedoUnmasked.jpg|thumb|right|150px|Maria De Aragon on the set as Greedo.]]
+Greedo first appeared in the [[1977]] original ''[[Star Wars]]'' film [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']].<ref name="ANH" /> [[Paul Blake]] played Greedo in the shots that feature both Greedo and Han Solo in the same frame. For Greedo's close-ups, a new articulated head was built for pickups at the end of the shoot, and [[Maria De Aragon]] was enlisted to play the Rodian. During pickups, Greedo's costume vest changes significantly, as do his hands. In the original shoot, Greedo has long, suction-cup tipped fingers, and in pickups, he has swollen knuckles and shorter fingers. In ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' TV series he was voiced by [[Tom Kenny]]. The Greedo mask and tunic are currently on display as part of the "Out of this World: Extraordinary Costumes from Film and Television" in the [[Wikipedia:Science Fiction and Fantasy Hall of Fame|Science Fiction Museum & Hall of Fame]] in Seattle, Washington.<ref name="Music Project">''Experience Music Project''</ref>
+
+Greedo's manner of death has been subject to a number of [[retcon]]s over the years. The most famous involves the question of [[Han shot first|who shot first]], for in the original release of the film, as well as the script, Greedo did not shoot at Han at all. In the [[List of changes in Star Wars re-releases#1997 special editions|1997 re-release of the film]], Greedo gets a badly-aimed shot at Solo before Solo kills him. [[George Lucas]] has said that this change is to enhance Solo's overall heroism, making him seem less of a killer and more of a "cowboy" to viewers. This was a controversial decision and in the 2004 version the two shots are almost simultaneous, with Greedo shooting first. In ''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]'', there is no mention of Greedo firing a shot<ref name="ANHillustrated">''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]''</ref> and author [[Alexandra Bracken]], when asked, stated that Solo fired before Greedo could get off a shot.<ref name="brackeninterview">{{Cite web|url=http://eleven-thirtyeight.com/2015/09/alexandra-bracken-on-the-symbol-the-skeptic-and-the-sponge/|title=Alexandra Bracken on the Symbol, the Skeptic, and the Sponge|first=Jay|last=Shah|date=September 23, 2015|accessdate=September 23, 2015|publisher=Eleven-ThirtyEight}}</ref>
+
+In [[1999]], Greedo made a cameo appearance in [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']], in a deleted scene where he accuses Anakin Skywalker of cheating in the Boonta Eve Classic, leading [[Qui-Gon Jinn]] to separate them.<ref name="Deleted scene">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] Deleted scene</ref>
+
+Greedo speaks [[Galactic Basic]] in ''Star Wars: The Clone Wars'' but seems to be speaking [[Rodian (language)|Rodian]] in the original series, possibly proving that he prefers to speak in his native tongue rather than Galactic Standard. However, in ''Star Wars: Battlefront'' he speaks [[Huttese]] similarly to some of the playable alien species in the game.
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{Del}}
+*''[[Star Wars: Galactic Defense]]''
+*{{TCW|Sphere of Influence}}
+*''[[Star Wars 28: Yoda's Secret War, Part III]]''
+*''[[Bounty Hunt]]''
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]''
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*''[[Star Wars: Heroes Path]]''
+*[[Star Wars (LINE Webtoon)|''Star Wars'' LINE Webtoon]]
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*''[[Star Wars Battlefront]]'' {{C|DLC}}
+*{{Shortstory|story=The Luckless Rodian|book=From a Certain Point of View}}
+*{{Shortstory|story=Not for Nothing|book=From a Certain Point of View}}
+*{{Shortstory|story=We Don't Serve Their Kind Here|book=From a Certain Point of View}}
+*{{Shortstory|story=The Kloo Horn Cantina Caper|book=From a Certain Point of View}}
+*{{Shortstory|story=Added Muscle|book=From a Certain Point of View}} {{Mo}}
+*''[[Smuggler's Run: A Han Solo & Chewbacca Adventure]]'' {{Mo}}
+*''[[Star Wars 4: Skywalker Strikes, Part IV]]'' {{Mo}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]'' {{Mo}}
+
+===Non-canon appearances===
+*''[[Star Wars Epic Yarns: A New Hope]]''
+*''[[Disney Infinity 3.0]]''
+*''[[Star Wars: Galaxy of Heroes]]''
+*{{The Resistance Rises|Hunting for Han}} {{Mo}}
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*{{SWE|characters|greedo|Greedo}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: ABC-3PO]]''
+*''[[Star Wars: Aliens of the Galaxy]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|greedo|Greedo|archivedate=20170623112803}}
+*{{Databank|han-solo|Han Solo|archivedate=20170607051516}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SW|url=news/die-wanna-wanga-encounters-of-the-twilek-kind|text=Meet the Twi'leks from ''Star Wars''}}
+*{{SW|url=news/star-wars-skins-bring-the-force-to-minecraft|text=''Star Wars'' Skins Bring the Force to ''Minecraft''}}
+*{{SW|url=news/star-wars-smugglers-bounty-audio-drama-set-for-star-wars-celebration|text=''Star Wars: Smugglers Bounty'' Set for ''Star Wars'' Celebration}}
+*{{SW|url=news/7-topics-star-wars-fans-love-to-debate|text=7 Topics ''Star Wars'' Fans Love to Debate}}
+*{{SW|url=news/7-things-you-might-not-know-about-the-mos-eisley-cantina|text=7 Things You Might Not Know About the Mos Eisley Cantina}}
+*{{SW|url=news/star-wars-hikari-vinyl-figures-by-funko-exclusive-reveal|text=''Star Wars'' Hikari Vinyl Figures by Funko - Exclusive Reveal!}}
+*{{SW|url=news/7-green-skinned-star-wars-aliens|text=7 Green-Skinned ''Star Wars'' Aliens}}
+*{{SW|url=news/why-im-team-dengar-a-this-is-madness-op-ed|text=Why I'm Team Dengar: A "This Is Madness" Op-Ed}}
+*{{SW|url=news/a-fish-called-greedo-10-species-named-after-star-wars|text=A Fish Called Greedo: 10 Species Named After ''Star Wars''}}
+*{{SW|url=news/split-personalities-star-wars-movie-characters-played-by-multiple-actors|text=Split Personalities: ''Star Wars'' Characters Played by Multiple Actors}}
+*{{SW|url=news/9-signs-you-grew-up-watching-the-original-trilogy|text=9 Signs You Grew Up Watching the Original Trilogy}}
+*{{SW|url=news/5-recycled-star-wars-props-and-costumes|text=5 Recycled ''Star Wars'' Props and Constumes}}
+{{Interlang
+|ko=그리도
+|es=Greedo
+|de=Greedo
+|pl=Greedo
+}}
+
+[[Category:Bounty hunters]]
+[[Category:Males]]
+[[Category:Rodians]]

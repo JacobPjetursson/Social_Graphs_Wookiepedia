@@ -1,0 +1,101 @@
+{{Eras|good}}
+{{Droid
+|image=[[File:EV9D9-ROTJ.png]]
+|name=EV-9D9
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=[[MerenData]]<ref name="Updated and Expanded">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|line=[[EV-series]]<ref name="Droidography">''[[Star Wars: Droidography]]''</ref>
+|model=[[EV-series supervisor droid/Canon|EV-series supervisor droid]]<ref name="Droidography" />
+|class=[[Supervisor droid]]<ref name="Updated and Expanded" />
+|degree=[[Third class droid]]<ref name="Encyclopedia">''[[Star Wars: The Visual Encyclopedia]]''</ref>
+|cost=
+|length=
+|width=
+|height=1.9 [[meter]]s<ref name="EV-9D9">{{Databank|ev-9d9|EV-9D9|archivedate=20161215204921}}</ref>
+|mass=
+|gender=[[Sexes|Feminine programming]]<ref name="EV-9D9" />
+|sensor=[[Color|Yellow]]<ref name="Return of the Jedi">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|plating=Bronze<ref name="Return of the Jedi" />
+|armament=
+|equipment=
+|era=
+|affiliation=[[Jabba's Palace]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>}}
+{{Quote|Ah, good. New acquisitions. You are a protocol droid, are you not?''"<br />"''I am C-3PO, human-cyborg&mdash;''"<br />"''Yes or no will do.''"<br />"''Oh. Well, yes.|EV-9D9 and C-3PO|Star Wars: Episode VI Return of the Jedi}}
+'''EV-9D9 (Eve-Ninedenine)''', also referred to as simply as '''9D9''', was a [[Sexes|feminine]] [[MerenData]] [[EV-series supervisor droid/Canon|EV-series supervisor droid]] who, originally a peaceful, hardworking [[moisture vaporator]] [[Technician|mechanic]], had a programming defect that made her enjoy tormenting and dismembering other [[droid]]s. She was acquired by the [[Hutt]] [[crime lord]] [[Jabba Desilijic Tiure]], who made her chief of [[Jabba's Palace|his palace's]] Cyborg Operations after a reprogramming, where she oversaw its droid pool with the assistance of her [[smelter droid]] devotee, [[8D8]]. When [[Jedi Knight]] [[Luke Skywalker]] gifted Jabba [[R2-D2]] and [[C-3PO]] in [[4 ABY]], shortly before the [[Battle of Endor]], EV-9D9 assigned them positions in her master's droid pool and was deactivated sometime after his [[Death|demise]].
+
+==Biography==
+{{Quote|How many languages do you speak?''"<br />"''I am fluent in over six million forms of communication and can readily&mdash;''"<br />"''Splendid. We have been without an interpreter since our master got angry with our last protocol droid and disintegrated him.''"<br />"''Disintegrated?|EV-9D9 and C-3PO|Star Wars: Episode VI Return of the Jedi}}
+[[File:EV-9D9 and Bossk.jpeg|thumb|left|250px|EV-9D9 and Bossk discuss the whereabouts of 261.]]
+A [[Sexes|feminine]]<ref name="Updated and Expanded" /> [[EV-series supervisor droid/Canon|EV-series supervisor droid]]<ref name="Droidography" /> manufactured by [[MerenData]],<ref name="Updated and Expanded" /> EV-9D9, also known or simply as 9D9, was originally a peaceful [[moisture vaporator]] [[Technician|mechanic]] on the [[planet]] [[Tatooine]].<ref name="Beware the Power of the Dark Side!">''[[Return of the Jedi: Beware the Power of the Dark Side!]]''</ref> However, she had a programming defect that caused her to exhibit cruelty towards other [[droid]]s, a flaw many other EV units shared. She was acquired by the [[Hutt]] [[crime lord]] [[Jabba Desilijic Tiure]],<ref name="Updated and Expanded" /> who made her chief of Cyborg Operations at his Tatooine [[Jabba's Palace|palace]],<ref name="Complete Locations">''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''</ref> a position she was well suited for after being reprogrammed in a [[Mos Eisley]] [[spaceport]] scrapyard.<ref name="Beware the Power of the Dark Side!" /> She was one of the few EV units to escape MerenData's mass recall.<ref name="Updated and Expanded" /> EV-9D9 converted a dank<ref name="EV-9D9" /> boiler room<ref name="Complete Locations" /> in the murky depths<ref name="Updated and Expanded" /> of the palace's dungeons<ref name="Ultimate Star Wars" /> into a droid "assessment" room,<ref name="Complete Locations" /> in actuality a grim [[torture]] chamber,<ref name="EV-9D9" /> where her devotee, [[8D8]],<ref name="Complete Locations" /> an [[8D-series]] [[smelter droid]] reprogrammed for sadism, assisted her in terrorizing Jabba's droid pool<ref name="8D8">{{Databank|8d8|8D8|archivedate=20170606170924}}</ref> into submission.<ref name="Ultimate Star Wars" />
+
+In the [[Standard year|year]] [[0 BBY]],<ref name="Chronology note">In ''[[Bounty Hunt]]'', the [[DS-1 Orbital Battle Station|Death Star's]] [[superlaser]] is fully operational, and ''[[Star Wars: Galactic Atlas]]'' establishes that the events of ''[[Rogue One: A Star Wars Story]]'', and thus the completion of the [[superweapon]], take place in [[0 BBY]]. Since the Death Star was destroyed in the [[Battle of Yavin]] ([[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]), it can be assumed that the events in ''Bounty Hunt'' also take place in 0 BBY.</ref> [[261]], a rogue [[Galactic Empire|Imperial]] [[astromech droid]], was captured and brought to Jabba's Palace, where he was forced to join its droid pool. However, the droid was able to escape, making EV-9D9 furious. When the [[Trandoshan]] [[bounty hunter]] [[Bossk]], working to retrieve the droid for the Empire, tracked it to the palace, the supervisor droid explained that 261 had escaped, claiming that he would soon learn some respect. Bossk later recovered the droid from a clan of [[Jawa]]s and brought it back to the Empire.<ref name="Bounty Hunt">''[[Bounty Hunt]]''</ref>
+
+[[File:New Aquisitions ROTJ.png|right|thumb|250px|EV-9D9 assigns R2-D2 and C-3PO positions in the palace's droid pool.]]
+After the [[Jedi Knight]] [[Luke Skywalker]] gifted Jabba [[R2-D2]] and [[C-3PO]]<ref name="Return of the Jedi" /> in [[4 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> shortly before the [[Battle of Endor]], they were escorted down to EV-9D9's torture chamber so she could assign them positions in her master's droid pool. C-3PO, a [[protocol droid]], was made Jabba's new [[Translator|interpreter]], as his [[Jabba's interpreter|last one]] was disintegrated after it had angered him, and was fitted with a [[restraining bolt]] before being returned to the palace's main audience chamber, and R2-D2, an astromech droid, was forced to serve drinks aboard Jabba's [[sail barge]],<ref name="Return of the Jedi" /> the ''[[Khetanna]]''.<ref name="Ultimate Star Wars" /> However, R2-D2 was actually tasked with infiltrating the palace's droid pool so that he could assist in the [[Rescue of Han Solo|rescue]] of [[Han Solo]] from the Hutt's clutches,<ref name="R2-D2">{{Databank|r2-d2|R2-D2|archivedate=20170804034750}}</ref> a mission that ultimately resulted in Jabba's [[Death|demise]],<ref name="Return of the Jedi" /> after which EV-9D9 was deactivated with the rest of the palace's droid pool.<ref name="Battlefront">''[[Star Wars Battlefront]]''</ref>
+
+==Characteristics==
+{{Dialogue|EV-9D9|Guard! This protocol droid might be useful. Fit him with a restraining bolt and take him back up to His Excellency's main audience chamber.|C-3PO|R2, don't leave me!|R2-D2|[Whistle-Beep-Bleep]|EV-9D9|You're a feisty little one, but you'll soon learn some respect. I have need for you on the master's sail barge, and I think you'll fill in nicely.|attr=EV-9D9 assigns R2-D2 and C-3PO positions in Jabba's Palace's droid pool.|src=Star Wars: Episode VI Return of the Jedi}}
+Originally peaceful and hardworking,<ref name="Beware the Power of the Dark Side!" /> EV-9D9 was corrupted by a programming flaw<ref name="Updated and Expanded" /> and some very nasty reprogramming.<ref name="Beware the Power of the Dark Side!" /> A malicious, sadistic, and psychotic mechanic murderer,<ref name="Complete Locations" /> she enjoyed tormenting and dismembering other droids,<ref name="EV-9D9" /> reveling<ref name="Complete Locations" /> in working them until they fell apart<ref name="Updated and Expanded" /> or their [[processor]]s blew<ref name="Complete Locations" /> and employing bizarre forms of droid torture to increase motivation. EV-9D9 relished her role as taskmaster of all the palace's droids<ref name="Updated and Expanded" /> and was quickly annoyed with the antics of C-3PO, cutting him off whenever she got the answers she wanted or when he started to stray from the question at hand. When R2-D2 started acting feistily towards her, EV-9D9 assigned him to her master's sail barge to teach him respect.<ref name="Return of the Jedi" />
+
+A gangly [[Color|bronze]] and silver colored mechanical with feminine programming,<ref name="Return of the Jedi" /> EV-9D9 was missing various parts, lending her a [[Skeleton|skeletal]] appearance.<ref name="Beware the Power of the Dark Side!" /> Her manipulator [[Limb|arms]]<ref name="Updated and Expanded" /> and legs were motivated by exposed pistons, and both of her hands terminated in three multi-jointed digits.<ref name="Return of the Jedi" /> She stood at 1.9 [[meter]]s in height<ref name="EV-9D9" /> and had three yellow [[photoreceptor]]s,<ref name="Return of the Jedi" /> one of which she custom-fitted to allow herself to "see" droid pain. EV-9D9 had a degraded logic center<ref name="Updated and Expanded" /> and spoke with synthesized female voice that sounded as if it had been stolen from an elderly [[prison]] matron. As she spoke, her hinged [[Vocabulator|vocoder]] flapped up and down beneath her sharp metal chin,<ref name="Star Wars: Return of the Jedi">''[[Star Wars: Return of the Jedi (paperback novel)|Star Wars: Return of the Jedi]]''</ref> simulating the movement of a [[mouth]].<ref name="Return of the Jedi" />
+
+==Equipment==
+EV-9D9 performed her duties while sitting<ref name="Return of the Jedi" /> behind an ancient, rickety [[computer]] console<ref name="Star Wars: Return of the Jedi" /> in the palace's boiler room.<ref name="Complete Locations" />
+
+==Behind the scenes==
+{{Quote|Richard Marquand was playing EV-9D9 in that scene and was terrific. It's very easy acting with a piece of tin when it's got a voice like that coming out of it. He used to be an actor, so he knows what it feels like, all the tensions you feel being on a set with a camera pointed at you, how you need to be encouraged and praised. He's very gentle, which is nice.|[[Anthony Daniels]]|The Making of Return of the Jedi}}
+[[File:RMQ-ev9d9.jpg|right|thumb|250px|Concept art of EV-9D9 by Ralph McQuarrie]]
+Originally created for the [[1983]] film [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']],<ref name="Return of the Jedi" /> EV-9D9 first appeared in a [[Star Wars Legends|''Star Wars'' Legends]] [[Star Wars Episode VI: Return of the Jedi (novel)|novelization of the film]] written by [[James Kahn]]<ref name="Novelization">[[Star Wars Episode VI: Return of the Jedi (novel)|''Star Wars Episode VI: Return of the Jedi'' novelization]]</ref> and released on [[May 12]], 1983,<ref name="Star Wars: Return of the Jedi release date">{{Amazon|com|/Star-Wars-Return-James-Kahn/dp/0345307674/|Star Wars: Return of the Jedi|https://web.archive.org/web/20170704105405/https://www.amazon.com/Star-Wars-Return-James-Kahn/dp/0345307674/}}</ref> thirteen days before the film was released in theaters on [[May 25]].<ref name="Year by Year">''[[Star Wars Year By Year: A Visual History, Updated and Expanded Edition]]''</ref> The character was identified as EV-9D9 in the novel,<ref name="Novelization" /> a name that originated in the third draft of ''Return of the Jedi''<ref name="Bts">{{DB|droid|ev9d9eveninedenine|EV-9D9 (Eve-Ninedenine)|archivedate=20110629020111}}</ref> but was not used in the final film.<ref name="Return of the Jedi" /> This name was established to be [[canon]] by ''[[Ultimate Star Wars]]'', a reference book written by [[Tricia Barr|Patricia Barr]], [[Adam Bray]], [[Daniel Wallace]], and [[Ryder Windham]]<ref name="Ultimate Star Wars" /> and released on [[April 28]], [[2015]].<ref name="Ultimate Star Wars release date">{{Amazon|com|/Ultimate-Star-Wars-Ryder-Windham/dp/1465436014|Ultimate Star Wars|https://web.archive.org/web/20170815002201/https://www.amazon.com/Ultimate-Star-Wars-Ryder-Windham/dp/1465436014}}</ref>
+
+EV-9D9 appeared as early as the rough draft of the ''Revenge of the Jedi'' script, where she was known as U-8D8. In the revised second draft, she was renamed EV-8D8. In the third draft, she received her final name and her smelter droid assistant instead inherited the name 8D8.<ref name="Bts" /> She was portrayed using a marionette<ref name="The Making of Return of the Jedi">''[[The Making of Return of the Jedi]]''</ref> created by [[Bill Hargreaves]] and [[Steve Short]],<ref name="Bill Hargreaves">{{SW|url=news/interview-bill-hargreaves-former-jawa-scavenger-and-galactic-prop-man|text=Interview: Bill Hargreaves&mdash;Former Jawa Scavenger and Galactic Prop Man|archiveurl=https://web.archive.org/web/20180120215214/http://www.starwars.com/news/interview-bill-hargreaves-former-jawa-scavenger-and-galactic-prop-man}}</ref> which was based on [[Ralph McQuarrie]] concept art of an [[assassin droid]],<ref name="The Making of Return of the Jedi" /> and was voiced on set by director [[Richard Marquand]], whose voice was later redubbed during post-production.<ref name="Bts" /> At one point in the production of ''Return of the Jedi'', EV-9D9 was to be able to walk, though it was later decided that she would sit after the special effects department failed to make it work by [[George Lucas]]' deadline.<ref name="The Making of Return of the Jedi" /> An interactive gallery of EV-9D9's marionette was included on Bonus Disc 2 of ''[[Star Wars: The Complete Saga]]'', a [[Wikipedia:Blu-ray|Blu-ray]] set that comprised the first six main ''[[Star Wars]]'' films along with three additional discs of bonus material<ref name="Star Wars: The Complete Saga">''[[Star Wars: The Complete Saga]]''</ref> that was released on [[September 12]], [[2011]].<ref name="The Star Wars Saga on Blu-Ray">{{SWArchive|url=news/starwars_blu-ray.html|text=The Star Wars Saga on Blu-Ray|archivedate=20140131152626}}</ref> The marionette was once stored in the [[Lucasfilm Archives]],<ref name="Star Wars: The Complete Saga" /> but is now on display as part of ''[[Star Wars Identities: The Exhibition]]''.<ref name="Character Building at Star Wars Identities">{{SW|url=news/character-building-at-star-wars-identities-in-paris|text=Character Building at Star Wars Identities|archiveurl=https://web.archive.org/web/20180120215421/http://www.starwars.com/news/character-building-at-star-wars-identities-in-paris}}</ref>
+
+==Appearances==
+[[File:EV-9D9 assassin droid.jpeg|thumb|right|150px|Concept art of an assassin droid that eventually became EV-9D9]]
+*''[[Star Wars Battlefront II]]'' {{C|DLC}}
+*''[[Bounty Hunt]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*''[[Star Wars Battlefront]]'' {{C|DLC}}
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*''[[Star Wars: Return of the Jedi (paperback novel)|Star Wars: Return of the Jedi]]''
+
+===Non-canon appearances===
+*''[[Disney Infinity 3.0]]''
+
+==Sources==
+*''[[Ultimate Factivity Collection: Star Wars]]'' {{Po}}
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*{{InsiderCite|161|The Return of the Jedi Archives of James Kahn, Part II}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*''[[Star Wars: Droidography]]''
+*{{Databank|8d8|8D8|archivedate=20170606170924}}
+*{{Databank|ev-9d9|EV-9D9|archivedate=20161215204921}}
+*{{Databank|r2-d2|R2-D2|archivedate=20170804034750}} {{Imo}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+{{Imagecat|Images of EV-9D9}}
+*{{SW|url=news/character-building-at-star-wars-identities-in-paris|text=Character Building at Star Wars Identities|archiveurl=https://web.archive.org/web/20180120215421/http://www.starwars.com/news/character-building-at-star-wars-identities-in-paris}}
+*{{SW|url=news/interview-bill-hargreaves-former-jawa-scavenger-and-galactic-prop-man|text=Interview: Bill Hargreaves&mdash;Former Jawa Scavenger and Galactic Prop Man|archiveurl=https://web.archive.org/web/20180120215214/http://www.starwars.com/news/interview-bill-hargreaves-former-jawa-scavenger-and-galactic-prop-man}} {{Po}}
+
+{{Interlang
+|de=EV-9D9#kanon
+|ja=EV-9D9
+|ru=EV-9D9/Канон
+|ruGA=1
+}}
+
+[[Category:Desilijic servants]]
+[[Category:EV-series supervisor droids]]
+[[Category:Feminine programming]]
+[[Category:Mechanics]]

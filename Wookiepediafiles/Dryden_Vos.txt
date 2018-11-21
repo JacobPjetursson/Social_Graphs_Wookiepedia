@@ -1,0 +1,111 @@
+{{Eras}}
+{{Update|[[Solo: A Star Wars Story: Expanded Edition]], [[Solo: A Star Wars Story The Official Guide]]}}
+{{Otheruses|title=Vos}}
+{{Character
+|type=Criminal
+|image=[[File:Dryden Vos HS.png]]
+|name=Dryden Vos
+|homeworld=
+|birth=
+|death=[[10 BBY]], ''[[First Light]]'', [[Savareen]]<ref name="Solo">''[[Solo: A Star Wars Story]]''</ref>
+|species=[[Near-human]]<ref name="TOG">''[[Solo: A Star Wars Story The Official Guide]]''</ref>
+|gender=[[Sexes|Male]]<ref name="Databank">{{Databank|dryden-vos|Dryden Vos|archivedate=20180419052340}}</ref>
+|height=1.92 [[meter]]s<ref name="Databank" />
+|mass=
+|hair=[[Color|Blond]]<ref name="Solo" />
+|eyes=Blue<ref name="Solo" />
+|skin=Light<ref name="Solo" />
+|cyber=
+|era=
+|affiliation=[[Crimson Dawn]]<ref name="Solo" />
+|masters=
+|apprentices=}}
+{{Quote|Once you're part of Crimson Dawn, you can't leave.|Dryden Vos, to Han Solo|Solo: A Star Wars Story}}
+'''Dryden Vos''' was a [[Sexes|male]] [[near-human]] who served as the public face of the crime syndicate [[Crimson Dawn]] during the [[Imperial Era|reign]] of the [[Galactic Empire]]. He owned The [[First Light]], and possessed a large quantity of wealth as Crimson Dawn's puppet head. He recruited the [[Correlia]]n [[Qi'ra]] to Ben his [[Lieutenant]], and hired [[Beckett's gang]] to steal [[Coaxium]] for him. When he tried to kill [[Han Solo]], he was betrayed by Qi'ra, and the two engaged in a quick duel which resulted in Dryden Vos being stabbed and killed.
+
+==Biography==
+Dryden Vos was the public face of the crime syndicate [[Crimson Dawn]], one of the most ruthless criminal syndicates in [[the galaxy]] during the [[Imperial Era|reign]] of the [[Galactic Empire]]. However, when [[Sexes|he]] was alone, he used to communicate via [[hologram]] with the shadowy leader of Crimson Dawn, the [[Zabrak]] [[crime lord]] known as [[Maul]],<ref name="Solo" /> former [[Sith apprentice]] of [[Darth Sidious]],<ref name="TPM">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref> the [[Sith]] persona of Sheev Palpatine, the [[Galactic Emperor]].<ref name="RotS">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref> To do so, Vos used a [[Crimson Dawn signet ring|ring]] to activate the hologram panel.<ref name="Solo" /> Vos acquired a [[Kalevala]]n [[yacht]] known as the ''[[First Light]]'', where he had a study filled with several relics, including a slab of an [[obsidian]] stone he plundered from a [[Unidentified Sith temple|Sith temple]].<ref name="TOG" />
+
+During his tenure as crime lord, at some point after [[13 BBY]], Dryden Vos bought the [[Corellian]] [[Qi'ra]] from a [[Unidentified slave dealer|slave dealer]], who in turn bought her from [[Lord|Lady]] [[Proxima]], the ruthless [[Grindalid]] crime boss of the [[White Worms]] gang, who sold Qi'ra after her attempted escape from [[Corellia]].<ref name="Solo Expanded Edition">''[[Solo: A Star Wars Story: Expanded Edition]]''</ref> As such, Vos demanded in return her lifelong loyalty to Crimson Dawn, branding her forearm and her neck with his organization's symbol. Qi'ra became his top [[lieutenant]]. He even trained her in martial arts, including [[Teräs Käsi]]. At some point in his career, Vos additionally made an uneasy alliance with the [[Pyke Syndicate]].<ref name="Solo" />
+[[File:Solo Beckett & Vos.jpeg|thumb|left|260px|Vos speaks with Beckett and Solo]]
+[[10 BBY|Ten]] [[Standard year|years]] before the [[Battle of Yavin]], the scoundrel [[Tobias Beckett]] became indebted to Vos, promising him a good amount of [[coaxium]] as payment.<ref name="Solo" /> Prior to his indebtedness, Beckett killed the [[bounty hunter]] [[Aurra Sing]] under Vos' orders, something which pleased Vos enough to give Beckett a bonus.<ref name="Solo Expanded Edition" /> Beckett and [[Beckett's gang|his crew]] attempted to [[Heist on Vandor|steal]] a container full of coaxium that belonged to the Empire from [[ICC-5537|a]] [[20-T Railcrawler conveyex transport|conveyex transport]]. Unfortunately for Beckett, the heist ultimately failed due to the intervention of [[Enfys Nest]] and her [[swoop]] [[pirate]] gang, the [[Cloud-Riders]], costing him the cargo and two of his teammates, his lover [[Val]] and the [[Ardennian]] pilot [[Rio Durant]]. However, his recruit, the young [[Han Solo]], insisted that he meet Vos to talk with him about what had happened. Upon arriving at Vos' yacht, as Han reunited with Qi'ra, Vos received Beckett and expressed his condolences for the loss of Val, revealing that he knew what happened with the conveyex heist. In his office, Vos told Beckett that he needed to face his wrath for having failed him once more, but Solo attempted to convince Vos to give Beckett another opportunity by sending them to the [[Spice mines of Kessel|spice mines]] of [[Kessel]] to steal the coaxium stored there. At first, Vos rejected the plan because he didn't want to anger the [[Pyke]]s, but Qi'ra ultimately convinced him that it was a good idea.<ref name="Solo" />
+
+In order to attack the [[spice]] mines of Kessel, Beckett's crew enlisted the help of the [[smuggler]] and [[sabacc]] player [[Lando Calrissian]] and his [[droid]] [[L3-37]], who brought them to Kessel aboard the ''[[Millennium Falcon]]''. There, Beckett's crew [[Raid on Kessel|infiltrated]] Kessel's spice mines, took down [[Quay Tolsite]] and his [[Pyke sentinel|guards]] and managed to steal the coaxium, at the cost of L3-37's destruction. After escaping from the Empire's clutches once more in the [[Maw Cluster]],<ref name="Solo" /> making the [[Kessel Run]] in just 12 [[parsec]]s,<ref name="ANH">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref> the crew arrived at [[Savareen]] to refine the coaxium. After Lando departed with the ''Falcon'' and the crew encountered Nest, learning of her intentions to help the rebellion with the coaxium, Solo decided to deceive Vos and give the coaxium to the Cloud-Riders. He and Qi'ra took the coaxium to Vos, telling him that Beckett did not survive the mission.<ref name="Solo" />
+[[File:Dryden and Han.jpg|right|thumb|260px|Vos accuses Han of giving him fake coaxium]]
+To their surprise, Vos revealed that he knew the coaxium aboard his yacht was fake, and that he was warned by his "inside man" about Han's betrayal. Though Han initially believed that Qi'ra betrayed them, Vos revealed that his "inside man" in fact Beckett, who decided to betray his crew so that Vos spared his life. However, as they anticipated Beckett's betrayal, Solo had presented the true shipment of coaxium to Vos, and had only told Beckett it was fake. Nevertheless, Beckett resolved to take Chewie hostage and escape with the real coaxium, [[Skirmish on Savareen|leaving]] Vos to face Qi'ra and Han, leading to a fight in which Vos accidentally destroyed several artifacts in his study, including the [[masthead of Xim the Despot]]. In the midst of Han and Vos' attempts to kill each other, Qi'ra came to Han's defense by attacking Vos with a [[sword]] retrieved from the corpse of one of the [[Hylobon Enforcers]]. In the fierce scuffle between the two, Vos cut the blade of his opponent's sword in half, which resulted in his own weapon getting stuck in it. Unarmed and defenseless, Vos was finally impaled by Qi'ra and dropped to the floor, [[Death|dead]]. After promising Han that she would take valuables from the yacht and meet him outside, Qi'ra instead sealed the room after Han's departure and used Vos' ring to falsely tell Maul that Tobias Beckett had been responsible for Vos' death, and was ordered to take the yacht to [[Dathomir]].<ref name="Solo" />
+
+==Personality and traits==
+{{Quote|Test my patience for even one second and see what happens.|Dryden Vos|Solo: A Star Wars Story}}
+[[File:Dryden Vos victim.png|left|thumb|250px|Vos stands over the corpse of [[Diles Anevi|an associate]] who displeased him.]]
+A [[near-human]] [[Sexes|male]] crime lord,<ref name="Solo" /> Dryden Vos was a pitiless enforcer and known as a [[gangster]] of taste and wealth. Vos socialized with the galaxy's elite aboard his yacht the ''First Light'', surrounding himself with opulence. In addition, Vos enjoyed showing off his superb collection of antiquities.<ref name="TOG" /> Being near-human, Dryden had a number of alien attributes such as a claw that extended from his thumb and many intricate striations that ran along his face that were connected to the activity in his circulatory system and adrenaline levels.
+
+Though Vos was known for being ruthless, albeit not a cutthroat,<ref name="Databank" /> he displayed good manners with his guests, as he showed when he met Han Solo.<ref name="Solo" /> However, his manners weren't to be mistaken for weakness, as he could change from a generous host to merciless killer in a moment.<ref name="Databank" /> Beyond that, however, Vos was simply one more lackey of the crime lord Maul, the true leader of Crimson Dawn behind the shadows.<ref name="Solo" />
+
+==Behind the scenes==
+Dryden Vos was portrayed by [[Paul Bettany]] in the [[2018]] [[Star Wars Anthology Series|''Star Wars'' Anthology]] film ''[[Solo: A Star Wars Story]]''.<ref name="EW cover">{{Cite web|url=http://ew.com/movies/2018/02/07/solo-star-wars-story-ew-cover|title=Solo: A Star Wars Story soars on this week's EW cover|last=Breznican|first=Anthony|date=2018-02-07|work=[[Wikipedia:Entertainment Weekly|Entertainment Weekly]]}}</ref> The character was originally going to be played by [[Michael Kenneth Williams]] as a motion-captured alien character resembling a [[Wikipedia:Cougar|mountain lion]],<ref name="Michael K Williams">{{Cite web|url=https://www.avclub.com/michael-k-williams-shares-details-on-his-excised-solo-1823621496|title=Michael K. Williams shares details on his excised Solo: A Star Wars Story character|last=Barasanti|first=Sam|date=2018-03-08|work=A.V. Club}}</ref> but when the original directors [[Phil Lord]] and [[Christopher Miller]] were fired from the project and replaced by [[Ron Howard]], Williams wasn't available for extended reshoots due to scheduling conflicts with ''[[Wikipedia:The Red Sea Diving Resort|The Red Sea Diving Resort]]'', and the part was recast.<ref name="Solo inspirations">{{Cite web|url=http://ew.com/movies/2018/02/12/solo-a-star-wars-story-influences/|title=Star Wars: Solo inspirations include Big Treasure, Big Lebowski, and more|last=Breznican|first=Anthony|date=2018-02-12|work=[[Wikipedia:Entertainment Weekly|Entertainment Weekly]]}}</ref> Though he has the same last name as [[Jedi Master]] [[Quinlan Vos]], [[Lucasfilm Ltd.]] has confirmed that this is merely a coincidence.<ref name="Solo rogues gallery">{{Cite web|url=http://ew.com/movies/2018/02/09/solo-a-star-wars-story-woody-harrelson-thandie-newton-paul-bettany/|title=Star Wars: Woody Harrelson, Thandie Newton, Paul Bettany character details|last=Breznican|first=Anthony|date=2018-02-09|work=[[Wikipedia:Entertainment Weekly|Entertainment Weekly]]}}</ref>
+
+One of the inspirations for Dryden Vos was the character Leo from [[Wikipedia:Michael Mann|Michael Mann's]] [[1981]] film ''[[Wikipedia:Thief (film)|Thief]]''. Coincidentally, Leo's portrayer [[Wikipedia:Robert Prosky|Robert Prosky]] collaborated along ''Solo'' director [[Ron Howard]] in the [[1992]] film ''[[Wikipedia:Far and Away|Far and Away]]''. Another of the character's influences was [[Wikipedia:Don Draper|Don Draper]], the protagonist of [[Wikipedia:AMC (TV channel)|AMC's]] drama series ''[[Wikipedia:Mad Men|Mad Men]]''.<ref name="Art of Solo">''[[The Art of Solo: A Star Wars Story]]''</ref> The first draft of the film's script described Vos like a sort of [[Wikipedia:Tom Hagen|Tom Hagen]], one of the main characters of ''[[Wikipedia:The Godfather (film series)|The Godfather]]'' film series.<ref name="Dryden Hagen">{{Twitter|JonKasdan|status/1064689594376093701|[[Jon Kasdan]]|quote=Not exactly true. In the 1st draft, Dryden was second-in-command, a sort of Tom Hagen, to a character called The Kazier, a genial but ruthless Hume Cronyn-type who'd replaced his right hand w/ a teched-out rococo key. When that character went out, Dryden's superior became Maul.}}</ref> Interestingly, the original ''[[Star Wars]]'' films inspired Bettany to become an actor in the first place.<ref name="Solo DVD Commentary">''[[Solo: A Star Wars Story]]'' DVD commentary</ref> The film's crew wanted Vos to be, physically, the antithesis of [[Jabba Desilijic Tiure]], the [[Hutt]] crime lord of [[1983]]'s [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']].<ref name="Jon's Twitter">{{Twitter|JonKasdan|status/1040529505670946817|[[Jon Kasdan]]|quote=continued}}</ref>
+
+Early concept art for Vos depicted him as an avian [[alien]], then a reptilian alien, and finally a [[Lasat]], which was possibly the version depicted originally by Williams. In the original draft of the film's script, Vos was going to be based on [[Taanab]].<ref name="Art of Solo" /> According to Paul Bettany, Vos' facial marks were done by [[Wikipedia:Computer-generated imagery|CGI]] and that he just discovered it when Howard sent him a photograph.<ref name="Solo DVD Commentary" />
+
+==Appearances==
+*''[[Star Wars: Force Arena]]'' {{1st}}
+*''[[Star Wars: Beckett 1]]'' {{Mo}}
+*''[[Solo: A Star Wars Story]]''
+*''[[Solo: A Star Wars Story: Meet the Crew]]''
+*''[[Solo: A Star Wars Story: Expanded Edition]]''
+*''[[Solo: A Star Wars Story Read-Along Storybook and CD]]''
+*''[[Solo: A Star Wars Story: Tales from Vandor]]''
+*''[[Solo Adaptation 1]] ''{{Co}}
+*''[[Choose Your Destiny: A Han & Chewie Adventure]]'' {{1stm}}
+
+==Sources==
+*<!-- 4/8/18 -->{{SW|url=video/official-trailer-solo-a-star-wars-story|text=Official Trailer | Solo: A Star Wars Story}} {{1stp}}
+*<!-- 4/15/18 -->{{SWYoutube|KUXd7p_vd3w|Solo: A Star Wars Story "Crew" TV Spot (:45)}}
+*<!-- 4/17/18 -->{{SWYoutube|RGGyTO-VlUs|Solo: A Star Wars Story "Risk" TV Spot (:45)}}
+*<!-- 5/5/18 -->{{SWYoutube|urkiePoszu4|Solo: A Star Wars Story "Ride" (:30)}}
+*<!-- 5/8/18 -->{{SWYoutube|HLcW4Lw84gs|Solo: A Star Wars Story "Risk" (:30)}}
+*<!-- 5/10/18 -->{{SWYoutube|cG6YlGZTitA|Solo: A Star Wars Story "Lieutenant" Clip}}
+*<!-- 5/24/18 -->{{SWYoutube|hS1FClHUKlQ|Solo: A Star Wars Story "Scoundrels" Featurette}}
+*''[[Solo: A Star Wars Story The Official Guide]]''
+*''[[The Art of Solo: A Star Wars Story]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|aemon-gremm|Aemon Gremm}}
+*{{Databank|aurodia-ventafoli|Aurodia Ventafoli}}
+*{{Databank|crimson-dawn|Crimson Dawn}}
+*{{Databank|dryden-vos|Dryden Vos|archivedate=20180419052340}}
+*{{Databank|first-light|First Light}}
+*{{Databank|han-solo|Han Solo|archivedate=20170607051516}}
+*{{Databank|qi-ra|Qi'ra|archivedate=20180416224008}}
+*{{Databank|s-195-blaster-pistol|S-195 blaster pistol}}
+*{{Databank|tobias-beckett|Tobias Beckett|archivedate=20180416223833}}
+*{{Databank|toht-ra|Toht Ra}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{Cite web|url=http://ew.com/movies/2018/02/07/solo-star-wars-story-ew-cover|title=Solo: A Star Wars Story soars on this week's EW cover|last=Breznican|first=Anthony|date=2018-02-07|work=[[Wikipedia:Entertainment Weekly|Entertainment Weekly]]}} {{1stID}}
+
+{{Interlang
+|cs=Dryden Vos
+|de=Dryden Vos#kanon
+|el=Ντρίντεν Βος
+|es=Dryden Vos
+|fr=Dryden Vos
+|ja=ドライデン・ヴォス
+|nl=Dryden Vos
+|pl=Dryden Vos
+|pt=Dryden Vos
+|ru=Драйден Вос
+|tr=Dryden Vos
+|uk=Драйден Вос
+}}
+
+{{DEFAULTSORT:Vos, Dryden}}
+[[Category:Crime lords]]
+[[Category:Crimson Dawn personnel]]
+[[Category:Individuals of unidentified species]]
+[[Category:Males]]
+[[Category:Near-Humans]]

@@ -1,0 +1,75 @@
+{{Eras}}
+{{Droid
+|image=[[File:WAC47-SWE.png]]
+|name=WAC-47
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=
+|line=
+|model=[[DUM-series pit droid]]<ref name="databank">{{Databank|wac-47|WAC-47|archivedate=20170706204610}}</ref>
+|class=
+|degree=
+|cost=
+|length=
+|width=
+|height=1.19 [[meter]]s<ref name="databank" />
+|mass=
+|gender=[[Sexes|Masculine programming]]<ref name="secret">{{TCW|Secret Weapons}}</ref>
+|sensor=[[Color|Black]]<ref name="secret" />
+|plating=
+|armament=
+|equipment=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="databank" />
+**[[91st Mobile Reconnaissance Corps]]<ref name="databank" />
+**[[D-Squad]]<ref name="databank" />}}
+{{Quote|I am more than just a pilot!|WAC-47|A Sunny Day in the Void}}
+'''WAC-47''' was a [[Sexes|masculine]]-programmed [[DUM-series pit droid]] who served the [[Galactic Republic]] during the [[Clone Wars]]. He was a part of [[D-Squad]] along with several other [[droid]]s on an important mission, serving under [[Colonel]] [[Meebur Gascon]] and piloting his ship.
+
+WAC-47 was programmed as a [[pilot]], but felt he was capable of more. He repeatedly referred to Gascon by the incorrect rank of [[Corporal]], apparently as a part of a "program glitch." He did not get along well with Gascon at first, as he treated the droids as property,<ref name="databank" /> though they eventually came to understand and respect each other and WAC was promoted to [[Corporal]] by Gascon.<ref name="sunny">{{TCW|A Sunny Day in the Void}}</ref>
+
+{{Char-stub}}
+
+==Biography==
+During the [[Clone Wars]], WAC-47 served in the [[91st Mobile Reconnaissance Corps|91st Recon Corps]], reporting to [[Clone Trooper]] [[Clone Commander|Commander]] [[CC-8826|Neyo]].<ref name="databank" /> In [[20 BBY]]<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref>, WAC was drafted into Colonel [[Meebur Gascon]]'s [[D-Squad]]. WAC arrived late for Master Windu's briefing on their mission at the Jedi Temple. WAC assigned to pilot their [[D-Squad's Neimoidian shuttle|shuttle]]. During the initial start of their [[Mission to Aut-O's flagship|mission]], WAC piloted on a collision course to get the [[Providence-class dreadnought|''Providence''-class dreadnought's]] attention. After boarding the dreadnought, WAC was able to distract the battle droids stationed at the dreadnoughts vault. After acquiring the [[Encryption module]], WAC and the rest of the squad were then confronted by the dreadnought's [[Super tactical droid]], [[Aut-O]]. Together, they were able to put him out of commission and escape from the dreadnought.<ref name="secret" />
+
+Enroute to Coruscant, WAC and D-squad's shuttle ran into ice comet swarm. Despite the difficulty, WAC was able to get the shuttle out of hyperspace. Unfortunately, the shuttle crashed on [[Abafar]]. WAC attempted to take command of the squad, but the unit abandoned him and Gascon. Together, they then discovered a [[Void strider/Canon|Void strider]] and use it to reach [[Pons Ora]] and rejoin the squad.<ref name="sunny" />
+==Behind the scenes==
+He is voiced by [[Ben Diskin]].
+
+A possible Easter Egg occurs once WAC receives his "promotion", as the [https://en.wikipedia.org/wiki/WAC_Corporal WAC Corporal] was a rocket used during the early days of the U.S Space Program.
+
+==Appearances==
+*{{TCW|Secret Weapons}} {{1st}}
+*{{TCW|A Sunny Day in the Void}}
+*{{TCW|Missing in Action}}
+*{{TCW|Point of No Return}}
+
+==Sources==
+*{{SW|url=tv-shows/clone-wars/secret-weapons-episode-guide|text="Secret Weapons" Episode Guide - ''The Clone Wars''}} {{1stID}}
+*{{SW|url=tv-shows/clone-wars/a-sunny-day-in-the-void-episode-guide|text="A Sunny Day in the Void" Episode Guide - ''The Clone Wars''}}''
+*{{SWE|characters|bni-393|BNI-393}}
+*{{SWE|characters|clone-commander-neyo|Clone Commander Neyo}}
+*{{SWE|characters|colonel-meebur-gascon|Colonel Meebur Gascon}}
+*{{SWE|characters|doctor-gubacher|Doctor Gubacher}}
+*{{SWE|characters|m5-bz|M5-BZ}}
+*{{SWE|characters|qt-kt|QT-KT}}
+*{{SWE|characters|u9-c4|U9-C4}}
+*{{SWE|characters|wac-47|WAC-47}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]'' {{Po}}
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]'' {{Po}}
+*''[[Star Wars: Droidography]]''
+*{{Databank|abafar|Abafar|archivedate=20170703200720}}
+*{{Databank|d-squad|D-Squad|archivedate=20170707040723}}
+*{{Databank|wac-47|WAC-47|archivedate=20170706204610}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:DUM-series pit droids]]
+[[Category:Galactic Republic individuals]]
+[[Category:Masculine programming]]
+[[Category:Pilot droids]]

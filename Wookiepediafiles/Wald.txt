@@ -1,0 +1,51 @@
+{{Eras|legends=W. Wald}}
+{{Youmay|the Rodian|the similarly spelled [[Wad]]}}
+{{Character
+|type=
+|image=[[File:WaldFull-SWE.png]]
+|name=Wald
+|homeworld=[[Tatooine]]<ref name="SWE">{{SWE|characters|wald|Wald}}</ref>
+|birth=[[38 BBY]]<ref name="Databank">{{Databank|wald|Wald|archivedate=20141207150954}}</ref>
+|death=
+|species=[[Rodian]]<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|gender=[[Sexes|Male]]<ref name="Episode I" />
+|height=0.69 [[meter]]s<ref name="Databank" />
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="Episode I" />
+|skin=Green<ref name="Episode I" />
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+'''Wald''' was a [[Rodian]] [[Sexes|male]] [[Slavery|slave]] who lived on [[Tatooine]] during the time of the [[Invasion of Naboo|Naboo Crisis]]. He was one of [[Anakin Skywalker]]'s playmates in the Mos Espa Slave Quarters. He and [[Kitster Banai]], along with the droids [[R2-D2]] and [[C-3PO]], formed Anakin's pit team at the Boonta Eve Classic Podrace. At the time, Wald was six [[Standard year|years]] old.
+
+{{Char-stub}}
+
+==Behind the scenes==
+Wald was played by [[Warwick Davis]], who also played [[Wicket W. Warrick]] in ''[[Star Wars: Episode VI Return of the Jedi|Return of the Jedi]]'', [[Weeteef Cyu-Bee]] in ''[[Rogue One: A Star Wars Story]]'', as well as [[Weazel/Legends|Weazel]] in ''[[Star Wars: Episode I The Phantom Menace|The Phantom Menace]] and [[Solo: A Star Wars Story]]''.
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+
+===Non-canon appearances===
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+
+==Sources==
+*{{SWE|characters|kitster|Kitster}}
+*{{SWE|characters|wald|Wald}}
+*''[[Darth Vader: Sith Lord]]''
+*{{Databank|wald|Wald|archivedate=20141207150954}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Wald
+}}
+
+[[Category:Males]]
+[[Category:Rodians]]
+[[Category:Slaves]]
+[[Category:Tatooinians]]

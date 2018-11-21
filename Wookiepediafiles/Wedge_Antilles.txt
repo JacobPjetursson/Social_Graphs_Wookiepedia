@@ -1,0 +1,378 @@
+{{Eras}}
+{{Otheruses|title=Antilles}}
+{{Update|[[Sons of the Sky]], [[From a Certain Point of View]], [[Choose Your Destiny: A Luke & Leia Adventure]], [[Star Wars 45: Mutiny at Mon Cala, Part II]], [[Star Wars 49: Mutiny at Mon Cala, Part VI]], [[Star Wars 50: Hope Dies, Part I]], [[Star Wars 51: Hope Dies, Part II]], [[Star Wars 52: Hope Dies, Part III]], [[Star Wars: The Last Jedi – The Storms of Crait 1]], [[Star Wars: The Rebel Files]]}}
+{{Image}}
+{{Character
+|type=New Republic
+|image=[[File:WedgeHelmetless-ROTJHD.jpg]]
+|name=Wedge Antilles
+|homeworld=[[Corellia]]<ref name="Ultimate SW">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="Episode IV">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref> {{C|[[Corellian]]}}<ref name="Ultimate SW" />
+|gender=[[Sexes|Male]]<ref name="Episode IV" />
+|height=1.7 [[meter]]s<ref name="DB:Wedge">{{Databank|wedge-antilles|Wedge Antilles|archivedate=20140714220601}}</ref>
+|mass=
+|hair=[[Color|Brown]]<ref name="Episode IV" />
+|eyes=Brown<ref name="Episode IV" />
+|skin=Light<ref name="Episode IV" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="The Antilles Extraction">{{Rebels|The Antilles Extraction}}</ref>
+*[[Alliance to Restore the Republic]]<ref name="Episode IV" />
+**[[Phoenix Squadron]]<ref name="Zero Hour">{{Rebels|Zero Hour}}</ref>
+**[[Massassi Group]]<ref name="Episode IV" />
+**[[Red Squadron (Rebel Alliance)|Red Squadron]]<ref name="Episode IV" />
+**[[Rogue Squadron]]<ref name="Episode V">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+*[[New Republic]]<ref name="Aftermath">''[[Aftermath]]''</ref>
+**[[Phantom Squadron (New Republic)|Phantom Squadron]]<ref name="Life Debt">''[[Aftermath: Life Debt]]''</ref>
+|masters=
+|apprentices=}}
+{{Quote|It's like you said: the Death Star had to be stopped. Just as the Empire must be destroyed. If that's going to happen, some of us have to get blood on our hands. We have to be willing to kill, and willing to die. It's not easy and it never will be. But I can tell you this much, Kyrell. It's easier than standing by and doing nothing.|Wedge Antilles, to Thane Kyrell|Lost Stars}}
+'''Wedge Antilles,''' known as '''TIE SS-2-5''' during his time at [[Skystrike Academy]], was a renowned [[human]] [[Sexes|male]] [[starfighter]] [[pilot]] from [[Corellia]] who first served in the [[Imperial Navy]] as a [[TIE/ln space superiority starfighter|TIE fighter]] [[TIE fighter pilot|pilot]] until defecting to join the rebellion. He would also serve in the [[Alliance to Restore the Republic]] and years later the [[New Republic]] during their fight against the [[Galactic Empire]]. He became a member of the Rebel Alliance during the [[Galactic Civil War]] and fought in several battles of the war. He fought in the [[Battle of Yavin]], where he flew in [[Red Squadron (Rebel Alliance)|Red Squadron]] alongside [[Luke Skywalker]]. After Skywalker destroyed the [[DS-1 Orbital Battle Station|Death Star]], he and Antilles were left as the only survivors of Red Squadron.
+
+In the [[Standard year|years]] that followed, Antilles became a respected member of [[Rogue Squadron]], flying as [[Rogue Three]] during the [[Battle of Hoth]]. Antilles and his gunner  [[Wes Janson]] became the first duo to successfully destroy one of the [[All Terrain Armored Transport]]s that were attempting to destroy [[Echo Base]], the Rebel outpost on the [[planet]] [[Hoth]], while aboard an [[T-47 airspeeder]]. Six [[Standard month|months]] after the evacuation from Hoth, Antilles [[Red Leader|commanded]] Red Squadron during the [[Battle of Endor]], and he and [[General]] [[Lando Calrissian]] destroyed the [[Death Star II|second Death Star]] during the battle. The decisive battle led to the death of the [[Galactic Emperor|Emperor]], [[Darth Sidious]], and left the Empire shattered in their defeat.
+
+The Rebel Alliance soon reorganized into the New Republic, and Antilles continued to serve in their war against the now weakened Empire. Antilles undertook a lone [[Spy|reconnaissance]] [[Mission to Akiva|mission]] to the planet [[Akiva]], where he was captured while observing a gathering of Imperial forces that were preparing for a counterattack against the Republic. Following the [[rebellion on Akiva]], Antilles formed [[Phantom Squadron (New Republic)|Phantom Squadron]] and took part in the [[Liberation of Kashyyyk|liberation]] of [[Kashyyyk]]. While Phantom Squadron was disbanded by the New Republic authorities for launching an unauthorized strike on Kashyyyk, Wedge was able to reform the squadron in time for the [[Battle of Jakku]]. Following the signing of the [[Galactic Concordance]], Antilles retired to [[Hosnian Prime]] to work as a flight instructor.
+
+==Biography==
+===Early life===
+{{Quote|The Empire hurt people close to me. Family. Friends. A girl I loved, once.|Antilles, to Admiral Rae Sloane on why he became a Rebel|Aftermath}}
+Wedge Antilles hailed from the [[planet]] [[Corellia]],<ref name="Ultimate SW" /> where he grew up getting his hands dirty at a [[fuel]] depot and working local [[farm]]s in his spare time,<ref name="Aftermath" /> and where he became a [[pilot]] and a [[Technician|mechanic]].<ref name="Ultimate SW" />
+
+At a time when Antilles was flying [[Freighter|cargo ships]], the [[Galactic Empire]] recruited him and he accepted as it seemed more exciting than hauling spare parts around [[the galaxy]]. Antilles enrolled in [[Skystrike Academy]],<ref name="The Antilles Extraction" /> located on the planet [[Montross (planet)|Montross]],<ref name="Skystrike Academy">{{Databank|skystrike-academy|Skystrike Academy}}</ref> to train as an elite [[TIE fighter pilot]]. During his attendance, he met fellow [[Imperial cadet|cadets]] [[Derek Klivian|Derek "Hobbie" Klivian]] and [[Rake Gahree]].<ref name="The Antilles Extraction" /> He became aware of the Empire's cruelty, partly because it hurt people close to him&mdash;his family, friends, a girl he once loved.<ref name="Aftermath" /> In time, his desire to defect to the rebellion attracted the attention of "[[Fulcrum (title)|Fulcrum]]",<ref name="The Antilles Extraction" /> who recruited him.<ref name="Aftermath" />
+
+===The Rebellion===
+====Skystrike Academy====
+{{Quote|Commander, we heard you're looking for some good pilots.|Wedge Antilles, to Jun Sato|The Antilles Extraction}}
+[[File:Wedge rebels s3.jpg|thumb|left|250px|Antilles as a TIE Fighter pilot.]]
+In [[2 BBY]], after Imperial forces [[Massacre near Teralov|massacred]] the surrendering crew of a rebel transport near [[Teralov]], Antilles contacted Fulcrum to defect alongside Gahree and Klivian; Fulcrum in turn relayed his message to the leaders of the [[Phoenix Cell]]. They dispatched the former Imperial cadet and [[Mandalorian]] explosives expert [[Sabine Wren]] on an [[Escape from Skystrike Academy|undercover mission]] to rescue the cadets. Sabine infiltrated the Academy as a cadet under the name "Ria Talla".<ref name="The Antilles Extraction" />
+
+Antilles met "Talla" during a [[TIE/ln space superiority starfighter|TIE fighter]] [[Flight simulator|simulator]] exercise, in which they destroyed several rebel [[BTL-A4 Y-wing assault starfighter/bomber|Y-wings]] but hesitated at shooting an unarmed [[transport]]. As a result, their fighters were destroyed by a simulated version of the ''[[Ghost]]'', flown by [[Captain]] [[Vult Skerris]], who lectured Antilles and Wren that the consequence of insubordination was [[death]] in combat. Following the exercise, Antilles warned Wren that people at the Academy did not usually care about ethics. After [[Governor]] [[Arihnda Pryce]] and [[Agent]] [[Alexsandr Kallus|Kallus]] arrived to investigate rumors of defectors, Gahree argued that they were undertaking risky action, but Antilles told him and Klivian to relax.<ref name="The Antilles Extraction" />
+
+Later, Antilles met with Wren at a [[Hangar|hangar bay]] where he confided his unease with the recent simulator exercise. He voiced that he had not signed up to kill indiscriminately, and finally expressed a desire to leave, to which Wren revealed her true name and reassured Antilles that the rebels had gotten his message. She then told Antilles and his friends to be ready to leave at a moment's notice, but when he asked Wren about her plan, she responded that she would think it up, much to Antilles' surprise.<ref name="The Antilles Extraction" />
+
+An opportunity to escape arose when Pryce had [[Commandant]] [[Goran (instructor)|Goran]] order the cadets to engage in a mock combat exercise in space. When Wren's support [[CR90 corvette]] arrived, Antilles, Gahree and Klivian followed at her direction towards the rebel [[corvette]]. However, Governor Pryce disabled their [[solar collector]]s, leaving them stranded in space. Under her orders, Captain Skerris destroyed Gahree's fighter as a warning to the rebels and drove away the rebel vessel. Antilles, Klivian and Wren were brought before Pryce, who demanded to know which one of them was the rebel agent and threatened to fasten Antilles to a [[torture]] device. To protect him, Wren identified herself as the agent. The trio was then separated, as Kallus escorted Antilles and Klivian to their [[Prison|holding cell]].<ref name="The Antilles Extraction" />
+
+[[File:The Antilles Extraction thumb.png|thumb|right|250px|Antilles and "Hobbie" Klivian with Sabine Wren.]]
+Inside, the two pilots argued about the merits of escaping without a plan, when they were freed by Wren after she had escaped from Pryce. Being pursued by [[stormtrooper]]s, the trio fled down a corridor only to run into Agent Kallus, who due to his [[Ambush on an Imperial construction module|encounter]] with Wren's comrade [[Garazeb Orrelios]], helped them to escape by telling them to head to Hangar 24. Once there, the fugitives commandeered a [[TIE/sa bomber]]. Antilles piloted the slow-moving craft which was pursued by Skerris' [[TIE/IN interceptor|TIE Interceptor]]. Despite taking several hits, the trio managed to escape when Wren's rebel comrades arrived in their CR90 corvette, they made the jump into [[hyperspace]] together. Upon their arrival at [[Chopper Base]] on [[Atollon]], they were greeted by [[Commander]] [[Jun Sato]], who welcomed Antilles and Klivian into the [[Early rebellion against the Galactic Empire|rebellion]].<ref name="The Antilles Extraction" />
+
+====Chopper Base====
+{{Quote|Hobbie, Wedge, let's go! Move it!|Hera Syndulla, to Antilles and "Hobbie" Klivian |Warhead (episode)}}
+[[File:Hobbie Wedge Warhead.jpeg|thumb|left|250px|Antilles and Hobbie on Atollon.]]
+Shortly after the [[Spectres|Ghost team's]] [[Mission to investigate Geonosis|mission]] to [[Geonosis]], Antilles and Klivian were sent by Captain [[Hera Syndulla]] on a training exercise away from Chopper Base, along with several other Phoenix Group personnel. During his absence, an [[E-XD infiltrator droid]] designated [[EXD-9]] [[EXD-9's infiltration of Chopper Base|found]] the base and attempted to broadcast its location to the [[Imperial Navy]], only for Garazeb Orrelios, [[AP-5]], and [[C1-10P]] to send it back to its [[Star Destroyer]] with its [[self-destruct mechanism]] activated. Although the rebellion was able to keep the location of its Atollon base secret for the time being, [[Grand Admiral]] [[Mitth'raw'nuruodo|Thrawn]] was able to use the incident to narrow down the possibilities for the base's location.<ref name="Warhead">{{Rebels|Warhead (episode)|Warhead}}</ref>
+
+===Alliance to Restore the Republic===
+====Killun 71====
+{{Quote|Now I can see why I got this mission. Nobody else wanted it.|Wedge Antilles on the bickering between AP-5 and C1-10P "Chopper"|Secret Cargo}}
+[[File:Double Agent Droid thumb.png|thumb|right|250px|Antilles found AP-5 exasperating.]]
+Following the reorganization of the rebellion into the [[Alliance to Restore the Republic]]<ref name="Secret Cargo">{{Rebels|Secret Cargo}}</ref>, [[Lieutenant]] Antilles undertook a [[Mission to recover Imperial codes|mission]] on behalf of [[Phoenix Leader]] Hera Syndulla to steal a set of clearance codes for the Lothal strike mission from the [[Imperial Security Bureau]] [[Killun Station|station]] on [[Killun 71]]. For the mission, Wedge was disguised as a TIE fighter pilot and was accompanied by the rebel droids AP-5 and Chopper. The rebels traveled to the base in a stolen [[Sentinel-class landing craft|''Sentinel''-class landing craft]].<ref name="DAD">{{Rebels|Double Agent Droid}}</ref>
+
+Wedge found AP-5 and Chopper to be petty and quarrelsome. Antilles was irked by AP-5's fastidiousness but remained focused on the mission. Using stolen clearance codes and posing as a TIE fighter pilot, Antilles managed to land the ''Sentinel'' shuttle without incident at Killun Station under the pretext of delivering two new droids to the base. While Antilles waited aboard the shuttle, AP-5 and Chopper infiltrated the base. AP-5 managed to obtain the clearance codes from the central computer. However, Chopper was hijacked by a team of Imperial [[slicer]]s while accessing a terminal network.<ref name="DAD" />
+
+During the return journey, Antilles did not suspect anything suspicious about Chopper. The Imperial-controlled Chopper curried favor with Antilles by offering him [[blue milk]]. AP-5 tried to warn Wedge but the young pilot thought that the [[RA-7 protocol droid]] was being paranoid. Wedge was irked when AP-5 followed him into the [[refresher]] and accused the protocol droid of dabbling in conspiracy theories. Unknown to AP-5 and Wedge, their movements and conversations were being watched by the Imperial slicers, whose [[LT-319|controller]] was determined to find the location of Chopper Base.<ref name="DAD" />
+
+After returning to the ''Ghost'', Antilles told Hera, Ezra, and Zeb that AP-5 and Chopper were playing a sort of spy game. While Zeb and Ezra shared Wedge's sentiments, AP-5 insisted that something was wrong and managed to warn Hera. While Hera stopped Chopper from downloading the ship's hyperspace logs, Wedge related his encounter with AP-5 in the refresher. After Hera returned to the common area and reaffirmed AP-5's warnings, Antilles joined the Spectres in searching for Chopper, who had headed to the engine room.<ref name="DAD" />
+
+Chopper managed to trap the rebels in the cargo bay and seal the entrances. Under the control of his Imperial handlers, Chopper then exposed the cargo bay to [[realspace|zero gravity space]] in an attempt to kill the rebels. Hera managed to seal the hatch manually but the rebels were unable to return to the cockpit. Since AP-5 did not need a spacesuit and had a magnetic body, the protocol droid was dispatched to open the cargo bay from outside. This enabled Wedge and the other rebels to enter the cockpit, stun Chopper, and remove the [[Computer spike|data spike]] which the Imperials were using to download data from the ''Ghost''{{'s}} [[navigation computer]].<ref name="DAD" />
+
+Hera then removed the Imperial programming from Chopper and retaliated against the Imperials by transmitting a large amount of data back to the [[IGV-55 surveillance vessel]] that the slicers were operating from. This data overload caused the ''Gozanti'' cruiser to explode, eliminating the Imperial threat to the rebellion. After returning Chopper to his prior state, the rebels rescued AP-5, who was stranded in space. Antilles was present at the cargo bay when AP-5 reunited with the other rebels. When AP-5 insulted Chopper for apologizing, Chopper waved his appendages. One of them struck Antilles, who expressed his frustration with the droids and insisted on flying solo.<ref name="DAD" />
+
+====Battle of Atollon====
+{{Quote|Phoenix Squadron, let's get out of here!"''<br />"''Roger, Phoenix Leader. We're right behind you.|Captain Hera Syndulla and Wedge Antilles near the end of the battle|Zero Hour}}
+[[File:Green-Squadron-Member-Blue-Visor.jpg|thumb|left|150px|Antilles during the [[Battle of Atollon]].]]
+Antilles and Hobbie later flew [[RZ-1 A-wing interceptor|A-wing starfighters]] during the [[Battle of Atollon]]. Wedge told Hobbie to follow him as they tried to attack Thrawn's [[All Terrain Armored Transport|AT-AT walkers]]. However, they came under attack from TIE fighters. Wedge and Hobbie managed to escape with the remnants of Phoenix Squadron and [[General]] [[Jan Dodonna]]'s [[Massassi Group]] to [[Yavin 4]].<ref name="Zero Hour" />
+
+====Supply mission====
+{{Quote|Sorry about the mission. If we just could've...|Wedge Antilles to Hera Syndulla|In the Name of the Rebellion}}
+Antilles was stationed at [[Great Temple (Yavin 4)|Base One]] on Yavin 4 under the command of Syndulla, Antilles later flew a Y-wing starfighter on a supply mission. Since the Empire had been monitoring their movements through a [[Jalindi relay|relay station]]
+at [[Jalindi]], the squadron was ambushed and suffered damaged. Wedge and his squadron managed to return to Yavin 4. While descending, Antilles dumped fuel at the advice of Hera. Wedge and his starfighter survived the landing.<ref name="ITNOTR">{{Rebels|In the Name of the Rebellion}}</ref>
+
+====Comradeship====
+During one of his first missions as a pilot for the Alliance, Antilles crashed an [[A-wing starfighter|A-wing]] at the lip of a [[volcano]], allegedly at the urging of Fulcrum. The crash broke one of his legs in three places, almost cutting short his career as a [[Rebel pilot]], but he convinced the Alliance leadership to let him work aboard a freighter, where he manned the [[laser cannon]]s and occasionally worked as a [[navigator]].<ref name="Aftermath" /> While in the service of the Rebellion, he became friends with fellow pilots such as [[Biggs Darklighter]] and [[Jek Tono Porkins]].<ref name="Ultimate SW" />
+
+===Galactic Civil War===
+====Battle of Scarif====
+{{Quote|Attention, all flight personnel, please report to your commanders immediately. All flight personnel, please report to your commanders immediately. We have been redirected to Scarif. Pilots, you'll be briefed by your squadron leaders en route. May the Force be with you.|Wedge Antilles, to all rebel pilots|Rogue One: A Star Wars Story}}
+When a [[squad]] of Rebel soldiers under the name "[[Rogue One (squad)|Rogue One]]" took it upon themselves to steal the [[Death Star plans|plans]] of the [[DS-1 Orbital Battle Station|Death Star]], [[Alliance High Command]] learned that they had engaged in a [[Battle of Scarif|battle]] on [[Scarif]] (which marked the beginning of the [[Galactic Civil War]]), they decided to deploy support; Antilles was tasked to announce to flight personnel to report in and redirect to Scarif, although he himself stayed on Yavin.<ref name="Rogue One">''[[Rogue One: A Star Wars Story]]''</ref>
+
+====Battle of Yavin====
+{{Quote|Look at the size of that thing!|Wedge Antilles, upon seeing the Death Star for the first time|audio=LookAtTheSizeOfThatThing.ogg|Star Wars: Episode IV A New Hope}}
+While the Rebel forces suffered heavy losses during the battle, [[Prince]]ss [[Leia Organa]] and her companions on the ''[[Millennium Falcon]]'' eventually brought the plans to Yavin.<ref name="Episode IV" /> Antilles was tasked to oversee a simulation test for a new recruit, [[Luke Skywalker]]. He explained the test to the newcomer, and noting that Skywalker had lasted over 30 seconds on his first try, Antilles advised him to listen, and encouraged not to give up. In his second try, Skywalker surpassed Antilles' highest score, and Antilles joked that should Skywalker write an autobiography, he should write 'I owe everything to Wedge Antilles', when Skywalker told it was only because he had helped him.<ref name="TPtSatFB">''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]''</ref>
+
+With the Death Star approaching, its readouts were analyzed, and Antilles attended a briefing by Dodonna in which Dodonna over-viewed the plan of attack. It involved [[starfighter]]s assaulting the Death Star and firing a [[proton torpedo]] into a two-[[meter]]-wide [[thermal exhaust port]].<ref name="Episode IV" />
+
+[[File:Wedge Antilles.jpg|thumb|left|190px|Antilles during the Battle of Yavin.]]
+As a member of [[Red Squadron (Rebel Alliance)|Red Squadron]], Antilles flew a [[T-65B X-wing starfighter]] under the [[callsign]] "[[Red Two]]" when the Alliance launched the [[Battle of Yavin]]. With only fifteen minutes to spare, Antilles destroyed a number of enemy targets but, in the process, lost his friend Porkins to enemy fire. When Skywalker was unable to shake a TIE fighter that pursued him, Antilles destroyed the TIE fighter and saved the rookie pilot.<ref name="Episode IV" />
+
+As [[Red Leader]] [[Garven Dreis]] failed in his attempt to fire a torpedo into the reactor shaft and was killed by [[Anakin Skywalker|Darth Vader]] on his [[TIE Advanced x1]], Antilles joined Skywalker and Darklighter in a trench run, covering Skywalker on the lead. A hit from Vader's TIE damaged hydraulic lines on Antilles' X-wing (which had been hastily repaired following the Battle of Scarif), forcing him to pull out of the trench shortly before Darklighter was killed by Vader. Antilles attempted to re-enter the trench with a group of TIE fighters trailing him, but backed off after Skywalker was able to fire proton torpedoes at the exhaust port,  with help from the timely arrival of the ''Millennium Falcon'', piloted by Skywalker's friends [[Han Solo]] and [[Chewbacca]]. Antilles' X-wing was one of only four ships to return to Yavin 4,<ref name="Episode IV" /> and of the twelve members of Red Squadron, he and Skywalker were the only survivors of the battle.<ref name="Ultimate SW" /><ref name="Weapon of a Jedi">''[[The Weapon of a Jedi: A Luke Skywalker Adventure]]''</ref>
+
+After the battle ended, the Alliance began [[Evacuation of Yavin 4|evacuating]] the planet, as the Empire knew of their location and were sure to retaliate as a result of the Death Star's destruction. During the evacuation, Princess Organa joined with Rebel pilot [[Evaan Verlaine]] and Skywalker's [[astromech droid]], [[R2-D2]], to undertake a [[Mission to rescue the survivors of Alderaan|mission]] to rescue and unite the [[Alderaanian]]s who survived the [[The Disaster|destruction]] of [[Alderaan]]. The trio stole [[Jan Dodonna's T-1 shuttle|a]] [[T-1 shuttle|shuttle]] from the Rebel base, leaving on their mission in defiance of General Dodonna's orders. Antilles and Skywalker were sent to intercept the shuttle and return the escaping Rebels to the Great Temple, but Verlaine, who piloted the shuttle, outmaneuvered the two X-wing pilots and the shuttle jumped into hyperspace.<ref name="PL1">''[[Princess Leia, Part I]]''</ref> Organa went on to successfully complete her mission.<ref name="PL5">''[[Princess Leia, Part V]]''</ref>
+
+====Mission to Giju====
+{{Quote|You know, for just an hour I'd like to know what it's like to fly with the Force watching my back.''"<br />"''It's almost as good as having you watching my back.|Wedge Antilles and Luke Skywalker|The Weapon of a Jedi: A Luke Skywalker Adventure}}
+Newly-appointed Red Leader Commander [[Arhul Narra/Canon|Arhul Narra]] asked Antilles and Skywalker to continue to fly with Red Squadron, while making it clear that neither of them should expect special treatment for surviving an encounter with the Death Star, even if they did destroy it, and the two accepted. After numerous missions alongside Skywalker and earning each other's complete trust, Antilles assisted on a [[Mission to Giju|mission]] for Red Squadron above [[Giju]], under the designation "[[Red Three]]". Antilles, Skywalker and Narra escorted a transport carrying underground rebel leaders being evacuated from the planet.<ref name="Weapon of a Jedi" />
+
+Once the package was clear and calculating its jump into hyperspace, the three followed the scatter protocol to meet at the rendezvous point, [[Devaron]], at 2300 hours. As he arrived, he attached his X-wing to a freighter at a [[Devaron refueling station|refueling station]]. Antilles soon met with Skywalker, who was then sent with his two faithful [[droid]]s, [[C-3PO]] and R2-D2, and the [[Y 4]] on a [[Mission to recover Imperial communication logs|mission]] for [[Chancellor (Rebel Alliance)|Chancellor]] [[Mon Mothma]]; Antilles wished him good luck before parting ways.<ref name="Weapon of a Jedi" />
+
+====The ''Harbinger''====
+{{Quote|This is Red Three. I've got eyes on the breach. Making my run now.|Wedge Antilles, to the rest of the Alliance Fleet|Star Wars 22: The Last Flight of the Harbinger, Part II}}
+Sometime later, in order to break the [[Siege on Tureen VII|blockade]] of [[Tureen VII]],<ref name="SW23">''[[Star Wars 23: The Last Flight of the Harbinger, Part III]]''</ref> Antilles was part of an [[Hijacking of the Harbinger|operation]] to hijack the [[Imperial-class Star Destroyer|''Imperial''-class Star Destroyer]] ''[[Harbinger (Imperial I-class)|Harbinger]]'', along with the rest of Red Squadron, the ''Millennium Falcon'' and Rebel-allied [[smuggler]] [[Sana Starros]]. During the proceedings, Antilles engaged the hoard of TIE fighters deployed by the ''Harbinger'', as did all members of Red Squadron, so as to cover the ''Falcon'' while Solo made his run to open a breach in the Star Destroyer's [[hull]] near the main [[engine]] [[reactor]] with [[proton bomb]]s. Once they successfully did so, Antilles used his chance and fired proton torpedoes to overload the reactor; although they hit the mark, it did not overload as expected and Skywalker was forced to make a run into the breach and overloaded the reactor at close-range.<ref name="SW22">''[[Star Wars 22: The Last Flight of the Harbinger, Part II]]''</ref>
+
+Upon the ''Harbinger''{{'s}} imminent self-destruction, its [[Unidentified Imperial admiral (Harbinger)|admiral]] ordered all personnel to evacuate, leaving Antilles and Red Squadron to intercept all Imperial vessels, while the ''Falcon'' entered the Star Destroyer. When Antilles lost communication with them, he was momentarily worried, but the mission was a success&mdash;the infiltration team jettisoned ''Harbinger''{{'s}} main reactor into space and avoided the explosion, while leading Imperial evacuees to inform [[Imperial High Command|Imperial Command]] that they had lost the ship.<ref name="SW22" /> After the operation, [[Blue Squadron (Rebel Alliance)|Blue Squadron]]<ref name="SW24">''[[Star Wars 24: The Last Flight of the Harbinger, Part IV]]''</ref> and Red Squadron were tasked to defend the ''Harbinger''.<ref name="SW25">''[[Star Wars 25: The Last Flight of the Harbinger, Part V]]''</ref>
+
+====The Storms of Crait====
+{{Quote|You want to come after Wedge Antiles...You better bring a Star Destroyer!|Wedge Antilles to SCAR Squadron|Star Wars: The Last Jedi – The Storms of Crait 1}}
+Antilles later joined the [[Mission to Crait|mission]] to [[Crait]] to see if it could be used as a rebel base.<ref name="Storms of Crait">''[[Star Wars: The Last Jedi – The Storms of Crait 1]]''</ref>
+
+====Mission to Oulanne====
+{{Quote|You defied the Empire alone. You gave up the life and career you'd built rather than violate your principles. I'd call that brave.|Wedge Antilles, to Thane Kyrell|Lost Stars}}
+[[File:WedgeThane.png|thumb|right|250px|Antilles recruited the ex-Imperial pilot Thane Kyrell.]]
+Eighteen [[Standard month|months]] after the Battle of Yavin, Antilles as a [[Lieutenant Commander]] led a mercy mission to [[Oulanne]]. Alongside other Rebel pilots, they delivered a substantial haul of medical supplies and emergency rations after a massive earthquake had devastated part of its megacontinent a month before. Upon learning that the ''[[Mighty Oak Apocalypse]]'' on behalf of off-world Oulannists had come to their aid as well, Antilles and his fellow pilots helped them distribute the supplies after a [[megahurricane]]. Impressed by the ''Moa''’s pilot [[Thane Kyrell]], Antilles asked Kyrell if he had done other mercy runs (which he had) and asked him to speak with him in private after they had finished unloading the crates.<ref name="LS">''[[Lost Stars]]''</ref>
+
+During their conversation, although Kyrell revealed he was an ex-Imperial pilot, Antilles asked him to join the Rebellion. Kyrell initially refused, but after a few [[Standard hour|hours]], some [[Corellian ale]] and a talk with his employer [[Lohgarra]], he accepted Antilles' invitation.<ref name="LS" />
+
+====Battle of Hoth====
+{{Quote|Whoa! That got him!|Antilles, after destroying a downed All Terrain Armored Transport|Star Wars: Episode V The Empire Strikes Back}}
+[[File:WedgeMissionAccomplished.jpg|thumb|left|250px|Antilles, while piloting a snowspeeder during the Battle of Hoth.]]
+In [[3 ABY]], Antilles was assigned to [[Echo Base]] on the [[Water|ice]] planet [[Hoth]], where he served alongside Skywalker as a veteran member of [[Rogue Squadron]], which he fought with in a number of battles during the war.<ref name="DB:Wedge" /> The base was discovered by an [[Viper probe droid|Imperial probe droid]] and [[Battle of Hoth|assaulted]] by Imperial forces, prompting the entire Rogue Squadron to engage the  [[All Terrain Armored Transport (Galactic Civil War)|All Terrain Armored Transports]], which approached the base in order to destroy its [[Deflector shield generator|energy shield]] and allow Imperial forces to land.<ref name="Episode V" />
+
+Led by Skywalker, the squadron flew [[T-47 airspeeder]]s and Antilles, as [[Rogue Three]],<ref name="DB:Wedge" /> and his [[gunner]], [[Wes Janson]], attempted to destroy the walkers using conventional laser weaponry, but the AT-AT armor proved too strong for blasters. Skywalker ordered his squadron to begin using tow cables to bring them crashing down, and Antilles and Janson were assigned to the first attempt. Janson shot the tow cable onto one of the AT-ATs while Antilles piloted the snowfighter around the [[walker]], tangling its legs in the cables until the giant vehicle fell onto the snowy battlefield. The crash left its neck exposed, and Antilles fired the shot that hit the weak point and destroyed the AT-AT,<ref name="Episode V" /> becoming the first pilot in the battle to destroy one of the walkers.<ref name="DB:Wedge" />
+
+The efforts of the Rogue Squadron were ultimately unsuccessful—the AT-ATs destroyed the shield generator, and Imperial forces led by Darth Vader overran Echo Base. As they did so, Antilles and the remaining Rebels escaped the ice world;<ref name="Episode V" /> aboard an X-wing fighter, Antilles, along with Janson and Klivian, helped the last [[GR-75 medium transport|Rebel transport]], the ''[[Bright Hope]]'', escape Hoth<ref name="Ultimate SW" /> and regroup with the [[Alliance Fleet]] at a rendezvous point<ref name="DB:Wedge" /> onboard the [[MC80 star cruiser]] ''[[Liberty]]''. There, Antilles informed Thane Kyrell of [[Dak Ralter]]'s death during the Battle of Hoth, after congratulating each other on the walkers they each had taken down. Afterwards, as several vital personnel were missing, General [[Carlist Rieekan]] called an emergency conference of the senior [[officer]]s attached to their portion of the fleet, which Antilles got pulled into.<ref name="LS" />
+
+====Zastiga====
+After becoming the [[Wing Commander|wing commander]] of Red Squadron, Antilles went to [[Zastiga]], where he met with Skywalker while the Alliance High Command held a top-clearance meeting. He reunited with [[Nien Nunb]] and Skywalker for a discussion of "reconnaissance tactics" about Antilles' refusal to pay the [[Sullustan]] a drink after saving him at [[Hagar Secundus]], which he had eluded several times.<ref name="Moving Target">''[[Moving Target: A Princess Leia Adventure]]''</ref>
+
+In addition to the command of the Red Squadron, Antilles achieved the [[Military rank|rank]] of Commander.<ref name="BS:ZH">{{InsiderCite|160|Blade Squadron: Zero Hour}}</ref>
+
+====Battle of Endor====
+{{Quote|Alright, Wedge. Go for the power regulator on the north tower.''"<br />"''Copy, Gold Leader. I'm already on my way out.|Lando Calrissian and Antilles, as they fired the shots that destroyed the second Death Star|Star Wars: Episode VI Return of the Jedi}}
+[[File:Home One briefing room.jpg|thumb|right|210px|Antilles attended a briefing for the Battle of Endor aboard ''Home One''.]]
+After the Battle of Hoth, Antilles was present at a briefing aboard the Rebel command ship, ''[[Home One]]'', in which High Command introduced the plan to destroy the [[Death Star's shield generator|shield generator]] protecting the Empire's [[Death Star II|second Death Star]] and revealed that [[Galactic Emperor|Emperor]] [[Darth Sidious|Palpatine]] himself was aboard the Death Star to oversee the final stages of the station's construction.<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref> His squadron (as well as [[Gold Squadron (Rebel Alliance)|Gold]] and [[Green Squadron (Rebel Alliance)|Green Squadrons]]) was assigned to be part of General [[Lando Calrissian]]'s strike force to enter the Death Star and destroy it from the inside.<ref name="BtPotDS!">''[[Return of the Jedi: Beware the Power of the Dark Side!]]''</ref> For the assault, Antilles appointed [[Norra Wexley]].<ref name="Aftermath" />
+
+Along with the rest of the Alliance Fleet, Antilles and his squadron arrived to the [[Endor system]], only to discover that the [[deflector shield]] was still operational. Lured into the Emperor's trap, the Rebel fleet found itself under [[Battle of Endor|attack]] by the Imperial fleet's [[TIE line|TIE fighters]].<ref name="Episode VI" /> After a heads-up from Calrissian, Antilles ordered Red Two and Red Three [[Sila Kott]] to pull in, when another two TIEs came in; Antilles then ordered his accompanying fighters to cut to the left, while he took out the TIE leader. At the same time that the ''Millennium Falcon'' destroyed two other TIEs, Antilles noticed the remaining three of the group headed for [[EF76 Nebulon-B escort frigate]] ''[[Redemption]]''. Antilles then knocked out the leader, but not before two X-wings were shot down and the ''Falcon'' took a brutal hit to its forward deflectors, and still more TIE fighters bombarded the [[frigate]] until the hull started to crack.<ref name="BtPotDS!" />
+
+It was then that Calrissian ordered all fighter squadrons to accelerate to attack speed and follow him to the encounter of the [[Executor-class Star Dreadnought|Super Star Destroyer]] ''[[Executor]]'', in order to draw Imperial fire off their [[cruiser]]s.<ref name="Episode VI" /> Antilles, along with the remainder of the [[Rebel Alliance Starfighter Corps|Alliance Starfighter Corps]], engaged then a horde of TIE fighters that rushed to meet their attack.<ref name="BtPotDS!" />
+
+[[File:WedgeFires-ROTJHD.jpg|thumb|left|190px|Antilles fired one of the shots that destroyed the Death Star II.]]
+However, General Solo and his [[Endor strike team]] managed to destroy the shield generator on the moon below, allowing Antilles, Calrissian and Nunb on the ''Millennium Falcon'', and the remainder of Red and Gold Squadron to enter the superstructure, making their way through a maze in order to reach the reactor core. As Antilles destroyed the power regulators on the north tower, the ''Falcon'' destroyed the core itself, setting off a chain reaction that left the two pilots in a race against time. Antilles escaped first, followed closely thereafter by the ''Millennium Falcon'', before the Death Star was consumed by a massive explosion.<ref name="Episode VI" />
+
+After the battle, the Alliance forces headed for the surface of Endor, where they joined Solo, Organa, and their team in [[Bright Tree Village]], the home of the [[Ewok]]s who had helped them destroy the shield generator. Rebels and Ewoks alike held a celebration honoring their decisive victory over the Empire, and Antilles was in attendance. He shook hands with Chewbacca and shared a hug with his friend Skywalker,<ref name="Episode VI" /> as all of the Rebel forces rejoiced in their victory before setting out on the difficult task to restore the [[Galactic Republic]].{{Fact}} For his part, Antilles looked forward to further service with Rogue Squadron.<ref name="Bio Gallery">{{SW|url=wedge-antilles-biography-gallery|text=Wedge Antilles Biography Gallery}}</ref>
+
+====Mission to Malastare====
+Some time following the Battle of Endor, Antilles scouted an [[Malastare communications station|Imperial communications hub]] on [[Malastare]] which would later be targeted in a [[Battle of Malastare (Galactic Civil War)|mission]] spearheaded by [[Blade Squadron]].<ref name="BS:ZH" />
+
+===New Republic===
+====Imperial Future Council====
+{{Quote|The galaxy is home to good people. There's more of us than there are of you.''"<br />"''It's not about numbers or percentages. It's about faith. The few of us have infinitely more faith than the many of you.''"<br />"''I have faith in the New Republic.''"<br />"''And that faith will be tested.''"<br />"''Your face will be tested when I kick in your teeth.|Wedge Antilles and Yupe Tashu|Aftermath}}
+[[File:Admiral Sloane SWArmada Tiziano Baracchi.png|thumb|right|250px|Admiral Sloane, an enemy of Wedge.]]
+Months later, now a [[New Republic pilot|pilot]] (and having obtained the rank of Captain) of the [[New Republic]], Antilles believed the Imperial forces had moved to the [[Outer Rim Territories|Outer Rim]] and told Ackbar and Mothma he had devised a run to find the supply lines that were bolstering the Imperials. On the [[HH-87 Starhopper]] ''[[Rover (Starhopper)|Rover]]'', under the alias "[[Gev Hessan]]", Antilles set out on a reconnaissance mission that took him to [[Florrum]], [[Ryloth]], [[Hinari]], [[Abafar]], [[Raydonia]] and [[Akiva]], where he finally [[Mission to Akiva|found]] signs of the Imperial remnant. His false identity was discovered by the Star Destroyer ''[[Vigilance (Imperial-class Star Destroyer)|Vigilance]]'', which captured the ''Rover'' with a [[tractor beam]]. Antilles destroyed his ship once inside the ''Vigilance'', avoiding capture by clambering through ventilation ducts and making his way to the communications room to send a message through the local channel traffic, hoping to find a sympathizer in the world below.<ref name="Aftermath" />
+
+Admiral [[Rae Sloane]] found Antilles and had him arrested; she also provided medical attention for him while they descended to the planet below, keeping him sedated during the [[Imperial Future Council]]'s [[Emergency summit on Akiva|first meeting]]. After intermittent torture by [[Yupe Tashu]], Sloane appeared in his cell and asked why Antilles had joined the Empire before leaving him alone. After another confrontation with Tashu, Antilles escaped after Sloane had destroyed part of the palace with one of the [[Turbolaser|turbolaser cannons]] set up across [[Myrra]], to stop Norra Wexley's assault. Though Antilles discovered a secret passage to escape, he decided to stay; he fought [[Adea Rite]] over her [[Viewscreen|holoscreen]] and sent a summons to war to the Republic channels, before passing out and falling in Sloane's hands again.<ref name="Aftermath" />
+
+Strapped down to a hovering table ushered forward by a pair of stormtroopers and a [[2-1B surgical droid|2-1B medical droid]], the badly-injured Antilles was later transported to the ''[[Golden Harp]]'', when he saluted Norra Wexley—who had been trying to rescue him. Kept in a separate room from everyone else, he was rescued by her son, [[Temmin Wexley|Temmin]], once the ship crash-landed on the ''Vigilance'' and brought onto a [[Lambda-class T-4a shuttle|''Lambda''-class shuttle]] to be piloted by [[Jas Emari]]. Thanks to them, was brought to [[Hanna City]] in [[Chandrila]], where he received medical treatment. After a week, he met with Ackbar, and together they awarded Norra Wexley a [[medal]], but also informed her of the [[Rebellion on Akiva|battle's]] outcome, and assigned her and her team from Akiva a new mission—to hunt Imperial war criminals.<ref name="Aftermath" />
+
+====Friend of the Wexleys====
+{{Quote|And hey, watch your mouth, will you? I don't want your mom thinking you're picking up that kind of language from me.''"<br>"''Sure, Dad, whatever you say. I'll get the next flight right.|Wedge became a mentor for Temmin Wexley|Aftermath: Life Debt}}
+[[File:Norra Wexley.png|thumb|left|175px|Norra Wexley, a fellow rebel pilot.]]
+Due to Tashu's torture, he was forced to remain on Chandrila until he was fully recovered. Meanwhile, he worked as a liaison for Wexley's team, and trained Temmin (whom he nicknamed "Snap" for habit) as an X-wing pilot. Antilles let the boy run training exercises out in his personal X-wing over the [[Silver Sea]]. He also developed feelings for Norra, but did not act on them openly. At the same time, he decided to create [[Phantom Squadron (New Republic)|Phantom Squadron]].<ref name="Life Debt" />
+
+After a few months, Leia Organa asked Antilles to help her find her missing husband, Han Solo. Antilles accepted and, as per her request, summoned Norra Wexley to her as soon as she and her team arrived from their [[Capture of Perwin Gedde|mission]] to capture [[Perwin Gedde]]. Once she accepted the mission to find Solo, Antilles told [[Kyrsta Agate]] about the mission before accompanying Wexley on her [[MK-4 freighter]] ''[[Moth (freighter)|Moth]]'' to Solo's last known location, near [[Warrin Station]], and invited her to a drink before arriving at the coordinates. Though they found no trace of the ''Millennium Falcon'', they found wreckage and a still-functioning [[Prowler 1000 seeker droid|Prowler probe droid]], which alerted their presence to the Star Destroyer ''[[Scythe]]''. The ''[[Concord]]'', under Agate's command, and the ''[[Sunspire (New Republic)|Sunspire]]'' soon came to their rescue, [[Skirmish near Wild Space|destroying]] the Imperial ships. Hailed by the ''Concord'', Wexley kissed Antilles.<ref name="Life Debt" />
+
+Upon their return to Chandrila, Antilles and Agate met with Ackbar and Organa (who was reprimanded for her request), and was later present when Ackbar ordered Wexley and her team to stop the manhunt for Solo. Wexley, however, refused and resigned her commission to go look for Solo with her team. Their search eventually meant the liberation of [[prisoner]]s from [[Ashmead's Lock]] on [[Kashyyyk]], who traveled to Chandrila on the ''Falcon''. Alongside Organa, Antilles went to greet Wexley upon her arrival; however, they were both disappointed: Solo had remained behind to [[Liberation of Kashyyyk|liberate Kashyyyk]] and Wexley had found her missing husband, [[Brentin Lore Wexley|Brentin]].<ref name="Life Debt" />
+
+====Liberation of Kashyyyk====
+{{Quote|Phantom Squadron's got your back, General Organa. Let's save the day and bring it home.|Wedge Antilles, to Leia Organa|Aftermath: Life Debt}}
+[[File:Teenage Snap Wexley.png|thumb|right|200px|Wedge was a mentor to Norra's son Temmin.]]
+In the following month, as his leg was almost fully healed, he was assigned to the special security detail for the upcoming [[Liberation Day (New Republic)|Liberation Day]] celebrations and the [[Imperial-Republic peace talks]]. That day, Antilles was overlooking the day's events from a balcony when he received a recorded message from Organa, telling him she had gone to the [[Kashyyyk system]] alone with Evaan Verlaine on the ''Falcon'', and invited him to intervene. At once, Antilles notified Mon Mothma of this but promptly left Chandrila alongside Phantom Squadron.<ref name="Life Debt" />
+
+Captain Antilles' Phantom Squadron and Princess Leia battled the three Imperial Star Destroyers ''[[Dominion]]'', ''[[Vitiator]]'' and ''[[Neutralizer]]'' above Kashyyyk. Their meager forces were soon reinforced by Admiral Ackbar's flagship ''Home One''. Han Solo managed to hijack the ''Dominion'' and turned the ship's guns on the ''Vitiator'' and ''Neutralizer''; destroying the former and forcing the latter to surrender. Though they were successful, and Organa was reunited with Solo, the Republic had received a blow during the concurrent [[attack on Chandrila]] and the scattered Imperial Fleet gathered on [[Jakku]].<ref name="Life Debt" />
+
+Following the liberation of Kashyyyk, Wedge watched his friend Temmin crash an X-wing during a computer simulator exercise. When Temmin demanded to fly a real X-wing, Wedge responded that the New Republic military authorities had tightened access to X-wings. He also promised the boy that if he improved his simulator scores, he could arrange for Temmin to have a ship before the next moon alignment. When Temmin remarked that his own father Brentin, who had been implanted with an inorganic biochip, had tried to assassinate Chancellor Mothma, Wedge asked if things with Norra were better.<ref name="Life Debt" />
+
+Temmin then complimented Wedge for his flying during the liberation of Kashyyyk. Wedge responded that the full credit should go to Leia. Wedge also added that he had done what Leia had needed him to do and also warned Snap to watch his language. Temmin addressed Wedge as "Dad" and promised to do as he said. Temmin then asked if he could go for another round on the simulator but changed his mind after receiving a message from his mother Norra. Before Snap left, Wedge told the boy that he was welcome to try the simulator again.<ref name="Life Debt" />
+
+====Battle of Jakku====
+{{Quote|Phantom Leader, you've got a bug on your back. Lemme swat him for you.|Temmin covering Wedge's back during the Battle of Jakku|Aftermath: Empire's End}}
+[[File:Battle of Jakku.jpg|thumb|left|250px|Wedge led Phantom Squadron during the Battle of Jakku.]]
+Despite being given a medal and publicly praised for his actions during the liberation of Kashyyyk, disciplinary action was taken against Wedge and his fellow Phantom Squadron pilots for embarking on an unsanctioned mission outside the New Republic command structure. Phantom Squadron was dissolved and Wedge was reassigned to managing the New Republic military base on Chandrila. Wedge's fellow Phantom pilots [[Koko]], [[Jethpur]], and [[Yarra]] were also reassigned to support duties.<ref name="Empire's End">''[[Aftermath: Empire's End]]''</ref>
+
+Following the discovery of Imperial remnants forces on the [[Inner Rim]] planet Jakku, Temmin visited Wedge and sought his help in rescuing his mother Norra, who had infiltrated Jakku in order to hunt down Grand Admiral Sloane, the purported architect behind the attack on Chandrila. Lacking the necessary flight clearances, Wedge told Temmin he was unable to help and counseled the boy to wait until the New Republic sent its military forces to Jakku. Angered, Temmin stormed out of the hangar bay.<ref name="Empire's End" />
+
+After the Galactic Senate sanctioned the deployment of military forces to Jakku, Temmin visited Wedge again in order to enlist for the battle. Wedge responded that Phantom Squadron had been shut down. Temmin managed to convince Wedge to change his mind by pointing out that his mom Norra and droid Mister Bones were on Jakku. He also reminded Antilles of his heroic actions against the Empire and the Death Stars. Wedge realized that the boy was right and told Temmin to meet him at Hangar Forty-Seven in two hours' time. He added that Phantom Squadron was housed in that hangar.<ref name="Empire's End" />
+
+Wedge and his fellow Phantom Squadron pilots including Temmin entered the [[Battle of Jakku]] after the main New Republic fleet had arrived. Since the space above Jakku was crowded, Wedge heeded Temmin's advice that the squadron attack the Imperial air-to-space defenses so that New Republic ground forces could land on the planet. Under Wedge's orders, Phantom Squadron attacked any TIE fighters, troop carriers, and Imperial walkers they encountered. The battle turned in the New Republic's favor when [[Commodore]] Agate succeeded in downing the Imperial [[Super Star Destroyer]] ''[[Ravager]]'', which served as the enemy [[command ship]].<ref name="Empire's End" />
+
+While pursuing TIE fighters, Wedge and his fellow pilots received word from Admiral Ackbar that the ''Ravager'' had been brought down and to beware of falling debris. Wedge managed to avoid the falling debris but Temmin's X-wing was hit. Wedge and his fellow Phantom pilots survived the Battle of Jakku. Following the signing of the [[Galactic Concordance]], Wedge was made the head instructor of a new [[Hosnian Prime flight academy|flight academy]] on the planet [[Hosnian Prime]]. He was accompanied by Temmin, who had become a student, and Norra, who had also found work as an instructor there. In the wake of Temmin's father Brentin's death, Temmin believed that Wedge and Norra had developed romantic feelings for each other.<ref name="Empire's End" />
+
+===Legacy===
+Wedge Antilles would later serve as the inspiration for the [[Antilles Intercept]], a training basic for pilots within the [[Resistance]]'s [[Resistance Starfighter Corps|Starfighter Corps]] thirty years following the Battle of Endor.<ref name="TVD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+
+==Personality and traits==
+{{Quote|Phantom Squadron is shut down.''"<br>"''Then bring it back from the dead! Nobody has to know we're doing it. Nobody has to see us coming. We can be like real phantoms, Wedge. Not heroes in the books, but who cares about being in the books? My mom is there. My droid, too. I want them back. You don't want to help me get them? Fine. But then I'll know who you really are, and it isn't the guy who flew against two Death Stars and all the Empire. I'll know you're not a pilot anymore. You're just some hangar-monkey, some tired old sir-yes-sir game-leg who cares more about docking ledgers than he does about actual people.|Temmin Wexley managed to convince Wedge Antilles to participate in the Battle of Jakku by appealing to his past heroism|Aftermath: Empire's End}}
+Wedge Antilles was a [[human]] [[Sexes|male]] with [[Color|brown]] [[hair]], brown [[eye]]s, and light skin.<ref name="Episode IV" /> While Antilles had earned a place at the prestigious Skystrike Academy, he became disillusioned with the Empire for shooting unarmed transports. This led him and Derek Klivian to desert the Empire and join the rebellion.<ref name="The Antilles Extraction" /> In his youth, Antilles could be carefree at times and was once had to reminded by Hera to remain alert for an upcoming training exercise.<ref name="Warhead" /> Antilles also found the droids AP-5 and Chopper petty and argumentative. Still, he was a good team player and joined forces with his fellow rebels to steal Imperial clearance codes and to prevent an Imperial-hijacked Chopper from transmitting the coordinates of Chopper Base to the Empire.<ref name="DAD" />
+
+Through his service to the Rebel Alliance, he garnered the respect of his fellow Rebel fighters.<ref name="DB:Wedge" /> Focused and calm during his flights,<ref name="Episode IV" /><ref name="Episode V" /><ref name="Episode VI" /> he firmly believed that the only way to improve as a pilot was to constantly come up against the impossible and push oneself to the limit; during battles, he would concentrate on keeping his cool and trusting his instincts.<ref name="TPtSatFB" /> Antilles disliked being away from a cockpit for too long, and though he did not mind commanding, Norra Wexley once noticed that his whole body seemed to hunger for being behind a flight stick.<ref name="Life Debt" /> Despite his talent and standing among his fellow pilots, Antilles remained approachable and friendly to those around him.<ref name="TPtSatFB" /><ref name="Weapon of a Jedi" />
+
+Bitter at the Empire for what it had done to the people he loved,<ref name="Aftermath" /> Antilles had an unwavering strength of belief in the Alliance,<ref name="LS" /> and although courageous and full of resolve, he once resorted to bravado at the prospect of being tortured to death.<ref name="Aftermath" /> He was also unaccustomed to not being taken at his word—if he believed someone was good and told them so, he really meant it as he was not one to flatter others in his own interest,<ref name="LS" /> and was not capable of telling others easy lies.<ref name="Life Debt" /> Antilles was known to be fond of giving everyone lectures about trigger discipline, which meant not putting one's finger on the trigger until they were ready to pull it.<ref name="Life Debt" />
+
+Wedge's loyalty to Princess Leia led him and his Phantom Squadron pilots to take part in an unsanctioned mission to liberate Kashyyyk.<ref name="Life Debt" /> While the New Republic military leadership publicly praised Wedge and his fellow pilots, they were transferred to support duties as punishment for acting outside the official chain of command. Due to this disciplinary action, Wedge was despondent and unwilling to take risks. However, his friend Temmin managed to convince him to change his mind by reminding Wedge of his past heroism during the Galactic War. Wedge was a competent commander who led his squadron in attacking Imperial ground forces on Jakku in order to aid the New Republic ground assault.<ref name="Empire's End" />
+
+==Skills and abilities==
+{{Quote|You have a way with words for just a pilot.|Rae Sloane|Aftermath}}
+Antilles was a renowned pilot in the Rebel Alliance. He fought in numerous battles during the Galactic Civil War, earning him recognition from his fellow Rebels for his bravery and ace piloting abilities,<ref name="Ultimate SW" /> being famed as legendary by some.<ref name="BS">{{InsiderCite|issue1=149|issue2=150|Blade Squadron (short story)|Blade Squadron}}</ref> During the first time he tried a flight simulator, he lasted less than ten seconds, prompting him to practice and listen to advice from more experienced pilots. He would eventually obtain the highest scores, only surpassed by Luke Skywalker.<ref name="TPtSatFB" /> Due to his training as a TIE fighter pilot, Antilles was familiar with Imperial military protocol which helped him during an undercover mission to steal Imperial clearance codes.<ref name="DAD" />
+
+As a skilled starfighter pilot, Wedge shot down several Imperial fighters, transports, and walkers during the Battle of Jakku. In recognition of his efforts, Antilles was made the head flight instructor of a New Republic flight academy on Hosnian Prime following the Galactic Civil War.<ref name="Empire's End" />
+
+==Behind the scenes==
+Wedge Antilles first appeared as a supporting character in the [[1977]] film [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], where he was credited as "Red Two (Wedge)".<ref name="Episode IV" /> His surname is never mentioned in any of the films, but appears in the script for ''A New Hope''. The character's origins can be traced to early drafts of ''Star Wars'', which depicted a young pilot named Chewie. That nickname was later given to Chewbacca, so the character that had been known as Chewie took on the name of Wedge.<ref name="Making ANH">''[[The Making of Star Wars: The Definitive Story Behind the Original Film]]''</ref>
+
+[[File:Johnd.jpg|thumb|right|170px|Colin Higgins as "Fake Wedge" in ''A New Hope''.]]
+Antilles was portrayed by two actors in ''A New Hope''. During the Rebel briefing, he was played by actor [[Colin Higgins]], but he was replaced with [[Denis Lawson]] for the scenes depicting the Battle of Yavin&mdash;both actors were overdubbed by [[David Ankrum]] for the film.<ref name="Fake Wedge">{{SW|url=news/star-wars-mysteries-hunting-for-the-fake-wedge|text=''Star Wars'' Mysteries: Hunting for the Fake Wedge}}</ref> Higgins was used to the rehearsal periods in television acting and had not memorized his lines for the film, leading to him becoming nervous and dispirited while shooting the scenes in the Rebel briefing. After only one day in which he struggled to film the character's scenes, he was fired from the production.<ref name="Star Players">{{InsiderCite|98|Star Players}}</ref> Lawson was brought in to film the remaining scenes for the character, despite having been initially passed over in favor of Higgins.<ref name="Behind the Magic">''[[Star Wars: Behind the Magic]]''</ref> Higgins' brief appearance led some fans to dub him as the "Fake Wedge".<ref name="Fake Wedge" /> In 2017, the short story collection ''[[From a Certain Point of View]]'' established "Fake Wedge" as a different character named [[Col Takbright]].<ref name="Duty Roster">{{Shortstory|story=Duty Roster|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}</ref>
+
+Lawson continued to play the character in [[1980]]'s [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]<ref name="Episode V" /> and [[1983]]'s [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']].<ref name="Episode VI" /> He was surprised to return for ''The Empire Strikes Back'', having assumed that Antilles died in ''A New Hope''.<ref name="Rebel Leader Denis Lawson">{{InsiderCite|23|Rebel Leader... Denis Lawson}}</ref> The initial drafts of ''Return of the Jedi'' depicted Antilles in an earlier scene in the film, where he would have infiltrated an Imperial fleet. During the sequence, he would have flown and ultimately crashed a TIE fighter, necessitating his rescue at the hands of Princess Leia.<ref name="Behind the Magic" /> Lawson supposedly declined an offer to reprise the role for the [[2015]] film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']],<ref name="Lawson Declined">{{Cite web|url=http://www.mirror.co.uk/tv/tv-news/star-wars-7-denis-lawson-3535688|title=Star Wars 7: Denis Lawson rejected "boring" Wedge Antilles return|work=mirror.co.uk|date=May 13, 2014}}</ref> though he later appeared at [[Celebration Orlando]].<ref>{{Cite web|url=http://www.jedinews.co.uk/conventions-events/articles/celebration-orlando-2017-denis-lawson-coming-celebration/|title=Celebration Orlando 2017: Denis Lawson Coming To Celebration|publisher=jedinews.co.uk|last=Newbold|first=Mark|date=March 28, 2017|accessdate=April 21, 2017}}</ref><ref>{{SWYoutube|_MzDOCN8ZYU|Denis Lawson (Wedge Antilles) Interview - Star Wars Celebration 2017 Orlando}}</ref> However, in December [[2017]], Lawson revealed during an interview with [[Wikipedia:Clive Anderson|Clive Anderson]] from [[Wikipedia:BBC Radio 4|BBC Radio 4]] that he actually didn't turned down the offer to reprise his role in the [[sequel trilogy]] because he wasn't interested, rather as he was frustratingly unable to do so, though he would like to be asked once more to reprise his role as Antilles.<ref name="Lawson's Truth">{{Cite web|url=https://www.bleedingcool.com/2017/12/09/denis-lawson-wedge-antilles-star-wars/|title=Denis Lawson, Wedge Antilles from Star Wars, Did Not Reject Doing the New Films After All|work=[[Wikipedia:Bleeding Cool|Bleeding Cool]]|date=December 9, 2017}}</ref>
+
+For the [[Star Wars Rebels Season Three|third season]] of the animated TV series ''[[Star Wars Rebels]]'', Antilles appeared as a defecting Imperial TIE Fighter pilot and was voiced by [[Nathan Kress]].<ref name="NK">[http://tvsourcemagazine.com/2016/07/nathan-kress-cast-wedge-antilles-star-wars-rebels/ Nathan Kress Cast as Wedge Antilles on ''Star Wars Rebels'']</ref> Kress also voiced Antilles in the [[2016]] ''[[LEGO Star Wars: The Force Awakens]]'' video game.<ref name="LEGO Star Wars">''[[LEGO Star Wars: The Force Awakens]]''</ref>
+
+For the [[2016]] film ''[[Rogue One: A Star Wars Story]]'', David Ankrum reprised his role as Antilles' voice, credited as "Red Two", during which he announced flight personnel to redirect to Scarif;<ref name="Rogue One" /> due to his ''"Look at the size of that thing!"'' line in ''A New Hope'', he was deliberately excluded from the Battle of Scarif so that the Battle of Yavin would still be the first time he had actually seen the Death Star.<ref name="Antilles Out From Scarif">{{Cite web|url=http://www.slashfilm.com/rogue-one-wedge-antilles/|title=‘Rogue One’: Where Was Wedge Antilles During the Battle of Scarif?|work=[[Wikipedia:/Film|/Film]]|date=January 31, 2017}}</ref>
+
+==Appearances==
+{{Scroll box|content=
+*''[[Star Wars: Battle Pod]]'' {{Voice}}
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars Battlefront II]]'' {{Mo}}
+*{{Rebels|The Antilles Extraction}}
+*{{SWRMCite||Sons of the Sky}}
+*{{SWRMCite||A Youth Unpromising}}
+*{{Rebels|Warhead (episode)|Warhead}}
+*{{Rebels|Double Agent Droid}}
+*{{Rebels|Zero Hour}}
+*{{Rebels|In the Name of the Rebellion}}
+*''[[Rogue One: A Star Wars Story]]'' {{Voice}}
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]''
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*''[[Star Wars: Heroes Path]]'' {{C|Fighter only}}
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*''[[Star Wars Battlefront]]''
+*{{Shortstory|story=Desert Son|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*{{Shortstory|story=Duty Roster|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*{{Shortstory|story=Grounded|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Voice}}
+*''[[Princess Leia, Part I]]''
+*''[[Heir to the Jedi]]'' {{Mo}}
+*''[[Choose Your Destiny: A Luke & Leia Adventure]]''
+*''[[The Weapon of a Jedi: A Luke Skywalker Adventure]]''
+*''[[The Weapon of a Jedi, Part 1]]''
+*''[[Star Wars 22: The Last Flight of the Harbinger, Part II]]''
+*''[[Star Wars 23: The Last Flight of the Harbinger, Part III]]'' {{Mo}}
+*''[[Star Wars 45: Mutiny at Mon Cala, Part II]]''
+*''[[Star Wars 49: Mutiny at Mon Cala, Part VI]]''
+*''[[Star Wars 50: Hope Dies, Part I]]''
+*''[[Star Wars 51: Hope Dies, Part II]]''
+*''[[Star Wars 52: Hope Dies, Part III]]''
+*''[[Star Wars 53: Hope Dies, Part IV]]''
+*''[[Star Wars: The Last Jedi – The Storms of Crait 1]]''
+*''[[Lost Stars]]''
+*[[Lost Stars (webcomic)|''Lost Stars'' webcomic]]
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+*''[[Moving Target: A Princess Leia Adventure]]'' {{Mo}}
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*{{InsiderCite|issue1=149|issue2=150|Blade Squadron (short story)|Blade Squadron}} {{Mo}}
+*{{InsiderCite|160|Blade Squadron: Zero Hour}} {{Mo}}
+*''[[Aftermath]]''
+*''[[Aftermath: Life Debt]]''
+*''[[Aftermath: Empire's End]]''}}
+
+===Non-canon appearances===
+*''[[Disney Infinity 3.0]]'' {{Voice}}
+*{{The Freemaker Adventures|A Hero Discovered}}
+*{{The Freemaker Adventures|Crossing Paths}} {{Mo}}
+*{{The Freemaker Adventures|Return of the Return of the Jedi}}
+*''[[LEGO Star Wars: The Force Awakens]]''
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+{{Scrollbox|content=
+*{{SW|url=films/star-wars-episode-iv-a-new-hope|text=''Star Wars'': Episode IV ''A New Hope''}}
+*{{SW|url=films/star-wars-episode-v-the-empire-strikes-back|text=''Star Wars'': Episode V ''The Empire Strikes Back''}}
+*{{SW|url=films/star-wars-episode-vi-return-of-the-jedi|text=''Star Wars'': Episode VI ''Return of the Jedi''}}
+*{{SWE|technology|xwing|X-wing starfighter|archivedate=20110912224644}}
+*''[[Ultimate Star Wars]]''
+*{{SW|url=news/coming-soon-to-your-personal-jedi-archives-journey-to-star-wars-the-force-awakens-sneak-peek|text=Coming Soon to Your Personal Jedi Archives: Journey to ''Star Wars: The Force Awakens'' &ndash; Sneak Peek!}}
+*{{SW|url=news/chaos-throttles-the-capital-in-star-wars-aftermath-special-excerpt|text=Chaos Throttles the Capital in ''Star Wars: Aftermath'' – Special Excerpt!}}
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars: I Am a Pilot]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*{{SW|url=news/5-of-rae-sloanes-greatest-moments|text=5 of Rae Sloane's Greatest Moments}}
+*{{SW|url=video/star-wars-rebels-season-three-trailer|text=Star Wars Rebels Season Three Trailer}}
+*{{SW|url=video/star-wars-rebels-welcome-to-the-rebellion-wedge|text=Star Wars Rebels: "Welcome To The Rebellion, Wedge"}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Entertainment Weekly's Ultimate Guide to Rogue One]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Dawn of Rebellion]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{SW|url=a-wing-fighter-history-gallery|text=A-wing Fighter History Gallery|archivedate=20180120232822}}; image #6
+*{{Databank|a-wing-fighter|A-wing Fighter|archivedate=20170710023818}}
+*{{Databank|corellia|Corellia|archivedate=20170602230700}}
+*{{Databank|death-star-ii|Death Star II|archivedate=20170706025345}}
+*{{Databank|endor|Endor|archivedate=20170203025851}}
+*{{Databank|jess-pava|Jess Pava}}
+*{{Databank|lando-calrissian-biography-gallery|Lando Calrissian biography gallery}}; image #9 {{C|of 9}}
+*{{Databank|millennium-falcon|Millennium Falcon}}
+*{{Databank|rebel-alliance|Rebel Alliance}}
+*{{Databank|rebel-pilots-biography-gallery|Rebel Pilots biography gallery}}; images #9, 10, 12 {{C|of 15}}
+*{{Databank|resistance-pilots-biography-gallery|Resistance Pilots Biography Gallery|archiveurl=http://www.webcitation.org/6yQuNKtib}}; image #2 {{C|of 6}}
+*{{Databank|snowspeeder|Snowspeeder}}
+*{{Databank|wedge-antilles|Wedge Antilles|archivedate=20140714220601}}
+*{{Databank|wes-janson|Wes Janson|archivedate=20160220171153}}
+*{{Databank|x-wing-fighter|X-wing fighter}}}}
+
+==Notes and references==
+{{Scroll_box|content={{Reflist}}}}
+
+==External links==
+*{{WP}}
+
+{{Interlang
+|cs=Wedge Antilles
+|da=Wedge Antilles
+|de=Wedge Antilles#kanon
+|el=Ουέτζ Αντίλις
+|es=Wedge Antilles
+|fr=Wedge Antilles
+|hu=Wedge Antilles
+|it=Wedge Antilles
+|ja=ウェッジ・アンティリーズ
+|ka=უეჯ ანტილესი
+|ko=웨지 안틸레스
+|nl=Wedge Antilles
+|pl=Wedge Antilles
+|pt=Wedge Antilles
+|ru=Ведж Антиллес/Канон
+|uk=Ведж Антіллес
+}}
+
+{{DEFAULTSORT:Antilles, Wedge}}
+[[Category:Cadets of the Galactic Empire]]
+[[Category:Corellians]]
+[[Category:Humans]]
+[[Category:Imperial defectors]]
+[[Category:Imperial Navy personnel of the Galactic Empire]]
+[[Category:Impersonators]]
+[[Category:Males]]
+[[Category:Mechanics]]
+[[Category:New Republic Defense Fleet captains]]
+[[Category:Phantom Squadron personnel]]
+[[Category:Phoenix Squadron personnel]]
+[[Category:Red Squadron personnel]]
+[[Category:Rogue Leaders]]

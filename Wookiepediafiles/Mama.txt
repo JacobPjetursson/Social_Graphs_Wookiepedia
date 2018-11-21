@@ -1,0 +1,49 @@
+{{Eras}}
+{{Character
+|type=Hutt Cartel
+|image=[[File:MamatheHutt-HFZ.png]]
+|name=Mama
+|homeworld=
+|birth=
+|death=
+|species=[[Hutt]]<ref name="HFZ">{{TCW|Hunt for Ziro}}</ref>
+|gender=[[Sexes|Female]]<ref name="HFZ" />
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Green]]<ref name="HFZ" />
+|skin=Purple-tan<ref name="HFZ" />
+|cyber=
+|era=
+|affiliation=[[Hutt Clan]]<ref name="HFZ" />
+|masters=
+|apprentices=}}
+{{Quote|After all these years of never callin', you show up at dinner time.|Mama, when her son Ziro arrives|Hunt for Ziro}}
+'''Mama''' was an elder obese [[Sexes|female]] [[Hutt]] of the [[Hutt Clan]] prior to and during the [[Clone Wars]]. She was the mother of [[Ebor]] and [[Ziro Desilijic Tiure/Canon|Ziro]], the grandmother of [[Jabba Desilijic Tiure|Jabba]], and the great-grandmother of [[Rotta]] and [[Gorga Desilijic Aarrpo|Gorga]].
+
+{{Char-stub}}
+
+==Behind the scenes==
+The character of Mama was partly inspired by the character Pearl, a massively obese [[Wikipedia:Vampire (Marvel Comics)|Vampire]] from the [[1998]] superhero film [[Wikipedia:Blade (film)|''Blade'']].<ref name="Trivia>{{SW|url=tv-shows/clone-wars/hunt-for-ziro-trivia-gallery|text="Hunt for Ziro" Trivia Gallery}} {{C|Slide 4}}</ref>
+
+==Appearances==
+*{{TCW|Hunt for Ziro}} {{1st}}
+
+==Sources==
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Women of the Galaxy]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Mama
+|ja=ママ
+}}
+
+[[Category:Females]]
+[[Category:Hutts]]
+[[Category:Nal Hutta residents]]

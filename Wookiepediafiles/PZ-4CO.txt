@@ -1,0 +1,84 @@
+{{Eras}}
+{{Expand}}
+{{Droid
+|image=[[File:PZ-4CO1.png]]
+|name=PZ-4CO
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=[[Serv-O-Droid, Inc.]]<ref name="Updated and Expanded">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|line=
+|model=
+|class=[[Protocol droid]]<ref name="Moving Target">''[[Moving Target: A Princess Leia Adventure]]''</ref>
+|degree=
+|cost=
+|length=
+|width=
+|height=2.06 [[meter]]s<ref name="Databank">{{Databank|pz-4co-peazy-fourseeo|PZ-4CO (Peazy-Fourseeo)}}</ref>
+|mass=
+|gender=[[Sexes|Feminine programming]]<ref name="Moving Target" />
+|sensor=
+|plating=[[Color|Blue]]<ref name="Moving Target" />
+|armament=
+|equipment=[[Holorecorder]]<ref name="Moving Target" />
+|era=
+|affiliation=[[Resistance]]<ref name="Moving Target" />}}
+{{Quote|General Organa, I have been requested to assist you in recording your memoirs.|PZ-4CO, to General Leia Organa|Moving Target: A Princess Leia Adventure}}
+'''PZ-4CO''', nicknamed "'''Peazy-Fourseeo'''," was a [[protocol droid]] who was designed to resemble the [[Tofallid]] [[species]]. PZ-4CO also served in the [[Resistance]]. During its struggle against the [[First Order]] approximately three [[Standard decade|decades]] after the [[Battle of Endor]]. [[Sexes|She]] served in the [[Resistance base]] control rooms and was a source of tactical data and communications during Resistance operations. As part of her duties, she assisted [[General]] [[Leia Organa]], the leader and symbol of the Resistance, in writing a memoir of the general's time during the [[Galactic Civil War]].
+
+==Biography==
+[[File:PZ-4CO full.jpg|thumb|left|180px|PZ-4CO alongside [[Kaydel Ko Connix]] in the Resistance base on D'Qar.]]
+PZ-4CO, also nicknamed Peazy, was a [[protocol droid]] who served in the [[Resistance]] during its operations against the [[First Order]] several [[Standard decade|decades]] after the [[Battle of Endor]].<ref name="Moving Target" /> She was stationed in the [[Resistance base]] on [[D'Qar]] and often served in the Resistance control rooms, where she assisted in operations by providing technical data and being a source of communication for Resistance [[officer]]s.<ref name="Databank" />
+
+As part of her duties within the Resistance, Peazy was assigned to assist [[General]] [[Leia Organa]] in the writing of the general’s memoirs, and she received assistance from Resistance [[Major]] [[Caluan Ematt]] in preparing for the interviews with the [[Prince]]ss of [[Alderaan]]. Although Organa was reluctant to write memoirs, and indeed it took Peazy forty-four [[Standard day|days]] to convince the general to begin the process, Peazy believed it was important to record them, as Organa had been a vital member of the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]]. To begin the process, Organa recounted her experience leading [[Operation Yellow Moon]], a mission that took place shortly before the Battle of [[Endor]], as the general believed its focus on duty would be vital to the members of the Resistance.<ref name="Moving Target" />
+
+==Characteristics==
+[[File:PZ-4CO_Moving_Target.png|thumb|157x157px]]
+PZ-4CO was a protocol droid with [[Sexes|feminine]] programming, with a female pitched voice. She was a tall [[droid]] and was covered in [[Color|blue]] plates, with red markings across her armor. She was equipped with a [[holorecorder]], which could extend and retract out of and into her torso. She used this recorder to interview General Organa for the general's memoirs, which Peazy believed were important due to Organa's status as a symbol of the Resistance's efforts against the [[First Order]].<ref name="Moving Target" /><ref name="VD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+
+==Behind the scenes==
+{{Dialogue|Jones|There are still thirty pallets of cannon shells in C bunker.|Kaydel Ko Connix|Time to completion?|PZ-4CO|Approximately ninety minutes.|Kaydel Ko Connix|We don't have ninety minutes. We may not have nine. Forget the cannon shells and the remaining maintenance stocks. Anything still down below is staying.|attr=Jones, Kaydel Ko Connix, and PZ-4CO in ''Star Wars: The Last Jedi: Expanded Edition''|src=Star Wars: The Last Jedi: Expanded Edition}}
+PZ-4CO is a character who was created for the [[2015]] film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], in which she appeared as a member of the Resistance.<ref name="Databank" /> She made her first appearance in the novel ''[[Moving Target: A Princess Leia Adventure]]'', written by [[Cecil Castellucci]] and [[Jason Fry]].<ref name="Moving Target" />
+
+==Appearances==
+*''[[Join the Resistance]]''
+*''[[Moving Target: A Princess Leia Adventure]]'' {{1st}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part V]]''
+*''[[Poe Dameron: Flight Log]]'' {{Po}}
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[The Last Jedi Adaptation 2]]''
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Princess Leia: Royal Rebel]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*[[Star Wars: Droidography|''Star Wars: Droidography'']]
+*{{Databank|pz-4co-peazy-fourseeo|PZ-4CO (Peazy-Fourseeo)}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=PZ-4CO
+|de=PZ-4CO
+|es=PZ-4CO
+|nl=PZ-4CO
+|ja=PZ-4CO
+|pl=PZ-4CO
+|ru=PZ-4CO
+|fi=PZ-4CO
+}}
+
+[[Category:Feminine programming]]
+[[Category:Protocol droids]]
+[[Category:Resistance members]]
+[[Category:Serv-O-Droid, Inc. products]]

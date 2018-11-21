@@ -1,0 +1,140 @@
+{{Eras}}
+{{Character
+|type=CIS
+|image=[[File:Poggle the lesser - sw card trader.png]]
+|name=Poggle the Lesser
+|homeworld=[[Geonosis]]<ref name="SWE">{{SWE|characters|pogglethelesser|Poggle the Lesser}}</ref>
+|birth=
+|death=[[19 BBY]], [[Mustafar]]<ref name="RotS">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|species=[[Geonosian]]<ref name="SWE" />
+|gender=[[Sexes|Male]]<ref name="SWE" />
+|height=1.75 [[meter]]s<ref name="SWE" />
+|mass=80 [[kilogram]]s<ref name="SWJB">''[[Star Wars Journeys: Beginnings]]''</ref>
+|hair=
+|eyes=[[Color|Yellow]]<ref name="SWE" />
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Stalgasin hive]]<ref name="LoT">{{TCW|Legacy of Terror}}</ref>
+**[[Karina the Great's empire]]<ref name="LoT" />
+*[[Techno Union]]<ref name="SWE" />
+*[[Confederacy of Independent Systems]]<ref name="SWE" />
+**[[Separatist Council]]<ref name="RotS" />
+*[[Galactic Republic]] {{C|briefly}}<ref name="Catalyst">''[[Catalyst: A Rogue One Novel]]''</ref>
+|masters=
+|apprentices=}}
+{{Quote|How many of you have gazed into the heavens at night and seen something new taking shape above our world? A crescent, a circle, a gleaming ring that is like the portal to another dimension?|Poggle the Lesser|Catalyst: A Rogue One Novel}}
+[[Archduke]] '''Poggle the Lesser''' was the public leader of the [[Geonosian]]s during the [[Clone Wars]]. Though subservient to [[Queen]] [[Karina the Great (Clone Wars)|Karina the Great]], he was nominally in control of the [[Stalgasin hive]], and with his oversight of the Geonosian [[Baktoid Armor Workshop|Baktoid]] [[battle droid]] [[Factory|factories]], became a powerful figure within the [[Confederacy of Independent Systems]]. The Archduke was a [[warlord]], and commanded the [[Separatist Droid Army|droid armies]] that fought against the [[Galactic Republic|Republic]] during the [[Battle of Geonosis|first]] and [[Second Battle of Geonosis|second battles]] of [[Geonosis]], the latter of which he was captured and brought into Republic custody. Incarcerated for two [[Standard year|years]] on [[Coruscant]], he was later recruited by the [[Republic Special Weapons Group]] to assist in the [[Project Stardust|construction]] of the [[DS-1 Orbital Battle Station|Ultimate Weapon]] battlestation the Geonosians [[Death Star plans|designed]]; however, later absconded to Confederate space after sabotaging the project. During the final stages of the war, he and the rest of the [[Separatist Council]] were relocated to [[Utapau]] and later on [[Mustafar]], where he was [[Death|killed]] by [[Anakin Skywalker|Darth Vader]].
+
+==Biography==
+During the [[Separatist Crisis]], Poggle was one of the first and one of the most ardent supporters of its cause.<ref name="Poggle Biography Gallery">{{SW|url=poggle-the-lesser-biography-gallery|text=Poggle the Lesser Biography Gallery}}</ref> [[Sexes|He]] then hosted a meeting of fellow [[Confederacy of Independent Systems|Separatist]] conspirators on [[Geonosis]], in which he pledged his [[Geonosian|people's]] [[army]] to the former [[Jedi]], [[Count]] [[Dooku]].<ref name="AotC">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+
+===The Clone Wars===
+====First Battle of Geonosis====
+{{Quote|&laquo;We have to order a retreat.&raquo;''"<br>"''My master will never allowed the Republic to get away with this treachery.''"<br>"''&laquo;I'm sending my warriors to hide in the catacombs. The Jedi must not find our designs for the Ultimate Weapon. If they find out what we are planning to build, we're doomed.&raquo;''"<br>"''I will take the designs with me to Coruscant. They will be much safer there with my master.|Archduke Poggle the Lesser and Count Dooku|Star Wars: Episode II Attack of the Clones}}
+[[File:Poggle Geo.jpg|thumb|left|200px|Poggle the Lesser during the First Battle of Geonosis]]
+Poggle, Dooku, and the rest of their Separatist conspirators then went to the [[Petranaki arena]] to watch the executions of [[Padmé Amidala]], [[Obi-Wan Kenobi]], and [[Anakin Skywalker]]. However, [[Jedi Master]] [[Mace Windu]] and a [[Jedi assault team|team of 212 Jedi]] arrived to [[Battle of Geonosis|rescue]] Kenobi, Skywalker, and Amidala. As the [[battle droid]]s overwhelmed the Jedi, they were then rescued by [[clone trooper]]s under Master [[Yoda]]. Poggle and the rest of the separatist conspirators then went to the underground [[Stalgasin war room|war room]] to oversee the battle. As the [[Grand Army of the Republic|Republic Army]] forced their [[Separatist Droid Army|Droid Army]] to retreat, Poggle ordered his warriors to hide in the catacombs. He then gave Dooku the [[Death Star plans|plans]] for their [[DS-1 Orbital Battle Station|Ultimate Weapon]], who assured that they would be safe with his Master, Lord [[Darth Sidious|Sidious]].<ref name="AotC" />
+
+====Dealings with Clovis====
+[[File:PoggleLottDod-SS.jpg|thumb|272x272px|Lott Dod and Poggle]]
+Poggle, along with [[Trade Federation]] Senator [[Lott Dod]], conspired with [[Scipio]] Senator [[Baron]] [[Rush Clovis]] to rebuild the [[Geonosis primary droid foundry|primary droid foundry]] on Geonosis. When Clovis arrived on [[Cato Neimoidia]] at [[Great Vaults of Cato Neimoidia|Dod's palace]], Poggle and Dod demanded a greater share of the profits the foundry would produce. When Clovis refused to change the terms, Poggle agreed with Dod's plan to poison his companion, Senator Padmé Amidala. However, Clovis helped Amidala's guard get the cure for her. Poggle and Dod then confronted Clovis about the missing [[Hologram disc|holodisc]].<ref name="SS">{{TCW|Senate Spy}}</ref>
+
+====Second Battle of Geonosis====
+Poggle later returned to Geonosis and serve as the [[Overseer (Assignment)|Overseer]] of the [[Geonosis primary droid foundry]].<ref name="TCWS2">''[[Star Wars: The Clone Wars The Complete Season Two]]''</ref> When the Galactic Republic [[Second Battle of Geonosis|invaded]] the [[planet]], Poggle led both the droid army and the native [[Geonosian]]s against the Republic from the foundry.<ref name="L@PR">{{TCW|Landing at Point Rain}}</ref> As the Republic forces approached his foundry, Poggle and his tactical droid, [[TX-21]] oversaw the construction of [[Super tank]]s. They then deployed the ten garrisons of droids against the clone troopers under [[Jedi General]]s [[Anakin Skywalker]] and [[Luminara Unduli]]. He and TX-21 then sent in the super tanks which were able to push the clones back. Poggle was then informed that 2 Jedi had infiltrated the reactor room. Poggle and TX-21 then went with a pair of his soldiers and one of his super tanks. There, he ordered his soldiers to take the bombs and kill the Jedi.<ref name="WF">{{TCW|Weapons Factory}}</ref>
+
+[[File:Poggle's AAT.jpeg|left|thumb|274x274px|Poggle escaped to the Temple in a damaged AAT]]
+After the foundry's destruction,<ref name="WF" /> Poggle took an [[Armored Assault Tank|AAT]] with several of his droids and soldiers with him to the [[Progate Temple]]. Along the way, Poggle dropped crates, leaving a trail for Unduli and [[Buzz]] to follow. When Unduli and the trooper entered the temple, Poggle and several un-dead Geonosians killed Buzz and captured Unduli. He then took her into the catacombs of the temple and brought her before his queen, [[Karina the Great (Clone Wars)|Karina the Great]], as a gift. Together, they hoped they could use the [[Brain worm]]s to control Unduli. However, Poggle and Karina were then found by [[Obi-Wan Kenobi]] and Skywalker. As they blinded the queen, Poggle was captured by Skywalker and Unduli.<ref name="LoT" /> He was taken aboard the [[Venator-class Star Destroyer|''Venator''-class Star Destroyer]] ''[[Resolute]]''.<ref name="BI">{{TCW|Brain Invaders}}</ref>
+
+On board the ''Resolute'', Poggle was interrogated by Kenobi, [[Ki-Adi-Mundi]], and Unduli, but refused to answer their questions. When the worms were aboard his Padawan's supply ship, Skywalker interrogated Poggle alone. At first, Poggle refused but was then punched and force-choked. He then revealed the worms' weakness to the cold.<ref name="BI" /> Poggle was then transported to [[Coruscant]], where he would be imprisoned in a cell at the [[Naval Intelligence headquarters|Republic Center for Military Operations]].<ref name="TJWKTM">{{TCW|The Jedi Who Knew Too Much}}</ref>
+
+====Imprisonment and Republic service====
+{{Quote|Whatever it is can wait, Poggle. Your workers are dismantling everything they put together.''"<br />"''Try not to be too hard on them. They are simply following my orders.|Orson Krennic and Archduke Poggle the Lesser during his escape|Catalyst: A Rogue One Novel}}
+Poggle would remain in Republic custody for thirteen [[Standard month|months]].<ref name="Pablo tweet">{{Twitter|pablohidalgo|status/818879854372192256|[[Pablo Hidalgo]]|quote=@Supah_Shy_Guy Landing at Pt Rain occurs 13 months before Poggle the Lesser tasks the hive to start building for the Republic.}}</ref> During this time, he would be subjected to routine interrogation by agents of [[Republic Intelligence]]. One of the main topics of the interrogations was the supposed deep-space mobile [[battle station]] project, the "Ultimate Weapon" designed by the Stalgasin hive, that was thought to be under construction by the Confederacy. However, the Archduke repeatedly denied any Geonosian association, and feigned ignorance to the existence of the plans, which were actually in the possession of the [[Republic Special Weapons Group]].<ref name="Catalyst" />
+
+Poggle was later approached by [[Lieutenant Commander]] [[Orson Callan Krennic|Orson Krennic]] of the Special Weapons Group, in another attempt to garner information on the Confederacy's Ultimate Weapon. Krennic, who himself was attempting to spearhead the [[Project Stardust|project]] to develop the station, was able to appeal to Poggle's loyalty to his people and convinced him to provide the Geonosian drone population as a workforce for the battle-station's construction. With this allegiance to the Republic, the Archduke was returned to his homeworld on the eve of [[Meckgin]], in which, amidst bloody celebrations, was able to convince the Geonosians to assist in the Republic's construction efforts.<ref name="Catalyst" />
+
+However, Poggle had ulterior motives for providing such assistance to the Republic. Allotted with a private retinue of drones, Poggle secretly directed a massive uprising of the Geonosian soldiers servicing the battle-station as a diversion for his own escape to the Confederacy. In addition to sabotaging the construction project, the Archduke, with his own modified personal shuttle, was able to [[Escape from Geonosis|slip through]] the [[Republic Navy|Republic flotilla]] in orbit and flee into [[hyperspace]].<ref name="Catalyst" />
+
+====Death====
+[[File:PoggleDies-ROTS.png|thumb|right|250px|Poggle's death, at the hands of Darth Vader]]
+After escaping from Geonosis, Poggle rejoined the Confederacy as the war began to draw to its close. Following a string of Republic victories, [[General]] [[Grievous]] ordered the members of the Separatist Council, including Poggle, to remain under his protection. Grievous hid them on [[Utapau]] while he prepared a strike on Coruscant; following Count Dooku's [[death]] and Grievous's failure at Coruscant, Poggle and the other Separatist leaders were sent to a fortified bunker on Mustafar, by order of Darth Sidious.<ref name="RotS" />
+
+When Anakin Skywalker, now as Sidious's new apprentice Darth Vader, arrived on Mustafar, the Separatist leaders discovered that he was sent not to reward the council, but to execute them. Poggle attempted to defend himself using his staff, to no avail, and was quickly cut in half.<ref name="RotS" />
+
+==Behind the scenes==
+[[File:Poggle maquette.jpg|left|thumb|142x142px|Poggle's marquette]]
+Poggle the Lesser was voiced by [[Marton Csokas]] in ''[[Star Wars: Episode II Attack of the Clones|Attack of the Clones]]'', and by [[Matthew Wood]] in [[Star Wars: The Clone Wars (TV series)|''The Clone Wars'' television series]].
+
+In a deleted scene for ''Attack of the Clones'', Poggle sentences Anakin and Padmé to their deaths, finding them guilty of espionage, leading [[Nute Gunray]] to hurry him up to give the sentence.
+
+In the DVD commentary, it is stated that Poggle was made to look different than other Geonosians so it was obvious he was their leader, similar to how [[Boss]] [[Rugor Nass|Nass]] was designed to look different from the other [[Gungan]]s.<ref name="DVD commentary">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] DVD commentary</ref>
+
+==Appearances==
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*{{TCW|Senate Spy}}
+*{{TCW|Landing at Point Rain}} {{Flash}}
+*{{TCW|Weapons Factory}}
+*{{TCW|Legacy of Terror}}
+*{{TCW|Brain Invaders}}
+*''[[Catalyst: A Rogue One Novel]]''
+*{{TCW|The Jedi Who Knew Too Much}} {{C|Appears on viewscreen}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+*''[[Tarkin (novel)|Tarkin]]'' {{Mo}}
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+*{{Droid Tales|Crisis on Coruscant (episode)|Crisis on Coruscant}} {{Flash}}
+
+==Sources==
+*{{SWArchive|url=theclonewars/guide/episode205.html|text=''The Clone Wars'' Episode Guide: Landing at Point Rain}}
+*{{SWE|characters|acklay|Acklay}}
+*{{SWE|characters|clone-commander-jet|Clone Commander Jet}}
+*{{SWE|characters|pogglethelesser|Poggle the Lesser}}
+*{{SWE|characters|queenkarina|Queen Karina the Great}}
+*''[[Star Wars: The Clone Wars The Complete Season Two]]''
+*''[[Journey Through Space (2015)|Journey Through Space]]'' {{Po}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Aliens of the Galaxy]]'' {{Po}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]''
+*''[[Star Wars: Galactic Atlas]]'' {{Po}}
+*''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''
+*''[[Darth Vader: Sith Lord]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{Databank|aat-battle-tank|AAT Battle Tank|archivedate=20170711224900}}
+*{{Databank|anakin-skywalker|Anakin Skywalker|archivedate=20170706054025}}
+*{{Databank|clone-commander-cody|Clone Commander Cody|archivedate=20170607175032}}
+*{{Databank|clone-commander-jet|Clone Commander Jet|archivedate=20170522124714}}
+*{{Databank|poggle-the-lesser|Poggle the Lesser|archivedate=20170819231620}}
+*{{Databank|wat-tambor|Wat Tambor|archivedate=20170603221250}} {{Po}}
+
+==Notes and references==
+{{Start box}}
+{{Succession box
+|title=[[Archduke]] of [[Geonosis]]
+|years=&ndash;[[19 BBY]]<ref name="RotS" />
+|before=
+|after=[[Unidentified Geonosian archduke]]<ref name="Catalyst" />
+}}
+{{End box}}
+{{Reflist}}
+
+{{Interlang
+|fr=Poggle le Bref
+|pl=Poggle Mniejszy
+|ru=Поггль Меньший/Канон
+|uk=Поґґль Менший
+|es=Poggle el Menor
+}}
+
+[[Category:Geonosians]]
+[[Category:Males]]
+[[Category:Planetary leaders]]
+[[Category:Separatist leadership]]
+[[Category:Warlords]]

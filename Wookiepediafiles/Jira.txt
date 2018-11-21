@@ -1,0 +1,54 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:JiraHS.jpg]]
+|name=Jira
+|homeworld=[[Tatooine]]<ref name="SWE">{{SWE|characters|jira|Jira}}
+</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="SWE" />
+|gender=[[Sexes|Female]]<ref name="DB">{{Databank|jira|Jira}}</ref>
+|height=
+|mass=
+|hair=[[Color|Gray]]<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|eyes=Green<ref name="Episode I" />
+|skin=Tanned<ref name="Episode I" />
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+{{Quote|Oh, my bones are aching.|Jira|Star Wars: Episode I The Phantom Menace}}
+'''Jira''' was a [[human]] [[Sexes|female]] from [[Tatooine]]. At the time of the [[Invasion of Naboo|Naboo Crisis]], the elderly Jira sold [[fruit]]s, such as [[pallie]]s, in the [[Mos Espa]] [[Mos Espa Market|marketplace]]. She was a friend of [[Anakin Skywalker]], then a nine-year-old [[Slavery|slave]] boy.
+
+==Biography==
+In the last decades of the [[Galactic Republic]], Jira lived on the [[desert]] [[planet]] of [[Tatooine]], in the [[Outer Rim Territories]]. At the time of the [[Invasion of Naboo|Naboo Crisis]], she ran a small stand in the [[Mos Espa Market|market]] place of [[Mos Espa]], where she sold various [[Foodstuff|food]] products, including [[pallie]]s. Jira was a friend to [[Anakin Skywalker]], then a nine-year-old [[Slavery|slave]] boy. When the elderly woman expressed her need for a [[cooling unit]], Skywalker offered to search for one on her behalf.<ref name="DB" /> When her young friend Skywalker met the [[Jedi Master]] [[Qui-Gon Jinn]], Jira sold them a few pallies. Feeling in her old bones that a [[sandstorm]] was about to occur, she advised Skywalker to get home as soon as possible. A few [[Standard day|days]] later, Jira's young friend left Tatooine with Qui-Gon Jinn.<ref name="Episode I" />
+
+==Personality and traits==
+Jira was a [[Color|green]]-[[eye]]d<ref name="Episode I" /> [[human]] [[Sexes|female]].<ref name="SWE" /> In her old age, she tied up her gray [[hair]] into loose braids.<ref name="Episode I" /> Despite her poverty, Jira was still a jovial woman. She was very fond of her young friend Anakin Skywalker, who she called "the kindest boy in [[the galaxy]]."<ref name="DB" />
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+
+==Sources==
+*{{SWE|characters|jira|Jira}}
+*''[[Darth Vader: Sith Lord]]''
+*{{Databank|jira|Jira}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Jira#kanon
+|es=Jira
+|ko=지라
+|nl=Jira
+|pl=Jira
+|ru=Джира
+}}
+
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Merchants]]
+[[Category:Tatooinians]]

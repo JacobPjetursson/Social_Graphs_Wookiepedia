@@ -1,0 +1,60 @@
+{{Eras}}
+{{Update|[[Hear Nothing, See Nothing, Say Nothing]], [[Star Wars: Episode VIII The Last Jedi]]}}
+{{Character
+|type=
+|image=[[File:Bargwill Tomder Card Trader.png]]
+|name=Bargwill Tomder
+|homeworld=
+|birth=
+|death=
+|species=[[Cloddogran]]<ref name="Hear Nothing, See Nothing, Say Nothing">{{Shortstory|story=Hear Nothing, See Nothing, Say Nothing|book=Canto Bight (novella collection)|bformatted=''Canto Bight''}}</ref>
+|gender=[[Sexes|Male]]<ref name="Hear Nothing, See Nothing, Say Nothing" />
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="Card Trader">{{Topps|set=Star Wars: Card Trader|sformat=''Star Wars'': Card Trader|cardname=Bargwill Tomder|link=http://starwarscardtrader.wikia.com/wiki/Bargwill_Tomder}}</ref>
+|eyes=
+|skin=Brown<ref name="Card Trader" />
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+'''Bargwill Tomder''' was a [[Sexes|male]] [[Cloddogran]]<ref name="Hear Nothing, See Nothing, Say Nothing" /> with [[Color|brown]] skin and [[hair]]. Tomder wore a red [[Clothing|shirt]] with a vest over it and a brown [[hat]].<ref name="Card Trader" />
+
+==Personality and traits==
+A [[Cloddogran]] groom, Bargwill Tomder ruled the [[fathier]] stables of at the [[Canto Bight racetrack]] with an [[iron]] fist.<ref name="Temiri Blagg">{{Databank|temiri-blagg|Temiri Blagg}}</ref> He was ill-tempered, and his default approach to solving problems was simply to crack his [[whip]].<ref name="TLJ VD">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref>
+
+==Behind the scenes==
+Bargwill Tomder was created for the [[2017]] film [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]. The character was first revealed through the ''[[Star Wars: Card Trader]]'' app.<ref name="Card Trader" />
+
+==Appearances==
+*{{Shortstory|story=Hear Nothing, See Nothing, Say Nothing|book=Canto Bight (novella collection)|bformatted=''Canto Bight''}} {{1st}}
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[The Last Jedi Adaptation 3]]''
+*''[[The Last Jedi Adaptation 6]]''
+
+==Sources==
+*{{Topps|set=Star Wars: Card Trader|sformat=''Star Wars'': Card Trader|cardname=Bargwill Tomder|link=http://starwarscardtrader.wikia.com/wiki/Bargwill_Tomder}} {{1stm}}
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*''[[Star Wars: The Last Jedi: Ultimate Sticker Collection]]''
+*{{SW|url=news/much-to-learn-you-still-have-10-aliens-you-should-know-from-star-wars-the-last-jedis-canto-bight|text=Much to Learn You Still Have: 10 Aliens You Should Know from ''Star Wars: The Last Jedi'''s Canto Bight}}
+*{{Databank|arashell-sar|Arashell Sar|archiveurl=https://archive.fo/DbdFW}}
+*{{Databank|oniho-zaya|Oniho Zaya|archivedate=20180411003744}}
+*{{Databank|temiri-blagg|Temiri Blagg}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Bargwill Tomder
+|fr=Bargwill Tomder
+|ja=バーグウィル・トンダー
+|pl=Bargwill Tomder
+|ru=Баргвил Томбер
+|uk=Барґвілл Томдер
+}}
+
+{{DEFAULTSORT:Tomder, Bargwill}}
+[[Category:Cloddograns]]
+[[Category:Males]]

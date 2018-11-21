@@ -1,0 +1,56 @@
+{{Eras}}
+{{Character
+|type=Criminal
+|image=[[File:LettaTurmond-Sabotage.png]]
+|name=Letta Turmond
+|homeworld=[[Coruscant]]<ref>{{SWE|characters|letta-turmond|Letta Turmond}}</ref>
+|birth=
+|death=[[19 BBY]],<ref name="SWGA">''[[Star Wars: Galactic Atlas]]''</ref> Coruscant<ref name="The Jedi Who Knew Too Much">{{TCW|The Jedi Who Knew Too Much}}</ref>
+|species=[[Human]] {{C|[[Coruscanti]]}}<ref name="Sabotage">{{TCW|Sabotage (episode)|Sabotage}}</ref>
+|gender=[[Sexes|Female]]<ref name="Sabotage" />
+|height=
+|mass=
+|hair=[[Color|Dark]]<ref name="Sabotage" />
+|eyes=Brown<ref name="Sabotage" />
+|skin=Fair<ref name="Sabotage" />
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+'''Letta Turmond''' was a [[human]] [[Sexes|female]] citizen of the [[planet]] [[Coruscant]]. She was an anti-war activist whose radical beliefs led to her participation in the [[Bombing of the Jedi Temple hangar|bombing]] of the [[Imperial Palace|Jedi Temple]] during the [[Clone Wars]]. [[Barriss Offee]], the [[Padawan]] who masterminded the attack, [[Force choke|choked]] Turmond to [[death]] in order to hide Offee's involvement.<ref name="The Jedi Who Knew Too Much" /> [[Ahsoka Tano]] was then framed for the murder, before Offee's involvement was discovered.<ref name="The Wrong Jedi">{{TCW|The Wrong Jedi}}</ref>
+
+==Personality and traits==
+Turmond was motivated to help bomb the Jedi Temple by the belief that the Jedi were warmongers. Her participation in the attack was to draw attention to what she felt was the hypocrisy of the [[Jedi Order]] during the war.<ref name="The Jedi Who Knew Too Much" />
+
+{{Char-stub}}
+
+==Appearances==
+*{{TCW|Sabotage (episode)|Sabotage}} {{1st}}
+*{{TCW|The Jedi Who Knew Too Much}}
+*{{TCW|To Catch a Jedi}} {{C|Appears in a [[hologram]] in flashback(s) only}}
+*{{TCW|The Wrong Jedi}} {{Mo}}
+
+==Sources==
+*{{SWE|characters|letta-turmond|Letta Turmond}}
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]'' {{Po}}
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|coruscant|Coruscant|archivedate=20170705001748}}
+*{{Databank|letta-turmond|Letta Turmond}}
+
+==References==
+{{Reflist}}
+
+{{Interlang
+|de=Letta Turmond#kanon
+|es=Letta Turmond
+|ja=レッタ・ターモンド
+|nl=Letta Turmond
+|ru=Летта Тармонд
+}}
+
+{{DEFAULTSORT:Turmond, Letta}}
+[[Category:Coruscanti]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Terrorists]]

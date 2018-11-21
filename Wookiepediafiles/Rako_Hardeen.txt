@@ -1,0 +1,70 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=Bounty hunter
+|image=[[File:RakoHardeenHS-SWE.jpg]]
+|name=Rako Hardeen
+|homeworld=[[Concord Dawn]]<ref name="Encyclopedia">{{SWE|characters|rakohardeen|Rako Hardeen}}</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="Encyclopedia" />
+|gender=[[Sexes|Male]]<ref name="Encyclopedia" />
+|height=1.89 [[meter]]s<ref name="Encyclopedia" />
+|mass=
+|hair=[[Color|Gray]]<ref name="Encyclopedia" />
+|eyes=Blue<ref name="Encyclopedia" />
+|skin=Pale<ref name="Encyclopedia" />
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+{{Quote|I killed Obi-Wan Kenobi!|Rako Hardeen|Deception}}
+'''Rako Hardeen''', also known as the "'''Marksman of Concord Dawn'''", was a [[human]] [[Sexes|male]] [[bounty hunter]] and marksman from the [[planet]] [[Concord Dawn]].
+
+==Biography==
+{{Quote|You're blaming me for a murder I didn't even do.|Rako Hardeen|Deception}}
+During the [[Clone Wars]], Hardeen found himself a pawn in a complex plot to foil a kidnapping attempt on [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] organized by [[Moralo Eval]] and [[Count]] [[Dooku]]. He was hired by an anonymous client, actually members of the [[Jedi High Council|Jedi Council]], to murder [[Jedi Master]] [[Obi-Wan Kenobi]] by shooting at him from the top of a building on [[Coruscant]]. After shooting Kenobi in the chest as he had agreed, Hardeen was pursued by [[Anakin Skywalker]]. The bounty hunter managed to escape using [[smoke bomb]]s and a [[speeder bike]].<ref name="Deception">{{TCW|Deception}}</ref>
+
+While celebrating his high-profile kill at [[Trueping's]] [[cantina]], he was summoned into the back room to meet his employer and receive payment. There, he was met by Jedi Masters [[Mace Windu]] and Obi-Wan Kenobi&ndash;his supposed victim, now physically altered to look like him. Hardeen was apprehended by the two Jedi, and his identity assumed by Kenobi in order to plant himself in a [[Republic Judiciary Central Detention Center|Republic prison]]. Hardeen's reputation for having killed a [[Jedi]] was essential to the plan, as Kenobi used it to gain the trust of other [[prisoner]]s and attract the attention of Moralo Eval,<ref name="Deception" /> from whom Kenobi was to acquire intel that would help the Jedi prevent the kidnapping attempt.<ref name="Crisis on Naboo">{{TCW|Crisis on Naboo}}</ref>
+
+==Behind the scenes==
+Rako Hardeen appeared in the episode "[[Deception]]" of the ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' TV series, where he was voiced by [[James Arnold Taylor]].
+
+Originally, the episode "[[The Box]]" would have included a storyline in which Anakin Skywalker would have searched for the real Hardeen once he discovered that Kenobi was alive. Though the Council would have denied Hardeen's existence, Skywalker would have intercepted Captain [[Rex]] transferring Hardeen off-world, forcing the Council to divulge the truth. The thread was cut for time constraints, clarity and character focus, and it seeming unlikely that Rex would keep a secret from Anakin.<ref name="Trivia">{{SW|url=tv-shows/clone-wars/the-box-trivia-gallery|text="The Box" Trivia Gallery}} {{C|Slide 6}}</ref>
+
+==Appearances==
+*{{TCW|Deception}} {{1st}}
+*{{TCW|Friends and Enemies}} {{C|Impersonated}}
+*{{TCW|The Box}} {{C|Impersonated}}
+*{{TCW|Crisis on Naboo}} {{C|Impersonated}}
+*{{TCW|The Lawless}} {{Imo}}
+
+==Sources==
+*{{SWE|characters|bulduga|Bulduga}}
+*{{SWE|characters|rakohardeen|Rako Hardeen}}
+*{{SWE|technology|vocalemulator|vocal emulator}}
+*{{SW|url=tv-shows/star-wars-rebels/the-protector-of-concord-dawn-episode-guide|text=The Protector of Concord Dawn Episode Guide}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*{{Databank|cad-bane-biography-gallery|Cad Bane Biography Gallery|archivedate=20170419013445}}; images #15-21 {{C|of 22}}
+*{{Databank|rako-hardeen|Rako Hardeen}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Rako Hardeen
+|de=Rako Hardeen#kanon
+|es=Rako Hardeen
+|nl=Rako Hardeen
+|pl=Rako Hardeen
+|pt=Rako Hardeen
+|ru=Рако Хардин/Канон
+}}
+
+{{DEFAULTSORT:Hardeen, Rako}}
+[[Category:Assassins]]
+[[Category:Bounty hunters]]
+[[Category:Humans]]
+[[Category:Males]]

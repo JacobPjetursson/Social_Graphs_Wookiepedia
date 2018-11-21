@@ -1,0 +1,62 @@
+{{Eras}}
+{{Character
+|type=Rebel
+|image=[[File:Momaw Nadon SWCT.png]]
+|name=Momaw Nadon
+|homeworld=[[Ithor]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Ithorian]]<ref name="Ultimate Star Wars" />
+|gender=[[Sexes|Male]]<ref name="Ultimate Star Wars" />
+|height=1.95 [[meter]]s<ref name="Momaw Nadon">{{Databank|momaw-nadon|Momaw Nadon}}</ref>
+|mass=
+|hair=
+|eyes=[[Color|Brown]]<ref name="A New Hope">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref>
+|skin=Brown<ref name="A New Hope" />
+|cyber=
+|era=
+|affiliation=[[Alliance to Restore the Republic]]<ref name="Ultimate Star Wars" />
+|masters=
+|apprentices=}}
+'''Momaw Nadon''', also known as "'''Hammerhead'''," was a [[Sexes|male]] [[Ithorian]] who was [[Exile (punishment)|exiled]] from his [[homeworld]] of [[Ithor]] as punishment for revealing the agricultural secrets of his [[species]] to the [[Galactic Empire]] in order to save the [[planet]]. He spent his exile on [[Tatooine]] and sympathized with the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]].
+
+==Biography==
+Momaw Nadon [[Homeworld|hailed]] from the [[planet]] [[Ithor]], until [[Sexes|he]] was [[Exile (punishment)|exiled]] as punishment for revealing [[Ithorian|his]] [[species]]' agricultural secrets to the [[Galactic Empire]] in order to save Ithor. Spending his exile on the [[desert]] world of [[Tatooine]], Nadon maintained a small [[Momaw Nadon's garden|secret garden]] in the [[mountain]]s south of the planet's [[Mos Eisley]] [[spaceport]]. During the [[Galactic Civil War]] he sympathised with the [[Alliance to Restore the Republic]] who opposed the Empire, and would hide Rebel operatives in his garden.<ref name="Ultimate Star Wars" /> Nadon was present in [[Chalmun's Cantina]] when [[Jedi Master]] [[Obi-Wan Kenobi]] and local farm boy [[Luke Skywalker]] arrived in search of a [[pilot]] to take them to the planet [[Alderaan]]. He witnessed the pair enter into an altercation with [[Doctor|Dr.]] [[Cornelius Evazan]] and his companion [[Ponda Baba]], which ended with Kenobi [[Dismemberment|dismembering]] Baba and wounding Evazan with [[Obi-Wan Kenobi's lightsaber (Jedi Master)|his]] [[lightsaber]].<ref name="A New Hope" />
+
+==Behind the scenes==
+Momaw Nadon first appeared in the [[1977]] film [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] but went unnamed<ref name="A New Hope" /> until identified as "Hammerhead" for his [[Kenner Products]] action figure.<ref name="Kenner">''[[Star Wars (toy line)|Star Wars]]''</ref> He received his name and backstory in ''[[Galaxy Guide 1: A New Hope]]'', a [[1989]] [[Star Wars Legends|''Star Wars'' Legends]] sourcebook written by [[Michael Stern]] and [[Grant S. Boucher]] for ''[[Star Wars: The Roleplaying Game]]''.<ref name="Galaxy Guide 1">''[[Galaxy Guide 1: A New Hope]]''</ref> His name and portions of his backstory were confirmed to be [[canon]] by the reference book ''[[Ultimate Star Wars]]'', which was released in [[2015]].<ref name="Ultimate Star Wars" />
+
+==Appearances==
+*''[[Bounty Hunt]]''
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*{{Shortstory|story=Not for Nothing|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+
+==Sources==
+{{Imagecat|Images of Momaw Nadon}}
+*''[[Ultimate Factivity Collection: Star Wars]]'' {{Po}}
+*{{SWE|locations|cantina|Mos Eisley Cantina}} {{Po}}
+*''[[Ultimate Star Wars]]'' {{1stID|Momaw Nadon}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Aliens of the Galaxy]]'' {{Po}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|momaw-nadon|Momaw Nadon}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SW|url=video/creature-cantina|text=Creature Cantina}}
+*{{SW|url=news/star-wars-skins-bring-the-force-to-minecraft|text=''Star Wars'' Skins Bring the Force to Minecraft}}
+*{{SW|url=news/7-things-you-might-not-know-about-the-mos-eisley-cantina|text=7 Things You Night Not Know About the Mos Eisley Cantina}}
+*{{SW|url=news/meet-the-humans-from-the-mos-eisley-cantina|text=Meet the Humans from the Mos Eisley Cantina}}
+*{{SW|url=news/west-end-games-expanding-that-galaxy-far-far-away|text=West End Games: Expanding that Galaxy Far, Far Away...}}
+
+{{Interlang
+|ja=モモー・ネイドン
+}}
+
+{{DEFAULTSORT:Nadon, Momaw}}
+[[Category:Ithorians]]
+[[Category:Males]]
+[[Category:Rebel Alliance members]]

@@ -1,0 +1,55 @@
+{{Eras|notoc=1}}
+{{Character
+|type=CIS
+|image=[[File:Po Nudo.jpg]]
+|name=Po Nudo
+|homeworld=[[Ando]]<ref name="Po Nudo">{{Databank|po-nudo|Po Nudo}}</ref>
+|birth=
+|death=[[19 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Mustafar]]<ref name="ROTS">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|species=[[Aqualish]]<ref name="TPM">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|gender=[[Sexes|Male]]<ref name="Po Nudo" />
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="TPM" />
+|eyes=Black<ref name="TPM" />
+|skin=Brown<ref name="TPM" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="TPM" />
+**[[Galactic Senate]]<ref name="TPM" />
+*[[Confederacy of Independent Systems]]<ref name="AOTC">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+**[[Separatist Council]]<ref name="AOTC" />
+|masters=
+|apprentices=}}
+'''Po Nudo''' was a [[Sexes|male]] [[Aqualish]] who [[Senator|represented]]<ref name="Force">''[[Star Wars: Force Collection]]''</ref> his [[species]] in the [[Galactic Republic]]'s [[Galactic Senate|Senate]] around the time that the [[Trade Federation]] [[Invasion of Naboo|invaded]] the [[planet]] [[Naboo]].<ref name="TPM" /> Ten [[Standard year|years]] later, he attended a secret meeting on the planet [[Geonosis]] where he and several other senators gave their support to the [[Sith Lord]] [[Count]] [[Dooku]] and left the Republic to form the [[Confederacy of Independent Systems]]. Shortly after the meeting the Republic arrived and the [[Battle of Geonosis]] broke out, marking the start of the [[Clone Wars]] between the Republic and the Separatists and forcing Nudo to flee the planet.<ref name="AOTC" />
+
+During the war the Aqualish sat on the [[Separatist Council]] who in the later stages of the war were hidden on the planet [[Utapau]] being protected by the [[cyborg]] [[General]] [[Grievous]]. Following the [[Battle of Coruscant]] and the [[death]] of Dooku, Grievous informed the council that he had been ordered to move them to another world, but during the meeting the [[Jedi Master]] [[Obi-Wan Kenobi]] interrupted and attacked Grievous, starting the [[Battle of Utapau]] during which the council fled and were relocated to the [[Volcano|volcanic]] world of [[Mustafar]]. Once the Clone Wars drew to a close, [[Darth Sidious]]&mdash;who had secretly been the true leader of the Separatists all along as well as [[Supreme Chancellor]] of the Republic&mdash;sent his new apprentice [[Anakin Skywalker|Darth Vader]] to Mustafar where he [[Mission to Mustafar|killed]] all of the Separatist council including Nudo.<ref name="ROTS" />
+
+{{Char-stub}}
+
+==Behind the scenes==
+[[File:Conference.jpg|thumb|left|300px|Concept art for Po Nudo's death, by Ryan Church.]]
+Po Nudo first appeared in the [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] in [[1999]] in which he was played by an uncredited extra and went unnamed. The character first received a name in the ''[[Star Wars Legends]]'' novel ''[[Cloak of Deception]]'', which was written by [[James Luceno]] and released in [[2001]]. The character went on to appear in both [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] in [[2002]] and [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] in [[2005]], and was again portrayed by an uncredited extra in both.
+
+While ''Revenge of the Sith'' was in its early stages of development, a piece of concept art made by concept design supervisor [[Ryan Church]] presented an alternate fate for Po Nudo during the Mission to Mustafar sequence which went unused in the final cut. In Church's concept art, rather than be cut by Skywalker like in the finished version of the film, Skywalker used his lightsaber to decapitate Nudo before killing the other Separatist leaders.
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+
+==Sources==
+*''[[Star Wars: Force Collection]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|confederacy-of-independent-systems|Confederacy of Independent Systems|archivedate=20170504153602}} {{Po}}
+*{{Databank|po-nudo|Po Nudo}} {{1stID|Po Nudo}}
+*{{Databank|poggle-the-lesser|Poggle the Lesser}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Nudo, Po}}
+[[Category:Aqualish]]
+[[Category:Galactic Republic senators]]
+[[Category:Males]]
+[[Category:Separatist leadership]]

@@ -1,0 +1,62 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Tee Watt Kaa.png]]
+|name=Tee Watt Kaa
+|homeworld=[[Maridun]]<ref name="DB:TWK">{{Databank|tee-watt-kaa|Tee Watt Kaa}}</ref>
+|birth=
+|death=
+|species=[[Lurmen]]<ref name="Jedi Crash">{{TCW|Jedi Crash}}</ref>
+|gender=[[Sexes|Male]]<ref name="Jedi Crash" />
+|height=1.03 [[meter]]s<ref name="DB:TWK" />
+|mass=
+|hair=[[Color|White]]<ref name="Jedi Crash" />
+|eyes=Brown<ref name="Jedi Crash" />
+|skin=
+|cyber=
+|era=
+|affiliation=[[Lurmen village]]<ref name="Jedi Crash" />
+|masters=
+|apprentices=}}
+{{Quote|We will not fight them at all. We would rather die than to kill others.|Tee Watt Kaa|Defenders of Peace}}
+'''Tee Watt Kaa''' was a [[Sexes|male]] [[Lurmen]] who led a [[Lurmen village|village]] on the [[Outer Rim Territories|Outer Rim]] [[Planet|world]] of [[Maridun]] during the [[Clone Wars]]. A devout pacifist, Kaa refused to engage in any sort of combat, even if his own life was in danger.
+
+==Biography==
+During the [[Clone Wars]], Tee Watt Kaa lead his colony of [[Lurmen]] in a [[Lurmen village|village]] on [[Maridun]]. Alongside his son [[Wag Too]],<ref name="DB:TWK" /> he sought to find peace and solace away from the conflict.<ref name="Jedi Crash" />
+
+Following the [[Battle of Quell|Battle]] at [[Quell]], Kaa then met [[Jedi Knight]] [[Aayla Secura]], Padawan [[Ahsoka Tano]], and Clone Commander [[CC-5052|Bly]]. At first, he did not welcome the Jedi, saying that they were not peace keepers. He told them leave in order to preserve their peace. However, he could not ignore Ahsoka's plea for help for her badly wounded master. He allowed his healer son, Wag Too, to go with her and Bly while Secura stayed behind at his village. Kaa then gave Secura a drink to help her. During their time together, Secura and Kaa spoke about the Jedi's intentions to restore peace by fighting for the Republic.<ref name="Jedi Crash" />
+
+Kaa and his fellow villagers then saw a Separatist [[C-9979 landing craft|landing ship]] coming towards their village. At first, he thought the Separatists were coming for the Jedi, but Tano told him that they did not know they were here. Kaa then told the Jedi to leave before they were found. He, despite Tano's objections, then went to speak with the Separatists. Kaa then met the Separatist commanding officer, General [[Lok Durd]]. Kaa stood by as Durd's battle droids searched the village for weapons and Republic contraband. Durd then told Kaa that he would do more random searches to insure security on the planet. After the Separatists left, Kaa then spoke with his son about preserving their peace.<ref name="DoP">{{TCW|Defenders of Peace}}</ref>
+
+The Jedi soon learned of Durd’s plan to test a new weapon, the Defoliator, on the Lurmen village. The weapon had the ability to destroy any organic life but leave battle droids unharmed. Kaa was informed of this by the Jedi, who wanted to help defend the village. Kaa refused their help, however, due to his firm belief against fighting and conflict. His son, Wag Too, and his friends believed they should help the Jedi and clones defend the village. While the Republic group set up shield generators (stolen from the Separatist base) around the village, they attempted to fight off the droids and protect the Lurmen. Wag Too and his friends eventually helped fight back, but Kaa was still curious about what the true cost of them fighting back was.
+
+{{Char-stub}}
+
+==Behind the scenes==
+Tee Watt Kaa first appeared in the thirteenth episode of [[The Clone Wars: Season One|season one]] of ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'', "[[Jedi Crash]]," and was voiced by [[George Coe]].
+
+==Appearances==
+*{{TCW|Jedi Crash}} {{1st}}
+*{{TCW|Defenders of Peace}}
+
+==Sources==
+*{{SW|url=tv-shows/clone-wars/jedi-crash-episode-guide|text="Jedi Crash" Episode Guide}}
+*{{SW|url=tv-shows/clone-wars/defenders-of-peace-episode-guide|text="Defenders of Peace" Episode Guide}}
+*{{SWE|groups|lurmen|Lurmen}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|lurmen|Lurmen}}
+*{{Databank|tee-watt-kaa|Tee Watt Kaa}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Tee Watt Kaa#kanon
+|ja=テー・ワット・カー
+|ru=Ти Уат Каа/Канон
+}}
+
+{{DEFAULTSORT:Kaa, Tee Watt}}
+[[Category:Chiefs]]
+[[Category:Lurmen]]
+[[Category:Males]]

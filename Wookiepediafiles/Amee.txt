@@ -1,0 +1,44 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:AmeeBraces-TPM.png]]
+|name=Amee
+|homeworld=
+|birth=
+|death=
+|species=[[Human]]<ref name="tpm">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|gender=[[Sexes|Female]]<ref name="tpm" />
+|height=
+|mass=
+|hair=[[Color|Blonde]]<ref name="tpm" />
+|eyes=
+|skin=
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+{{Quote|You've been working on that thing for years... |Amee to nine-year-old Anakin Skywalker regarding his podracer|Star Wars: Episode I The Phantom Menace}}
+'''Amee''' was a [[human]] [[Sexes|girl]] who lived on [[Tatooine]] and an associate of [[Anakin Skywalker]]. Observing Skywalker's completed [[podracer]], she noted that he had been working on it for [[Standard year|years]]. [[Melee]] followed this up by stating that it would never fly.<ref name="tpm" />
+
+==Behind the scenes==
+Amee was played by [[Katie Lucas]] in [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']], credited as "Jenna Green". The character's name was given in the film's closing credits.<ref name="tpm" />
+
+In ''The Phantom Menace'', Amee can be clearly seen wearing braces, as Katie Lucas was wearing them at the time of the filming.
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+
+===Non-canon appearances===
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ru=Эми/Канон
+}}
+
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Tatooinians]]

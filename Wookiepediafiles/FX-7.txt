@@ -1,0 +1,45 @@
+{{Eras}}
+{{Droid
+|image=[[File:FX7 btm.jpg]]
+|name=FX-7
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=[[Medtech Industries]]<ref name="USW">''[[Ultimate Star Wars]]''</ref>
+|line=[[FX-7 medical assistant droid]]<ref name="USW" />
+|model=[[FX-series medical assistant droid]]<ref name="USW" />
+|class=[[Medical droid|Medical assistant droid]]<ref name="USW" />
+|degree=
+|cost=
+|length=
+|width=
+|height=
+|mass=
+|gender=
+|sensor=
+|plating=
+|armament=
+|equipment=Multiple arms and medical tools<ref name="ESB">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+|era=
+|affiliation=[[Alliance to Restore the Republic]]<ref name="USW" />}}
+'''FX-7''' was an [[FX-7 medical assistant droid|FX-7]] [[Medical droid|medical assistant droid]]<ref name="USW" /> who served the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]]. While on the [[planet]] [[Hoth]] at [[Echo Base]], FX-7 assisted [[2-1B]] when curing [[Luke Skywalker]] with [[bacta]] treatment who was injured by a [[wampa]].<ref name="ESB" />
+
+==Appearances==
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+
+==Sources==
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars: Droidography]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=FX-7
+|ko=FX-7
+|pl=FX-7}}
+
+[[Category:FX-series medical assistant droids]]
+[[Category:Rebel Alliance members]]

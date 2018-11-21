@@ -1,0 +1,92 @@
+{{Eras}}
+{{Character
+|type=Resistance
+|image=[[File:Harter Kalonia - SW Card Trader.png]]
+|name=Harter Kalonia
+|homeworld=
+|birth=
+|death=
+|species=[[Human]]<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+|gender=[[Sexes|Female]]<ref name="Episode VII" />
+|height=1.73 [[meter]]s<ref name="ECUC">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|mass=
+|hair=[[Color|Brown]], graying<ref name="Episode VII" />
+|eyes=Brown<ref name="Episode VII" />
+|skin=Light<ref name="Episode VII" />
+|cyber=
+|era=
+|affiliation=*[[New Republic]]<ref name="Bloodline">''[[Bloodline (novel)|Bloodline]]''</ref>
+*[[Resistance]]<ref name="Episode VII" />
+**[[Resistance army]]<ref name="TFA VD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+|masters=
+|apprentices=}}
+{{Quote|I don't get to treat many lightsaber wounds. It's such an old weapon. People today prefer to fight with rifles and blasters, from long range. I suppose it doesn't matter. Death is death, no matter the mechanism that is employed to beget it. But not for your friend. Not this time.|Kalonia, to [[Rey]]|Star Wars: The Force Awakens (novelization)}}
+[[Major]] '''Harter Kalonia''' was a [[human]] [[Sexes|female]] who served as a [[doctor]] with the [[New Republic]] and later the [[Resistance]]. She was stationed on the [[Resistance base]] on [[D'Qar]] thirty [[Standard year|years]] after the [[Battle of Endor]]. She notably attended both [[Chewbacca]] and [[Finn]] after they were wounded at the [[Battle of Takodana]] and the [[Battle of Starkiller Base]], respectively.
+
+==Biography==
+===New Republic service===
+In [[5 ABY]], [[Doctor]] Kalonia worked with [[Leia Organa]] to ensure [[Sexes|her]] health during [[Reproduction|pregnancy]]. Notably, Kalonia recommended that Organa incorporate [[Jogan fruit]] into her [[diet]]. [[Han Solo]] interpreted this rather broadly, and on at least one occasion purchased and delivered an entire armload of jogans for her.<ref name="Empire's End">''[[Aftermath: Empire's End]]''</ref>
+
+In [[28 ABY]],<ref name="Timeframe">{{Twitter|DelReyStarWars|status/652893780236988420|[[Del Rey]]|quote=So excited to have @claudiagray writing a #StarWars novel with us. SW: New Republic: Bloodline coming 2016. Set 6 years before TFA.|image=File:New Republic Bloodline Twitter Post.jpg}} The tweet in question states that the events of ''Bloodline'' take place six [[Standard year|years]] before the events of the film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]. ''[[Star Wars: Galactic Atlas]]'' establishes that the events of ''The Force Awakens'' take place in the year [[34 ABY]] and so using simple math it can be concluded that the events of ''Bloodline'' take place in [[28 ABY]].</ref> Kalonia served as a medical [[officer]] in the [[New Republic]] on [[Hosnian Prime]]. She had a friendly relationship with [[Greer Sonnel]], [[Senator]] Organa's personal [[Aide|assistant]], whose [[bloodburn]] she treated with occasional injections of [[Hadeira serum]]. Following the [[Napkin Bombing]] which damaged the [[New Republic senatorial complex]]'s [[Senatorial conference building|conference building]], Kalonia treated Organa and Sonnel's moderate injuries at a nearby [[medcenter]]. She told her patients to stop talking so that she could attend to her work. Later, Kalonia and a [[Medical droid|med droid]] loaded a treated Organa onto a [[transport]].<ref name="Bloodline" />
+
+Later, Kalonia treated Sonnel for a bloodburn attack after she collapsed prior to her [[Mission to Sibensko|mission]] to [[Sibensko]] to investigate [[Rinnrivin Di]]'s [[Rinnrivin Di's cartel|cartel]] and the [[Amaxine warriors]]. After the mission to Sibensko, Kalonia and other New Republic officials and former [[Alliance to Restore the Republic|Rebel Alliance]] personnel attended a private meeting in the [[Galactic Senate (New Republic)|Senate]] [[hangar]] bay where Organa established the [[Resistance]], a paramilitary organization aimed at protecting the Republic from external threats.<ref name="Bloodline" />
+
+===Cold war===
+Six [[Standard year|years]] later, Kalonia served as a [[major]] in the Resistance, under the command of [[General]] Organa, during their [[Cold war|conflict]] with the [[First Order]].<ref name="TFA VD" /> She was stationed at the [[Resistance base]] on the [[planet]] [[D'Qar]]. There, she treated the wounded shoulder of the [[Wookiee]] [[Chewbacca]]. Chewbacca appreciated her kindly demeanor, and Kalonia soothed him as she provided treatment, telling the Wookiee that his story of how he sustained the wounds sounded "very scary" and that Chewbacca "was so brave."<ref name="Episode VII" /><ref name="TFA novel">[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]</ref>
+
+Kalonia also treated the injuries [[Finn]] suffered during his [[Battle of Starkiller Base|fight]] with [[Kylo Ren]] on [[Starkiller Base]], which included nearly fatal [[lightsaber]] wounds to the shoulder and spine. Kalonia tended to Finn in the intensive care unit of the D'Qar base, marking one of the few instances in her career that she treated lightsaber wounds. Finn survived, and Kalonia's prognosis was positive, though his final status would not be certain until he fully recovered. After treating Finn, Kalonia personally informed [[Rey]] about his recovery.<ref name="TFA novel" /> Finn recovered [[Evacuation of D'Qar|shortly]] afterwards, as Kalonia promised.<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+
+==Personality and traits==
+[[File:Kalonia Treats Chewbacca.png|Kalonia treats and comforts Chewbacca.|thumb|left|300px]]
+{{Quote|That sounds very scary. You must be ''so'' brave.|Kalonia demonstrating her bedside manner on Chewbacca|Star Wars: Episode VII The Force Awakens}}
+Harter Kalonia was a light-skinned woman<ref name="Episode VII" /> with dark [[hair]] and brown [[eye]]s.<ref name="TFA novel" /> As a physician, she was noted for her good humor and sympathetic bedside manner,<ref name="TFA VD" /> and she was warm enough to offer even the most hardened [[soldier]] comfort.<ref name="Topps">{{Topps|set=Star Wars: The Force Awakens Series 1|cardname=Doctor Kalonia}}</ref>
+
+==Skills and abilities==
+Harter Kalonia was a competent physician. Despite having little experience with the treatment of lightsaber wounds, she still managed to save Finn's life. In addition to speaking [[Galactic Basic]],<ref name="TFA novel" /> Kalonia was also fluent in other [[language]]s such as [[Shyriiwook]], which made her a good [[ear]] for Wookiee patients.<ref name="TFA VD" />
+
+==Equipment==
+The uniform worn by Kalonia reflected both her [[Resistance military|military]] and medical roles. The [[Color|silver]] and red [[Resistance rank badge|rank badge]] of an [[Resistance army|army]] major was attached to the left side of her chest, and the dark armband of medical services (bearing the word "MED" in [[aurebesh]]) was wrapped around her left upper arm. Kalonia used a well-equipped medical field kit that allowed her to treat [[blaster]] burns. It contained [[healing field generator|antiseptic field generators]], [[bacta bulb]]s, and [[synthflesh]] [[Synthflesh dispenser|dispensers]].<ref name="TFA VD" /> While Kalonia was known for her compassion and sly humor, she also ensured that her patients complied with her instructions.<ref name="Bloodline" />
+
+==Behind the scenes==
+Kalonia was portrayed by [[Harriet Walter]] in the film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] ([[2015]]). Walter, who also portrayed Lady Shackleton in the television series ''[[Wikipedia:Downton Abbey|Downton Abbey]]'', is the niece of the late Sir [[Christopher Lee]], who portrayed [[Dooku|Darth Tyranus]] in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] (2002) and [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] (2005).<ref>McNally, Victoria. (December 18, 2015). [http://www.mtv.com/news/2690893/star-wars-the-force-awakens-cameos/ "13 'Star Wars: The Force Awakens' Cameos You Might Have Missed"]. [[Wikipedia:MTV|MTV]].</ref><ref>Yamato, Jen. (December 19, 2015). [http://www.thedailybeast.com/articles/2015/12/19/how-to-spot-all-the-star-wars-the-force-awakens-cameos-from-daniel-craig-to-radiohead.html "How to Spot All the 'Star Wars: The Force Awakens' Cameos, From Daniel Craig to Yoda"]. [[Wikipedia:The Daily Beast|The Daily Beast]].</ref> A deleted scene from ''The Force Awakens'' depicts Kalonia telling Rey "your friend's going to be just fine," referring to Finn,<ref name="Episode VII deleted">''Star Wars'': Episode VII ''The Force Awakens'' home video release</ref> a sequence that was presented in detail in the film's [[Star Wars: The Force Awakens (novelization)|novelization]].<ref name="TFA novel" />
+
+==Appearances==
+*''[[Star Wars: Force Arena]]''
+*''[[Aftermath: Empire's End]]'' {{Mo}}
+*''[[Bloodline (novel)|Bloodline]]'' {{1stID|Harter}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]] {{1stID|Kalonia, simultaneous with ''Star Wars: The Force Awakens: The Visual Dictionary''}}
+*''[[Star Wars: The Force Awakens: A Junior Novel]]''
+*''[[Star Wars: The Force Awakens Beginner Game]]'' {{Po}}
+*''[[The Last Jedi: Bomber Command]]''
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]'' {{1stID|Kalonia, simultaneous with ''Star Wars: The Force Awakens'' novel}}
+*{{Topps|set=Star Wars: The Force Awakens Series 1|cardname=Doctor Kalonia}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*{{Databank|doctor-kalonia|Doctor Kalonia|archivedate=20160512225934}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Harter Kalonia#kanon
+|fr=Harter Kalonia
+|it=Kalonia
+|ja=ハーター・カロニア
+|pl=Harter Kalonia
+|ru=Хартер Калония
+}}
+
+{{DEFAULTSORT:Kalonia, Harter}}
+[[Category:Females]]
+[[Category:Healers and doctors]]
+[[Category:Humans]]
+[[Category:New Republic individuals]]
+[[Category:Resistance Military officers]]

@@ -1,0 +1,80 @@
+{{Eras}}
+{{Character
+|type=Criminal
+|image=[[File:Rinnrivin Di.jpg]]
+|name=Rinnrivin Di
+|homeworld=
+|birth=[[30 BBY]]<ref name="Scum and Villainy Case Files">''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''</ref>
+|death=[[28 ABY]],<ref name="Timeframe">{{Twitter|DelReyStarWars|status/652893780236988420|[[Del Rey]]|quote=So excited to have @claudiagray writing a #StarWars novel with us. SW: New Republic: Bloodline coming 2016. Set 6 years before TFA.|image=File:New Republic Bloodline Twitter Post.jpg}} The tweet in question states that the events of ''Bloodline'' take place six [[Standard year|years]] before the events of the film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]. ''[[Star Wars: Galactic Atlas]]'' establishes that the events of ''The Force Awakens'' take place in the year [[34 ABY]] and it can therefore be concluded that the events of ''Bloodline'' take place in [[28 ABY]].</ref> [[Sibensko]]<ref name="BL">''[[Bloodline (novel)|Bloodline]]''</ref>
+|species=[[Nikto]] {{C|[[Kajain'sa'Nikto]]}}<ref name="BL" />
+|gender=[[Sexes|Male]]<ref name="BL" />
+|height=1.83 [[meter]]s<ref name="Scum and Villainy Case Files" />
+|mass=
+|hair=
+|eyes=
+|skin=[[Color|Red]]<ref name="BL" />
+|cyber=
+|era=
+|affiliation=*[[Rinnrivin Di's cartel]]<ref name="BL" />
+*[[Amaxine warriors]]<ref name="BL" />
+*[[New Republic]]<ref name="BL" />
+**[[Centrists]]<ref name="BL" />
+|masters=
+|apprentices=}}
+'''Rinnrivin Di''' was a [[Kajain'sa'Nikto]] [[crime lord]] who operated a powerful and dangerous [[Rinnrivin Di's cartel|cartel]], operating from the [[planet]] [[Bastatha]] in [[28 ABY]]. Di's cartel targeted the commercial shipping lanes around [[Ryloth]], and was considered to be a rival to even the greatest [[Hutt]] crime organizations at their peak&mdash;their targeting of [[Twi'lek]] shipments and merchants forced Ryloth to appeal to the [[Galactic Senate (New Republic)|Galactic Senate]] for help. After an [[Mission to Bastatha|investigation]] led by [[Leia Organa]], Di was killed in an armed [[Mission to Sibensko|confrontation]] with Organa on the planet [[Sibensko]].
+
+==Biography==
+===Background===
+The [[Kajain'sa'Nikto]] Rinnrivin Di was a lowly [[spice dealer]] working for the [[Hutt]]s who lived during the [[Imperial Era|Age of the Empire]]. Due to the entrenched [[xenophobia]] of the [[Galactic Empire|Old Empire]], Rinnrivin had few prospects for career advancement and instead chose a career in crime. [[21 ABY|Seven]] [[standard year|years]] before the "[[Napkin Bombing]]", Rinnrivin was leader of a minor [[Rinnrivin Di's cartel|cartel]] who received billions of [[Credit]]s in start-up investment capital from the [[Amaxine warriors]], a paramilitary group who acted as proxies for the [[First Order]], [[Imperial remnant (cold war)|a remnant]] of the Old Empire. Due to this capital injection, Rinnrivin's cartel quickly became a major crime syndicate overnight.<ref name="BL" />
+
+Rinnrivin channeled the revenue from his smuggling and gambling operations to the First Order through shadow corporations in the [[Outer Rim Territories]] and [[Centrists|Centrist]] sources. The First Order used this revenue to rebuild the [[First Order Navy|old Imperial fleet]]. Over the next seven years, Rinnrivin's cartel came to establish a dominance over the [[Gaulus sector]], crippling [[Ryloth]]'s offworld trade. Rinnrivin operated from a [[Rinnrivin's headquarters|base]] on the Outer Rim planet [[Bastatha]], which had an economy based on casinos and gambling. Eventually, the Ryloth government dispatched [[Emissary]] [[Yendor]] to petition the [[New Republic]] for help. The [[Galactic Senate (New Republic)|Galactic Senate]] dispatched [[Senator]]s [[Leia Organa]] and [[Ransolm Casterfo]] to investigate Rinnrivin's activities on Bastatha.<ref name="BL" />
+
+===Meeting the Huttslayer===
+Rinnrivin learnt about Senator Organa's visit and sent his henchmen to kidnap her. Disguised as "businessmen", the gangsters kidnapped Leia and spirited her away on a [[Hoversled/Legends|hoversled]] to Rinnrivin's headquarters, which lay in the deep caverns of Bastatha. Rinnrivin wanted to bribe the senator into convincing the New Republic to ease its restrictions on the trade of "hard" [[spice]]. In an attempt to win over the Senator, he offered her [[Toniray]] [[wine]] and a [[holocube]] of Leia killing [[Jabba Desilijic Tiure]]; telling her that the Niktos admired her as "Huttslayer" for her role in bringing down the Hutt crime lord.<ref name="BL" />
+
+While recognizing Rinnrivin's charisma and intelligence, Senator Organa was unwilling to be bribed and condemned Rinnrivin's criminal practices. Too her surprise, Rinnrivin did not deny these allegations but argued that rules set on [[Hosnian Prime]] often failed to reach the other New Republic worlds. He pointed out that Leia had used lawlessness as a weapon during her time in the [[Alliance to Restore the Republic|Rebel Alliance]]. Leia however stressed that she had since devoted her life to restoring law and order to the Galaxy. Rinnrivin then tried to reason with Leia by pointing out that she had married a smuggler.<ref name="BL" />
+
+Their meeting was interrupted by the arrival of Senator Casterfo, who had tracked Leia using a [[homing beacon|tracking device]] planted in her cloak. Casterfo fought with Rinnrivin's guards and rescued Leia. Not expecting the armed assault, a bemused Rinnrivin expressed his desire to meet again. While Leia and Casterfo escaped Rinnrivin's den in a stolen hoversled, the crime lord and his henchmen fled offworld since their base had been exposed. Rinnrivin also sent his henchmen after them but the Republic senators managed to escape and alert the [[Bastatha security forces]].<ref name="BL" />
+
+Following Rinnrivin's escape, Leia's team managed to download information from the droid's that the crime lord had left behind in his base. They discovered that Rinnrivin's network rivaled the Hutts and that he was channeling funds into shadow corporations on various Outer Rim worlds. Leia's [[starfighter]] [[pilot]]s [[Greer Sonnel]] and [[Joph Seastriker]] later discovered Rinnrivin's connection to the Amaxines during a trip to [[Pamarthe]]. While visiting the [[Ryloth archives]], Leia and her team found information about Rinnrivin's sudden rise to power as a major crime lord. After hacking into one of Rinnrivin's spy satellites above Ryloth, [[C-3PO]] learned that Rinnrivin was hiding on the watery planet of [[Sibensko]] in the [[Expansion Region]]; which was the headquarters of the Amaxines.<ref name="BL" />
+
+===Second meeting===
+While monitoring the satellites, C-3PO detected that Rinnrivin was visiting the commercial and cultural hub of [[Harloff Minor]], which was near [[Coruscant]]. Leia wanted to investigate his linkages to the Amaxine Warriors and arranged to meet the crime lord for dinner. Rinnrivin and Organa met at a comfortable restaurant in one of Harloff Minor's equatorial cities that served Nikto cuisine. During the meeting, Rinnrivin expressed relief that the Senator had not been harmed during the [[Napkin Bombing]], which damaged the [[New Republic senatorial complex]] on Hosnian Prime. He denounced the bombing as a "reckless, childish act" and speculated that the bombers were misguided in attempting to seize power by destroying the Senate.<ref name="BL" />
+
+Leia also reassured Rinnrivin that she had no idea of Ransolm's rescue plan. The crime lord believed her explanation and described Casterfo as a reckless glory-seeker. While drinking [[Corellian brandy]], Rinnrivin likened himself to a risk-taker who was not afraid of taking an opportunities to get rich. Taking care to hide his connections to the Amaxines, Rinnrivin also sought to portray himself as a self-made man and expressed a desire to work with Leia. When Leia reiterated that she did not take bribes, he spoke approvingly of her being a worthy candidate for [[First Senator]]. When Rinnrivin asked how she had discovered his location, Leia complimented him as a man of refined preferences.<ref name="BL" />
+
+She then took the opportunity to return the "Huttslayer" holocube that Rinnrivin had earlier presented to her. She explained that she did not need to be reminded of her past. Rinnrivin expressed his admiration for Leia and remarked that thoughtfulness was the sign of a good ally. Leia concurred but still regarded him as an enemy. In secret, Leia had refitted the holocube with a tracking device that would allow her to track Rinnrivin's moments. Leia and Casterfo then made preparations to visit Sibensko but this was delayed by a political scandal stemming from revelations about Leia's true parentage as the daughter of [[Anakin Skywalker|Darth Vader]].<ref name="BL" />
+
+===An untimely demise===
+Rinnrivin and his henchmen later discovered that Leia and her team had infiltrated the underwater city of Sibensko which housed the Amaxine Warriors' main base. While Leia was able to track his movements with the holocube, she and C-3PO were preoccupied with downloading banking records from a computer in a local [[cantina]]. These records revealed that the Amaxine Warriors were financing Rinnrivin's cartel. However, C-3PO was unable to access data levels which implicated the First Order as the financiers behind both groups. Despite Leia's veil, he and his two bodyguards recognized the senator.<ref name="BL" />
+
+Upon seeing him, Leia threw back her hood and veil and expressed regret that they were meeting under such unfortunate circumstances. Rinnrivin replied that he had sensors which enabled him to detect her tracking device. When Leia replied that he was a fool for not checking that she had fitted a tracking device in the first place, he snarled and prepared to order his men to kill her. However, Leia had brought a [[blaster]] and managed to shoot one of Rinnrivin's guards. Following a short heated exchange, Leia fired her blaster at the central strut supporting the water tunnel directly overhead. The tunnel collapse, crushing Rinnrivin and his remaining bodyguard to death.<ref name="BL" />
+
+With Rinnrivin's death and the [[Mission to Sibensko|destruction]] of the main Amaxine base, many in the New Republic government and media believed that no more threats to the Republic remained. However, Leia disagreed and established the [[Resistance]] to maintain a vigil over the Republic.<ref name="BL" />
+
+==Personality and traits==
+Rinnrivin Di was a short Nikto man with leathery red skin. He like to dress in elegant clothes, collect ornate furniture, and drank rare vintage beverages like the [[Alderaanian]] [[wine]] [[Toniray]]. Unlike most other crime lords, Rinnrivin sought to cultivate the image of a respected intellectual. Leia thought that Rinnrivin shared the same intelligence and charisma as the late [[Grand Moff]] [[Wilhuff Tarkin]] and would have occupied a similar position in the "Old Empire" had he been born human. Still, Rinnrivin was not above using ruthless and criminal means to advance his own ambitions and agenda.<ref name="BL" />
+
+While Rinnrivin was merely a lowly spice dealer who had been elevated to great power due to a monetary injection by the Amaxine warriors, Rinnrivin saw himself as a self-made businessman who was willing to take risks to succeed. His concern with accumulating wealth and power led him to ignore the negative effects of his criminal activities including spice smuggling and disrupting legitimate commercial traffic. Rinnrivin admired Leia for her role in killing the Hutt crime lord Jabba and sought to cultivate her as a political ally. Despite his smooth-talking and sophisticated demeanor, he failed to sway the straight-dealing Senator whose single-minded resolve was protecting the New Republic from all threats.<ref name="BL" />
+
+==Behind the scenes==
+Rinnrivin first appeared as a minor antagonist in [[Claudia Gray]]'s [[2016]] novel ''[[Bloodline (novel)|Bloodline]]'', which was centered around Leia Organa. His lines are told through Leia's point-of-view.
+
+==Appearances==
+*''[[Bloodline (novel)|Bloodline]]'' {{1st}}
+
+==Sources==
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]'' {{1stp}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ja=リンリヴィン・ダーイ
+|ru=Риннривин Ди
+}}
+
+{{DEFAULTSORT:Di, Rinnrivin}}
+[[Category:Crime lords]]
+[[Category:Kajain'sa'Nikto]]
+[[Category:Males]]

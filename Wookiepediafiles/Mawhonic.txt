@@ -1,0 +1,70 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:MawhonicHS-DB.png]]
+|name=Mawhonic
+|homeworld=[[Hok]]<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|birth=
+|death=
+|species=[[Gran]]<ref name="TPM">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|gender=[[Sexes|Male]]<ref name="TPM" />
+|height=1.22 [[meter]]s<ref name="Mawhonic">{{Databank|mawhonic|Mawhonic}}</ref>
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="TPM" />
+|skin=Pale orange<ref name="TPM" />
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+{{Quote|And in the front row: Nearside pole position; Mawhonic!|Fode|Star Wars: Episode I The Phantom Menace}}
+'''Mawhonic''' was a [[Gran]] [[Sexes|male]] [[Podracer]] [[pilot]] who participated in the [[Boonta Eve Classic]] that took place during the [[Standard year|year]] [[32 BBY]]. Mawhonic's [[GPE-3130 Podracer]] was destroyed by the nefarious [[Dug]] competitor [[Sebulba]]&mdash;whom Mawhonic was considered to be a capable rival towards&mdash;during the first lap of the race, abruptly ending the Gran's chances at victory.
+
+==Biography==
+{{Quotetrans|Begin the race!|Jabba the Hutt begins the Boonta|Star Wars: Episode I The Phantom Menace}}
+[[File:Mawhonic Journeys.png|thumb|150px|left|Mawhonic, the Gran Podracer pilot]]
+A middle-class<ref name="Gran DB">{{Databank|gran|Gran|archivedate=20170820060053}}</ref> [[Gran]] [[Sexes|male]] from the [[planet]] [[Hok]],<ref name="Character Encyclopedia" /> Mawhonic was a professional [[Podracer]] [[pilot]] during the waning [[Standard decade|decades]] of the [[Galactic Republic]]. Mawhonic piloted a [[Color|green]] Podracer which was maintained by several Gran [[Technician|mechanics]]. During the [[Standard year|year]] [[32 BBY]], the planet [[Tatooine]] was celebrating the [[Boonta Eve]] holiday, which traditionally hosted the [[Boonta Eve Classic]] [[Podracing|Podrace]]. Mawhonic entered the competition, and started the race on the nearside pole-position, which offered him a good start into the race. Before the race began, Mawhonic prepared his Podracer with the help of his mechanics, but paused to greet the cheering audience when the race commentators, [[Fodesinbeed Annodue|Fode and Beed]], introduced Mawhonic to the crowd. Shortly after, the race's host, [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]], officially began the race.
+
+During the first lap Mawhonic was neck and neck with the [[Dug]] [[Sebulba]], the Boonta crowd's favorite.<ref name="TPM" /> Although fans considered Mawhonic to be a capable challenger to Sebulba's reign,<ref name="Mawhonic" /> he flew dangerously close to a rock wall and gave Sebulba the opportunity to smash the three-[[eye]]d [[Species|alien]] out of the race. Sebulba, after leading the race for two consecutive laps, would later crash at the end of the final lap, only a short distance from the finish line.<ref name="TPM" />
+
+==Personality and traits==
+During the Boonta Eve Classic, Mawhonic acted ill-tempered, and angrily yelled and shook a fist at Sebulba when the Dug began to play rough. Despite this, Mawhonic was a good pilot, having the skills and reflexes one would need in a sport such as Podracing. Once Mawhonic got in front of the pack, he managed to stay ahead of the other racers until he was knocked out of the race by Sebulba. Like all Gran, Mawhonic had three eyes, all of which were black. He also exhibited pale orange skin<ref name="TPM" /> and stood at 1.22 [[meter]]s tall.<ref name="Mawhonic" />
+
+==Equipment==
+Mawhonic flew a green colored Podracer that was kept in working order by several Gran mechanics and Mawhonic himself. It was a sturdy craft, and was able to withstand several hits from Sebulba's much larger [[Sebulba's Podracer|Podracer]]. However, it eventually succumbed to the Dug's attacks after repeated battering. Mawhonic's [[cockpit]] was very open, and did not enclose the Gran at all.<ref name="TPM" /> The Podracer was fast, and also benefitted from above average handling. The Podracer had a decent turbo package, which would grant the vehicle extra bursts of speed when Mawhonic needed it.<ref name="SWJ">''[[Star Wars Journeys: The Phantom Menace]]''</ref>
+
+==Behind the scenes==
+[[File:Mawhonic Conceptual Insiders Guide.png|thumb|200px|right|Early concept art by [[Jay Shuster]] depicted Mawhonic as a never before seen species.]]
+Mawhonic was created for the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']].<ref name="TPM" /> Mawhonic was the only Podracer pilot to be played by an actor in a costume,<ref name="DB">{{DB|character|mawhonic|Mawhonic}}</ref> being portrayed by [[Mark Coulier]].<ref name="Tatooine Tango">{{SW|url=episode-i/fun/snapshot/2001/02/snapshot20010214.html|text=Star Wars: Episode I <nowiki>|</nowiki> Tatooine Tango}}</ref> Mawhonic's mask was created by special effects artist [[Nick Dudman]] and his crew, who built the mask using a method that had been previously used for the Gran mask created for the [[1983]] film [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']].<ref name="DB" /> Early conceptual art originally depicted Mawhonic as a new species. The design made it as far as the film's storyboard and animatic stages, but was eventually dropped.<ref name="TPMDVD">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] [[Star Wars home video releases|DVD special features]]</ref> Later art depicted Mawhonic as a thin Gran.<ref name="Insider's Guide">''[[Star Wars: Episode I Insider's Guide]]''</ref> Mawhonic's final design was far more corpulent,<ref name="TPM" /> along with how Gran were portrayed in general throughout the [[Prequel trilogy]].<ref name="AotC">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref><ref name="RotS">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+
+In addition to the film, Mawhonic later appeared in two tie-in [[video game]]s: ''[[Star Wars: Episode I Racer]]'' which was released for the PC, [[Dreamcast]], and [[Nintendo 64]],<ref name="EIR">''[[Star Wars: Episode I Racer]]''</ref> and the [[Star Wars Episode I: The Phantom Menace (video game)|''Star Wars'': Episode I ''The Phantom Menace'' video game adaption]] which was released for PC and the [[PlayStation]].<ref name="TPMVG">''[[Star Wars Episode I: The Phantom Menace (video game)|Star Wars Episode I: The Phantom Menace video game]]''</ref> He later appeared again in ''Racer''<nowiki>'</nowiki>s sequel, ''[[Star Wars: Racer Revenge]]'', which was released in [[2002]] for the [[PlayStation 2]].<ref name="RR">''[[Star Wars: Racer Revenge]]''</ref> However, these appearances are now considered to be a part of the [[Star Wars Legends|''Star Wars'' Legends]] continuity, and are no longer a part of official [[canon]]. As such, outside of the film, Mawhonic's only other canonical appearance is the ''[[Star Wars Journeys: The Phantom Menace]]'' interactive-story game, available on the [[iPhone]].<ref name="SWJ" />
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*''[[Star Wars Journeys: The Phantom Menace]]''
+*''[[Star Wars Journeys: Beginnings]]''
+
+===Non-canon appearances===
+*{{The Freemaker Adventures|Race on Tatooine}}
+*{{Droid Tales|Exit from Endor}} {{Flash}}
+
+==Sources==
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Force Collection]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|gran|Gran|archivedate=20170820060053}}
+*{{Databank|mawhonic|Mawhonic}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Mawhonic
+}}
+
+[[Category:Gran]]
+[[Category:Males]]
+[[Category:Podracers]]

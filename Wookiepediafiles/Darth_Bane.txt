@@ -1,0 +1,131 @@
+{{Eras|sprot|featured}}
+{{Otheruses|title=Bane}}
+{{Character
+|type=Sith
+|image=[[File:Darth_Bane_canon.png]]
+|name=Darth Bane
+|homeworld=
+|birth=Prior to [[1019 BBY]]<ref name="SWP">''[[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]''</ref>
+|death=Approximately one [[millennium]] before the [[Clone Wars]]<ref name="SWEBane">{{SWE|characters|darth-bane|Darth Bane|archivedate=20110912224644}}</ref>
+|species=[[Human]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|gender=[[Sexes|Male]]<ref name="Databank">{{Databank|darth-bane|Darth Bane|archivedate=20170710180609}}</ref>
+|height=
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=
+|era=
+|affiliation=[[Sith]]<ref name="Sacrifice">{{TCW|Sacrifice}}</ref>
+|masters=
+|apprentices=[[Darth Bane's apprentice]]<ref name="Sacrifice" />}}
+{{Quote|The Sith killed each other, victims of their own greed. But from the ashes of destruction, ''I'' was the last survivor.|Darth Bane's specter|audio=GhostBane01-TCW.ogg|Sacrifice}}
+'''Darth Bane''' was a [[human]] [[Sexes|male]] [[Dark Lord of the Sith]] and the sole survivor of the destruction of the [[Sith]] at the hands of the [[Jedi Order]] during the [[Jedi–Sith war]], a [[Millennium|thousand years]] before the [[Clone Wars]]. As the only surviving Sith, Bane recognized that Sith infighting had weakened them to the point that the [[Jedi]] could destroy them. To rectify this, Bane reformed the Sith and created the [[Rule of Two]], mandating that there could be only two Sith&mdash;a [[Sith Master|Master]] and an [[Sith apprentice|apprentice]]&mdash;at any given [[time]]. These new Sith would begin a plot to destroy the Jedi in secret. Bane was later defeated by the Jedi, who wrongly believed that the Sith were defeated with him.
+
+The vendetta Bane held against the Jedi was fulfilled during the Clone Wars, when [[Supreme Chancellor]] [[Darth Sidious|Palpatine]], secretly the [[Sith Lord]] Darth Sidious and a follower of the Rule of Two, [[Proclamation of the New Order|transformed]] the [[Galactic Republic]] into the [[Galactic Empire]] and [[Order 66|destroyed]] the Jedi Order. The victory was short-lived, however, as the redeemed [[Jedi Knight]] [[Anakin Skywalker]] [[Battle of Endor|defeated]] the Sith twenty-three [[Standard year|years]] later.
+
+==Biography==
+===Establishing the Rule of Two===
+{{Quote|Created the Rule of Two, you did.|Yoda, to the specter of Darth Bane|audio=YodaVSBane1-TCW.ogg|Sacrifice}}
+[[Darth]] Bane was a [[Dark Lord of the Sith]] who lived during the [[Fall of the Old Republic|Dark Age of the Republic]],<ref name="SWP" /> a [[Millennium|thousand years]] before the [[Clone Wars]]. In [[Sexes|his]] [[time]], the [[Sith]] were often fueled by their own individual lusts for power, with Sith turning against their own. The infighting led to the defeat of their [[Dark side of the Force|dark side]] order,<ref name="SWEBane" /> as the [[Jedi Order]] was able to all but destroy the weakened Sith. Bane was the sole survivor of the [[Jedi–Sith war]].<ref name="SWP" /><ref name="Ultimate Star Wars" />
+
+Recognizing that it was infighting that destroyed the Sith, Bane created a new Sith philosophy, the [[Rule of Two]], in which there could be only two Sith at a given time: a [[Sith Master|Master]] to embody power and an [[Sith apprentice|apprentice]] to crave it. Bane took on an [[Darth Bane's apprentice|apprentice]] of his own and began passing on his knowledge, all while establishing the new Sith way of pursuing power and revenge against the [[Jedi]] through manipulation and subterfuge. The Jedi learned of Bane's new philosophy and, while defeating Bane himself, falsely believed that they had destroyed the Sith forever. However, Bane's plans continued through his apprentice.<ref name="SWEBane" />
+
+After Bane's [[death]], his remains were placed into a [[Tomb of Darth Bane|sarcophagus]] in the [[Valley of the Dark Lords]] on [[Moraband]], the ancient Sith [[homeworld]]. As of the Clone Wars, Bane was the last [[Sith Lord]] to be buried on Moraband.<ref name="SWEBane" />
+
+===Legacy===
+{{Quote|An illusion. Real, you are not.|Yoda, to the specter of Darth Bane|audio=YodaVSBane2-TCW.ogg|Sacrifice}}
+In the [[Standard year|years]] following Bane's death, the Sith continued their quest for revenge, working in secret as they plotted their return to [[The galaxy|galactic]] dominance. These plans continued through [[Darth Sidious]], publicly known as [[Supreme Chancellor]] Palpatine, who engineered the Clone Wars to gain more power over the [[Galactic Republic]]. He also manipulated the war, fought between the Republic and the [[Confederacy of Independent Systems|Separatist Alliance]], to turn public opinion against the Jedi,<ref name="Sabotage">{{TCW|Sabotage (episode)|Sabotage}}</ref> who were serving as leaders in the [[Grand Army of the Republic]]. Doing so would allow him to justify his eventual [[Order 66|destruction]] of the Jedi Order.<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+
+[[File:EpGuide613.png|thumb|left|325px|Yoda encounters the specter of Darth Bane.]]
+During the war, Jedi [[Grand Master]] [[Yoda]] [[Mission to Moraband|ventured]] to Moraband on a journey to discover the secrets of [[Force spirit|immortality]]. He entered Darth Bane's tomb and encountered a [[Fire|fiery]] vision of the ancient Dark [[Lord]].<ref name="Sacrifice" /> The vision,<ref name="Pablo Hidalgo Vision">{{Twitter|pablohidalgo|status/681691250685157377|[[Pablo Hidalgo]]|quote=That wasn't his spirit. It was a vision that was part of Yoda's ongoing trial.|image=File:Darth Bane was a vision.png}}</ref> conjured by the [[Force Priestesses]]<ref name="Pablo Hidalgo Priestess">{{Twitter|pablohidalgo|status/809169127977816064|[[Pablo Hidalgo]]|quote=that was an illusion created by the Priestesses|image=File:Darth Bane Priestesses illusion.png}}</ref> as part of Yoda's trial to learn the power of immortality,<ref name="Pablo Hidalgo Vision" /> attempted to convince the Jedi Master to turn to the dark side. Yoda refused, remarking that Bane was dead and that what appeared before him was simply an illusion who had nothing to offer. Yoda's defiance banished the specter back into the sarcophagus, while Yoda continued on his journey.<ref name="Sacrifice" />
+
+The war's end saw the culmination of the Sith's millennium-long vendetta against the Jedi. Sidious declared himself [[Galactic Emperor|Emperor]] and reformed the Republic into the [[Galactic Empire]]. To destroy the Jedi, Sidious issued Order 66, a command implanted in the [[clone trooper]]s of the Grand Army of the Republic to kill the Jedi as [[Treason|traitors]]. In addition, Sidious turned to the dark side [[Jedi Knight]] [[Anakin Skywalker]], believed by the Jedi to be the [[Chosen One]] of prophecy who would destroy the Sith. The plans that started with Darth Bane had thus been fulfilled.<ref name="Episode III" />
+
+The Sith victory was short-lived, however, as Sidious met [[Battle of Endor|defeat]]<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref> twenty-three years later.<ref name="Leland Chee Date Tweet">{{Twitter|HolocronKeeper|status/495972415458250752|[[Leland Chee]]|quote=0 10 10-13 13 27 32 35 36|image=File:Leland_Chee_Canon_Years.png}}&mdash;The tweet in question refers to the number of [[in-universe]] [[Standard year|years]] between the [[canon]] films and television shows, with [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] set as Year 0. [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] can be deduced as taking place twenty-three years after [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']].</ref> A redeemed Skywalker killed the Emperor, resulting in his own death<ref name="Episode VI" /> but also ending the rule of the Sith<ref name="Sith Databank">{{Databank|sith|Sith}}</ref> that Darth Bane had set in motion over a thousand years earlier.<ref name="SWEBane" />
+
+==Personality and traits==
+Darth Bane was a [[human]].<ref name="Ultimate Star Wars" /> Having witnessed the destruction of the Sith, Bane believed that their infighting and greed led to their downfall. In order to preserve the Sith as its last survivor, Bane adopted the Rule of Two,<ref name="Sacrifice" /> believing that limiting the number of Sith to one Master and one apprentice would allow the Sith to survive in secret so they could plot their revenge against the Jedi.<ref name="SithSWE">{{SWE|groups|sith|Sith|archivedate=20110912224644}}</ref>
+
+==Behind the scenes==
+===Creation===
+[[File:Darth_Bane_Clone_Wars.png|thumb|right|250px|Darth Bane was nearly depicted in the ''Star Wars: The Clone Wars'' episode "Ghosts of Mortis," based on his Legends appearance.]]
+Darth Bane was created by [[George Lucas]] as part of the backstory for the [[prequel trilogy]]<ref name="Endnotes for the NEC">{{SWArchive|url=eu/lit/ref/f20051025/indexp2.html|text=Endnotes for ''The New Essential Chronology''}}</ref> and was first mentioned in the [[Star Wars: Episode I The Phantom Menace (novelization)|novelization]] of [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']], written by [[Terry Brooks]] and published in [[1999]].<ref name="TPMNovelization">[[Star Wars: Episode I The Phantom Menace (novelization)|''Star Wars'': Episode I ''The Phantom Menace'' novelization]]</ref> Bane's story was expanded upon in a number of reference books and [[Star Wars comic books|comic books]] before being made the subject of a [[Star Wars: Darth Bane Trilogy|novel trilogy]] authored by [[Drew Karpyshyn]]: ''[[Darth Bane: Path of Destruction|Path of Destruction]]'', ''[[Darth Bane: Rule of Two|Rule of Two]]'', and ''[[Darth Bane: Dynasty of Evil|Dynasty of Evil]]''. These stories are part of [[Star Wars Legends|''Star Wars'' Legends]], previously known as the Expanded Universe, and are therefore not official [[canon]].<ref name="EUNewPage">{{SW|url=news/the-legendary-star-wars-expanded-universe-turns-a-new-page.html|text=The Legendary Star Wars Expanded Universe Turns a New Page}}</ref>
+
+===''The Clone Wars''===
+{{Quote|My son Nathan knew the history of Darth Bane, because I didn't really realize how he fit into the scheme of things.|Mark Hamill, who voiced Darth Bane, speaking of his knowledge of the character|url=https://www.youtube.com/watch?v=Hmo0TsB2wcI}}
+During the writing of "[[Ghosts of Mortis]]," the seventeenth episode in the [[The Clone Wars: Season Three|third season]] of the television series ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'', Lucas wanted to include two ancient Sith Lords who could serve as an "uber evil influence guiding the [[Son]]," the villain of the episode. The production team decided that [[Revan|Darth Revan]], the main character of the now-Legends [[video game]] ''[[Star Wars: Knights of the Old Republic]]'', and Bane would be the two Sith Lords. The two characters were styled and modeled for "Ghosts of Mortis" based on their appearances in the Expanded Universe, but the scene, despite being laid out, was never animated. [[Dave Filoni]], the show's supervising director, was apprehensive of the idea that Sith Lords could return as [[Force spirit|spirits]], believing that Bane and Revan's appearance would have greater implications than the episode was exploring. Lucas thought about it as well and eventually agreed that the scene should be removed from the episode due to those implications on his ideas about [[the Force]].<ref name="Ghosts of Mortis Featurette">{{SW|url=video/ghosts-of-mortis-episode-featurette|text="Ghosts of Mortis" Episode Featurette}}</ref>
+
+[[File:Darth_Bane_BtS.png|thumb|left|215px|Character concept of Darth Bane, as seen in ''The Clone Wars'' episode "Sacrifice"]]
+The unrealized scene, called "Son Confers with Ancient Sith Lords" and released in an uncompleted form on the "Jedi Temple Archives" feature for [[Star Wars: The Clone Wars The Complete Season Three|''Star Wars: The Clone Wars'' The Complete Season Three]], depicts Bane and Revan speaking to the Son in the [[Well of the Dark Side]] on [[Mortis]]. The Son, who has been guided by the two Sith Lords in the past, questions why he feels pain over the events of the two previous episodes, "[[Overlords]]" and "[[Altar of Mortis (episode)|Altar of Mortis]]," and the Sith Lords tell him it is because he has not embraced his pain and resentment. When the Son demands to know their true identities, the two spirits reveal themselves as Bane and Revan and tell him that controlling Anakin Skywalker, the Chosen One, is the key to controlling the [[galaxy]].<ref name="TCW3BluRay">[[Star Wars: The Clone Wars The Complete Season Three|''Star Wars: The Clone Wars'' The Complete Season Three]]&mdash;Jedi Temple Archives: "[[Ghosts of Mortis]]"</ref>
+
+Despite being cut from "Ghosts of Mortis," a specter of Darth Bane appeared in "[[Sacrifice]]," ''The Clone Wars'' series finale. Cutting the previously planned appearance allowed the show's team to redesign the character and define what Bane would look like in the official ''[[Star Wars]]'' canon. Concept art for the character was created by [[Darren Marshall]], which included full [[armor]] as well as a "Sith warrior [[lightsaber pike]]."<ref name="Sacrifice Trivia Gallery">{{SW|url=tv-shows/clone-wars/sacrifice-trivia-gallery|text="Sacrifice" Trivia Gallery|int=|org=}}</ref> In the episode, Bane's specter was voiced by [[Mark Hamill]], best known for his portrayal of [[Luke Skywalker]].<ref name="Sacrifice" /> Prior to taking on the role of Bane, Hamill did not know of the character or how Bane fit into the overall arc of ''Star Wars''. His son [[Nathan Hamill]] knew about the history of the character and was able to explain it to his father once he took on the role.<ref name="Hamill Star Wars Weekend Day 3">{{Cite_web|url=https://www.youtube.com/watch?v=Hmo0TsB2wcI|title=Mark Hamill Conversation FULL Show Day 3, Star Wars Weekends - Talks Yoda, Joker, Stunts, Diet +|accessdate=2014-08-01|author=MouseSteps / JWL Media|date=2014-06-09|format=Video|work=[http://www.mousesteps.com/ MouseSteps]|publisher=MouseSteps via [https://www.youtube.com/ YouTube]}}</ref>
+
+==Appearances==
+*{{TCW|Sacrifice}} {{1st}} {{Vision|[[Yoda]]}}
+
+==Sources==
+*[[Star Wars: The Clone Wars The Complete Season Three|''Star Wars: The Clone Wars'' The Complete Season Three]]
+*{{SWE|characters|darth-bane|Darth Bane|archivedate=20110912224644}}
+*{{SWE|locations|moraband|Moraband|archivedate=20110912224644}}
+*{{SWE|groups|sith|Sith|archivedate=20110912224644}}
+*{{SW|url=video/ghosts-of-mortis-episode-featurette|text="Ghosts of Mortis" Episode Featurette}}
+*{{SW|url=tv-shows/clone-wars/sacrifice|text="Sacrifice" Episode Guide - The Clone Wars}}
+*{{SW|url=video/the-lost-missions-q-and-a-darth-bane|text=The Lost Missions Q&A: Darth Bane}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars Year By Year: A Visual History, Updated and Expanded Edition]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*{{ForceCollection|Darth Bane|star=5}}
+*{{Databank|darth-bane|Darth Bane|archivedate=20170710180609}}
+*{{Databank|moraband|Moraband}}
+*{{Databank|sith|Sith}}
+*{{Databank|yoda|Yoda|archivedate=20140703043000}} {{Po}}
+
+{{Start box}}
+{{Succession_box
+|title=[[Dark Lord of the Sith]]<ref name="Sacrifice" />
+|years=After [[1019 BBY]]<ref name="SWP" /><ref name="Databank" /><ref name="Ultimate Star Wars" />&ndash;
+|before=None
+|after=Himself with unidentified [[Darth Bane's apprentice|apprentice]]<ref name="Sacrifice" />
+|after-years=
+}}
+{{Succession_box
+|title=[[Dark Lord of the Sith]] with [[Darth Bane's apprentice|his apprentice]]<ref name="Sacrifice" />
+|years=
+|before=Himself, alone
+|before-years=After [[1019 BBY]]<ref name="SWP" /><ref name="Databank" /><ref name="Ultimate Star Wars" />&ndash;
+|after=Unidentified [[Darth Bane's apprentice|apprentice]]<ref name="Databank" />
+|after-years=
+}}
+{{End box}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|bg=Дарт Бейн
+|de=Darth Bane#kanon
+|el=Νταρθ Μπέιν
+|es=Darth Bane
+|fr=Dark Bane
+|hu=Darth Bane
+|it=Darth Bane
+|ja=ダース・ベイン
+|ko=다스 베인
+|nl=Darth Bane
+|no=Darth Bane
+|pl=Darth Bane
+|pt=Darth Bane
+|ru=Дарт Бэйн/Канон
+|sv=Darth Bane
+|tr=Darth Bane
+|uk=Дарт Бейн
+}}
+
+{{DEFAULTSORT:Bane, Darth}}
+[[Category:Banite Sith]]
+[[Category:Dark Lords of the Sith]]
+[[Category:Humans]]
+[[Category:Males]]

@@ -1,0 +1,75 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Bobbajo.png]]
+|name=Bobbajo
+|homeworld=[[Jakku]]<ref name="ECUC">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|birth=
+|death=
+|species=[[Nu-Cosian]]<ref name="ACGS">{{Shortstory|story=All Creatures Great and Small|book=Tales from a Galaxy Far, Far Away: Aliens: Volume I|bformatted=''Tales from a Galaxy Far, Far Away: Aliens: Volume I''}}</ref>
+|gender=[[Sexes|Male]]<ref name="Name Confirmation">{{SW|url=news/sdcc-2015-star-wars-the-force-awakens-panel-liveblog|text=SDCC 2015: ''Star Wars: The Force Awakens'' Panel Liveblog}}</ref>
+|height=1.14 [[meter]]s<ref name="ECUC" />
+|mass=40 [[kilogram]]s<ref name="TFA head to head">''[[Star Wars: The Force Awakens: Head-to-Head]]''</ref>
+|hair=[[Color|White]]<ref name="YouTube">{{SWYoutube|video=XfNiC9iKM0Q#t=88|text=Star Wars: Force for Change - A Message from J.J. Abrams}}</ref>
+|eyes=[[Color|Black]]<ref name="VD">"[[Star Wars: The Force Awakens: The Visual Dictionary]]"</ref>
+|skin=Yellow and purple<ref name="YouTube" />
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+{{Quote|History...Is an interesting thing. We know only...the versions we are told. It does not mean...that there are not...other truths.|Bobbajo|All Creatures Great and Small}}
+'''Bobbajo''' was a [[Sexes|male]] [[Nu-Cosian]]<ref name="ACGS" /> with a [[Color|white]] beard who lived on [[Jakku]] approximately thirty [[Standard year|years]] after the [[Battle of Endor]].<ref name="Set to Roll">{{SW|url=news/star-wars-episode-vii-set-to-roll-cameras-may-2014.html|text=Star Wars: Episode VII Set to Roll Cameras May 2014}}</ref> He carried a group of animals around in cages, including frog-like [[gwerp]]s, chicken-like [[pishne]]s, a [[lonlan]], two [[zhhee]] and an ill-tempered [[worrt]] named [[J'Rrosch]].<ref name="ACGS" /><ref name="YouTube" /> His calm demeanor helped settle down the animals while he transported them.<ref name="VD" /> He roamed between the settlements of the planet telling stories to local villagers and entertaining children with the talents of his menagerie. He claims his creatures were responsible for the destruction of the first Death Star, but few believe him. This earned him the names of the "'''Storyteller'''" and the "'''Crittermonger'''".
+
+{{Char-stub}}
+
+==Behind the scenes==
+[[File:Luke discovers Cymoon slaves.png|thumb|left|A similar alien appeared in ''Star Wars 1: Skywalker Strikes'' (left, below the two [[Bith]]).]]
+Bobbajo was first shown in "Star Wars: Force for Change - A Message from J.J. Abrams", a video released on YouTube in [[2014]] in which [[J.J. Abrams]] introduced the charity campaign Star Wars: A Force for Change. The video was filmed on the set of [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] and showed the creature walking behind Abrams while he talked, at one stage drawing the director's attention. He was one of the first new characters from Episode VII to have been shown. He was portrayed by [[Aidan Cook]] in the film
+
+A similar alien made a cameo appearance in ''[[Star Wars 1: Skywalker Strikes]]'', the first issue of the [[Marvel Comics|Marvel]] [[Star Wars comic books|comic book]] series ''[[Star Wars (Marvel 2015)|Star Wars]]'', in a scene where [[Luke Skywalker]] discovers a cage filled with [[Galactic Empire|Imperial]] [[Slavery|slaves]].<ref name="Skywalker Strikes">''[[Star Wars 1: Skywalker Strikes]]''</ref>
+
+==Appearances==
+*{{Shortstory|story=All Creatures Great and Small|book=Tales from a Galaxy Far, Far Away: Aliens: Volume I|bformatted=''Tales from a Galaxy Far, Far Away: Aliens: Volume I''}} {{1st}}
+*{{IDWAdventuresCite|1|[[Better the Devil You Know, Part I]]}}
+*{{Shortstory|story=Destroyer Down|book=Star Wars Adventures: Destroyer Down|bformatted=''Star Wars Adventures: Destroyer Down''}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]
+*''[[The Force Awakens, Part I]]''
+*''[[Rey's Survival Guide]]''
+
+===Non-canon appearances===
+*{{The Resistance Rises|Rey Strikes Back}}
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*{{InsiderCite|151|Launch Pad}}
+*{{SW|url=news/sdcc-2015-star-wars-the-force-awakens-panel-liveblog|text=SDCC 2015: ''Star Wars: The Force Awakens'' Panel Liveblog|archivedate=20180505205944}} {{1stID}}
+*{{InsiderCite|160|Bantha Tracks}}
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*{{Topps|set=Star Wars: The Force Awakens Series 1|cardname=Bobbajo}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Aliens of the Galaxy]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Adventures, Volume 1: Heroes of the Galaxy]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
+*{{Databank|bobbajo|Bobbajo|archivedate=20170605051015}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWYoutube|video=XfNiC9iKM0Q#t=88|text=Star Wars: Force for Change - A Message from J.J. Abrams}}
+
+{{Interlang
+|de=Bobbajo#kanon
+|fr=Bobbajo
+|it=Bobbajo
+|ja=ボバジョー
+|nl=Bobbajo
+|pl=Bobbajo
+|ru=Боббаджо
+}}
+
+[[Category:Males]]
+[[Category:Nu-Cosians]]

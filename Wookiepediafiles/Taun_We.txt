@@ -1,0 +1,63 @@
+{{Eras}}
+{{Character
+|type=Galactic Republic
+|image=[[File:TaunWe.jpg]]
+|name=Taun We
+|homeworld=[[Kamino]]<ref name="Taun We">{{Databank|taun-we|Taun We}}</ref>
+|birth=
+|death=
+|species=[[Kaminoan]]<ref name="Taun We" />
+|gender=[[Sexes|Female]]<ref name="Taun We" />
+|height=2.13 [[meter]]s<ref name="Taun We" />
+|mass=
+|hair=
+|eyes=[[Color|Black]] with white pupils<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref><ref name="Kaminoan">{{Databank|kaminoan|Kaminoan}}</ref>
+|skin=White<ref name="Episode II" />
+|cyber=
+|era=
+|affiliation=[[Galactic Republic]]<ref name="Episode II" />
+|masters=
+|apprentices=}}
+{{Quote|After all these years, we were beginning to think you weren't coming.|Taun We, to Obi-Wan Kenobi|Star Wars: Episode II Attack of the Clones}}
+'''Taun We''' was a [[Sexes|female]] [[Kaminoan]] who served as the administrative [[aide]] to [[Lama Su]], the [[Prime Minister]] of the [[planet]] [[Kamino]]. At the behest of [[Jedi Master]] [[Sifo-Dyas]], her [[Species|people]] accepted the commission to produce a [[Clone trooper|clone army]] for the [[Galactic Republic]]. A [[Standard decade|decade]] later, she accompanied [[Obi-Wan Kenobi]] during his inspection tour of the [[Cloning|clone operation]], and also introduced the [[Jedi Knight]] to the [[army]]'s [[Clone template|template]], [[Jango Fett]].
+
+==Biography==
+{{Quote|Tell your Council that the first battalions are ready. And remind them, if they need more troops, it will take more time to grow them.|Taun We, to Obi-Wan Kenobi|Star Wars: Episode II Attack of the Clones}}
+Taun We was the administrative [[aide]] to the [[Prime Minister]] of [[Kamino]], [[Lama Su]],<ref name="Taun We" /> during the last [[Standard year|years]] of the [[Galactic Republic]].<ref name="Kamino">{{Databank|kamino|Kamino}}</ref> In the [[Standard decade|decade]] between the [[Battle of Naboo|Naboo Crisis]] and the [[Battle of Geonosis|outbreak]] of the [[Clone Wars]], the [[Kaminoan]] government utilized its advanced [[cloning]] technology to engineer an [[army]] of [[Clone trooper|clone soldiers]] at the behest of the [[Jedi Master]] [[Sifo-Dyas]],<ref name="Episode II" /> who foresaw that the Republic would need a proper [[Republic military|military]] for its defense.<ref name="Sifo-Dyas">{{Databank|sifo-dyas|Sifo-Dyas}}</ref> As a member of the prime minister's administration, Taun We was involved in the army's development.<ref name="Episode II" />
+
+[[22 BBY|Twenty-two]] [[Standard year|years]] before the [[Battle of Yavin]], the [[Jedi Knight]] [[Obi-Wan Kenobi]] traveled to the Kaminoan [[homeworld]] during his investigation into an assassination plot against [[Senator]] [[Padmé Amidala]].<ref name="Episode II" /> Taun We greeted Kenobi in [[Tipoca City]] under the false impression that he came to inspect the cloning operation as an [[Emissary/Legends|emissary]] of the [[Jedi Order]].<ref name="Taun We" /> After introducing him to Lama Su, she arranged a meeting between Kenobi and [[Jango Fett]]&mdash;a [[human]] [[bounty hunter]] who served as the [[Clone template|original source]] of the clone army&mdash;at the [[Jedi]]'s request.<ref name="Episode II" />
+
+Before Kenobi's departure from the cloning facility, Taun We confirmed that the first [[battalion]]s were ready for service, although more units required additional [[time]] to complete their growth stage. Shortly thereafter, the [[Grand Army of the Republic]] was formed&mdash;its ranks consisting of the Kaminoan clone [[trooper]]s&mdash;in response to the [[Separatist Droid Army|military threat]] of the [[Confederacy of Independent Systems]].<ref name="Episode II" />
+
+==Personality and traits==
+{{Quote|I should very much like to meet this ''Jango Fett''.''"<br />"''I would be very happy to arrange it for you.|Obi-Wan Kenobi and Taun We|Star Wars: Episode II Attack of the Clones}}
+Taun We was a Kaminoan [[Sexes|female]] who stood at 2.13 [[meter]]s. Physically she was notable for her beauty and sylph-like figure.<ref name="Taun We" /> Like other members of her race,<ref name="Kaminoan" /> Taun We<ref name="Episode II" /> had large [[Color|black]] [[eye]]s with white pupils.<ref name="Kaminoan" /> She possessed a gentle nature, but was also naive and therefore failed to realize that Obi-Wan Kenobi had been unaware of the clone army's existence prior to his arrival on Kamino.<ref name="Taun We" />
+
+==Behind the scenes==
+Taun We was voiced by [[Rena Owen]] in the [[2002]] film [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']], the second installment of the ''[[Star Wars]]'' [[prequel trilogy]].<ref name="Episode II" /> In the film, she was portrated as an entirely [[Wikipedia:Computer-generated imagery|computer-generated]] character. Owen performed Taun We's voice on set, wearing a specially modified hardhat with a maquette of the alien's head on top, which provided her co-stars with the proper line-of-sight for talking with the two-meter tall alien.<ref name="DB">{{DB|character|taunwe|Taun We}}</ref>
+
+In her opinion about the character, Rena Owen described Taun We as a creature of love and light, a graceful form that easily glides through life.<ref name="DB" />
+
+==Appearances==
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*''[[Attack of the Clones Read-Along Storybook and CD]]''
+
+==Sources==
+*{{SWE|characters|taunwe|Taun We}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]'' {{Po}}
+*{{Databank|taun-we|Taun We}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:We, Taun}}
+{{Interlang
+|ka=ტონ ვი
+}}
+
+[[Category:Clerical workers and assistants]]
+[[Category:Females]]
+[[Category:Galactic Republic individuals]]
+[[Category:Kaminoans]]

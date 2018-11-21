@@ -1,0 +1,334 @@
+{{Eras}}
+{{Update|[[Star Wars Battlefront II]], [[Bounty Hunted]], [[Last Shot]], [[Star Wars: The Last Jedi: Expanded Edition]], [[Star Wars: Smuggler's Guide]]}}
+{{Character
+|type=Criminal
+|image=[[File:Maz_Kanata_HS.png]]
+|name=Maz Kanata
+|homeworld=[[Takodana]]<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|birth=Prior to 966 [[BBY]]<ref name="DB">{{Databank|maz-kanata|Maz Kanata}}</ref>
+|death=
+|species=
+|gender=[[Sexes|Female]]<ref name="DB" />
+|height=1.24 [[meter]]s<ref name="Character Encyclopedia" />
+|mass=
+|hair=[[Color|White]]<ref name="VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+|eyes=Brown<ref name="VII" />
+|skin=Orange<ref name="Handprint">{{SW|url=news/maz-kanata-handprint-painting|text=Maz Kanata Handprint Painting}}</ref>
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+{{Quote|I am no Jedi, but I know the Force.|Maz Kanata|Star Wars: Episode VII The Force Awakens}}
+'''Maz Kanata''' was a [[Force-sensitive]] [[humanoid]] [[Sexes|female]] who was [[Reproduction|born]] over a [[millennium]] before the brewing [[Cold war|war]] between the [[First Order]] and the [[Resistance]]. Living in an [[Maz Kanata's castle|ancient castle]] on the [[planet]] [[Takodana]], Kanata gained a reputation as a "[[pirate]] [[queen]]" by allowing traveling [[smuggler]]s to reside in her home&mdash;as long as they honored her prohibitions against [[politics]] and war. Kanata spent [[Standard century|centuries]] traveling [[the galaxy]], [[Collector|collecting]] antiques and trinkets which she kept inside the storehouses and vaults of her castle. One notable item was [[Skywalker's lightsaber|the lightsaber]] crafted by [[Jedi Knight]] [[Anakin Skywalker]] and later wielded by Skywalker's son, [[Luke Skywalker|Luke]], who was instrumental in toppling the [[Galactic Empire]].
+
+Thirty [[Standard year|years]] after the Empire's defeat at the [[Battle of Endor]], the smuggler [[Han Solo]] brought [[Rey]], a [[scavenger]] from the [[desert]] planet [[Jakku]], to Kanata's castle. Kanata took interest in the girl, and when the Skywalker [[lightsaber]] called out to Rey through [[the Force]], the smuggler queen told the scavenger to keep the weapon. Rey refused, however, and the [[human]] fled the castle, shortly before [[stormtrooper]]s of the First Order arrived looking for her. During the ensuing [[Battle of Takodana|battle]], Kanata's castle was destroyed, and Rey was taken prisoner, so Kanata entrusted the lightsaber to [[Finn]], a former [[Stormtrooper (First Order)|First Order stormtrooper]] who abandoned his previous occupation, choosing to help the Resistance.
+
+==Biography==
+===Pirate queen of Takodana===
+{{Quote|She's run this watering hole for a thousand years.|Han Solo|Star Wars: Episode VII The Force Awakens}}
+[[File:Maz_statue.jpg|thumb|left|300px|Maz Kanata gained a reputation as a "pirate queen."]]
+[[Reproduction|Born]] over a [[millennium]] before the [[Cold war|conflict]] between the [[First Order]] and the [[Resistance]], Maz Kanata was a [[Force-sensitive]] [[Sexes|female]] who learned to live and thrive in the criminal underworld of [[the galaxy]].<ref name="DB" /> Living on her [[homeworld]],<ref name="Character Encyclopedia" /> the [[planet]] [[Takodana]], Kanata resided in a [[Maz Kanata's castle|lakeside castle]] which was home to the ancient [[protocol droid]] [[ME-8D9]], nicknamed "Emmie."<ref name="Life Debt">''[[Aftermath: Life Debt]]''</ref> The castle was a [[Battle of Takodana (Jedi versus Sith)|battleground]] between ancient [[Jedi]] and [[Sith]],<ref name="CL">''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''</ref> and with [[time]], Emmie was rumored to have started out with the [[Jedi Order]].<ref name="Emmie">{{Databank|me-8d9|ME-8D9}}</ref> Relatively late during Kanata's stay on Takodana, she [[Marriage|married]], and [[Maz Kanata's husband|her husband]] gifted her a statue in her image. The statue remained at the castle until the time of the First Order–Resistance conflict, although the marriage did not last.<ref name="CL" />
+
+[[File:Anakin'sPirateStatue.png|thumb|right|250px|Anakin Skywalker's statue of the pirate queen.]]
+A thousand [[Standard year|years]] before the First Order–Resistance conflict,<ref name="VII" /> Kanata became reputed as a "[[pirate]] [[queen]]," giving [[credit]]s, equipment, and connections to young [[smuggler]]s,<ref name="DB" /> often allowing them a [[Standard day|day]] in her home for free or a long-term stay for rent.<ref name="The Face of Evil">{{Shortstory|story=The Face of Evil|book=Tales from a Galaxy Far, Far Away: Aliens: Volume I}}</ref> In addition to hosting smugglers and pirates, Kanata housed traveling [[musician]]s,<ref name="TVD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref> and she hired a [[Unidentified castle majordomo|majordomo]] who oversaw the castle's activities and a kitchen crew headed by the [[Artiodac]] [[chef]] [[Strono Tuggs]], who stayed with Kanata's castle for [[Standard century|centuries]].<ref name="A Recipe for Death">{{Shortstory|story=A Recipe for Death|book=Tales from a Galaxy Far, Far Away: Aliens: Volume I}}</ref> Unlike her chef, however, Kanata spent centuries of her life traveling the galaxy, [[Collector|collecting]] antiques and other treasures.<ref name="TVD" /> She kept her collection of countless trinkets in the storehouses and vaults of her castle, and she protected items that spoke to her through [[the Force]], believing that relics from the past could impact the future.<ref name="Maz's Curio Box">{{Databank|maz-s-curio-box|Maz's Curio Box}}</ref> While living on [[Tatooine]], [[Anakin Skywalker]] was known to have acquired a small statue of Maz from a passing trader and it was present in [[Skywalker home|his home]] when [[Jedi Master]] [[Qui-Gon Jinn]] came to Tatooine during the [[Invasion of Naboo]] in [[32 BBY]].<ref name="CL" /><ref name="The Phantom Menace">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+
+===Age of the Empire===
+{{Quote|You are no friend of the Empire, which is something we have in common. It seems our Imperial rivals have been collecting an&hellip;uncomfortable amount of information on me. I would like you to focus on a few targets I've tracked down on each world. Complete my objectives, and I will repay the favor.|Maz Kanata, hiring a mercenary|Star Wars: Commander}}
+Kanata's connection to the Force acquainted her with members of the Jedi Order and protected her from danger,<ref name="TVD" /> but following [[Darth Sidious]]' rise to power, the [[Proclamation of the New Order|formation]] of the [[Galactic Empire]], and the [[Jedi Purge|execution]] of all Jedi,<ref name="III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref> Kanata kept her abilities a secret.<ref name="TVD" /> However, the Empire was [[Galactic Civil War|challenged]] by the [[Alliance to Restore the Republic]], and nineteen years after the New Order's creation, it suffered a major loss during the [[Battle of Yavin]] when [[Luke Skywalker]],<ref name="SW IV">{{SW|url=films/star-wars-episode-iv-a-new-hope|text=Star Wars: Episode IV A New Hope}}</ref> son of [[Jedi Knight]] Anakin Skywalker,<ref name="III" /> destroyed the [[DS-1 Orbital Battle Station|Death Star]], a massive Imperial [[superweapon]].<ref name="SW IV" /> Prior to that event, Kanata's voice was heard by [[Ezra Bridger]] in [[1 BBY]] during his mission to a [[World between worlds|place]] that existed between time and [[Realspace|space]].<ref name="A World Between Worlds">{{Rebels|A World Between Worlds}}</ref>
+
+{{Gamemechanics|Star Wars: Commander|canon=1}}
+{{Gamemechanics|faction=[[Alliance to Restore the Republic]]|canon=1}}
+[[File:Star_Wars_Commander_Maz.jpg|thumb|left|300px|During the Empire's reign, Kanata employed mercenaries to help her avoid Imperial detection.]]
+Shortly after the Battle of Yavin, Kanata discovered that the Empire had been collecting an unsettling amount of information on her. To prevent them from learning too much, she hired [[Saponza's partner|a mercenary]] via [[hologram]] to strike selected Imperial targets on six worlds: Tatooine, [[Dandoran]], [[Er'Kit]], [[Hoth]], [[Yavin 4]], and her home of Takodana. The [[mercenary]] was successful in completing Kanata's objectives, so she rewarded the gunman by employing an [[Ithorian]] [[saboteur]] to work for them.<ref name="Commander">''[[Star Wars: Commander]]''&mdash;"Maz's Objectives"</ref>
+{{Endgame}}
+{{Endgame}}
+
+In [[4 ABY]], sometime before the climatic [[Battle of Endor]], Kanata traveled to [[Ord Mantell]] where she was reunited with her "boyfriend", the [[Wookiee]] [[Chewbacca]], and helped [[Leia Organa]] to infiltrate into [[Jabba's Palace]] to [[Rescue of Han Solo|rescue]] [[Han Solo]] from [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]] by suggesting she disguise herself as the [[bounty hunter]] [[Boushh]].<ref name="Bounty Hunted">{{FOD|Bounty Hunted}}</ref>
+
+===New Republic era===
+After Sidious was [[Death|killed]] by former Jedi Anakin Skywalker during the Battle of [[Endor]], Kanata felt again comfortable sharing her Force-sensitivity.<ref name="TVD" /> In [[5 ABY]],<ref name="Life Debt Date">{{LifeDebtdate}}</ref> Kanata's home was visited by [[Romwell Krass Junior]], an [[Imperial Security Bureau]] [[agent]] who had narrowly escaped a [[New Republic]] [[Attack on the Hyborean Moon|attack]] on the [[Hyborean Moon]] which took the lives of his family and friends. On the third day of his stay, Krass was drinking at Kanata's bar when he saw a [[Unidentified New Republic pilot|New Republic pilot]]. Krass assaulted the man, blaming the [[pilot]] for his family's death. The fight was stopped by Emmie, who informed the two that they had violated the castle rules; as such, she rendered them unconscious and brought them to cells within the castle's dungeon.<ref name="Life Debt" />
+
+When the two awoke, they began yelling at each other, before Kanata arrived and told them to be silent. Retrieving a step-stool from the wall, Kanata climbed to look through the windowed door of Krass' cell, adjusting her goggles and telling the Imperial to come closer. As she examined Krass, she told him that she saw his suffering, as well as the suffering caused by him. Declaring that the Empire was dead, Kanata unlocked the cell, telling Krass to leave the castle and find peace. After the Imperial left, Kanata granted the pilot freedom, and she went to meditate on a parapet overlooking [[Nymeve Lake]]. Emmie joined the pirate, stating that the castle was at peace. Kanata, responding that her heart was not at peace, told Emmie that the Force felt off balance. Requesting that the [[droid]] prepare her [[starship]], the ''[[Tua-Lu]]'', for flight, Kanata added that she wished to look around the galaxy and see what she could see.<ref name="Life Debt" />
+
+Not long after the Battle of Endor, Maz once more made the acquaintance of Solo, serving him [[Parkellan Sling]]s and admonishing him for not bringing Chewbacca. Correctly guessing that he was there for something, she interrogated him and was told that he was meeting an Imperial defector, [[Ralsius Paldora]], regarding information that would help him free the Wookiees on Kashyyyk, who were still suffering under Imperial rule. Warning Solo of dire consequences should he bring the Empire's attention to her doorstep, Maz pointed him in the direction of the crowd. Unfortunately, the Empire did indeed arrive on Takodana looking for their pilfered information and Maz immediately assumed Solo was responsible, reminding him of her one absolute rule. She later contacted him for a further tongue-lashing when Imperial air reinforcements, consisting of a light cruiser and multiple TIE fighters, appeared over Nymeve Lake, ordering him to clean up his mess (though assuring Chewbacca that she didn't blame him) and then to leave once the Imperials were dealt with.
+
+In the time that followed, Skywalker's son Luke, the last remaining Jedi,<ref name="VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref> began training a new generation of warriors. However, Skywalker vanished when his Jedi were [[Destruction of Luke Skywalker's Jedi Temple|destroyed]] by [[Kylo Ren]], a pupil of his who went on to lead the First Order, the organization born from the Empire's remnants. At some point in her travels, Kanata acquired [[Skywalker's lightsaber]], which was constructed by Anakin and later wielded by Luke. Cognisant of the [[lightsaber]]'s greatness, Kanata stored the weapon in an ancient, [[wroshyr wood]] [[Maz's Curio Box|curio box]], along with a four-thousand-year-old [[hyperspace sextant]], a [[fusioncutter]] head, and a [[diatium power cell]].<ref name="TVD" />
+
+===Rey and the lightsaber===
+{{Quote|Through the ages&hellip;I've seen evil take many forms. The Sith. The Empire. Today, it is the First Order. Their shadow is spreading across the galaxy. We must face them. Fight them. All of us.|Kanata|Star Wars: Episode VII The Force Awakens}}
+[[File:MeetingWithMaz-TFA.png|thumb|right|300px|Rey, Finn, BB-8, and Han Solo meet with Kanata.]]
+Thirty years after the Battle of Endor, Kanata was visited by Solo, an old friend of hers<ref name="VII" /> whom she had not seen in twenty-five years.<ref name="Character Encyclopedia" /> When Solo entered the castle, Kanata greeted him by shouting his name, temporarily halting the [[Cantina|tavern's]] activity. Kanata approached Solo and inquired about the absence of Chewbacca<ref name="VII" />&mdash;Solo's [[First Mate|first mate]] and Kanata's Wookiee "boyfriend" of over thirty-one years.<ref name="Commander Note">In ''[[Star Wars: Commander]]'', Chewbacca is referred to as Kanata's boyfriend; since ''Commander '' is set prior to the [[Battle of Hoth]], Chewbacca has been Kanata's "boyfriend" for at least thirty-one [[Standard year|years]] by [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']].</ref> Solo, who was accompanied by [[Rey]], [[Finn]], and [[BB-8]]&mdash;a young [[scavenger]] from the [[desert]] world [[Jakku]], a defecting [[Stormtrooper (First Order)|First Order stormtrooper]], and a Resistance [[astromech droid]], respectively&mdash;explained that Chewbacca was making repairs to their starship, the ''[[Millennium Falcon]]''. Assuming that Solo needed desperate help with something, Kanata led the group to a table to eat and discuss their dilemma.<ref name="VII" />
+
+Solo explained that the droid BB-8 contained a map leading to Luke Skywalker, and that it needed to be delivered to his wife, Resistance [[General]] Leia Organa, with whom Solo was estranged. Kanata refused, saying that Solo had been avoiding the fight for too long, and he needed to go home. Finn objected Kanata's answer, while Rey asked Kanata what "fight" she was referring to. Kanata explained that there was only one fight: the fight against the [[dark side of the Force]], which took the form of the Sith, the Empire, and the First Order. Kanata went on to argue that they should all oppose the spreading of the First Order, but Finn insisted that a fight against the First Order could not be won. As Finn spoke, Kanata adjusted her variable lens corrective [[goggles]], crawled up onto the table, and looked into Finn's [[eye]]s, saying that he had the eyes of a man who wanted to run. Finn, telling Kanata she did not know the things he had seen, suggested that they all needed to run. Resigned, Kanata climbed down from the table and directed Finn to [[Sidon Ithano]] and [[Quiggold]], two pirates who would trade work for transportation to the galaxy's [[Outer Rim Territories]]. Finn stood up and left, and when Rey went after him, Kanata asked Solo who she was.<ref name="VII" />
+
+[[File:Maz_talking_to_Rey.jpg|thumb|left|300px|Kanata tells Rey about the Skywalker lightsaber.]]
+The smuggler informed Kanata that Rey lived alone on Jakku, and that the scavenger wished to return there, believing her family would be coming back. Kanata went to speak with Rey, finding the [[human]] with BB-8 in a lower level hall, stumbling out of a storeroom and looking shaken. Rey, who had a vision after coming into contact with the Skywalker lightsaber, asked Kanata what it was, saying she regretted entering the room. Kanata explained that the lightsaber belonged to Luke and his father before him, and it was then calling to her. Rey responded by insisting she return to Jakku, but Kanata, removing her goggles and taking the girl's hand, told her that she already knew the truth: whomever Rey was awaiting would never come back. However, Kanata added that while no one from Rey's past was returning, Luke still could, and that what Rey sought was not behind her, but ahead. Kanata admitted that she was not a Jedi herself, but she still knew the Force, explaining that it moved through and surrounded every living thing. Instructing Rey to close her eyes and feel the [[light side of the Force]], the pirate told the scavenger that it would always guide her, and that the girl should keep the lightsaber. However, Rey stated that she would never touch the weapon again, and that she wanted nothing to do with the Force.<ref name="VII" /> Kanata stammered as Rey, followed by BB-8, ran from the hall, leaving the pirate alone with her thoughts: one could teach knowledge, skills, and even the Force, but not patience.<ref name="Novel">[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]</ref>
+
+[[File:Maz_Lightsaber.png|thumb|right|300px|Kanata gives the lightsaber to Finn.]]
+Shortly after Rey left, patrons of the castle hurried outside to witness the [[Hosnian Cataclysm|destruction]] of the New Republic's [[capital]], [[Hosnian Prime]], visible in the [[Atmosphere|sky]] above. Finn deduced it was an act of the First Order, and he regrouped with Solo and Chewbacca, asking where Rey was.<ref name="VII" /> Kanata approached the group and told them that Rey was where she needed to be, and said there was something they should see.<ref name="Junior">''[[Star Wars: The Force Awakens: A Junior Novel]]''</ref> The pirate led them to the storeroom where Rey was, and she presented the lightsaber to Finn. Solo, who had been a close friend of Luke's, asked where Kanata got the weapon, but Kanata dismissed him, saying it was a story for another time. Telling Finn to find Rey, Kanata passed the lightsaber to him. Before they left the room, the castle shook, signaling the arrival of the First Order, and the hallway collapsed as [[TIE/fo space superiority fighter|First Order TIE fighters]] leveled the castle. Led by Chewbacca, the four cleared a tunnel to the surface, where the Wookiee and Solo immediately joined the [[Battle of Takodana|battle]] against the First Order [[troop]]s. Finn and Kanata exited next, and the pirate ordered Finn to find and help Rey and BB-8. However, Finn insisted that he needed a weapon first, so Kanata reminded him that he already had one, seizing his wrist which held the lightsaber. Finn activated the blade and entered the fight alongside Solo and Chewbacca until forces of the Resistance arrived to provide support. However, despite the Resistance's arrival and the retreat of the First Order's forces, Finn was unable to prevent Rey from being taken captive by Kylo Ren.<ref name="VII" /> In the battle's aftermath, Kanata spoke with BB-8, telling the droid that although the First Order took Rey, they could not give up hope, and the Resistance needed the astromech's help. Kanata then walked over to Finn, joking that she had some cleaning up to do. Looking up at Finn, Kanata smiled with satisfaction, noting that she no longer saw the eyes of a coward, but the eyes of a warrior.<ref name="Novel" />
+
+====Helping the Resistance====
+{{Quote|He's a master codebreaker, an ace pilot, a poet with a blaster.|Maz Kanata to Finn, Rose Tico and [[Poe Dameron]]|Star Wars: Episode VIII The Last Jedi}}
+After the destruction of her castle, Maz resumed her life of adventure whilst the Resistance continued their struggle against the First Order. When the Resistance fleet was tracked through hyperspace and picked off one ship at a time, Finn (now an official member) and technician [[Rose Tico]] departed the fleet in order to find someone capable of breaking through the clearance codes for an infiltration of the First Order's [[flagship]] the ''[[Supremacy]]''. Finn contacted Maz, who was unable to help them personally as she was involved in what she referred to as a "union dispute",<ref name="VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref> actually a firefight,<ref name="TLJA2">''[[The Last Jedi Adaptation 2]]''</ref> the details of which were something they did not want to know.<ref name="VIII" /> By that point, Kanata had already endured sixty seven injuries, from which twenty two were considered life-threatening, having gone through a plethora of treatments over a millennium of life, still remaining on her feet neverthless.<ref name="SW:TLJ:EE">''[[Star Wars: The Last Jedi: Expanded Edition]]''</ref> However, she was able to recommend a [[Master Codebreaker]] whom she knew was capable of cracking anything. Pointing the two in the direction of [[Canto Bight]], a luxury city resort, Maz told them that the codebreaker could be identified by a red flower lapel pin before cutting off the transmission.<ref name="VIII" />
+
+==Personality and traits==
+{{Quote|Maz is a bit of an acquired taste&hellip;so let me do the talking.|Han Solo, to Rey and Finn|Star Wars: Episode VII The Force Awakens}}
+Kanata was a [[humanoid]] [[alien]] who stood at a height of 1.24 [[meter]]s (4 [[Foot|feet]] and 1 [[inch]]).<ref name="Character Encyclopedia" /> She had [[Color|brown]] eyes, wispy white hair,<ref name="VII" /> and burnt-orange skin,<ref name="Handprint" /> and her face was wrinkled by centuries of hearty laughter and kind smiles.<ref name="Rey's Story">''[[The Force Awakens: Rey's Story]]''</ref> Due to the pirate's millennia-long lifespan, decades were like brief moments in time for her.<ref name="DB" />
+
+As a [[poet]] and [[Artist|painter]], Kanata took delight in all forms of art, so she offered board to traveling musicians in exchange for their performances. One such musician was [[Infrablue Zedbeddy Coggins]], an alien who played the [[hypolliope horn cluster]] in a quartet alongside [[Taybin Ralorsa]], [[Ubert Quaril]], and [[Sudswater Dillifay Glon]].<ref name="TVD" /> Kanata also allowed a variety of scoundrels to stay in her castle, but only if they obeyed her prohibitions against war and [[politics]],<ref name="CL" /> as well as her only spoken rule: "All are welcome. (No fighting.)," a mantra written in a hundred different languages on a wall beyond her bar. Individuals who broke the castle law were subjected to Kanata's sentences, which ranged from being locked in her dungeon to potentially being ejected from the [[airlock]] of the ''Tua-Lu''.<ref name="Life Debt" /> The hostess took a liking to one particular scoundrel, the Wookiee Chewbacca, whom she jokingly referred to as her boyfriend.<ref name="VII" />
+
+==Powers and abilities==
+{{Quote|It moves through and surrounds every living thing. Close your eyes. Feel it. The light&hellip;it's always been there. It will guide you.|Kanata, describing the Force to Rey|Star Wars: Episode VII The Force Awakens}}
+From her castle, Kanata witnessed the rise and fall of [[Galaxy|galactic]] powers, which she attributed to the delicate balance between the light and dark sides of the Force.<ref name="DB" /> Although Kanata chose not to train as a Jedi, she had a strong connection to the Force, giving her the preternatural gift of sensing changes of fortune throughout the galaxy.<ref name="TVD" /> Kanata's powers also allowed her to feel the presence of others, demonstrated when she sensed Solo's return<ref name="Novel" /> after his twenty-five-year absence.<ref name="Character Encyclopedia" />
+
+In addition to speaking [[Galactic Basic]], Kanata could speak an alien [[Language|dialect]].<ref name="VII" />
+
+==Equipment==
+{{Quote|That lightsaber was Luke's. And his father's before him. And now, it calls to you.|Kanata, to Rey|Star Wars: Episode VII The Force Awakens}}
+Spending centuries of her life traveling the galaxy,<ref name="TVD" /> Kanata owned many starships, including the ''Tua-Lu''&mdash;also known as the ''Stranger's Fortune''<ref name="Life Debt" />&mdash;and the ''[[Epoch Swift]]''.<ref name="CL" /> Duing her travels Kanata collected countless antiqued trinkets and treasures,<ref name="Maz's Curio Box" /> notably including Skywalker's lightsaber. She stored the lightsaber in an ancient, unlocked wroshyr wood curio box,<ref name="TVD" /> along with her other dearest treasures:<ref name="Maz's Curio Box" /> a four-thousand-year-old hyperspace sextant, a fusioncutter head, and a diatium power cell.<ref name="TVD" /> The box was kept behind the closed door of a basement storeroom,<ref name="VII" /> a vault which also contained a bust of [[Cherff Maota]], a Jedi Master of old.<ref name="TVD" />
+
+[[File:Maz_Kanatas_castle.png|thumb|left|300px|Kanata's lakeside castle was the battleground between ancient Jedi and Sith.]]
+Kanata's millennia-old castle was located on the edge of a primordial [[Tree|forest]] along the shore<ref name="TVD" /> of Nymeve Lake,<ref name="Life Debt" /> a [[Water|freshwater]] body<ref name="TVD" /> and battle site between ancient Sith and Jedi.<ref name="CL" /> The stone fortress had a trapezoidal architecture, considered both impressive<ref name="Novel" /> and beautiful.<ref name="Rey's Story" /> Despite the castle's age, it was modernized with [[sensor array]]s and communications gear that allowed its owner to stay connected with the rest of the galaxy. Kanata enjoyed the technological contrast between her castle and the surrounding forest, and she viewed it as the manifestation of a [[Cosmic Force|cosmic]] balance.<ref name="TVD" /> Towers of the castle also held [[prayer flag]]s hung by deep-space explorers,<ref name="CL" /> and the entrance to Kanata's castle was adorned with various flags and banners which represented hundreds of [[City|cities]], civilizations, and guilds;<ref name="Life Debt" /> among them were a flag of the [[Ohnaka Gang]],<ref name="VII" /> the emblem of the [[Broken Horn Syndicate]], [[Mandalorian]] war banners, and [[podracing]] pennants<ref name="CL" /> (including those used by Anakin Skywalker and the [[Dug]] [[Sebulba]] during the [[Boonta Eve Classic]]).<ref name="VII" /><ref name="CL" /> Directly above the sectioned metal door was a towering statue of the pirate queen with her [[Limb|arms]] outstretched, a gift from Kanata's former husband.<ref name="CL" />
+
+The smuggler dressed practically, and at the time of Solo and Rey's visit<ref name="Novel" /> Kanata wore [[Clothing|clothes]] she knitted herself:<ref name="Character Encyclopedia" /> colorful socks, baggy maroon [[pants]] held by a [[leather]] [[belt]], a dark gray vest over a blue-green [[Shirt|sweater]], and a simple gray [[Hat|cap]].<ref name="Novel" /> Attached to Kanata's cap were large, variable lens corrective goggles,<ref name="TVD" /> and her silver-buckled belt suspended an assortment of technology,<ref name="Novel" /> including a compact [[blaster pistol]].<ref name="TVD" /> The pirate also wore a beaded [[necklace]] and a large number of [[Ring/Legends|rings]] and [[bracelet]]s,<ref name="Novel" /> such as the [[Bracelet of the Sutro]].<ref name="TVD" />
+
+==Behind the scenes==
+===Creation and development===
+{{Quote|We initially talked about doing her as a character that was gonna be performed with a puppet. Then we talked about doing it as an animatronic character. And then we realized, A, we hadn't found the design early enough that we all agreed on, and B, it felt like it was actually gonna be limiting&hellip; CG has gotten to a place where, if you have a good enough team doing it, and we have the best in the business at ILM, then you're able to have it be indistinguishable from what's real.|J.J. Abrams|Star Wars: Episode VII The Force Awakens}}
+[[File:Rose_Gilbert.jpg|thumb|right|200px|Maz Kanata was created as a tribute to Rose Gilbert, a high school teacher of J.J. Abrams and Rick Carter.]]
+Following [[The Walt Disney Company]]'s acquisition of [[Lucasfilm Ltd.]], the production company announced on [[October 30]], [[2012]] that it would begin work on a ''[[Star Wars]]'' [[sequel trilogy]] of films, starting with [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], directed by [[J.J. Abrams]]. In [[March]] [[2013]], preliminary screenwriter [[Michael Arndt]] realized a "[[Yoda]]-like mentor figure" for the protagonists, the character which became Maz Kanata. Earlier in the production, Abrams and co-production designer [[Rick Carter]] had discovered they shared a common teacher: award-winning high school instructor [[Rose Gilbert]], who taught until her retirement at the age of 94. In tribute to their teacher, the character of Kanata was based off of Gilbert,<ref name="Art">''[[The Art of Star Wars: The Force Awakens]]''</ref> and in order to prevent spoilers, crew members referred to Kanata as "Rose" while on set.<ref name="Telegraph">{{Cite_web|url=http://www.telegraph.co.uk/films/2016/04/14/maz-kanata-have-her-force-powers-been-confirmed-and-5-other-big/|title=Maz Kanata: have her Force powers been confirmed, and 5 other big questions|accessdate=2016-06-22|author=Vincent, Alice|date=2016-01-15|publisher=''The Telegraph''}}</ref> To help capture the wise, timeless spirit of Gilbert, [[Christian Alzmann]], a concept artist at [[Industrial Light & Magic]] (ILM), kept pictures of the teacher spread throughout the ILM work stations.<ref name="Secrets">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]&mdash;''Secrets of The Force Awakens: A Cinematic Journey''</ref>
+
+Concept work for Kanata began in March 2013, and Alzmann sketched the character as a member of [[Yoda's species]]. As of [[May (month)|May]] 2013, Alzmann drew the character as a hunched, green alien with a headdress, and in [[June]], the artist redesigned Kanata's face to be bug-eyed and snub-nosed; during pre-production in [[July]], Kanata's character was characterized as a "[[Wikipedia:Guru|guru]]." During the film's production phase,<ref name="Art" /> Kanata was to be realized as a puppet or animatronic character,<ref name="Secrets" /> but the crew ran short on time&mdash;in part from an injury [[Harrison Ford]] received on set<ref name="Art" />&mdash;so Abrams decided to create Kanata using [[Wikipedia:Computer graphics|computer graphics]] (CG). According to Abrams, CG also allowed the team more time to agree on a design, and it removed limitations that a practical character would have had.<ref name="Secrets" />
+
+In June [[2014]], costume concept artists [[Glyn Dillon]], [[Dermot Power]], creature concept designer [[Jake Lunt Davies]], and senior sculptor [[Luke Fisher]] were tasked with creating a "[[Wikipedia:Fortune-telling|fortuneteller]]" look for Kanata, so they designed a sequin-covered shawl&mdash;along with the goggles and wrinkles that ended up in the film. In [[October]] 2014, Fisher sculpted a maquette of Kanata, which was then painted by creature paint finish designer [[Henrik Svensson]] to finalize the design.<ref name="Art" />
+
+===Casting and portrayal===
+{{Quote|Maz, she's four feet tall, but she runs the joint. And everybody knows that. She's a woman who challenges people to find their purpose.|Lupita Nyong'o|Star Wars: Episode VII The Force Awakens}}
+[[File:Lupita-motion-capture.jpg|thumb|left|200px|Lupita Nyong'o performed Maz Kanata with performance capture.]]
+On [[June 2]], 2014, Lucasfilm announced the casting of [[Lupita Nyong'o]], an actress who won an [[Wikipedia:Academy Award for Best Supporting Actress|Academy Award for Best Supporting Actress]] for her work in the film ''[[Wikipedia:12 Years a Slave (film)|12 Years a Slave]]''.<ref name="Nyongo">{{SW|url=news/star-wars-episode-vii-adds-academy-award-winner-lupita-nyongo-and-game-of-thrones-gwendoline-christie|text=''Star Wars'': Episode VII Adds Academy Award Winner Lupita Nyong'o and Game of Thrones' Gwendoline Christie}}</ref> According to Nyong'o, she was primarily interested in the role of Maz Kanata because of the motion capture aspect&mdash;something she had wanted to do ever since seeing [[Andy Serkis]] portray [[Wikipedia:Gollum|Gollum]] in ''[[Wikipedia:The Lord of the Rings (film series)|The Lord of the Rings]]''.<ref name="Telegraph" /> Since Nyong'o had no prior experience in motion capture, she was coached by Serkis, who played the character of [[Supreme Leader]] [[Snoke]], the film's antagonist. Every morning of filming, Nyong'o would have 149 dots applied to her face, an experience she described as "alienating" because of the suit's distracting nature and her unfamiliarity with motion capture.<ref name="Secrets" />
+
+The character of Maz Kanata was generally praised by critics, such as Scott Mendelson of ''[[Wikipedia:Forbes|Forbes]]'', who felt that Kanata was the center of the film's best scene,<ref name="Forbes">{{Cite_web|url=http://www.forbes.com/sites/scottmendelson/2015/12/16/star-wars-the-force-awakens-review-the-empire-strikes-out/|title='Star Wars: The Force Awakens' Review: The Empire Strikes Out|accessdate=2016-06-22|author=Mendelson, Scott|date=2015-12-16|publisher=''Forbes''}}</ref> and [[Wikipedia:Stephanie Zacharek|Stephanie Zacharek]] of ''[[Wikipedia:Time (magazine)|Time]]'' magazine, who saw Kanata as "the love child of [[Wikipedia:E.T. the Extra-Terrestrial|E.T.]] and [[Wikipedia:Lena Horne|Lena Horne]]."<ref name="Time">{{Cite_web|url=http://time.com/4150168/review-star-wars-the-force-awakens/|title=Review: ''The Force Awakens'' Is Everything You Could Hope for in a ''Star Wars'' Movie—and Less|accessdate=2016-06-22|author=Zacharek, Stephanie|date=2015-12-16|publisher=''Time''}}</ref> Conversely, Matt Goldberg of [[Wikipedia:Collider.com|Collider.com]] criticized the character's design, definition, and role, calling Kanata the film's "bar-owner/Yoda stand-in/exposition mouthpiece."<ref name="Collider.com">{{Cite_web|url=http://collider.com/star-wars-the-force-awakens-maz-kanata-problems/|title='Star Wars: The Force Awakens': The Many Problems with Maz Kanata|accessdate=2016-06-22|author=Goldberg, Matt|date=2015-12-22|publisher=Collider.com}}</ref> Nyong'o's portrayal of Maz Kanata was nominated for a [[Wikipedia:Visual Effects Society|Visual Effects Society]] award for Outstanding Animated Performance in a Photoreal Feature,<ref name="VES">{{Cite_web|url=https://www.visualeffectssociety.com/14th-annual-ves-awards-nominees|title=14th Annual VES Awards Nominees|accessdate=2016-06-22|date=2016-01-12|publisher=Visual Effects Society}}</ref> and Nyong'o was also nominated for a [[Wikipedia:Saturn Award for Best Supporting Actress|Saturn Award for Best Supporting Actress]].<ref name="Saturn">{{Cite_web|url=http://www.saturnawards.org/The-Saturn-Awards-Annual-Nominations.php|title=The Saturn Awards Annual Nominations|accessdate=2016-06-22|date=2016-02-24|publisher=Saturn Awards}}</ref>
+
+For the film's [[Star Wars: The Force Awakens (soundtrack)|soundtrack]], composer [[John Williams]] wrote "Maz's Counsel," a three-minute and seven-second-long piece associated with Kanata.<ref name="Soundtrack">[[Star Wars: The Force Awakens (soundtrack)|''Star Wars: The Force Awakens'' soundtrack]]</ref> The song is first used in the scene in which Kanata looks into Finn's eyes, and the composition is later used when Kanata speaks to Rey about the Skywalker lightsaber.<ref name="VII" /> During the latter scene, "Maz's Counsel" briefly incorporates "[[Binary Sunset|The Force Theme]]" and "[[Rey's Theme]]."<ref name="Soundtrack" />
+
+On [[April 20]], [[2016]], Kanata appeared in "[[Hunting for Han]]," the third episode of ''[[LEGO Star Wars: The Resistance Rises]]'', a series of [[LEGO]] short films which aired on [[Disney XD]]. In the show, Kanata was voiced by [[Grey Griffin]],<ref name="Hunting for Han">{{The Resistance Rises|Hunting for Han}}</ref> who reprised the role for "[[The Test]]," the eighth episode of ''[[LEGO Star Wars: The Freemaker Adventures]]'' which aired on [[July 25]], 2016.<ref name="The Test">{{The Freemaker Adventures|The Test}}</ref> In addition to Griffin's voice work, [[Marc Thompson]] provided Kanata's voice for the audiobook of the novel ''[[Aftermath: Life Debt]]'', which was written by [[Chuck Wendig]] for [[Star Wars: The Aftermath Trilogy|The Aftermath Trilogy]] and released [[July 12]], 2016.<ref name="Life Debt" />
+
+===Other storylines===
+====Deleted scenes and alternate stories====
+{{Quote|And you? Who are you?''"<br/ >"''I'm no one. Just a scavenger.''"<br />"''Then you know machines!''"<br />"''Uh-huh.''"<br />"''Each component has a reason for being. A purpose. What is ''your'' purpose? Have you ever asked that question? We all have a greater purpose. Do you feel it?|Alternate dialogue between Kanata and Rey|The Force Awakens: Rey's Story}}
+In the trailer for ''The Force Awakens'', Kanata is heard asking Rey who she is, to which the girl responds, "I'm no one."<ref name="Trailer">{{SW|url=video/star-wars-the-force-awakens-trailer-official|text=Star Wars: The Force Awakens Trailer (Official)}}</ref> Although the piece of dialogue was cut from the final edit of the film,<ref name="VII" /> it appears in ''[[The Force Awakens: Rey's Story]]'', a junior novel adaptation written by [[Elizabeth Schaefer]]. In this version, Kanata is introduced to Finn and Rey, and when Rey reveals herself to be a scavenger, Kanata excitedly deduces that the girl knows machines. Enthusiastically, Kanata tells Rey that each component of a machine has a purpose for being, and the diminutive pirate asks Rey what her purpose is.<ref name="Rey's Story" />
+
+Another scene removed from the film, titled "Tunnel Standoff," begins with Kanata, Solo, Finn, and Chewbacca hurrying from the storeroom in Kanata's castle, when they are found by stormtroopers. Ordered by Supreme Leader Snoke to take the four as prisoners, the stormtroopers command Solo, Finn, and Chewbacca to surrender their weapons. However, Solo plays coy, mispronouncing "Snoke" as "Smoke" and asking what makes him "supreme." The lead stormtrooper again orders Solo to hand over his [[blaster]], and Solo replies that "it's broken."<ref name="Tunnel Standoff">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]&mdash;Deleted Scene: Tunnel Standoff</ref> According to [[Chris Corbould]], the special effects supervisor for ''The Force Awakens'', the rough cut of this scene concluded with Kanata using the Force to collapse the ceiling on the First Order troops.<ref name="Collider">{{Cite_web|url=http://collider.com/star-wars-the-force-awakens-deleted-scenes-maz-snowspeeder-rathtar/|title='Star Wars: The Force Awakens' Deleted Scenes Feature Maz Fighting Stormtroopers|accessdate=2016-06-22|author=Trumbore, Dave|date=2016-01-14|publisher=Collider.com}}</ref>
+
+In a third deleted scene which followed the attack on Kanata's castle, the character travels to the [[Resistance base]] on [[D'Qar]] and presents Skywalker's lightsaber to Organa; a prominent shot of this scene was used in ''The Force Awakens''{{'}} second teaser trailer. However, Abrams realized that the scene was unnecessary, saying that Kanata would have had nothing to do at the base, and it would not have added to the story.<ref name="Telegraph" />
+
+In a limited-time promotion for the [[Video game|mobile game]] ''[[Star Wars: Commander]]'', a series of missions titled "Maz's Objectives" was made available on [[March 24]], 2016. The objectives were eligible to players with a headquarters of level four and up, and completing a mission set awarded players with unique Supply Crates called "Maz's Curio Boxes," which contained new playable units. For players allied with the Rebel Alliance, the Curio Boxes contained "Ithorian Infiltrators," while players allied with the Galactic Empire received "[[Kubaz]] Invaders. These objectives were entirely optional, and not required to complete the campaign mode"<ref name="Disney Interactive">{{Cite_web|url=http://www.disneyinteractive.com/blog/maz-kanata-from-star-wars-the-force-awakens-joins-star-wars-commander-for-a-limited-time/|title=Maz Kanata From Star Wars: The Force Awakens Joins Star Wars: Commander For a Limited Time|accessdate=2016-06-25|author=Fazekas, Andrew|date=2016-03-24|publisher=Disney Interactive}}</ref>
+
+====''LEGO Star Wars''====
+[[File:Hunting_for_Han.jpg|thumb|right|250px|Lando Calrissian is a friend of Kanata's in ''LEGO Star Wars: The Resistance Rises''.]]
+Outside of the character's [[canon]]ical appearances, Kanata appears in various LEGO releases, including ''LEGO Star Wars: The Freemaker Adventures'',<ref name="The Test" /> ''LEGO Star Wars: The Resistance Rises'',<ref name="Hunting for Han" /> and ''[[LEGO Star Wars: The Force Awakens]]''.<ref name="LEGO">''[[LEGO Star Wars: The Force Awakens]]''</ref> While these appearances are not a part of the official ''Star Wars'' canon, they are set in a unique, continuous universe.<ref name="IGN">{{Cite_web|url=http://www.ign.com/articles/2016/06/17/lego-star-wars-the-freemaker-adventures-is-more-intense-than-you-think|title=LEGO Star Wars: The Freemaker Adventures Is "More Intense" Than You Think|accessdate=2016-07-25|author=Nicholson, Max|date=2016-06-17|publisher=IGN}}</ref>
+
+Set during the Galactic Civil War, ''The Freemaker Adventures'' shows Kanata meeting the titular [[Freemakers|Freemaker family]] when their ship, the ''[[StarScavenger]]'', crashes outside her castle. The crash land causes damage to a ship owned by the pirate [[Hondo Ohnaka]], so the [[Dowutin]] [[Grummgar]] brings the pilot responsible, [[Zander Freemaker]], into the castle to meet with the [[Weequay]] pirate captain. Encountering Ohnaka, Grummgar restrains Zander, and Ohnaka tells him that the damages must be paid for. Zander replies that he has no money, and Ohnaka replies that he will also accept [[blood]], limbs, or next of kin as payment. Zander's younger brother, [[Rowan Freemaker|Rowan]], attacks Grummgar, demanding that his brother be set free. Grummgar lifts Rowan up with one hand, and Ohnaka jokes that the boy would make a good crew member if he were taller. As Ohnaka laughs, Kanata notices the commotion and throws a mug at the pirate, hitting him in the head. Picking up another cup threateningly, Kanata walks toward Ohnaka, affirming that he will not cause any trouble in the castle, something he has done before. Stopping Ohnaka as he begins to act coy, Kanata comments that the last incident involving him had her pulling teeth out the castle walls for weeks. Agreeing to work out the problem peacefully, Ohnaka begins to make a deal with [[Kordi Freemaker]], so Kanata leaves them and enters through a door to another room. However, as the door opens, Rowan senses a [[Kyber crystal|crystal]] of the [[Kyber Saber]], an ancient Jedi weapon, and he follows Kanata. Just before Rowan enters the room, Kanata stops him, asking if he is lost and stating that only she is allowed in there. Rowan apologizes, saying he thought he felt something. Kanata inquires what he felt, but Rowan changes his mind and leaves.<ref name="The Test" />
+
+The Freemakers embark on Ohnaka's mission to recover three golden orbs from the [[third moon of Takodana]], but they choose to return empty-handed when they learn the orbs are [[varactyl]] [[egg]]s. When Kordi offers to try another deal instead, Ohnaka scoffs, and as he orders his crew to kill the Freemakers, Kanata enters the room and throws another mug at his head. Kanata, who overheard that Ohnaka sent kids to do a dangerous task, approaches the Weequay, again striking him with a mug and pushing him towards the castle's exit, telling him not to come back until she is no longer angry. When Ohnaka tries convincing Kanata to let him stay, she hits twice more before he leaves. Remarking that there is no decency left in the galaxy, she instructs the three Freemakers to follow her into the other room. Saying that their presence is bad for business, Kanata offers to provide them with what they need to leave the planet. Zander requests a [[quantum field regulator]], and Kanata opens a drawer and asks him what type he needs. Slightly confused, Zander asks for a [[Double-A type quantum field regulator|double-A type]] for a [[Class-D cargo container/LEGO|Class-D salvage ship]], and to his surprise, Kanata removes one from the drawer. Running to the drawer, Zander asks what else she has, but Kanata dismisses him and turns her attention to Rowan. Commenting how she likes his smile and the way he confronted Ohnaka, Kanata opens a locked drawer and removes a Kyber Saber crystal. She presents it to the excited boy, explaining that she found it on [[Rodia]] ages ago. When Kordi asks how they can thank Kanata, the pirate says that they can leave. As she escorts them out the door, Kanata tells the Freemakers that they are nice kids, but that her castle is not a place for nice or kids. Rowan is the last to exit, and Kanata stops to tell him that searching for the Kyber crystals is a noble quest, adding that when they inevitably get desperate they should seek the "[[Jek-14|Maker of Zoh]]." When Rowan asks what she means, Kanata acts senile, says bye, and hurries into her castle.<ref name="The Test" />
+
+In ''The Resistance Rises'', which is set after the Galactic Civil War, the pirate [[Bala-Tik]] meets with Kanata to complete a trade: a concealed item Kanata wants in her collection, for the location of Solo (who had cheated Bala-Tik out of [[rathtar]]s). However, nearly everybody in Kanata's castle has been cheated by Solo, and the patrons begin to argue over who was swindled the worst. A brawl quickly erupts, and when Kanata's genuine "[[Prince]]ss Leia Battle of Endor [[speeder bike]]" breaks as a result, Kanata becomes enraged, retrieving the Skywalker lightsaber, cutting the ceiling's masonry to fall on her quarreling guests, and declaring the fight to be over. With the commotion stopped, a hooded individual tells the patrons that Solo's ship was last sighted on Jakku, and that the smuggler would not stay in one place for long. As the criminals race out the castle's door, Kanata approaches the figure, immediately recognizing him to be [[Lando Calrissian]]. The two collect the case Bala-Tik left behind and open it to reveal two [[musical instrument]]s. Kanata begins to play, and she invites Calrissian to join, who gladly accepts.<ref name="Hunting for Han" />
+
+==Appearances==
+{{Scroll box|
+*{{Shortstory|story=A Recipe for Death|book=Tales from a Galaxy Far, Far Away: Aliens: Volume I}} {{Mo}}
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}} {{Ret}} {{C|Appears as a statue}}
+*''[[Star Wars Battlefront II]]''
+*{{FOD|Monster Misunderstanding}} {{C|Voice only; in intro}}
+*{{FOD|Teach You, I Will}} {{C|Voice only; in intro}}
+*{{FOD|The Padawan Path}} {{C|Voice only; in intro}}
+*''[[Forces of Destiny: Daring Adventures: Volume 2]]''
+*{{FOD|The Imposter Inside}} {{C|Voice only; in intro}}
+*''[[Forces of Destiny: Daring Adventures: Volume 1]]''
+*{{FOD|The Starfighter Stunt}} {{C|Voice only; in intro}}
+*{{FOD|Unexpected Company}} {{C|Voice only; in intro}}
+*{{FOD|Triplecross}} {{C|Voice only; in intro}}
+*''[[Last Shot]]''
+*{{FOD|A Disarming Lesson}} {{C|Voice only; in intro}}
+*{{FOD|Bounty of Trouble}} {{C|Voice only; in intro}}
+*''[[Forces of Destiny: The Leia Chronicles]]''
+*{{FOD|Newest Recruit}} {{C|Voice only; in intro}}
+*{{FOD|Crash Course}} {{C|Voice only; in intro}}
+*{{FOD|Hasty Departure}} {{C|Voice only; in intro}}
+*{{FOD|Accidental Allies}} {{C|Voice only; in intro}}
+*{{FOD|Art History}} {{C|Voice only; in intro}}
+*{{Rebels|A World Between Worlds}} {{Voice}}
+*{{FOD|Jyn's Trade}} {{C|Voice only; in intro}}
+*{{FOD|The Stranger}} {{C|Voice only; in intro}}
+*''[[Choose Your Destiny: A Han & Chewie Adventure]]'' {{Mo}}
+*''[[Star Wars: Commander]]''
+*{{FOD|Beasts of Echo Base}} {{C|Voice only; in intro}}
+*{{FOD|The Path Ahead}} {{C|Voice only; in intro}}
+*{{FOD|Bounty Hunted}}
+*{{FOD|Ewok Escape}} {{C|Voice only; in intro}}
+*{{FOD|An Imperial Feast}} {{C|Voice only; in intro}}
+*{{FOD|Traps and Tribulations}} {{C|Voice only; in intro}}
+*{{FOD|Chopper and Friends}} {{C|Voice only; in intro}}
+*''[[Aftermath: Life Debt]]''
+*{{Shortstory|story=The Face of Evil|book=Tales from a Galaxy Far, Far Away: Aliens: Volume I}} {{Mo}}
+*{{FOD|The Happabore Hazard}} {{C|Voice only; in intro}}
+*{{FOD|Run Rey Run}} {{C|Voice only; in intro}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens: A Junior Novel]]''
+*''[[The Force Awakens: Rey's Story]]''
+*''[[The Force Awakens: Finn's Story]]''
+*[[The Force Awakens (Golden Book)|''The Force Awakens'' Golden Book]]
+*''[[The Force Awakens Read-Along Storybook and CD]]''
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part III]]''
+*''[[The Force Awakens, Part IV]]''
+*''[[The Force Awakens, Part V]]'' {{C|Mentioned only; in the opening crawl}}
+*{{FOD|Sands of Jakku}} {{C|Voice only; in intro}}
+*{{FOD|BB-8 Bandits}} {{C|Voice only; in intro}}
+*''[[Star Wars: Forces of Destiny—Rey]]'' {{C|Appears through imagination}}
+*{{FOD|Tracker Trouble}} {{Mo}}
+*{{FOD|Perilous Pursuit}} {{C|Voice only; in intro}}
+*''[[A Call for Heroes]]'' {{Mo}}
+*''[[Rey's Survival Guide]]''
+*''[[Poe Dameron: Flight Log]]''
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] {{Hologram}}
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[Star Wars: The Last Jedi: A Junior Novel]]'' {{Mo}}
+*''[[The Last Jedi: Rose and Finn's Secret Mission]]'' {{Mo}}
+*''[[The Last Jedi: Rose Tico: Resistance Fighter]]''
+*''[[The Last Jedi Adaptation 2]]''
+*''[[The Last Jedi Adaptation 3]]'' {{Mo}}
+*{{FOD|Porg Problems}} {{C|Voice only; in intro}}
+*{{FOD|Porgs!}} {{C|Voice only; in intro}}
+*{{FOD|Shuttle Shock}} {{C|Voice only; in intro}}
+*''[[Poe Dameron 26: The Awakening, Part I]]'' {{Flash}}
+*''[[Poe Dameron 27: The Awakening, Part II]]'' {{Mo}}
+*[[Star Wars: Episode IX|''Star Wars'': Episode IX]]
+*''[[Star Wars: Forces of Destiny: Volume 1]]''
+*''[[Star Wars: Forces of Destiny: Volume 2]]''
+*''[[Star Wars: Forces of Destiny: Volume 3]]''
+*''[[Star Wars: Forces of Destiny: Volume 4]]''}}
+
+===Non-canon appearances===
+*{{The Freemaker Adventures|The Test}}
+*{{The Freemaker Adventures|The Maker of Zoh}} {{Mo}}
+*{{The Freemaker Adventures|The Storms of Taul}}
+*{{The Resistance Rises|Hunting for Han}}
+*''[[LEGO Star Wars: The Force Awakens]]''
+*''[[Star Tours: The Adventures Continue]]''
+*{{All-Stars|What Goes Up}} {{Flash}}
+
+==Sources==
+{{Scroll_box|content=
+*{{SW|url=films/star-wars-episode-vii-the-force-awakens|text=''Star Wars'': Episode VII ''The Force Awakens''}} {{1stm}} {{1stp}}
+*{{InsiderCite|161|Blaster (Star Wars Insider)|Blaster}}<!--11/10/2015-->
+*''[[The Art of Star Wars: The Force Awakens]]''<!--12/18/2015-->
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''<!--12/18/2015-->
+*{{InsiderCite|162|Lupita Nyong'o Is Maz Kanata}}<!--12/22/2015-->
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''<!--4/5/2016-->
+*''[[The Adventures of BB-8]]''<!--6/7/2016-->
+*''[[Star Wars: Aliens of the Galaxy]]''<!--8/23/2016-->
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''<!--9/27/2016-->
+*''[[Entertainment Weekly's Ultimate Guide to Rogue One]]''<!-- 12/9/16 -->
+*''[[Star Wars: The Visual Encyclopedia]]''<!-- 4/4/17 -->
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Forces of Destiny: Tales of Hope & Courage]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*''[[Star Wars: Smuggler's Guide]]''
+*{{Databank|anakin-luke-and-reys-lightsaber|Anakin, Luke, and Rey's Lightsaber|archivedate=20170504204540}}
+*{{Databank|bazine-netal|Bazine Netal|archivedate=20170706030454}}
+*{{Databank|ga-97|GA-97|archivedate=20170902030547}}
+*{{Databank|grummgar|Grummgar|archivedate=20170706044702}}
+*{{Databank|gwellis-bagnoro|Gwellis Bagnoro|archivedate=20161216123542}}
+*{{Databank|hurid-327|HURID-327}}
+*{{Databank|infrablue-zedbeddy-coggins|Infrablue Zedbeddy Coggins}}
+*{{Databank|jashco-phurus|Jashco Phurus}}
+*{{Databank|master-codebreaker|Master Codebreaker}}
+*{{Databank|maz-kanata|Maz Kanata}}
+*{{Databank|mazs-castle|Maz's Castle}}
+*{{Databank|maz-s-curio-box|Maz's Curio Box}}
+*{{Databank|me-8d9|ME-8D9}}
+*{{Databank|meson-martinet|Meson Martinet}}
+*{{Databank|prashee-and-cratinus|Prashee and Cratinus}}
+*{{Databank|praster-ommlen|Praster Ommlen}}
+*{{Databank|quiggold|Quiggold}}
+*{{Databank|rey-s-blaster|Rey's Blaster}}
+*{{Databank|sonsigo-and-munduri|Sonsigo and Munduri}}
+*{{Databank|strono-cookie-tuggs|Strono "Cookie" Tuggs}}
+*{{Databank|sudswater-dillifay-glon|Sudswater Dillifay Glon}}
+*{{Databank|takodana|Takodana}}
+*{{Databank|taybin-ralorsa|Taybin Ralorsa}}
+*{{Databank|ubert-sticks-quaril|Ubert "Sticks" Quaril}}
+*{{Databank|wollivan|Wollivan|archivedate=20161006215542}}}}
+
+===Non-canon sources===
+*{{LEGOCite|tfa|75139|Battle On Takodana}}<!--2016-->
+*''[[Star Wars: The Force Awakens—The Official Visual Story Guide]]''<!--3/20/2016-->
+*{{SW|url=video/lego-star-wars-the-freemaker-adventures-full-trailer|text=LEGO Star Wars: The Freemaker Adventures Full Trailer}}<!--6/10/2016-->
+
+==Notes and references==
+{{Scroll_box|content=
+{{Imagecat|Images of Maz Kanata}}
+{{Reflist}}
+}}
+
+==External links==
+{{Scroll_box|content=
+*{{SW|url=news/capturing-a-galaxy-an-interview-with-annie-leibovitz-exclusive|text=Capturing a Galaxy: An Interview with Annie Leibovitz – Exclusive}}<!--5/28/2015-->
+*{{SW|url=news/8-star-wars-the-force-awakens-characters-we-want-to-befriend|text=8 ''Star Wars: The Force Awakens'' Characters We Want to Befriend}}<!--12/22/2015-->
+*{{SW|url=news/the-10-most-quotable-lines-from-star-wars-the-force-awakens|text=The 10 Most Quotable Lines From ''Star Wars: The Force Awakens''}}<!--1/5/2016-->
+*{{SW|url=news/10-more-great-quotes-from-star-wars-the-force-awakens|text=10 More Great Quotes From ''Star Wars: The Force Awakens''}}<!--2/1/2016-->
+*{{SW|url=news/maz-kanata-apricots|text=Maz Kanata Apricots}}<!--4/5/2016-->
+*{{SW|url=news/maz-kanata-handprint-painting|text=Maz Kanata Handprint Painting}}<!--4/27/2016-->
+*{{SW|url=news/5-reasons-why-maz-kanata-is-awesome|text=5 Reasons Why Maz Kanata Is Awesome}}<!--5/19/2016-->
+*{{SWYoutube|video=H2Eb2hVHOLs|text=Hot Wheels Interview <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}<!--7/15/2016-->
+*{{SWYoutube|video=JUafi3EWBY8|text=Star Wars Archaeology Panel <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}<!--7/16/2016-->
+*{{SWYoutube|video=HtB05pbxYZw|text=Art of Star Wars: The Force Awakens Interview <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}<!--7/19/2016-->
+*{{SWYoutube|video=HBVhBsN1H7Q|text=Star Wars Rebels Season 3 Panel <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}<!--7/19/2016-->
+*{{SWYoutube|video=fXd-9pXfaN4|text=Brian Herring Interview <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}<!--7/21/2016-->
+*{{SWYoutube|video=e-iqSkwSKWE|text=Cosplay Championship <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}<!--7/22/2016-->
+*{{SWYoutube|video=O_XFW055eT4|text=Marvel's Star Wars Comic Books Panel <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}<!--7/23/2016-->
+*{{SWYoutube|video=VNkvAt5p4k0|text=Lucasfilm: The Art of Storytelling Panel <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}<!--7/23/2016-->
+*{{SWYoutube|video=5lknh4bCSCk|text=Star Wars: The Force Awakens Creature Design Panel <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}<!--7/24/2016-->
+*{{SW|url=news/6-great-quotes-about-the-force|text=6 Great Quotes About the Force}}<!--7/25/2016-->
+*{{SWYoutube|video=qV_dg8Citm4|text=The Creatures, Droids and Aliens of Star Wars: The Force Awakens <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}<!--7/26/2016-->
+*{{SW|url=news/sdcc-2016-star-wars-roundup|text=SDCC 2016: ''Star Wars'' Roundup!}}<!--7/26/2016-->
+*{{SWYoutube|video=yBymKM8y0q0|text=The Art of Star Wars: The Force Awakens Panel <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}<!--7/28/2016-->
+*{{WP|Maz Kanata}}
+}}
+
+{{Interlang
+|bg=Маз Каната
+|cs=Maz Kanata
+|de=Maz Kanata#kanon
+|es=Maz Kanata
+|fr=Maz Kanata
+|it=Maz Kanata
+|ja=マズ・カナタ
+|ko=마즈 카나타
+|nl=Maz Kanata
+|pl=Maz Kanata
+|pt=Maz Kanata
+|ru=Маз Каната
+|uk=Маз Каната
+}}
+
+{{DEFAULTSORT:Kanata, Maz}}
+[[Category:Artists]]
+[[Category:Business owners and executives]]
+[[Category:Collectors]]
+[[Category:Crime lords]]
+[[Category:Entrepreneurs]]
+[[Category:Females]]
+[[Category:Force-sensitives]]
+[[Category:Humanoids]]
+[[Category:Individuals of unidentified species]]
+[[Category:Pirates]]
+[[Category:Poets]]
+[[Category:Smugglers]]
+[[Category:Treasure keepers]]

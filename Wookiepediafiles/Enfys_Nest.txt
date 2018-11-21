@@ -1,0 +1,179 @@
+{{Eras}}
+{{Majorspoiler|Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious|''}}
+{{Update|[[Solo: A Star Wars Story The Official Guide]],[[The Art of Solo: A Star Wars Story]]}}
+{{Character
+|type=Rebel
+|image=[[File:Enfys Nest Databank.png]]
+|name=Enfys Nest
+|homeworld=
+|birth=Around [[28 BBY]]<ref name="Birth explanation">''[[Solo: A Star Wars Story: Expanded Edition]]'' establishes that Enfys Nest was approximately seven [[Standard year|years]] older than [[Jyn Erso]]. ''[[Catalyst: A Rogue One Novel]]'' establishes that Erso was born one year after the [[Battle of Geonosis|First Battle of Geonosis]]. Given that ''[[Star Wars: Galactic Atlas]]'' dates the Battle of Geonosis to [[22 BBY]], Erso's birth year must be [[21 BBY]]. As Nest is approximately seven years older than Erso, she must be born around [[28 BBY]].</ref>
+|death=
+|species=[[Human]]<ref name="Solo">''[[Solo: A Star Wars Story]]''</ref>
+|gender=[[Sexes|Female]]<ref name="Solo" />
+|height=1.67 [[meter]]s<ref name="TOG">''[[Solo: A Star Wars Story The Official Guide]]''</ref>
+|mass=
+|hair=[[Color|Red]]<ref name="Solo" />
+|eyes=Brown<ref name="Solo" />
+|skin=Tan<ref name="Solo" />
+|cyber=
+|era=
+|affiliation=[[Cloud-Riders]]<ref name="Solo" />
+|masters=
+|apprentices=}}
+{{Quote|We're not marauders. We're allies.|Enfys Nest|Solo: A Star Wars Story}}
+'''Enfys Nest''' was a [[human]] [[Sexes|female]] resistance fighter who led the [[Cloud-Riders]], a band of [[pirate]]s and rebel group that fought against the crime syndicate [[Crimson Dawn]]. Nest's skills as a pirate earned her a reputation as an infamous marauder including in [[Crimson Dawn]], who Nest and her Cloud-Riders actively fought against in retaliation for the atrocities Crimson Dawn had committed against them. Nest, who wore a [[battle helmet]] passed down to her from her [[Enfys Nest's mother|mother]], had run-ins with Crimson Dawn operative [[Tobias Beckett]] and his [[Beckett's gang|gang]].
+
+In [[10 BBY]], Nest and the Cloud-Riders sparred with Beckett and his crew, including [[Han Solo]], as they competed for a score of valuable [[hyperspace]] fuel called [[coaxium]]. After both groups [[Heist on Vandor|failed]] to steal a shipment on [[Vandor]], Nest and her lieutenant, [[Weazel]], tracked Beckett’s crew as they stole coaxium from [[Kessel]]. Nest and the Cloud-Riders found Beckett’s crew on [[Savareen]], where she revealed the group’s true purpose as allies fighting against Crimson Dawn. Solo sided with Nest and they teamed up to steal the coaxium from Crimson Dawn, dealing the syndicate a critical blow in the process. Nest intended to use the coaxium to help give life to a [[Alliance to Restore the Republic|rebellion]], so she gave the coaxium to [[Saw Gerrera]] of the [[Partisans]] and his young ward, [[Jyn Erso]].
+
+==Biography==
+===Early life===
+{{Quote|And what would you use it for?''"<br />"''The same thing my mother would have used it for if she survived and still wore the mask. To fight back.|Tobias Beckett and Enfys Nest discussing the contested coaxium|Solo: A Star Wars Story}}
+[[Reproduction|Born]] during the twilight [[Standard year|years]] of the [[Galactic Republic]] around [[28 BBY]]<ref name="Birth explanation" /> into a family whose women fought to protect [[the galaxy]] for many generations,<ref name="SoloStorybook">''[[Solo: A Star Wars Story Read-Along Storybook and CD]]''</ref> Enfys Nest was the daughter of [[Enfys Nest's mother|a woman]] who led the [[Cloud-Riders]],<ref name="Star Wars: Women of the Galaxy">''[[Star Wars: Women of the Galaxy]]''</ref> a band of [[pirates]] who sought reprisal against the [[Galactic Empire]] and criminal syndicates that terrorized the [[galaxy]]. [[Sexes|She]] came from a world that was brutalized by the criminal organizations of the [[Five Syndicates]]<ref name="Solo" /> and carried a specific vendetta against [[Crimson Dawn]]<ref name="Star Wars: Women of the Galaxy" />&mdash;widely considered the deadliest and most powerful of the Five Syndicates<ref name="Solo Junior Novel">''[[Solo: A Star Wars Story: A Junior Novel]]''</ref>&mdash;for what they did to her [[homeworld]], family and innocents across the [[galaxy]]. Around [[12 BBY]]<ref name="Mother Date">''[[Star Wars: Women of the Galaxy]]'' states that Enfys Nest was sixteen when she inherited leadership of the [[Cloud-Riders]] from [[death|deceased]] her mother. Given that Nest's birth year can be calculated as approximately [[28 BBY]] from ''[[Solo: A Star Wars Story: Expanded Edition]]'', it can further be calculated that Nest was sixteen around the year [[12 BBY]].</ref> Nest's [[Parent|mother]] [[death|perished]], leaving the 16-year-old Nest to take up the mantle of her mother's distinctive mask and [[armor]] and her place as leader of the Cloud-Riders to carry on the mission of fighting back against the threats to the galaxy's safety.<ref name="Star Wars: Women of the Galaxy" /> With her identity and age hidden behind mask and [[vocoder]] chest box, she built a reputation as an infamous and dangerous pirate, not underestimated for her youth as she had been in the past.<ref name="Expanded Edition">''[[Solo: A Star Wars Story: Expanded Edition]]''</ref>
+
+===Raid on Gargon===
+{{Quote|Nest is not in it for the money. I believe she's building an army and readying to go to war.|Andressa Divo|Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious}}
+[[File:Gargon.jpg|thumb|left|235px|Enfys Nest and the Cloud-Riders during the raid on Gargon]]
+In [[11 BBY]],<ref name="Date Explanation">''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]'' Establishes that the raid on Gargon took place in 7966 [[C.R.C.]], and the [[Boonta Eve Classic]] of [[Neva Kee]]'s disappearance took place in 7945 C.R.C. 21 years earlier. Given that ''[[Star Wars: Galactic Atlas]]'' dates this [[Podracing|Podrace]] to [[32 BBY]], it can be calculated that the raid on Gargon occurred in [[11 BBY]].</ref> about a year following her ascension to leader of the Cloud-Riders, Nest led a squad of six marauders on a raid of an Imperial [[spice]] [[Gargon spice cache|cache]] on [[Gargon]]. The raiding party approached the cache aboard their [[swoop]] bikes and [[thief|stole]] its stores of medicinally processed spice, kept in ready-for-use triage kits and emergency packs. Although pursued by Imperial forces that came near to closing in on them, the Nest and the Cloud-Riders successfully escaped with their quarry. In the ensuing [[Imperial Security Bureau]] investigation of the incident, [[Agent]] [[Andressa Divo]] observed how the raiding party took only the medicinally processed spice, forgoing the raw spice that could be refined into a lucrative narcotic form and sold for immense profit. While her compatriots attributed this curiosity to a hurried escape forced by Imperial pursuit, Divo judged it was a deliberate decision on Nest's part and reflective of the ideological motives behind her gang's activities. She suspected Nest was not simply out to make a profit but fostering an insurrectionist movement against the Empire and preparing an [[army]] to go to war.<ref name="Star Wars: Scum and Villainy">''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''</ref>
+
+===Tricking Beckett===
+{{Quote|If you died trying to recover the blank I.D. chips, then I'd have gotten rid of some competition, but if you succeeded&mdash;even better.|Enfys Nest, to Tobias Beckett|Star Wars: Beckett 1}}
+[[File:Enfys and Beckett.jpg|thumb|right|234px|Enfys Nest confronting Tobias Beckett]]
+In need of some blank [[identichip]]s, Nest decided to trick her rival [[Tobias Beckett]] into acquiring some for her. Nest sent a transmission to Beckett and his [[Beckett's gang|crew]], posing as [[Dryden Vos]] of the Crimson Dawn. Believing Vos wanted them to steal blank identichips, Beckett and his crew [[Heist on Hovun IV|stole]] a package of identichips from [[Dvorad]] on [[Hovun IV]].<ref name="Beckett">''[[Star Wars: Beckett 1]]''</ref>
+
+Beckett's gang took their cargo to the [[space station]] [[Munt Ontdal]] on the ''[[Rampart (Tobias Beckett)|Rampart]]''. However, when they arrived, they discovered that it had been a setup when Nest and her [[Cloud-Riders]] confronted them, managing to take them prisoner. Beckett tried to intimidate them with the threat of Dryden Vos showing up, but [[Val]] had deduced that Nest had been the one to send them on their mission. Nest threatened Beckett with a [[blaster]], asking him where the identichips had been hidden. To prevent Nest from getting the cargo, Beckett destroyed the ''Rampart'', escaping with his crew during the explosion.<ref name="Beckett" />
+
+===Train heist on Vandor===
+Having been a thorn in the side of Tobias Beckett and Crimson Dawn for an extended period of time, the possibility of Nest and the Cloud-Riders interfering with Beckett's [[heist on Vandor]] was brought up by Val, whose advice fell on deaf ears; Beckett had been assured that only he and his inside men had the knowledge of the supply carried by a [[20-T Railcrawler conveyex transport]] in the mountains of [[Vandor]]. However, Val's fears were soon proven correct when Enfys Nest arrived with her Cloud-Riders, attempting to thwart an attempt by Beckett's gang to steal a large quantity of [[coaxium]] from the conveyex, wanting to take the coaxium for themselves. As Beckett and his gang detached the train car carrying the hyperfuel, Nest and the Cloud-Riders, flying swoops, attached tow cables to the car and attempted to wrest the fuel from Beckett's stolen [[Y-45 armored transport hauler]], flown by [[Rio Durant]] and [[Han Solo]]. In the ensuing struggle, the coaxium cargo fell into a mountainous ravine, resulting in a huge explosion.<ref name="Solo" />
+
+===Showdown on Savareen===
+Beckett and his gang regrouped and managed to steal a second load of coaxium, this time in unrefined form, from the mines of [[Kessel]]. The unrefined hyperfuel was highly unstable and needed to quickly be processed at the [[Bis Refinery]] on the planet [[Savareen]]. After the fuel was processed, Beckett and his crew planned to deliver it to Dryden Vos, but were once again ambushed by Enfys Nest and the Cloud-Riders, who had been tracking them since Vandor. One of Beckett's crew members, Han Solo, attempted to bluff that the ''[[Millennium Falcon]]'' was poised to dispatch the Cloud-Riders, only for its owner, [[Lando Calrissian]], to flee the planet.<ref name="Solo" />
+
+[[File:Enfys Nest and company.png|thumb|left|333px|Enfys Nest and the Cloud-Riders on Savareen]]
+After a confrontation, Nest revealed that the Cloud-Riders were not "marauders" as Beckett had believed, but freedom fighters trying to stop crime syndicates and the Empire from gaining more power. Solo was sympathetic to her cause, and hatched a plan to double-cross Crimson Dawn for the coaxium. The Cloud-Riders would then temporarily go into hiding and villagers would pose as the Cloud-Riders in order to lure away the Crimson Dawn's [[Hylobon Enforcers]] so Vos would be alone and easy to kill.<ref name="Solo" />
+
+Solo's plan worked and the Hylobon Enforcers disarmed the "Cloud-Riders", securing the coaxium vault. Before they could take the coaxium back to Vos, Nest and the real Cloud-Riders appeared in the encampment, ambushing and quickly defeating all of the guards. After the deaths of both Vos and Beckett, Solo handed the coaxium over to Nest, who stated that such a large quantity of the valuable material would help fund a rebellion against the Empire. She gave one of the vials of coaxium, offering Han a chance to join her movement, which he politely refused, leaving Savareen.<ref name="Solo" />
+
+===Meeting with Saw Gerrera===
+{{Quote|Saw Gerrera.''"<br />"''Enfys Nest. I hope you have good news for me.''"<br />"''Refined coaxium, enough to power a fleet, I trust you will put it to good use.|Enfys Nest and Saw Gerrera|Solo: A Star Wars Story: Expanded Edition}}
+Backed by her Cloud-Riders, Nest delivered the coaxium acquired on Savareen to the [[Partisans|Partisan]] leader [[Saw Gerrera]]. Meeting on the condition that Gererra come alone, Nest was vexed by sounds of another person from within his [[shuttle]] and the Cloud-Riders readied their weapons for a fight. Gererra diffused the situation by revealing the companion was his eleven-year-old ward, [[Jyn Erso]]. Jyn had wanted to accompany him, curious to observe the exchange; believing she needed to learn to survive the dangers of the Empire, Gerrera allowed it. While initially surprised by her presence, Nest saw much of her younger self in the young girl and sensed Jyn lost her innocence at a young age much as she had. Choosing to break with her custom of hiding her identity and age even from potential allies, she removed her mask to reveal she herself was very young. Nest asked Jyn if she thought her age protected her. When the girl said no, she warned Jyn that people would still underestimate her and advised she make them regret it. Redirecting their attentions to the true purpose of the meeting, Gerrera and Nest boarded his shuttle to negotiate the exchange of coaxium, leaving the Cloud-Riders behind to secure the [[starship|ship]]. As Nest walked in, Jyn quietly told her that Gerrera would underestimate her, impressing the older woman with how quickly she learned.<ref name="Expanded Edition" />
+
+==Equipment==
+[[File:Nest-electroripper.jpg|thumb|right|275px|Enfys Nest was a skilled combatant with her electroripper staff.]]
+Enfys Nest wore gauntlets made of [[beskar]] armor plates that could be fanned out using a built-in servo and act as shields. She wore a [[battle helmet]],<ref name="EW Solo Guide">{{Cite web|url=http://ew.com/movies/solo-star-wars-book-connections/solo-the-official-guide-by-pablo-hidalgo|title=EW Solo the Official Guide by Pablo Hidalgo|last=Breznican|first=Anthony|date=2018-02-16|work=[[Wikipedia:Entertainment Weekly|Entertainment Weekly]]|archiveurl=http://web.archive.org/web/20181002051838/https://ew.com/movies/solo-star-wars-book-connections/solo-the-official-guide-by-pablo-hidalgo/
+|archivedate=2018-10-02}}</ref> previously worn by her [[Enfys Nest's mother|mother]],<ref name="Solo" /> which was made out of items stolen or scavenged by its owners<ref name="Solo Ultimate Sticker Collection">''[[Solo: A Star Wars Story Ultimate Sticker Collection]]''</ref> and inscribed with a poetry extract reading "Until we reach the last edge, the last opening, the last star, and can go no higher." Nest rode a [[Skyblade-330]] model [[Swoop|swoop bike]].<ref name="Topps>[[Star Wars: Card Trader]]</ref> Enfys also made use of [[repulsorlift boosters]] strapped to her legs in order to increase her jumping ability. One of her most crucial weapons was her [[electroripper staff]], which ran a current of energy through a coil in order to shred metal.
+
+==Behind the scenes==
+{{Quote|To understand who Enfys is, you first kinda think you gotta understand who [[Woody Harrelson]] plays, which is a character named Beckett.|[[Jon Kasdan]], on Enfys Nest|url=https://www.youtube.com/watch?v=nQEwsuf5jUc}}
+Enfys Nest is a character created for the [[2018]] [[Star Wars Anthology Series|''Star Wars'' Anthology]] film ''[[Solo: A Star Wars Story]]'', portrayed by [[Erin Kellyman]].<ref name="Solo" /> The character was inspired by [[Wikipedia:Maisie Williams|Maisie Williams]]' portrayal of [[Wikipedia:Arya Stark|Arya Stark]] in the ''[[Wikipedia:Game of Thrones|Games of Thrones]]'' TV series.<ref>{{Twitter|JonKasdan|status/1002505155877597184|[[Jon Kasdan]]|quote=Thank the incomparable @Maisie_Williams 'cause we knew wanted a character in Star Wars that at least ASPIRED to be, like, a fraction as bad-ass as ARYA STARK. https://t.co/CTf7pi3Xit|image=File:KasdanStarkTweet.png|backup=http://web.archive.org/web/20181002052245/https://twitter.com/JonKasdan/status/1002505155877597184}}</ref> [[John Powell]], the composer of ''Solo'', created a unique musical theme for Enfys Nest, one of six new themes written for the film.<ref name="fantha_powell">{{Cite_web |url=https://www.fanthatracks.com/news/film-music-tv/john-powell-reveals-new-themes-from-solo-a-star-wars-story/ |title=John Powell reveals new themes from Solo: A Star Wars Story. |accessdate=2018-10-02 |author=Mark Newbold |last=Newbold |first=Mark |date=2018-05-18 |archiveurl=http://web.archive.org/web/20181002053903/https://www.fanthatracks.com/news/film-music-tv/john-powell-reveals-new-themes-from-solo-a-star-wars-story/ |archivedate=2018-10-02}}</ref>
+
+Erin was relatively unknown before getting cast on ''Solo'', but casting director [[Nina Gold]] discovered her and gave her the role of Nest.<ref name="Jon's Twitter">{{Twitter|JonKasdan|status/1040529511513616385|[[Jon Kasdan]]|quote=continued|image=File:KasdanFactsCont.png|backup=http://web.archive.org/web/20181002054217/https://twitter.com/JonKasdan/status/1040529511513616385}}</ref> To get the part, Kellyman made three auditions. Though she thought after the first one that she had messed up, she was called again, so she did it better. In her third audition, she finally met Han Solo's portrayer [[Alden Ehrenreich]] and they did a screen test together. Kellyman was also tested on how well she fought, and went through some stunt tests just before her audition with Ehrenreich, though some of the stunts in the film were performed by Kellyman's stunt double [[Casey Michaels]].<ref name="Erin's Interview">{{SW|url=news/erin-kellyman-enfys-nest|text=Unmasking Enfys Nest: An Interview with Erin Kellyman|archiveurl=http://web.archive.org/web/20181002055355/https://www.starwars.com/news/erin-kellyman-enfys-nest|archivedate=2018-10-02}}</ref>
+
+The character's name was officially revealed on a [[Wikipedia:Denny's|Denny's]]-exclusive [[The Topps Company, Inc.|Topps]] trading card.<ref name="Topps Dennys">{{Topps|set=Solo: A Star Wars Story (Topps)|sformat=''Solo: A Star Wars Story''|cardname=Enfys Nest|link=}}</ref> A [[Solo: A Star Wars Story (LECLERC)|French trading card]] from LECLERC specified Nest's gender as female before the film's actual release.<ref name="LECLERC">''[[Solo: A Star Wars Story (LECLERC)]]''</ref> However, [[Star Wars Insider 180|''Star Wars Insider'' 180]] referred to the character as a male, thus calling her he several times.<ref name="SWI 180">{{InsiderCite|180}}</ref> Nest's gender was left a mystery until the film's release where Nest was revealed to be female.<ref name="Solo" />
+
+Nest's height is listed inconsistently across several different sources. In the [[Databank]], her height is listed as being 1.87 [[meter]]s,<ref name="Nest Databank">{{Databank|enfys-nest|Enfys Nest|archivedate=20180430205307}}</ref> whereas ''[[Solo: A Star Wars Story Official Sticker Collection]]'' provides a height of 1.88 meters<ref name="Official Sticker Collection">''[[Solo: A Star Wars Story Official Sticker Collection]]''</ref> and ''[[Solo: A Star Wars Story The Official Guide]]'' measures her at 1.67 meters.<ref name="TOG" /> Despite the conflicting information, in the film itself Nest is visibly shorter than Tobias Beckett.<ref name="Solo" /> Because Beckett's height is consistently given as 1.78 meters across both books and his Databank entry,<ref name="Beckett Databank">{{Databank|tobias-beckett|Tobias Beckett|archivedate=20180416223833}}</ref> it is apparent that Nest's true height is 1.67 meters, as listed in ''The Official Guide''.
+
+==Appearances==
+*''[[Star Wars: Beckett 1]]''
+*''[[Solo: A Star Wars Story: Tales from Vandor]]''
+*''[[Solo: A Star Wars Story]]'' {{1st}}
+*''[[Solo: A Star Wars Story: Train Heist]]''
+*''[[Solo: A Star Wars Story Sound Book]]''
+*''[[Solo: A Star Wars Story: Expanded Edition]]''
+*''[[Solo: A Star Wars Story: A Junior Novel]]''
+*''[[Solo: A Star Wars Story: Han on the Run]]''
+*''[[Solo: A Star Wars Story Read-Along Storybook and CD]]''
+*''[[Solo Adaptation 1]] ''{{Co}}
+*''[[Solo Adaptation 2]]''
+*''[[Star Wars: Solo Graphic Novel Adaptation]]''
+*[[Solo: A Star Wars Story (Golden Book)|''Solo: A Star Wars Story'' (Golden Book)]]
+*{{IDWAdventuresCite|14|[[Flight of the Falcon, Part 1: Spy Games]]}} {{Mo}}
+*''[[Choose Your Destiny: A Han & Chewie Adventure]]'' {{Mo}}
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+*[[Star Wars: Force Arena|''Star Wars: Force Arena'']]
+
+==Sources==
+{{Scroll box
+|content=
+*<!-- 02/04/18 -->{{SW|url=video/big-game-tv-spot-solo-a-star-wars-story|text="Big Game" TV Spot - Solo: A Star Wars Story|archiveurl=http://web.archive.org/web/20180726134347/https://www.starwars.com/video/big-game-tv-spot-solo-a-star-wars-story|archivedate=20180726134347}} {{1stp}}
+*<!-- 02/05/18 -->{{SW|url=video/official-teaser-solo-a-star-wars-story|text=Official Teaser - Solo: A Star Wars Story|archiveurl=http://web.archive.org/web/20180220184958/http://www.starwars.com/video/official-teaser-solo-a-star-wars-story|archivedate=20180220184958}}
+*{{Topps|set=Solo: A Star Wars Story (Topps)|sformat=''Solo: A Star Wars Story''|cardname=Enfys Nest|link=}} {{1stID}}
+*''[[Solo: A Star Wars Story (LECLERC)]]''
+*<!-- 04/08/18 -->{{SW|url=video/official-trailer-solo-a-star-wars-story|text=Official Trailer - Solo: A Star Wars Story|archiveurl=https://web.archive.org/web/20180413130830/http://www.starwars.com/video/official-trailer-solo-a-star-wars-story|archivedate=20180413130830}}
+*<!-- 04/09/18 -->{{SW|url=news/solo-a-star-wars-story-products-revealed|text=''Solo: A Star Wars Story'' Products Revealed!|archiveurl=http://web.archive.org/web/20180410092705/https://www.starwars.com/news/solo-a-star-wars-story-products-revealed}}
+*<!-- 04/15/18 -->{{SW|url=video/crew-solo-a-star-wars-story|text="Crew" - Solo: A Star Wars Story|archiveurl=http://web.archive.org/web/20180511025123/http://www.starwars.com/video/crew-solo-a-star-wars-story|archivedate=20180511025123}}
+*<!-- 04/17/18 -->{{SW|url=video/risk-solo-a-star-wars-story|text="Risk" - Solo: A Star Wars Story|archiveurl=http://web.archive.org/web/20180525142449/https://www.starwars.com/video/risk-solo-a-star-wars-story|archivedate=20180525142449}}
+*<!-- 04/18/18 -->{{InsiderCite|180}}
+*<!-- 04/28/18 -->{{SW|url=video/han-solo-a-star-wars-story|text="Han" - Solo: A Star Wars Story|archiveurl=http://web.archive.org/web/20180511025108/http://www.starwars.com/video/han-solo-a-star-wars-story|archivedate=20180511025108}}
+*<!-- 04/29/18 -->{{SW|url=video/becoming-solo-solo-a-star-wars-story|text=Becoming Solo - Solo: A Star Wars Story|archiveurl=http://web.archive.org/web/20180726134456/https://www.starwars.com/video/becoming-solo-solo-a-star-wars-story|archivedate=20180726134456}}
+*<!-- 05/01/18 -->{{SW|url=video/team-solo-a-star-wars-story|text="Team" - Solo: A Star Wars Story|archiveurl=http://web.archive.org/web/20180807173944/https://www.starwars.com/video/team-solo-a-star-wars-story|archivedate=20180807173944}}
+*<!-- 05/10/18 -->{{SW|url=video/enfys-nest-solo-a-star-wars-story|text="Enfys Nest" - Solo: A Star Wars Story|archiveurl=http://web.archive.org/web/20180807173621/https://www.starwars.com/video/enfys-nest-solo-a-star-wars-story|archivedate=20180807173621}}
+*<!-- 05/10/18 -->{{SW|url=video/top-lieutenant-solo-a-star-wars-story|text="Top-Lieutenant" - Solo: A Star Wars Story|archiveurl=http://web.archive.org/web/20180612110618/https://www.starwars.com/video/top-lieutenant-solo-a-star-wars-story|archivedate=20180612110618}}
+*<!-- 05/11/18 -->''[[Entertainment Weekly's The Ultimate Guide to Han Solo]]''
+*<!-- 05/15/18 -->{{SW|url=video/making-solo-solo-a-star-wars-story|text="Making Solo" - Solo: A Star Wars Story|archiveurl=http://web.archive.org/web/20181002145222/https://www.starwars.com/video/making-solo-solo-a-star-wars-story|archivedate=20181002145222}}
+*<!-- 05/17/18 -->{{SWYoutube|P0G-TwQyB5w|Solo: A Star Wars Story Reviews}}
+*<!-- 05/19/18 -->{{SWYoutube|MaQboyg1U|Solo: A Star Wars Story "Reviews"}}
+*<!-- 05/25/18 -->''[[Solo: A Star Wars Story The Official Guide]]''
+*<!-- 05/25/18 -->''[[Solo: A Star Wars Story Look and Find]]''
+*<!-- 05/25/18 -->''[[Solo: A Star Wars Story Ultimate Sticker Collection]]''
+*<!-- 05/25/18 -->''[[Solo: A Star Wars Story Official Sticker Collection]]''
+*<!-- 05/29/18 -->{{InsiderCite|181}} {{Po}}
+*<!-- 07/10/18 -->''[[Solo: A Star Wars Story – The Official Collector's Edition]]''
+*<!-- 07/11/18 -->{{InsiderCite|182}}
+*<!-- 08-22/18 -->{{InsiderCite|183}}
+*<!-- 10/03/18 -->{{InsiderCite|184}} {{Po}}
+*<!-- 10/23/18 -->''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*<!-- 10/30/18 -->''[[Star Wars: Women of the Galaxy]]''
+*<!-- 11/13/18 -->''[[Star Wars: Smuggler's Guide]]''
+*{{Databank|cloud-riders|Cloud-Riders|archivedate=20180618044603}}
+*{{Databank|electroripper-staff|electroripper staff|archivedate=20180726134607}}
+*{{Databank|enfys-nest|Enfys Nest|archivedate=20180430205307}}
+*{{Databank|enfys-nests-swoop-bike|Enfys Nest's swoop bike|archivedate=20180921225624}}
+*{{Databank|ordnance-launcher|Ordnance launcher|archivedate=20180726134554}}
+*{{Databank|tobias-beckett|Tobias Beckett|archivedate=20180416223833}}
+*{{Databank|val|Val|archivedate=20180416224213}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+==See also==
+*[[Serji-X Arrogantus]]
+
+==External links==
+*<!-- 05/10/18 -->{{SW|url=news/latest-look-at-solo-meet-enfys-nest-see-qira-in-action-and-more|text=Latest Look at ''Solo'': Meet Enfys Nest, See Qi’ra in Action, and More!|archiveurl=http://web.archive.org/web/20180511025147/https://www.starwars.com/news/latest-look-at-solo-meet-enfys-nest-see-qira-in-action-and-more}}
+*<!-- 05/25/18 -->{{SW|url=news/art-of-solo-author-phil-szostak-interview|text=''The Art of Solo: A Star Wars Story'' Author Phil Szostak and the Evolution of Scum and Villainy|archiveurl=http://web.archive.org/web/20180528123705/https://www.starwars.com/news/art-of-solo-author-phil-szostak-interview}}
+*<!-- 05/30/18 -->{{SW|url=news/designing-solo-a-star-wars-story-part-1-making-landos-millennium-falcon|text=Designing ''Solo: A Star Wars Story'', Part 1: Making Lando’s ''Millennium Falcon''|archiveurl=http://web.archive.org/web/20180610012851/https://www.starwars.com/news/designing-solo-a-star-wars-story-part-1-making-landos-millennium-falcon}}
+*<!-- 06/01/18 -->{{SW|url=news/designing-solo-a-star-wars-story-part-3-conveyex-train-heist|text=Designing ''Solo: A Star Wars Story'', Part 3: Pulling Off the Train Heist|archiveurl=http://web.archive.org/web/20180610012853/https://www.starwars.com/news/designing-solo-a-star-wars-story-part-3-conveyex-train-heist}}
+*<!-- 08/22/18 -->{{SW|https://www.starwars.com/news/the-galaxy-in-comics-beckett-1|text=The Galaxy in Comics: ''Beckett'' 1 and the Grit of a Gunslinger|archiveurl=http://web.archive.org/web/20181110065351/https://www.starwars.com/news/the-galaxy-in-comics-beckett-1}}
+*<!-- 08/22/18 -->{{SW|url=news/solo-a-star-wars-story-exclusive-excerpts-2|text=How the ''Solo: A Star Wars Story'' Novel Expands on the Film – Exclusive Excerpts|archiveurl=http://web.archive.org/web/20180824002230/https://www.starwars.com/news/solo-a-star-wars-story-exclusive-excerpts-2}}
+*<!-- 08/27/18 -->{{SW|url=news/mur-lafferty-solo-a-star-wars-story-novel|text=Scoundrels, Saw Gerrera, and the Sith: Author Mur Lafferty on the ''Solo: A Star Wars Story'' Novel|archiveurl=http://web.archive.org/web/20181020190431/https://www.starwars.com/news/mur-lafferty-solo-a-star-wars-story-novel}}
+*<!-- 09/10/18 -->{{SW|url=news/solo-a-star-wars-story-composer-john-powell|text=John Powell on Scoring the "Completely Absorbing World" of ''Solo: A Star Wars Story''|archiveurl=http://web.archive.org/web/20180923075818/https://www.starwars.com/news/solo-a-star-wars-story-composer-john-powell}}
+*<!-- 09/24/18 -->{{SW|url=news/solo-a-star-wars-story-designs|text=Inside the Designs of ''Solo: A Star Wars Story''|archiveurl=http://web.archive.org/web/20180925010835/https://www.starwars.com/news/solo-a-star-wars-story-designs}}
+*<!-- 09/28/18 -->{{SW|url=news/enfys-nest-swoop-bike-set-hasbro-black-series|text=''Solo''{{'}}s Enfys Nest Swoops in to Join the Hasbro Black Series|archiveurl=http://web.archive.org/web/20181110060807/https://www.starwars.com/news/enfys-nest-swoop-bike-set-hasbro-black-series}}
+*<!-- 09/28/18 -->{{SW|url=news/erin-kellyman-enfys-nest|text=Unmasking Enfys Nest: An Interview with Erin Kellyman|archiveurl=http://web.archive.org/web/20181002231650/https://www.starwars.com/news/erin-kellyman-enfys-nest|archivedate=20181002231650}}
+*<!-- 11/07/18 -->{{SW|url=news/5-reasons-why-we-love-enfys-nest|text=5 Reasons We Love Enfys Nest|archiveurl=http://web.archive.org/web/20181109194611/https://www.starwars.com/news/5-reasons-why-we-love-enfys-nest}}
+
+{{Interlang
+|cs=Enfys Nest
+|de=Enfys Nest#kanon
+|es=Enfys Nest
+|fr=Enfys Nest
+|hu=Enfys Nest
+|ja=エンフィス・ネスト
+|ka=ენფის ნესტი
+|nl=Enfys Nest
+|pl=Enfys Nest
+|pt=Enfys Nest
+|ru=Энфис Нест
+|tr=Enfys Nest
+|uk=Енфіс Нест
+|zh=恩菲斯·內斯特
+}}
+
+{{DEFAULTSORT:Nest, Enfys}}
+[[Category:Cloud-Riders members]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Pirates]]

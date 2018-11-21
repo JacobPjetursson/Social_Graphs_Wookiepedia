@@ -1,0 +1,385 @@
+{{Eras}}
+{{Expand}}
+{{Update|[[Star Wars Battlefront II]], {{ForceCollection|Admiral Ackbar|star=1}} [[Heir to the Jedi]], [[Star Wars 9: Showdown on the Smuggler's Moon, Part II]], [[Star Wars 23: The Last Flight of the Harbinger, Part III]], [[Star Wars 44: Mutiny at Mon Cala, Part I]], [[Star Wars 45: Mutiny at Mon Cala, Part II]], [[Star Wars 49: Mutiny at Mon Cala, Part VI]], [[Star Wars 50: Hope Dies, Part I]], [[Moving Target: A Princess Leia Adventure]], [[Star Wars: The Last Jedi: Expanded Edition]], [[The Last Jedi Adaptation 1]], [[Poe Dameron 28: The Awakening, Part III]], [[Star Wars: On the Front Lines]], [[Star Wars: The Rebel Files]]}}
+{{Character
+|type=Resistance
+|image=[[File:Admiral Ackbar RH.png]]
+|name=Gial Ackbar
+|homeworld=[[Mon Cala]]<ref name="Ackbar DB">{{Databank|admiral-ackbar|Admiral Ackbar|archivedate=20170704032047}}</ref>
+|birth=Prior to 50 BBY<ref name="Bloodline">''[[Bloodline (novel)|Bloodline]]''</ref>
+|death=[[34 ABY]],<ref name="Date">''[[Star Wars: Galactic Atlas]]'' places the events of the film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] in [[34 ABY]]. As [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] carries on immediately from the events of ''The Force Awakens'', it can be assumed to take place in the same [[Standard year|year]].</ref> ''[[Raddus (MC85 Star Cruiser)|Raddus]]'', [[Oetchi system]]<ref name="TLJ Junior Novel">''[[Star Wars: The Last Jedi: A Junior Novel]]''</ref>
+|species=[[Mon Calamari]]<ref name="Ackbar DB" />
+|gender=[[Sexes|Male]]<ref name="Ackbar DB" />
+|height=1.8 [[meter]]s<ref name="Ackbar DB" />
+|mass=
+|hair=
+|eyes=[[Color|Orange]]<ref name="Ackbar DB" />
+|skin=Brown mottle<ref name="Ackbar DB" />
+|cyber=
+|era=
+|affiliation=*[[Mon Cala monarchy]]<ref name="Water War">{{TCW|Water War}}</ref>
+**[[Mon Calamari Guard]]<ref name="Water War" />
+*[[Galactic Republic]]<ref name="Prisoners">{{TCW|Prisoners}}</ref>
+*[[Galactic Empire]]<ref name="Dark Lord 13">''[[Darth Vader: Dark Lord of the Sith 13: Burning Seas, Part I]]''</ref>
+*[[Alliance to Restore the Republic]]<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+**[[Alliance Fleet]]<ref name="Episode VI" />
+**[[Alliance High Command]]<ref name="Skywalker Strikes, Part IV">''[[Star Wars 4: Skywalker Strikes, Part IV]]''</ref>
+*[[New Republic]]<ref name="Aftermath">''[[Aftermath]]''</ref>
+**[[New Republic Defense Fleet]]<ref name="Aftermath" />
+*[[Resistance]]<ref name="TFA">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+**[[Resistance High Command]]<ref name="TFA Visual">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+**[[Fleet Command (Resistance)|Resistance Fleet Command]]<ref name="TLJ VD">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref>
+|masters=
+|apprentices=}}
+{{Quote|May the Force be with us.|Admiral Ackbar|audio=Force be with us.ogg|Star Wars: Episode VI Return of the Jedi}}
+<!--DO NOT MAKE ACKBAR'S LEAD IN QUOTE "IT'S A TRAP!". IT DETAILS NOTHING ABOUT ACKBAR'S CHARACTER.-->
+'''Gial Ackbar''' was a veteran [[Sexes|male]] [[Mon Calamari]] [[soldier]] and strong revolutionary leader during the [[Clone Wars]], the [[Galactic Civil War]], the [[cold war]], and the [[First Order–Resistance war|war]] between the [[Resistance]] and the [[First Order]]. Throughout his sixty [[Standard year|years]] of service, Ackbar was regarded as a brilliant tactician.
+
+Ackbar was [[captain]] of the [[Mon Calamari Guard]] during the Clone Wars and fought in the [[Battle of Mon Cala]], in which he helped to secure [[Prince]] [[Lee-Char]]'s ascent as [[King]] of [[Mon Cala]] and repel the [[Confederacy of Independent Systems]]. After the rise of the [[Galactic Empire]], Ackbar became the foremost military [[Commanding officer|commander]] in the [[Alliance to Restore the Republic]], emerging as a symbol of defiance against the Empire's subjugation of non-[[human]]s. His presence attracted Mon Calamari support for the Alliance, thus supplying the [[MC80 star cruiser|Mon Calamari star cruisers]] that made up a bulk of the [[Alliance Fleet]].
+
+From his command ship of ''[[Home One]]'', Ackbar acted as the fleet commander during the [[Battle of Endor]], in which the Alliance successfully mounted an attack that led to the destruction of the Empire's [[Death Star II|second Death Star]] and the [[death]] of [[Galactic Emperor|Emperor]] [[Darth Sidious|Palpatine]]. After the Battle of [[Endor]], the Alliance formed the [[New Republic]]. Ackbar became a [[Fleet Admiral|fleet admiral]] of the [[New Republic Defense Fleet]] and led the Republic to its victory over the Empire during the [[Battle of Jakku]]. After the battle on [[Jakku]] ended, the Empire retreated into the [[Unknown Regions]] and Ackbar retired to Mon Cala.
+
+By [[34 ABY]], the emerging threat of the First Order, which arose from the ashes of the Empire, led Princess [[Leia Organa]] to form the Resistance without the support of the Republic that had turned a blind [[eye]] to the First Order. Organa, the [[general]] of the Resistance, coaxed Ackbar out of his retirement to serve in the Resistance. After reclaiming his commission as an [[Admiral]] Ackbar served in the [[Resistance base]] on [[D'Qar]], where he helped oversee the [[Battle of Starkiller Base|battle]] to destroy the First Order [[superweapon]] known as [[Starkiller Base]].
+
+Ackbar was later present on the bridge of the Resistance's [[flagship]] the ''[[Raddus (MC85 Star Cruiser)|Raddus]]'' when the Resistance [[evacuation of D'Qar|evacuated]] from D'Qar, but was blown up and killed when the First Order [[Attack on the Resistance fleet|attacked]] the ship after it exited [[hyperspace]].
+
+==Biography==
+===Early life===
+Gial Ackbar was born on the [[Ocean|aquatic]] [[planet]] [[Mon Cala]] during the final [[Standard year|years]] of the [[Galactic Republic]].<ref name="Ultimate">''[[Ultimate Star Wars]]''</ref> Mon Cala was a part of the Republic, ruled by [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]], and Ackbar eventually enlisted into military service to the [[Mon Calamari Guard]], which was tasked with protecting Mon Cala's monarchs and dignitaries.<ref name="Everything">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref> Ackbar eventually worked his way through the ranks of the guard, and became its [[captain]]; therefore, he also became the chief military [[advisor]] to the leader of the ocean world.<ref name="Ultimate" />
+
+===The Clone Wars===
+====Captain of the Mon Calamari Guard====
+{{Quote|Soldiers of Mon Calamari: This is your ''home!'' Do ''not'' let it fall!|Ackbar, to his troops|Water War}}
+[[File:MonCalamariCity-WW.png|thumb|left|250px|Mon Cala's capital city, where Ackbar lived and served]]
+[[King]] [[Yos Kolina]] ruled Mon Cala during the [[Clone Wars]], between the [[Confederacy of Independent Systems]] and the Galactic Republic. The war subsequently came to Mon Cala when Separatist [[Riff Tamson]] assassinated Kolina. Members of the [[Quarren Isolation League]], however, which was led by [[Chief]]tan [[Nossor Ri]], took credit for the crime<ref name="NR DB">{{Databank|nossor-ri|Nossor Ri}}</ref> in order to provoke a civil war on the planet,<ref name="MC DB">{{Databank|mon-cala|Mon Cala}}</ref> thereby preventing the rightful heir to the throne, the young [[Prince]] [[Lee-Char]], from ascending to it. Ackbar, as the captain of the Mon Cal Knights, became Lee-Char's protector.<ref name="Water War" /> In the [[Mon Cala city|Mon Calamari capital]], a meeting was soon held, where [[Jedi Knight]] [[Anakin Skywalker]] and [[senator]] [[Padmé Amidala]] of [[Naboo]] attended as representatives to the Republic.<ref name="Water War" />
+
+However, the Quarren isolationists ensured Tamson&mdash;one of [[Count]] [[Dooku|Dooku's]] many Separatist enforcers&mdash;was present as well. The Quarren dignitaries voiced that they did not want Lee-Char as their king because he was too young and inexperienced. As the debates went on, what the Quarren did want became clear: a Quarren king, not another Mon Calamari ruler. Lee-Char assured the Quarren that he was dedicated to serving both races in a mutually beneficial way, Tamson, however, ordered him to cease speaking, as he had not "earned the right." Ackbar rushed in and reminded the [[Karkarodon]] that he had no say, as he was just an observer for the Confederacy. Ri then said that the Quarren, their argument not agreed to, were done with the negotiations and exited.<ref name="Water War" />
+
+Ackbar, Skywalker, and Amidala reported in to the [[Jedi High Council|Jedi Council]], specifically [[Jedi Master]] [[Yoda]], aboard a [[Consular-class cruiser (Charger c70 retrofit)|Republic frigate]], where Ackbar informed the council that a civil war on Mon Cala was inevitable. Yoda, therefore, in order to keep Mon Cala aligned with the Republic, dispatched a company of [[clone SCUBA trooper]]s, Jedi [[Kit Fisto]] and Skywalker's [[Padawan]] [[Ahsoka Tano]], to bolster the defenses of the Mon Calamari. Ackbar then met with Mon Cala's senator in the [[Galactic Senate]], [[Meena Tills]], who officially assigned Ackbar to protect Lee-Char during the forthcoming battle. Ackbar, however, thought it foolhardy to take the prince onto the battlefront, as he was too inexperienced in combat, though, he gave in, as it was a longstanding tradition for the monarch of Mon Cala to lead the soldiers into battle.<ref name="Water War" />
+
+[[File:Epguide401.png|thumb|right|270px|Ackbar leads the charge against the Separatists.]]
+Later, Lee-Char addressed the gather troops, telling them he did not believe the Quarren intended to attack, but before he finished, the Quarren army attacked, along with Separatist [[aqua droid]]s led by Tamson; prompting Ackbar to proclaim "It's an attack." Ackbar and Skywalker quickly rallied their forces to defend the city, and held true to Till's will and took the prince to the front lines. Ackbar then led the charge into the enemy ranks and ordered his troops not to let their [[homeworld]] fall to the confederacy. The fighting continued, and soon thereafter, Yoda came through: The Republic's reinforcements arrived. Ackbar moved back to the prince's position, handed him a [[Blaster spear|blaster]], telling him to earn the respect of the people; he had to lead the fight. Lee-Char, realizing the wisdom in Ackbar's words, began to rally their forces.<ref name="Water War" />
+
+====Civil War on Mon Cala====
+The gamble soon paid off when the droids and Quarren retreated to their [[transport]]s. Ackbar voiced to the Jedi that they had won the first assault. Tills, thinking they had completely defeated the Separatists, told Lee-Char to start dictating for the Separatists' surrender. Ackbar halted Till's hasty assumptions; the first wave had been beaten, not the battle. However, just then, dozens of massive [[cyborg]] [[Hydroid Medusa]]s descended upon the city. The seemingly invincible [[jellyfish]] swept their tentacles through the [[clone trooper]]s and Mon Calamari, electrocuting many. More droids materialized from behind, and as they were outmatched, Ackbar told the prince it was time to retreat. The pair agreed that the caves on the ocean floor were the safest place, so they fled to the caves. Once there, Lee-Char expressed his concern that his father would have been disappointed in him for the failures that he had befallen during the day's events. Ackbar, however, assured the young prince that Kolina would have been proud of his son.<ref name="Water War" />
+
+[[File:Ackbar contacts the Jedi.png|thumb|left|250px|Ackbar, Fisto, Skywalker and Amidala request reinforcements from the Jedi Council.]]
+While regrouping in the caves, the Jedi Council was contacted in order to arrange the deployment of more Republic soldiers. However, before an agreement could be reached, the Council's signal was [[Signal jammer|jammed]], leaving Ackbar and the others unsure if the council planned to send reinforcements. Ackbar and Skywalker agreed that it was likely troops would be sent, but Lee-Char believed they would arrive too late to do any good against the Confederacy. Taking the lead, Lee-Char devised a way to escape the planet: take the Republic frigate on the water's surface to [[Coruscant]], the Republic's [[capital]]. The plan was agreed on, so the group began the ascent to the surface. A plethora of enemy troops stood in their path, so Fisto diverted the enemy forces and sent down several [[One Man Submersible Devilfish]] to expedite the ascent.<ref name="Gungan Attack">{{TCW|Gungan Attack}}</ref>
+
+However, as they neared the ship, it exploded and the debris rained down over Ackbar and the others. Skywalker told the others to grab onto the debris so it could pull them back down to the ocean floor. Ackbar did so, and as they fell, he voiced that they should split up into two teams to better protect the true location of the prince. Lee-Char agreed, and Ackbar told him to be careful, as he was Mon Calamari's last hope. The prince then went with Tano, Fisto and the clones, while Ackbar's group, Amidala, Skywalker and Tills, planned to disrupt the city's communications, which would prevent Tamson from knowing that Republic reinforcements were incoming until it was too late for him to mount a proper counterattack.<ref name="Gungan Attack" />
+
+Ackbar, Skywalker and Tills headed to the city's [[Mon Cala central planetary scanner mast|central planetary scanner mast]] to topple it. Skywalker used [[the Force]] to cause it to collapse while Ackbar defended him from aqua droids. The group retreated after the mission succeeded. However, Tamson correctly deduced that the scanner mast alone had been targeted because Republic reinforcements were forthcoming. Therefore, he launched another attack. Ackbar and the others fought the Separatist soldiers in order to keep their attention on them, rather than searching for the prince. Ackbar and the others were soon surrounded by Hydroid Medusas, but were saved when the Republic reinforcements arrived: A [[Venator-class Star Destroyer|''Venator''-class Star Destroyer]] deployed members of the [[Gungan Grand Army]] from Naboo&mdash;who, like the Mon Calamari and Quarren, were amphibians.<ref name="Gungan Attack" />
+
+====Counter-attack====
+The [[Gungan]]s attacked using their traditional weapons&mdash;[[booma]]s and [[atlatl]]s&mdash;whose [[plasma]]-based technologies disabled the Hydroid Medusas, droids and Quarren alike, and freed Ackbar, Tills and Skywalker, who joined the turning tide of the battle. A Separatist [[Trident-class assault ship|''Trident''-class assault ship]] soon arrived and began spinning; creating a vortex that confused the battlefront and scattered soldiers on both sides. Ackbar grabbed on to Skywalker, swam him to the [[gunship]], and threw him up to it. Skywalker severed one of its legs with [[Skywalker's lightsaber|his lightsaber]], causing the craft to spin out of control and crash. However, with their surge in forces nullified, the Republic-aligned troops were taken [[prisoner]] by the Separatists.<ref name="Gungan Attack" />
+
+Ackbar, his troops and the clones were taken to a prison camp on the ocean floor, while Skywalker, Amidala and Fisto were personally interrogated by Tamson. Tano and the prince, however, managed to elude capture again, but the Lee-Char thought to rally the forces&mdash;Mon Calamari, Gungan, clone, Jedi and even Quarren&mdash;to all together overwhelm Tamson and his droids. So he infiltrated the prison camp Ackbar was detained in to ask his guidance. Ackbar and Tills rejoiced when they saw the prince alive, but were confounded when Lee-Char explained his daring plan to reunify the citizens of Mon Cala against the Separatist invaders. Ackbar was shocked that the prince would ally himself with the people who had killed his father, but Lee-Char told Ackbar that he knew for fact that Tamson had done so. Tano added that she had seen similar occurrences of Dooku manipulating a planet's people to start a civil war, so the prince said that he would find and show Ri the truth. Ackbar agreed to the prince's noble plan and said he would marshal the Mon Calamari troops for battle. Lee-Char also gave the captain his signal of when to attack: when a Quarren attacked a Separatist. Just then, a legion of aqua droids appeared and put the prince under arrest. Lee-Char willingly went with his captors in order to confront Ri and show him the truth.<ref name="Prisoners" />
+
+Later, Lee-Char was sentenced to death by Tamson, and ordered that all the prisoners be taken to the capital to witness the execution. Tamson's Karkarodon enforcers surrounded the prince while Tamson read aloud the prince's crimes against the Separatist state. Meanwhile, Ackbar and the other prisoners watched from the side. One of Ri's aides materialized and handed Ackbar his baton and informed him that Lee-Char's boldness had worked: Ri and the Quarren had agreed to expel to Confederates and reclaim Mon Cala. Ackbar looked across the plaza and nodded to Ri. The Quarren soldiers quietly distributed arms to the clones and troops, while Ri swam across the plaza, created an ink cloud, and grabbed the prince. Ackbar's troops opened fire on the Separatists and the battle raged once more. Ackbar charged the aqua droids, leading the battle from his side, while Lee-Char proved himself by leading the rest of the forces and killing Tamson, a fearsome warrior&mdash;thereby freeing Mon Cala. Ackbar, the Jedi and Ri, rushed to the young prince and congratulated him.<ref name="Prisoners" />
+Some time later, Ackbar attended Lee-Char's [[Coronation of Lee-Char|coronation]] as the king of Mon Cala, like his father had once done. Ackbar stood to the right of the ceremonial throne, witnessing Ri's pledge of allegiance of the Quarren to King Lee-Char. And Lee-Char likewise pledged his loyalty to all the people of Mon Cala.<ref name="Prisoners" />
+
+===Imperial Era===
+====Defending Mon Cala====
+[[File:Telvars negotiations.jpg|thumb|right|Commander Ackar listening to Ambassador Tevlar's proposals]]
+Approximately one year after the Republic became the [[Galactic Empire]], Ackbar held the rank of [[commander]] as the [[Chief of Security]] for King Lee-Char. During the first year of the [[Imperial Era]], Lee-Char had become under the influence of a [[Jedi]] Padawan named [[Ferren Barr]]. Barr helped Lee-Char defy the Empire in their trade negotiations, enough to have [[Moff]] [[Wilhuff Tarkin]] park the ''[[Sovereign]]'' above Mon Cala.<ref name="Dark Lord 13" />
+
+As the negotiations in [[Dac City]] with Tarkin's [[ambassador]] [[Telvar]] went nowhere, the Emperor sent Darth Vader, three [[Inquisitorius|Inquisitors]] and a squad of elite clone troopers to Dac City. Upon their arrival, Ackbar stopped the inquisitors and demanded their business. The [[Ninth Sister]] gave Ackbar an Imperial writ legally stopping anyone from bringing any harm to her and the other two inquisitors. Ackbar however thought it was outrageous and Darth Vader stepped in. Ackbar refused to let them past without knowing their business, to that Vader gave in and told him of a possible enemy of the Empire. Telvar's shuttle took off in the meantime and when Ackbar refused to believe an enemy of the Empire was on Mon Cala, Telvar's shuttle exploded.<ref name="Dark Lord 13" />
+
+[[File:Dark Lord 15 Unidentified Mon Cala craft.jpg|thumb|left|250px|Ackbar leading the attack on Colonel Bergon's aerial landing platform]]
+Vader pushed past Ackbar and Tarkin sent Imperial forces, led by [[Major]] [[Rantu]], down to invade Mon Cala. A [[Battle of Dac City|battle]] broke out in Dac City where Vader and his inquisitors teared through defending forces, Lee-Char assigned Ackbar to defend the northen hemisphere and assigned [[Raddus]] to defend the southen. Lee-Char also had [[Unidentified Mon Cala creature|large creatures]] destroy the surface cities on Mon Cala by generating catastrophically large waves.<ref name="Dark Lord 14">''[[Darth Vader: Dark Lord of the Sith 14: Burning Seas, Part II]]''</ref> This cleared out the Imperial forces at the surface and [[Colonel]] [[Bergon]] took over in the invasion of Mon Cala. She parked [[aerial landing platform]]s over Mon Cala and Ackbar sought to take out the one of which she was based. Ackbar led complement of eight [[Unidentified Mon Calamari aquatic vehicle|aquatic vehicles]] which flanked the underbelly of the sky base and they launched missiles at the it. Bergon's sky base was destroyed in the [[Attack on Bergon's sky-base|attack run]].<ref name="Dark Lord 15">''[[Darth Vader: Dark Lord of the Sith 15: Burning Seas, Part III]]''</ref>
+
+===Galactic Civil War===
+====Evacuating Yavin 4====
+Following the [[Battle of Yavin]], the Empire set out to attack the Rebel base. Ackbar was among the Rebel leaders in charge of getting the fleet together to help with the evacuation. He helped organize the troops and gather the supplies on the planet for evacuation.<ref name="Princess Leia 1">''[[Princess Leia, Part I]]''</ref> Sometime after this, Ackbar sent [[Luke Skywalker]] on a [[Mission to Rodia (Luke Skywalker)|mission]] to [[Rodia]] in hopes to open up supply lines for the Rebellion. <ref name="Heir to the Jedi">''[[Heir to the Jedi]]''</ref>
+
+Shortly after the Battle of Yavin, Rebel forces managed to bomb an Imperial supply base on [[Imdaar]] and a shipyard on [[Kuat]]. Ackbar informed [[Leia Organa]] of this sometime after the events occurred.<ref name="Skywalker Strikes, Part IV" />
+
+====Battle of Endor====
+{{Quote|It's a trap!|Admiral Ackbar|audio=ItsATrap-ROTJ.ogg|Star Wars: Episode VI Return of the Jedi}}
+[[File:AdmiralAck.png|thumb|220x220px|Admiral Ackbar during the Battle of Endor]]
+Following the rebels' defeat at the [[Battle of Hoth]], Ackbar briefed Alliance commanders about the threat of a [[Death Star II|second Death Star]]. Once completed, the [[battle station]] would be invulnerable to attack, so the Alliance would have to take down the superweapon before it would be operational.<ref name="Ackbar DB gallery 10">{{Databank|url=admiral-ackbar-biography-gallery|title=Admiral Ackbar Biography Gallery|archivedate=20161216123847}}; slide #10</ref>
+
+Ackbar was one of the commanders of the [[Battle of Endor]]. By this time he was already an admiral in the Rebel fleet. At the pre-mission briefing, Gial told the plan of how the Rebels would attack the Death Star. He explained that a ground team led by [[General]] [[Han Solo]] would go to the surface of the forest moon of [[Endor]] and take out the shield generator, and that a fighter squadron led by [[Lando Calrissian]] would then enter the battle station's superstructure and take it out from the inside. He commanded the fleet from the bridge of his ship, ''[[Home One]]''. Once the battle commenced, however, between the fleet's sensors being jammed and an Imperial fleet cutting off their escape, Ackbar realised that they had been led into a trap - the Empire was leading them to their demise. Ackbar was reluctant to continue the battle after the Rebels saw that the Death Star's superlaser was operational. However, Calrissian convinced him otherwise. Once Han Solo's squad took out the shield generator, Ackbar's fleet held off the rest of the Imperial forces while Calrissian and his fighters, along with [[Wedge Antilles]], flew inside the Death Star to take it out. Ackbar especially told his forces to concentrate their firepower on the ''[[Executor]]'', which was ultimately destroyed.<ref name="Star Wars Episode VI: Return of the Jedi">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+
+===New Republic===
+====Rebellion on Akiva====
+{{Quote|But we also must recognize the Empire's ability to play the long game. Our victory over Endor was fortunate, but the Empire orchestrated that trap with great patience.|Admiral Ackbar debating strategy with fellow New Republic leaders|Aftermath}}
+Despite the Empire's defeat at Endor, they continued to fight, launching [[Operation: Cinder]], a contingency plan issued posthumously by the Emperor. Over three months after the Battle of Endor,<ref name="SE4">''[[Shattered Empire, Part IV]]''</ref> the Alliance officially reorganized into a [[New Republic]], continuing to defend against the Imperial attacks. As Admiral, Ackbar commanded the [[New Republic Defense Fleet]] in its campaign against the remnants of the Empire. In his free time, Ackbar honed his mind by practicing with his [[kar-shak]] against simulated [[stormtrooper]]s.<ref name="Aftermath" />
+
+Admiral Ackbar's military campaign against the Empire was aided by a mysterious Imperial informant known as [[Gallius Rax|the Operator]], who leaked intelligence about Imperial military movements. While Ackbar was practicing with his kar-shak, he was visited by [[Ensign]] [[Ardin Deltura|Deltura]] who informed the Admiral that Captain Wedge Antilles had ceased communicating with them after his scouting mission to [[Raydonia]]. Ackbar ordered Deltura to send scouts to five nearby planets including [[Mustafar]], [[Geonosis]], [[Dermos]], [[Akiva]], and [[Tatooine]]. As a precaution, Ackbar ordered Deltura to dispatch two scouts to Akiva.<ref name="Aftermath" />
+
+Deltura then informed him that they had received new information from the Operator. When Ackbar expressed surprise that an Ensign was privy to classified information, Deltura reassured him that Commander [[Kyrsta Agate]] had given him clearance. Deltura dispatched two [[RZ-1 A-wing interceptor|A-wing scout ships]] to Akiva but the ships were shot down by an Imperial Star Destroyer commanded by [[Admiral]] [[Rae Sloane]]. The Empire was hosting an [[Emergency summit on Akiva|emergency summit]] on the planet and Antilles had been captured Imperial forces there.<ref name="Aftermath" />
+
+Following the downing of the scout ships, Admiral Ackbar corresponded with several New Republic leaders and officials via [[hologram]] including Commander Agate Captain [[Saff Melor]], General [[Crix Madine]], and the newly-appointed [[Chancellor (New Republic)|Chancellor]] [[Mon Mothma]]. When Agate suggested they could trust the Operator, Ackbar warned that the Battle of Endor showed that the Empire had the ability to play the long game. When Melor advocated sending in a fleet to Akiva, Mothma urged caution to avoid creating the impression that the New Republic were invaders.<ref name="Aftermath" />
+
+While Melor and Mothma debated the merits of aiding a strategically marginal planet like Akiva, Ackbar sided with the Chancellor and urged his comrades to be ready for Imperial traps. He then asked General Madine whether he could send a small strike team of [[New Republic Special Forces]] soldiers to investigate Akiva. Madine replied that was possible and Ackbar agreed to send a small scouting party to Akiva. This party was attacked by Imperial [[turbolaser]]s but one member [[Sergeant]] [[Jom Barell]] survived and played a role in the subsequent [[rebellion on Akiva]]. Ackbar was informed about the attack on Barell's scouting parting by Ensign Deltura and [[Science officer]] [[Niriian]].<ref name="Aftermath" />
+
+During the summit, Antilles managed to break free for a short duration and send an emergency transmission to Ackbar, explaining the dire situation. In response, Ackbar prepared a small fleet to attack the Imperial presence on Akiva. Ackbar assigned Commander Agate with leading the attack on Akiva. Agate's small fleet destroyed two Star Destroyers while the New Republic pilot [[Norra Wexley]], her son [[Temmin Wexley|Temmin]] and a small rebel cell engineered an uprising that overwhelmed the meager Imperial garrison and the collaborationist [[Satrapy of Myrra]]. Akiva became one of the first [[Outer Rim Territories|Outer Rim]] worlds to join the New Republic. <ref name="Aftermath" />
+
+Admiral Ackbar's victory on Akiva was aided by the Operator, who sent intelligence about the position of the orbiting Star Destroyers. Despite finding his information useful, Ackbar did not fully trust the Operator,<ref name="Aftermath" /> who later turned out to be [[Fleet Admiral]] Gallius Rax.<ref name="Life Debt">''[[Aftermath: Life Debt]]''</ref> A month later, Ackbar presented a medal to Norra Wexley for her service in rescuing Antilles and helping the New Republic to liberate Akiva from the Empire.<ref name="Aftermath" />
+
+====Commanding the Starfleet====
+{{Quote|Grand Admiral Ackbar.''"<br />"Grand admiral'' is an Imperial ranking. I, like you once did, identify as ''fleet admiral''&mdash;but you seem to have taken the title 'Grand Admiral' for yourself.|Grand Admiral Sloane and Admiral Ackbar exchanging greetings|Aftermath: Life Debt}}
+[[5 ABY|One year]] after the Alliance's victory at Endor, the now-Fleet Admiral Ackbar led the New Republic Starfleet's campaign against the remnants of the Empire. While Ackbar's work took him into space, the Admiral still visited the New Republic capital of [[Chandrila]] to consult with Chancellor Mon Mothma and other leaders. On one such trip, Admiral Ackbar met with the New Republic starfighter pilot Norra Wexley at [[Skygarden]] above [[Hanna City]]. He ordered her to cease her mission to rescue the missing Han Solo and to resume her hunt for Imperial commissions. Norra refused to comply with this order and resigned her commission in the New Republic Navy. She, her son Temmin, the [[B1 battle droid]] [[Mister Bones]], the former Imperial [[loyalty officer]] [[Sinjir Rath Velus]], the [[Zabrak]] [[bounty hunter]] [[Jas Emari]], and the New Republic soldier Jom Barell then embarked on a quest to find Solo.<ref name="Life Debt" />
+
+During a later meeting with Chancellor Mothma and her advisers, Ackbar opined that the New Republic was not doing enough to win former Imperial systems to the New Republic. Mothma concurred and agreed to embark on a campaign to entice prospective members by giving them a place in the reconstituted [[Galactic Senate (New Republic)|Galactic Senate]]. Shortly later, Princess Leia entered the room and argued with Chancellor Mothma about not enough being done to aid the enslaved Wookiees of the planet [[Kashyyyk]]. Following a brief argument, a frustrated Leia stormed out of the meeting despite Ackbar's efforts to call out to her.<ref name="Life Debt" />
+
+Later, Admiral Ackbar commanded a [[Battle for Kuat Drive Yards|successful campaign]] to capture the planet Kuat and the strategically important [[Kuat Drive Yards]]. The sector governor Moff [[Pollus Maksim]] and the guild head of Kuat Drive Yards capitulated. During the battle, Ackbar's forces lost fewer ships than their Imperial opponents. The loss of Kuat dealt a serious blow to the Galactic Empire.<ref name="Life Debt" />
+
+Following the battle, Princess Leia contacted Admiral Ackbar by hologram to congratulate him for his role in securing the New Republic's victory. Shortly later, Chancellor Mon Mothma interrupted the conversation to inform her comrades that she had received communication from the Operator, who wanted to meet with the New Republic leadership. Ackbar ordered his comm officer [[Toktar]] to open the Old Alliance frequency Zeta Zeta Nine. The guest turned out to be [[Grand Admiral]] Sloane, the public face of the Galactic Empire. Despite Sloane's claims that she was the Operator, Ackbar did not believe her.<ref name="Life Debt" />
+
+When Sloane addressed Ackbar as Grand Admiral, the Mon Calamari responded that Grand Admiral was an Imperial ranking and accused her of seizing the title for herself. Ackbar's colleague [[Commodore]] Agate soon joined the holo-conversation and accused Sloane of deceiving them. After exchanging some barbs, the New Republic commanders and Grand Admiral Sloane settled down to business. When Sloane revealed that she was interested in initiating [[Imperial-Republic peace talks|peace talks]] with the New Republic, Ackbar curled his chin tendrils to express skepticism. Nevertheless, he acceded to Chancellor Mothma's decision to raise the matter of the peace talks with the Galactic Senate.<ref name="Life Debt" />
+
+In reality, the peace talks were a ruse for the Empire to stage an attack on Chandrila. Rax who had manipulated Grand Admiral Sloane into approaching the New Republic for peace talks as part of his plot to use the liberated prisoners from [[Ashmead's Lock]] to assassinate the New Republic leadership. For this plot, Rax had inserted each of the prisoners with an inorganic bio-chip which allowed him to transmit signals into their brains. This turned the former prisoners into unwilling assassins.<ref name="Life Debt" />
+
+Later, Admiral Ackbar and other New Republic officials greeted the liberated prisoners from Ashmead's Lock when they arrived at Hanna City [[Spaceport]]. After Han Solo and [[Chewbacca]] managed to stage a Wookiee uprising on Kashyyyk, Admiral Ackbar traveled on his ship ''Home One'' to support Princess Leia and Captain Wedge Antilles's [[Phantom Squadron (New Republic)|Phantom Squadron]] in their attack on the orbiting Imperial Star Destroyers. After Solo and Chewbacca hijacked the ''[[Dominion]]'' and destroyed the Star Destroyer ''[[Vitiator]]'', the third Star Destroyer ''[[Neutralizer]]'' surrendered to Admiral Ackbar. Despite the liberation of Kashyyyk, the New Republic forces soon received news of the [[Attack on Chandrila|attack]] on Chandrila.<ref name="Life Debt" />
+
+====Prelude to Jakku====
+{{Quote|None of us are ready. No one can ever be truly ready for what war brings. The best we can do is meet it with our face forward and our hearts clear. You will do that. I know you will.|Admiral Ackbar encouraging Commodore Agate|Aftermath: Empire's End}}
+Following the events on Chandrila, Rax took control of the Imperial fleets and ordered them to assemble above the planet [[Jakku]] for a showdown with the New Republic.<ref name="Life Debt" /> Several months later, Temmin and Rath Velus discovered that the Empire had relocated to Jakku. They informed Chancellor Mothma and Princess Leia but the information was leaked to the press by Chancellor Mothma's rival Senator [[Tolwar Wartol]]. After Wartol publicly attacked Mothma's leadership, Admiral Ackbar reassured Chancellor Mothma that she had made the right decision to withhold the information since she had only obtained it less than a [[standard day]]. After Mon Mothma indicated she would issue a statement to the press, Admiral Ackbar added that he would send a scout ship and [[probe droid]]s to Jakku to investigate.<ref name="Empire's End">''[[Aftermath: Empire's End]]''</ref>
+
+Admiral Ackbar dispatched Ensign Deltura on the scout ship ''[[Oculus]]'' and several probe droids to investigate. After the scouting team confirmed that most of the Imperial remnants had relocated to Jakku, Chancellor Mothma convened an emergency session of the Galactic Senate and urged the Senate to support her resolution to send military forces to the planet. However, the resolution failed by five votes. Following the vote, Admiral Ackbar visited Chancellor Mothma to inform her that the vote had failed. He remarked that this meant that the fleet would not depart for Jakku and that the Empire would remain there.<ref name="Empire's End" />
+
+After Rath Velus managed to convince the five senators to change their votes, the New Republic was able to send its military forces to Jakku. Prior to the battle, Admiral Ackbar managed to convince Commodore Kyrsta Agate to return to her command board the [[Starhawk-class battleship|''Starhawk''-class battleship]] ''[[Concord]]''. Agate had been disfigured during the Attack on Chandrila and had been despondent. He also visited Agate aboard her flagship and praised her as one of his best and brightest officers. When Agate remarked that some of the light had gone out of her, Ackbar complimented her for recognizing the burden of war and for not giving in to anger.<ref name="Empire's End" />
+
+When Agate expressed doubts about her ability to captain the ''Concord'', Ackbar reassured her that none of them were truly ready for what. He added that the best they could was to meet it with forward faces and clear hearts. Ackbar also recognized that the Empire was aware of their presence and added that he would be ready for a full-scale fleet battle. When Agate opined that Jakku could be a ruse, Ackbar reassured her that they would be ready. When Agate asked if they were going to win, Ackbar responded that it would be an honor to fight alongside regardless of whether it was their final battle or the first of many to come. The two then parted company and assumed their battle positions.<ref name="Empire's End" />
+
+====Defeating the Empire====
+{{Quote|Soldiers and pilots of the New Republic! The dreadnought ''Ravager'' is down&mdash;it falls to Jakku! Beware debris and take cover!|Admiral Ackbar during the Battle of Jakku|Aftermath: Empire's End}}
+During the [[Battle of Jakku]], Admiral Ackbar commanded the New Republic fleet. Despite outnumbering the Empire, the New Republic fleet was unable to break through the Imperial defensive lines. The Imperial Star Destroyers had formed a defensive perimeter around the [[Super Star Destroyer]] ''[[Ravager]]'', the Imperial flagship. During the battle, the Star Destroyers would periodically open flank to allow the ''Ravager'' to fire its turbolasers and torpedoes at the New Republic fleet. As a result, several New Republic warships and starfighters were destroyed.<ref name="Empire's End" />
+
+While commanding the space battle, Ackbar also liaised with General [[Tyben]], who was commanding the ground assault via hologram from Chandrila. When Tyben opined that he should be on Jakku with [[Lieutenant General]] [[Brockway]], Ackbar countered that they needed to maintain reserve forces on Chandrila and the new capital [[Nakadia]] in case Jakku turned out to be a ruse. Ackbar then witnessed the Star Destroyer ''[[Punishment]]'' break formation with the Imperial fleet and ram the Starhawk ''[[Amity]]'', destroying both ships. Realizing that Agate's ship ''Concord'' lay in the gap, Ackbar opened the channel to contact Commodore Agate.<ref name="Empire's End" />
+
+Believing they were in danger, Admiral Ackbar ordered the Commodore and her crew to abandon ship. Agate ordered her crew to comply but stayed behind. She realized that the ''Punishment''{{'s}} destruction had created a gap that would allow her ship to attack the ''Ravager''. As the ''Concord'' exchanged fire with the ''Ravager'', Ackbar ordered her to abandon her ship. However, Agate convinced Ackbar to send starfighters and [[CR90 corvette]]s to attack the Super Star Destroyer's exposed flank engines. Despite some arguing, Ackbar finally accepted Agate's sacrifice and prayed that the Force would be with them all.<ref name="Empire's End" />
+
+The ''Concord'' was crippled by the ''Ravager'' and plummeted towards Jakku's surface. However, Agate then activated her ship's powerful [[tractor beam]] and proceeded to drag the Super Star Destroyer down with her. As the two ships descended into Jakku's orbit, Ackbar grabbed the [[intercom]] and warned all New Republic soldiers and pilots that the ''Ravager'' had been downed and to take cover and beware of falling debris. While Ackbar's crew cheered behind him, the Admiral did not cheer but prayed for the Force to protect those below and to accept Agate as one of its own.<ref name="Empire's End" />
+
+The downing of the ''Ravager'' turned the tide of the Battle of Jakku in the New Republic's favor. Meanwhile, Grand Admiral Sloane joined forces with her New Republic adversaries [[Brentin Lore Wexley]] and Norra Wexley to stop Gallius Rax, the [[Counselor to the Empire]], from detonating Jakku and the orbiting Imperial and New Republic fleets.<ref name="Empire's End" /> Following the battle, the New Republic and Galactic Empire signed the [[Galactic Concordance]] which ended the Galactic Civil War. The Galactic Concordance demilitarized and imposed harsh sanctions on the remnants of the Empire. With the war's end, the New Republic turned its attention to restructuring the galactic order.<ref name="TFA Visual" />
+
+====Retirement====
+Sometime later, Ackbar retired to his homeworld of Mon Cala.<ref name="TFA Visual" /> Following the revelations of Leia Organa's parentage as the daughter of Darth Vader, Ackbar along with several other rebel veterans sent messages of support to the embattled New Republic senator. He and several rebel veterans and New Republic personnel later attended a meeting on [[Hosnian Prime]] where Leia formally established the [[Resistance]], a paramilitary group dedicated to protecting the New Republic.<ref name="Bloodline" />
+
+===The Resistance===
+[[File:Gial Ackbar Resistance Base.jpg|thumb|left|250px|Ackbar in the [[Resistance base]] on D'Qar]]
+At some point after his recruitment, Ackbar was captured by the [[First Order]]. Afraid that the First Order might execute him, the Resistance assembled a team led by Captain [[Hoff (Resistance captain)|Hoff]], with the sole purpose of locating Ackbar. Hoff's team eventually captured a First Order droid named [[O-MR1]], who they believed knew the location of Ackbar. On their way back to the Resistance base, the team's ship [[Mission to Taul|crashed]] on [[Taul]], with the only survivors being a group of droids, including O-MR1, led by [[C-3PO]]. The droids began following a signal they received from a First Order vessel, but on their way they were attacked by [[spice spider]]s and later by [[can-cell]], resulting in the destruction of all of the droids, except C-3PO and O-MR1. The two droids finally found the vessel, but before they could contact the Resistance, it began [[Acid rain|raining acid]]. They took cover under another ship's wing, but knew that if they didn't contact help soon, the control panel would melt. O-MR1, who at this point saw C-3PO as his friend, told 3PO the location of Ackbar, before sacrificing himself to contact [[Poe Dameron]] for help. Some time after O-MR1 had melted, Dameron arrived to pick up C-3PO, who told Dameron the location of Ackbar.<ref name="The Phantom Limb">''[[Star Wars Special: C-3PO 1: The Phantom Limb]]''</ref>
+
+[[File:Ackbar on the Raddus.jpg|thumb|250px|Ackbar in the ''Raddus''<nowiki>'</nowiki> bridge]]
+Ackbar was stationed with Organa on [[D'Qar]] during the [[Battle of Starkiller Base]]. He was present when R2-D2 and BB-8 revealed the location of the Jedi Master and Organa's twin brother Luke.<ref name="TFA" /> Following the victory at [[Starkiller Base]], Ackbar attended the [[funeral of Han Solo]], who died at Starkiller at the hands of [[Kylo Ren]], his son.<ref name="Expanded Edition">''[[Star Wars: The Last Jedi: Expanded Edition]]''</ref>
+
+====Death====
+{{Quote|It's been an honor serving with you all.|Gial Ackbar's final words|The Last Jedi Adaptation 2}}
+Following the Battle of Starkiller Base, Ackbar aided the rest of the Resistance in [[Evacuation of D'Qar|evacuating their base]], ordering their fleet to jump to hyperspace and escape the First Order. However, unknown to the Resistance, the First Order had developed technology that allowed them to track ships through hyperspace. The First Order fleet pursued the Resistance and initiated an attack on the bridge of their main [[Raddus (MC85 Star Cruiser)|cruiser]]. Though Kylo Ren could not bring himself to fire on the bridge after sensing his mother's presence there, his wingmates, [[Poldin LeHuse]] and a second [[TIE/sf space superiority fighter|TIE fighter]] had no such qualms and fired missiles upon the primary bridge.<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+
+As one of Ackbar's Mon Calamari aides notified him of the inbound torpedoes, the gruff admiral looked to the crew of the bridge, embracing the fact that his fate had been sealed and there was no chance for escape, and declared his respect for them in the face of [[death]] before the missiles struck the adjacent viewport.<ref name="TLJ Adaption 2">''[[The Last Jedi Adaptation 2]]''</ref> In a huge explosion, Ackbar, the most esteemed military commander of his generation, was gone.<ref name="TLJ Junior Novel" /> Only Organa survived the ordeal, calling on the Force to pull herself back to an [[airlock]]. Ackbar's death was later confirmed by Commander [[Larma D'Acy]] as she confirmed Vice Admiral [[Amilyn Holdo]] as leader of the Resistance while Leia recovered from her vacuum exposition.<ref name="Episode VIII" />
+
+==Personality and traits==
+{{Quote|I'm older. The reason I do this&mdash;stand here and take my kar-shak and continue to practice my kotas&mdash;is because I wish to stay sharp. And flexible. And ahead of my enemies. I know one day that I will fail at this, and we almost failed above Endor. We rushed in. Careless. It almost cost us everything.|Gial Ackbar was a seasoned military commander who kept his mind sharp and his body flexible|Aftermath}}
+[[File:Admiral Ackbar TLJ.png|thumb|left|200px|Ackbar in the command chair aboard the ''Raddus'']]
+Gial Ackbar was a seasoned and accomplished military commander who served with the Mon Calamari Guard, the Rebel Alliance, and its successors the New Republic and Resistance. Ackbar was a mentor to the young Mon Calamari Prince Lee-Char and strove to protect the young prince's life. He believed that Lee-Char was the right claimant to the Mon Cala throne who had the interests of both the Mon Calamari and Quarren in mind. Ackbar taught the young Prince how to lead his people in combat. Despite his valor, Ackbar was also pragmatic enough to order a retreat when the Quarren and their Separatist allies unleashed cyborg Hydroids-Medusa.<ref name="Water War" />
+
+After being driven into hiding, Ackbar advised Lee-Char and his Jedi and Republic allies to split up to avoid capture.<ref name="Gungan Attack" /> Despite his distrust of the Quarren for their connivance with the Separatists, Ackbar acceded to Lee-Char's plan to reunite the Mon Calamari and Quarren against the Separatist leader Karkarodon. Ackbar worked with his former Quarren adversary Nossor Ri to distribute weapons to the Mon Calamari and Republic captives and expel the Separatist invaders from Mon Cala.<ref name="Prisoners" />
+
+By the time of the Galactic Civil War, Ackbar had become an Admiral in the Alliance Navy. He led the successful effort to evacuate the rebel base on Yavin IV following the Battle of Yavin.<ref name="Princess Leia 1" /> Ackbar was also a skilled tactician who devised the successful attack on the second Death Star using plans that had been stolen by [[Bothan]] spies. As a commander, Ackbar also knew how to delegate duties and assigned Han Solo with leading the strike team to deactivate the shield generator on Endor. During the Battle of Endor, Ackbar played an important role in saving many Alliance ships by sending them to attack the Imperial fleet in order to stop the second Death Star from firing on them.<ref name="Star Wars Episode VI: Return of the Jedi" />
+
+Following the events on Endor, Admiral Ackbar commanded a string of New Republic victories which saw the taking of numerous worlds including Akiva, Kuat, and Kashyyyk. His skills and military victories won him the admiration of several of his Imperial foes including Grand Admiral Rae Sloane. While Ackbar found the Imperial informant Operator's information useful, he did not trust the mysterious leaker.<ref name="Life Debt" /> Despite his martial accomplishments, Ackbar still believed in the Force and often included it in his greetings.<ref name="Star Wars Episode VI: Return of the Jedi" />
+
+Admiral Ackbar was suspicious of Grand Admiral Sloane's peace offer. His suspicions were confirmed when the peace offer was used by Fleet Admiral Gallius Rax to launch a sneak attack on the New Republic.<ref name="Life Debt" /> Ackbar encouraged Chancellor Mothma during her difficult times and reassured her that she had been wise not to immediately disclose information regarding Imperial forces on Jakku to the public. Ackbar also mentored Commodore Agate and encouraged her not to give up her command despite being disfigured during the Liberation Day attacks. He also cared for his crew but respected Agate's decision to sacrifice her life during the Battle of Jakku.<ref name="Empire's End" />
+
+In the years after the Galactic Civil War, Ackbar maintained a deep respect for his former comrade Senator Leia Organa. He along with Mon Mothma, Han Solo, Chewbacca, [[Nien Nunb]], and C-3PO remained loyal to Leia despite revelations that she was the daughter of Darth Vader. Ackbar also shared Leia's view that the New Republic lacked the strength to safeguard the galaxy and joined the Resistance.<ref name="Bloodline" /> At the time of Ackbar's death aboard the bridge of the Resistance's main cruiser, upon realizing that he would not survive the missile strike that would take his life, he demonstrated his courage, devotion to their rebellion and respect for his comrades as he took the opportunity to acknowledge them in his final words.<ref name="TLJ Adaption 2" />
+
+==Skills and abilities==
+Though Admiral Ackbar was an accomplished military commander, he also kept his mind sharp and his body flexible by regularly practicing kar-shak against simulated stormtroopers.<ref name="Aftermath" />
+
+==Behind the scenes==
+===Origins and development===
+{{Quote|Having worked for Muppets I was used to having up to six people working together to create one character. I love watching a crew work seamlessly to bring an inanimate object to life.|Tim Rose on portraying Admiral Ackbar|url=http://starwarsinterviews1.blogspot.com/2010/01/tim-rose-interview.html}}
+[[File:Fishhead.jpg|thumb|right|250px|[[Tim Rose]] puts on Ackbar's mask during Episode VI's production]]
+Admiral Ackbar was created for the [[1983]] film [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']], the final installment of the ''[[Star Wars]]'' [[original trilogy]].<ref name="Episode VI" /> Ackbar's first appearance, however, was in ''[[Archie Goodwin]]''{{'s}} comic strip ''[[Revenge of the Jedi]]'', published in the [[Los Angeles Times Syndicate]] from [[November]] [[1982]] to [[January]] 1983.<ref name="Revenge of the Jedi">''[[Revenge of the Jedi]]''</ref> In ''Return of the Jedi'', Ackbar was played by puppeteer [[Tim Rose]] and voiced by voice actor [[Erik Bauersfeld]].<ref name="Episode VI" /> In the ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' television series, Ackbar was voiced by [[Artt Butler]].<ref name="Ackbar in TCW">Truitt, Brian (September 8, 2011). "Admiral Ackbar stars in animated 'Star Wars'." ''[[Wikipedia:USA Today|USA Today]]''. Retrieved September 14, 2011.</ref> Both Rose and Bauersfeld reprised Ackbar in the [[2015]] film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], the first installment of the [[sequel trilogy]], being Bauersfeld's final film role before his death in [[2016]].<ref name="TFA" /> In the [[2017]] sequel [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']], Rose portrayed the character once more while voice actor [[Tom Kane]] voiced Ackbar.<ref name="Episode VIII" />
+
+In the ''Return of the Jedi'', Admiral Ackbar was realized as a combination slip-on mask and half-body puppet. All close-up shots involving dialogue used an extraordinarily detailed puppet controlled by Rose, who puppeteered [[Salacious B. Crumb]] too.<ref name="DB">{{DB|character|admiralackbar|Ackbar, Admiral}}</ref> From [[Wikipedia:Jim Henson|Jim Henson]], Rose was loaned to [[Lucasfilm Ltd.]] during Episode VI's production and was assigned to puppeteer Crumb and [[Sy Snootles]]. Rose asked visual effects supervisor [[Phil Tippett]], however, if he could also perform Ackbar. Rose was familiar with the controls and had already designed much of the puppet by that point, but the only thing that he knew about Ackbar was that he was a background character who was to appear later after the appearance of both Snootles and Crumb at [[Jabba's Palace]], wearing Ackbar's mask during scenes that didn't require a puppet too.<ref name="Rose interview">{{Cite web|publisher=Starwarsinterviews1 Blogspot|title=Tim Rose interview|url=http://starwarsinterviews1.blogspot.com/2010/01/tim-rose-interview.html|accessdate=Oct 13, 2018.}}</ref>
+
+While the character's surname was created by [[George Lucas]] during the production of ''Jedi'' after seeing the mask in the creature shop,<ref name="Galaxy 2">{{GalaxyCite|3|Star FX|Creature Creations}}</ref> Ackbar's first name wasn't coined until the release of the [[Star Wars Legends|''Star Wars'' Legends]] reference book ''[[The Essential Guide to Warfare]]'', written by both [[Jason Fry]] and [[Paul R. Urquhart]] and released on [[April 3]], [[2012]], which established Ackbar's first name as "Gial".<ref name="TEGtW">''[[The Essential Guide to Warfare]]''</ref> Such name was upheld as [[canon]]ical with the release of the reference book ''[[Star Wars: Absolutely Everything You Need to Know]]'', published on [[September 4]], 2015.<ref name="Everything" />
+
+[[File:AckbarCereal.jpg|thumb|left|150px|Admiral Ackbar Cereal from the first ''[[Robot Chicken: Star Wars]]'' special]]
+During development of the [[2005]] film [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']], the final installment of the [[prequel trilogy]], George Lucas was so impressed with the animatronic capabilities of the Mon Calamari [[Meena Tills]] that he considered replacing Ackbar's footage from Episode VI with Tills's mask, as Lucas always felt that the result of Ackber's puppetry technology was a compromise in spite of achieving the latest technology available in 1983. Neverthless, the original footage was ultimately left unaltered.<ref name="Meena DB">{{DB|character|meenatills|Meena Tills}}</ref> Ackbar was present too in the original script for the 2016 [[Star Wars Anthology Series|''Star Wars'' Anthology]] film ''[[Rogue One: A Star Wars Story]]'', but the part of Admiral [[Raddus]] was created to replace Ackbar after [[J.J. Abrams]] featured Ackbar in Episode VII.<ref name="Entertainment Weekly">{{Cite_web|url=http://ew.com/movies/2017/03/24/rogue-one-revisions-tie-fighter-scene-deleted-planet-killed-cameos/|title=''Rogue One'' revisions: The TIE fighter scene, a deleted planet, and killed cameos|accessdate=2017-12-04|author=Anthony Breznican|authorlink=http://ew.com/author/anthony-breznican/|date=2017-03-24|publisher=Entertainment Weekly|archiveurl=http://web.archive.org/web/20171203190336/http://ew.com/movies/2017/03/24/rogue-one-revisions-tie-fighter-scene-deleted-planet-killed-cameos/|archivedate=2017-12-03|quote="I always loved Admiral Ackbar. I wanted to have him in there, but J.J. Abrams got to him first. We didn’t want to use him again after The Force Awakens. So Ackbar became Admiral Raddus. You will see those little evolutions."}}</ref>
+
+===It's a trap!===
+{{Quote|It's a trap!|Admiral Ackbar|audio=ItsATrap-ROTJ.ogg|Star Wars: Episode VI Return of the Jedi}}
+Admiral Ackbar's line "It's a trap!" in ''Return of the Jedi'' has developed into an [[Wikipedia:Internet meme|Internet meme]], viral and popular at websites like [[Wikipedia:4chan|4chan]], [[Wikipedia:GameFAQs message boards|LUELinks.net]], [[Wikipedia:Something Awful|SomethingAwful]] and [[Wikipedia:YTMND|You're the Man Now Dog]].<ref name="meme1">{{Cite web|url=http://knowyourmeme.com/memes/its-a-trap|title=It's a trap!|work=Know Your Meme|accessdate=2010-04-28}}</ref><ref name="meme2">{{Cite web|url=http://boards.ign.com/teh_vestibule/b5296/191499353/p1/|title=How did the "It's a Trap" meme originate?|work=IGN Boards|accessdate=2010-04-28}}</ref><ref name="meme3">{{Cite web|url=http://www.insomnicdreams.com/2007/08/21/rule-34-and-other-memes/|title=Rule 34 (and Other Memes)|work=Insomnic Dreams|accessdate=2010-04-28}}</ref><ref name="meme4">{{Cite web|url=
+http://itsatrap.ytmnd.com/|title=IT'S A TRAP!|work=YTMND - You're the Man Now Dog|accessdate=2010-04-28}}</ref><ref name="meme5">{{Cite web |url=http://ackbarlendsahelpinghand.ytmnd.com/ |title=If only Admiral Ackbar were around more often. |work=YTMND - You're the Man Now Dog|accessdate=2010-04-28}}</ref><ref name="meme6">{{Cite web|url=http://colorit.ytmnd.com/|title=Color ME YTMND|work=YTMND - You're the Man Now Dog|accessdate=2010-04-28}}</ref> The phrase was even used in a sketch of the first ''[[Robot Chicken: Star Wars]]'' special of the satirical TV stop-motion show ''[[Wikipedia:Robot Chicken|Robot Chicken]]''.<ref name="Robot Chicken: Star Wars">''[[Robot Chicken: Star Wars]]''</ref> Tim Rose has also signed autographs with the trademark line to his fans.<ref name="Rose interview" />
+
+==Appearances==
+{{Scroll box|content=
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars Battlefront II]]'' {{Hologram}}
+*{{TCW|Water War}}
+*{{TCW|Gungan Attack}}
+*{{TCW|Prisoners}}
+*''[[Darth Vader: Dark Lord of the Sith 13: Burning Seas, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 14: Burning Seas, Part II]]''
+*''[[Darth Vader: Dark Lord of the Sith 15: Burning Seas, Part III]]''
+*''[[Lost Stars]]''
+*[[Lost Stars (webcomic)|''Lost Stars'' webcomic]]
+*''[[The Adventures of Luke Skywalker, Jedi Knight]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*''[[Star Wars: Battle Pod]]'' {{Voice}}
+*''[[Star Wars Battlefront]]'' {{Hologram}}
+*''[[A Leader Named Leia]]''
+*''[[Princess Leia, Part I]]''
+*''[[Heir to the Jedi]]''
+*''[[Star Wars 4: Skywalker Strikes, Part IV]]''
+*''[[Star Wars 9: Showdown on the Smuggler's Moon, Part II]]''
+*''[[Star Wars 23: The Last Flight of the Harbinger, Part III]]''
+*''[[Star Wars 44: Mutiny at Mon Cala, Part I]]''
+*''[[Star Wars 45: Mutiny at Mon Cala, Part II]]''
+*''[[Star Wars 48: Mutiny at Mon Cala, Part V]]'' {{Mo}}
+*''[[Star Wars 49: Mutiny at Mon Cala, Part VI]]''
+*''[[Star Wars 50: Hope Dies, Part I]]''
+*''[[Star Wars 53: Hope Dies, Part IV]]''
+*''[[Star Wars 55: Hope Dies, Part VI]]''
+*''[[Star Wars 56: The Escape, Part I]]'' {{Mo}}
+*''[[Moving Target: A Princess Leia Adventure]]''
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*''[[Episode VI: Return of the Jedi Read-Along Storybook and CD]]'' {{C|Appears in illustration only}}
+*{{InsiderCite|issue1=149|issue2=150|Blade Squadron (short story)|Blade Squadron}} {{Voice}}
+*''[[Shattered Empire, Part I]]'' {{Voice}}
+*{{InsiderCite|160|Blade Squadron: Zero Hour}} {{Mo}}
+*''[[Aftermath]]''
+*''[[Shattered Empire, Part IV]]''
+*''[[Aftermath: Life Debt]]''
+*''[[Aftermath: Empire's End]]''
+*{{InsiderCite|172|Blade Squadron: Jakku}} {{Voice}}
+*''[[Hyperspace Mountain]]''
+*''[[The Legends of Luke Skywalker]]'' {{Mo}}
+*{{IDWAdventuresCite|4|[[Tales from Wild Space: Mattis Makes a Stand]]}} {{C|Appears through imagination}}
+*''[[Bloodline (novel)|Bloodline]]''
+*''[[Before the Awakening]]'' {{Mo}}
+*''[[Star Wars Special: C-3PO 1: The Phantom Limb]]'' {{Mo}}
+*''[[Poe Dameron 11: The Gathering Storm, Part IV]]'' {{Mo}}
+*''[[Join the Resistance]]''
+*''[[Join the Resistance: Escape from Vodran]]'' {{Mo}}
+*''[[Join the Resistance: Attack on Starkiller Base]]'' {{Mo}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens: A Junior Novel]]''
+*''[[The Force Awakens: Finn's Story]]''
+*[[The Force Awakens (Golden Book)|''The Force Awakens'' Golden Book]] {{Po}}
+*''[[The Force Awakens Read-Along Storybook and CD]]''
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part V]]''
+*''[[Star Wars: The Force Awakens Beginner Game]]''
+*''[[Poe Dameron: Flight Log]]''
+*''[[The Last Jedi: Bomber Command]]''
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[Star Wars: The Last Jedi: A Junior Novel]]''
+*''[[The Last Jedi: Rose and Finn's Secret Mission]]''
+*''[[The Last Jedi Adaptation 1]]''
+*''[[The Last Jedi Adaptation 2]]''
+*''[[Poe Dameron 28: The Awakening, Part III]]'' {{Flash}}
+*''[[Poe Dameron 29: The Awakening, Part IV]]'' {{Mo}}}}
+
+===Non-canon appearances===
+{{Scroll box|content=
+*''[[Star Wars: Galaxy of Heroes]]''
+*{{The Freemaker Adventures|Return of the Kyber Saber}} {{Hologram}}
+*{{The Freemaker Adventures|A New Home}}
+*{{The Freemaker Adventures|Home One (episode)|Home One}}
+*{{The Freemaker Adventures|Thrown Into Battle}}
+*{{The Freemaker Adventures|Rowan's Secret Adventure}}
+*{{The Freemaker Adventures|Zander Freemaker, Superstar Pilot Guy!}}
+*{{The Freemaker Adventures|Beware, the Gamorrean Flu!}}
+*{{The Freemaker Adventures|Trouble on Tibalt}}
+*{{The Freemaker Adventures|The Tower of Aliston Nor}}
+*{{The Freemaker Adventures|The Storms of Taul}}
+*{{The Freemaker Adventures|Return to the Wheel}}
+*{{The Freemaker Adventures|Flight of the Arrowhead}}
+*{{The Freemaker Adventures|A Perilous Rescue}}
+*{{The Freemaker Adventures|Escape from Coruscant}}
+*{{Droid Tales|Exit from Endor}}
+*{{Droid Tales|Crisis on Coruscant (episode)|Crisis on Coruscant}}
+*{{Droid Tales|Gambit on Geonosis}}
+*''[[LEGO Star Wars: Droid Tales Episodes I-III]]''
+*{{The Resistance Rises|Poe to the Rescue}}
+*''[[LEGO Star Wars: The Force Awakens]]''
+*{{All-Stars|The Prisoner of Tatooine}}
+*{{All-Stars|The Droid Rescue Gambit}}
+}}
+
+==Sources==
+{{Scroll box|
+*{{SWE|characters|ackbar|Ackbar}}
+*{{SWE|groups|moncalamari|Mon Calamari}}
+*{{SWE|technology|moncalcruiser|Mon Calamari star cruiser}}
+*{{SWE|groups|rebelalliance|Rebel Alliance}}
+*''[[Ultimate Star Wars]]''
+*{{InsiderCite|152|Blaster (Star Wars Insider)|Blaster}}
+*{{SW|url=b-wing-fighter-biography-gallery|text=B-wing fighter biography gallery}}; image #2
+*{{SW|url=Imperial-Star-Destroyer-Biography-gallery|text=Imperial Star Destroyer biography gallery}}; image #15 {{C|of 15}}
+*{{SW|url=Millennium-falcon-biography-gallery|text="Millennium Falcon" biography gallery}}; image #16 {{C|of 17}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]'' {{1stID|Gial}}
+*''[[Star Wars: Ships of the Galaxy]]''
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars: The Force Awakens: New Adventures]]''
+*{{Topps|set=Star Wars: The Force Awakens Series 1|cardname=Admiral Ackbar}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: ABC-3PO]]''
+*{{SW|url=much-to-learn-you-still-have-10-things-you-might-not-know-about-mon-calamari|text=Much to Learn You Still Have: 10 Things You Might Not Know About Mon Calamari}}
+*''[[Star Wars: Aliens of the Galaxy]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Entertainment Weekly's Ultimate Guide to Rogue One]]''
+*[[Star Wars Helmet Collection 1|''Star Wars Helmet Collection'' 1]]
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*''[[Star Wars: The Last Jedi: Ultimate Sticker Collection]]''
+*''[[Star Wars: The Last Jedi: Heroes of the Galaxy]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{ForceCollection|Admiral Ackbar|star=1}}
+*{{Databank|admiral-ackbar|Admiral Ackbar|archivedate=20170704032047}}
+*{{Databank|captain-gawat|Captain Gawat|archivedate=20180411004947}}
+*{{Databank|home-one|Home One|archivedate=20170820122724}}
+*{{Databank|prince-lee-char|Prince Lee-Char}}
+*{{Databank|rebel-alliance|Rebel Alliance}}
+*{{Databank|wedge-antilles|Wedge Antilles|archivedate=20140714220601}}}}
+
+==Notes and references==
+{{Scroll box|content={{Reflist}}}}
+
+==External links==
+*{{WP|Admiral Ackbar|Ackbar}}
+*[http://blog.sfgate.com/thebigevent/2012/02/21/being-admiral-ackbar-berkeley-man-reflects-on-brush-with-star-wars/ "Being Admiral Ackbar: Berkeley man reflects on brush with ''Star Wars''"] - interview with Ackbar actor Eric Bauerfeld
+*{{SWSB|11|Admiral Ackbar}}
+
+{{Interlang
+|bg=Джиал Акбар
+|cs=Gial Ackbar
+|de=Gial Ackbar#kanon
+|el=Τζίαλ Άκμπαρ
+|es=Gial Ackbar
+|fr=Gial Ackbar
+|hu=Gial Ackbar
+|it=Gial Ackbar
+|ja=ギアル・アクバー
+|ko=기알 아크바
+|nl=Gial Ackbar
+|pl=Gial Ackbar
+|pt=Gial Ackbar
+|ru=Джиал Акбар/Канон
+|uk=Джіал Акбар
+|zh=蓋爾·阿克巴上將
+|deFA=1
+}}
+
+{{DEFAULTSORT:Ackbar, Gial}}
+[[Category:Alliance Fleet admirals]]
+[[Category:Alliance High Command personnel]]
+[[Category:Males]]
+[[Category:Mon Calamari]]
+[[Category:New Republic Defense Fleet admirals]]
+[[Category:Resistance admirals and generals]]

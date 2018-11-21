@@ -1,0 +1,111 @@
+{{Eras}}
+{{Otheruses|title=Fox}}
+{{Character
+|type=Galactic Empire
+|image=[[File:FoxPhaseII-Info.jpg]]
+|name=CC-1010<br />"Fox"
+|homeworld=[[Kamino]]<ref name="Databank:Clone Cmdr.Fox">{{Databank|clone-commander-fox|Clone Commander Fox|archivedate=20170606172602}}</ref>
+|birth=
+|death=[[19 BBY]], [[Coruscant]]<ref name="Dying Light IV">''[[Darth Vader: Dark Lord of the Sith 10: The Dying Light, Part IV]]''</ref>
+|species=[[Human]] {{C|[[Cloning|clone]]}}<ref name="Databank:Clone Troopers">{{Databank|clone-troopers|Clone Troopers|archivedate=20170602182649}}</ref>
+|gender=[[Sexes|Male]]<ref name="Databank:Clone Cmdr.Fox" />
+|height=1.83 [[meter]]s<ref name="Databank:Clone Cmdr.Fox" />
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Databank:Clone Troopers" />
+**[[Coruscant Guard]]<ref name="Databank:Clone Cmdr.Fox" />
+*[[Galactic Empire]]<ref name="Dying Light I">''[[Darth Vader: Dark Lord of the Sith 7: The Dying Light, Part I]]''</ref>
+|masters=
+|apprentices=}}
+{{Quote|Suspect has killed three clones. Code ''Red''. If you see the target, shoot to kill.|CC-1010, to the Coruscant Guard|The Jedi Who Knew Too Much}}
+'''CC-1010''', nicknamed "'''Fox'''," was a [[clone trooper]] [[Clone Commander|commander]] [[Cloning|created]] from the [[DNA|genetic]] [[Clone template|template]] of the [[human]] [[bounty hunter]] [[Jango Fett]]. As one of the clone [[trooper]]s bred for leadership, Fox served as [[commander]] of the [[Coruscant Guard]]&mdash;an elite [[division]] of the [[Grand Army of the Republic]], composed of [[clone shock trooper]]s who were stationed on the [[Galactic Republic]] [[capital]] [[Planet|world]] of [[Coruscant]] as a [[Law enforcement agency|domestic security force]]. A highly decorated and fearless [[soldier]], noted for [[Sexes|his]] sense of duty and honor, Fox lived to serve and protect the [[Senator|members]] of the [[Galactic Senate]], including their [[Democracy|elected]] leader, [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]].
+
+Fox continued to lead the Coruscant Guard during the early [[Standard day|days]] of the [[Galactic Empire]], the [[Dictatorship|authoritarian]] [[Politics|government]] that [[Proclamation of the New Order|replaced]] the Republic by the end of the [[Clone Wars]]. However, Fox was ultimately [[Death|executed]] by the [[Sith Lord]] [[Anakin Skywalker|Darth Vader]], who broke the veteran commander's neck [[Telekinesis|by way]] of the [[dark side of the Force]] after the shock troopers opened [[fire]] on Vader, having mistook him for a [[Order 66|fugitive]] [[Jedi]].
+
+==Biography==
+===Clone Wars===
+CC-1010, a [[Cloning|clone]] who went by the nickname "Fox,"<ref name="Databank:Clone Cmdr.Fox" /> was bred from the [[DNA|genetic material]] of [[Jango Fett]] as part of a program to grow an [[army]] on the the [[planet]] [[Kamino]].<ref name="Databank:Clone Troopers" /> In [[22 BBY]], approximately one [[Standard decade|decade]] after the initial creation of the [[Clone trooper|clone army]],<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref> Fox and his brethren were called to service by the [[Galactic Republic]], resulting in the formation of the [[Grand Army of the Republic]] and the [[Battle of Geonosis|start]] of the [[Clone Wars]]. While thousands of clone [[trooper]]s served on the front lines under the leadership of the [[Jedi Order]],<ref name="Databank:Clone Troopers" /> Fox was stationed on [[Coruscant]] where he served as [[Clone Commander|commander]] of the [[Coruscant Guard]]. Under Fox's command, the Guard served as [[Law enforcement agency|peacekeepers]] on the Republic [[capital]] and were also responsible for the safety of the [[Galactic Senate]] as well as [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]].<ref name="Databank:Clone Cmdr.Fox" />
+
+====Protecting Coruscant====
+{{Quote|Should we arrest the Hutt, Senator?|CC-1010, to Senator Amidala, after apprehending Ziro|audio=ShouldWeArrestTheHutt-TCWf.ogg|Star Wars: The Clone Wars (film)}}
+[[File:Raid on Ziro's Palace.png|thumb|left|300px|Commander Fox and the Coruscant Guard raided Ziro's palace to rescue Senator Padmé Amidala.]]
+During the [[Battle of Teth|mission]] to rescue [[Rotta]], son of [[Jabba Desilijic Tiure]], the [[Hutt]] [[crime lord]] [[Ziro Desilijic Tiure/Canon|Ziro]] made [[Senator]] [[Padmé Amidala]] his [[prisoner]] in order to prevent her from exposing his part in Rotta's abduction. She was ultimately liberated by the efforts of [[Commander]] Fox and a contingent of [[clone shock trooper]]s who [[Raid on Ziro the Hutt's Coruscant pleasure palace|raided]] Ziro's [[Ziro's Palace|establishment]] in [[Galactic City]], having been informed of the Hutt's illegal actions by Amidala's [[protocol droid]] [[C-3PO]]. After eliminating the security [[droid]]s, Fox arrested Ziro who, confessed his betrayal to Jabba<ref name="TCW (f)">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]</ref> before being taken to [[prison]] at the [[Republic Judiciary Central Detention Center]].<ref name="Assassin">{{TCW|Assassin (episode)|Assassin}}</ref><ref name="HC">{{TCW|Hostage Crisis}}</ref>
+
+The capture of Ziro consequently led to a [[Senate hostage crisis|crisis]] on Coruscant when a group of senators were taken hostage by several [[Mercenary|mercenaries]], including the [[bounty hunter]] [[Cad Bane]]. In response, a [[squad]] of shock troopers secured the [[Emperor's office|Chancellor's office]] in the [[Senate Office Building|Senate headquarters]] while Fox and his [[troop]]s surrounded the detention center to prevent Ziro's escape. In spite of his efforts, Fox was forced to allow the [[bounty]] hunters to leave with Ziro in order to save Bane's hostages.<ref name="HC" />
+
+[[File:FoxFooled-HOBS.png|thumb|right|300px|Fox was fooled by a group of Separatist droids that he referred to as "stupid droids."]]
+In [[21 BBY]], a group of modified [[demolition droid]]s were sent to disrupt the [[Confederate–Republic peace initiative]] on Coruscant. At the [[time]] Fox was tasked with protecting the [[central power distribution grid]] on [[Level 5000]]. The droids deceived him with a security clearance code, which Fox deemed authentic. As a result, the droids completed their mission by destroying power grid, causing a [[Ecumenopolis|city-wide]] blackout on Coruscant. Infuriated by the Confederacy's [[terrorist]] attack on the [[The galaxy|galactic]] capital, the Senate rejected the peace initiative.<ref name="Heroes on Both Sides">{{TCW|Heroes on Both Sides}}</ref>
+
+====Hunting fugitives====
+{{Quote|Can't say I blame you, Commander Tano, but all the same, you're under arrest.''"<br />"''I&ndash;n&ndash;no. I did not do this.|CC-1010 and Ahsoka Tano, after Letta Turmond was killed while Tano was in her cell|The Jedi Who Knew Too Much}}
+[[File:RexFoxArgue-TJWKTM.png|thumb|left|300px|Fox and Rex argued about Ahsoka Tano as the rogue Padawan fled from the military.]]
+Following the [[Bombing of the Jedi Temple hangar|terrorist attack]] on the [[Imperial Palace|Jedi Temple]] of Coruscant in [[19 BBY]], [[Letta Turmond]] was imprisoned in the [[Naval Intelligence headquarters|Republic Center for Military Operations]] due to her participation in the attack. [[Ahsoka Tano]], the [[Jedi]] [[Padawan]] who arrested the terrorist, visited the facility at Turmond's request, but was required to surrender her [[lightsaber]]s to Commander Fox as a security precaution. Although the clone initially praised Tano for bringing Turmond to justice, he was compelled to arrest her after Turmond [[Force choke|was strangled to death by way]] of [[the Force]]. Unknown to Fox,<ref name="TJWKTM">{{TCW|The Jedi Who Knew Too Much}}</ref> Turmond was murdered by the [[Dark side of the Force|fallen]] Jedi [[Barriss Offee]], whose distorted views led her to commit acts of betrayal and terrorism.<ref name="Databank:Barriss">{{Databank|barriss-offee|Barriss Offee|archivedate=20170809140158}}</ref> Offee further tainted her incarcerated comrade's reputation by killing three clone officers with her lightsaber, leading Fox to believe that Tano was the culprit. In response to Tano's [[Escape from the Republic military base|escape attempt]], Fox deployed the Coruscant Guard alongside [[Jedi General]] [[Anakin Skywalker]] and [[Clone Captain]] [[Rex|CT-7567]] ("Rex") as they pursued the Jedi escapee.<ref name="TJWKTM" />
+
+In the aftermath of the [[Capture of Ahsoka Tano|incident]] with Tano,<ref name="TCJ">{{TCW|To Catch a Jedi}}</ref> whose innocence was proven after Skywalker disrupted her [[Trial of Ahsoka Tano|trial]] to reveal Offee as the real [[Treason|traitor]],<ref name="TWJ">{{TCW|The Wrong Jedi}}</ref> Fox was ordered to hunt another fugitive&mdash;the [[Advanced Recon Commando|ARC trooper]] [[CT-5555]] ("Fives") of the [[501st Legion]]. Fives fled from the [[Grand Republic Medical Facility]] where he had attempted to assassinate Chancellor Palpatine after learning of his involvement in a conspiracy to [[Jedi Purge|destroy]] the Jedi Order. Tracking the renegade clone to [[Level 1315]], Fox and a contingent of clone shock troopers confronted Fives, demanding that he stand down. In his panic and desperation, the ARC trooper raised a [[blaster pistol]] at the approaching guards, but Fox opened fire, killing Fives with a shot through his [[heart]].<ref name="Orders">{{TCW|Orders}}</ref>
+
+====Order 66====
+{{Quote|I was here on Coruscant. Did my part&mdash;all the clones did. Shut those Jedi agitators down cold.|CC-1010, recalling his involvement in Order 66|Darth Vader: Dark Lord of the Sith 9: The Dying Light, Part III}}
+During [[Order 66]] and the [[attack on the Jedi Temple]] in the early stages of the Jedi Purge, Commander Fox participated in its implementation on Coruscant along with the other clones. As a result, he regarded the Jedi<ref name="Dying Light III">''[[Darth Vader: Dark Lord of the Sith 9: The Dying Light, Part III]]''</ref>&mdash;who had been accused of treason by Chancellor Palpatine<ref name="ROTS">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>&mdash;as agitators.<ref name="Dying Light III" />
+
+===Imperial service===
+{{Quote|We've got two full companies here, plus a big contingent of Coruscant Security Force. The whole place is surrounded. No one's getting past us.''"<br />"''See that they do not.|CC-1010 and Darth Vader|Darth Vader: Dark Lord of the Sith 9: The Dying Light, Part III}}
+[[File:ImperialCommanderFox2.png|thumb|right|300px|Fox had the Jedi Temple surrounded by the Coruscant Guard, in accordance with Darth Vader's instructions.]]
+Following the initiation of Order 66 and the Republic's [[Proclamation of the New Order|transformation]] into the [[Galactic Empire]], Fox and a group of clone shock troopers were patrolling the grounds of Coruscant. The Jedi Master and [[Chief Librarian|librarian]] [[Jocasta Nu]] used the Force to [[mind trick]] the guards in order to pass them safely. She then proceeded to [[Hunt for Jocasta Nu|infiltrate]] the [[Jedi temple|Jedi Temple]] through a secret doorway.<ref name="Dying Light I" /> Soon after, Nu's presence was discovered in the Jedi Temple, and [[Darth]] Vader ordered the Coruscant Guard to lock down the perimeter. Fox deployed two full [[Company|companies]] alongside a contingent of [[Coruscant Security Force]]. Before entering the Temple to capture Nu, Vader left Fox and his shock troopers with orders to keep the Temple under lockdown.<ref name="Dying Light III" /> After a confrontation with Vader and [[the Grand Inquisitor]], she escaped through a hole made by her on the temple's wall. As the [[Sith Lord]] went after her, Fox's men had him mistaken for a Jedi and opened fire, but the commander ordered them to stop. Vader confronted Fox and asked why he had not provided his description to his troops, and Fox tried to defend himself, but Vader broke the clone's neck, killing the commander.<ref name="Dying Light IV" />
+
+==Personality and traits==
+{{Quote|A lot of innocent people died in that blast. Good job capturing her.|CC-1010, expressing his satisfaction with Ahsoka Tano's arrest of Letta Turmond|The Jedi Who Knew Too Much}}
+[[File:AhsokaUnderArrest-TJWKTM.png|thumb|left|300px|Bound by his sense of duty to the Republic, Fox arrested Ahsoka Tano as a suspect in the murder of Letta Turmond.]]
+Commander Fox was a [[human]] [[Sexes|male]] clone who stood at 1.83 [[meter]]s,<ref name="Databank:Clone Cmdr.Fox" /> a physical trait he inherited from his [[Clone template|template]] Jango Fett.<ref name="Databank:Clone Troopers" /> He was also a fearless [[soldier]] who led the elite Coruscant Guard shock troopers into combat, and was always the first to charge into battle. As with the rest of the Guard, Fox possessed a strong sense of duty and honor which compelled him to loyally serve and protect the Republic's highest governing body&mdash;the Galactic Senate and the Supreme Chancellor. His service was exemplary, leading him to become one of the most highly decorated soldiers in the Grand Army of the Republic.<ref name="Databank:Clone Cmdr.Fox" />
+
+Like the rest of his clone brethren, Fox was fiercely loyal to the Galactic Republic, and had little patience for criminals such as the terrorist Letta Turmond. When Turmond died in her cell, Fox stated that he did not personally blame Ahsoka Tano, but nonetheless arrested her as a suspect for the murder of Turmond. Later, he unhesitatingly ordered his guards to kill Tano, whom he believed responsible for the deaths of several clones during her escape, but grudgingly complied with Anakin Skywalker's orders to capture the Padawan alive.<ref name="TJWKTM" /> After Fives' failed attempt to kill Chancellor Palpatine, Fox executed the rogue ARC trooper, but not before giving him a chance to surrender.<ref name="Orders" />
+
+==Equipment==
+As a clone soldier who served in the early period of the Clone Wars, Commander Fox wore the standard [[Phase I clone trooper armor]] albeit with the [[Color|crimson]] markings and original pattern design of the Coruscant Guard. In addition to his [[armor]], Fox wore a [[kama]] and a customized helmet similar to the one worn by [[CC-2224]] of the [[212th Attack Battalion]].<ref name="TCW (f)" /> With the introduction of [[Phase II clone trooper armor]], Fox switched to the upgraded version alongside his unit. His new armor was colored mainly in red which in fact is the inverted color scheme of the standard kit of the clone shock troopers.<ref name="TJWKTM" /> His weapons included the standard [[DC-15 blaster rifle]]<ref name="TCW (f)" /> and a pair of [[DC-17 hand blaster]]s.<ref name="TJWKTM" />
+
+==Appearances==
+{{Imagecat|Images of CC-1010}}
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]] {{1st}}
+*{{TCW|Hostage Crisis}}
+*{{TCW|Hunt for Ziro}} {{Flash}}
+*{{TCW|Heroes on Both Sides}}
+*{{TCW|Deception}}
+*{{TCW|The Jedi Who Knew Too Much}}
+*{{TCW|To Catch a Jedi}} {{Flash}}
+*{{TCW|Orders}}
+*''[[Darth Vader: Dark Lord of the Sith 7: The Dying Light, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 9: The Dying Light, Part III]]''
+*''[[Darth Vader: Dark Lord of the Sith 10: The Dying Light, Part IV]]''
+
+==Sources==
+*{{SW|url=tv-shows/clone-wars/hostage-crisis|text="Hostage Crisis" Episode Guide - ''The Clone Wars''}} {{Po}}
+*{{SW|url=tv-shows/clone-wars/the-jedi-who-knew-too-much|text="The Jedi Who Knew Too Much" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/orders|text="Orders" Episode Guide - ''The Clone Wars''}}
+*{{SWE|characters|clone-commander-fox|Clone Commander Fox}}
+*{{SWE|groups|coruscant-underworld-police|Coruscant underworld police}}
+*{{SWE|technology|republic-police-gunship|Republic police gunship}}
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|arc-trooper-fives|ARC Trooper Fives|archivedate=20170707054534}}
+*{{Databank|clone-captain-rex|Clone Captain Rex|archivedate=20170827024953}}
+*{{Databank|clone-commander-fox|Clone Commander Fox|archivedate=20170606172602}}
+*{{Databank|coruscant|Coruscant|archivedate=20170705001748}} {{Po}}
+*{{Databank|coruscant-guard|Coruscant Guard|archivedate=20170705040948}}
+*{{Databank|coruscant-underworld-police|Coruscant Underworld Police|archivedate=20170707044940}}
+*{{Databank|police-gunship|Police Gunship}}
+*{{Databank|ziro-the-hutt|Ziro the Hutt}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ja=CC-1010
+|ru=КК-1010/Канон
+}}
+
+[[Category:Clone trooper commanders]]
+[[Category:Coruscant Guard troopers]]

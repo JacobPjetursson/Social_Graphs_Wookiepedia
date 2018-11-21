@@ -1,0 +1,286 @@
+{{Eras}}
+{{Update|[[Star Wars: Jedi of the Republic – Mace Windu]]}}
+{{Character
+|type=Jedi
+|image=[[File:Kit Fisto Card Trader.png]]
+|name=Kit Fisto
+|homeworld=[[Glee Anselm]]<ref name="SWE">{{SWE|characters|kitfisto|Kit Fisto}}</ref>
+|birth=
+|death=[[19 BBY]], [[Coruscant]]<ref name="ROTS">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|species=[[Nautolan]]<ref name="SWE" />
+|gender=[[Sexes|Male]]<ref name="SWE" />
+|height=1.96 [[meter]]s<ref name="SWE" />
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="AOTC">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|skin=Green<ref name="AOTC" />
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="AOTC" />
+**[[Jedi High Council]]<ref name="ROTS" />
+**[[Jedi assault team]]<ref name="AOTC" />
+**[[Mace Windu's squad]]<ref name="Windu, Part I">''[[Jedi of the Republic&mdash;Mace Windu, Part I]]''</ref>
+*[[Galactic Republic]]<ref name="AOTC" />
+**[[Grand Army of the Republic]]<ref name="AOTC" />
+|masters=
+|apprentices=[[Nahdar Vebb]]<ref name="Lair of Grievous">{{TCW|Lair of Grievous}}</ref>}}
+{{Quote|His skills with a lightsaber are unrivaled and, as a Nautolan his aptitude for surviving in harsh environments will prove invaluable.|Mace Windu on Kit Fisto|Jedi of the Republic—Mace Windu, Part I}}
+'''Kit Fisto''' was a [[Nautolan]] [[Jedi Master]] during the last [[Standard year|years]] of the [[Galactic Republic]]. He was among the [[Jedi]] who fought in the [[Battle of Geonosis]] and was one of the few survivors out of the 200 Jedi who fought in the battle.
+
+He became a [[Jedi General]] of the Clone Army in the [[Clone Wars]] and took part in such conflicts as the [[Mission to Vassek 3]] and the [[Battle of Mon Cala]]. He was also involved in a mission with his former [[Padawan]] [[Nahdar Vebb]] to capture the escaped prisoner, [[Nute Gunray]]&mdash;however, the two ended up facing the notorious [[Jedi hunter]] [[General]] [[Grievous]] inside his lair. While Vebb [[Death|perished]] at the hands of the General, Fisto very nearly bested him in combat, and escaped with his life, but without Gunray, ultimately making the mission a failure. At some point during the Clone Wars, Fisto was accepted as a member of the [[Jedi High Council|Jedi Council]].
+
+While he was at the [[Imperial Palace|Jedi Temple]], [[Anakin Skywalker]] revealed to [[Mace Windu]] that [[Supreme Chancellor|Chancellor]] [[Darth Sidious|Sheev Palpatine]] was a [[Sith Lord]]. Windu took Fisto, alongside Jedi Masters [[Agen Kolar]] and [[Saesee Tiin]] to [[Emperor's office|Palpatine's office]] to arrest him. In the following [[Duel in Palpatine's office|duel]], after Kolar and Tiin had perished, Fisto was killed by the Chancellor.
+
+==Biography==
+At some point prior to the [[Clone Wars]], Fisto accepted the young [[Force-sensitive]] [[Mon Calamari]] [[Nahdar Vebb]] as his [[Padawan]] apprentice, and [[Jedi training|trained]] [[Sexes|him]] in the ways of [[the Force]]. They went their separate ways after Vebb passed the [[Jedi Trials|Trials]] and earned the title of [[Jedi Knight]].<ref name="Lair of Grievous" />
+
+===Onset of the Clone Wars===
+====Battle of Geonosis====
+{{Quote|Oh dear! I'm terribly sorry about all this.|C-3PO as he shoots at Kit Fisto|Star Wars: Episode II Attack of the Clones}}
+[[File:KitFistoGeonosis.png|thumb|left|240px|Kit Fisto, alongside [[Pablo-Jill]], ignites his lightsaber at the start of the First Battle of Geonosis.]]
+By [[22 BBY]], tensions between the [[Galactic Republic]] and the [[Confederacy of Independent Systems]] were growing at an alarming rate. After [[senator]] [[Padmé Amidala]] of [[Naboo]] narrowly survived multiple [[assassin]]ation attempts, [[Jedi Master]] [[Obi-Wan Kenobi]] was sent out to track down and find the person behind it. He eventually discovered it was [[bounty hunter]] [[Jango Fett]], and subsequently [[Dogfight over Geonosis|followed]] him to the barren [[Planet|world]] of [[Geonosis]]. There, he discovered that the Separatists had been developing their own [[Separatist Droid Army|droid army]], and contacted the [[Imperial Palace|Jedi Temple]] about his findings moments before he was discovered, and captured. [[Mace Windu]] then made the decision to assemble a [[Jedi assault team]], made up of the 200 available [[Jedi]] to crush the [[droid]] [[army]] the Separatists had been creating, and to rescue Obi Wan.<ref name="AOTC" />
+
+Fisto was one of the many Jedi sent out to Geonosis, as part of the Jedi assault team. Upon arriving on Geonosis, Fisto and the Jedi infiltrated the [[Petranaki arena|arena]], and hid until the [[time]] was right. After Windu revealed himself to [[Count]] [[Dooku]], the [[Head of State|leader]] of the Separatists, they deployed their newfound droid army, and so the Jedi revealed themselves. With thousands of droids in front of them, Fisto and the other Jedi ignited their [[lightsaber]]s, running toward them and began cutting them down one by one. At one point during the [[Battle of Geonosis|battle]], Fisto encountered a malfunctioning droid with the head of [[C-3PO]], Amidala's [[protocol droid]] which took several potshots at him whilst apologizing for doing so. Deflecting the shots, Fisto knocked the mismatched droid over with a quick Force push. When its final shot hit a [[B2 super battle droid|Super Battle Droid]] and pinned it down, Fisto smiled in amusement before leaping back into the fray.<ref name="AOTC" />
+
+[[File:KitGeonosis.png|thumb|261x261px|Kit Fisto leads a group of clone troopers in the Battle of Geonosis.|right]]
+In the height of the battle, where it seemed that the Separatists had gotten the upper hand, having [[Death|killed]] most of the 200 Jedi sent there in the first place to rescue Kenobi, Skywalker and Amidala, the remaining Jedi, including Fisto, were encircled by [[battle droid]]s. Before they could be executed, they were rescued by the Republic's newly-acquired [[Grand Army of the Republic|clone army]], led into the arena by [[Yoda]] aboard [[Low Altitude Assault Transport/infantry|gunships]]. Fisto survived the arena skirmish, escaping on board a gunship along with fellow Jedi Mace Windu and [[Ki-Adi-Mundi]].<ref name="AOTC" />
+
+Fisto continued to fight outside the arena, leading a special unit of the newly arrived [[clone trooper]]s against the remaining droids.<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> The [[Nautolan]] Jedi ultimately survived the battle.<ref name="AOTC" />
+
+====Mission to Hissrich====
+[[File:Fisto @ Hissrich.jpg|thumb|220x220px|left|Fisto on Hissrich]]
+Fisto was assigned to Master Windu's [[Mace Windu's squad|squad]], where they undertook a [[Mission to Hissrich|mission]] to [[Hissrich]]. After they made their landing, Fisto and the rest of the squad attacked a droid patrol. After taking out the patrol, Fisto and the others then made contact with the natives.<ref name="Windu, Part I" /> They made their way to a cave, where the natives lived. Fisto spoke with Master [[Tenth Brother|Prosset Dibs]] about the reason behind the Separatists' presence on Hissrich. Windu and the squad then saw the Separatists drilling into the caverns from above.<ref name="Windu, Part II">''[[Jedi of the Republic&mdash;Mace Windu, Part II]]''</ref>
+
+Fisto and the rest squad fought the [[Droideka|Destroyer droids]] and battle droids on [[Single Trooper Aerial Platform|STAPs]]. Fisto was able to take out of one of the STAPs by using the Force to throw rocks at it. Fisto saved Windu from falling to his death by the Separatist commander, [[AD-W4]]. After the squad split up, Fisto went with Master Dibs and attempted to protect the natives from the battle droids. Unfortunately, the cavern collapsed.<ref name="Windu, Part II" /> Fisto and Dibs survived, but Dibs insisted on seeing to the wounded natives. Fisto assured him that the natives had survived and found refuge.<ref name="Windu, Part III">''[[Jedi of the Republic&mdash;Mace Windu, Part III]]''</ref>
+
+Fisto and Dibs then came under attack by a [[Milodon]]. After they killed it, they found several of the natives who were killed. Fisto and Dibs were then rejoined by Masters Windu and [[Rissa Mano]]. There, Dibs challenged Windu for "lying" to them. Fisto and Mano stood by as Windu and Dibbs fought each other.<ref name="Windu, Part III" /> Fisto and Mano spoke about how Windu and Dibbs should not be fighting each other. Windu was able to subdue Dibs after finishing their duel. With the duel over, Fisto and Mano went with Windu to infiltrate the [[Separatist outpost (Hissrich)|droid base]]. Fisto made a boisterous entrance and was confronted by many [[B1 battle droid]]s.<ref name="Windu, Part IV">''[[Jedi of the Republic&mdash;Mace Windu, Part IV]]''</ref>
+
+Fisto fought the droids, while Windu and Mano infiltrated deeper into the base. Fisto was surrounded but was saved by Mano and the two were able to finish off the last of the battle droids. Following their victory over the separatists, Fisto and the others returned to Coruscant, where Fisto meditated.<ref name="Windu, Part V">''[[Jedi of the Republic&mdash;Mace Windu, Part V]]''</ref>
+
+====Lair of General Grievous====
+{{Quote|Why don't you come out General; show us some of that Separatist hospitality!|Kit Fisto to General Grievous|Lair of Grievous}}
+[[File:FistoOverVassekMoon-LoG.jpg|right|thumb|250px|Fisto arrives in the Vassek system]]
+Following [[Viceroy]] [[Nute Gunray]]'s [[Rescue on the Tranquility|escape]] from the ''[[Tranquility]]'', Kit Fisto was contacted by the two Jedi escorts that had been accompanying Gunray, [[Luminara Unduli]] and [[Ahsoka Tano]], as his [[Kit Fisto's fleet|fleet]] was nearby Gunray's position. The two tasked him with tracking Gunray's stolen ship down<ref name="CoD">{{TCW|Cloak of Darkness}}</ref>, and bringing him back so that he should face trial after the attempted kidnapping of Senator Padmé Amidala on [[Rodia]].<ref name="BJ">{{TCW|Bombad Jedi}}</ref> Kit Fisto tracked the location of the stolen ship to the [[Vassek system]]. Upon arriving, he contacted the two [[Sexes|female]] Jedi to let them know of his progress, to which they let him know that his former Padawan, [[Nahdar Vebb]], had already trailed the stolen ship, and had landed on the surface of [[Vassek 3|Vassek's third moon]]. Upon landing on the moon's surface, Fisto reunited with Vebb, congratulating him on his promotion to the rank of [[Jedi Knight]], and expressed his sorrow that he could have not seen the last of his trials. Fisto, Vebb, and several clone troopers then continued to trace the tracking beacon to the entrance of a large fortress, which appeared to be sealed shut. Vebb suggested cutting open the door, while [[Clone Commander]] [[Fil]] expressed that they should blow it up. Assessing the situation, Master Fisto simply pressed a specific part of the door, and it opened, allowing them to walk inside.<ref name="Lair of Grievous" />
+
+[[File:CaptainKitAndHisRedshirts-LoG.png|left|thumb|230px|Kit Fisto, Nahdar Vebb, Fil and the clone troopers as they arrive at the castle.]]
+As the group roamed the dimly lit corridors of the fortress, Kit Fisto noted that he sensed something. Moments later, they heard a screeching noise before finally discovering a hall in which they could see and hear what they thought to be Gunray addressing orders to his battle droids. The two Jedi then simply strolled in, and with ease cut down the droids. Thinking they had caught the Vicroy, Nahdar Vebb used the force, to swerve his chair to face them, to which they saw him as a [[hologram]]. Gunray exclaimed that they were fools and welcomed them to their supposed doom. Moments later, a hologram of Count Dooku appeared, who apologized for the deception, and offered them an alternative prize, before flickering off, leaving the Jedi stumped. The group then continued walking through the familiar looking corridors in an attempt to find out why they had been lured there. They eventually stumbled upon an armory, which immediately led Fisto the conclusion that they were in the [[Grievous's fortress|lair]] of [[General]] [[Grievous]], as it contained several of his spare masks, body armor and lightsabers from his jedi kills. Kit Fisto was left utterly confused as to why Count Dooku would lure them there as a trap for his own ally. While he discussed the matter with Nahdar, they received a transmission that there was an incoming ship, and that it matched that of Grievous' ship. Master Fisto, Vebb and Fil then debated what they should do. Nahdar Vebb noted that killing Grievous could turn the tide of the war, but Fisto warned him that they should not underestimate the cyborg warrior.<ref name="Lair of Grievous" />
+
+As Grievous entered his lair, the Jedi and the clones quickly sprung to surprise attack him. Kit Fisto welcomed him back into his home, and requested he surrender so that the senate would be more merciful. The cyborg responded that Fisto would be the one begging for mercy, as he ignited his four lightsabers. They briefly dueled, while the clone troopers used the cables attached to their weapons to tug on his legs. Fisto was then able to slice off his legs, leaving him only able to crawl and climb using his upper limbs. The general still managed to kill several clone troopers, before escaping to his control room. Nahdar Vebb angrily claimed that he would have been able to finish him off, had the clones not gotten away, before Fisto suggested they take care of the wounded. Upon examining the dead, Vebb expressed that he could take Grievous, but Kit Fisto once again reminded him that he was not ready to. The group then attempted to leave the castle, but before they could, they were locked in. Grievous then ordered his [[IG-100 MagnaGuard|magna guards]] to destroy their shuttle outside. Before they were able to also destroy [[Kit Fisto's Delta-7B Aethersprite-class light interceptor|Fisto's starfighter]], his [[astromech droid]], [[R6-H5]] piloted it away, narrowly escaping.<ref name="Lair of Grievous" />
+
+[[File:FistoSurpise.png|right|thumb|240px|Kit Fisto and the rest of the group surprise attack Grievous.]]
+Grievous then appeared on a hologram, and proceeded to taunt the remaining group. Fisto fired back asking Grievous to come out of hiding, to which he replied that while they wait they should experience all his home had to offer. As his hologram flickered off, the floor beneath them disappeared. Fisto and Vebb were able to easily jump back onto the floor still remaining, however one clone trooper fell to his death. Clone commander Fil dispersed his cable, and was pulled back up by the Jedi. A short while after recovering from what had just happened, Grievous deployed his pet [[roggwart]] [[Gor]], in an attempt to finally finish them off. After Fil began firing his blaster at the beast, Gor grabbed him, then repeatedly smacking him against the ground using its tail, ultimately leading to the clone commander's death. Master Fisto was then able to chop Gor's front limbs off, as Vebb stabbed it in the back. The beast then fell to the ground, as the Nautolan Jedi stabbed it in the neck, finishing it off. Fueled with anger and rage after the death of Fil, Vebb vowed that he would take revenge for what Grievous had done. Kit Fisto then reminded him that it was not the Jedi way, and that he must always remember his teachings.<ref name="Lair of Grievous" />
+
+[[File:FistovsGrievous.png|left|thumb|240px|Kit Fisto and Grievous duel on the landing platform of the castle.]]
+The duo eventually witnessed Grievous leaving his control room and watched him as he entered a sequence to lock the security door. After Grievous had gone, Fisto went to re-enter the sequence, but as he did, they heard his [[medical droid]] alert him that they were trying to enter. The door then opened, and Fisto walked in, but Nahdar did not and protested that they should make an attempt to finish off the cyborg warrior instead. The medical droid then shut the door from his control panel, separating them. With no other options, Fisto made his way up to the control room, and killed the medical droid. Through the security cameras, he watched helplessly as Grievous mercilessly killed his old Padawan. With the chance of killing Grievous gone, Fisto instructed R6 to meet him at the castle's landing platform, so that he may finally leave. Just as he was about to board his starfighter, Grievous suddenly appeared, and the two engaged in a lightsaber duel. Clearly the better swordsman, Fisto was able to sever one of the cyborg's hands, and reclaimed Vebb's lightsaber. He then made use of the Force to push Grievous over, but was then met with several of his magna guards. Fisto briefly fought with them, but was outnumbered. Grievous, acknowledging Fisto as a truly worthy opponent, promised him a swift death if he surrendered to which the Nautolan apparently complied. In the nick of time, R6 flew the starfighter directly behind the Jedi Master, who merely delivered his signature little smile before leaping up and onto the ship, flying away.<ref name="Lair of Grievous" />
+
+Upon arriving back on [[Coruscant]], Fisto reported to [[Jedi High Council|Jedi council]] members Yoda and Mace Windu on the events that had occurred. When asked what happened to Nadhar, Fisto told them how his former apprentice had attempted to answer Grievous's power with his own. Yoda mentioned how it was not the Jedi way to answer power with power, and how in the war it was possible for the Jedi to forget who they were.<ref name="Lair of Grievous" />
+
+====The Holocron heist====
+{{Quote|Good morning, Master Fisto.|Jocasta Nu greeting Fisto as he entered the Holocron Vault.|Holocron Heist}}
+After a [[First battle of Felucia|mission]] on [[Felucia]], in which Padawan Ahsoka Tano repeatedly disobeyed direct orders from both her master [[Anakin Skywalker]], and Obi Wan Kenobi; upon returning to the [[Imperial Palace|Jedi Temple]], as a punishment she was given the task of becoming a guard for [[Jedi Archives]] for a short time, under the wing of [[Jocasta Nu]]. After arriving and meeting the librarian Jedi, she began lecturing the young Padawan on the Jedi Archives. They eventually reached the [[Holocron Vault]], where they witnessed Kit Fisto, about to enter. Jocasta Nu greeted him to which he smiled and then proceeded to unlock the door through use of the Force, walking in. Tano then asked if they could go inside, to which Nu told her that they could not, and that only members of the High Jedi Council had access, such as Master Fisto.<ref name="Holocron Heist">{{TCW|Holocron Heist}}</ref>
+
+[[File:Communication center.jpg|right|thumb|240px|Aayla Secura, Yoda, Mace Windu and Kit Fisto are stunned to witness a techno service droid scutter through the access hatch.]]
+Coincidentally, it was on this same day that the notorious [[bounty hunter]], [[Cad Bane]], as well as the shapeshifting [[Cato Parasitti]] were tasked with stealing a [[holocron]] from that very same vault. After breaking into the Jedi Archives, with Parasitti taking the body of Jocastu Nu, while Bane attempted to unlock one of the entrances to the Holocron Vault; he sent his droid, [[Todo 360]] to go to the [[Jedi Temple communication center|Communications center]] of the Jedi Temple. The droid crawled through the ventilation shaft until he an access hatch, where he accidentally revealed himself to a group of Jedi, consisting of Kit Fisto, [[Aayla Secura]], Mace Windu and [[Yoda]]. The Jedi were all stunned, until they realized that he had a bomb planted in him. Mace Windu swiftly and without hesitation, force pushed the droid back into the access hatch where he exploded.<ref name="Holocron Heist" />
+
+===The conflict thickens===
+====Rescuing the Padawans====
+{{Quote|You have been through quite an ordeal, little one.|Kit Fisto to a recovering Ahsoka Tano|Brain Invaders}}
+[[File:OCMS comm center.png|left|thumb|240px|Fisto on the Ord Cestus Medical Station.]]
+Shortly after the [[Second Battle of Geonosis]], Mace Windu's forces on the planet of [[Dantooine]] were in great need of medical supplies after withstanding an enemy attack. Instead of returning to Coruscant, he two padawan learners, Ahsoka Tano and [[Barriss Offee]] were sent out to the [[Ord Cestus medical station]], where Kit Fisto was stationed in order to obtain said supplies. After being on [[Geonosis]], the clone unit accompanying them, [[Tango Company]] became infected with Geonosian [[brain worm]]s. Under the influence of the worms, the clones became aggressive to any individual not infected, and were able to seize control of the entire [[TB-73|ship]].<ref name="Brain Invaders">{{TCW|Brain Invaders}}</ref>
+
+Offee and Tano were then forced to go into hiding, and for a short time sought refuge in the ventilation shaft at the top of the ship. Tano contacted Master Fisto and informed him of their situation. She explained that she did not want to dock with the medical station as long as the brain worms were still on board so that they could not infect anybody else. Fisto sternly replied that she must bring the ship in, so that they may be able to contain and analyse them. Fisto reassured her that they would take precautions. The [[Togruta]] still expressed that she had a bad feeling about it, but agreed to follow his instructions. Briefly after speaking with Master Fisto, Barriss Offee was surprise attacked by the clones, and was subsequently infected with the parasites too. Upon learning of the situation, Anakin Skywalker interrogated their prisoner from Geonosis, [[Poggle the Lesser]] on how they could kill the worms, and was eventually told that the worms were heavily effected by the cold. Ahsoka then ruptured the coolant system on the ship, causing the temperature to plummet. <ref name="Brain Invaders" />
+
+[[File:Kit fisto ahsoka.png|right|thumb|240px|Kit Fisto finds a freezing Ahsoka Tano.]]
+The ship eventually came out of hyperspace in front of the medical station. Kit Fisto immediately sent out [[TUG-314|tugs]] to help guide the ship into docking. He ordered the clones to warn the hazard crew that he did not want anybody to board the ship until the worms had been contained. He told them to sound the alarms, and to prepare the sub-zero conduits. After extreme difficulties slowing the ship down, it eventually docked with the medical station. Once the temperature was below freezing point, Kit Fisto led a team to board the ship. He entered the control room to find a freezing Tano, cuddled up to Offee who no longer looked to be infected. Barely conscious, she told Fisto that they were there to pick up the supplies before passing out, to which he replied that she had done well and should rest.<ref name="Brain Invaders" />
+
+Some time later, Ahsoka awoke in a medical bay aboard the station. She immediately asked Anakin, who was by her bedside what the worms were, to which Fisto stormed in, claiming that he could answer her question. He explained that they had the parasites analysed and explained to the young padawan that they were the same worms they had encountered on Geonosis. Fisto then remarked that she had been through quite an ordeal, smiling, before leaving to allow Ahsoka and her master to speak in private.<ref name="Brain Invaders" />
+
+====Capture of Eeth Koth====
+Fisto was later present at the Jedi Temple when Jedi master [[Eeth Koth]] was [[Capture of Eeth Koth|captured]]. He was along with the other council members agreed to send in help.<ref name="Grievous Intrigue">{{TCW|Grievous Intrigue}}</ref>
+
+====Battle of Lola Sayu====
+{{Quote|Wing commanders, form up. We're going in!|Saesee Tiin signalling Kit Fisto and Adi Gallia|Citadel Rescue}}
+The following year, Anakin Skywalker, Obi Wan Kenobi, Ahsoka Tano and various clones were dispatched to rescue Jedi Master [[Even Piell]] and [[Captain]] [[Wilhuff Tarkin]] from a Separatist prison known as the [[Citadel]] on the planet of [[Lola Sayu]]. During their escape, their ship was destroyed in a skirmish, which was the only way they were able to get off of the planet, leaving them trapped on the planet. After contacting the Jedi Council about their situation, a meeting was called. [[Plo Koon]] and [[Adi Gallia]] were present, while [[Saesee Tiin]] and Kit Fisto attended through holograms. Plo Koon assigned Tiin as the leader of the fighter attack, with Gallia and Fisto accompanying him, and debriefed them that it was their job to punch through the defenses, so that he might lead the gunships to the surface and extract the team.<ref name="Citadel Rescue">{{TCW|Citadel Rescue}}</ref>
+
+[[File:Fisto mace plo.png|left|thumb|240px|Plo Koon, Kit Fisto and Mace Windu discuss the events that had transpired at the Citadel.]]
+As the team on the surface drew closer to the rendezvous point, the Republic fleet came out of hyperspace into the [[Lola Sayu system]]. [[Battle of Lola Sayu|Battle]] soon commenced, but the three Jedi were initially having difficulties taking on the vast [[Droid starfighter|droid fighters]]. Under immense pressure from Master Plo Koon, Tiin called for Kit Fisto and Adi Gallia to form up, and managed to break through enemy lines. The trio then led Plo's gunship to the surface, where they picked up the surviving rescue team, and then accompanied it back into space. They then cleared the way to the [[Venator-class Star Destroyer|Jedi cruiser]], destroying many droid fighters before eventually docking. The cruiser then jumped into hyperspace, en route to Coruscant.<ref name="Citadel Rescue" />
+
+After arriving on Coruscant the group met with Yoda and Mace Windu, and conversed on the events that had transpired on the Citadel and during the battle.<ref name="Citadel Rescue" />
+
+====Mon Cala Campaign====
+{{Quote|What you see prince, is the future of all these people on this world, Mon Cala and Quarren, all slaves for Count Dooku.|Kit Fisto on the Separatist's invasion of Mon Cala.|Gungan Attack}}
+Sometime later on into the Clone Wars, the once peaceful underwater planet of [[Mon Cala]] was on the brink of civil war between the two species that had formerly lived on the planet together in harmony, the [[Mon Calamari]] and the [[Quarren]]. After the [[king]] of Mon Cala, [[Yos Kolina]] was mysteriously murdered, his young and inexperienced son, [[Lee-Char]] was left alone to reunite his people. In an attempt to avoid civil war, the Republic dispatched Senator Padmé Amidala and a Jedi escort, Anakin Skywalker to resolve the matter. After a debate turned stale, the Quarren—led by the [[Karkarodon]] Separatist Commander [[Riff Tamson]]—refused to support the coronation of Lee-Char as the new Mon Cala king, leading Skywalker, Amidala and the Mon Calamari captain [[Gial Ackbar]] to come to the conclusion that a civil war was inevitable. The trio then contacted Mace Windu and Yoda, who thought it best to deploy Master Kit Fisto, as well as padawan Ahsoka Tano with a battalion of [[Clone SCUBA trooper]]s under Commander [[Monnk/Canon|Monnk]]. Windu then informed Ackbar that he should assemble the Mon Cala troops and prepare for an attack from the Quarren.<ref name="Water War">{{TCW|Water War}}</ref>
+
+[[File:KitFistoMiniSub.jpg|right|thumb|Kit Fisto mans a mini-sub upon arriving on Mon Cala.|240px]]
+As predicted, shortly later the Quarren plunged into an attack on the Mon Calamari, fully backed by the Separatist droid army. Luckily, the Republic reinforcements had arrived in time, with Master Fisto, Ahsoka Tano and their clone battalion diving into the oceanic planet from Republic gunships. Due to being Nautolan, a race from the aquatic planet of [[Glee Anselm]], Fisto was able to swim through the deep sea with ease and shot down many battle droids and hostile Quarren alike. He then met up with Skywalker and Ackbar, and used [[electrobinoculars]] to watch the enemy return to their ships. He remarked that it had seemed that they had won this round of the battle, to which Ackbar responded that they were lucky to have survived. Fisto then reported that the droids were taking position in the coral, and it looked that they were amassing for another assault.<ref name="Water War" />
+
+[[File:Fisto_smiling.png|left|thumb|Kit Fisto smiling upon destroying one of the Hydroid Medusa.|240px]]
+Ahsoka Tano and Lee-Char who had been separated from the group previously then met up with the main group, but almost immediately afterwards they found themselves surrounded by [[Hydroid Medusa]]s which were gigantic cyborg jellyfish with electrified tentacles which meant they were immune to the Mon Calamari's close quarters weapons. Kit Fisto then commanded all troops to their battle stations, to which Ackbar added that they should not fire until Lee-Char gave the command. The group waited in silence until the prince finally gave the orders, to which the clones and the Mon Calamari began concentrating their fire on the robotic menace. As they fought off the jellyfish, Separatist droids came in from behind, and so their forces were left fighting on both sides. Thinking of the safety of the prince, Captain Ackbar decided it was best for them to retreat to the caves, and so the Mon Calamari forces with Skywalker and Tano retreated, while Kit Fisto fought off the remaining cyborgs. Fisto then drove his mini sub into one of them, causing it to explode to which he grinned with a great sense of achievement. The Nautolan Jedi then followed in suit with the rest of the Republic forces that were heading towards the cave.<ref name="Water War" />
+
+A short while after regrouping with the other Republic forces, Kit Fisto contacted Mace Windu and Yoda to inform them of the dire circumstances they were in. He explained how they had lost contact with all other remaining clone and Mon Cala forces, of how the Quarren had ambushed them. Yoda then mentioned clone reinforcements, but the transmission began to break up before he was able to say anything else. Despite Fisto's best efforts to regain communication, it was no use, with the hologram crackling away. With no idea whether reinforcements were to be sent or not, the group decided they should travel to the surface, and attempt to escape the planet that way. Before they were able to get there however, they were faced with the problem of getting there undetected by the enemy. In order to get past them, Kit Fisto offered to create a diversion to which the rest of the group agreed. He swam upwards towards three Quarren who were taking two clone troopers as prisoners, and surprised them from behind. The Nautolan grabbed one from behind, and in the confusion was able to force push another away. He was then able to snatch their mini-sub, and then, through use of the force, pushed it down towards his friends. He then freed the clone troopers, and ignited [[Kit Fisto's lightsaber|his lightsaber]], ready to fight off any incoming enemies.<ref name="Gungan Attack">{{TCW|Gungan Attack}}</ref>
+
+[[File:Kistoquarren.png|right|thumb|Kit Fisto fights off enemy quarren.|240px]]
+As Fisto continued fighting attacking Quarren, he looked up to see debris of the ship they had planned to use for escape sinking to the bottom of the ocean. He swam over to Anakin and humorously commented that he was back so soon, to which Anakin explained that they had run into a few problems. Fisto then remarked that he could quite obviously see that all around them, referring to the submerging debris of the ship. The survivors then split up, with Kit Fisto, Tano, Lee-Char and the remaining clones going together in one group, while Skywalker, Ackbar and Amidala went together in another. Fisto's group eventually reached a cave, in which they took refuge in. Fisto noted that he did not think they had been followed and so asked his clone commander, [[Monnk]], to post a lookout. In total despair, Lee-Char pondered on what their options would be on what to do. Tano replied that they simply had to stay in the cave, as there was nothing else they could do. Commander Monnk then signaled Fisto; and upon swimming over, the nautolan Jedi witnessed the Separatist's enslavement of the Mon Calamari people. Fisto warned Lee-Char that this could be the future of his world, should they not be able to do anything.<ref name="Gungan Attack" />
+
+Later, while Kit Fisto was on the lookout, with Monnk, Tano and Lee-Char conversed on the matter of bringing hope to his people. The Mon Calamari prince doubted this was possible, since his subjects believed that he had perished. Lee-Char sneaked away, whilst Tano and Fisto were not looking, and blew his [[Mon Calamari shell horn/Canon|shell horn]] to get the attention of his people, so that they could see he was alive. Upon releasing, Fisto andTano speedily swam over, to warn him that the guards would hear him. Before Tano could finish her warning, a Separatist [[aqua droid]] began propelling blaster fire towards the prince. As Kit Fisto fought it off, they looked upwards to see hundreds of [[Gungan]] warriors swimming towards them. Knowing that they had been sent by the Jedi Council, Kit Fisto rejoiced, and exclaimed that the tide of the battle had changed. Lee-Char then called for the group to attack, and so they joined with the gungans. Together, Kit Fisto, Ahsoka Tano and Lee Char fought off the droid forces with relative ease, until Riff Tamson deployed the Separatist reinforcements.<ref name="Gungan Attack" />
+
+[[File:Fistotamson.png|left|thumb|Kit Fisto and Riff Tamson fight.|240px]]
+Within moments, several [[Trident-class assault ship|trident assault ships]] entered the battle, which began to spin around, creating whirlpools. Kit Fisto, Ahsoka Tano and Lee-Char were all suddenly sucked into it, and during the confusion, Riff Tamson seized the opportunity to attack the prince. Tano fended the Karkarodon off for a short while, before Fisto was able to find them. With great force, Fisto immediately knocked him away, before the two briefly wrestled. Tamson knocked Kit Fisto's lightsaber away from him, and so the two began to engage in hand to hand combat; throwing heavy punches both ways. Fisto then shouted to Tano, and told her to escape with Lee-Char, while he continued to fight off Tamson. As Tano and Lee-Char swam away, they watched as Kit Fisto was completely outnumbered by Riff Tamson and his droids and witnessed their friend's capture.<ref name="Gungan Attack" />
+
+Unknown to the Republic forces on Mon Cala, the Jedi High Council had enlisted the help of the [[Gungan Grand Army]], allowing for much needed reinforcements on the Republic side. However, they were once again ambushed by Tamson, who confronted the young prince Lee-Char. Fisto engaged in melee combat with the Karkarodon, allowing Tano and the prince to escape.<ref name="Gungan Attack" /> Fisto was ultimately subdued by the Tamson and imprisoned along with Amidala, Skywalker, and [[Jar Jar Binks]]. Brought before Tamson himself, the three prisoners were subjected to [[Mon Calamari eel|electric eel]] torture and shackle droids; Fisto was remarkably blasé about it, merely stating that the eels were very dangerous. After Tamson savagely damaged Amidala's helmet with his jaws, Fisto and Skywalker saved her by creating a force bubble around her head, thus allowing her to breathe. Skywalker, to his chagrin, kept getting shocked even when he thought he had got the hang of the cages in contrast to Fisto, who advised him that "Less talking helps." They were then brought to watch Lee-Char's execution, and Fisto witnessed the young prince being saved at the last moment by [[Nossor Ri]]. The Nautolan Jedi participated in the final battle of newly rekindled Mon Calamari and Quarren forces against Tamson and the Separatists. After the Republic victory, he witnessed Prince Lee-Char's [[Coronation of Lee-Char|coronation]] as the new King of Mon Cala.<ref name="Prisoners">{{TCW|Prisoners}}</ref>
+
+===An unrelenting war===
+====Serving the Jedi Council====
+{{Quote|I'll dispatch Master Fisto and your Padawan, Tano, along with a company of clones. They'll be at your side by day's end.|Master Windu of the Jedi Council, dispatching Fisto for a mission.|Water War}}
+As the war continued to rage on with no clear end in sight, Jedi Master Kit Fisto took a more active role on the Jedi Council. At some point during [[20 BBY]], after security concerns over [[Supreme Chancellor|Chancellor]] [[Darth Sidious|Palpatine's]] life became of paramount importance for his appearance at the annual [[Festival of Light]] on [[Naboo]]; Fisto along with several other Jedi attended a meeting in the Jedi Temple, discussing how they planned to stop any chance of an assassination happening.<ref name="Crisis on Naboo">{{TCW|Crisis on Naboo}}</ref> Some time later, Fisto was present during a Jedi Council meeting in which they were contacted by the Onderonian freedom fighter [[Saw Gerrera]] and his sister [[Steela Gerrera]]. The duo had contacted the Jedi in order to request assistance in fighting against the Separatist rule over the planet. The Council eventually came to the decision to secretly send over Anakin Skywalker and his padawan, Ahsoka Tano to train the [[Onderon rebels|resistance group]] without getting directly involved themselves.<ref name="A War on Two Fronts">{{TCW|A War on Two Fronts}}</ref>
+
+[[File:Kit fisto council.png|right|thumb|240px|Kit Fisto, seated on the Jedi Council.]]
+Fisto was present at the Jedi Temple at the same time as the [[Bombing of the Jedi Temple hangar|bombing]] that occurred at the Temple's hangar. The Nautolan Jedi attended a Jedi High Council meeting in which they assigned Anakin Skywalker and Ahsoka Tano to personally investigate the assault as they felt they were the most trustworthy as they were out on a [[Defense of Cato Neimoidia|mission]] when it happened. Fisto remained with the Council, and was there to see the two Jedi report on their progress, to which they proclaimed that they had a lead. Kit Fisto attended the [[Funeral of the Jedi Temple bombing victims|funeral]] for the Jedi that had fallen in the bombing, and [[Mourning|mourned]] the loss of them with the other Jedi assembled.<ref name="The Jedi Who Knew Too Much">{{TCW|The Jedi Who Knew Too Much}}</ref>
+
+Not long afterwards, [[Admiral]] Tarkin contacted the Jedi Council to inform them of Tano's alleged act of murder. Kit Fisto was present through the use of a hologram and exchanged a shocked look with Shaak Ti in response to Tarkin's accusations of sedition. After eventually being [[Capture of Ahsoka Tano|captured]], Tano was brought back to the Jedi Temple to be punished for treason. Kit Fisto was seated on the Council when they were again contacted by Tarkin, who requested, on behalf of the Senate, that they hand Tano over to the [[Republic military]] to be given a military tribunal, as he thought a Jedi trial would seem biased. The Council did follow these demands, albeit reluctantly and not unanimously, and Tano was expelled. Along with the rest of the Council, Master Fisto was in attendance of the [[Trial of Ahsoka Tano|military trial]], and watched as it was eventually revealed that Tano was in fact not behind the bombing, and that it was her friend and fellow Padawan Barriss Offee. Afterwards, the Council attempted to bring Tano back into the Order, but she refused.<ref name="The Jedi Who Knew Too Much" />
+
+[[File:Fisto council2.png|left|thumb|240px|Kit Fisto during a meeting on the Jedi Council.]]
+The following year, in [[19 BBY]], after clone trooper [[CT-5385]], "Tup" executed Jedi Knight [[Tiplar]] in the middle of battle, without knowingly doing so, he was taken to [[Kamino]] to be tested upon. Kit Fisto was seated on the council at the time that Jedi Master [[Shaak Ti]] contacted them, informing them that the [[Kaminoan]]s wished to terminate him, and perform a vigorous molecular autopsy to discover the cause. She expressed that she did not think it was necessary, and believed that Tup had been brainwashed by the Separatists. Instead, she proposed they carry out a level 5 atomic brain scan. The council instructed her to bring the clone back to the Jedi Temple.<ref name="Conspiracy">{{TCW|Conspiracy}}</ref> Some time later, Chancellor Palpatine contacted the Jedi Council to inform them that the [[Julia|Queen]] of [[Bardotta]] had requested for Senator [[Jar Jar Binks]] to come to her planet's aid after several of the ancient mystics had disappeared. Kit Fisto was present on the council at the time. Thinking it unwise to let Binks go alone, the Council decided that Mace Windu also be sent to accompany him.<ref name="The Disappeared, Part I">{{TCW|The Disappeared, Part I}}</ref> Later, Master Plo Koon was dispatched to investigate a distress call coming from the ship of the long dead Jedi Master, [[Sifo-Dyas]]. Upon finishing his investigation, he contacted the Jedi Council to which Kit Fisto was seated on at the time. Plo Koon showed the Jedi his discovery of Sifo-Dyas' lightsaber, which led the council to start a discussion on the Jedi Master who was so shrouded in mystery.<ref name="The Lost One">{{TCW|The Lost One}}</ref>
+
+====A bleak vision of the future====
+Shortly after the Jedi Council's investigation on Sifo-Dyas, the revered Jedi Master Yoda began hearing the voice of the also long dead Jedi, [[Qui-Gon Jinn]] during meditation. The severed voice explained to the elder Jedi that he was speaking to him through the living force before swiftly disappearing. At a Jedi Council meeting, subsequently after in which Master Fisto was present, the Jedi discussed about the revelation that Count Dooku was not actually the [[Sith Lord]] they had been looking for, and was in fact merely the apprentice. During the meeting, Yoda was unusually quiet, and when asked on his opinion, Yoda had been in deep thought, and had not been listening. Confused as to what could be troubling him, the Jedi looked around and glanced at each other, with Kit Fisto turning to look at fellow Jedi Shaak Ti.<ref name="Voices">{{TCW|Voices}}</ref>
+
+[[File:EpGuide611.png|right|thumb|240px|Kit Fisto and the other Jedi High Council members after meditation.]]
+Some time later, Yoda called a Jedi Council meeting again, to inform his fellow Jedi about what had been so troubling him. Standing in the center of the Jedi Council Chamber, he questioned them if he was alone in hearing the voice of Qui-Gon Jinn, or if any of them had began hearing it too. In order to see if they were able to hear it too, all the Jedi present in the meeting, including Kit Fisto, joined Yoda in the center of the room in meditation, which they carried on doing for an entire day. Unfortunately, upon finishing, none of the Jedi could hear any kind of voice.<ref name="Voices" />
+
+Baffled, Grand Master Yoda then traveled to the swamp planet of [[Dagobah]], in order to seek out the answers that he so yearned to find out. Upon arriving, he immediately made contact with the voice of Qui-Gon Jinn. The green Jedi asked him if he knew who the Sith Lord was, to which he told him of a place where all would be revealed to him. Yoda then ventured into a cave where he began receiving a vision of a dark and twisted future for the Jedi. He watched in pure horror as he saw countless of his Jedi comrades being cut down by gunfire and slain by lightsabers. Among them, he envisioned Kit Fisto's death at the hands of the malevolent [[Darth Sidious]], with him being stabbed through the chest.<ref name="Voices" />
+
+====Death====
+As the Clone Wars drew to a close, the force and the Jedi order itself began to grow more and more clouded by the dark side. Shortly after the [[Battle of Coruscant]], Supreme Chancellor Palpatine revealed to Anakin Skywalker his true identity as a Sith Lord, prompting the young knight to inform Master Mace Windu. Windu, aiming to imprison and sentence the newly revealed Sith Lord for his crimes, traveled to the [[Emperor's office|Chancellor's office]] in order to arrest him. He was accompanied by Masters Fisto, [[Agen Kolar]], and [[Saesee Tiin]].<ref name="ROTS" />
+
+[[File:Fisto's Death.png|left|thumb|200px|Fisto is killed by Sidious on Coruscant]]
+[[Duel in Palpatine's office|Confronting]] Palpatine in his office, the four Jedi ignited their lightsabers, while Windu demanded that the Chancellor come with them to be detained. In a surprise attack, Palpatine ignited his own crimson saber, leaping across the room and felling Kolar with one strike. He proceeded to cut down Tiin with impressive speed, catching both Fisto and Windu by surprise. The Nautolan Jedi managed to hold off the Sith for a few [[second]]s, before he was killed by a slice to the abdomen,<ref name="ROTS" /> as Master Yoda had foreseen.<ref name="Voices" /> By the time Skywalker arrived, Kolar, Tiin, and Fisto lay dead on the floor. Windu later became Palpatine's fourth victim, falling to his death through the window after being hit with Force lightning.<ref name="ROTS" />
+
+===Legacy===
+[[Kit Fisto's lightsaber|Fisto's lightsaber]] was among those that former Jedi Padawan [[Kanan Jarrus]] saw in the [[Imperial Palace|Jedi Temple's]] [[Jedi Temple dojo|dojo]] during his vision on his second trip to the [[Lothal Jedi Temple|Jedi Temple]] on [[Lothal]].<ref name="SoD">{{Rebels|Shroud of Darkness}}</ref>
+
+==Personality and traits==
+Kit Fisto was a Nautolan male with green skin, large black eyes, a gathered tangle of flexible tentacle-tresses extending from his head, and a height of 1.96 meters. He was a Jedi Master who had an intense focus, particularly in combat. He was also much more laid back and capable of enjoying a hearty chuckle than some of his humorless colleagues.<ref name="DB">{{Databank|kit-fisto|Kit Fisto}}</ref>
+
+==Powers and abilities==
+[[File:FistoDualSabers-LoG.png|thumb|right|220x220px|Kit Fisto wielding both his and Vebb's lightsabers]]
+Kit Fisto was regarded by fellow Jedi Master Mace Windu as one of the greatest lightsaber duelists in the Jedi Order.<ref name="Windu, Part I" /> A notable example of his dueling skills was shown in his fight with infamous [[Jedi hunter]] General Grievous, whom Fisto held his own very well against. Indeed, had the fight been a fair one and without the intervention of Grievous' Magnaguards, Fisto might well have prevailed and defeated the cyborg.<ref name="Lair of Grievous" />
+
+As testament to Fisto's skills, he was amongst the Masters who accompanied Master Windu to arrest the Chancellor. Unfortunately, Darth Sidious was able to slay the Nautolan Jedi Master in mere seconds, though Fisto did manage to last longer than fellow Masters Kolar and Tiin, as he was able to block several of Sidious's vicious blows before falling.<ref name="ROTS" />
+
+==Behind the scenes==
+Kit Fisto was introduced in the [[2002]] film ''[[Star Wars: Episode II Attack of the Clones|Attack of the Clones]]'', played by [[Zachariah Jensen]] and ILMer [[Daniel Zizmor]]. For [[2005]]'s [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']], they passed the role to stuntman [[Ben Cooke]], as Jensen was unavailable due to his involvement in the TV show ''[[Wikipedia:Survivor (U.S. TV series)|Survivor]]''.<ref name="Concept">{{SW|url=news/from-concept-to-screen-kit-fisto|text=From Concept to Screen: Kit Fisto}}</ref>
+
+In the ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' TV series, Kit Fisto was voiced by [[Phil LaMarr]]. LaMarr voiced the character with a [[Wikipedia:Jamaica|Jamaican]] accent, basing his voice one [[Wikipedia:7 Up|7 Up]] mascot [[Wikipedia:Fido Dido|Fido Dido]] on the television commercials.<ref name="Concept" /><ref name="Force Cast">[[TheForce.net]] Force Cast, Interview with [[Dave Filoni]].</ref>
+
+===Cut or rejected concepts===
+Fisto was originally designed as a new Sith Lord. One design was of a white-skinned male alien with dreadlocks that wielded a curved lightsaber. The artist, [[Dermot Power]], was never quite satisfied with the outcome and the Sith Lord concept was eventually modified to be a bald-headed female. This design was discarded after [[Christopher Lee]] was cast as Count Dooku, though it would later be re-used as the character design for [[Asajj Ventress]]. [[George Lucas]] asked Power to remodel the original dreadlocked concept into a Jedi, who made the face softer and changed the skin color to green. After a Jedi tunic was added to the character, the design of Kit Fisto was finalized.<ref name="Concept" /><ref name="Kit Fisto databank">{{DB|character|kitfisto|Kit Fisto}}</ref>
+
+In the rough draft of ''Revenge of the Sith'', dating back from January [[2003]], Fisto was planned to be killed alongside [[Stass Allie]] on [[Saleucami]] during [[Order 66]]. In April 2003, by the film's first draft, Fisto's death remained the same only with Adi Gallia and Barriss Offee accompanying him. By the second draft in June 2003, Lucas had decided that Fisto would accompany Windu to arrest Palpatine as "gunslingers out of the Old West", and this concept remained in the finished version. Among other ideas, the concept artist pitched a new look of Fisto which consisted of a tunic reduced to rags and a scar.<ref name="Concept" />
+
+==Appearances==
+{{Scroll_box|content=
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*''[[Jedi of the Republic&mdash;Mace Windu, Part I]]''
+*''[[Jedi of the Republic&mdash;Mace Windu, Part II]]''
+*''[[Jedi of the Republic&mdash;Mace Windu, Part III]]''
+*''[[Jedi of the Republic&mdash;Mace Windu, Part IV]]''
+*''[[Jedi of the Republic&mdash;Mace Windu, Part V]]''
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]] {{Flash}}
+*{{TCW|Rookies}} {{Flash}}
+*{{TCW|Cloak of Darkness}} {{Mo}}
+*{{TCW|Lair of Grievous}}
+*{{TCW|Holocron Heist}}
+*{{TCW|Children of the Force}} {{Hologram}}
+*{{TCW|Senate Spy}} {{Flash}}
+*{{TCW|Brain Invaders}}
+*{{TCW|Grievous Intrigue}} {{Hologram}}
+*{{TCW|The Deserter}} {{C|Appears in hologram in flashback(s)}}
+*{{TCW|The Academy}} {{Mo}}
+*{{TCW|Overlords}} {{Flash}}
+*{{TCW|Citadel Rescue}}
+*{{TCW|Water War}}
+*{{TCW|Gungan Attack}}
+*{{TCW|Prisoners}}
+*{{TCW|Kidnapped}} {{Hologram}}
+*{{TCW|Deception}} {{Flash}}
+*{{TCW|Crisis on Naboo}}
+*{{TCW|A War on Two Fronts}}
+*{{TCW|The Gathering (episode)|The Gathering}}
+*{{TCW|Sabotage (episode)|Sabotage}}
+*{{TCW|The Jedi Who Knew Too Much}}
+*{{TCW|To Catch a Jedi}} {{Hologram}}
+*{{TCW|The Wrong Jedi}}
+*{{TCW|Conspiracy}}
+*{{TCW|The Disappeared, Part I}}
+*{{TCW|The Lost One}}
+*{{TCW|Voices}}
+*{{TCW|Destiny (episode)|Destiny}} {{Vision|[[Yoda]]}}
+*{{TCW|The Big Bang}}
+*''[[Dark Disciple]]'' {{Hologram}}
+*''[[Kanan 7: First Blood, Part I: The Corridors of Coruscant]]''
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+*''[[Darth Vader: Dark Lord of the Sith 14: Burning Seas, Part II]]'' {{Flash}}
+*''[[Tarkin (novel)|Tarkin]]'' {{Imo}}
+*''[[The Secret Jedi: The Adventures of Kanan Jarrus: Rebel Leader]]'' {{Hologram}} {{Po}}}}
+
+===Non-canon appearances===
+*''[[Revenge of the Sith: Episode III (LEGO Star Wars)]]''
+*{{The Freemaker Adventures|Duel of Destiny}} {{Hologram}}
+*{{Droid Tales|Crisis on Coruscant (episode)|Crisis on Coruscant}} {{Flash}}
+*''[[LEGO Star Wars: The Force Awakens]]'' {{C|DLC}}
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+*{{InsiderCite|152|A Trip to the Light Side}} {{Po}}
+*''[[Star Wars: I Am a Jedi]]'' {{Po}}
+*''[[Star Wars: Aliens of the Galaxy]]''
+*{{SW|url=news/from-concept-to-screen-kit-fisto|text=From Concept to Screen: Kit Fisto}}
+*{{SW|url=tv-shows/star-wars-rebels/shroud-of-darkness-trivia-gallery|text=Shroud of Darkness Trivia Gallery}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Forces of Destiny: Tales of Hope & Courage]]'' {{Po}}
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{Databank|adi-gallia|Adi Gallia|archivedate=20170706043936}}
+*{{Databank|admiral-ackbar|Admiral Ackbar|archivedate=20170704032047}}
+*{{Databank|agen-kolar|Agen Kolar|archivedate=20170707043140}}
+*{{Databank|delta-7-jedi-starfighter|Delta-7 Jedi Starfighter|archivedate=20170706051350}}
+*{{Databank|ev-a4-d|EV-A4-D|archivedate=20161216125829}}
+*{{Databank|kit-fisto|Kit Fisto|archivedate=20170816200531}}
+*{{Databank|yoda|Yoda|archivedate=20140703043000}} {{Po}}
+
+{{Start_box}}
+{{Succession_box
+|title=Member of the [[Jedi High Council]]
+|years=[[22 BBY]]&ndash;[[19 BBY]]<ref name="ROTS" />
+|before=[[Coleman Trebor]]<ref name="AOTC" />
+|before-years=&ndash;[[22 BBY]]<ref name="AOTC" />
+|after=None
+}}
+{{End_box}}
+
+==Notes and references==
+{{Reflist}}
+
+{{JediCouncil20}}
+{{JediCouncil19}}
+
+{{Interlang
+|bg=Кит Фисто
+|es=Kit Fisto
+|ko=킷 피스토
+|ru=Кит Фисто/Канон
+|uk=Кіт Фісто
+}}
+
+{{DEFAULTSORT:Fisto, Kit}}
+[[Category:Jedi Council members]]
+[[Category:Jedi Generals]]
+[[Category:Jedi Masters]]
+[[Category:Jedi Purge victims]]
+[[Category:Males]]
+[[Category:Nautolans]]
+[[Category:Pilots]]

@@ -1,0 +1,78 @@
+{{Eras}}
+{{Cleanup}}
+{{Character
+|type=Rebel
+|image=[[File:Arvel-crynyd.jpg]]
+|name=Arvel Crynyd
+|homeworld=
+|birth=
+|death=[[4 ABY]], ''[[Executor]]''<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|species=[[Human]]<ref name="Episode VI" />
+|gender=[[Sexes|Male]]<ref name="Episode VI" />
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Brown]]<ref name="Episode VI" />
+|skin=Light<ref name="Episode VI" />
+|cyber=
+|era=
+|affiliation=*[[Thyferran bacta cartel]]<ref name="Incredibuilds">''[[Star Wars: A-Wing Deluxe Book and 3D Wood Model]]''</ref>
+*[[Alliance to Restore the Republic]]<ref name="Episode VI" />
+**[[Green Squadron (Rebel Alliance)|Green Squadron]]<ref name="Episode VI" />
+|masters=
+|apprentices=}}
+{{Quote|Green Leader standing by.|Arvel Crynyd checks in during the [[Battle of Endor]]|Star Wars: Episode VI Return of the Jedi}}
+'''Arvel Crynyd''' was a [[Sexes|male]] [[human]] [[Rebel pilot|pilot]] who served in the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]]. In the war's [[4 ABY|fourth]] [[Standard year|year]], [[Commander]] Crynyd participated in the Rebellion's attack on the [[Galactic Empire]]'s [[Death Star II|second Death Star]] in the [[Battle of Endor]], flying an [[RZ-1 A-wing interceptor]] in [[Green Squadron]] as [[Green Leader|leader]] of the squadron. When Crynyd was [[Death|killed]] during the battle in a [[suicide]] run to destroy the [[Super Star Destroyer]] ''[[Executor]]'', [[Lieutenant]] [[L'ulo L'ampar]] assumed command of the [[squadron]]. The battle ended soon after, seeing the destruction of the Death Star and death of [[Galactic Emperor]] [[Darth Sidious|Sheev Palpatine]].
+
+==Biography==
+===Battle of Endor===
+Arvel Crynyd was a [[Sexes|male]] [[human]] who flew as a [[Z-95 Headhunter]] [[pilot]] for a [[Thyferra]]n [[bacta]] [[Thyferran bacta cartel|cartel]] before joining the [[Alliance to Restore the Republic]].<ref name="Incredibuilds" /> With the Alliance, he fought in the [[Galactic Civil War]], a [[galaxy]]-wide conflict between the Alliance and the [[Galactic Empire]].<ref name="Episode VI" /> Holding the [[Military rank|rank]] of [[commander]],<ref name="On the Front Lines">''[[Star Wars: On the Front Lines]]''</ref> Crynyd flew as a [[Rebel pilot|pilot]] in [[Green Squadron (Rebel Alliance)|Green Squadron]], operating an [[RZ-1 A-wing interceptor]]<ref name="Episode VI" /> In [[4 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> after the [[Bothan spynet]] discovered that [[Galactic Emperor]] [[Darth Sidious|Sheev Palpatine]] would be aboard the [[Death Star II|second Death Star]] to oversee its construction, [[Alliance High Command]] determined that launching an immediate [[Battle of Endor|assault]] on the [[space station]] would be their only chance to cripple the Empire.<ref name="Episode VI" />
+
+With the full [[Alliance Fleet]], Crynyd, under the [[callsign]] of [[Green Leader]], exited [[hyperspace]] above the [[Endor|forest moon]] of [[Endor (planet)|Endor]], approaching the [[superweapon]] in his A-wing. He was the last squadron leader to report stand-by status and prepared to attack the Death Star, but pulled up at the last second on [[General]] [[Lando Calrissian]]'s orders when it was revealed that the shield was still up. Green Squadron was ordered to stick close to Sector MV-7 as a massive flotilla of Star Destroyers emerged from the other side of the moon. The Alliance had walked right into a trap, but were determined to go down fighting. Initially, both sides fought with only their starfighters to the rebels' confusion, but this turned to horror when the Death Star proved itself to be fully operational, firing its superlaser on the Mon Calamari Star Cruiser ''Liberty'' and reducing it to atoms. Following the advice of Calrissian, the remaining Rebel forces moved up alongside the Star Destroyers and fought at point-blank range, hoping the Death Star wouldn't dare shoot into its own fleet. When the shield protecting the Death Star was disabled, several fighters broke off and headed for it to destroy the reactor. To buy them time, Crynyd and his squadron attacked the Imperial flagship, the mighty Super Star Destroyer ''Executor'', with two A-wings knocking out its bridge deflector shields. In response, Admiral [[Firmus Piett]] ordered the forward batteries to increase forward firing to prevent any window of opportunity from being exploited. As Crynyd attempted a trench run through the ship's superstructure, his fighter was struck by a laser bolt and spun wildly. Realizing he was doomed, Crynyd managed to wrestle what little control he had over his starfighter and put it on a collision course with the ''Executor'''s unshielded bridge tower. Letting out one last cry of defiance, Crynyd's ship crashed through the bridge windows and exploded, killing himself alongside Piett and the entire bridge crew. Without its command structure, the ''Executor'' lost primary power and plunged into the Death Star's gravity well, colliding with the station and detonating in a massive fireball. Crynyd's sacrifice tipped the battle in the Alliance's favor, with the Death Star being destroyed shortly after.<ref name="Episode VI" />
+
+{{Char-stub}}
+
+==Personality and traits==
+Crynyd was a human male with brown eyes and light skin.<ref name="Episode VI" /> Being a veteran [[pilot]] and instructor, Crynyd spent more time in an A-wing than anyone else in the [[Rebel Alliance Starfighter Corps|Alliance Starfighter Corps]]. He praised the starfighter and maintained the notion that skilled A-wing pilots could easily outfly the [[TIE/IN interceptor|TIE interceptor]]&mdash;the Imperial counterpart to the A-wing. Having also recognized that the lightly shielded A-wings couldn't stand up to [[Imperial-class Star Destroyer]]s, Crynyd pushed them into reconnaissance and escort missions where speed meant strength.<ref name="On the Front Lines" /> He was also brave and dedicated to the Alliance cause to the extent that he was willing to sacrifice his life for it, crashing his crippled starfighter into the ''Executor''.
+
+==Skills and abilities==
+Crynyd possessed hyper-quick reflexes and an uncanny spatial sense.<ref name="Incredibuilds" />
+
+==Equipment==
+As a pilot of the Alliance, Arvel Crynyd wore a green [[flight suit]] and [[Flight helmet|helmet]], while operating an RZ-1 A-wing interceptor.<ref name="Episode VI" />
+
+==Behind the scenes==
+Arvel Crynyd first appeared in the [[1983]] film [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]. He was portrayed by [[Hilton McRae]] in an uncredited role. Crynyd would later make an appearance in the [[Shattered Empire, Part I|first issue]] of the [[2015]] [[Star Wars comic books|comic series]] ''[[Shattered Empire, Part I]]''<ref name="Shattered Empire 1">''[[Shattered Empire, Part I]]''</ref>
+
+==Appearances==
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]] {{C|Fighter only}} {{C|As Green Leader}}
+*''[[Shattered Empire, Part I]]'' {{Voice}} {{C|As Green Leader}}
+
+==Sources==
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: A-Wing Deluxe Book and 3D Wood Model]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{SW|url=a-wing-fighter-history-gallery|text=A-wing Fighter History Gallery|archivedate=20180120232822}}; images #2, 4 {{1stID}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Arvel Crynyd#kanon
+|es=Arvel Crynyd
+|it=Arvel Crynyd
+|ja=アーヴェル・クライニッド
+|ko=아벨 크라이니드
+|nl=Arvel Crynyd
+|pl=Arvel Crynyd
+|ru=Арвел Кринид/Канон
+}}
+
+{{DEFAULTSORT:Crynyd, Arvel}}
+[[Category:Green Squadron personnel]]
+[[Category:Humans]]
+[[Category:Males]]

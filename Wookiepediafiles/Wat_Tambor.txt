@@ -1,0 +1,161 @@
+{{Eras}}
+{{Character
+|type=CIS
+|image=[[File:Wat Tambor.png]]
+|name=Wat Tambor
+|homeworld=[[Skako Minor|Skako]]<ref name="Updated and Expanded">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|birth=
+|death=[[19 BBY]], [[Mustafar]]<ref name="Revenge of the Sith">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|species=[[Skakoan]]<ref name="Wat Tambor">{{Databank|wat-tambor|Wat Tambor|archivedate=20170603221250}}</ref>
+|gender=[[Sexes|Male]]<ref name="Attack of the Clones">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|height=1.98 [[meter]]s<ref name="Wat Tambor" />
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="Attack of the Clones" />
+|skin=Green<ref name="Attack of the Clones" />
+|cyber=
+|era=
+|affiliation=*[[Techno Union]]<ref name="Attack of the Clones" />
+**[[Baktoid Armor Workshop]]<ref name="Updated and Expanded" />
+*[[Confederacy of Independent Systems]]<ref name="Attack of the Clones" />
+**[[Separatist Council]]<ref name="Attack of the Clones" />
+|masters=
+|apprentices=}}
+{{Quote|Wat Tambor spoils for others what he cannot possess.|Cham Syndulla|Liberty on Ryloth}}
+'''Wat Tambor''' was a [[Sexes|male]] [[Skakoan]] who was the [[foreman]] of the [[Techno Union]] and an executive of [[Baktoid Armor Workshop]]. During the [[Separatist Crisis]], he pledged the Techno Union's resources to the [[Confederacy of Independent Systems]], earning himself a seat on the [[Separatist Council]] during the [[Clone Wars]]. In the conflict's early stages, Tambor was appointed [[emir]] of [[Ryloth]] and supervised its [[Battle of Ryloth|occupation]] by the Separatists, which was fiercely resisted by local [[Twi'lek]] [[Twi'lek Resistance|freedom fighters]] led by [[Cham Syndulla]]. After defying orders to abandon Ryloth when the tide of battle turned against the Separatists, Tambor was left behind and captured by the [[Galactic Republic]]. He was briefly [[Prison|imprisoned]] on [[Coruscant]] before being liberated later in the conflict.
+
+As the Clone Wars escalated, Wat Tambor took an interest in the captive [[Advanced Recon Commando|ARC trooper]] [[CT-1409]], who had been captured during a [[Battle of Lola Sayu|battle]] in the [[Citadel]] but was presumed [[Death|dead]] by the Republic. Tambor kept an unconscious Echo in a [[stasis chamber]] and managed to extract information from Echo's mind about a [[Rex's strategy algorithm|strategy algorithm]] devised by the [[Clone Captain]] [[Rex|CT-7567]]. While officially professing the Techno Union's neutrality, Tambor secretly sold the algorithm to the Separatist [[Admiral]] [[Trench]], who used it to great effect during a [[Battle of Anaxes|campaign]] to invade the Republic world of [[Anaxes]]. Tambor's dealings with the Separatists were exposed by a Republic infiltration team consisting of Rex, [[Clone Force 99]], and the [[Jedi Knight]] [[Anakin Skywalker]].
+
+During the final [[Standard day|days]] of the Clone Wars, Wat Tambor and the rest of the Separatist Council relocated from the planet [[Utapau]] to [[Mustafar]], where they were [[Mission to Mustafar|slaughtered]] by [[Darth]] Vader. Following his demise, the newly-formed [[Galactic Empire]] assumed control of the Techno Union's assets.
+
+==Biography==
+===Early life===
+A [[Sexes|male]] [[Skakoan]] from the [[planet]] [[Skako Minor|Skako]], Wat Tambor left his [[homeworld]] at an early age and began a career in technology on the harsh industrial world of [[Metalorn]]. He eventually became [[foreman]] of the [[Techno Union]], a powerful commercial body that made massive profits from developing new technologies, and an executive of [[Baktoid Armor Workshop]], an arms manufacturer.<ref name="Updated and Expanded" />
+
+===Interest in 0-0-0===
+{{Quote|I-its all here. Wat Tambor acquired your personality matrix nearly a century ago. Wanted to study it. I think he was obsessed with you.|Doctor Aphra, to 0-0-0|Doctor Aphra 16: Remastered, Part III}}
+Nearly a century before the [[Galactic Civil War]], Tambor acquired the [[Triple-Zero protocol personality matrix]] with the intent of studying it.<ref name="Doctor Aphra 16">''[[Doctor Aphra 16: Remastered, Part III]]''</ref>
+
+===The Separatist Crisis===
+{{Quote|The Techno Union Army&hellip;is at your disposal, count.|Wat Tambor, during the secret Separatist meeting on Geonosis|Star Wars: Episode II Attack of the Clones}}
+[[File:Warroom2.JPG|left|250px|thumb|Wat Tambor and the rest of the Separatist Council convene on Geonosis]]
+During the last [[Standard year|years]] of the [[Galactic Republic]], Tambor supported the [[Separatist Crisis|Secessionist Movement]], which eventually developed into the [[Confederacy of Independent Systems]]. During the Separatist Crisis, Wat Tambor and several other pro-Separatist corporate leaders, including the [[Trade Federation]] [[Viceroy]] [[Nute Gunray]], the [[InterGalactic Banking Clan]] [[Chairman]] [[San Hill]], and the [[Commerce Guild]] president [[Shu Mai]] attended a secret conference on the planet [[Geonosis]] that was hosted by the Separatist leader [[Count]] [[Dooku]] and the [[Geonosian]] [[Archduke]] [[Poggle the Lesser]],<ref name="Attack of the Clones" /> who oversaw the production of [[battle droid]]s for the Techno Union.<ref name="Poggle the Lesser">{{SWE|characters|pogglethelesser|Poggle the Lesser}}</ref> At the meeting, Tambor pledged the Techno Union's resources to the Separatist cause. During the ensuing [[Battle of Geonosis]], the first battle of the [[Clone Wars]], Wat Tambor and other Separatist delegates fled Geonosis in order to escape the advance of the [[Grand Army of the Republic]].<ref name="Attack of the Clones" /> Despite the Techno Union's support for the Separatist cause, the company still declared neutrality<ref name="On the Wings of Keeradaks">{{TCW|On the Wings of Keeradaks}}</ref> and was even represented in the [[Galactic Senate]] by [[Senator]] [[Gume Saam]].<ref name="Heroes on Both Sides">{{TCW|Heroes on Both Sides}}</ref>
+
+===The Clone Wars===
+====Emir of Ryloth====
+[[File:Tambor on Ryloth.png|right|250px|thumb|Emir Tambor inspecting Separatist forces on Ryloth]]
+Early in the conflict, Tambor spearheaded the Separatist [[Battle of Ryloth|invasion]] of [[Ryloth]], the homeworld of the [[Twi'lek]] [[species]], and supervised its subsequent occupation<ref name="Wat Tambor SWE">{{SWE|characters|wattambor|Wat Tambor}}</ref> after being installed as the planet's [[emir]] by Count Dooku.<ref name="Wat Tambor" /> Setting up headquarters in the [[capital]] [[city]] of [[Lessu]],<ref name="Wat Tambor SWE" /> the Skakoan and his [[tactical droid]] [[TA-175]] ruled the planet with an iron fist and many Twi'leks starved as a result of the Separatist occupation. Ryloth was also blockaded by a large Separatist war fleet to deter any Republic attempts to retake Ryloth. When the Senate dispatched reinforcements to retake Ryloth, Tambor ordered the [[Neimoidian]] [[Captain]] [[Mar Tuuk]] to prevent a Republic invasion of the planet.<ref name="Storm Over Ryloth">{{TCW|Storm Over Ryloth}}</ref>
+
+Shortly later, three [[Republic Navy]] [[Venator-class Star Destroyer|''Venator''-class Star Destroyers]] under the command of [[Jedi General]] [[Anakin Skywalker]] and [[Admiral]] [[Wullf Yularen]] emerged from hyperspace. However, Tuuk trapped the Star Destroyers by sending four [[Munificent-class star frigate|''Munificent''-class star frigates]] to interdict them. As a result of this counter-attack, the ''Venator'' Star Destroyer ''[[Redeemer]]'' was crippled while another ship, the ''[[Defender]]'', was badly damaged. Via [[hologram]], Tambor congratulated Tuuk on his success but warned him not to under-estimate the Jedi General Skywalker. Despite the initial setback, General Skywalker used the crippled ''Defender'' to ram into [[Mar Tuuk's Droid Control Ship|Tuuk's flagship]], a [[Lucrehulk-class Battleship|Droid Control Ship]].<ref name="Storm Over Ryloth" />
+
+Republic reinforcements under the [[Jedi Master]]s [[Obi-Wan Kenobi]] and  [[Mace Windu]] then exited hyperspace with three [[Acclamator-class transgalactic military assault ship|''Acclamator''-class transgalactic military assault ships]] carrying substantial ground forces to liberate Ryloth.<ref name="Storm Over Ryloth" /> In response to the planned Republic landings at the Ryloth city of [[Nabat/Legends|Nabat]], Tambor ordered the tactical droid [[TX-20]] to use captive Twi'leks as 'living shields' to deter the Republic's [[clone trooper]]s and their Jedi commanders from launching a heavy attack. As the Republic's [[Ghost Company]] advanced into Nabat, TX-20 unleashed several starved [[gutkurr]]s but the Jedi and clones managed to foil this attack. The capture of Nabat enabled the clone army to march on Lessu.<ref name="Innocents of Ryloth">{{TCW|Innocents of Ryloth}}</ref>
+
+[[File:Windu corners Tambor.png|left|thumb|250px|Emir Tambor cornered by Mace Windu]]
+In response to Master Windu's advance on Lessu, Emir Tambor conferred with TA-175. Despite the odds stacked against him, he refused to order a retreat and claimed that Windu did not have sufficient troops to retake the city. Tambor also ordered that all droids be brought into Lessu in order to secure his stronghold and the strategically important plasma bridge. By this stage, Republic starfighters under General Skywalker had secured the space around Ryloth and General Kenobi had taken the [[Jixuan desert]], allowing the planet's southern hemisphere to fall under Republic control. In response to Tambor's military presence in Lessu, Mace Windu decided to enlist the help of the [[Twi'lek Resistance]] under [[Cham Syndulla]].<ref name="Liberty on Ryloth">{{TCW|Liberty on Ryloth}}</ref>
+
+Later, Wat Tambor and TA-175 conferred with Count Dooku, who ordered the Techno Union foreman to retreat with whatever valuables he could and destroy everything else. While Tambor was alarmed by Dooku's order, the Count explained that he wanted to use Ryloth to demonstrate the cost of a "Republic victory" to the galaxy. As Republic forces closed in on Lessu, Tambor ordered TA-175 to prepare his shuttle for departure. Tambor refused to leave until the last of Ryloth's treasures had been loaded onto his shuttle. This infuriated Count Dooku who wanted him out of the city before Republic reinforcements arrived. The Separatist leader intended to use several [[Hyena-class bomber|''Hyena''-class bombers]] to bomb Lessu as part of a "scorched earth" tactic and did not want the Republic to gain a valuable prisoner.<ref name="Liberty on Ryloth" />
+
+In a desperate attempt to slow down Windu and Cham's advance, Tambor attempted to use Twi'lek civilians as living shields. Despite his best efforts, the Republic and their Twi'lek allies managed to secure control of the plasma bridge and liberate the city. Before Tambor could reach his shuttle, TA-175 departed on the ship with his looted treasures; leaving Tambor to be capture by Master Windu and Cham's forces. Despite Tambor's capture, Count Dooku gave the order for the Hyena bombers to raze Lessu to the ground. When confronted by Windu, the captive Tambor told him that they would perish for the glory of the Separatist cause. However, Dooku's Hyena bombers were knocked out of the sky by Anakin and his [[Padawan]] [[Ahsoka Tano]]'s [[starfighter]]s. Defeated, Tambor surrendered unconditionally to the clone [[trooper]]s and Cham's Twi'lek Resistance forces.<ref name="Liberty on Ryloth" />
+
+====Dealing with the "Bad Batch"====
+[[File:RexStrategyAlgorithm-TBB.png|thumb|right|250px|Skywalker and the "Bad Batch" were obstacles to Tambor's plans]]
+Following his capture on Ryloth, Wat Tambor was incarcerated in the [[Naval Intelligence headquarters|Republic Center for Military Operations]] on [[Coruscant]].<ref name="The Jedi Who Knew Too Much">{{TCW|The Jedi Who Knew Too Much}}</ref> However, he was later freed from Republic custody and rejoined the Separatist war effort,<ref name="Wat Tambor" /> retreating to the Techno Union's headquarters in [[Purkoll]], a city on the planet [[Skako Minor]]. At some point, Tambor obtained a captured [[Advanced Recon Commando|ARC trooper]] designated [[CT-1409]], who had been presumed [[Death|killed]] during a [[Battle of Lola Sayu|mission]] to the [[Citadel]]. Tambor learned that "Echo" was aware of a [[Rex's strategy algorithm|strategy algorithm]] that was developed by [[Clone Captain]] [[Rex|CT-7567]]. Holding Echo within a [[Stasis chamber/Legends|stasis chamber]], Tambor used the unconscious clone trooper to feed the Separatist Admiral [[Trench]] with information on the Republic's tactics during the [[Battle for Anaxes|Separatist invasion]] of [[Anaxes]].<ref name="A Distant Echo">{{TCW|A Distant Echo}}</ref>
+
+Using the strategy algorithm mined from Echo's mind, Admiral Trench won several victories on Anaxes and seemed poised to conquer the planet. In response, Rex and a group of clone troopers known as the [[Clone Force 99|"Bad Batch"]] infiltrated a Separatist [[cyber center]]. During the mission, they discovered a signal originating from Skako Minor, a world that had declared itself neutral during the Clone Wars. They also recognized Echo's voice and deduced he was still alive.<ref name="The Bad Batch">{{TCW|The Bad Batch}}</ref>
+
+[[File:Skakoantechnician.png|thumb|left|250px]]
+Following the clone troopers' attack on the cyber center, Admiral Trench contacted Tambor to warn him that the Republic had traced the algorithm's signal to Skako Minor, cautioning the Techno Union foreman to be ready. The Skaoan resolved to stop the clone rescuers.<ref name="A Distant Echo" />
+
+As expected, Rex, the Bad Batch and the Jedi Knight Anakin Skywalker infiltrated Skako Minor. After landing on the planet and making contact with the native [[Poletec]], the Republic infiltrators managed to trace Echo's signal to Purkoll. Inside the facility, they fought and overpowered several of Tambor's [[D-wing droid]] sentries and managed to find Echo in the [[Core Worlds|Core Systems]] room. Before they could access the chamber, the clones were contacted via hologram by a gloating Wat Tambor, who informed them that they had stumbled into a trap. He told them that he had used Rex's strategy algorithm to predict every move they had made since their arrival on Skako Minor. When Tambor accused the clones of violating Skako Minor's neutrality, Rex responded that the Techno Union had already violated the planet's neutrality by bringing a Republic prisoner. Before departing, Tambor praised the clones for doing their part and ordered several D-wing droids to execute the intruders.<ref name="A Distant Echo" />
+
+The clones managed to free Echo from the stasis chamber but found themselves trapped in the tower. By that time, Wat Tambor and several aides had arrived on the facility's ground floor. Tambor ordered his droids to prepare the [[organic decimator]], a spherical device capable of disintegrating organic lifeforms. When Skywalker contacted Tambor to bargain for Echo, the Techno Union foreman rejected his offer and instead executed a live Poletec prisoner via hologram. Tambor then issued his next ultimatum to the Jedi: that he surrender or be destroyed. Skywalker and the clones rejected Tambor's offer and managed to escape the Core Systems room through an exhaust tunnel before the organic decimator could breach the chamber. As a final "gift", the intruders planted several detonators which destroyed Tambor's machines and research. The foreman was enraged that his prisoner had escaped and at the loss of his machines and years of research.<ref name="On the Wings of Keeradaks" />
+
+Despite Tambor's best efforts to capture the intruders, Skywalker and the clones managed to tame several winged [[keeradak]] reptiles and escape to a Poletec village. In response, Wat sent a force of D-wing droids and [[Octuptarra tri-droid|octuptarra magna tri-droids]] to destroy them. However, the clones and their Poletec allies managed to trap them in a valley and defeat them. The surviving D-wing droids retreated and informed Wat of the defeat. The foreman regarded the loss of Echo as a devastating blow to the Techno Union's profit margins and vowed to find a way to recoup on his company's losses.<ref name="On the Wings of Keeradaks" /> Meanwhile, Skywalker and the clones managed to return with Echo to Anaxes where the Republic devised a plan to defeat Admiral Trench's invasion.<ref name="Unfinished Business">{{TCW|Unfinished Business}}</ref>
+
+Despite the serious breach of security on Skako Minor, Tambor decided not to inform Admiral Trench about the loss of Echo. He reasoned that admitting his failure would hurt the Techno Union's profit margins. This decision had a catastrophic effect on the Separatist war efforts on Anaxes. With the help of Skywalker, Rex and the "Bad Batch", Echo managed to fake a signal from Skako Minor and feed Trench with false strategies. The Separatist Admiral dispatched most of his forces to secure the main [[Anaxes assembly complex|Republic assembly plant]] on Anaxes. This enabled Echo to deactivate them. The Republic and Jedi then managed to defuse one of Trench's bombs, kill the Admiral, and destroy his fleet. As a result, the Republic scored a victory on Anaxes, which continued to produce warships for the Republic's war effort.<ref name="Unfinished Business" />
+
+====Last days of the Confederacy====
+[[File:Vader and Tambor DB.png|thumb|225px|right|Tambor, seconds before being slain by Darth Vader.]]
+Following the [[Battle of Coruscant]] which saw the death of Count Dooku, Wat Tambor and the Separatist Council met with the Separatist military leader [[General]] [[Grievous]] on the sinkhole world of [[Utapau]]. Tambor and the Separatist Council later relocated to the [[Volcano|volcanic]] world of [[Mustafar]],<ref name="Revenge of the Sith" /> whose [[Mustafarian|natives]] had a trade agreement with the Techno Union<ref name="Updated and Expanded" /> and mined unique and valuable minerals from the planet's [[Magma|lava]] rivers on its behalf.<ref name="Mustafar">{{Databank|mustafar|Mustafar}}</ref> Darth Sidious then informed the Separatist Council that his new apprentice [[Darth]] Vader would come and accept their surrender. However, Vader instead [[Mission to Mustafar|executed]] Tambor and the entire Separatist leadership.<ref name="Revenge of the Sith" /> Following his death, the newly-formed [[Galactic Empire]] assumed control of the former Techno Union's assets.<ref name="Confederacy of Independent Systems">{{Databank|confederacy-of-independent-systems|Confederacy of Independent Systems|archivedate=20170504153602}}</ref>
+
+===Age of the Empire===
+During the Galactic Civil War, and at some point following the [[skirmish aboard the Sorca Retreat]], Doctor [[Chelli Lona Aphra|Aphra]] and the [[Son-tuul Pride]] [[Mission to Skako Minor (Son-tuul Pride)|raided]] [[Wat Tambor's workshop]] to find out he had acquired the [[Triple-Zero protocol personality matrix]] almost a [[Standard century|century]] prior. He became interested in studying it, discovered it was too dangerous to be activated, and sent it to [[Quarantine World III]] to be quarantined. Tambor kept the memories of [[0-0-0]] and stored them in the Techno Union databanks as part of the Separatists' Research and Development. After the Clone Wars, the databanks were transferred over to the Empire and shifted into [[Hivebase-1]].<ref name="Doctor Aphra 16" />
+
+==Personality and traits==
+[[File:WatTambor-TCW.jpg|left|thumb|150px|Tambor at the time of the Clone Wars]]
+Standing 1.98 [[meter]]s in height,<ref name="Wat Tambor" /> Wat Tambor had [[Color|green]] skin and black [[eye]]s.<ref name="Attack of the Clones" />
+
+Strict and inventive, Wat Tambor had a mind for war machines<ref name="Galactic Defense">''[[Star Wars: Galactic Defense]]''</ref> and was one of the original and most fervent Separatist leaders, having pledging his loyalty and the Techno Union's battle droid armies to the Confederacy of Independent Systems<ref name="Wat Tambor" /> after being attracted to the movement by Dooku's promises of unlimited pursuit of profits.<ref name="Retail Caucus Droid">{{Databank|retail-caucus-droid|Retail Caucus Droid}}</ref> Despite declaring the Techno Union neutral during the Clone Wars, Tambor was an active supporter of the Separatist cause who channeled substantial resources and information to their war effort. On one occasion, he used the drugged clone trooper CT-1409 to provide Admiral Trench with CT-7567's strategy algorithm, which greatly assisted the Separatist campaign to conquer the Republic world of Anaxes.<ref name="A Distant Echo" /> As a businessman, he was concerned with protecting the Techno Union's profit margins and minimizing losses to his company by all means necessary. His concern with profits led him to hide news of Echo's escape, a catastrophic decision which led to the Republic victory on Anaxes.<ref name="Unfinished Business" />
+
+As both a businessman and military commander, Tambor was known for his ruthlessness and disregard for the lives of other sentient beings. In an attempt to intimidate Anakin Skywalker and Clone Force 99, Tambor used an organic decimator to vaporize a captive Poletec, a native of Skako Minor.<ref name="On the Wings of Keeradaks" /> During the Separatist occupation of Ryloth, many Twi'leks starved under his rule. During a battle in Nabat, he gave orders for Twi'lek civilians to be used as "living shields" to deter the Republic and Jedi forces.<ref name="Storm Over Ryloth" /> Despite his disregard for sentient lives, Tambor was visibly upset when Skywalker and Clone Force 99 destroyed his laboratory along with its machines and years of research.<ref name="On the Wings of Keeradaks" />
+
+At the bidding of Count Dooku, Tambor exercised a "scorched earth" policy towards Ryloth by looting the planet's valuables in order to show the galaxy the "cost" of a Republic victory. However, his avarice cost him dearly when he refused to evacuate Ryloth until the last shipment of valuables had been shipped; a decision which contributed to his capture by Master Windu.<ref name="Liberty on Ryloth" />
+
+==Behind the scenes==
+[[File:TechnoBaron.jpg|thumb|right|250px|Concept art of Wat Tambor by Michael Murnane.]]
+Originally created for the [[2002]] film [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']],<ref name="Attack of the Clones" /> Wat Tambor first appeared in ''[[Cloak of Deception]]'', a [[Star Wars Legends|''Star Wars'' Legends]] novel written by [[James Luceno]]<ref name="Cloak of Deception">''[[Cloak of Deception]]''</ref> that was released on [[May 29]], [[2001]].<ref name="Cloak of Deception release date">{{Amazon|com|/Star-Wars-Deception-James-Luceno/dp/0345442989|''Cloak of Deception''}}</ref> Tambor was voiced by [[Ben Burtt]] in ''Attack of the Clones'',<ref name="Attack of the Clones" /> where he was an entirely computer-generated creation,<ref name="Wat Tambor Old">{{DB|character|wattambor|Wat Tambor}}</ref> and [[Matthew Wood]] in the [[canon]] animated series ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]''.<ref name="Storm Over Ryloth" /> Concept artist [[Michael Murnane]] developed the character's look, giving him an art deco quality of simple shapes and clean lines.<ref name="Wat Tambor Old" />
+
+Tambor's design was developed by concept artist [[Michael Murnane]], who created an art deco look for the character that incorporated simple shapes and lines. In his film appearance, Tambor was entirely [[Wikipedia:Computer-generated imagery|computer-generated]].<ref name="Wat Tambor Old" />
+
+A line of dialogue originally belonging to Poggle the Lesser concerning the production of battle droids was later given to Wat Tambor, explaining that the Techno Union were the builders of most of the new droid army seen in ''Attack of the Clones''.<ref name="Wat Tambor Old" />
+
+In [[2008]], ''Star Wars'' sound designer [[Ben Burtt]] listed Wat Tambor as his "favorite ''Star Wars'' robot."<ref name="Ben Burtt">{{SWArchive|url=fans/rocks/news20080710.html|text=WALL·E Creators List Fave Robots}}</ref>
+
+==Appearances==
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]] {{Flash}}
+*{{TCW|Storm Over Ryloth}} {{Hologram}}
+*{{TCW|Innocents of Ryloth}} {{Hologram}}
+*{{TCW|Liberty on Ryloth}}
+*{{TCW|Hostage Crisis}} {{Flash}}
+*{{TCW|Senate Spy}} {{Flash}}
+*''[[Catalyst: A Rogue One Novel]]'' {{Mo}}
+*{{TCW|The Jedi Who Knew Too Much}} {{C|Appears on security monitor}}
+*{{TCW|A Distant Echo}}
+*{{TCW|On the Wings of Keeradaks}}
+*{{TCW|Unfinished Business}} {{Flash}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+*''[[Doctor Aphra 15: Remastered, Part II]]'' {{Mo}}
+*''[[Doctor Aphra 16: Remastered, Part III]]'' {{Mo}}
+*''[[Doctor Aphra 17: Remastered, Part IV]]'' {{Mo}}
+
+==Sources==
+*{{SW|url=tv-shows/clone-wars/storm-over-ryloth-episode-guide|text="Storm Over Ryloth" Episode Guide - ''The Clone Wars''|org=theclonewars/guide/episode019.html|archivedate=20170628191048}}
+*{{SW|url=tv-shows/clone-wars/innocents-of-ryloth-episode-guide|text="Innocents of Ryloth" Episode Guide - ''The Clone Wars''|org=theclonewars/guide/episode020.html|archivedate=20170706005135}}
+*{{SW|url=tv-shows/clone-wars/liberty-on-ryloth-episode-guide|text="Liberty on Ryloth" Episode Guide - ''The Clone Wars''|org=theclonewars/guide/episode021.html|archivedate=20170707055120}}
+*[[Star Wars: The Clone Wars The Complete Season One|''Star Wars: The Clone Wars'' The Complete Season One]]
+*{{SW|url=tv-shows/clone-wars/the-jedi-who-knew-too-much-episode-guide|text="The Jedi Who Knew Too Much" Episode Guide - ''The Clone Wars''}}
+*{{SWE|characters|chamsyndulla|Cham Syndulla}}
+*{{SWE|locations|ryloth|Ryloth}}
+*{{SWE|characters|wattambor|Wat Tambor}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|cham-syndulla|Cham Syndulla|archivedate=20170608222204}}
+*{{Databank|confederacy-of-independent-systems|Confederacy of Independent Systems|archivedate=20170504153602}} {{Po}}
+*{{Databank|mace-windu|Mace Windu}}
+*{{Databank|poggle-the-lesser|Poggle the Lesser}} {{Po}}
+*{{Databank|separatist-council|Separatist Council}}
+*{{Databank|techno-union|Techno Union}}
+*{{Databank|wat-tambor|Wat Tambor|archivedate=20170603221250}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Wat Tambor#kanon
+|es=Wat Tambor
+|ru=Уот Тамбор/Канон
+|uk=Ват Тамбор
+}}
+
+{{DEFAULTSORT:Tambor, Wat}}
+[[Category:Business owners and executives]]
+[[Category:Males]]
+[[Category:Separatist leadership]]
+[[Category:Skakoans]]
+[[Category:Techno Union members]]

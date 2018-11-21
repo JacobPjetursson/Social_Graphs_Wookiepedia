@@ -1,0 +1,167 @@
+{{Eras}}
+{{Youmay|the commandant in the [[Galactic Empire]]|[[Armitage Hux]], his son}}
+{{Update|[[Phasma (novel)|Phasma]]}}
+{{Character_infobox
+|type=First Order
+|image=[[File:Brendol Hux.png]]
+|name=Brendol Hux
+|homeworld=
+|birth=
+|death=Sometime before the [[attack on Tuanul]]<ref name="Phasma">''[[Phasma (novel)|Phasma]]''</ref>
+|species=[[Human]]<ref name="TSA">''[[Servants of the Empire: The Secret Academy]]''</ref>
+|gender=[[Sexes|Male]]<ref name="TSA" />
+|height=
+|mass=
+|hair=[[Color|Red]], later graying<ref name="TSA" />
+|eyes=Blue<ref name="TSA" />
+|skin=Light<ref name="TSA" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="TSA" />
+**[[Grand Army of the Republic]]<ref name="TSA" />
+*[[Galactic Empire]]<ref name="TSA" />
+**[[Imperial Officer Corps]]<ref name="TSA" />
+**[[Arkanis Academy]]<ref name="TSA" />
+**[[Shadow Council]]<ref name="LD">''[[Aftermath: Life Debt]]''</ref>
+*[[Jakku Imperial remnant]]<ref name="Empire's End">''[[Aftermath: Empire's End]]''</ref>
+*[[First Order]]<ref name="Phasma" />
+**[[First Order military]]<ref name="Phasma" />
+|masters=
+|apprentices=}}
+{{Quote|Commandant Brendol Hux is a man who inspires strong loyalties. The Empire depends on a clear chain of command, and loyalties independent of that chain of command are potentially dangerous.|Lieutenant Chiron's assessment of Commandant Hux|Servants of the Empire: The Secret Academy}}
+'''Brendol Hux''' was a [[human]] [[Sexes|male]] who served the [[Galactic Empire]]. Prior to his service in the Empire, Hux had served as a junior [[officer]] in the [[Grand Army of the Republic]], communicating tactics and strategy as determined by [[Jedi]] [[general]]s. Some four [[Standard year|years]] before the [[Battle of Yavin]], he was the [[commandant]] of the [[Arkanis Academy]]. Hux created the [[Commandant's Cadets]], a secret society within his academy, made up of handpicked [[cadet]]s. After the Imperial [[Battle of Endor|defeat]] at [[Endor]], he was trapped by the [[New Republic]] during the [[Siege of Arkanis]]. However, he escaped with the help of [[bounty hunter]] [[Mercurial Swift]], on the orders of [[Fleet Admiral]] [[Gallius Rax]], who appointed him a member of the new [[Shadow Council]]. He eventually sired an illegitimate son, [[Armitage Hux|Armitage]], who would go on to become a general of the [[First Order]] as one of its first leaders.
+
+==Biography==
+===Serving the Republic and Empire===
+{{Quote|During the Clone Wars, I served in the Grand Army of the Republic. I was a junior officer who communicated tactics and strategy as determined by our Jedi generals.|Brendol Hux|Servants of the Empire: The Secret Academy}}
+[[File:Bear Clan.png|thumb|300px|left|Hux admired the prowess of the Jedi Order, the members of which trained as warriors from a young age.]]
+During the [[Clone Wars]], Brendol Hux was a [[Junior officer|junior]] [[officer]] in the [[Grand Army of the Republic]] who communicated tactics and strategies devised by the [[Galactic Republic]]'s [[Jedi General]]s. Hux admired the combat prowess and dedication of the Republic's [[clone trooper]]s and the [[Jedi Order]], who had been trained from youth as [[soldier]]s and warriors. Following the [[Proclamation of the New Order|transformation]] of the Republic into the [[Galactic Empire]], Hux continued serving the [[Imperial Military]] and was eventually transferred to the [[Arkanis Academy|Imperial Academy]] on [[Arkanis]]. To help run the Academy, Hux also employed the services of a servant [[droid]] called [[DDM-38]] or DeeDee, who was charged with keeping the [[cadet]]s in line. Dissatisfied with the caliber of the Empire's [[stormtrooper]]s, who were normal [[human]] recruits, Hux conceived the idea of training stormtrooper recruits from [[Reproduction|birth]] who would be excellent soldiers and loyal servants of the Empire.<ref name="TSA" />
+
+Unable to find fellow [[Imperial officer|officers]] who would support his ideas, Hux decided to create his own loyal cadre of officers from among the [[Imperial cadet]]s at the Arkanis Academy. Eventually, Hux succeeded in creating a secret society known as the [[Commandant's Cadets]] which operated outside of the official Imperial hierarchy. To join the Commandant's Cadets, prospective members had to [[Death|kill]] a fellow cadet while making their deaths appear to be an accident. As a result, several cadets were killed under suspicious circumstances during training exercises. Commandant's Cadets were given special privileges including being allowed to sit at a special table in the Academy's mess hall. About four [[standard year|years]] before the [[Battle of Yavin]], Hux had recruited at least ten Commandant's Cadets including [[Orman le Hivre]] and [[Rav Horan]].<ref name="TSA" />
+
+===Age of the Empire===
+====Forging young officers====
+{{Quote|This has been a dream of mine for years. I searched for officers who would understand what I proposed, and who could help me create these champions of our Empire. When I didn't find those officers, I decided to follow my own advice&mdash;I would create them. You have been chosen to begin this great work alongside me&mdash;to execute my design. Together, my cadets, we shall oversee the creation of legions that ensure the Empire lives forever.|Brendol Hux, addressing the Commandant's Cadets|Servants of the Empire: The Secret Academy}}
+Shortly later, a promising young cadet from [[Lothal]] named [[Zare Leonis]] was transferred to the Arkanis Academy as a "reward" for his loyalty to the Empire. However, this was a ruse created by [[the Grand Inquisitor]], who wanted to investigate Zare's ties to [[Ezra Bridger|Dev Morgan's]] [[Spectres|rebel cell]]. In reality, Leonis was a secret rebel sympathizer who had joined the Academy in order to find his sister [[Dhara Leonis]], who had been forcibly inducted by the Grand Inquisitor into [[Project Harvester]], which was based in [[Area Null]], a secluded tower attached to the Arkanis Academy.<ref name="TSA" />
+
+[[File:Zare Leonis.png|thumb|250px|right|Zare Leonis infiltrated the Arkanis Academy to search for his sister.]]
+Following Leonis' arrival, Hux identified [[Anya Razar]] as a prospective candidate for the Commandant's Cadets. Later, Anya was placed in charge of a five-member scouting mission during a field exercise that included the Cadets Leonis, [[Penn Zarang]], [[Tigard Manes]], [[Chan Harra]], and [[Xan Lanier]], a low-performing Cadet who had been marked for death by the Commandant's Cadets. As part of this field exercise, the cadets and their [[diplopod]] mounts had to navigate forward while under live-fire. During that exercise, Lanier was killed in an explosion that also killed his and Leonis' diplopod mounts. Lanier's death was subsequently hushed up and Razar was formally inducted during into the Commandant's Cadets during a night ceremony at Area Null. When Leonis tried to follow Razar and the Commandant's Cadets into the tower, he was stopped by DeeDee, who issued him with demerits.<ref name="TSA" />
+
+After Razar's induction, Commandant Hux convened an assembly at the banquet hall which was followed by dinner. During the dinner, the Commandant was visited by the Grand Inquisitor, who spoke to Hux privately. Leonis observed the meeting and noted that the two Imperial officials were arguing. When the Inquisitor noticed Leonis looking at them, he ceased arguing with Hux. Following the dinner, the Grand Inquisitor summoned Leonis for a private meeting at the Commandant's balcony, with the consent of Hux. During the meeting, the Inquisitor warned Leonis that he was close to uncovering his secret connection to the Spectres. Before he could interrogate Leonis further, he was recalled for a priority mission to Lothal which subsequently claimed his life.<ref name="TSA" />
+
+A few days later, Commandant Hux, with DeeDee's assistance, summoned the Academy's cadets to a cliff edge overlooking a nearby beach. A [[nerf]] calf had strayed from the Academy's grounds to search the beach for [[salt]] only to be devoured by a sea monster. Hux took the opportunity to lecture the cadets about the value of training and asked them to come up with ideas on how to prevent future incidents from recurring. When Tigard Manes suggested a gate, the Commandant responded that gates would delay those who had business on the sea and reminded the cadets that they could not wall themselves from all of the galaxy's dangers. He then challenged the other cadets to come up with other ideas.<ref name="TSA" />
+
+When other cadets proposed drone monitors and shock fields, Hux rejected them. However, he welcome Le Hivre's suggestion that they should allow natural selection to eliminate those nerfs which had a taste salt. Hux then asked his cadets if they could come up to a more proactive solution that simply letting nature do its work. When Leonis recommended buying salt for the nerfs, Hux responded that coddling their weaknesses would prevent the development of a strong herd. After Leonis contended that buying salt was better than dead nerfs, Hux took the opportunity to lecture the cadets that the best solution was training the nerfs to avoid the beach. Anya then pointed out that it was only the juvenile nerfs who craved salt. Hux reiterated that they had to train the nerf herd from young to avoid the beach. Having made his point, Hux then informed the cadets that they would be embarking on training exercise on the planet [[Sirpar]] the following day, which he regarded as an ideal testing ground for officers.<ref name="TSA" />
+
+====The rebel infiltrator====
+{{Quote|I've seen how powerful the Empire is&ndash;and how powerful it will become if it isn't stopped. The commandant at the Academy had a vision of an Empire that will rule the galaxy forever.''"<br>"''And you want to keep fighting.''"<br>"''That's the last thing I want. But what choice do we have?|Zare Leonis discussing his experiences of Hux with Merei Spanjaf|Servants of the Empire: The Secret Academy}}
+Following the grueling three-day exercise on Sirpar, Le Hivre identified Leonis as another candidate for the Commandant's Cadets and informed the Commandant. The conclusion of the Sirpar training exercise also coincided with the arrival of [[Lieutenant]] [[Chiron (lieutenant)|Chiron]], an instructor at Lothal's [[Academy for Young Imperials]], who had been transferred following a shake-up in the Academy's leadership. Unknown to Hux, Chiron had been dispatched by [[Grand Moff]] [[Wilhuff Tarkin]] to investigate rumors that Hux had created a secret society outside the official Imperial chain of command. Using his position as a prospective Commandant's Cadet, Leonis offered to help Chiron investigate the Commandant's Cadets.<ref name="TSA" />
+
+[[File:RescueofDharaLeonis.png|thumb|250px|left|Hux announced Leonis would be initiated, but Leonis had other plans&mdash;his sister's rescue.]]
+After Leonis learned that he had to kill a fellow Cadet named Penn Zarang in order to join the Commandant's Cadets, he informed Chiron who helped stage Zarang's death. After burying a rotten side of nerf in "Zarang's" grave, Chiron arranged for Zarang to go into hiding. This ruse satisfied Le Hivre and Anya, who subsequently informed Commandant Hux. One evening, Hux invited Leonis to attend a formal dinner with the other Commandant's Cadets. During the dinner, Hux described his vision for the Empire and talked about how the Commandant's Cadets would bring it to fruition. Following the dinner, Hux announced that they would be initiating Leonis into the organization. The initiation ceremony was to take place at Area Null.<ref name="TSA" />
+
+Before they could enter the building, another group was exiting the ceremonial room. This group turned out to be former dissidents who had been enrolled in an Imperial re-education program known as [[Project Unity]]. One of the participants was [[Beck Ollet]], one of Zare's former classmates on Lothal and a rebel sympathizer. He promptly identified Leonis as a rebel infiltrator. As a result, Leonis was interrogated and subsequently confessed to working with Dev Morgan and his rebel cell. However, he withheld any information about Chiron's secret investigation into the Commandant's Cadets.<ref name="TSA" />
+
+Leonis was tried by a military tribunal with [[Colonel]] [[Julyan]], an instructor at the Arkanis Academy, serving as both the judge and prosecutor. Commandant Hux, DeeDee, and the Commandant's Cadets attended the proceedings and watched as Leonis acknowledged his involvement in the rebellion and pleaded guilty to various charges including fraudulent enlistment, aiding the Empire's enemies, sedition, and treason. Hux and the Commandant's Cadets also listened to Leonis' speech denouncing the Empire but were unmoved by it. At the conclusion of the trial, Colonel Julyan expelled Leonis from military service and sentenced him to death. However, Leonis and his sister Dhara escaped due to a [[Rescue of Dhara Leonis|rescue mission]] launched by Dev Morgan's rebel associates and Leonis' girlfriend [[Merei Spanjaf]].<ref name="TSA" />
+
+===Joining the Shadow Council===
+{{Quote|Brendol, I understand you have a son. Not of your wife&mdash;an illegitimate child? Will he be the best the Empire has to offer?''"<br>"''I... Armitage is a weak-willed boy. Thin as a slip of paper and just as useless. But I'll teach him. You'll... you'll see. He has potential.|Grand Admiral Sloane questioning Hux about his son Armitage, a sore topic for him|Aftermath: Life Debt}}
+At some point, Hux, despite being [[Marriage|married]] to his wife, [[Maratelle Hux|Maratelle]], sired an illegitimate son with a "[[Armitage Hux's mother|kitchen woman]]", whom he named [[Armitage Hux|Armitage]].<ref name="LD" />
+
+After the [[Battle of Endor]], Arkanis was [[Siege of Arkanis|besieged]] by the newly-founded [[New Republic]], the successor to the [[Alliance to Restore the Republic|Rebel Alliance]] that Leonis' allies had helped forge, and was in serious danger of being lost. However, [[Fleet Admiral]] [[Gallius Rax]], intent on rebuilding the Empire, ordered his ''de-facto'' subordinate [[Grand Admiral]] [[Rae Sloane]] to "rescue" the Commandant from the embattled planet. Rax planned to create a [[Shadow Council]] to replace the [[Imperial Ruling Council]] and to facilitate the resurgence of the Empire. Sloane then tasked [[bounty hunter]] [[Mercurial Swift]] to ensure Hux and his son made it off Arkanis safely, which he did.<ref name="LD" />
+
+Swift brought Hux and his son to the [[Vulpinus Nebula]], where Sloane commanded a sizeable [[Imperial Navy|Imperial fleet]]. Following his rescue, Hux attended a dinner aboard the [[Executor-class Star Dreadnought|Super Star Destroyer]] ''[[Ravager]]'' with Grand Admiral Sloane, Grand Moff [[Randd]], [[General]] [[Hodnar Borrum]], and the Imperial propagandist [[Ferric Obdur]]. When Sloane spoke to him and said that she was glad they had evacuated him from Arkanis, he responded that the Arkanis Academy was his life work which produced the best cadets in the Empire. Randd reassured Hux that they would pick themselves up and fight back.<ref name="LD" />
+
+When Hux interrupted Sloane by lamenting about the dark days facing the Empire, Sloane responded by raising the subject of Hux's illegitimate son. Hux described Armitage as a weak-willed boy but insisted he had potential. Despite Hux's reassurances, the other delegates chuckled. After Fleet Admiral Rax entered the room and announced that the Shadow Council would serve as his brain trust, Hux questioned the relevance of propaganda when the Empire needed people, ships, and vehicles on the ground. Rax responded by revealing that he commanded other Imperial fleets in the [[Almagest]], the [[Recluse's Nebula]], the [[Ro-Loo Triangle]], and the [[Inamorata]] nebulae. Hux then outlined his strategy to fight back against the New Republic.<ref name="LD" />
+
+Following the disappearance of Grand Admiral Sloane during the [[Attack on Chandrila|attack]] on the New Republic capital [[Chandrila]], Hux and his fellow Shadow Council members attended a meeting chaired by Rax. After Rax reassured the delegates that they would do everything to get Sloane back, Hux asked whether she was privy to the attack on Chandrila. Rax, who had secretly ordered Sloane's assassination, lied that this was the case. Rax then informed the Shadow Council that he had ordered the Imperial fleets to travel to the desert planet of [[Jakku]] in the [[Western Reaches]]. He also proclaimed himself [[Counselor to the Empire]]. In secret, Rax planned to use the [[Battle of Jakku|upcoming battle]] to eliminate the other Shadow Council members with the exception of Hux.<ref name="LD" />
+
+===Serving Counselor Rax===
+{{Quote|Brendol, please. Time is fleeting fast, too fast. Go to the ship... Understand that you will help be an architect of the future to come. You are a visionary and that is why you are here, alone. This is not a time to test me. This is a time to trust me. Do you trust me?|Galliux Rax saw Brendol Hux playing a role in the Empire's resurgence|Aftermath: Empire's End}}
+[[File:Battle of Jakku.jpg|right|250px|thumb|Brendol Hux was present on Jakku during the climatic Battle of Jakku]]
+For several months, the Imperial remnants on Jakku awaited their showdown with the New Republic. Though [[Norra Wexley]] and [[Norra Wexley's team|her team]] discovered Rax's Imperial armada, the New Republic delayed sending its military forces due to deadlock in the [[Galactic Senate (New Republic)|Galactic Senate]]. During that time, Brendol Hux trained at least two dozen local orphans and children as Gallius Rax's personal guard of [[Gallius Rax's child soldiers|child soldiers]]. These children had been kidnapped by [[Niima]] the [[Hutt]], who had struck up an alliance with Rax.<ref name="Empire's End" />
+
+Since Hux was not a member of either the [[Imperial Army]] or Imperial Navy, he was unpopular with the other Imperials on Jakku. Hux also emotionally and physically mistreated his son Armitage, causing the boy to avoid his father. In the days leading up to the Battle of Jakku, Counselor Rax summoned Hux and inquired about the training progress of his new recruits. When Hux pleaded for more time, Rax told him to prove himself with the promise that he would tell him about the secret [[Contingency]] plan When Hux expressed puzzlement, Rax warned that his failure would be punished with being forced to spend the rest of his days wandering the deserts of Jakku. In order to please Rax, Hux replied that he would do whatever Rax requested.<ref name="Empire's End" />
+
+Rax's child soldiers assassinated the propagandist Ferric Obdur aboard the ''Ravager''. After Sloane and the rebel [[Brentin Lore Wexley]] had been captured, Hux brought Rax's child soldiers to a [[hangar]] where several stormtroopers were present. Hux witnessed as Rax gave the order for the child soldiers to kill the stormtroopers. Following the massacre, Rax announced that he was bringing about the destruction of the "Old Empire." Pleased with Hux's competence, Counselor Rax ordered Hux and the child soldiers to escort Sloane and Wexley to a tent to watch the Battle of Jakku.<ref name="Empire's End" />
+
+During the Battle of Jakku, Hux, his son Armitage, the Adviser Yupe Tashu, and the child soldiers traveled on a transport to the [[Jakku Observatory]], a secret site which contained a [[Imperialis (Jakku)|replica]] of the late Emperor's luxury yacht ''[[Imperialis]]'', a computerized map of the [[Unknown Regions]], and a deep borehole which led to Jakku's core. Prior to his death, the late Emperor had tasked Gallius Rax with carrying out the Contingency plan to destroy the Empire should it outlive him. Rax planned to take Hux and several other select Imperials into the Unknown Regions to rebuild the Empire.<ref name="Empire's End" />
+
+===In the Unknown Regions===
+{{Quote|It's time to start over. This is our first order. To begin again. And to get it right, this time.''"<br>"''Yes, of course, Grand Admiral. Anything you need. Glory be to Grand Admiral Sloane.''"<br>"''No. Glory goes only to the Empire.|Rae Sloane and Brendol Hux became reluctant allies|Aftermath: Empire's End}}
+[[File:Grand Admiral Sloane.png|left|150px|thumb|Hux and Sloane developed a tenuous alliance to rebuild the Empire]]
+Upon disembarking, Rax told Hux to take his son and the child soldiers aboard the ''Imperialis'' while he and Tashu went to trigger Jakku's destruction. When Hux tried to question him, Rax told him to trust in him. Rax ultimately killed Tashu before being killed by Sloane with the help of the rebels Norra Wexley and her husband Brentin Lore Wexley. Sloane managed to stop Jakku's self-destruct mechanism before fleeing aboard the ''Imperialis'' with the Huxes and the child soldiers. At the urging of the dying Rax, Sloane had decided to venture into the Unknown Regions to rebuild a more resilient version of the Empire.<ref name="Empire's End" />
+
+Using a series of safe coordinates stored inside a [[computer spike|dataspike]], the ''Imperialis'' traveled through the Unknown Regions for several months. During the journey, Grand Admiral Sloane befriended Hux's son Armitage and promised to protect the boy from his abusive father. Sloane found a despondent Brendol in his room and showed him Rax's bloody cape and the data spike containing the map coordinates. Despite their mutual animosity, Sloane wanted to forge an alliance so that they could rebuild the Empire. Hux tried to strangle Sloane but the Grand Admiral was an experienced martial artist and beat him into submission. Using the threat of physical force, Sloane then ordered Hux to work for her. She also warned him to stop mistreating Armitage and to teach him everything he knew about the Empire. After blubbering, Hux nodded his head.<ref name="Empire's End" />
+
+For the rest of the journey, Brendol bid his time by training his son and Rax's child soldiers in combat. During that time, Hux trimmed his hair and bear and lost some of his excess weight. Several months after the Battle of Jakku, the ''Imperialis'' rendezvoused with the [[Super Star Destroyer]] ''[[Eclipse (Executor-class)|Eclipse]]'', which Rax had sent earlier into the Unknown Regions as part of the Contingency. As they approached the ''Eclipse'', Hux expressed his support for Sloane's plan to rebuild the Empire and remarked "glory be to Grand Admiral Sloane." Sloane responded by corrected him that glory only went to the Empire.<ref name="Empire's End" />
+
+In Rax's absence, [[Grand Vizier]] [[Mas Amedda]] sued for peace and signed the [[Galactic Concordance]] with the New Republic, officially dissolving the Empire and ending the [[Galactic Civil War]].<ref name="Empire's End" /> With the Empire reduced to a remnant hemmed in by harsh war reparations and strict disarmament treaties, the New Republic turned its attention to reshaping the galactic order. Hux and Armitage joined the Imperial exodus that fled [[The galaxy|the known galaxy]] into the Unknown Regions. In exile, the elder Hux raised his son on stories of great Imperials and how the Empire had saved the galaxy from the violence of the Clone Wars.<ref name="TFA Visual Dictionary">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+
+Following the Galactic Concordance, many on Arkanis speculated on the circumstances of Hux's disappearance. While some claimed that he had given up, others like the [[First Order]] sympathizer and New Republic [[Senator]] [[Lord|Lady]] [[Carise Sindian]] believed that a hero of the Empire would not have surrendered so abjectly. While her First Order handlers had not disclosed Hux's fate, she believed that he was somehow aiding them.<ref name="Bloodline">''[[Bloodline (novel)|Bloodline]]''</ref>
+
+===Death===
+Sometime after [[Phasma]]'s recruitment and Brendol's return from his shipwreck on [[Parnassos]], Phasma and Armitage met and conspired to [[assassin]]ate Brendol. Both agreed that the time had come for Brendol to die, and Hux left the actual killing up to Phasma with his only instruction being that she make it untraceable. Phasma went on to kill Brendol with the toxin from the bite of a [[Parnassos beetle]].<ref name="Phasma" />
+
+===Legacy===
+{{Quote|How capable are your soldiers, General?''"<br />"''I won't have you question my methods.''"<br />"''They're obviously skilled at committing high treason. Perhaps Leader Snoke should consider using a clone army.''"<br />"''My men are exceptionally trained&mdash;programmed from birth&mdash;|[[Kylo Ren]] and General Hux|Star Wars: Episode VII The Force Awakens}}
+[[File:Hux.jpg|thumb|220px|right|Armitage Hux adopted his father's practices and ruthlessly trained the stormtroopers of the First Order.]]
+Eventually, the First Order arose from the ashes of the defeated Empire. Armitage Hux, having grown up hearing his father's stories about how the Empire saved the galaxy from the chaos of the Clone Wars, followed in his footsteps and became a general within its ranks. Armitage adopted his father's practices to ruthlessly train a new generation of specially-bred [[Stormtrooper (First Order)|stormtroopers]] to help destroy the Republic and restore what he saw as order to a chaotic galaxy.<ref name="TFA Visual Dictionary" /> General Hux, the commander of the [[superweapon]] known as [[Starkiller Base]], delivered a devastating blow to the New Republic by destroying its capital of [[Hosnian Prime]], but the base was destroyed by the [[Resistance]] that had been formed to combat the First Order. General Hux and the First Order, however, lived on to continue fighting.<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+
+In addition, [[Cardinal]] was considered to be one of Brendol's best recruits and right-hand man, someone who would earn even the high regard of Supreme Leader Snoke himself. Cardinal would personally head the physical training for the stormtrooper program. He would eventually come to blows with both Phasma and Armitage for their roles in the death of Brendol Hux. His first attempt to kill Phasma would fail, leading to him coming close to death and necessitating the aid of Resistance operative and spy [[Vi Moradi]]. His fate thereafter would remain unknown for some time.<ref name="Phasma" />
+
+By [[34 ABY]], some First Order officers felt that Brendol would have likely been a preferred option to take the reins of Palpatine's Empire before [[Snoke]] rose to become the First Order's [[Supreme Leader]].<ref name="Expanded Edition">''[[Star Wars: The Last Jedi: Expanded Edition]]''</ref>
+
+==Personality and traits==
+{{Quote|Buy salt, sir. Give it to your nerfs.''"<br>"''So you would coddle their weaknesses? Is that any way to create a strong herd, cadet?|Zare and Hux; Hux was a firm believer in natural selection|Servants of the Empire: The Secret Academy}}
+Brendol Hux was a dedicated but ruthless Imperial military officer who wanted to create deeply loyal stormtroopers who excelled in combat. While he admired the combat prowess and devotion of the Old Republic's clone troopers and Jedi Order, he regarded the Empire's stormtroopers as sub-par in comparison to their historical predecessors. As a result, Hux conceived the idea of raising worthy stormtroopers from birth. While his ideas were rejected by contemporary Imperial officers during the reign of [[Galactic Emperor|Emperor]] [[Darth Sidious|Palpatine]],<ref name="TSA" /> his ideas were readily accepted by the First Order and greatly influenced the military junta's stormtrooper training regime.<ref name="TFA Visual Dictionary" />
+
+In addition, Hux was a firm believer in natural selection and advocated weeding out "undesirable" individuals, whether cadets or nerfs, in order to create a strong population. Hux's adherence to natural selection led him to engineer the deaths of several "low-performing" cadets including Xan Lanier. Hux's efforts to raise a strong herd of nerfs led him to reject protective measures in favor of using punishment and the threat of death to bring the animals into line.<ref name="TSA" />
+
+By 5 ABY, Hux had gained weight and his jaw was covered by stubble. Grand Admiral Sloane regarded him as a "big, blustering, ego-fed pig" and disliked his habit of interjecting during conversations. Hux was embarrassed when Sloane raised the matter of his illegitimate son Armitage Hux. Hux took pride in his cadets and was annoyed when Sloane suggested that even they were not enough to save the Empire from defeat. While Hux regarded his son as a weak-willled boy, he believed that the boy still had potential. While skeptical of Fleet Admiral Rax's plans, he was mollified when Rax revealed that he commanded several Imperial fleets scattered across the Galaxy.<ref name="LD" />
+
+The harsh desert conditions of Jakku took a toll on Hux. His hair became unkempt and he developed a paunch. Brendol spent little time with his son Armitage and mistreated the boy physically and psychologically. Brendol used his skills as a commandant to train local orphans into Rax's praetorian guard of assassins and child soldiers. Brendol came to put his faith in Gallius Rax's vision of a resurgent Empire and acquiesced to the Contingency plan. Hux had a poor relationship with Sloane, who disapproved of his harsh treatment of Armitage. Hux was no match for the seasoned Sloane in unarmed combat and became her subordinate ally. The older Hux also exhibited signs of sycophancy after being beaten into submission by Sloane.<ref name="Empire's End" />
+
+As a patriotic Imperial, Hux raised his son on stories of heroic Imperials and how the Empire had saved the galaxy from chaos after the Clone Wars. The younger Hux also accepted the older Hux's view that the New Republic was too weak to save the galaxy from chaos and that the First Order was needed to save the galaxy from itself.<ref name="TFA Visual Dictionary" />
+
+One of his recruits from Jakku, Cardinal, would notice that Hux tended to look at him in a much more closer and familial light than he did his own son. Cardinal would quickly grow to accept Hux's indoctrination and would take to heart the lessons imparted to him about loyalty to the First Order above all else.<ref name="Phasma" />
+
+==Behind the scenes==
+Brendol Hux first appeared as a minor antagonist in [[Jason Fry]]'s [[2015]] junior novella [[Servants of the Empire: The Secret Academy|''The Secret Academy'']], the last book in the ''[[Star Wars Rebels: Servants of the Empire|Servants of the Empire]]'' series. He was later identified as the father of General Hux, a secondary antagonist from ''[[Star Wars: Episode VII The Force Awakens]]'' and the mastermind behind the First Order's stormtrooper training regimen. Hux was briefly mentioned in [[Claudia Gray]]'s [[2016]] novel ''[[Bloodline (novel)|Bloodline]]''. He later appeared as a supporting character in [[Chuck Wendig]]'s 2016 novel ''[[Aftermath: Life Debt]]'', the second book in ''[[Star Wars: The Aftermath Trilogy]]''. He was also one of the main characters of the ''[[Journey to Star Wars: The Last Jedi]]'' novel ''[[Phasma (novel)|Phasma]].''
+
+The character was created by Jason Fry, who upon being given story material for ''The Force Awakens'' to review for the reference title ''[[Star Wars: The Force Awakens: Incredible Cross-Sections]]'' noted that the character of Hux was very young. He saw an opportunity to introduce the character's origins and build excitement for the film, while showing the Commandant's Cadets as real threat for new readers following the film's release. He rejected another idea of tying the characters of Anya Razar from the same novel and [[Captain]] Phasma from ''The Force Awakens'' together by suggesting they were one and the same, but did suggest an idea of the droid DDM-38 pushing a red-haired baby in a pram. While this was rejected, he nevertheless enjoyed seeing a fan-art of the young Armitage Hux in the arms of a creepy [[nanny droid]].<ref name="dorkery">{{Cite web|url=http://jasonfry.tumblr.com/post/158933265951/authors-notes-the-secret-academy-pt-1|title=Author's Notes: The Secret Academy, Pt. 1|first=Jason|last=Fry|publisher=Tumblr|date=March 28, 2017|accessdate=May 18, 2017}}</ref>
+
+==Appearances==
+*''[[Servants of the Empire: The Secret Academy]]'' {{1st}}
+*''[[Aftermath: Life Debt]]''
+*''[[Aftermath: Empire's End]]''
+*''[[Bloodline (novel)|Bloodline]]'' {{Mo}}
+*''[[Phasma (novel)|Phasma]]''
+*''[[Star Wars: The Last Jedi: Expanded Edition]]'' {{Mo}}
+
+==Sources==
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*{{SW|url=news/the-force-awakens-secret-inside-the-secret-academy|text=''The Force Awakens'' Secret ''Inside The Secret Academy''}}
+*''[[Star Wars: Galactic Atlas]]'' {{1stp}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|general-hux|General Hux|archiveurl=https://archive.fo/3JBAI}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Brendol Hux
+|ko=브렌돌 헉스
+|pl=Brendol Hux
+|pt=Cânon:Brendol Hux
+|ru=Брендол Хакс
+|uk=Брендол Гакс
+}}
+
+{{DEFAULTSORT:Hux, Brendol}}
+[[Category:Humans]]
+[[Category:Leaders of the First Order]]
+[[Category:Males]]
+[[Category:Officers of the Galactic Empire]]

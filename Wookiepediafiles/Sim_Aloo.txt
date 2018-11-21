@@ -1,0 +1,68 @@
+{{Eras}}
+{{Character
+|type=Galactic Empire
+|image=[[File:SimAlooPortrait-CSWE.jpg]]
+|name=Sim Aloo
+|homeworld=
+|birth=
+|death=[[4 ABY]], [[Death Star II]]<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref> {{C|Presumably}}<ref name="DB Sim">{{Databank|sim-aloo|Sim Aloo|archiveurl=https://web.archive.org/web/20160520064348/http://www.starwars.com/databank/sim-aloo}}</ref>
+|species=[[Human]]<ref name="DB Sim" />
+|gender=[[Sexes|Male]]<ref name="DB Sim" />
+|height=
+|mass=
+|hair=[[Color|Gray]]<ref name="Visual Encyclopedia">''[[Star Wars: The Visual Encyclopedia]]''</ref>
+|eyes=Blue<ref name="Episode VI" />
+|skin=Light<ref name="Episode VI" />
+|cyber=
+|era=
+|affiliation=*[[Aloo family]] <ref name="Mighty Chewbacca">''[[The Mighty Chewbacca in the Forest of Fear!]]''</ref>
+*[[Galactic Empire]]<ref name="Episode VI" />
+|masters=
+|apprentices=}}
+'''Sim Aloo''' was a [[human]] [[Sexes|male]] who served as an [[Emperor's adviser|adviser]] to [[Galactic Emperor|Emperor]] [[Darth Sidious|Sheev Palpatine]], the sole ruler of the [[Galactic Empire]], during the [[Galactic Civil War]]. He traveled with Palpatine to the [[Death Star II]], where the Emperor oversaw its construction before the [[Battle of Endor]]. Aloo was present in a meeting between the Emperor and his subordinates, including [[Anakin Skywalker|Darth Vader]] and [[Moff]] [[Tiaan Jerjerrod]], and continued to advise his master aboard the [[battle station]]. He presumably perished when the Death Star was destroyed by the [[Alliance to Restore the Republic|Rebel Alliance]].
+
+==Biography==
+Sim Aloo served as one of [[Galactic Emperor|Emperor]] [[Darth Sidious|Sheev Palpatine's]] closest [[Emperor's adviser|advisers]] during the [[Imperial Era|age]] of the [[Galactic Empire]].<ref name="DB Sim" /> Although Palpatine tended to use him more as an errand boy, Aloo walked around like a [[Deity|god]] on his [[homeworld]],<ref name="beware">''[[Return of the Jedi: Beware the Power of the Dark Side!]]''</ref> and his duties as [[Advisor|adviser]] had an actual importance in the [[Standard day|day]]-to-day governance.<ref name="Tarkin">''[[Tarkin (novel)|Tarkin]]''</ref> In the years leading up to the [[Galactic Civil War]], Aloo and his colleague, [[Janus Greejatus]] were tasked with collecting [[Sith]] [[Sith artifact|artifacts]] from across [[the galaxy]] for their master. The Emperor heard rumors of a [[Enchantress' book|book]] of [[Dark side of the Force|dark power]] guarded by [[Corellian hound|monsters]] in a [[forest]] on the [[planet]] [[Ushruu]] and expressed interest in having it for himself. Aloo enlisted his daughter, [[Alinka Aloo]], to assist with this task. She formulated a plan to retrieve the [[book]] from the Ushruu, by extorting the aid of the [[wookiee]] [[Chewbacca]] and the [[bounty hunter]]/[[librarian]], [[Mayvlin Trillick]], who was captured by Sim Aloo's guards while attempting to steal the ''[[Mola Oktaro]]'' from one of his [[warehouse]]s. The [[Alliance to Restore the Republic|rebels]] caught wind of this and sent the [[Intelligence officer|spy]] [[Cassian Jeron Andor|Cassian Andor]] and [[K-2SO]] to stop the [[Aloo family]].<ref name="Mighty Chewbacca" />
+
+After the [[Battle of Hoth]], the Emperor allowed the enemy Rebel Alliance to learn that the [[Death Star II|second Death Star]], a planet-killing [[battle station]], was being constructed in [[orbit]] over the [[forest]] [[moon]] of [[Endor]]. In order to entice the Rebels into a trap, Palpatine personally traveled to the Death Star to oversee the final phases of its construction.<ref name="Episode VI" /> Along with his colleague Janus Greejatus<ref name="DB Janus">{{Databank|janus-greejatus|Janus Greejatus|archiveurl=https://web.archive.org/web/20180612142030/http://www.starwars.com/databank/janus-greejatus}}</ref> and four other advisers, Aloo accompanied the Emperor to the Death Star. Their arrival was greeted by [[Anakin Skywalker|Darth Vader]], the Emperor's [[Sith apprentice|apprentice]]; [[Moff]] [[Tiaan Jerjerrod]], the station's [[commander]]; and an assemblage of [[stormtrooper]]s and [[Imperial officer|officers]].<ref name="Episode VI" />
+
+[[File:GreejatusAndFriends-ROTJ.jpg|thumb|left|250px|Aloo and Greejatus meet with the Emperor and Vader aboard the second Death Star.]]
+Once aboard the Death Star, the Emperor spent his [[time]] in his [[Emperor's Throne Room|throne room]], and his advisers conferred with him there. Aloo, Greejatus, and the Emperor were having a gathering when Vader and Jerjerrod interrupted them. The advisers waited silently as the Emperor shrugged off the concerns of Vader, who knew the [[Alliance Fleet]] was massing near the planet [[Sullust]]. The Emperor ordered Vader to move the [[Imperial Navy|Imperial fleet]] surrounding the Death Star to the far side of Endor, where he intended for it remain until the Rebel attack. Confident that his trap would successfully see the end of the Rebel Alliance, Palpatine dismissed Vader and Jerjerrod, resuming his gathering with Aloo and Greejatus.<ref name="Episode VI" />
+
+The Emperor's plan to destroy the Rebels, as well as to convert Vader's son, [[Luke Skywalker]], to the [[dark side of the Force]], ultimately failed. Skywalker redeemed his [[Parent|father]], who [[Death|killed]] the Emperor shortly before Skywalker escaped, and the Rebels [[Battle of Endor|destroyed]] the Death Star.<ref name="Episode VI" /> It was assumed that Aloo was still aboard when the battle station exploded.<ref name="DB Sim" />
+
+==Personality and traits==
+A skeletal-looking individual clad in flowing purple [[robe]]s and a tall Imperial dignitary [[hat]], Aloo was a [[human]] [[Sexes|male]]<ref name="DB Sim" /> who had pale skin and [[Color|blue]] [[eye]]s.<ref name="Episode VI" /> In the Emperor's presence, the adviser behaved with much humility and obedience, cowering near the Imperial throne.<ref name="beware" />
+
+Sim Aloo's family was very rich. He owned warehouses full of [[book]]s, artwork, jewelry and more items from all across the galaxy. Because Aloo was often busy with his governmental duties, he would frequently have his daughter oversee the day-to-day running of the family business.<ref name="Mighty Chewbacca" />
+
+==Behind the scenes==
+{{Quote|On ''Jedi'', one of the most exciting things from a design point of view was the advisers who surround the Emperor. I spent a lot of time trying to figure out what they might look like because I thought it was important that through them you might understand what the Emperor's world is like. Coming from a Catholic background, I sort of made a joke, and that's why they look like bishops. So they wear red, and they have elaborate headgear. This was a challenge because it wasn't in the script, and you see them only briefly in the movie.|[[Nilo Rodis-Jamero]], on the designs of Sim Aloo and the other Imperial advisors|Star Wars: The Annotated Screenplays}}
+Sim Aloo first appeared as an unnamed [[Galactic Empire|Imperial]] advisor in the [[1983]] film [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']], in which the character has no dialogue.<ref name="Episode VI" /> The character, who was portrayed by [[Anthony Lang]],<ref name="Aveleyman">{{Cite_web |url=http://www.aveleyman.com/ActorCredit.aspx?ActorID=25327|title=Anthony Lang|accessdate=March 22, 2015|work=Aveleyman.com|archiveurl=https://web.archive.org/web/20170716150223/http://www.aveleyman.com/ActorCredit.aspx?ActorID=25327|archivedate=2017-07-16}}</ref> went unnamed until the name Sim Aloo was used in the [[Star Wars Legends|''Star Wars'' Legends]] [[Star Wars Customizable Card Game|''Star Wars'' Customizable Card Game]] pack ''[[Death Star II Limited]]''.<ref name="DS2 Limited">{{CCG|set=Death Star II Limited|link=DeathStarII-Dark/large/simaloo.gif|cardname=Sim Aloo}}</ref>
+
+Aloo's costume was designed by [[Nilo Rodis-Jamero]]. Rodis-Jamero felt that the look of the Imperial advisors was one of the most exciting designs from ''Return of the Jedi'' and thought their design would need to convey an idea about the kind of world that the Emperor lived in. Rodis-Jamero based the look on that of Catholic bishops, with red coloring and ornate headpieces.<ref name="Annotated">''[[Star Wars: The Annotated Screenplays]]''</ref>
+
+==Appearances==
+*''[[The Mighty Chewbacca in the Forest of Fear!]]'' {{Mo}}
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+
+==Sources==
+*''[[Star Wars: Force Collection]]''
+*{{SWE|characters|darthsidious|Darth Sidious}} {{Po}}
+*{{SW|url=explore/the-movies/episode-vi/|text=Star Wars: Episode VI - Return of the Jedi|archivedate=20170906223002}} {{Video}}
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*{{Databank|sim-aloo|Sim Aloo|archivedate=20160520064348}} {{1stID}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ja=シム・アロー
+}}
+
+{{DEFAULTSORT:Aloo, Sim}}
+[[Category:Bureaucrats of the Galactic Empire]]
+[[Category:Humans]]
+[[Category:Males]]

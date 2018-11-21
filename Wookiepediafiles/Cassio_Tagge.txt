@@ -1,0 +1,141 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=Galactic Empire
+|image=[[File:GenCassioTagge-ANH.png]]
+|name=Cassio Tagge
+|homeworld=[[Tepasi]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[0 ABY]], ''[[Executor]]'', [[Kuat system]]<ref name="Darth Vader 25">''[[Darth Vader 25: End of Games, Part VI]]''</ref>
+|species=[[Human]]<ref name="ANH">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref>
+|gender=[[Sexes|Male]]<ref name="ANH" />
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="ANH" />
+|eyes=Brown<ref name="ANH" />
+|skin=Fair<ref name="ANH" />
+|cyber=
+|era=
+|affiliation=*[[TaggeCo]]<ref name="Tarkin">''[[Tarkin (novel)|Tarkin]]''</ref>
+*[[Galactic Empire]]<ref name="ANH" />
+**[[Joint Chiefs]]<ref name="Tarkin" />
+**[[Imperial Army]]<ref name="Tarkin" />
+**[[Imperial Officer Corps]]<ref name="ANH" />
+|masters=
+|apprentices=}}
+{{Quote|Tagge always argued against the arrogance of the Death Star as a sole weapon. He alone was properly wary of the Rebels' threat.|Darth Sidious|Darth Vader 1: Vader}}
+'''Cassio Tagge''' was a member of the [[Joint Chiefs]] and [[Chief of the Imperial Army]] during the [[Imperial Era|reign]] of the [[Galactic Empire]]. [[General]] Tagge, who was born into a powerful [[Tagge family|family]], which owned [[TaggeCo]] [[mining]] operations, was stationed on [[Coruscant]] where he had access to the upper-levels of the [[Imperial Palace]]. Following the [[Battle of Yavin]] and the destruction of the [[DS-1 Orbital Battle Station|Death Star]], Tagge was elevated to the rank of [[Grand General]] by [[Galactic Emperor|Emperor]] [[Darth Sidious|Sheev Palpatine]]. However, a string of humiliating and arrogant failures would bring an end to Tagge's storied career as well as his life.
+
+==Biography==
+===Early life and career===
+A [[Sexes|male]] [[human]] from the [[planet]] [[Tepasi]],<ref name="Ultimate Star Wars" /> Cassio Tagge was [[Reproduction|born]] to a [[noble]] and wealthy [[Tagge family|family]]<ref name="SWCT">{{Topps|set=Star Wars: Card Trader|sformat=''Star Wars'': Card Trader|cardname=General Tagge - Galactic Empire|link=http://starwarscardtrader.wikia.com/wiki/General_Tagge_-_Galactic_Empire}}</ref> who owned and operated [[TaggeCo]], a company that notably had mining interests on [[Lucazec]]. At some point, Tagge joined the ranks of the [[Galactic Empire]],<ref name="Tarkin" /> the autocratic [[Politics|government]] that [[Proclamation of the New Order|replaced]] the [[Galactic Republic]] at the end of the [[Clone Wars]].<ref name="DB Empire">{{Databank|galactic-empire|Galactic Empire|archivedate=20170905053927}}</ref> Six years into the [[Imperial Era|reign]] of the [[Galactic Emperor|Emperor]], [[Darth Sidious]], Tagge served as a [[General]] and headed the [[Imperial Army]] as the [[Chief of the Imperial Army]], and as a member of the [[Joint Chiefs]]. By this time, he was considered a rival to the head of the [[Naval Intelligence Agency]], [[Vice Admiral]] [[Dodd Rancit]].<ref name="Tarkin" />
+
+That year, Tagge gathered with the rest of the Joint Chiefs on [[Coruscant]] to confer with members of the [[Imperial Ruling Council]] and the intelligence agencies of [[Commission for the Preservation of the New Order|COMPNOR]] to discuss the attacks carried out by a [[Berch Teller's rebel cell|group of insurgents]] who had hijacked [[Moff]] [[Wilhuff Tarkin]]'s personal vessel, the ''[[Carrion Spike]]''. During the meeting, word arrived that the insurgents were [[Attack on Lucazec|attacking]] Imperial assets on Lucazec, which alarmed Tagge due to TaggeCo having operations on the planet. He watched in anger as footage came in of the insurgents destroying both space and surface operations on the planet. The insurgents were eventually caught and executed, and Tagge was among those rewarded for his aid in stopping the threat.<ref name="Tarkin" />
+
+===Aboard the Death Star===
+{{Quote|If the Rebels have obtained a complete technical readout of this battlestation it is possible&mdash;however unlikely&mdash;that they might find a weakness, and exploit it."<br>"The plans you refer to will soon be back in our hands.|General Cassio Tagge and Darth Vader|Star Wars: Episode IV A New Hope}}
+[[File:TaggeNeedsBureaucracy-ANH.png|thumb|left|250px|Tagge reacts to the news that the Emperor has disbanded the Imperial Senate.]]
+Shortly before the [[Battle of Yavin]], Tagge was stationed aboard the [[DS-1 Orbital Battle Station|Death Star]], where he was in charge of army operations as [[Chief of the Imperial Army]].<ref name="SWCT" /><ref name="AbEverything">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref> During a meeting of high ranking imperials aboard the Death Star, Tagge argued with fellow Joint Chief [[Admiral]] [[Conan Antonio Motti]], who did not share Tagge's view that the [[Alliance to Restore the Republic|Rebel Alliance]], which had [[Battle of Scarif|stolen]] [[Death Star plans|plans]] to the Death Star, represented a threat to the Empire and to the Death Star. Motti dismissed Tagge's concerns, noting that while the Rebels might pose a threat to Tagge's fleet, they were no threat to the Empire. Tagge began to point out that the Rebels had been building support within the [[Imperial Senate]], but was interrupted by the arrival of [[Grand Moff]] Tarkin and [[Anakin Skywalker|Darth Vader]], who informed the [[officer]]s that the Senate had been disbanded by the Emperor. Tagge was stunned by this news, and openly questioned how control would be maintained without the bureaucracy, but Tarkin revealed that regional [[governor]]s like himself would now wield total control over their territories, with the threat of the Death Star keeping systems in line through fear.<ref name="ANH" />
+
+Tagge protested again that the Rebel Alliance was a threat to that plan due to their possession of the technical readouts of the Death Star, but Darth Vader claimed that the plans would soon be recovered and Motti stated that even with the plans, any attack would be useless against the battlestation. After suggesting that they use the Death Star, Motti began to argue with and insult Vader due to his failure to locate the stolen plans and his devotion to [[the Force]]. Tagge watched uncomfortably with the other officers as Vader began [[Force choke|choking]] Motti with the Force until Tarkin ordered him to stop. The Grand Moff then addressed Tagge's concerns by claiming that Vader would soon learn the location of both the plans and the hidden Rebel base, after which the Rebellion would be swiftly crushed along with any threat it presented to the Empire.<ref name="ANH" />
+
+===Grand General of the Empire===
+{{Quote|Tarkin had vision. You have graphs.''"<br />"''I have graphs ''and'' the command.|Darth Vader and Grand General Tagge|Darth Vader 2: Vader, Part II}}
+Despite the confidence and arrogance of Tarkin and Motti in the might of the Death Star, Tagge's fears were soon realized when the Rebels destroyed the battlestation at the [[Battle of Yavin]]. Tagge survived the destruction of the Death Star,<ref name="Darth Vader 1">''[[Darth Vader 1: Vader]]''</ref> having left the station to investigate [[Prince]]ss [[Leia Organa]]'s false claims about an active Rebel base on [[Dantooine]].<ref name="Marvel Panel Liveblog">{{SW|url=news/swca-star-wars-comes-home-to-marvel-panel-liveblog|text=SWCA: ''Star Wars'' Comes Home to Marvel Panel Liveblog}}</ref> During the process of Tagge's investigation, his forces brought back a female [[Chelli Lona Aphra|individual]] who had been skulking around the perimeter and had greeted the Stormtroopers openly. Tagge briefly questioned this individual about her motives, to which the individual claimed that she was simply salvaging any components left over in the abandoned base. Tagge became suspicious about her knowledge of the base's connection to the Rebels but ultimately came to the correct conclusion that the individual had no prior relationship with the Rebel Alliance. Despite this conclusion, Tagge decided that she was still too dangerous to let live. He then ordered her execution, which was then forced to be carried out by one of the Stormtroopers under his command. This decision to use only one Stormtrooper to execute the individual (whether made by Tagge or one of his sub-commanders) would prove to be faulty as the individual would quickly make her escape from the attempted execution and the planet.<ref name="The Trigger">{{Shortstory|story=The Trigger|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}</ref>
+
+After the Battle of Yavin, Tagge was praised by the Emperor for having the foresight to recognize the Rebel threat and weaknesses of the Death Star. As a reward, Tagge was elevated to the rank of [[Grand General]] and placed in charge of the [[Imperial Military|Imperial military]], which would now be governed by his philosophy as the [[Death Star II|second Death Star]] was constructed.<ref name="Darth Vader 1" />
+
+[[File:Vader Tagge Map.png|thumb|right|250px|Tagge studies a holographic map as Darth Vader approaches.]]
+Darth Vader was placed under Tagge's command due to his failure to protect the Death Star, and the two began working together to identify the source of increased [[pirate]] raids on the Empire's shipping. Vader stopped one of these attacks, disabling an automated [[CR90 corvette]] and returning it to Tagge's flagship, the [[Super Star Destroyer]] ''[[Liberty's Misrule|Annihilator]]''. Tagge and Vader both agreed that the sophistication of the attacks suggested a well-supplied and smart group was behind them, and that a spy was likely feeding them information on Imperial shipping. Tagge was unconcerned with the level of attrition to the Empire's supplies by the attacks, noting that they were well within normal levels of unrest that could be expected after a disaster like the Death Star's destruction. However, he expressed disappointment at the amount of resources wasted in the construction of the Death Star, referring to it as "Tarkin's Folly", and wondered how many more Super Star Destroyers could have been built instead.<ref name="Darth Vader 2">''[[Darth Vader 2: Vader, Part II]]''</ref>
+
+Vader countered Tagge by claiming that Tarkin had vision, while Tagge was more concerned with statistics and graphs. Tagge reminded Vader that he also had the command of the military, and that although his plans might not be as grand as Vader or Tarkin's, they were still effective. After lecturing Vader on the power of the fleet to crush any form of resistance through sheer size and firepower applied over time, he informed Vader that he planned to repair the pirate vessel so that it would return to its source. Vader noted that the pirates would surely destroy their station rather than risk further exposure, a point Tagge agreed with, and he then informed Vader that he would lead the team aboard the corvette aboard the station to recover the information they needed before that occurred. The Grand General then proceeded to lecture Vader on how their new arrangement was for the best, comparing himself to a skilled [[lightsaber]] wielder, with Vader as the lightsaber. He then informed the Dark Lord that he was also assigning [[Lieutenant]] [[Oon-ai]] to be Vader's adjutant, albeit one who would also be personally reporting back to Tagge.<ref name="Darth Vader 2" />
+
+After Vader successfully raided the pirates' space station, he returned to Tagge and complimented the Grand General on his plan and informed him that the pirates were being backed by the [[Crymorah syndicate]]. Tagge was pleased that they knew who to target, but was stunned when he turned around and saw Vader carrying Oon-ai's body. Vader threw the lieutenant at Tagge's feet and claimed that he had identified him as the leak, noting that Oon-ai must have used his closeness to Tagge to steal the information, and that Tagge should choose his aides more carefully. In actuality, Vader had an [[astromech droid]] plant information in the pirates base that implicated Oon-ai in order to remove Tagge's spy from his presence and send a message to the Grand General.<ref name="Darth Vader 2" />
+
+In addition to his efforts to root out pirates, Tagge was charged with overseeing the Imperial expansion of the Outer Rim. For that purpose, he decided that criminal elements which had been left unchecked in the previous years would no longer be allowed to act with impunity. The only ones spared from Tagge's crackdown were the [[Hutt]]s as a result of their newfound alliance with the Empire. As part of this new campaign, Tagge sent Vader to destroy the [[Son-tuul Pride]], a major competitor of the Hutts and the masters of the Son-tuul underworld. Vader successfully destroyed the Pride by using one of their smugglers as an agent to track down their headquarters. Their horded stash of credits became Imperal property and, per Tagge's decree, were to be immediately transmitted to Imperial vaults.<ref name="Darth Vader 7">''[[Darth Vader 7: Shadows and Secrets, Part I]]''</ref>
+
+After the Son-tuul Pride fell, Tagge then concentrated on crushing the [[Plasma Devils]]. He was also assigned to deliver missions to several new agents selected by the Emperor: [[cyborg]]s created by [[Cylo]]. His remaining task force was placed under the command of the [[Aiolin Astarte|Astarte]] [[Morit Astarte|twins]]. General [[Karbin]] was sent to capture [[Luke Skywalker]] and [[Tulon Voidgazer]] was assigned to overlook certain research problems. Vader was instructed to track down the people behind the theft of the Son-tuul Pride's fortune and punish them. Tagge, who wanted the credits recovered to fund the construction of a new Super Star Destroyer also assigned [[Inspector]] [[Thanoth]] to be Vader's adjutant.<ref name="Darth Vader 8">''[[Darth Vader 8: Shadows and Secrets, Part II]]''</ref>
+
+[[File:Tagge's_death.jpg|thumb|left|250px|Tagge is telekinetically strangled to death by Darth Vader.]]
+When the mining world of [[Shu-Torun]] descended into [[War on Shu-Torun|civil war]] due to the [[Ore-duke]]s' refusal to honor the Empire's taxing tithes, the Emperor ordered a full military intervention to defend the Imperial-backed government led by Queen [[Trios]]. Vader was given command of the military force sent to Shu-Torun but, by Tagge's request, Cylo and his surviving cyborgs were sent to accompany Vader as advisors and support during the campaign.<ref name="Darth Vader 16">''[[Darth Vader 16: The Shu-Torun War, Part I]]''</ref>
+
+Tagge's trust in Cylo and his cyborgs would prove to be his undoing. Thanks to him, Voidgazer was able to aid Cylo in taking control of the ''Executor'' and subdued the grand general and the rest of the bridge crew with a nerve gas. After Vader killed the cyborgs and all the remaining clones of Cylo, Tagge was left with the blame for the attempted coup. For his failures and lack of judgement, Tagge was demoted by the Emperor and placed under Vader's command. Disgraced but desperate to survive, he insisted that, despite the disasters that had happened under his command, everything had worked to the Empire's advantage. As Tagge attempted to convince Vader of his continued usefulness, the Sith Lord cut him off by using the Force to [[Force choke|strangle him to]] [[death]].<ref name="Darth Vader 25" />
+
+==Personality and traits==
+A fair-skinned man, Cassio Tagge had brown [[eye]]s and [[hair]].<ref name="ANH" /> Tall and thickly built, he had a broad face<ref name="Tarkin" /> with a cleft chin.<ref name="ANH" /> By the sixth year of the Empire, he sported long, flaring sideburns,<ref name="Tarkin" /> and he still had them more than fourteen years later.<ref name="ANH" /> He was a methodical individual, fond of creating and analyzing models about the activity of the Imperial Fleet.<ref name="Darth Vader 2" />
+
+Unlike most of his colleagues, Tagge was among the few high-[[Military rank|ranking]] Imperials who took the fledgling rebellion seriously as a threat to the Empire, cautiously respecting the Rebel Alliance.<ref name="SWCT" /> Following the destruction of the Death Star and his subsequent promotion to Grand General, however, he grew overconfident with the power and the authority obtained. Despite having witnessed Vader's power firsthand, he was arrogant enough to believe he could wield Vader as his own personal weapon, paying for it with his life upon getting demoted.<ref name="Darth Vader 2" />
+
+==Behind the scenes==
+General Tagge was played by [[Don Henderson]] in the [[1977]] film [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], the first film of the ''[[Star Wars]]'' [[original trilogy]].<ref name="ANH" /> The character was depicted in [[Star Wars Legends|''Star Wars'' Legends]] as having died when the Death Star exploded.<ref name="Tagge's Old Databank">{{DB|character|generaltagge|General Tagge}}</ref> As [[Kieron Gillen]] was writing the ''[[Star Wars: Darth Vader]]'' series and required a military opponent to Vader, the [[Lucasfilm Story Group]] inspected the film to check which generals are present on the Death Star at the end of the film. [[Pablo Hidalgo]] realized Tagge disappears from the film halfway through, unlike Tarkin and Motti, nor did he die onscreen. His role in the comic is also a reference to the Legends character [[Ulric Tagge]], who was meant to be this Tagge before it was [[retcon]]ned due to inconsistent continuity between ''Star Wars'' products. [[Holocron continuity database]] keeper [[Leland Chee]] came up with giving Tagge the title of [[Grand General]].<ref name="Who Gave Tagge His Rank">{{SW|url=video/pablo-hidalgo-and-leland-chee-interview-star-wars-celebration-anaheim|text=Pablo Hidalgo and Leland Chee Interview - Star Wars Celebration Anaheim}}</ref>
+
+==Appearances==
+{{Scroll box|
+*''[[Star Wars: Galactic Defense]]''
+*''[[Darth Vader: Dark Lord of the Sith 12: The Rule of Five, Part II]]'' {{Mo}} {{C|In Aurebesh text}}
+*''[[Tarkin (novel)|Tarkin]]'' {{1stID|Cassio}}
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*''[[Star Wars: Heroes Path]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*{{Shortstory|story=Fully Operational (short story)|sformatted=Fully Operational|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*{{Shortstory|story=An Incident Report|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Mo}}
+*{{Shortstory|story=Verge of Greatness|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*{{Shortstory|story=The Trigger|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*{{Shortstory|story=Of MSE-6 and Men|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Mo}}
+*''[[Darth Vader 1: Vader]]'' {{Flash}}
+*''[[Darth Vader 2: Vader, Part II]]''
+*''[[Darth Vader 3: Vader, Part III]]'' {{C|Mentioned only; in the opening crawl}}
+*''[[Darth Vader 7: Shadows and Secrets, Part I]]'' {{Imo}}
+*''[[Darth Vader 8: Shadows and Secrets, Part II]]''
+*''[[Darth Vader 9: Shadows and Secrets, Part III]]'' {{Mo}}
+*''[[Darth Vader 12: Shadows and Secrets, Part VI]]''
+*''[[Darth Vader 16: The Shu-Torun War, Part I]]'' {{Mo}}
+*''[[Darth Vader 17: The Shu-Torun War, Part II]]'' {{Hologram}}
+*''[[Darth Vader 20: End of Games, Part I]]'' {{Mo}}
+*''[[Darth Vader 22: End of Games, Part III]]''
+*''[[Darth Vader 23: End of Games, Part IV]]''
+*''[[Darth Vader 25: End of Games, Part VI]]''
+*''[[Doctor Aphra 4: Aphra, Part IV]]'' {{Mo}}
+*''[[Star Wars 46: Mutiny at Mon Cala, Part III]]'' {{Mo}}
+*''[[Aftermath: Life Debt]]'' {{Mo}}}}
+
+===Non-canon appearances===
+*{{Shortstory|story=Far Too Remote|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+
+==Sources==
+*{{SW|url=news/swca-star-wars-comes-home-to-marvel-panel-liveblog|text=SWCA: ''Star Wars'' Comes Home to Marvel Panel Liveblog}}
+*''[[Ultimate Star Wars]]''
+*{{Topps|set=Star Wars: Card Trader|sformat=''Star Wars'': Card Trader|cardname=General Tagge - Galactic Empire|link=http://starwarscardtrader.wikia.com/wiki/General_Tagge_-_Galactic_Empire}}
+*{{InsiderCite|158|Blaster (Star Wars Insider)|Blaster}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Darth Vader: Sith Lord]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Rebel Files]]''
+*{{Databank|general-tagge|General Tagge|archivedate=20170623095656}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Cassio Tagge
+|el=Κάσσιο Τέιτζ
+|es=Cassio Tagge
+|fr=Cassio Tagge
+|hu=Cassio Tagge
+|nl=Cassio Tagge
+|pl=Cassio Tagge
+|pt=Cânon:Cassio Tagge
+|ja=カシオ・タッグ
+|ru=Кассио Тагге/Канон
+|fi=Cassio Tagge
+|uk=Кассіо Таґґе
+}}
+
+{{DEFAULTSORT:Tagge, Cassio}}
+[[Category:House of Tagge]]
+[[Category:Humans]]
+[[Category:Imperial Army generals of the Galactic Empire]]
+[[Category:Joint Chiefs of the Imperial military]]
+[[Category:Males]]

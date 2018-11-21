@@ -1,0 +1,56 @@
+{{Eras}}
+{{Character
+|type=Dathomiri
+|image=[[File:Feral-Monster.png]]
+|name=Feral
+|homeworld=[[Dathomir]]<ref name="Monster">{{TCW|Monster}}</ref>
+|birth=
+|death=[[20 BBY]],<ref name="SWGA">''[[Star Wars: Galactic Atlas]]''</ref> Dathomir<ref name="Monster" />
+|species=[[Zabrak]] {{C|[[Dathomirian]]}}<ref name="Monster" />
+|gender=[[Sexes|Male]]<ref name="Monster" />
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Gold]]<ref name="Monster" />
+|skin=Yellow and brown<ref name="Monster" />
+|cyber=
+|era=
+|clan=[[Nightbrothers]]<ref name="Monster" />
+|affiliation=Nightbrothers<ref name="Monster" />
+|masters=[[Viscus]]
+|apprentices=}}
+{{Quote|Feral, try not to draw attention to yourself.''"<br />"''That won't be a problem for me, Savage.|[[Savage Opress]] attempts to keep his brother, Feral, out of trouble|Monster}}
+'''Feral''' was a [[Sexes|male]] [[Dathomirian]] [[Zabrak]] [[Nightbrothers|Nightbrother]] who lived during the [[Clone Wars]]. He was the brother of [[Savage Opress]] and [[Maul|Darth Maul]]. Feral was among those chosen by [[Nightsisters|Nightsister]] [[Asajj Ventress]] to become her chosen champion in her campaign of vengeance against her former master, [[Dooku|Count Dooku]]. Feral survived the tests, but Savage was chosen as the champion. Soon thereafter, Savage was made to kill Feral to prove his loyalty to Ventress.
+
+==Biography==
+{{Quote|Savage!|Feral's last words|Monster}}
+Feral was born as a [[Nightbrothers|Nightbrother]] of [[Dathomir]], and the brother of [[Savage Opress]] and [[Maul|Darth Maul]].<ref name="Graphics">''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''</ref>
+
+During the [[Clone Wars]], [[Nightsisters|Nightsister]] [[Asajj Ventress]] visited the Nightbrothers to find a champion, one who could be given advanced strength and power through magic to aid her in her quest for vengeance against her former master, [[Dooku|Count Dooku]]. A number of Nightbrothers were chosen to participate in the [[Selection|tests]] designed to find Ventress' champion.<ref name="Monster" />
+
+[[File:SavageStranglesFeral-Monster.png|200px|thumb|left|Feral's death at the hands of his brother.]]
+With Savage's help, Feral survived all three tests. Savage pleaded for mercy for his brother, and Feral was spared despite failing in the final challenge. Savage became the champion and was taken by Ventress and given enhanced strength and power, enough to rival that of a [[Jedi Knight]]. Shortly thereafter, Feral was taken prisoner by the Nightsisters and brought before his brother so Savage could kill him as a test of loyalty and strength. Feral tried to appeal to Savage's love for him, but his brother's mind had become twisted by the Nightsister magic. Savage, disgusted by Feral's weakness, ignored the pleas. At Ventress' command, and with only a moment's hesitation, Savage grabbed Feral and used his newfound strength to break Feral's neck, murdering his brother and passing his final test.<ref name="Monster" />
+
+==Appearances==
+*{{TCW|Monster}} {{1st}}
+*{{TCW|Witches of the Mist}} {{Imo}}
+
+==Sources==
+*{{SWE|characters|savageopress|Savage Opress}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ru=Ферал/Канон
+|uk=Ферал
+}}
+
+[[Category:Dathomirians]]
+[[Category:Males]]
+[[Category:Nightbrothers]]
+[[Category:Zabrak]]

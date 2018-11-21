@@ -1,0 +1,70 @@
+{{Eras}}
+{{Droid
+|image=[[File:Huyang-ATOS.png]]
+|name=Huyang
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=
+|line=
+|model=[[Mark IV]]<ref name="A Test of Strength">{{TCW|A Test of Strength}}</ref>
+|class=[[Architect droid]]<ref name="SWE">{{SWE|characters|huyang|Huyang}}</ref>
+|degree=
+|cost=
+|length=
+|width=
+|height=1.8 [[meter]]s<ref name="SWE" />
+|mass=
+|gender=[[Sexes|Masculine programming]]<ref name="A Test of Strength" />
+|sensor=[[Color|Yellow]]<ref name="A Test of Strength" />
+|plating=Silver<ref name="A Test of Strength" />
+|armament=
+|equipment=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="A Test of Strength" />
+*[[Old Republic]]<ref name="A Test of Strength" />}}
+{{Quote|From the Battles of Rashfond, to the Peacekeeping of Parliock, to our very own Clone Wars, the lightsaber is a Jedi's only true ally. But how do they work? Hmm? Yes, you have brought me crystals, but they're all useless unless you give them ''life''. Do you know how to awaken the Force within the crystal? No? Then I suggest you listen and learn, until you think of a question this droid ''cannot'' answer.|Huyang, to a class of Jedi younglings|A Test of Strength}}
+'''Huyang''' was a [[Mark IV]] [[architect droid]] [[professor]] based aboard the [[Jedi]] vessel, the ''[[Crucible]]'', who for a thousand generations had taught [[Jedi youngling]]s,<ref name="A Test of Strength" /> one of them being the future [[Grand Master]] [[Yoda]],<ref name="ANB">{{TCW|A Necessary Bond}}</ref> how to build their [[lightsaber]] following [[the Gathering]].<ref name="A Test of Strength" />
+
+==Biography==
+{{Quote|Built centuries before me, Professor Huyang was an architect droid that served as a vital part of the Jedi Order. Now, I know what you're thinking, and you're right— droids can't use the Force (though at times, I swear I've come close). Huyang used the vast wealth of knowledge he had gathered over the centuries to become a force of his own. When Jedi younglings were being trained, it was Huyang who helped them construct their lightsabers. And judging by how effective— and painful— those weapons always were, he must have been pretty great at his job. No wonder they gave him a degree.|R0-GR|Star Wars: Droidography}}
+By the time of the [[Clone Wars]], Huyang was over a thousand years old, and had helped many Jedi younglings in the construction of their lightsabers. His purpose was to accompany the young trainees to the planet [[Ilum]], and once they retrieved the [[kyber crystal]] that called to them through [[the Force]], he would aid them in fashioning the weapon.
+
+During the Clone Wars, in [[20 BBY]], Huyang accompanied Grand Master Yoda, [[Ahsoka Tano]], and a group of younglings to Ilum, where they would begin their journey towards becoming Padawans. During this time, their ship was boarded by the [[Weequay]] [[pirate]]s led by [[Hondo Ohnaka]]. While Tano was occupied with Hondo, one of the pirates crippled Huyang, knocking off his head and both his arms. Later, during their rescue of Ahsoka, the younglings were able to reassemble Huyang.
+{{Droid-stub/Canon}}
+
+==Behind the scenes==
+Huyang was voiced in [[Star Wars: The Clone Wars (TV series)|''Star Wars: The Clone Wars'']] by former ''Doctor Who'' actor [[David Tennant]].
+
+==Appearances==
+*{{TCW|A Test of Strength}} {{1st}}
+*{{TCW|Bound for Rescue}}
+*{{TCW|A Necessary Bond}}
+*''[[Ahsoka (novel)|Ahsoka]]'' {{Mo}}
+
+==Sources==
+*{{SWE|technology|crucible|Crucible}}
+*{{SWE|characters|huyang|Huyang}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*[[Star Wars: Droidography|''Star Wars: Droidography'']]
+*{{Databank|crucible|Crucible|archivedate=20170706085234}}
+*{{Databank|ilum|Ilum}}
+*{{Databank|lightsaber|Lightsaber}}
+*{{Databank|professor-huyang|Professor Huyang}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Huyang#kanon
+|es=Huyang
+|fr=Huyang
+|nl=Huyang
+|ru=Хьюянг/Канон
+}}
+
+[[Category:Masculine programming]]

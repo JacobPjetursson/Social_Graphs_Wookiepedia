@@ -1,0 +1,109 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=Hutt Cartel
+|image=[[File:BibFortunaHS-ROTJ.png]]
+|name=Bib Fortuna
+|homeworld=[[Ryloth]]<ref name="dbBF">{{Databank|bib-fortuna|Bib Fortuna|archivedate=20170806165651}}</ref>
+|birth=
+|death=[[4 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Tatooine]]<ref name="dbBFBG">{{Databank|bib-fortuna-biography-gallery|Bib Fortuna Biography Gallery}} {{C|Image 10 of 10}}</ref>
+|species=[[Twi'lek]]<ref name="dbBF" />
+|gender=[[Sexes|Male]]<ref name="dbBF" />
+|height=2 [[Meter]]s<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|mass=
+|hair=
+|eyes=[[Color|Pink]]<ref name="ROTJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|skin=Light<ref name="ROTJ" />
+|cyber=
+|era=
+|affiliation=*[[Fortuna family]]<ref name="Visual Guide">''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''</ref>
+*[[Jabba Desilijic Tiure's criminal empire]]<ref name="ROTJ" />
+|masters=
+|apprentices=}}
+'''Bib Fortuna''' was a [[Sexes|male]] [[Twi'lek]] who lived on the desert planet [[Tatooine]]. He served as [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]]'s [[majordomo]] and chief of staff for [[Standard decade|decades]], handling all of the day-to-day operations at [[Jabba's Palace|his master's palace]].
+
+==Biography==
+A [[Sexes|male]] [[Twi'lek]], Bib Fortuna hailed from [[Ryloth]], the [[homeworld]] of his [[species]].<ref name="dbBF" /> He had at least one cousin, [[Beezer Fortuna|Beezer]].<ref name="Visual Guide" /> He served as a [[majordomo]] to the [[Hutt]] [[crime lord]] [[Jabba Desilijic Tiure|Jabba]]<ref name="dbBF" /> as far back as the time of the [[Invasion of Naboo]],<ref name="TPM">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref> in [[32 BBY]].<ref name="Galactic Atlas" /> That [[Standard year|year]], Fortuna attended the [[Boonta Eve Classic]],<ref name="TPM" /> which his master hosted to commemorate the [[Boonta Eve]] holiday.<ref name="dbBEC">{{Databank|boonta-eve-classic-podracer-pilots|Boonta Eve Classic}}</ref> From his master's private balcony, he witnessed the victory of a local [[human]] boy named [[Anakin Skywalker]] against the reigning champion [[Sebulba]].<ref name="TPM" />
+
+===Galactic Civil War===
+====Trouble with Mercenaries====
+During the [[Galactic Civil War]] between the [[Galactic Empire]] and the [[Alliance to Restore the Republic|Rebel Alliance]], the Twi'lek remained in Jabba's service. At some point between the [[Battle of Yavin]] and [[Battle of Hoth]], Fortuna contacted the Tatooinian [[mercenary]] [[Saponza]] and [[Saponza's partner|his partner]] in the name of Jabba. The two men had reacted violently to the presence of Jabba's henchmen around [[Saponza's homestead]], [[Death|killing]] six of them. Fortuna let the two mercenaries know they had made an enemy of his Hutt master. Some time later, Jabba's henchmen razed Saponza's estate to the ground in retaliation, and the majordomo contacted Saponza once again to gloat over his misfortune and warn him that Jabba's revenge was not over.<ref name="Commander">''[[Star Wars: Commander]]''</ref>
+
+====Trouble at the Great Pit of Carkoon====
+[[File:BibFortuna Jabba Ep6.jpg|thumb|250px|left|Fortuna serving alongside Jabba at the palace during the Galactic Civil War.]]
+Later in the war, Fortuna greeted two [[droid]] visitors to [[Jabba's Palace|his master's palace]]. The two mechanical units, called [[C-3PO]] and [[R2-D2]], claimed that they had a gift for the Hutt. The majordomo demanded that they hand over that gift to him so he could bring it to Jabba himself, but the droids answered that their instructions were to give it only to the crime lord himself. Fortuna relented, and led the droids into the throne room, where they delivered a [[Hologram|holographic message]] from their owner, the Rebel hero and fledgling [[Jedi]] [[Luke Skywalker]]. In the message, Skywalker asked to bargain for the life of his friend [[Han Solo]], whom Jabba detained, offering C-3PO and R2-D2 in exchange.<ref name="ROTJ" />
+
+Fortuna was present when [[Prince]]ss [[Leia Organa]] arrived under the disguise of notorious [[bounty hunter]] [[Boushh]] along with Han Solo's longtime friend [[Chewbacca]], demanding that Solo be released under the threat of a [[thermal detonator]], (incorrect. She was negotiating the Bounty on Chewie.) and also witnessed her capture when she attempted to free Solo herself. When Luke Skywalker eventually [[Rescue of Han Solo|arrived]], Fortuna admitted him into the throne room, despite having been given explicit instructions not to do so until after Jabba had finished his [[Sleep|nap]].<ref name="ROTJ" /> Fortuna was influenced by Skywalker's [[mind trick]], though he was not as weak-minded as some of Jabba's other guards. Skywalker only succeeded in his mind trick by finding and exploiting Fortuna's weak point, his strong loyalty to his master, Jabba.<ref name="beware">''[[Return of the Jedi: Beware the Power of the Dark Side!]]''</ref>
+
+After Skywalker killed Jabba's [[Pateesa|pet]] [[Rancor]], he was imprisoned and sentenced to death, with Jabba wanting him executed at the [[Great Pit of Carkoon]]. Fortuna accompanied Jabba and many of his palace denizens to the pit, though he was killed after Skywalker, Organa, Solo and [[Lando Calrissian]] managed to escape custody and destroy Jabba's [[Khetanna|personal]] [[Sail barge]].<ref name="dbBFBG" />
+
+==Personality and traits==
+Marking excessive concerns with propriety and modesty, Fortuna was mortified upon hearing [[Sy Snootles]]'s saucy lyrics for the song ''[[Jedi Rocks]]''.<ref name="RotJ novel">[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]</ref>
+
+==Behind the scenes==
+Bib Fortuna was played by [[Michael Carter]] and voiced uncredited by the late [[Erik Bauersfeld]], who also voiced [[Admiral]] [[Gial Ackbar]], in [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]. For [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']], [[Alan Ruscoe]] was initially cast to play the character in a scene in the [[Senate]], however, this scene was cut, and he was later portrayed by [[Matthew Wood]] for his appearance on [[Tatooine]]. The name 'Fortuna' means 'Fortune' in Latin, Spanish and other languages.
+
+In earlier drafts of ''Return of the Jedi'', Fortuna's title was the 'High Beeser of [[Hoth]]', and his original design sketches depicted him as a wizened old human man sporting a dark cloak and a tall hat. References to this title and design, however, were left out from the finished version of the film.<ref name="Databank">{{DB|character|bibfortuna|Bib Fortuna}}</ref>
+
+The makeup process that Michael Carter needed to perform to create the custom of Bib Fortuna took over eight hours to first transform Carter into the Twi'lek advisor. By the end of Carter's five-week shoot, make-up artist [[Nick Dudman]] had streamlined the process down to 58 minutes. Removing the make-up took another 25 minutes.<ref name="Databank" />
+
+Prior to the reboot of the ''[[Star Wars]]'' canon by [[The Walt Disney Company]] in order to explore new storylines and in anticipation for the [[Sequel trilogy]], some details about Fortuna's life were explored. ''[[The Essential Guide to Characters]]'' detailed Fortuna's early life as his exclusion from the Twi'lek society, while the ''[[Tales from Jabba's Palace]]'' anthology showed him as the one who abducted [[Oola/Legends|Oola]] in order to make her became Jabba's [[dancer]], in addition to showing him escaping from Jabba's sail barge during the Battle at the [[Great Pit of Carkoon/Legends|Great Pit of Carkoon]]. However, after the Expanded Universe was subsequently rebooted into [[Star Wars Legends|''Star Wars'' Legends]], these stories have been announced as non-[[canon]]ical.
+
+While Fortuna's language is never actually spoken in ''Jedi'', several scenes in the film showed Fortuna speaking something which can be interpreted as a twisted form of English, suggesting that he spoke a heavy dialect of [[Galactic Basic Standard|Galactic Basic]].
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]
+*''[[Star Wars Journeys: The Phantom Menace]]''
+*''[[Bounty Hunt]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*{{Shortstory|story=You Owe Me a Ride|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*{{Shortstory|story=Added Muscle|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Mo}}
+*''[[Darth Vader 1: Vader]]''
+*''[[Star Wars 4: Skywalker Strikes, Part IV]]''
+*''[[Star Wars 34: The Thirteen Crates]]''
+*''[[Star Wars: Commander]]'' {{Hologram}}
+*{{IDWAdventuresCite|13|[[Tales from Wild Space: The Blue Brothers]]}}
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*''[[Rescue from Jabba's Palace]]''
+*''[[Episode VI: Return of the Jedi Read-Along Storybook and CD]]'' {{C|Appears in illustration only}}
+*''[[The Legends of Luke Skywalker]]''
+
+===Non-Canon appearances===
+*{{Droid Tales|Gambit on Geonosis}} {{Flash}}
+
+==Sources==
+*{{SWE|characters|bibfortuna|Bib Fortuna}}
+*{{SW|url=news/die-wanna-wanga-encounters-of-the-twilek-kind|text=Die Wana Wanga: Encounters of the Twi'lek Kind}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: I Am a Droid]]'' {{Po}}
+*''[[Star Wars: I Am a Jedi]]'' {{Po}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Aliens of the Galaxy]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Princess Leia: Royal Rebel]]''
+*''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|beezer-fortuna|Beezer Fortuna|archivedate=20170605063544}}
+*{{Databank|bib-fortuna|Bib Fortuna|archivedate=20170806165651}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|el=Μπιμπ Φορτούνα
+|ja=ビブ・フォーチュナ
+|ka=ბიბ ფორტუნა
+|pt=Bib Fortuna
+|ru=Биб Фортуна/Канон
+}}
+
+{{DEFAULTSORT:Fortuna, Bib}}
+[[Category:Criminals]]
+[[Category:Majordomos]]
+[[Category:Males]]
+[[Category:Tatooinians]]
+[[Category:Twi'leks]]

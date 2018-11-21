@@ -1,0 +1,87 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=Rebel
+|image=[[File:JekPorkins-DB.png]]
+|name=Jek Tono Porkins
+|homeworld=[[Bestine IV]]<ref name="Ultimate">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[0 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Yavin system]]<ref name="ANH">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref>
+|species=[[Human]]<ref name="ANH" />
+|gender=[[Sexes|Male]]<ref name="ANH" />
+|height=1.8 [[meter]]s<ref name="Databank">{{Databank|jek-porkins|Jek Porkins}}</ref>
+|mass=
+|hair=[[Color|Brown]], graying<ref name="ANH" />
+|eyes=Blue<ref name="ANH" />
+|skin=Light<ref name="ANH" />
+|cyber=
+|era=
+|affiliation=*[[Alliance to Restore the Republic]]<ref name="ANH" />
+**[[Tierfon Yellow Aces]]<ref name="Visual Guide">''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''</ref>
+**[[Red Squadron (Rebel Alliance)|Red Squadron]]<ref name="ANH" />
+**[[Massassi Group]]<ref name="ANH" />
+|masters=
+|apprentices=}}
+{{Quote|I'm goin' in. Cover me, Porkins."<br>"I'm right with ya, Red Three.|Porkins and [[Biggs Darklighter]] during the [[Battle of Yavin]].|Star Wars Episode IV: A New Hope}}
+'''Jek Tono Porkins''', nicknamed "'''Piggy'''", was a [[Sexes|male]] [[human]] [[Merchant|trader]] and [[pilot]] from [[Bestine IV]]. He decided to abandon his [[homeworld]] after the [[Galactic Empire]] moved in and built a new [[Imperial military base (Bestine IV)|military base]] there, and he ended up joining the [[Alliance to Restore the Republic]].
+
+==Biography==
+===Rebel pilot===
+{{Quote|Red Six, standing by.|Porkins reports in during the Battle of Yavin.|Star Wars: Episode IV A New Hope}}
+Originally a [[Merchant|trader]] on [[Bestine IV]], Jek Porkins was forced to leave his [[homeworld]] because of the [[Galactic Empire]]. Seeking revenge, he trained to become a [[pilot]] in the [[Rebel Alliance Starfighter Corps|Starfighter Corps]] of the [[Alliance to Restore the Republic]].<ref name="SWCT">{{Topps|set=Star Wars: Card Trader|sformat=''Star Wars'': Card Trader|cardname=Jek Porkins - X-wing Pilot|link=http://starwarscardtrader.wikia.com/wiki/Jek_Porkins_-_X-wing_Pilot}}</ref>
+
+As a seasoned [[rebel pilot]], Porkins was known for ritual hazing of new recruits, despite [[Sexes|his]] fellow veterans being generally accomodating.<ref name="Desert Son">{{Shortstory|story=Desert Son|book=From a Certain Point of View}}</ref>
+
+In [[0 BBY]],<ref name="Galactic Atlas" /> Jek Porkins flew an [[X-wing starfighter]] as a member of [[Red Squadron (Rebel Alliance)|Red Squadron]] during the [[Battle of Scarif]], going by the [[callsign]] [[Red Six]], where he mostly provided support for the other ships in [[Admiral]] [[Raddus]]' fleet. The battle ended with the theft of the [[Death Star plans|technical readouts]] for the [[DS-1 Orbital Battle Station|Death Star]], a [[moon]]-sized [[Galactic Empire|Imperial]] [[battlestation]].<ref name="RO">''[[Rogue One: A Star Wars Story]]''</ref>
+
+[[File:PorkinsHasAProblem(BesidesObesity)-ANH.jpg|thumb|left|250px|Porkins in his X-wing]]
+Just days after returning from Scarif, Porkins dished out drinks for his fellow [[pilot]]s at [[Great Temple (Yavin 4)|Base One]] on the night before the [[Battle of Yavin]].<ref name="Desert Son" /> He once again flew with Red Squadron, again as Red Six, alongside [[Nozzo Naytaan]] as the [[Wingmate|wingmen]] of [[Zal Dinnes]].<ref name="Duty Roster">{{Shortstory|story=Duty Roster|book=From a Certain Point of View}}</ref> He bumped into [[Biggs Darklighter]] after the mission briefing, exchanging banter with his fellow pilot that Darklighter considered to be a ritual hazing from the cocky Bestine native.<ref name="Desert Son" />
+
+During the battle, Dreis ordered the destruction of one of the Death Star's deflection towers, which Porkins and Darklighter destroyed with their [[starfighter]]s' [[laser cannon]]s. Porkins' [[Starship|craft]] struck debris from the tower and began to malfunction, causing him to drift over the Imperial [[turbolaser]] batteries mounted on the surface. Porkins was convinced he could still navigate his fighter, ignoring Darklighter's warnings to extract from the area. Porkins' fighter was caught in turbolaser crossfire and he was [[Death|killed]] almost instantly.<ref name="Databank" /> The [[officer]]s and pilots around the central command table in the Massassi war room heard Porkins' last words, and [[Elyhek Rue]] vowed that he would be avenged.<ref name="Duty Roster" /> Despite this, another Rebel pilot didn't receive word of his death, and asked if Porkins could see [[Luke Skywalker]]'s [[Red Five (X-wing starfighter)|fighter]] a few [[Standard minute|minutes]] after Jek was shot down.<ref name="ANH" />
+
+===Legacy===
+{{Quote|So long, Piggy. You will be avenged.|Elyhek Rue|Duty Roster}}
+Over three [[Standard decade|decades]] later, Porkins was remembered through the [[Porkins Belly Run]], a [[Resistance]] flight maneuver named in his honor.<ref name="TVD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref> Whilst traveling aboard the ''[[Millennium Falcon]]'' following the [[Battle of Crait]], [[BB-8]] told [[R2-D2]] about the death of the [[Abednedo (species)|Abednedo]] pilot [[Ello Asty]], who went by the callsign Red Six, R2 told him that they had lost a Red Six during the Battle of Yavin.<ref name="Poe Dameron 28">''[[Poe Dameron 28: The Awakening, Part III]]''</ref>
+
+==Personality and traits==
+Because of his rotund physique, Porkins was playfully nicknamed "Piggy" and "Belly Runner".<ref name="SWCT" />
+
+==Appearances==
+*''[[Rogue One: A Star Wars Story]]'' {{C|Fighter only}}
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*[[Star Wars (LINE Webtoon)|''Star Wars'' LINE Webtoon]]
+*{{Shortstory|story=Duty Roster|book=From a Certain Point of View}}
+*{{Shortstory|story=Desert Son|book=From a Certain Point of View}}
+*{{Shortstory|story=Grounded|book=From a Certain Point of View}} {{Voice}}
+*''[[Star Wars 45: Mutiny at Mon Cala, Part II]]'' {{Mo}}
+*''[[Poe Dameron 28: The Awakening, Part III]]'' {{Mo}}
+
+==Sources==
+*{{SWE|groups|rebel-pilots|Rebel Pilots}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars: Galactic Atlas]]'' {{1stID|Tono}}
+*''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: The Rebel Files]]'' {{C|as Red Six}}
+*{{Databank|jek-porkins|Jek Porkins}}
+*{{Databank|rebel-pilots-biography-gallery|Rebel Pilots biography gallery}}; image #4 {{C|of 15}}
+*{{Databank|wedge-antilles|Wedge Antilles|archivedate=20140714220601}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Jek Tono Porkins
+|fr=Jek Tono Porkins
+|ja=ジェック・トーノ・ポーキンス
+|pl=Jek Tono Porkins
+|ru=Джек Тоно Поркинс/Канон
+}}
+
+{{DEFAULTSORT:Porkins, Jek Tono}}
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Red Squadron personnel]]
+[[Category:Tierfon Yellow Aces personnel]]

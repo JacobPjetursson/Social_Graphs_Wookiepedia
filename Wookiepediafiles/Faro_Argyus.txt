@@ -1,0 +1,148 @@
+{{Eras|imp|featured|sprot|canon=Argyus}}
+{{Youmay|the Senate Commando captain|the planet [[Faro]]}}
+{{Character
+|type=CIS
+|image=[[File:Argyus CoD.jpg]]
+|name=Faro Argyus
+|homeworld=[[Tepasi/Legends|Tepasi]]<ref name="Season 1 guide">''[[Star Wars: The Clone Wars: The Official Episode Guide: Season 1]]''</ref>
+|birth=
+|death=[[22 BBY/Legends|22 BBY]],<ref name="ERC">''[[The Essential Reader's Companion]]''</ref> a [[Unidentified Consular-class cruiser (Rodia)|Republic frigate]]<ref name="COD">{{TCW|Cloak of Darkness}}</ref>
+|species=[[Human/Legends|Human]]<ref name="COD" />
+|gender=[[Sexes/Legends|Male]]<ref name="COD" />
+|height=1.83 [[Imperial standard meter|meters]]<ref name="db">{{DB|character|argyus|Argyus, Captain}}</ref>
+|mass=
+|hair=Blond<ref name="COD" />
+|eyes=Brown<ref name="COD" />
+|skin=
+|cyber=
+|era=[[Rise of the Empire era]]<ref name="COD" />
+|affiliation=*[[Galactic Republic/Legends|Galactic Republic]]<ref name="Agenda">''[[The Clone Wars: Agenda]]''</ref>
+**[[Senate Guard/Legends|Senate Guard]]<ref name="Agenda" />
+***[[Senate Commando/Legends|Senate Commando]]<ref name="Agenda" />
+*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]<ref name="COD" />
+|masters=
+|apprentices=}}
+{{Quote|Sometimes being a good soldier means doing what you think is right.|Faro Argyus|audio=ArgyusGoodSoldier.ogg|Cloak of Darkness}}
+'''Faro Argyus''' was a [[Captain/Legends|captain]] in the [[Senate Commando/Legends|Senate Commandos]], an elite branch of the [[Senate Guard/Legends|Senate Guard]], in [[22 BBY/Legends|22 BBY]]. Coming from a [[Tepasi/Legends|Tepasi]] family noted for its honor and loyalty, Argyus was a fifth-generation guard normally stationed on [[Coruscant/Legends|Coruscant]]. However, after [[Senator/Legends|Senator]] [[Padmé Amidala/Legends|Padmé Amidala]] managed to [[Mission to Rodia/Legends|capture]] [[Trade Federation Viceroy]] [[Nute Gunray/Legends|Nute Gunray]] on [[Rodia/Legends|Rodia]], Argyus was assigned to the [[Venator-class Star Destroyer/Legends|''Venator''-class Star Destroyer]] ''[[Tranquility/Legends|Tranquility]]'' and tasked with escorting the captured [[Viceroy/Legends|viceroy]] to Coruscant alongside [[Jedi Master/Legends|Jedi Master]] [[Luminara Unduli/Legends|Luminara Unduli]] and [[Padawan/Legends|Padawan]] [[Ahsoka Tano/Legends|Ahsoka Tano]].
+
+Unbeknownst to the [[Galactic Republic/Legends|Republic]], Argyus had been bribed by [[Confederacy of Independent Systems/Legends|Separatist]] leader [[Count/Legends|Count]] [[Dooku/Legends|Dooku]] to [[Rescue on the Tranquility/Legends|rescue]] Gunray from his [[Prison/Legends|imprisonment]] and return him to the Confederacy. Argyus was successful in this task, and he escaped with Gunray in a Republic [[Unidentified Consular-class cruiser (Rodia)|''Consular''-class frigate]]. While aboard, the former Senate Commando boasted to Dooku's [[Assassin/Legends|assassin]] [[Asajj Ventress/Legends|Asajj Ventress]] that his mission had been successful&mdash;thereby taking all credit away from Ventress&mdash;and that he would report on it to Dooku. Ventress then [[Shiak|drove]] one of her [[Lightsaber/Legends|lightsabers]] into the back of the [[Pilot/Legends|pilot's]] seat and through Argyus's [[Heart/Legends|heart]], [[Death/Legends|killing]] him.
+
+==Biography==
+===Republic service===
+[[File:Argyus Departure.png|thumb|left|250px|Argyus and his men pursue Dannl Faytonni and Achk Med-Beq through the Senate District.]]
+{{Quote|Captain Argyus will keep a watchful eye on your prisoner&hellip;|Supreme Chancellor Palpatine, to Senator Padmé Amidala|The Clone Wars: Transfer}}
+Faro Argyus,<ref name="TCW Ultimate Battles">''[[Star Wars: The Clone Wars: Visual Guide Ultimate Battles]]''</ref> a [[Human/Legends|Human]] [[Sexes/Legends|male]], was a member of the [[Senate Commando/Legends|Senate Commando]] branch of the [[Senate Guard/Legends|Senate Guard]].<ref name="COD" /> Members of his family&mdash;a [[Tepasi/Legends|Tepasi]] bloodline noted for its prestige and honor&mdash;had served the Senate as guards for five generations.<ref name="Season 1 guide" /> Several years before the [[Invasion of Naboo/Legends|Invasion of Naboo]], while Argyus was a young recruit just beginning his service as a Senate Guard, he encountered [[Jedi/Legends|Jedi]] [[Count/Legends|Count]] [[Dooku/Legends|Dooku]]. He was assigned to guard a diplomatic envoy that included Dooku among its members. After negotiations had failed, the consular ship came under an attack, and during the fighting Argyus was gravely wounded. Only timely action by Dooku saved him, after which Argyus and Dooku became friends and associates. By [[32 BBY/Legends|32 BBY]], Argyus became a [[Captain/Legends|captain]] in the Senate Guard. When Dooku left the [[Jedi Order/Legends|Jedi Order]], he contacted Argyus and persuaded his friend to work for him in secret. Captain Argyus continued to serve the Republic, though he knew that one day he would be forced to reveal his true allegiance.<ref name="Campaign Guide">''[[The Clone Wars Campaign Guide]]''</ref> As one of the best and bravest of the Senate Guards, Argyus was chosen to become a Senate Commando.<ref name="Season 1 guide" />
+
+Normally stationed on [[Coruscant/Legends|Coruscant]], he was present alongside [[Supreme Chancellor/Legends|Supreme Chancellor]] [[Palpatine/Legends|Palpatine]] when the Chancellor met with [[Senator/Legends|Senator]] [[Padmé Amidala/Legends|Padmé Amidala]] to discuss the [[InterGalactic Banking Clan/Legends|InterGalactic Banking Clan's]] potential peace treaty with the [[Galactic Republic/Legends|Republic]] in the [[22 BBY/Legends|first year]] of the [[Clone Wars/Legends|Clone Wars]].<ref name="Agenda" /> Just prior to a diplomatic [[Mission to Rodia/Legends|mission]] Amidala undertook to the [[Planet/Legends|planet]] [[Rodia/Legends|Rodia]], Argyus led a team of Senate Commandos in pursuit of the [[Con artist|con men]] [[Dannl Faytonni/Legends|Dannl Faytonni]] and [[Achk Med-Beq/Legends|Achk Med-Beq]] through the [[Senate District]] of [[Galactic City/Legends|Galactic City]], on Coruscant. The two escaped the Senate Commandos and managed to steal Amidala's [[J-type star skiff]] from the [[Gungan/Legends|Gungan]] [[Associate Planetary Representative|Representative]] [[Jar Jar Binks/Legends|Jar Jar Binks]] and the [[Droid/Legends|droids]] [[C-3PO/Legends|C-3PO]] and [[R2-D2/Legends|R2-D2]]. Faytonni and Med-Beq planned to flee the planet in the [[Nubia Star Drives, Incorporated|Nubian]] [[Starship/Legends|ship]], but the [[Skiff/Legends|skiff's]] [[Autopilot/Legends|autopilot]] was set to return the craft to the [[Republic Executive Building|Senate docking platform]].<ref name="Departure">''[[The Clone Wars: Departure]]''</ref>
+
+During their [[Mission to Rodia/Legends|mission to Rodia]], Amidala and Binks captured the [[Neimoidian/Legends|Neimoidian]] [[Trade Federation/Legends|Trade Federation]] [[Viceroy/Legends|Viceroy]] [[Nute Gunray/Legends|Nute Gunray]], a member of the [[Separatist Council/Legends|Separatist Council]] and an enemy of the Republic.<ref name="Bombad Jedi">{{TCW|Bombad Jedi}}</ref> The Supreme Chancellor dispatched Argyus&mdash;one of his best men for the job<ref name="CE">''[[Star Wars: The Clone Wars Character Encyclopedia]]''</ref>&mdash;and two other Senate Commandos to oversee the transfer of Gunray into Republic custody on Rodia,<ref name="Transfer">''[[The Clone Wars: Transfer]]''</ref> and then, along with additional commandos, guard the captive viceroy while he was aboard the [[Venator-class Star Destroyer/Legends|Star Destroyer]] ''[[Tranquility/Legends|Tranquility]]'' en route to Coruscant.<ref name="COD" />
+
+===Traitor===
+{{Quote|Count Dooku has paid me a fortune to deliver your slimy carcass, so please try to stay alive.|Faro Argyus, to Nute Gunray|audio=ArgyusTryToStayAlive.ogg|Cloak of Darkness}}
+[[File:Argyus vs Gree.jpg|right|thumb|250px|Argyus attacks Gree.]]
+Argyus had been contacted by Count Dooku and bribed into releasing the viceroy and returning him safely to [[Confederacy of Independent Systems/Legends|Separatist]] [[Realspace/Legends|space]],<ref name="COD" /> having been offered enough [[Currency/Legends|money]] to buy a planet or a large [[Moon/Legends|moon]].<ref name="COD decoded">{{TCW|Cloak of Darkness|d=y}}</ref> Not wanting to be forever bound to Republic guardsmen duty, Argyus secretly changed allegiances. During the ''Tranquility''{{'s}} journey, the [[Warship/Legends|warship]] came [[Rescue on the Tranquility/Legends|under attack]] by [[Variable Geometry Self-Propelled Battle Droid, Mark I/Legends|vulture droids]] and three [[Droch-class boarding ship/Legends|''Droch''-class boarding ships]], which pierced the hull of the ''Tranquility'', releasing a Separatist boarding party. Eventually, [[Clone trooper/Legends|clone troopers]] under the leadership of [[Clone trooper commander|Commander]] [[CC-1004/Legends|Gree]] destroyed the invading [[Battle droid/Legends|battle droids]], but they had only been a distraction to allow Separatist [[Assassin/Legends|assassin]] [[Asajj Ventress/Legends|Asajj Ventress]] to infiltrate and cripple the Republic warship.<ref name="COD" />
+
+Ventress briefly rescued Gunray in the detention level, despite Argyus's conveyed attempt to prevent it. Ventress [[Telekinesis/Legends|Force-pushed]] Argyus out of her way, intent on departing with the viceroy. The arrival of [[Jedi Master/Legends|Jedi Master]] [[Luminara Unduli/Legends|Luminara Unduli]] thwarted Gunray's escape, however, and forced Ventress to flee. Unduli pursued Ventress into the engine room of the ''Tranquility'', leaving [[Ahsoka Tano/Legends|Ahsoka Tano]], the [[Padawan/Legends|Padawan]] of [[Jedi Knight/Legends|Jedi Knight]] [[Anakin Skywalker/Legends|Anakin Skywalker]], to guard the captive viceroy alongside Argyus, his commandos, and Gree. Tano was faced with the decision of obeying orders to stay in the detention level or going with Unduli to fight Ventress. Argyus told the Padawan that following one's heart made them distinct from [[Droid/Legends|droids]]. At his urging, Tano went off to find Ventress, leaving Gunray under the watch of Argyus, his men, and Gree. In the course of her engagement with the Jedi, Ventress sent an all-clear signal to Argyus.<ref name="COD" />
+
+His true loyalties revealed to the Republic, Argyus killed his fellow commandos, released Gunray, and took the Neimoidian viceroy as a living shield. Only Gree stood in his way, and, after a short standoff, Gree shot the [[DC-15S|blaster]] Argyus was holding out of his hand, before Argyus likewise kicked the [[Blaster/Legends|blaster]] out of the [[Cloning/Legends|clone's]] hands. During the lull in the action that followed, Argyus revealed to the clone commander the reasons behind his treachery&mdash;he had no desire to live the rest of his life as an unappreciated guardsmen condemned to life-long servitude to the Republic. Although he did not expect a clone like Gree to understand his disillusionment with the Republic, Argyus continued to defend his betrayal with his belief that a good soldier always did what he believed to be right. He dove for Gree's blaster on the ground, but the clone prevented Argyus from retrieving it. Gree delivered a blow to Argyus's head, knocking him down, but before Gree could kill the traitor, Gunray hit the clone over the head with the butt of Argyus's blaster, knocking him unconscious.<ref name="COD" />
+
+===Escape and death===
+[[File:Argyus death.png|left|thumb|200px|Argyus is killed by Asajj Ventress.]]
+{{Quote|As successful a rescue as one could hope for, Viceroy. I'll be a legend for this.''"<br />"''I always had a good feeling about you, Captain.|Faro Argyus and Nute Gunray|audio=ArgyusBoasting.ogg|Cloak of Darkness}}
+When Argyus rose, he signaled Ventress to inform her of his success. Ventress then fled the engine room after detonating leftover explosives. Argyus and Gunray made it to a docked [[Unidentified Consular-class cruiser (Rodia)|''Consular''-class frigate]], which they used to make their escape. Ventress, meanwhile, had eluded the two Jedi and entered an [[Escape pod/Legends|escape pod]], arriving aboard the escaping [[Consular-class cruiser (Charger c70 retrofit)/Legends|cruiser]] before reaching Separatist space. Argyus arrogantly gloated to Ventress about ''his'' mission's success, and that ''he'' had been responsible for Gunray's rescue. Ventress silenced his gloating permanently, [[Shiak|impaling]] him<ref name="COD" /> through the heart<ref name="Ambush">''[[The Clone Wars: Ambush]]''</ref> with her [[Lightsaber/Legends|lightsaber]].<ref name="COD" />
+
+Argyus's betrayal shocked the Republic, and proved that even the best and bravest could be corrupted. The fact that he had come from a family noted for its loyalty and service in the Senate Guard did not help this belief. To some, Argyus's defection served as further proof that the Republic was falling apart.<ref name="Season 1 guide" />
+
+==Personality and traits==
+[[File:Argyus boastful.png|thumb|right|220px|Argyus boasts to Nute Gunray during their escape.]]
+{{Quote|You see, assassin, our plan went off without a hitch.''"<br />"''Our plan?''"<br />"''And I will, of course, make sure your contributions are noted in my report to Count Dooku.|Faro Argyus and Asajj Ventress|audio=ArgyusArrogant.ogg|Cloak of Darkness}}
+Captain Argyus was, like all other Senate Commandos, an elite member of the Senate Guard,<ref name="COD" /> chosen from the best and bravest of the guards.<ref name="Season 1 guide" /> As such, he was trained for both unarmed and armed combat. He possessed knowledge of both Senate traditions and military tactics.<ref name="CE" /> However, Dooku easily bribed Argyus into becoming a traitor, for Argyus didn't want to live in a state of permanent servitude to the Republic.<ref name="COD" /> In the end, the captain had sold his honor to Dooku and the Confederacy.<ref name="CE" /> He was arrogant and boastful in his skills, evident when he took all the credit for Nute Gunray's rescue from the ''Tranquility''. His boasting led to his [[Death/Legends|death]] at the hands of Asajj Ventress.<ref name="COD" />
+
+As a captain, he bore the symbol of the [[Galactic Senate/Legends|Galactic Senate]] on the left shoulder pad of his Senate Commando [[Armor/Legends|armor]],<ref name="episode guide">{{SWArchive|url=theclonewars/guide/episode009.html|text=''The Clone Wars'' Episode Guide: Cloak of Darkness|archivedate=20110712010041}}</ref> which was a modified version of [[Clone trooper armor/Legends|clone trooper armor]] with over-sized,<ref name="COD commentary">{{SWArchive|url=video/view/000737.html|text=Episode Commentary #9: Cloak of Darkness}}</ref> blaster-proof<ref name="COD decoded" /> shoulder pads. Argyus wore the traditional helmet of the Senate Guard,<ref name="COD commentary" /> which boasted a ceremonial crest.<ref name="TCW Ultimate Battles" />
+
+==Behind the scenes==
+Argyus first appeared in the online comic ''[[The Clone Wars: Agenda]]'', a preview to ''[[Star Wars: The Clone Wars (TV series)|The Clone Wars]]'' episode "[[Destroy Malevolence|Destroy ''Malevolence'']]." He would go on to appear in the comics ''[[The Clone Wars: Departure|Departure]]'' (the preview for "[[Bombad Jedi]]") and ''[[The Clone Wars: Transfer|Transfer]]'' (the preview for "[[Cloak of Darkness]]"). Argyus was given the first name "Faro" in [[2009]]'s ''[[Star Wars: The Clone Wars: Visual Guide Ultimate Battles]]''. He was included as an unlockable character in the [[PlayStation Portable|PSP]] and [[Nintendo DS]] versions of ''[[LEGO Star Wars III: The Clone Wars]]'', released in [[2011]].
+
+[[File:ArgyusTCWCampaignGuide.jpg|thumb|right|200px|Captain Argyus]]
+In his first and only television appearance thus far, "Cloak of Darkness," Argyus was voiced by [[James Marsters]], who gave the character a "stuffy accent" because he wanted to portray the character as arrogant.<ref name="interview">{{SWArchive|url=/theclonewars/news20081205.html|text=James Marsters Talks ''Clone Wars''}}</ref> Argyus, along with the rest of the Senate Commandos, was not made a clone because the Senate Commandos were elite Republic guards, essentially predecessors to the [[Emperor's Royal Guard/Legends|Emperor's Royal Guard]]. Additionally, according to the documentary, there were not supposed to be any clone traitors.<ref name="COD commentary" />
+
+==Appearances==
+*''[[The Clone Wars: Agenda]]'' {{1st}}
+*''[[The Clone Wars: Departure]]''
+*''[[The Clone Wars: Transfer]]''
+*{{TCW|Cloak of Darkness}}
+*''[[The Clone Wars: Ambush]]''
+*''[[The Clone Wars: Jedi Adventures]]''
+*''[[LEGO Star Wars III: The Clone Wars]]'' {{Nc}} {{C|[[PlayStation Portable|PSP]] and [[Nintendo DS]] versions only}}
+*''[[The Clone Wars: Grievous Attacks!]]'' {{Imo}}
+*{{TCW|Lair of Grievous}} {{C|Episode summary only}}
+*[[Star Wars: Clone Wars Adventures (video game)|''Star Wars: Clone Wars Adventures'' video game]] {{Mo}}
+
+==Sources==
+{{Scroll_box|content=
+{{Imagecat|Images of Faro Argyus}}
+{{Soundcat|Audio files of Faro Argyus}}
+*{{SWPM|set=Clone Wars Tactics|link=http://www.tierfon.be/index.php?option=com_content&task=view&id=989&Itemid=121|cardname=Senate Guard}} {{Po}}
+*{{SWArchive|url=video/view/000737.html|text=Episode Commentary #9: Cloak of Darkness}}
+*{{SWArchive|url=theclonewars/guide/episode009.html|text=''The Clone Wars'' Episode Guide: Cloak of Darkness|archivedate=20110712010041}}
+*{{CN|url=tv_shows/starwars/?episodeID=8a2505961df2bee2011e0437bf83000b|text=Dataclip: Cloak of Darkness}}
+*''[[The Complete Star Wars Encyclopedia]]''
+*{{InsiderCite|106|Star Wars: The Clone Wars Season One Episode Guide, Part One}}
+*''[[The Clone Wars Campaign Guide]]''
+*{{HasbroCite|set=Star Wars: The Clone Wars (toy line)|text=''Star Wars: The Clone Wars''|pack=Captain Argyus|link=TCW31_Argyus.asp}}
+*''[[Star Wars: The Clone Wars: Visual Guide Ultimate Battles]]'' {{1stID|Faro}}
+*''[[Star Wars: The Clone Wars: Republic Heroes]]'' {{C|[[Nintendo DS]] edition in-game databank}}
+*{{SWMiniCite|set=Galaxy at War|pack=Captain Argyus|link=SWminiGAW19Argyus.asp}}
+*''[[Star Wars: The Clone Wars: The Official Episode Guide: Season 1]]''
+*[[Star Wars: The Clone Wars The Complete Season One|''Star Wars: The Clone Wars'' The Complete Season One]]
+*''[[Star Wars: The Clone Wars Character Encyclopedia]]''
+*''[[Star Wars: The Official Starships & Vehicles Collection 45]]''
+*''[[Star Wars: The Clone Wars Official Episode Guide Series 1 & 2]]''
+*''[[Star Wars: The Clone Wars Magazine 1]]''
+*''[[Star Wars: The Clone Wars Comic UK 6.15]]''
+*{{TCWA|commcard=Faro Argyus (Character - Leader)}}
+*''[[LEGO Star Wars III: The Clone Wars: Prima Official Game Guide]]''
+*{{SW|url=explore/the-clone-wars/ep109/#!/about|text=Cloak of Darkness|org=theclonewars/guide/episode009.html}}
+*''[[Star Wars: Clone Wars Adventures: The Official Guide to the Virtual World]]''
+*{{DB|character|argyus|Argyus, Captain}}
+*''[[Book of Sith: Secrets from the Dark Side]]''
+*''[[Star Wars: The Ultimate Action Figure Collection]]''
+*''[[Star Wars: The Clone Wars: What Is a Sith Warrior?]]''
+*{{InsiderCite|139|100 and Counting}}
+*''[[Star Wars: The Clone Wars: Episode Guide]]''
+*{{SWE|characters|asajjventress|Asajj Ventress}}
+*{{SWE|characters|argyus|Captain Argyus}}
+*{{SWE|characters|gree|Clone Commander Gree}}
+*{{SWE|characters|luminaraunduli|Luminara Unduli}}
+*{{SWE|characters|nutegunray|Nute Gunray}}
+*{{SWE|groups|senateguard|Senate Guard}}
+*{{FFCite|y=2014|30|VEN6, ''Relentless Warrior''}}
+*{{FFCite|y=2014|32|GRE2, ''Clone Commander Gree''}}
+*{{FFCite|y=2014|34|GUA3, ''Guardians Under Fire''}}
+*{{FFCite|y=2014|59|GUN10, ''Gunray Goes to War''}}}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*[http://starwarsblog.starwars.com/index.php/2008/07/25/transcript-lucasfilm-comic-con-panel/ The Official Star Wars Blog >> Transcript: Lucasfilm Comic-Con Panel]
+*{{SWArchive|url=theclonewars/news20081205.html|text=James Marsters Talks ''Clone Wars''}}
+*{{CWAWiki|Argyus}}
+
+{{Interlang
+|de=Faro Argyus
+|es=Faro Argyus
+|it=Argyus
+|nl=Faro Argyus
+|pl=Faro Argyus
+|pt=Faro Argyus
+|ru=Фаро Аргус
+|fi=Faro Argyus
+|ruGA=1
+}}
+
+{{DEFAULTSORT:Argyus, Faro}}
+[[Category:Defectors]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Senate Guards]]

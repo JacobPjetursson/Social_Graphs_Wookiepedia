@@ -1,0 +1,55 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Slowen Lo TLJ.jpeg]]
+|name=Slowen Lo
+|homeworld=
+|birth=
+|death=
+|species=[[Abednedo (species)|Abednedo]]<ref name="Databank">{{Databank|slowen-lo|Slowen Lo}}</ref>
+|gender=[[Sexes|Male]]<ref name="Databank" />
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Blue]]<ref name="Databank" />
+|skin=
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+'''Slowen Lo''' was a [[Sexes|male]] [[Abednedo (species)|Abednedo]]<ref name="Databank" /> who resided on [[Canto Bight]]. He made a fortune-selling [[wikipedia:driftwood|driftwood]] sculptures and lived on the beach in the coastal [[city]] on the [[desert]] [[planet]] [[Cantonica]].<ref name="Visual">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref> In [[34 ABY]], Lo saw [[Finn]] and [[Rose Tico]] illegally land and abandon their ship on a [[Canto Bight]] beach. Annoyed, Lo told Finn and Rose they were not allowed to leave the ship there, but they ignored him and proceeded to the [[Canto Casino]]. Lo informed the [[Canto Bight Police Department]] about this and accompanied officers to the casino, where he observed Finn and Rose and confirmed their identities to the police. He was startled as the officers [[stun]]ned and arrested Finn and Rose.<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+
+==Personality and traits==
+A proud citizen of Canto Bight,<ref name="Databank" /> Slowen Lo took his job very seriously, something that was demonstrated as when Finn and Rose Tico refused to pay attention to him that they should not park on the beach. Not wanting them to get away with it, he chose to call the Canto Bight Police Department to have them arrested.<ref name="Episode VIII" />
+
+==Behind the scenes==
+Slowen Lo was physically portrayed by creature and droid performer [[Dee Tails]]<ref name="Twitter">{{Twitter|deetails|status/944211209519292416|[[Dee Tails]]|quote=I can now confirm, that I do indeed play this fantastic character called SLOWEN LO in The Last Jedi.|image=File:Dee_Tails_Slowen_Lo.png}}</ref> with voice work provided by actor [[Joseph Gordon-Levitt]], who has appeared in some capacity in every film by ''The Last Jedi'' director [[Rian Johnson]]. While promoting ''The Last Jedi'' in [[Wikipedia: Tokyo|Tokyo]], [[Wikipedia: Japan|Japan]], in September 2017, Johnson first confirmed that Gordon-Levitt would have a brief voice acting role in ''The Last Jedi'', though he did not clarify who he would be portraying.<ref>{{Cite web|url=https://www.starwarsnewsnet.com/2017/09/rian-johnson-on-directing-episode-ix-the-director-confirms-actor-joseph-gordon-levitt-for-the-last-jedi.html|title=UPDATE! Rian Johnson On Directing Episode IX + The Director Confirms Actor Joseph Gordon-Levitt for The Last Jedi!|publisher=starwarsnewsnet.com|last=Pate|first=Jordan|coauthors=Trichkov, Val|date=September 11th, 2017}}</ref><ref>{{Cite web|url=https://screenrant.com/star-wars-8-joseph-gordon-levitt-cameo-voice/|title=Star Wars 8 Features Joseph Gordon-Levitt Voice Cameo |publisher=screenrant.com|last=Dumaraog|first=Ana|date=September 11th, 2017}}</ref><ref>{{Cite web|url=https://screenrant.com/star-wars-8-last-jedi-cameos-missed/|title=Star Wars: 16 Cameos You Completely Missed In The Last Jedi|publisher=screenrant.com|last=Leadbeater|first=Alex|date=December 18, 2017}}</ref> The character was first identified as Slowen Lo in the ''[[Star Wars: The Last Jedi: The Visual Dictionary]]''.<ref name="Visual" /> The name Slowen Lo is a reference to the [[Wikipedia:Beastie Boys|Beastie Boys]] song "[[Wikipedia:Slow and Low|Slow and Low]]" from the [[1986]] album ''[[Wikipedia:Licensed to Ill|Licensed to Ill]]''. ''Star Wars'' producer and director [[J.J. Abrams]] is a fan of the Beastie Boys and [[Wikipedia:Hip-hop music|hip-hop music]], and Slowen Lo is at least the fourth Abednedo character in the ''Star Wars'' [[sequel trilogy]] to be named after a Beastie Boys song, along with [[Ello Asty]], "Crusher" [[Roodown]] and [[Ilco Munica]].<ref>{{Cite web|url=http://www.xxlmag.com/news/2017/12/beastie-boys-inspire-slowen-lo-name-star-wars-the-last-jedi/|title=Beastie Boys Inspire Character Slowen-Lo's Name in New Movie 'Star Wars: The Last Jedi'|publisher=xxlmag.com|last=India|first=Lindsey|date=December 2017}}</ref><ref>{{Cite web|url=http://comicbook.com/starwars/2017/12/17/star-wars-the-last-jedi-joseph-gordon-levitt-cameo/|title=What Was Joseph Gordon Levitt's Cameo in 'Star Wars: The Last Jedi'?|publisher=comicbook.com|last=Schmidt|first=Joseph|date=December 17, 2017}}</ref>
+
+==Appearances==
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] {{1st}}
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[Star Wars: The Last Jedi: A Junior Novel]]''
+
+==Sources==
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*{{SW|url=news/much-to-learn-you-still-have-10-aliens-you-should-know-from-star-wars-the-last-jedis-canto-bight|text=Much to Learn You Still Have: 10 Aliens You Should Know from ''Star Wars: The Last Jedi'''s Canto Bight}}
+*{{Databank|abednedo|Abednedo|archivedate=20180327040733}} {{Po}}
+*{{Databank|slowen-lo|Slowen Lo}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Slowen Lo#kanon
+|fr=Slowen Lo
+|ja=スローウェン・ロー
+|nl=Slowen Lo
+|pl=Slowen Lo
+|ru=Слоуэн Ло
+|uk=Словен Ло
+}}
+
+{{DEFAULTSORT:Lo, Slowen}}
+[[Category:Abednedo]]
+[[Category:Males]]

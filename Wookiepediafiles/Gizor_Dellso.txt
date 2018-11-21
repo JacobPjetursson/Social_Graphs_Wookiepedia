@@ -1,0 +1,78 @@
+{{Eras|imp|good}}
+{{GAcleanup|Gizor Dellso}}
+{{Character
+|type=CIS
+|image=[[File:Gizor.jpg]]
+|name=Gizor Dellso
+|homeworld=[[Geonosis/Legends|Geonosis]]<ref name="db">{{DB|character|gizordellso|Dellso, Gizor}}</ref>
+|birth=
+|death=Between [[18 BBY/Legends|18]] and [[12 BBY/Legends|12 BBY]], [[Mustafar/Legends|Mustafar]]<ref name="Dating">{{Blog|holocron|22|Movie Characters killed in the EU|Keeper of the Holocron's Blog|Leland Chee|archivedate=20120421114330}} dates the [[Death/Legends|death]] of [[Apailana/Legends|Apailana]] to the [[Standard year/Legends|year]] [[18 BBY/Legends|18 BBY]], while ''[[The Essential Atlas]]'' dates the [[Kamino uprising]] to [[12 BBY/Legends|12 BBY]]. As ''[[Star Wars: Battlefront II]]'' places the [[Battle of Mustafar (Imperial Period)|Battle of Mustafar]], where Dellso was [[Death/Legends|killed]], between these two events, it can be assumed that the latter occurred sometime between 18 and 12 [[Galactic Standard Calendar|BBY]].</ref>
+|species=[[Geonosian/Legends|Geonosian]]<ref name="BFII">''[[Star Wars: Battlefront II]]''</ref>
+|gender=[[Sexes/Legends|Male]]<ref name="BFII" />
+|height=
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=
+|era=[[Rise of the Empire era]]<ref name="BFII" />
+|affiliation=*[[Geonosian Industries]]<ref name="BFII" />
+*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]<ref name="BFII" />
+*[[Separatist holdouts/Legends|Separatist holdouts]]<ref name="BFII" />
+|masters=
+|apprentices=}}
+{{Quote|Although the Clone Wars were over, some people never seem to get the message. The worst case of denial was Gizor Delso ''[sic]'', a Geonosian Separatist who'd somehow escaped Lord Vader's efforts to wipe out the remnants of the CIS.|[[Retired clone trooper]]|Star Wars: Battlefront II}}
+'''Gizor Dellso''' was a [[Sexes/Legends|male]] [[Geonosian/Legends|Geonosian]] [[Engineer/Legends|engineer]] who worked for the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]] and helped design a signal to shut down the [[Separatist Droid Army/Legends|droid army]] to prevent anyone from using the Confederacy's [[Battle droid/Legends|battle droids]] against them. Following the end of the [[Clone Wars/Legends|Clone Wars]] and the dissolution of the Confederacy in [[19 BBY/Legends|19 BBY]], Dellso refused to surrender. On the [[Planet/Legends|planet]] [[Mustafar/Legends|Mustafar]], he found a secret [[Gizor Dellso's Droid foundry|droid factory]] near an abandoned Confederacy [[Klegger Corp Mining Facility|bunker]]. Dellso started up the factory and began producing [[Gizor Dellso's army|an army]] of [[Droid/Legends|droids]], hoping to restart the Clone Wars. Between [[18 BBY/Legends|18]] and [[12 BBY/Legends|12 BBY]], however, the [[Galactic Empire/Legends|Imperial]] [[501st Legion/Legends|501st Legion]] was sent to Mustafar to eliminate Dellso and end his rebellion. Following [[Battle of Mustafar (Imperial Period)|a pitched battle]], Dellso was [[Death/Legends|killed]], and the [[Gizor Dellso's Droid foundry|facility]] was destroyed.
+
+==Biography==
+===Loyal Separatist===
+{{Quote|By the time we'd made our way to the molten surface of Mustafar, it was apparent that Delso ''[sic]'' had been a busy little bug. All by his lonesome, he'd found a previously hidden droid factory, fired it up and cranked out his own private army of battle droids.|Retired clone trooper|Star Wars: Battlefront II}}
+[[File:Battledroids_BF.jpg|thumb|left|200px|Dellso designed the signal that was eventually used to deactivate the Separatist Droid Army.]]
+The [[Sexes/Legends|male]] [[Geonosian/Legends|Geonosian]] Gizor Dellso was an [[Engineer/Legends|engineer]] on the [[Planet/Legends|planet]] [[Geonosis/Legends|Geonosis]],<ref name="BFII" /> home to [[Geonosian Industries]]. This company, controlled by [[Archduke/Legends|Archduke]] [[Poggle the Lesser/Legends|Poggle the Lesser]], was responsible for producing thousands of [[Battle droid/Legends|battle droids]].<ref name="rots vd">''[[Star Wars: Revenge of the Sith The Visual Dictionary]]''</ref> At the wishes of the [[Trade Federation/Legends|Trade Federation]], one of the company's main customers, Dellso helped design a signal override, which would be spread via the [[HoloNet/Legends|HoloNet]], to shut down the company's [[Droid/Legends|droid]] [[Army/Legends|army]] in case enemies ever attempted to turn the droids against the Trade Federation.<ref name="db" /> Dellso, like all his people, joined the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]],<ref name="BFII" /> following its formation in [[24 BBY/Legends|24 BBY]],<ref name="NEC">''[[The New Essential Chronology]]'' placed the formation of the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]] in [[24 BBY/Legends|24 BBY]].</ref> and participated in the [[Clone Wars/Legends|Clone Wars]] between the Confederacy and the [[Galactic Republic/Legends|Galactic Republic]],<ref name="BFII" /> which occurred between [[22 BBY/Legends|22 BBY]] and [[19 BBY/Legends|19 BBY]].<ref name="War">''[[The New Essential Chronology]]'' placed the [[Clone Wars/Legends|Clone Wars]] between [[22 BBY/Legends|22 BBY]] and [[19 BBY/Legends|19 BBY]].</ref> The war ended when the [[Separatist Droid Army/Legends|Separatist Droid Army]] was shut down by the signal Dellso had designed.<ref name="db" />
+
+Determined to continue the fight, Dellso traveled to the Confederacy's [[Klegger Corp Mining Facility|secret bunker]] on the [[Outer Rim Territories/Legends|Outer Rim]] planet of [[Mustafar/Legends|Mustafar]]. He possessed a set of experimental plans for a prototype [[Starfighter/Legends|starfighter]] that he had managed to steal from the [[Galactic Empire/Legends|Galactic Empire]], the government that had [[Declaration of a New Order|replaced]] the Republic. On Mustafar, Dellso was able to not only locate an abandoned [[Gizor Dellso's Droid foundry|droid production factory]], but to restart it as well, producing a number of battle droids and [[Starship/Legends|starships]]. He also designed a [[Confederate infantry prototype]], which he planned to put into action for his rebellion. In creating a new droid army, Dellso became the leader of one of the last [[Separatist holdouts/Legends|Separatist holdouts]].<ref name="BFII" />
+
+===Imperial entanglement===
+{{Quote|Lord Vader tracked him to Mustafar and brought us in to finish the job. It seemed like a simple enough mission, but when we saw the fleet of droid ships hovering over the planet, we suddenly realised that Delso's ''[sic]'' denial mechanisms were a little more dangerous than we'd imagined.|Retired clone trooper|Star Wars: Battlefront II}}
+Sometime between [[18 BBY/Legends|18]] and [[12 BBY/Legends|12 BBY]],<ref name="Dating" /> the Empire became aware of the threat that Dellso posed, and his location on Mustafar was discovered by the the [[Sith Lord/Legends|Sith Lord]] [[Anakin Skywalker/Legends|Darth Vader]]. Seeking to end the rebellion before it could develop into a full-fledged war, [[Galactic Emperor/Legends|Emperor]] [[Palpatine/Legends|Palpatine]] dispatched the elite [[501st Legion/Legends|501st Legion]] to eliminate Dellso and destroy his [[Gizor Dellso's army|droid army]]. The 501st was [[Battle of Mustafar (Imperial Period)|confronted]] in [[Realspace/Legends|space]] by [[Gizor Dellso's navy|Dellso's fleet]]. However, the legion was able to destroy a number of [[Droid starfighter/Legends|droid starfighters]], cripple Dellso's [[Flagship/Legends|flagship]], a [[Providence-class carrier/destroyer|''Providence''-class carrier/destroyer]], and steal a [[Belbullab-24 strike bomber]].<ref name="BFII" />
+
+[[File:KleggerDestruction-BF2.jpg|thumb|right|200px|The destruction of Dellso's facility]]
+The legion then landed on the planet. Though Dellso's army fought to repel the [[Stormtrooper/Legends|stormtroopers]] and keep his rebellion alive, they were unable to do so. Determined to prevent the Clone Wars from occurring again, the Empire's forces defeated those of Dellso and destroyed the prototype battle droid schematics. Dellso realized that the battle was lost to him and, accompanied by [[Gizor Dellso's bodyguards|his bodyguards]], attempted to flee. As the Imperials fought with the remains of his droid army, Dellso entered the fray armed with a [[Bulldog RLR]] and rained heavy fire down upon the Imperial forces, who were taken by surprise and suffered many losses as a result. However, the Imperials quickly recovered and rallied and though Dellso and his remaining entourage fought fiercely, they were ultimately overwhelmed and [[Death/Legends|killed]] by the 501st. The Empire then [[Orbital bombardment/Legends|bombarded]] Mustafar from space, destroying the factory and the last remnants of Dellso's army.<ref name="BFII" />
+
+==Personality and traits==
+{{Quote|Some fools don't know when to stay beaten.|Unidentified 501st stormtrooper|url=http://www.starwars.com/databank/character/gizordellso/index.html}}
+Gizor Dellso was a skilled engineer who helped design the override signal for the droid army. He was dedicated to the Separatist cause and refused to surrender after the [[Separatist Council/Legends|Separatist Council's]] [[Mission to Mustafar/Legends|execution]] on Mustafar. He managed to steal plans for an experimental starfighter design from the Galactic Empire and began creating a new droid army after discovering a hidden factory on Mustafar. Dellso planned to use this new army to restart the Clone Wars. The Geonosian also created a prototype droid that he planned to use in his fight against the Empire. Despite his loyalty to the Separatist cause, he was ultimately unsuccessful.<ref name="BFII" />
+
+==Behind the scenes==
+Gizor Dellso was created for the [[video game]] ''[[Star Wars: Battlefront II]]'', where his name is spelled "Gizor Delso."<ref name="BFII" /> However, beginning with the ''[[Star Wars]]'' [[Databank (original)|Databank]],<ref name="db" /> all subsequent sources spell his name as "Gizor Dellso."<ref name="Alien">''[[The New Essential Guide to Alien Species]]''</ref><ref name="CSWE">{{CSWECite|I|250|501st Imperial Legion}}</ref>
+
+==Appearances==
+*''[[Star Wars: Battlefront II]]'' {{1st}} {{C|As Gizor Delso}}
+
+==Sources==
+*''[[Star Wars Battlefront II: Prima Official Game Guide]]'' {{C|As Gizor Delso}}
+*{{DB|character|gizordellso|Dellso, Gizor}}
+*{{DB|location|mustafar|Mustafar}}
+*''[[The New Essential Guide to Alien Species]]''
+*{{CSWECite|I||501st Imperial Legion}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Gizor Dellso#legends
+|es=Gizor Dellso
+|fr=Gizor Dellso
+|hu=Gizor Dellso
+|it=Gizor Delso
+|pl=Gizor Dellso
+|pt=Legends:Gizor Dellso
+|ru=Гизор Деллсо
+|deGA=1
+}}
+
+{{DEFAULTSORT:Dellso, Gizor}}
+[[Category:Confederacy science and engineering personnel]]
+[[Category:Engineers]]
+[[Category:Geonosians]]
+[[Category:Males]]

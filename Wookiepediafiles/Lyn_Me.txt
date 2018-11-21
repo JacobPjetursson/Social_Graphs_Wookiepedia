@@ -1,0 +1,52 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Lynmefull2.jpg]]
+|name=Lyn Me
+|homeworld=[[Ryloth]]<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|birth=
+|death=
+|species=[[Twi'lek]]<ref name="DB Lyn">{{Databank|lyn-me|Lyn Me}}</ref>
+|gender=[[Sexes|Female]]<ref name="DB Lyn" />
+|height=1.6 [[meter]]s<ref name="DB Lyn" />
+|mass=
+|hair=
+|eyes=[[Color|Brown]]<ref name="DB Lyn" />
+|skin=Pale<ref name="DB Lyn" />
+|cyber=
+|era=
+|affiliation=[[Max Rebo Band]]<ref name="DB Lyn" />
+|masters=
+|apprentices=}}
+'''Lyn Me''' was a [[Twi'lek]] [[Sexes|female]] dancer who performed with the [[Max Rebo Band]] at [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]]'s [[Jabba's Palace|Palace]],<ref name="DB Lyn" /> and sang vocals along with [[Greeata Jendowanian]], [[Sy Snootles]] and [[Rystáll Sant]].<ref name="ROTJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+
+Me grew up on the barren [[Ryloth's northern continent|northern continent]] of the [[planet]] [[Ryloth]]. She was saved from [[slavery]] by [[Boba Fett]] and thus hero-worshiped him. She was well-learned in the art of Twi'lek dance.<ref name="Character Encyclopedia" />
+
+==Behind the scenes==
+Lyn Me was portrayed by [[Dalyn Chew]]. She was added to the extended musical number in the [[The Star Wars Trilogy Special Edition|Special Edition]] of ''[[Star Wars: Episode VI Return of the Jedi|Return of the Jedi]]''.<ref name="Old DB">{{DB|character|lynme|Lyn Me}}</ref>
+
+==Appearances==
+*[[Star Wars (LINE Webtoon)|''Star Wars'' LINE Webtoon]]
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}} {{C|Post-[[1997]] releases}}
+
+==Sources==
+*{{SWE|characters|sysnootles|Sy Snootles}} {{Imo}}
+*{{SW|url=news/die-wanna-wanga-encounters-of-the-twilek-kind|text=Die Wana Wanga: Encounters of the Twi'lek Kind}} {{1stID}}
+*{{SW|url=/news/music-in-the-star-wars-galaxy-the-modal-nodes-vs-the-max-rebo-band|text=''Music in the Star Wars Galaxy: The Modal Nodes vs. The Max Rebo Band''}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|lyn-me|Lyn Me}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ja=リン・ミー
+|pl=Lyn Me
+}}
+
+{{DEFAULTSORT:Me, Lyn}}
+[[Category:Females]]
+[[Category:Max Rebo Band members]]
+[[Category:Twi'leks]]

@@ -1,0 +1,47 @@
+{{Eras}}
+{{Character
+|type=Criminal
+|image=[[File:Jubnuk.jpg]]
+|name=Jubnuk
+|homeworld=
+|birth=
+|death=[[4 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Jabba's Palace]], [[Tatooine]]<ref name="VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|species=[[Gamorrean]]<ref name="VI" />
+|gender=
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Blue]]<ref name="VI" />
+|skin=Green<ref name="VI" />
+|cyber=
+|era=
+|affiliation=[[Jabba Desilijic Tiure's criminal empire]]<ref name="VI" />
+|masters=
+|apprentices=}}
+'''Jubnuk''' was a [[Gamorrean]] who served the [[crime lord]] [[Jabba Desilijic Tiure]] at [[Jabba's Palace|his palace]] on [[Tatooine]].
+
+==Biography==
+Shortly before the [[Battle of Endor]], Jubnuk was present for [[Luke Skywalker]]'s [[Rescue of Han Solo|arrival]] at [[Jabba's Palace]] with the intention of negotiating with [[Jabba Desilijic Tiure|Jabba]] in order to free [[Sexes|his]] friend [[Han Solo]]. As Jabba was not interested in Skywalker's proposal, Skywalker used [[the Force]] to snatch [[Nizuc Bek]]'s [[DL-18 blaster pistol|blaster]] from his [[holster]], prompting Jubnuk to try and wrestle it out of Luke's hand to protect Jabba. The Hutt, however, opened the trapdoor of the room in which they were and Skywalker fell into the pit of [[Pateesa]], the [[Hutt]]'s pet [[rancor]].<ref name="VI" />
+
+[[File:Rancor02.jpg|thumb|left|180px|Pateesa's last meal before his demise.]]
+As being near to Skywalker when the trapdoor was opened, Jubnuk fell into Pateesa's pit despite his attempts to hold onto Jabba's moving throne. The Jedi Knight and the [[Gamorrean]] then slipped down the slide which led to the pit. After getting up, both saw the door open revealing Pateesa, who had previously [[Death|eaten]] Jabba's dancer [[Oola]]. Jubnuk went to a barred window and tried to alert someone to get out of there. As his fellow Gamorrean guards laughed at his luck, the rancor grabbed Jubnuk and ate him. Skywalker, on the other hand, was able to kill the beast and avoid the same fate as Jubnuk.<ref name="VI" />
+
+==Behind the scenes==
+Jubnuk was portrayed by puppeteer [[Simon Williamson]] in the [[1983]] film [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']], the final installment of the ''[[Star Wars]]'' [[original trilogy]].<ref name="VI" /> Williamson also portrayed [[Max Rebo]], but his role was uncredited.{{Fact}}
+
+Prior to the [[2014]] [[canon]] reboot of [[The Walt Disney Company]] in anticipation of the [[sequel trilogy]], some details of Jubnuk's early life were explored in the [[Star Wars Legends|''Star Wars'' Legends]] [[1996]] ''[[Jabba's Palace Pop-up Book]]''. The book particularly showed Jubnuk surviving his encounter with the [[Jabba's rancor|rancor]], escaping from him after the beast's stomach was cut. [[Holocron continuity database]] keeper [[Leland Chee]] stated that he didn't know about this until he was notified by a [[Wookieepedia]] user. In the new canon, however, Chee confirmed in his [[Wikipedia:Twitter|Twitter]] account that Jubnuk did not survive.<ref name="Twitter">{{Twitter|HolocronKeeper|status/954843338192007168|[[Leland Chee]]|quote=Safe to say they’re both dead.}}</ref>
+
+==Appearances==
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*''[[The Legends of Luke Skywalker]]''
+
+==Sources==
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]'' {{1stID}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Desilijic servants]]
+[[Category:Gamorreans]]
+[[Category:Individuals of unspecified gender]]

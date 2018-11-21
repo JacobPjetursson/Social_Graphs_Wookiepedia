@@ -1,0 +1,58 @@
+{{Eras}}
+{{Droid
+|image=[[File:21b.jpg]]
+|name=2-1B
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=[[Industrial Automaton]]<ref name="UltimateSW">''[[Ultimate Star Wars]]''</ref>
+|line=
+|model=[[2-1B surgical droid]]
+|class=[[Medical droid]]
+|degree=[[First class droid]]<ref name="Phantom Limb">In the one-shot [[Star Wars comic books|comic book]] ''[[Star Wars Special: C-3PO 1: The Phantom Limb]]'', it is established that [[medical droid]]s belong to class one, i.e. the first degree.</ref>
+|cost=
+|length=
+|width=
+|height=1.77 [[meter]]s<ref name="charencupdated">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|mass=
+|gender=[[Sexes|Masculine programming]]<ref name="charencupdated" />
+|sensor=[[Color|Yellow]]
+|plating=
+|armament=
+|equipment=
+|era=
+|affiliation=[[Alliance to Restore the Republic]]<ref name="ESB">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>}}
+'''2-1B''' was a [[2-1B surgical droid]] that was a member of the [[Alliance to Restore the Republic]]. Along with [[FX-7 medical assistant droid|FX-7]], 2-1B was stationed at [[Echo Base]] on [[Hoth]] and treated [[Luke Skywalker]] with [[bacta]] after [[Sexes|he]] had been attacked by a [[wampa]]. 2-1B also treated Skywalker after his hand was [[Dismemberment|amputated]] in a [[Duel on Cloud City|duel]] with [[Anakin Skywalker|Darth Vader]] on [[Bespin]].<ref name="ESB" />
+
+2-1B had long experience with [[human]]s since the times of the [[Galactic Republic|Old Republic]], giving him a caring bedside manner. It was thanks to this that Skywalker specifically requested 2-1B's treatment following the loss of his hand. He was also able to perform extremely precise operations that left little to no scar on his patients.<ref name="charencupdated" />
+
+==Appearances==
+*''[[The Adventures of Luke Skywalker, Jedi Knight]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]
+
+==Sources==
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Droid Factory]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars: Droidography]]''
+*{{Databank|2-1b-droid|2-1B Droid|archiveurl=https://web.archive.org/web/20170815093908/http://www.starwars.com/databank/2-1b-droid}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=2-1B#kanon
+|fr=2-1B
+|ru=2-1B
+}}
+
+[[Category:2-1B surgical droids]]
+[[Category:Masculine programming]]
+[[Category:Rebel Alliance members]]

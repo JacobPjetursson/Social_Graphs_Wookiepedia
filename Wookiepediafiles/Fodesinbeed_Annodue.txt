@@ -1,0 +1,62 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Fodeinbeedpromo.jpg]]
+|name=Fodesinbeed Annodue
+|homeworld=[[Pollillus]]<ref name="Ultimate SW">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Troig]]<ref name="DB">{{Databank|fode-and-beed|Fode and Beed|archivedate=20161216123527}}</ref>
+|gender=[[Sexes|Male]]
+|height=1.96 [[meter]]s<ref name="DB" />
+|mass=
+|hair=
+|eyes=*[[Color|Red]] {{C|beed}}<ref name="DB" />
+*Green {{C|fode}}<ref name="DB" />
+|skin=*Green {{C|beed}}<ref name="DB" />
+*Red {{C|code}}<ref name="DB" />
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+{{Quote|It's Skywalker!|Fode|Star Wars: Episode I The Phantom Menace}}
+'''Fodesinbeed Annodue''', better known as '''Fode and Beed''', was a [[Troig]] [[Podracing]] announcer. Both heads acted as separate beings, with the [[Color|red]] head named Fode and the green head named Beed. During races, Fode and Beed would provide color commentary; Fode would speak in a [[Galactic Basic]] drawl while Beed would provide information in [[Huttese]].<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+
+==Behind the scenes==
+[[File:Capurrosinproops bts.jpg|left|thumb|180px|Greg Proops and Scott Capurro portraying Fode and Beed]]
+Fode and Beed first made their appearance in [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']], and appeared in subsequent media related to ''The Phantom Menace'' and podracing. They were portrayed by comedians [[Greg Proops]] and [[Scott Capurro]] respectively. During pre-production, attempts were made to have them appear in make-up with the rest of their bodies covered in blue suits for compositing later. Ultimately the marriage of their live-action performances with CGI was not realistic enough, and the character became fully computer generated. At that point, Proops and Capurro were playing Beed and Fode respectively. The reason for the reversal of their roles remains unknown. The first Fode and Beed action figure used the original actors' faces.
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+
+===Non-canon appearances===
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+*{{The Freemaker Adventures|Race on Tatooine}}
+*{{The Freemaker Adventures|The Embersteel Blade}}
+*{{Droid Tales|Exit from Endor}} {{Flash}}
+
+==Sources==
+*{{SWE|groups|boontaevepodracers|Boonta Eve Classic Podracer Pilots}}
+*{{SWE|characters|fodeandbeed|Fode and Beed}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]'' {{1stID}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
+*{{Databank|fode-and-beed|Fode and Beed|archivedate=20161216123527}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Fode und Beed#kanon
+|es=Fodesinbeed Annodue
+|hu=Fodesinbeed Annodue
+|ja=フォードシンビード・アノドゥ
+|nl=Fodesinbeed Annodue
+|pl=Fodesinbeed Annodue
+}}
+
+[[Category:Males]]
+[[Category:Troigs]]

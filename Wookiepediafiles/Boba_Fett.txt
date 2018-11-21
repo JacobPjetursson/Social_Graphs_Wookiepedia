@@ -1,0 +1,364 @@
+{{Eras|sprot}}
+{{Update|[[Added Muscle]], [[Moving Target: A Princess Leia Adventure]], [[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]}}
+{{Character
+|type=Bounty hunter
+|image=[[File:Boba Fett HS Fathead.png]]
+|name=Boba Fett
+|homeworld=[[Kamino]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|birth=Shortly after the [[Battle of Naboo]]<ref name="SWCT">[[Star Wars: Card Trader|''Star Wars'': Card Trader]]</ref>
+|death=<!-- PLEASE NOTE: There is no canon evidence regarding Boba Fett's ultimate fate. We only know he fell into the sarlacc. Please, do not add a date of death. -->
+|species=[[Human]] {{C|[[Cloning|clone]] of [[Jango Fett]]}}<ref name="Episode II" />
+|gender=[[Sexes|Male]]<ref name="Episode V">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+|height=1.83 [[meter]]s<ref name="BobaSWE">{{SWE|characters|bobafett|Boba Fett}}</ref>
+|mass=78 [[kilogram]]s<ref name="TFA head to head">''[[Star Wars: The Force Awakens: Head-to-Head]]''</ref>
+|hair=[[Color|Black]]<ref name="Episode II" />
+|eyes=Brown<ref name="Episode II" />
+|skin=Tan<ref name="Episode II" />
+|cyber=
+|era=
+|affiliation=*[[Confederacy of Independent Systems]]<ref name="Episode II" />
+*[[Krayt's Claw]]<ref name="Dark Disciple">''[[Dark Disciple]]''</ref>
+*[[Jabba Desilijic Tiure's criminal empire]]<ref name="Darth Vader 1">''[[Darth Vader 1: Vader]]''</ref>
+*[[Galactic Empire]]<ref name="Episode V" />
+|masters=
+|apprentices=}}
+{{Quote|I'd be lying if I said I didn't enjoy the whispers of surprise when I walked onto the scene. That's right, boys. Fett's here.|Boba Fett|Added Muscle}}
+'''Boba Fett''' was a [[human]] [[Sexes|male]] [[bounty hunter]] and the genetic [[Cloning|clone]] of the infamous [[bounty]] hunter [[Jango Fett]]. Boba was created by the cloners on [[Kamino]] and was physically identical to the [[clone trooper]]s created for the [[Grand Army of the Republic]], though Boba was unaltered and did not grow at the same accelerated rate as the other clones. Raised as Jango's son, Boba learned the combat skills necessary to one day become a bounty hunter in his own right.
+
+Jango was killed during the [[Battle of Geonosis]], which sparked the [[Clone Wars]] between the [[Galactic Republic]] and the [[Confederacy of Independent Systems]]. The young Boba swore vengeance against [[Jedi Master]] [[Mace Windu]], who killed Jango, and teamed up with a group of bounty hunters that included [[Aurra Sing]] and [[Bossk]]. Their plot to kill Windu failed, and Boba realized that he had gone too far in trying to kill the Jedi Master&mdash;but he vowed never to forgive Windu. After serving a brief prison sentence, Boba formed a team of bounty hunters and took on a number of missions.
+
+During the rise of the [[Galactic Empire]], Boba gained a reputation as one of [[the galaxy]]'s deadliest bounty hunters. His distinctive [[Mandalorian armor]] helped keep stories about the Mandalorians alive in the galaxy after the Empire's subjugation of the [[planet]] [[Mandalore]]. By the time of the [[Galactic Civil War]], Boba worked for [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]]. Shortly after the [[Battle of Hoth]], Boba and other bounty hunters were gathered by [[Anakin Skywalker|Darth Vader]], the [[Dark Lord of the Sith]], to locate [[Han Solo]] and the ''[[Millennium Falcon]]'', hoping to use them to lure [[Luke Skywalker]] into a trap. The plot was successful, and Boba took Solo, who was frozen in [[carbonite]], to [[Tatooine]] to collect the bounty that Jabba had placed on him.
+
+After Solo's friends in the [[Alliance to Restore the Republic]] mounted a [[Rescue of Han Solo|rescue]] on Tatooine, a battle broke out over the [[Great Pit of Carkoon]]. Boba fought against the Rebel rescuers and was inadvertently knocked into the [[sarlacc]].
+
+==Biography==
+===Creation and early life===
+[[File:Boba on Kamino.jpg|thumb|200px|left|Young Boba Fett on Kamino.]]
+{{Quote|Apart from his pay, which is considerable, Fett demanded only one thing: an unaltered clone for himself. Curious, isn't it?|Lama Su, to Obi-Wan Kenobi, about Boba Fett's creation|Star Wars: Episode II Attack of the Clones}}
+After the [[Battle of Naboo]], a [[Grand Army of the Republic|clone army]] was secretly commissioned on [[Kamino]] by [[Jedi Master]] [[Sifo-Dyas]],<ref name="Episode II" /> who believed it would be necessary in order to ensure the protection of the [[Galactic Republic]].<ref name="The Lost One">{{TCW|The Lost One}}</ref> The army however, was part of a [[Sith]] plot to overthrow the Republic and destroy the [[Jedi Order]]. Prior to the creation process, [[bounty hunter]] [[Jango Fett]] was recruited by the [[Sith Lord]] [[Dooku|Darth Tyranus]]. Jango was to be the [[Clone template|genetic template]] for the [[Cloning|clone]] army. Jango agreed to become the genetic template for a considerable payment, as well as one request: the creation of a clone who did not have the same genetic modifications, such as behavioral conditioning and growth acceleration. The [[Kaminoan]] scientists created this clone, who Jango raised as a son named Boba Fett.<ref name="Episode II" />
+
+As a child, Boba was raised on Kamino by his father, who taught his cloned son many of the skills Jango had learned as a bounty hunter. Boba learned survival and martial skills, and became proficient with a [[blaster]] as a child.<ref name="BobaSWE" /> He also learned how to operate the weapon systems on his father's ship, [[Slave I]], and became familiar with members of the Kaminoan government.<ref name="Episode II" />
+
+===Escape from Kamino===
+{{Quote|Get him, Dad! Get him! Fire!|Boba, during his father's fight with Obi-Wan Kenobi|Star Wars: Episode II Attack of the Clones}}
+[[File:FettKenobiMeeting.png|thumb|250px|right|Boba and Jango meet Obi-Wan Kenobi.]]
+Shortly before the outbreak of the [[Clone Wars]], Jango was sent on a mission to [[Plot to assassinate Padmé Amidala|assassinate]] [[Galactic Senate|Senator]] [[Padmé Amidala]], an outspoken opponent of a potential war, at the behest of the [[Confederacy of Independent Systems]]. Jango and his associate, [[Zam Wesell]], failed to kill the [[senator]], and Jango was [[Mission to Kamino (Separatist Crisis)|tracked]] to Kamino by [[Jedi Knight]] [[Obi-Wan Kenobi]], who knew a bounty hunter connected to Kamino was behind the attempt on Amidala's life. When Kenobi arrived on Kamino, the Kaminoans revealed the clone army to him, and Kenobi requested to meet Jango. [[Taun We]], an aide to [[Prime Minister]] [[Lama Su]], brought the [[Jedi]] Knight to the Fetts' quarters, where Boba greeted them. Despite being distrustful of the Jedi's presence, Boba allowed them to enter, where Kenobi spoke with Jango about the clones and implied he knew Jango was behind the assassination attempt. Knowing that he had been discovered, Jango and Boba immediately prepared to leave Kamino once Kenobi departed.<ref name="Episode II" />
+
+While loading ''Slave I'' to leave, Kenobi discovered the Fetts attempting to flee and engaged Jango in one-on-one combat, fighting across the ship's landing platform. During the fight, Boba engaged the ship's blaster cannons and fired at Kenobi repeatedly in an attempt to kill him. As the fight progressed, Kenobi kicked Jango from the landing platform towards the ocean below, causing the Jedi&mdash;who was attached to the bounty hunter by a wire&mdash;to fall as well. Jango cut the wire and was able to make his way back up the platform, while Kenobi landed on the lower levels. This gave Jango enough time to reach the ship and leave as Boba piloted it, though Kenobi arrived on the platform again in time to attach a tracking device to its hull.<ref name="Episode II" />
+
+Jango and Boba made their way to [[Geonosis]], where the [[Separatist Council|Separatist leaders]] had gathered. While en route, Kenobi caught up with them and engaged them in a [[Dogfight over Geonosis|firefight]] in the asteroid field surrounding Geonosis. The Fetts were able to evade the Jedi, and Jango shot a number of [[seismic charge]]s into space in an effort to destroy Kenobi's [[Delta-7 Aethersprite-class light interceptor|starfighter]]. Kenobi was able to fake his ship's destruction by ejecting spare parts that exploded, leading the Fetts to think he was dead. They proceeded to the planet's surface, while Kenobi remained hidden in the asteroid field before pursuing them.<ref name="Episode II" />
+
+===The Clone Wars===
+====Jango's death====
+Shortly after the Fetts' arrival at Geonosis, Kenobi began investigating the Separatists on the planet and was captured by the [[Geonosian]]s. His capture prompted Senator Amidala and Kenobi's [[Padawan]], [[Anakin Skywalker]], to attempt a rescue of their friend. Jango and the Geonosians captured them, and all three detainees were brought into an execution arena, where Boba watched with his father from the sidelines as the detainees fought off the creatures that were meant to kill them. A [[Jedi assault team|team]] of Jedi, led by Master [[Mace Windu]], soon arrived to rescue them. Windu held [[Mace Windu's lightsaber|a]] [[lightsaber]] to Jango's throat while threatening [[Count]] Dooku, but Windu quickly left the stands for the [[Petranaki arena|arena]] below as Separatist [[battle droid]]s began flooding the arena.<ref name="Episode II" />
+
+[[File:Young Fett.jpg|thumb|250px|left|Boba cradles his father's helmet, swearing vengeance against the Jedi who killed Jango.]]
+The battle droids and Jedi [[Battle of Geonosis|engaged]] one another in the arena. As the battle proceeded, Jango joined the fight, where the [[jetpack]] on his [[Mandalorian armor|armor]] was damaged and rendered inoperable, leaving him more vulnerable to attack. Despite the setback, Jango faced off against Windu, who beheaded and killed the bounty hunter. Boba watched in horror as his father was killed. Once the battle left the arena, Boba made his way into the cleared arena and took his father's helmet, pressing it against his head while swearing vengeance against Mace Windu.<ref name="Episode II" />
+
+====Quest for vengeance====
+{{Quote|I see now I've done terrible things. But you started when you murdered my father! I'll never forgive you.''"<br />"''Hmm. Well, you're going to have to. Take him away.|Boba Fett and Mace Windu|Lethal Trackdown}}
+After Geonosis, Boba joined with a team of bounty hunters, including [[Aurra Sing]], [[Bossk]], and [[Castas]] to have his revenge against Mace Windu for Jango's death, and came into possession of ''Slave I''. Together, Boba and the bounty hunters crafted a plan to [[Sabotage of the Endurance|assassinate]] the Jedi Master aboard the Republic [[Venator-class Star Destroyer|vessel]] ''[[Endurance]]''. Boba posed as a young [[clone trooper]] [[Clone cadet|cadet]], with the nickname Lucky, using the fact that he was genetically identical to the other young clones to his advantage; no one onboard ''Endurance'' was aware of his true identity. Once aboard the ''Endurance'', Boba and the other clones were greeted by Windu and Anakin Skywalker, before being put through tactical training. Each clone was able to engage in target practice, and they all missed their targets&mdash;except for Boba who was able to use the skills his father taught him to his advantage.<ref name="Death Trap">{{TCW|Death Trap}}</ref>
+
+[[File:Epguide220.jpg|thumb|250px|right|Boba poses as a young clone trooper on the ''Endurance''.]]
+Later, while on a tour of the ship, Boba slipped away from the other clones and found his way to Windu's quarters, where he quietly installed a bomb that would be triggered by a laser tripwire in the doorway. Windu did not enter his quarters, however, but a clone trooper did, killing the soldier in Windu's place and forcing the entire ship into alert status. Sing instructed Boba via [[comlink]] to sabotage the ''Endurance's'' reactor core, thereby killing everyone on the ship, but Boba was reluctant to kill everyone. His only goal was to kill Windu. Nonetheless, Boba did as instructed, sneaking away from his fellow clones once again, before being caught by a clone trooper who called for security. The two engaged in a brief scuffle near the core, before Boba was able to stun the clone with the trooper's own blaster. He also shot at the core command console.<ref name="Death Trap" />
+
+Much of the hull was immediately destroyed in the ensuing explosion, while Windu and Skywalker were nearly sucked into space and killed before the hull breaches were sealed. With the ''Endurance'' critically damaged, the crew began to abandon ship. Boba, whose identity was not yet discovered, and the other young clones were sealed into an [[escape pod]] and jettisoned into space, but Boba sabotaged the pod in order to separate himself (and his fellow pod inhabitants) from the other escapees. The pod was intercepted by ''Slave I'', led by Sing and Bossk, which revealed Boba as the traitor who destroyed the ''Endurance''. Boba was given the choice to either stay with the clone cadets or leave with the bounty hunters, and Boba somewhat reluctantly chose to leave with the bounty hunters.<ref name="Death Trap" />
+
+[[File:BobaBosskCastasSing-TCWS2E20.jpg|thumb|250px|left|Boba and the bounty hunters watch the explosion on the ''Endurance''.]]
+After leaving the escape pod, Boba and the other bounty hunters, including Castas, made their way to the nearby planet [[Vanqor]], where the ''Endurance'' had crashed after the explosion. Once there, they killed several clone troopers and captured Admiral [[Kilian]], the ship's commanding officer, as well as [[Clone Commander]] [[CT-411|Ponds]] and another officer. Hoping to set another trap for Windu, Boba rigged his father's old helmet as an explosive on the ship's [[Bridge (starship)|bridge]], which would be detonated if Windu came looking for any survivors. The Jedi Master, with Skywalker, [[Mission to Vanqor|arrived]] shortly thereafter. The helmet exploded just after Windu noticed it, and remembered that Jango had a son&mdash;deducing that Boba was the one attempting to kill him. Windu and Skywalker did not die in the ensuing explosion, but were caught within the rubble of the quickly-deteriorating vessel.<ref name="R2 Come Home">{{TCW|R2 Come Home}}</ref>
+
+As Boba and the other bounty hunters watched the explosion, he assumed that Windu had been killed and wanted to recover his body. Some of his companions objected, however, believing that their three prisoners were already enough to earn a sizable fortune from Count Dooku if they were turned over to the Separatists, but Sing sided with Boba, and the team set out to find Windu's body. As they entered the ship, they encountered [[R2-D2]], Skywalker's personal [[astromech droid]], who attempted to slow their advance by throwing debris at them and closing doors in their path. Unable to make it to the bridge, Sing made the decision to use ''Slave I'' to destroy the remainder of the ''Endurance'', ensuring that Windu would perish.<ref name="R2 Come Home" />
+
+[[File:Slave I Vanqor.jpg|thumb|250px|right|''Slave I'' pursues R2-D2, who pilots Windu's starfighter.]]
+Before using ''Slave I'', the bounty hunters overheard an explosion caused by R2-D2, who had been attacked by [[gundark]]s and used one of the Jedi starfighters to kill a gundark. The bounty hunters believed that meant Windu had survived and jammed all communication, hoping to prevent the Jedi from requesting help. R2-D2 was able to escape in the other starfighter, however, and survived a brief firefight with ''Slave I'' before jumping to [[hyperspace]] for [[Coruscant]], where he successfully found help at the [[Imperial Palace|Jedi Temple]] and was able to bring a [[104th Battalion|team]] of Jedi and clones to rescue Windu and Skywalker. The bounty hunters, meanwhile, decided to use the hostages to lure Windu into a trap.<ref name="R2 Come Home" />
+
+Sing took charge of setting the trap, and she sent a transmission to the Jedi Temple revealing that they were holding the Republic prisoners. Sing told Boba to personally execute Commander Ponds during the transmission, but he refused, as his goal was to kill Windu rather than other prisoners. Sing executed Ponds on her own, jettisoning him into space, and Boba's relationship with her and the other bounty hunters began to deteriorate. Boba objected to the treatment of the other prisoners as well, going so far as to show compassion by providing them with water. Nonetheless, the transmission to the Jedi Temple did end up putting the Jedi on their trail, only the Order sent Master [[Plo Koon]] and Padawan [[Ahsoka Tano]] rather than Master Windu.<ref name="Lethal Trackdown">{{TCW|Lethal Trackdown}}</ref>
+
+The group soon took refuge on [[Florrum]], where Sing planned to seek the assistance of [[Hondo Ohnaka]], a [[spice]] [[pirate]] and her former lover. Ohnaka declined to help her if the Jedi arrived on Florrum, but he also vowed not to stand in her way. Castas, however, contacted a [[Fong Do|fellow]] bounty hunter on Coruscant and offered to provide information on Boba and the others. Sing overheard his conversation and executed him, leaving Boba horrified as he began to realize he had made a mistake in teaming with the bounty hunters against Windu.<ref name="Lethal Trackdown" />
+
+[[File:FlorrumStandoff-LT.png|thumb|250px|left|Boba, Sing, and the Jedi in a standoff on Florrum.]]
+Despite Castas' betrayal, it was his transmission to Coruscant that allowed the Jedi to discover Boba and the others on Florrum, as Tano had overheard the transmission. The two Jedi [[Second mission to Florrum|arrived]] on Florrum shortly thereafter, where Sing attempted to ransom the prisoners. Both sides ended up attacking one another, with Boba holding a blaster to Koon's head and Tano holding a [[Ahsoka Tano's lightsaber|lightsaber]] to Sing's throat. The bounty hunters created a diversion and attempted to escape, but Boba was captured while Sing fled on a speeder. Koon interrogated Boba, who refused to disclose the location of the hostages despite his reservations about their treatment. Ohnaka was able to convince Boba to tell the Jedi, however, by saying that Jango would have wanted his son to do the honorable thing. The hostages were rescued, while Sing managed to make it to ''Slave I'' and begin to flee, but Tano clung to the ship and damaged it enough to cause a crash. The ship went down in a fiery explosion and the Jedi assumed Sing had been killed, but she survived.<ref name="Lethal Trackdown" />
+
+Boba and Bossk, who was also taken into custody, were sent to Coruscant where they would be imprisoned. Windu met Boba upon his arrival, and Boba apologized for his actions and the destruction that he caused&mdash;but he vowed to never forgive Windu for killing his father.<ref name="Lethal Trackdown" />
+
+====Becoming a bounty hunter====
+{{Quote|Boss? ''This'' is your boss?''"<br />"''You got a problem with that?|Asajj Ventress and Boba Fett, as Ventress expresses skepticism of Boba's age and experience|Bounty (episode)}}
+[[File:Boba Fett Confronts Disguised Obi-Wan.png|thumb|250px|right|Boba confronts Kenobi, disguised as Rako Hardeen, in prison on Coruscant.]]
+Boba was imprisoned on Coruscant for his actions during the assassination attempts. During his time in prison, a Republic plan was put in motion aimed at preventing a suspected kidnapping plot against [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]]. To do so, Obi-Wan Kenobi faked his death and disguised himself as [[Rako Hardeen]], the suspect in the attempt on his life, and entered the same prison where Boba was being held. Kenobi teamed with [[Moralo Eval]], a suspect in the suspected kidnapping plot, and bounty hunter [[Cad Bane]] to escape the prison in the hopes it would lead him towards the heart of the conspiracy. As part of the escape attempt, Bane paid and encouraged Boba to confront "Hardeen," and Boba claimed that Hardeen had cheated him out of a bounty. Boba and Kenobi briefly fought one another, before Bossk intervened and started a [[Riot at the Republic Judiciary Central Detention Center|riot]] to defend Boba. Bane's plan was successful,<ref name="Deception">{{TCW|Deception}}</ref> and Kenobi eventually went on to help [[Skirmish in Theed|stop]] the plot against Chancellor Palpatine.<ref name="Crisis on Naboo">{{TCW|Crisis on Naboo}}</ref>
+
+[[File:BobaInterimArmor-Bounty.jpg|thumb|250px|left|Boba became a bounty hunter in his own right, forming a syndicate based on Tatooine.]]
+Boba left prison shortly thereafter<ref name="Bounty">{{TCW|Bounty (episode)|Bounty}}</ref> and formed a the syndicate of bounty hunters [[Krayt's Claw]],<ref name="Dark Disciple" /> using [[Tatooine]] as his base of operations. As part of the syndicate, Boba hired Bossk, [[Dengar]], [[C-21 Highsinger]], and [[Latts Razzi]].<ref name="Boba Databank">{{Databank|boba-fett|Boba Fett|archivedate=20170605030244}}</ref> One of the missions they chose to undertake was on [[Quarzite]], where they were to [[Safe cargo objective|protect]] cargo on an underground tram from being attacked and stolen by a band of raiders. After [[Asajj Ventress]], a former [[Sith apprentice|apprentice]] of Count Dooku who was betrayed by the Sith Lord and became a bounty hunter, killed one of their teammates, [[Oked]], Ventress was hired in his place. The team left Tatooine and proceeded to an [[Quarzite space station|orbital elevator station]] above Quarzite where they meet their employer, Major [[Rigosso]], and received the specifics of their assignment. The crew was to protect the contents of a chest, which would be delivered to the [[Otua Blank]], the ruler of Quarzite, via an underground tram, as the planet's atmosphere rendered delivery via spacecraft impossible. The chest needed protection from the band of [[Kage Warriors|raiders]], which was why the bounty hunters were hired.<ref name="Bounty" />
+
+The team embarked on their mission by taking the space elevator down beneath the surface of the planet, where they boarded the [[Subtram|tram]] and made their preparations to defend the chest from the raiders. The raiders boarded the tram during its journey and attacked, killing the Quarzite personnel. Most of the bounty hunters were thrown off of the tram. During the struggle against the raiders, Boba inadvertently knocked the chest over, revealing its contents: a young woman named [[Pluma Sodi]], who had been kidnapped so she could be married to Otua Blank against her will. The leader of the raiders, [[Krismo Sodi]], was her brother, who had been trying to save his sister. Ventress and Boba, who managed to remain on the tram, argued about the situation after Pluma pleaded with the former Sith acolyte, who felt sympathy for the girl; Ventress had also been forcibly taken from her home. Boba, on the other hand, intended to continue with the operation. Ventress used [[the Force]] to [[Force choke|choke]] Boba, preventing him from fulfilling the mission.<ref name="Bounty" />
+
+[[File:Boba Fett Tied Up.png|thumb|250px|right|An angry Boba is left bound and gagged by Ventress on Quarzite.]]
+Once the tram arrived at its destination, Ventress delivered the chest to Blank and claimed the bounty, departing before the ruler could discover the chest's contents: an angry Boba, who Ventress had tied up and placed into the chest. Ventress released Pluma to her brother and regrouped with the other bounty hunters, paying them their shares of the bounty before parting company with them.<ref name="Bounty" />
+
+====Running a Syndicate====
+{{Quote|For the record&mdash;I know you're going to betray us at some point. They might not see it, but I do... And also, just for the record. I'm not the kid you left behind on Quarzite. You double&ndash;cross me again&mdash;you'll pay for it.|Boba Fett agreeing to accept Ventress's mission to rescue Quinlan Vos|Dark Disciple}}
+Despite his embarrassment at Ventress' hands, Boba continued to run a successful syndicate of bounty hunters based out of both Coruscant and Tatooine. However, Ventress' history with the team continued to haunt the crew. In the waning years of the Clone Wars, Boba was approached by the Jedi [[Quinlan Vos]] while frequenting [[Unidentified bar (Level 1313)|one]] of Coruscant's [[Level 1313]] bars. Vos was interested in hunting down the former Sith for a planned assassination attempt on Count Dooku and wanted to partner with Ventress, a Nightsister who had once been Dooku's apprentice. Boba informed Vos that Ventress was [[Capture of Moregi|hunting]] a [[Volpai]] fugitive named [[Moregi]] on the planet [[Pantora]].<ref name="Dark Disciple" />
+
+Using Fett's information, Vos traveled to Pantora where he rendezvoused with Ventress. After doing several bounty hunting jobs together, Vos revealed his true mission to Ventress, who agreed to train him in the ways of the [[dark side of the Force]]. When Vos' [[Mission to Raxus|attempt]] failed, Ventress approached Boba once again at [[Chalmun's Cantina]] on Tatooine with the hopes of recruiting his syndicate to rescue her new partner turned lover. While initially cool, Fett and his fellow bounty hunters accepted Ventress' job after she offered to pay 250,000 [[credit]]s in advance. Satisfied, Boba and his allies joined Ventress on her [[Mission to Serenno (Krayt's Claw)|mission]] to rescue Vos. However, Dooku defeated Fett and his fellow bounty hunters with relative ease and Ventress's attempt to save Vos resulted in failure as well. Defeated but alive, Boba and his crew retreated from Serenno.<ref name="Dark Disciple" />
+
+In the ensuing years, Boba gained a reputation as one of the deadliest bounty hunters in [[the galaxy]].<ref name="Boba Databank" /> One of his known tactics was disintegrating his adversaries.<ref name="Boba Bio Gallery">{{Databank|boba-fett-biography-gallery|Boba Fett Biography Gallery}}</ref> As his career evolved from the days of the Clone Wars, Boba took on Mandalorian armor reminiscent of his father's, and once again took possession of ''Slave I''.<ref name="Boba Databank" /> Boba's armor was also adorned with numerous braids hanging from the shoulder, which he displayed as trophies of his fallen prey.<ref name="Boba Bio Gallery" />
+
+===Galactic Civil War===
+====Working for Jabba====
+{{Quote|Are you bounty hunters up to the challenge?''"''<br />''"''Give us the mission. You'll see.|Darth Vader and Boba Fett|Darth Vader 1: Vader}}
+[[File:Jabbathehutt94.png|thumb|250px|left|Boba looks on as Jabba the Hutt speaks to Han Solo in Mos Eisley.]]
+By the time of the [[Galactic Civil War]], Fett was an established bounty hunter who worked as one of [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]]'s go-to mercenaries.<ref name="Boba Databank" /> His Mandalorian armor kept the idea of [[Mandalorian]] warriors alive in the galaxy, after many of them had been killed by the Empire.<ref name="Rise of the Rebels">''[[Rise of the Rebels]]''</ref>
+
+At some point before the [[secret mission to Tatooine]], Boba traveled to Coruscant where he encountered three [[Alliance to Restore the Republic|rebel]] [[Spy|spies]]. After the spies attempted to engage Boba with Ion [[disruptor]]s he disintegrated them using a weapon accelerator, which angered [[Darth]] Vader who refused to pay Boba the bounty as there were no bodies.<ref name="Added Muscle">{{Shortstory|story=Added Muscle|book=From a Certain Point of View}}</ref>
+
+Shortly before the [[Battle of Yavin]], Boba originally planned to leave Tattooine. But after catching wind that Vader was looking for a couple of runaway droids, Boba changed plans in order to attempt to collect on the bounty. He followed one of the droids' footprints which led to treadmarks made by a [[sandcrawler]]. Upon tracing the sandcrawler's path to its destination, he discovered that the Jawas had been wiped out, most likely by stormtroopers. After additional work, Boba deduced that the Empire's forces had seemingly killed everyone known to have seen the droids. This included the two inhabitants living at a torched moisture farm which Boba had investigated. With careful observation, Boba found that there had been three inhabitants living in that moisture farm, and that the third inhabitant had most likely run off with the droids.<ref name="Added Muscle" />
+
+Later, Boba was present in [[Mos Eisley]] on Tatooine when Jabba confronted [[Han Solo]], one of the Hutt's [[smuggler]]s; Solo owed Jabba money after having dumped his smuggling cargo before his ship, the ''[[Millennium Falcon]]'', was boarded by soldiers from the [[Galactic Empire]]. Solo promised Jabba he would pay him, but a bounty had been placed on the smuggler's head. Solo, who became a member of the Alliance to Restore the Republic,<ref name="Episode IV">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref> ultimately did not pay Jabba, leading Boba to pursue the bounty.<ref name="Episode V" />
+
+====Bounty for the Dark Lord====
+{{Quote|There is an X-Wing pilot. He knew an Obi-Wan Kenobi. He left this planet aboard a smuggling vessel called the ''Millennium Falcon.''"<br>"I know the ship. Dead or alive?"<br>"Alive.|Darth Vader gives Boba Fett his mission.|Darth Vader 1: Vader}}
+[[File:Fett BK.png|thumb|right|230px|Fett and Black Krrsantan meet Vader in the desert.]]
+Not long after the Battle of [[Yavin]], Boba was present in [[Jabba's Palace]] when the [[Dark Lord of the Sith]] Darth Vader [[Attack on Cymoon 1#Aftermath|visited]] on behalf of the Emperor, to negotiate terms of the Hutt Clan supplying the [[Imperial Military]] with raw resources to increase their production. However, Vader arrived a day early on behalf of himself. Jabba was wary of Vader, but ordered his court to leave them in privacy nonetheless. Vader soon revealed that he needed two of Jabba's top bounty hunters. After Jabba tested the Dark Lord, they came to an agreement, so Jabba sent Boba, and the [[Wookiee]] [[Black Krrsantan]].<ref name="Darth Vader 1" />
+
+Later that day Boba and Krrsantan met Vader out in the [[desert]] after meeting with Jabba. Vader inquired to whether the two bounty hunters were Jabba's finest, and when Boba assured him they were, Vader gave them each their missions: Boba was to capture a Rebel Alliance pilot who was associated with a man named Obi-Wan Kenobi, and a smuggling vessel known as the ''Millennium Falcon''. And Krrsantan's bounty was on an [[Cylo|Imperial agent]] who the Emperor favored. He was also to be apprehended alive. Boba assured Vader that his will would be done. The Dark Lord told them to start immediately as he basked in a [[Tusken Raider]] camp he had slaughtered earlier.<ref name="Darth Vader 1" />
+
+Per Vader's orders, Boba began the search immediately. He knew Solo frequented Mos Eisley, so he started there to find Solo's accomplice. Boba soon found a group of four Rodians and informed them of his search for Kenobi, to which the lead Rodian replied that Kenobi was just some "crazy old wizard," who lived in the Dune Sea, and asked why Boba was looking for the wizard. Boba pointed his weapon at the Rodian, stated that Kenobi was dead, and that he alone would be asking the questions.<ref name="Star Wars 4">''[[Star Wars 4: Skywalker Strikes, Part IV]]''</ref>
+ 		 	
+[[File:Fettcrashesthecantina.jpg|thumb|left|280px|Boba addresses the patrons of Chalmun's Cantina]]
+Boba then killed the Rodians, after they proved useless, and went in search of others who might know anything useful about the boy. He came across a group of [[Jawa]]s that he also killed, then a family of moisture farmers that he interrogated, before murdering them as well. All leads proved fruitless, therefore, Boba headed towards the cantina, the place where most of Tatooine's scum and villainy went to drink.<ref name="Star Wars 5">''[[Star Wars 5: Skywalker Strikes, Part V]]''</ref>
+
+Boba entered, stood as the center of attention, and addressed the gathered criminals and spacers, telling them he was not going to leave until someone provided him with the boy's name. However, while Boba threatened an [[Ithorian]], someone in the back of the room spoke up and mocked that the only boy he saw, was Boba. The bounty hunter demanded to know who had insulted him, and was pleased when a six-armed<ref name="Star Wars 5" /> over two meter tall<ref name="Tall alien">In ''[[Star Wars 4: Skywalker Strikes, Part IV]]'', the alien is depicted as being over a head taller than Boba. Therefore, we can deduce from Boba's 1.83 [[meter]] height that the alien was over two meters tall.</ref> alien approached. Boba quickly overpowered the alien, removing one of its arms and breaking three others, in order to intimidate the patrons into answering his questions. Boba again demanded the boy's name. but [[Wuher]] the cantina's [[bartender]], said that no one there knew the boy, therefore, no one knew his name; only that Kenobi had been in the cantina recently with the boy, but that was all anyone knew about him. Suddenly, [[Unidentified moisture farmer (Chalmun's Cantina)|a young moisture farmer]] bolted towards the exit, but Boba fired a length of fibercord that tripped up the teen. The young farmer claimed he didn't know anything, but to Boba, he obviously did for he had tried to run. Boba tied the young man to a table and and proceeded to interrogate him. The teen eventually broke and told Boba the boy's history on Tatooine, and most importantly, his name: Luke Skywalker. The bounty hunter knew the teen spoke the truth and released the boy who had "only wanted a drink", however, shot him in the chest right after.<ref name="Star Wars 5" />
+
+[[File:Boba Fett attacks Luke Skywalker.png|thumb|right|230px|Boba traps Skywalker in Kenobi's old home.]]
+Boba left the cantina, boarded his ship, and headed to [[Ben Kenobi's home]] in the [[Jundland Wastes]], where he waited for Skywalker to show. A group of Tusken Raiders were ransacking Kenobi's home, but Skywalker and his astromech droid soon arrived and Skywalker chased them off with [[Skywalker's lightsaber|his lightsaber]]. Boba stealthily closed in on them as they [[Duel in Ben Kenobi's home|entered]] the hut. Boba threw a [[flash grenade]] that temporarily blinded Skywalker and short-circuited his droid, R2-D2.<ref name="Star Wars 5" />
+
+Boba moved in and hit Skywalker across the head with his carbine and ordered him to surrender. Skywalker, however, struck Boba in the stomach, hitting Boba's armor. Skywalker, as he was blind, mistook Boba for a [[stormtrooper]]. Skywalker deduced that since Boba hadn't killed him, whoever had hired the bounty hunter wanted Skywalker alive, so he ignited his lightsaber after Boba warned that Skywalker needn't be walking, just "alive." Skywalker told Boba that the bounty hunter never should have come to Kenobi's home, and was adamant that he would fight Boba blind; for Jedi didn't need [[eye]]s&mdash;although, as Boba reminded him, he was no Jedi. Skywalker swung wildly, giving Boba the chance to shoot a length of fibercord that Skywalker surprisingly evaded. Skywalker used the noise that Boba's Mandalorian armor produced to fight him, and caused Boba to stumble backwards and trip over Artoo, prompting them both to charge each other.<ref name="Star Wars 6">''[[Star Wars 6: Skywalker Strikes, Part VI]]''</ref>
+
+The bounty hunter cut Skywalker several times with [[vibroblade]]s that extended from his gauntlets, drawing blood several times. Boba again ordered him to surrender. Skywalker, therefore, added that Kenobi could help him [[Force spirit|even beyond death]], prompting Boba to shoot him in the shoulder. Boba prepared to do so again when Skywalker recited a Jedi saying, and [[Form V|deflected]] the incoming blaster bolt; forcing Boba to tackle the still-blind boy. Both combatants grappled one another, and Boba began to press the lightsaber towards Skywalker's face. However, a box marked "For Luke" suddenly flew across the room and collided with Boba's head, knocking him unconscious. Skywalker and his astromech were equally surprised, but quickly left the hut and Tatooine, leaving Boba to report the events that had transpired to Lord Vader.<ref name="Star Wars 6" />
+
+[[File:Boba informs vader.png|thumb|left|250px|Boba reports to Darth Vader aboard a Star Destroyer]]
+Later, Boba traveled aboard ''Slave I'' to meet Vader on a Star Destroyer, and reported that the boy had "gotten lucky" and escaped. Vader was disappointed and asked if Boba had brought him anything of value. Boba told him he had, at least, discovered the boy's name: Skywalker. Vader remained silent for some time, so Boba left, for their present business was concluded.<ref name="Star Wars 5" /> Unknown to Boba, he had just told the Dark Lord that he had a son.<ref name="Darth Vader 6">''[[Darth Vader 6: Vader, Part VI]]''</ref>
+
+====The hunt for Han Solo====
+{{Quote|There will be a substantial reward for the one who finds the ''Millennium Falcon''. You are free to use any methods necessary, but I want them alive. No disintegrations.''"<br />"''As you wish.|Darth Vader and Boba Fett|Star Wars: Episode V The Empire Strikes Back}}
+Several years later, Boba took on another bounty on Solo's head, which was also placed by Darth Vader. He was among the six bounty hunters gathered on board the ''[[Executor]]'' by Vader. Vader intended to use Solo, as well as [[Leia Organa]] and [[Chewbacca]], as bait to lure Luke Skywalker into a trap. Boba and the other bounty hunters were given permission to use any means necessary to capture Skywalker's friends, as long as they were captured alive. Boba located the ''Millennium Falcon'' hiding amongst the Imperial fleet in the [[Anoat system]], and he pursued them out of the system as they made their way to [[Cloud City]] on [[Bespin]]. Boba and the Empire arrived before the ''Millennium Falcon'', which allowed Vader to manipulate Solo's friend and the leader of Cloud City, [[Lando Calrissian]], into helping them capture Solo and the others.<ref name="Episode V" /> Whilst on Bespin, Boba destroyed [[IG-88]], who had followed him to Cloud City.<ref name="Updated and Expanded">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+
+[[File:BobaVaderLando.jpg|thumb|250px|right|Boba speaks to Darth Vader about the bounty on Solo's head.]]
+Boba became concerned when he learned that Vader intended to freeze Solo in [[carbonite]], as a test to determine whether Skywalker would be able survive the same process. Vader promised the bounty hunter that he would be compensated by the Empire for the loss of any potential bounty earnings if Solo was to be killed. Solo survived the process, however, and Vader turned the frozen smuggler over to Boba, who had Solo taken to ''Slave I''. He was pursued by Organa, Calrissian, and Chewbacca, all of whom were [[Escape from Cloud City|attempting]] to save Solo from being taken to Jabba the Hutt. Their attempt failed, however,<ref name="Episode V" /> and Boba successfully left Bespin and brought Solo to Jabba's Palace on Tatooine.<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+
+====Into the sarlacc====
+{{Quote|Boba Fett? Boba Fett? Where?|Han Solo, just before knocking Fett into the sarlacc|Star Wars: Episode VI Return of the Jedi}}
+Boba remained at Jabba's palace after delivering Solo to the Hutt. In the meantime, a plan was developed by Skywalker, Organa, Chewbacca, and Calrissian to [[Rescue of Han Solo|free Solo]] from the palace. Boba was present while the plan went into action, and witnessed Skywalker and Chewbacca be captured by the Hutt, while Organa was taken as a slave girl and Calrissian posed as a guard. Organa was, however, able to free Solo from carbonite freezing, and the smuggler emerged temporarily blind as a result of the freezing process. At Jabba's decree, Skywalker, Solo, and Chewbacca were to be taken to the [[Great Pit of Carkoon]], where they would be fed to the [[sarlacc]]&mdash;a creature that lived in the pit. Boba made the journey to the sarlacc with Jabba's entourage.<ref name="Episode VI" />
+
+[[File:Bobawhere.jpg|thumb|250px|left|Solo inadvertently knocks Boba into the sarlacc pit.]]
+Once at the Great Pit of Carkoon, Skywalker and the others put their plan into motion, attacking Jabba's guards&mdash;and even leading to the death of Jabba himself, who was strangled to death by Leia Organa. During the firefight, Boba fought against Skywalker, who used his lightsaber to destroy Boba's blaster. In the ensuing chaos, Solo&mdash;still somewhat blind&mdash;inadvertently knocked Boba over the side of a desert skiff into Jabba's sail barge<ref name="Episode VI" /> and tumbling into the Pit of Carkoon.<ref name="Boba Databank" /><!-- PLEASE NOTE: There is no canon evidence that Boba Fett survived the sarlacc pit. On the other hand, there is also no canon evidence that he officially died in the sarlacc pit. The ending of this paragraph has therefore been left ambiguous. -->
+
+==Personality and traits==
+{{Quote|Pure genetic replication. No tampering with the structure to make it more docile, no behavior modification and no growth acceleration.|Lama Su describes the cloning procedure that created Boba Fett|Star Wars: Episode II Attack of the Clones}}
+[[File:Boba Confronts Mace Windu.jpg|thumb|250px|right|Boba confronts Windu on Coruscant.]]
+As a child, Boba was close with his father, learning much from Jango's years as a bounty hunter.<ref name="Boba Databank" /> He was distrustful of Obi-Wan Kenobi upon the Jedi Knight's arrival on Kamino, recognizing him as a potential threat to both himself and Jango. He took pleasure in fighting Kenobi both on Kamino and in orbit of Geonosis, expressing joy at the thought that the Jedi had been killed.<ref name="Episode II" /> His personality hardened after Jango's death, as Boba swore vengeance on Mace Windu, yet he did not take any pleasure in the collateral damage wrought by his mission.<ref name="Death Trap" /> His better nature eventually won over in honor of his father's memory, as Boba turned against his bounty hunting allies and allowed himself to be taken into the custody of the Galactic Republic. Despite realizing the errors of his ways, he swore he would never forgive Windu for the murder of his father.<ref name="Lethal Trackdown" />
+
+After being released from prison and forming a bounty hunter team, Boba became more ruthless than he had been previously, focused on achieving the goals of his mission. During the mission to Quarzite, Boba wanted to hand Pluma Sodi over to Otua Blank, despite her pleas for mercy. It was only Ventress' betrayal that allowed Sodi to escape.<ref name="Bounty" /> As the years went by, and the Clone Wars gave way to the reign of the Galactic Empire, Boba became known for his lethality, going so far as to display trophies of his prey on his armor.<ref name="Boba Bio Gallery" />
+
+During the Clone Wars, Boba expressed aversion to being compared to clone troopers. He did not want to see himself as being the same as other young clones or a clone in general, as he was the one who Jango Fett considered to be his son.<ref name="Death Trap" /> He nonetheless did not care to harm his fellow clones,<ref name="Lethal Trackdown" /> and briefly considered leaving his bounty hunter companions to stay with the other young clones who escaped the ''Endurance''.<ref name="Death Trap" />
+
+==Skills and abilities==
+Boba's talents as a bounty hunter were infamous across the galaxy, and he became well-known to galactic fugitives who had bounties on their heads. From a young age, Boba was trained by his father in combat skills, able to handle a blaster at a young age while being deadly in battle scenarios.<ref name="Boba Databank" /> Boba helped Jango fight against Obi-Wan Kenobi on Kamino, displaying his ability to utilize the heavy weapons on ''Slave I''.<ref name="Episode II" /> His skills grew throughout the years, and he displayed an affinity for leadership as he formed his own syndicate of bounty hunters.<ref name="Bounty" /><ref name="Dark Disciple" /> He also commanded the loyalty to those close to him, such as Bossk.<ref name="Deception" />
+
+==Equipment==
+[[File:BobaFett-ep6.png|thumb|250px|left|Boba, in his Mandalorian armor, on Tatooine.]]
+After Jango's death, Boba took possession of ''Slave I'',<ref name="Death Trap" /> which he would use throughout his bounty hunting career.<ref name="Episode V" /> The ship was armed with laser cannons and projectile launchers, as well as seismic charges. This vessel became iconic throughout the galaxy, known to fugitives as the ship of the feared bounty hunter.<ref name="Slave I Databank">{{Databank|slave-i|Slave I}}</ref> During his early bounty hunting career, Boba had his own unique, red and grey armor, including a helmet and twin blaster pistols.<ref name="Lethal Trackdown" />
+
+As his career continued, Boba took on Mandalorian armor similar to Jango's. Unlike Jango's, Boba's armor&mdash;which was mostly green&mdash;was battered and covered in marks from weapons fire. The armor was equipped with a jetpack, flamethrower in the [[Boba Fett's wrist gauntlets|wrist gauntlets]], and a whipcord launcher. Inside the knee pads were rocket dart launchers, and the shoulders were adorned with braids that Boba displayed as trophies of defeated prey.<ref name="Boba Bio Gallery" />
+
+==Behind the scenes==
+{{Quote|Boba Fett was just another one of the minions, another one of the bounty hunters and bad guys. But, he became such a favorite of everybody's that, for having such a small part, uh he had a very large presence.|George Lucas, in the ''Star Wars: ''Episode VI'' Return of the Jedi'' DVD commentary|Star Wars: Episode VI Return of the Jedi}}
+[[File:Boba-riding.jpg|thumb|250px|right|Boba Fett as he appeared in ''The Star Wars Holiday Special''.]]
+Boba Fett was first introduced in ''[[The Star Wars Holiday Special]]'', a two hour long holiday-themed television movie special in the year 1978.<ref name="Holiday Special">''[[The Star Wars Holiday Special]]''</ref> His first [[canon]]ical appearance was in [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']], where he was portrayed by [[Jeremy Bulloch]] and [[John Morton]]. He was voiced in ''The Empire Strikes Back'' by [[Jason Wingreen]],<ref name="Empire IMDb">{{Imdb|title/tt0080684|Star Wars: Episode V The Empire Strikes Back}}</ref> before his voice was over-dubbed by [[Temuera Morrison]], who played Jango Fett in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] as well as Jango's clones in [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']], for the 2004 DVD release of the [[original trilogy]].<ref name="Empire DVD">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] 2004 DVD release</ref> Bulloch reprised the role for [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]. The character was also added into the 1997 Special Edition of [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], where he was portrayed by [[Mark Austin]],<ref name="ANH IMDb">{{Imdb|title/tt0076759|Star Wars: Episode IV A New Hope}}</ref> while [[Don Bies]] played Fett for shots inserted into the Special Edition of ''Return of the Jedi''.<ref name="Jedi IMDb">{{Imdb|title/tt0086190|Star Wars: Episode VI Return of the Jedi}}</ref> For ''Attack of the Clones'', young Boba Fett was portrayed by [[Daniel Logan]],<ref name="Episode II" /> who also voiced the character in his multiple appearances on the television series ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]''.<ref name="Death Trap" />
+
+Despite his brief appearances in the original trilogy, with only four lines of dialogue in ''The Empire Strikes Back'', Boba became a popular character amongst ''[[Star Wars]]'' fans, which surprised series creator [[George Lucas]]. On the DVD commentary for ''Return of the Jedi'', Lucas stated that if he had known Boba would be a popular character, he would have made the character's death in ''Return of the Jedi'' more exciting. Lucas contemplated adding a scene in ''Return of the Jedi'' where Boba climbed out of the sarlacc pit, especially in light of the character's story in ''Attack of the Clones'', but ultimately decided against it because he thought that the audience would believe that Fett would appear later in the film if this scene had been seen.<ref name="Jedi DVD commentary">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] DVD commentary</ref> However, on [[July 16]], [[2014]], ''Star Wars'' author and historian [[Jonathan W. Rinzler]] stated in a Reddit AMA that Lucas has said that Boba also survived the sarlacc in the new canon,<ref name="Rinzler AMA">{{Cite web |url=http://www.reddit.com/r/IAmA/comments/2avk5i/hi_reddit_jonathan_rinzler_star_wars_scholar_and/ciz7w38?context=3 |title=Hi reddit, Jonathan Rinzler (Star Wars scholar and Lucasfilm historian) here. AMA! |accessdate=2014-07-16 |format=Reddit AMA |work= |quote= Yes, he does. I have been in meetings with George where he confirms that Fett survived. If it comes from George then it’s true!}}</ref> though this has yet to appear in official new canon media.
+
+[[File:Reversal of fate.PNG|thumb|250px|left|Fett escapes from the sarlacc in the ''Star Wars Legends'' continuity.]]
+Although Lucas opted against adding Boba's escape, and the ambiguity surrounding the character's fate in sources such as the official [[Databank (original)|Databank]] on [[StarWars.com]],<ref name="Boba Databank" /> the ''[[Star Wars Legends]]'' continuity, previously known as the Expanded Universe, saw Boba escape from the sarlacc.<ref name="Barve Like That">''[[A Barve Like That: The Tale of Boba Fett]]''</ref> He went on to appear in dozens of Expanded Universe stories set after ''Return of the Jedi''. His last chronological ''Legends'' appearance was in ''[[Fate of the Jedi: Apocalypse]]'', set 40 years after ''Return of the Jedi''.<ref name="Apocalypse">''[[Fate of the Jedi: Apocalypse]]''</ref>
+
+According to [[Gary Kurtz]], during the early development of the original trilogy, when Lucas envisioned the whole story of ''Star Wars'' in four trilogies and twelve films, he conceived Fett as the main antagonist of ''Return of the Jedi'', because Darth Sidious was originally planned to be introduced in [[Star Wars: Episode IX|''Star Wars'': Episode IX]].<ref>http://www.theforce.net/latestnews/story/gary_kurtz_reveals_original_plans_for_episodes_19_80270.asp</ref> However, after Lucas decided to not make a [[Sequel trilogy|third trilogy,]] Fett's role in ''Jedi'' was changed to a relatively minor role.<ref>http://www.independent.co.uk/arts-entertainment/films/news/star-wars-boba-fett-was-originally-going-to-be-the-main-villain-in-return-of-the-jedi-but-george-a7014761.html</ref>
+
+During the development of the [[prequel trilogy]], at one point Lucas considered depicting Anakin Skywalker and Fett as stepbrothers, possibly referencing their alliance in ''The Empire Strikes Back'', but discounted it as "too hokey".<ref>[https://books.google.com.pe/books?id=ZC2c40Bw-L4C&pg=PA287&redir_esc=y#v=onepage&q&f=false Skywalking: The Life And Films Of George Lucas, Updated Edition] at [https://books.google.com.pe Google Books]</ref> In continuing to develop the character in the prequel films, Lucas closed some avenues for expanding the character's story while opening others.<ref>[https://books.google.com.pe/books?id=RlRVNikT06YC&pg=RA1-PA15&redir_esc=y#v=onepage&q&f=false Convergence Culture: Where Old and New Media Collide] at [https://books.google.com.pe Google Books]</ref> Also, for a time, Lucas considered including Fett in the story of ''Star Wars'': Episode III ''Revenge of the Sith''. Fett was meant to participate during the [[Jedi Purge]] as the killer of Mace Windu instead of Darth Sidious, via shooting him with his blaster while he was escaping from some stormtroopers, ending his vendetta against him due the death of Jango once and for all. Eventually, Lucas decided to not add Fett to the story, saying that he would be "too young" (he would have been 16 years at that point) and that he was not necessary to be involved in Anakin's fall.<ref>''[[The Making of Star Wars Revenge of the Sith]]''</ref> The concept, however, was loosely reworked later in some episodes of ''Star Wars: The Clone Wars''. Ironically, George Lucas originally placed off-limits the possibility to use Fett in the show when writer [[Henry Gilroy]] was writing the show bible, but by the time of the next meeting, Lucas changed his mind and Fett was allowed to be used in the series.<ref>TheForce.net.[http://theforce.net/jedicouncil/interview/henrygilroyanddavefiloni.asp TheForce.net - Jedi Council - Interviews - Cellblock 1138 - Dave Filoni and Henry Gilroy]. Retrieved on [[November 18]], [[2017]].</ref>
+
+Before the cancellation of ''The Clone Wars'' TV series, Boba Fett was set to make an appearance during a four-episode arc starring him and Cad Bane. The two were going to team up for a "rescue mission" on Tatooine where Tusken Raiders had kidnapped a child. It would emphasize Boba's and Cad's relation to one another as Cad had known Jango. During this arc, Boba would don his green armor for the first time.<ref name="Untold Clone Wars Panel">{{SWYoutube|7yKM6RExLlI|The Untold Clone Wars Panel - Star Wars Celebration Anaheim 2015}}</ref> In a clip revealed during the Animated Origins and Unexpected Fates panel at [[Celebration Orlando]] in [[2017]], Cad Bane and other Bounty Hunters had ended an insurrection by Fett. To finish it, Fett and Bane engaged in a stand-off duel.<ref name="CO 17 AOaUF panel">{{SWYoutube|85Jw-63YNYI|text=Star Wars Celebration Orlando 2017: Animated Origins and Unexpected Fates}}</ref>
+
+During the initial development of [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], Bulloch expressed interest in reprising his role as Fett, but in the end, Fett didn't appear in the film.<ref>[http://www.rollingstone.com/movies/news/7-things-we-learned-from-boba-fett-actors-reddit-ama-20140710 7 Things We Learned From Boba Fett Actor's Reddit AMA] at [http://www.rollingstone.com RollingStone]</ref>
+
+==Appearances==
+{{Scroll_box|content=
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars: Force Arena]]''
+*''[[Star Wars Battlefront II]]''
+*''[[Age of Republic: Jango Fett 1]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
+*{{TCW|Death Trap}}
+*{{TCW|R2 Come Home}}
+*{{TCW|Lethal Trackdown}}
+*{{TCW|Assassin (episode)|Assassin}} {{Flash}}
+*{{TCW|Deception}}
+*{{TCW|Bounty (episode)|Bounty}}
+*{{TCW|Missing in Action}} {{C|Poster only}}
+*''[[Dark Disciple]]''
+*{{IDWAdventuresCite|14|[[Flight of the Falcon, Part 1: Spy Games]]}} {{Mo}}
+*''[[Lost Stars]]'' {{Imo}}
+*''[[Rise of the Rebels]]'' {{Mo}}
+*''[[Bounty Hunt]]''
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{C|Post-[[1997]] releases}}
+*''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]'' {{Mo}}
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*''[[The Adventures of Luke Skywalker, Jedi Knight]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*''[[Star Wars Battlefront]]''
+*{{Shortstory|story=Added Muscle|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*''[[Smuggler's Run: A Han Solo & Chewbacca Adventure]]'' {{Mo}}
+*''[[Darth Vader 1: Vader]]''
+*{{Shortstory|story=Coda|book=Darth Vader 25: End of Games, Part VI}} {{C|Indirectly mentioned only; in the opening crawl}}
+*''[[Star Wars 4: Skywalker Strikes, Part IV]]''
+*''[[Darth Vader 2: Vader, Part II]]'' {{Mo}}
+*''[[Darth Vader 4: Vader, Part IV]]'' {{Mo}}
+*''[[Star Wars 5: Skywalker Strikes, Part V]]''
+*''[[Star Wars 6: Skywalker Strikes, Part VI]]''
+*''[[Darth Vader 6: Vader, Part VI]]''
+*''[[Star Wars 8: Showdown on the Smuggler's Moon, Part I]]'' {{Imo}}
+*''[[Star Wars 11: Showdown on the Smuggler's Moon, Part IV]]'' {{Imo}}
+*''[[Darth Vader 7: Shadows and Secrets, Part I]]'' {{Vision|Darth Vader}}
+*''[[Darth Vader 8: Shadows and Secrets, Part II]]'' {{C|Mentioned only; in the opening crawl}}
+*''[[Darth Vader 13: Vader Down, Part II]]'' {{Mo}}
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+*''[[Episode V: The Empire Strikes Back Read-Along Storybook and CD]]'' {{Imo}}
+*''[[Use the Force!]]'' {{C|Appears in Force vision}}
+*''[[Captured on Cloud City]]''
+*''[[Moving Target: A Princess Leia Adventure]]'' {{Mo}}
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*''[[Episode VI: Return of the Jedi Read-Along Storybook and CD]]'' {{C|Appears in illustration only}}
+*''[[Rescue from Jabba's Palace]]''
+*''[[Aftermath]]'' {{Mo}}
+*{{IDWAdventuresCite|13|[[Tales from Wild Space: The Blue Brothers]]}}}}
+
+===Non-canon appearances===
+*''[[Disney Infinity 3.0]]''
+*''[[Star Wars Epic Yarns: The Empire Strikes Back]]''
+*''[[Star Wars: Galaxy of Heroes]]''
+*{{Droid Tales|Gambit on Geonosis}} {{Flash}}
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+{{Scroll_box|content=
+*{{SW|url=films/star-wars-episode-ii-attack-of-the-clones|text=''Star Wars Episode II: Attack of the Clones''}}
+*{{SW|url=tv-shows/clone-wars/death-trap|text="Death Trap"}}
+*{{SW|url=tv-shows/clone-wars/r2-come-home|text="R2 Come Home"}}
+*{{SW|url=tv-shows/clone-wars/lethal-trackdown|text="Lethal Trackdown"}}
+*{{SW|url=tv-shows/clone-wars/assassin|text="Assassin"}}
+*{{SW|url=tv-shows/clone-wars/deception|text="Deception"}}
+*{{SW|url=tv-shows/clone-wars/bounty|text="Bounty"}}
+*{{SW|url=films/star-wars-episode-iv-a-new-hope|text=''Star Wars Episode IV: A New Hope''}}
+*{{SW|url=films/star-wars-episode-v-the-empire-strikes-back|text=''Star Wars Episode V: The Empire Strikes Back''}}
+*{{SW|url=films/star-wars-episode-vi-return-of-the-jedi|text=''Star Wars Episode VI: Return of the Jedi''}}
+*{{SWE|characters|aurrasing|Aurra Sing}}
+*{{SWE|characters|bobafett|Boba Fett}}
+*{{SWE|characters|Bossk|Bossk}}
+*{{SWE|characters|c21highsinger|C-21 Highsinger}}
+*{{SWE|characters|jangofett|Jango Fett}}
+*{{SWE|groups|kagewarriors|Kage Warriors}}
+*{{SWE|characters|otuablank|Otua Blank}}
+*{{SWE|technology|slavei|Slave I}}
+**{{SW|url=news/to-fans-of-star-wars-the-clone-wars-thank-you|text=To Fans of ''Star Wars: The Clone Wars'': Thank You|archiveurl=http://archive.li/Z9kSy}}
+*''[[Star Wars Costumes: The Original Trilogy]]''
+*{{InsiderCite|152|A Trip to the Light Side}}
+*{{InsiderCite|152|Classic Moment|Classic Moment: Lando's Second Surprise}}
+*{{InsiderCite|152|Blaster (Star Wars Insider)|Blaster}}
+*{{LEGOCite|ucs|75060|Slave I}}
+*{{SW|url=news/swca-the-untold-clone-wars-panel-liveblog|text=SWCA: The Untold ''Clone Wars'' Panel Liveblog}}
+*[[Star Wars: Star Pilot (2015)|''Star Wars: Star Pilot'']]
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[The Art of Star Wars: Uprising]]''
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: ABC-3PO]]''
+*{{SWYoutube|-yF5HFFcv8E|Meet Boba Fett: Initial 1978 Boba Fett Costume Screentest}}
+*{{SWYoutube|KRfI8JLS-gU|The Five Fetts Interview with Warwick Davis}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Princess Leia: Royal Rebel]]''
+*''[[Entertainment Weekly's Ultimate Guide to Rogue One]]''
+*''[[Darth Vader: Sith Lord]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|admiral-kilian|Admiral Kilian|archivedate=20170822213356}} {{Imo}}
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}}
+*{{Databank|aurra-sing|Aurra Sing|archivedate=20170623060156}}
+*{{Databank|bespin|Bespin|archivedate=20170606133655}}
+*{{Databank|boba-fett|Boba Fett|archivedate=20170605030244}}
+*{{Databank|bossk|Bossk|archivedate=20161215204918}}
+*{{Databank|castas|Castas|archivedate=20160520123043}}
+*{{Databank|central-detention-center|Central Detention Center|archivedate=20170705030848}}
+*{{Databank|cloud-city|Cloud City|archivedate=20170528224811}}
+*{{Databank|dengar|Dengar|archivedate=20170626183802}}
+*{{Databank|embo|Embo|archivedate=20170806171425}}
+*{{Databank|han-solo|Han Solo|archivedate=20170607051516}}
+*{{Databank|jango-fett|Jango Fett}}
+*{{Databank|lando-calrissian|Lando Calrissian}}
+*{{SW|url=Millennium-falcon-biography-gallery|text=Millennium Falcon biography gallery}}; images #12, 13, 14 {{C|of 17}}
+*{{Databank|otua-blank|Otua Blank}}
+*{{Databank|slave-i|Slave I}}
+*{{Databank|stormtroopers|Stormtroopers}}
+*{{Databank|z-6-jetpack|Z-6 Jetpack}}
+}}
+
+==Notes and references==
+{{Scroll_box|content=
+{{Reflist}}
+}}
+
+==External links==
+*{{WP|Boba Fett}}
+*[http://www.Bobafettfanclub.com/ The Boba Fett Fan Club]
+
+{{Interlang
+|bg=Боба Фет
+|cs=Boba Fett
+|da=Boba Fett
+|de=Boba Fett#kanon
+|el=Μπόμπα Φεττ
+|es=Boba Fett
+|fr=Boba Fett
+|ko=보바 펫
+|it=Boba Fett
+|hu=Boba Fett
+|nl=Boba Fett
+|ja=ボバ・フェット
+|no=Boba Fett
+|pl=Boba Fett
+|pt=Boba Fett
+|ro=Boba Fett
+|ru=Боба Фетт/Канон
+|sv=Boba Fett
+|tr=Boba Fett
+|uk=Боба Фетт
+|zh=波巴.費特
+}}
+
+{{DEFAULTSORT:Fett, Boba}}
+[[Category:Assassins]]
+[[Category:Confederacy individuals]]
+[[Category:Human clones]]
+[[Category:Males]]
+[[Category:Members of Krayt's Claw]]
+[[Category:Mercenaries]]
+[[Category:Pilots]]

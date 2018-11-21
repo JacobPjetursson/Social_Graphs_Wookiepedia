@@ -1,0 +1,80 @@
+{{Eras}}
+{{Character
+|type=CIS
+|image=[[File:MinaBonteriHS-HOBS.png]]
+|name=Mina Bonteri
+|homeworld=[[Onderon]]<ref name="SWE">{{SWE|characters|minabonteri|Mina Bonteri}}</ref>
+|birth=
+|death=[[21 BBY]]<ref name="POP">{{TCW|Pursuit of Peace}}</ref>
+|species=[[Human]] {{C|[[Onderonian]]}}<ref name="SWE" />
+|gender=[[Sexes|Female]]<ref name="Databank">{{Databank|mina-bonteri|Mina Bonteri}}</ref>
+|height=1.78 [[meter]]s<ref name="Databank" />
+|mass=
+|hair=[[Color|Brown]], graying<ref name="HOBS">{{TCW|Heroes on Both Sides}}</ref>
+|eyes=Gray<ref name="HOBS" />
+|skin=Light<ref name="HOBS" />
+|cyber=
+|era=
+|affiliation=*[[House Bonteri]]<ref name="VE">''[[Star Wars: The Visual Encyclopedia]]''</ref>
+*[[Galactic Republic]]<ref name="HOBS" />
+*[[Confederacy of Independent Systems]]<ref name="HOBS" />
+**[[Separatist Senate]]<ref name="HOBS" />
+|masters=
+|apprentices=}}
+'''Mina Bonteri''' was a [[Sexes|female]] [[human]] native to the [[planet]] [[Onderon]]. Prior to the [[Clone Wars]], Bonteri served as a mentor to [[Padmé Amidala]] on [[Naboo]], and the two became close friends. During the war, Bonteri was the [[senator]] of Onderon in the [[Separatist Senate]]. Following Bonteri's [[death]], her son, [[Lux Bonteri]], filled her position.
+
+==Biography==
+Before the [[Battle of Geonosis|outbreak]] of the [[Clone Wars]], Bonteri was [[Senator]] for her [[homeworld]] of [[Onderon]].<ref name="AWo2F">{{TCW|A War on Two Fronts}}</ref> She and her [[Mina Bonteri's husband|husband]] had a son, [[Lux Bonteri|Lux]]. Bonteri also mentored Senator [[Padmé Amidala]] of [[Naboo]] and became her friend.<ref name="HOBS" />
+
+===Clone Wars===
+[[File:MinaBonteriSpeaks-HOBS.png|thumb|left|280px|Mina Bonteri addresses the Separatist Senate.]]
+By the [[time]] the [[Cloning|Clone]] Wars broke out, Bonteri had joined [[Count]] [[Dooku]]'s [[Confederacy of Independent Systems]] as a member of the [[Separatist Senate]]. She and her son relocated to the Confederacy's [[Capital]], [[Raxus]] where they had a [[Mina Bonteri's house|home]] in [[Raxulon]]. By then, Bonteri's [[Marriage|husband]] had been [[Death|killed]] by [[clone trooper]]s during a [[Battle of Aargonar (Clone Wars)|battle]] on [[Aargonar]].<ref name="HOBS" />
+
+Bonteri was later contacted by Amidala who wished to discuss a [[Confederate–Republic peace initiative|peace initiative]] between the [[Galactic Republic]] and Confederacy. During a session of the Confederate Senate, Bonteri called for a vote to open the peace talks with Republic. However, Bonteri's efforts were thwarted by [[General]] [[Grievous]]'s [[Bombing of Coruscant's central power distribution grid|terrorist attack]] on [[Coruscant]] on the orders of Dooku.<ref name="HOBS" />
+
+====Legacy====
+Bonteri was killed in an apparent Republic [[Attack on Confederate people|attack]] that followed the failed peace initiative, but Republic [[Spy|spies]] confirmed that it was Dooku's [[agent]]s who killed her.<ref name="POP" /> Her son tried to avenge his [[Parent|mother's]] death by briefly joining the [[Death Watch]].<ref name="AFiN">{{TCW|A Friend in Need}}</ref> He then returned to Onderon and joined the [[Onderon rebels|rebels]] in [[Onderonian Civil War|freeing]] the planet<ref name="AWo2F" /> and return [[Ramsis Dendup]] to the throne.<ref name="TSW">{{TCW|The Soft War}}</ref> Impressed by the [[Jedi Order]]'s efforts to liberate Onderon, Lux vowed to guide the people of Onderon back to the Republic as their new senator in the [[Galactic Senate]].<ref name="TP">{{TCW|Tipping Points}}</ref>
+
+{{Char-stub}}
+
+==Appearances==
+*{{TCW|Heroes on Both Sides}} {{1st}}
+*{{TCW|Pursuit of Peace}} {{Mo}}
+*{{TCW|A Friend in Need}} {{Mo}}
+*{{TCW|A War on Two Fronts}} {{Mo}}
+*{{TCW|The Soft War}} {{Mo}}
+*{{TCW|Tipping Points}} {{Mo}}
+*''[[Battlefront II: Inferno Squad]]'' {{Imo}}
+
+==Sources==
+*{{SWE|characters|padmeamidala|Padmé Amidala}}
+*{{SWE|groups|separatists|Confederacy of Independent Systems}}
+*{{SWE|characters|luxbonteri|Lux Bonteri}}
+*{{SWE|characters|minabonteri|Mina Bonteri}}
+*{{SWE|groups|separatists|Separatist Alliance}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|confederacy-of-independent-systems|Confederacy of Independent Systems|archivedate=20170504153602}} {{Po}}
+*{{Databank|galactic-republic|Galactic Republic|archivedate=20170824133114}}
+*{{Databank|galactic-senate|Galactic Senate|archivedate=20170705025411}}
+*{{Databank|lux-bonteri|Lux Bonteri}}
+*{{Databank|mina-bonteri|Mina Bonteri}}
+*{{Databank|padme-amidala|Padmé Amidala}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Mina Bonteri
+|ja=ミーナ・ボンテリ
+|uk=Міна Бонтері
+}}
+
+{{DEFAULTSORT:Bonteri, Mina}}
+[[Category:Females]]
+[[Category:Galactic Republic senators]]
+[[Category:Humans]]
+[[Category:Onderonians]]
+[[Category:Separatist senators]]

@@ -1,0 +1,97 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Lama Su.jpg]]
+|name=Lama Su
+|homeworld=[[Kamino]]<ref name="Lama Su">{{Databank|lama-su|Lama Su}}</ref>
+|birth=
+|death=
+|species=[[Kaminoan]]<ref name="Lama Su" />
+|gender=[[Sexes|Male]]<ref name="Lama Su" />
+|height=2.29 [[meter]]s<ref name="Lama Su" /><ref name="SWJB">''[[Star Wars Journeys: Beginnings]]''</ref>
+|mass=
+|hair=
+|eyes=[[Color|Black]] with white pupils<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref><ref name="Kaminoan">{{Databank|kaminoan|Kaminoan}}</ref>
+|skin=White<ref name="Episode II" />
+|cyber=
+|era=
+|affiliation=[[Galactic Republic]]<ref name="Episode II" />
+|masters=
+|apprentices=}}
+{{Quote|May I present Lama Su, Prime Minister of Kamino.|[[Taun We]], introducing [[Obi-Wan Kenobi]] to Lama Su|Star Wars: Episode II Attack of the Clones}}
+'''Lama Su''' was a [[Kaminoan]] [[Sexes|male]] [[Politics|statesman]] who served as [[Prime Minister]] of [[Kamino]], an [[extragalactic]] [[planet]] where the [[clone trooper]] [[army]] was [[Cloning|engineered]] during the [[Standard decade|decade]] that preceded the [[Clone Wars]]. The creation of clone [[trooper]]s, which Lama Su personally oversaw in his capacity as Prime [[Minister]], enabled his [[homeworld]] to gain influence in the [[Galactic Republic]], which absorbed the clones into the [[Grand Army of the Republic]] in order to fight the [[Confederacy of Independent Systems]]. However, it also made Kamino a target for the [[Separatist Droid Army]] during the three-[[Standard year|year]] conflict that swept across [[the galaxy]].
+
+==Biography==
+===A request for an army===
+{{Quote|Master Sifo-Dyas was killed almost ten years ago.''"<br />"''Oh, I'm so sorry to hear that. But I'm sure he would have been proud of the army we've built for him.|Obi-Wan Kenobi and Lama Su|Star Wars: Episode II Attack of the Clones}}
+Prior to the [[Invasion of Naboo]], Lama Su was commissioned by [[Jedi Master]] [[Sifo-Dyas]] to create a [[Cloning|clone]] [[army]] for the [[Galactic Republic]]. Sifo-Dyas was [[Death|killed]] soon afterwards by members of the [[Pyke Syndicate]], and Su found himself in league with the [[Sith Lord]] [[Dooku|Darth Tyranus]].<ref name="TLO">{{TCW|The Lost One}}</ref> From Tyranus, he received a [[DNA|genetic]] [[Clone template|template]] for the clones: a [[bounty hunter]] named [[Jango Fett]]. He was also given a [[Control chip|bio-chip]] that was to be implanted within each [[clone trooper]] as a safeguard against betrayal from rogue [[Jedi]].<ref name="Conspiracy">{{TCW|Conspiracy}}</ref>
+
+===A visit from a Jedi===
+{{Quote|Magnificent, aren't they?|Lama Su, showing the Grand Army of the Republic to Obi-Wan Kenobi|Star Wars: Episode II Attack of the Clones}}
+[[File:Military Complex.jpg|thumb|left|250px|Lama Su and Taun We guiding Obi-Wan Kenobi on an inspection tour of Kamino's clone units.]]
+A [[Standard decade|decade]] after Sifo-Dyas' death, Lama Su was visited by the [[Jedi Knight]] [[Obi-Wan Kenobi]], who had come to [[Kamino]] in pursuit of Jango Fett and had found his way in by identifying a Kaminoan poison dart. Taun We introduced him to Su and they began chatting. The [[Prime Minister]] assumed Kenobi's purpose was to inspect the clone army, and he assured the Jedi it would be completed on schedule. He told Kenobi about Sifo-Dyas and learned of his death from Kenobi. Eager to impress his guest, Su proceeded to show Obi-Wan the [[Kaminoan]] combat training and educational facilities of [[Tipoca City]]. He then told him about Jango Fett and said that the only thing he asked in return was for a son with no rapid aging.<ref name="Episode II" />
+
+===The Clone Wars===
+{{Quote|Ever since the unfortunate death of Jango Fett, we have had to stretch his DNA to produce more clones.|Lama Su, to Shaak Ti|Clone Cadets}}
+The [[Battle of Geonosis|start of the Clone Wars]] and the death of Jango Fett at the hands of [[Mace Windu]]<ref name="Episode II" /> left Su with a limited supply of genetic material to use in the production of new clones. As such, the Kaminoan prime minister was forced to find new ways of resupplying the Grand Army of the Republic.<ref name="Clone Cadets">{{TCW|Clone Cadets}}</ref>
+
+====The failure of Domino Squad====
+{{Quote|You Jedi show too much compassion.|Lama Su, reprimanding Shaak Ti|Clone Cadets}}
+Su was greatly disappointed in the [[trooper]]s his alternative cloning methods produced. When Jedi Master [[Shaak Ti]] approached him to discuss with him the failure of [[Domino Squad]] in their final test, he suggested its members be terminated. He also talked about how they cloned clone troopers about Fett's death. Ti refused, saying that they were living beings, no animals. Su expressed his opinion that the Jedi show too much compassion, but said that it was not his decision was not his to make, as the Republic ordered them. Hoping to create more successful [[soldier]]s in the future, Su requested a new genetic template be found for them.<ref name="Clone Cadets" />
+
+====An attack on Kamino====
+{{Quote|I wish our arrival wasn't under such circumstances. We believe Grievous is planning a Separatist attack on Kamino.''"<br />"''But the Republic blockade is far too strong. They would not dare.|Obi-Wan Kenobi and Lama Su|ARC Troopers}}
+Su later went with Shaak Ti to welcome Obi-Wan Kenobi, [[Anakin Skywalker]], and the [[501st Legion]] to Tipoca [[City]]. The prime minister was surprised to learn that the [[Confederacy of Independent Systems]] intended to [[Battle of Kamino|attack]] Kamino, despite the [[Republic military]] blockade that surrounded his [[homeworld]]. In preparation for the coming battle, Su positioned himself within Tipoca City's central command center.<ref name="ARC Troopers">{{TCW|ARC Troopers}}</ref>
+
+====The conspiracy of Protocol 66====
+{{Quote|We must contact Lord Tyranus.|Lama Su, to Nala Se|Conspiracy}}
+Near the end of the [[Clone Wars]], Su was approached by [[Nala Se]], who informed him that [[Order 66|Protocol 66]] had activated prematurely in the clone trooper [[CT-5385]]. Su contacted [[Darth]] Tyranus to share this news with him and was ordered to terminate the defective clone so an autopsy could be performed on his body. He was also instructed to remove the clone's bio-chip and send it to Tyranus before the [[Jedi Order]] could discover the true nature of the chip.<ref name="Conspiracy" />
+
+====Order 66====
+Eventually, in the aftermath of the Clone Wars, following a [[Duel in Palpatine's office|duel]] against Mace Windu in [[Emperor's office|his office]], Chancellor Sheev Palpatine&mdash;the public guise of the Sith Lord Darth Sidious&mdash;seduced Skywalker to the [[dark side of the Force]] and issued Order 66, leading to most of the Jedi being betrayed or murdered by their clone troopers. Su's clone army was ultimately a pivotal factor not only in the [[Sith]] plot for revenge against the Jedi Order, but also in Palpatine's rise to power as [[Galactic Emperor|Emperor]] of the first [[Galactic Empire]].<ref name="EpisodeIII">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+
+==Personality and traits==
+{{Quote|The army?''"<br />"''Yes, a clone army. And, I must say, one of the finest we've ever created.|Obi-Wan Kenobi and Lama Su|Star Wars: Episode II Attack of the Clones}}
+As the overseer of the Grand Army's creation, Lama Su was very proud of his clone troopers and regarded them as one of the finest achievements in his people's history. He also took great pride in his [[planet]]'s combat training and educational facilities, both of which were instrumental in the development of the clone army.<ref name="Episode II" /> Despite his relationship with the Jedi who commanded the army, Su was mystified by their methods. He regarded the Jedi Order as a cult<ref name="Conspiracy" /> and also failed to understand why they felt compassion for the clone troopers under their command.<ref name="Clone Cadets" />
+
+Su was a Kaminoan [[Sexes|male]] who stood at 2.29 [[meter]]s. He was a tall, lanky [[alien]] with [[Color|white]] skin.<ref name="Lama Su" /> His [[eye]]s were black and had white pupils.<ref name="Episode II" /><ref name="Kaminoan" /> A unique crest topped the prime minister's head, and his nostrils were connected to his upper lip by a thin, "U"-shaped slit. Lama Su's hands had three fingers, and his feet were small and hoof-like.<ref name="Episode II" />
+
+He wore white [[armor]] that covered his chest and shoulders. A long collar protected his neck, as well as the back of his head. Su's arms, legs, and torso were covered in black fabric, and a purple belt with an orange buckle that appeared around his waist. White, metallic cuffs shielded Su's wrists, and long strips of black fabric with a silver lining and red interior hid his legs from view.<ref name="Episode II" />
+
+==Behind the scenes==
+Lama Su first appeared in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']].<ref name="Episode II" /> Originally intended to be a female character before being changed to a male one at the last second,<ref>''[[The Art of Star Wars Episode II: Attack of the Clones]]''</ref> he was portrayed in the film through CGI and voiced by [[Anthony Phelan]]. In ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'', he is voiced by [[Bob Bergen]] who voiced [[Luke Skywalker]] in several ''Star Wars'' video games.
+
+==Appearances==
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*''[[Attack of the Clones Read-Along Storybook and CD]]''
+*{{TCW|Clone Cadets}}
+*{{TCW|ARC Troopers}}
+*{{TCW|Conspiracy}}
+*{{TCW|Fugitive}} {{Mo}}
+
+==Sources==
+*{{SWE|characters|taunwe|Taun We}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|kaminoan|Kaminoan}}
+*{{Databank|lama-su|Lama Su}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Su, Lama}}
+{{Interlang
+|ko=라마 수
+|ru=Лама Су/Канон
+|es=Lama Su
+}}
+
+[[Category:Galactic Republic]]
+[[Category:Kaminoans]]
+[[Category:Males]]

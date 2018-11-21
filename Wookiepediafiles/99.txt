@@ -1,0 +1,47 @@
+{{Eras}}
+{{Character
+|type=Galactic Republic
+|image=[[File:99-ARCT.png]]
+|name=99
+|homeworld=[[Kamino]]<ref name="Databank">{{Databank|clone-99|Clone 99|archiveurl=https://web.archive.org/web/20170816141048/http://www.starwars.com/databank/clone-99}}</ref>
+|birth=
+|death=[[21 BBY]], Kamino<ref name="ARC Troopers">{{TCW|ARC Troopers}}</ref>
+|species=[[Human]] {{C|[[Cloning|clone]]}}<ref name="Databank" />
+|gender=[[Sexes|Male]]<ref name="Databank" />
+|height=1.68 [[meter]]s<ref name="Databank" />
+|mass=
+|hair=
+|eyes=[[Color|Brown]]<ref name="Clone Cadets">{{TCW|Clone Cadets}}</ref>
+|skin=Light<ref name="Clone Cadets" />
+|cyber=
+|era=
+|affiliation=[[Galactic Republic]]<ref name="Clone Cadets" />
+|masters=
+|apprentices=}}
+{{Quote|I'm a soldier, like you. This is what I was bred for.|99|ARC Troopers}}
+'''99''' was a [[human]] [[Sexes|male]] [[Cloning|clone]] of [[Jango Fett]] bred to be a [[clone trooper]] for the [[Grand Army of the Republic]]. He was malformed in the cloning process, however, and suffered numerous genetic and physical defects. As a result, he was deemed unfit for service in the Grand Army, and instead provided janitorial and maintenance work on his home [[planet]] of [[Kamino]]. During his time in Kamino, he grew attached to clone trooper cadets as they trained to become troopers, viewing them all as brothers and individuals, rather than clone numbers. He soon befriended the [[Domino Squad]] and he helped them and the Republic fight against the [[Confederacy of Independent Systems|Separatist]] [[Battle of Kamino|invasion]] of Kamino, a battle in which 99 lost his life. Shortly thereafter, he was [[Mourning|mourned]] in [[death]] by the clones he considered brothers.
+
+[[Clone Force 99]], a [[clone commando]] [[squad]] comprised of clones who also had genetic mutations (albeit ones beneficial to combat), was named in his honor.
+
+{{Char-stub}}
+
+==Appearances==
+*{{TCW|Clone Cadets}} {{1st}}
+*{{TCW|ARC Troopers}}
+*{{TCW|The Bad Batch}} {{Imo}}
+
+==Sources==
+*{{SWE|characters|clone99|clone 99|archiveurl=https://web.archive.org/web/20140322064823/http://starwars.com:80/explore/encyclopedia/characters/clone99}}
+*{{SWE|groups|clonetroopers|clone troopers|archivedate=20121227180834}}
+*''[[Star Wars: Galactic Atlas]]''
+*{{Databank|clone-99|Clone 99|archiveurl=https://web.archive.org/web/20170816141048/http://www.starwars.com/databank/clone-99}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ru=99/Канон
+|ja=99
+}}
+
+[[Category:Clone troopers]]

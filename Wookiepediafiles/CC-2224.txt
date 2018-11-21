@@ -1,0 +1,225 @@
+{{Eras}}
+{{Expand}}
+{{Cleanup}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Cody brief.png]]
+|name=CC-2224<br />"Cody"
+|homeworld=[[Kamino]]<ref name="Databank">{{Databank|clone-commander-cody|Clone Commander Cody|archivedate=20170607175032}}</ref>
+|birth=
+|death=
+|species=[[Human]] {{C|[[Cloning|clone]]}}<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|gender=[[Sexes|Male]]<ref name="Episode III" />
+|height=1.83 [[meter]]s<ref name="Databank" />
+|mass=80 [[kilogram]]s<ref name="SWJB">''[[Star Wars Journeys: Beginnings]]''</ref>
+|hair=[[Color|Black]]<ref name="Episode III" />
+|eyes=Brown<ref name="Episode III" />
+|skin=Tan<ref name="Episode III" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Databank" />
+**[[7th Sky Corps]]<ref name="Episode III" />
+|masters=
+|apprentices=}}
+{{Quote|Come on, when have I ever let you down?''"<br />"''Very well. The burden is on me not to destroy ''all'' the droids until you arrive.|CC-2224 and Obi-Wan Kenobi|Star Wars: Episode III Revenge of the Sith}}
+'''CC-2224''', nicknamed "'''Cody'''," was a [[Cloning|Clone]] [[Clone marshal commander|Marshal Commander]] in the [[Grand Army of the Republic]] during the [[Clone Wars]]. He served as [[Commander]] of the [[7th Sky Corps]], as well as the [[212th Attack Battalion]], a sub-unit of the 7th. Like all [[clone trooper]]s, he was a clone of [[Jango Fett]]&mdash;a [[human]] [[bounty hunter]] and the [[Clone template|genetic template]] of the clone [[army]]. As such, Cody was trained to be a loyal [[soldier]] of the [[Galactic Republic]]. He served at the side of his [[Jedi]] superior [[officer]], [[Jedi General]] [[Obi-Wan Kenobi]] throughout the [[Galaxy|galactic]] conflict with the [[Confederacy of Independent Systems]]. In that [[time]], Cody and Kenobi formed a friendship based on mutual respect. They participated in many campaigns across [[the galaxy]], often leading the 212th [[Battalion]] alongside Jedi [[General]] [[Anakin Skywalker]] and [[Clone Captain]] [[Rex|CT-7567]] of the [[501st Legion]].
+
+In [[19 BBY]], approximately three [[Standard year|years]] after the [[Battle of Geonosis]], the [[Jedi High Council]] assigned Kenobi's battalion the task of ending the war by [[Death|destroying]] General [[Grievous]]. Having tracked the [[Supreme Commander of the Droid Army|Supreme Commander]] of the [[Separatist Droid Army]] to the [[planet]] [[Utapau]] with the help of [[Clone Intelligence]], Cody and his [[troop]]s engaged the [[battle droid]]s while Kenobi [[Lightsaber duel|confronted]] Grievous in person. In the midst of the [[Battle of Utapau]], which continued to rage after Grievous' demise, [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] instructed Cody to execute [[Order 66]]&mdash;a secret protocol labeling all members of the [[Jedi Order]] [[Treason|enemies of the state]]. As a result of the commander's [[Control chip|programming]], Cody obeyed the chancellor without hesitation and attempted to kill his former friend. Whereas most of his brethren succeeded in [[Jedi Purge|eliminating]] their unsuspecting Jedi leaders, Cody was one of the few clones who failed as Kenobi survived and ultimately escaped into [[Exile (punishment)|exile]] following the [[Proclamation of the New Order|rise]] of the [[Galactic Empire]].
+
+==Biography==
+===Early life===
+Like every other [[clone trooper]], Cody was born and trained on the [[planet]] [[Kamino]] to serve as a [[soldier]] of the [[Galactic Republic|Republic]].<ref name="Clone troopers">{{Databank|clone-troopers|Clone Troopers|archivedate=20170602182649}}</ref> Due to his strategic and tactical mindset, Cody was picked to be trained by [[Advanced Recon Commando|ARC troopers]] in their program. He later graduated and become one of the first hundred to do so.
+
+===Clone Wars===
+At the beginning of the war, Commander Cody was under the command of [[Jedi General]] [[Obi-Wan Kenobi]] and frequently fought alongside him, developing mutual trust and camaraderie as they fought alongside each other. He was also given command of the 212th Attack Battalion. Although Cody was not involved in the [[Battle of Geonosis|first battle of Geonosis]],<ref name="Point Rain">{{TCW|Landing at Point Rain}}</ref> he took part in many other battles during the [[Clone Wars]].<ref name="Episode III" />
+
+====Battle of Christophsis====
+{{Quote|Skywalker should've attacked by now!''"<br />"''Don't worry! He knows the plan.|Cody to General Kenobi|Star_Wars: The Clone_Wars (film)}}
+[[File:Cody Christophsis.png|thumb|left|300px|Cody and the 212th fighting on Christophsis.]]
+Cody was involved in the [[Battle of Christophsis|battle]] against a massive [[Confederacy of Independent Systems|separatist]] invasion of Christophsis and fought alongside Generals [[Anakin Skywalker]] and Obi-Wan Kenobi.<ref name="C&M">{{TCW|Cat and Mouse}}</ref> During the campaign, they were able to root out a traitor amongst themselves; a [[Clone Sergeant|sergeant]] by the name of [[Slick]], who had divulged intelligence to Count Dooku's apprentice [[Asajj Ventress]] for credits. While Anakin and Obi-Wan were fighting Ventress, Cody and [[Captain]] [[Rex]] successfully apprehended Slick after a short chase, but not before he managed to sabotage numerous [[All Terrain Tactical Enforcer|walkers]], [[Low Altitude Assault Transport/Legends|gunships]] and other materiel in the Republic weapons depot.<ref name="THE">{{TCW|The Hidden Enemy}}</ref>
+
+Some time after this, Cody was joined on the front lines by Skywalker to defeat the first wave of droids commanded by General [[Whorm Loathsom]] but eventually was forced to retreat when the Separatist tanks overwhelmed the [[AV-7 Anti-vehicle Artillery Cannon|republic artillery]]. Whorm was able to set up a [[deflector shield]] that protected the advancement of his forces from the Republic's heavy cannon fire. Skywalker and his newly arrived [[Padawan]] [[Ahsoka Tano]] were tasked to take down the shield while Cody, Rex, Kenobi and the clones were to hold off the enemy as long as they could. Kenobi allowed himself to be captured and stalled the Separatist general by discussing the surrender in a civilized manner. Right before Whorm had enough of the playing and ordered Kenobi to surrender, Skywalker and Tano took down the shield, allowing the Republic's cannons to tear Whorm's tanks apart. Whorm being distracted by this, was taken hostage by General Kenobi, ending the battle as a Republic victory.<ref name="TCW film">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]</ref>
+
+====Battle of Teth====
+After the Battle of Christophsis, Cody and the 212th Battalion accompanied General Kenobi during his meeting with [[Jabba Desilijic Tiure|Jabba]] the Hutt on [[Tatooine]]. He and his men were tasked to assist the [[501st Legion]], General Skywalker and his apprentice Ahsoka Tano during their mission to rescue Jabba's son [[Rotta]], who had been kidnapped and brought to a Separatist controlled prison on [[Teth]].<ref name="TCW film" />
+
+====Skirmish on Rishi moon====
+{{Quote|Whoa! Rex! What the heck are you doing?"<br>"Relax. Just as I thought. Looks like one of those new commando droids.|Cody being shocked by thinking Rex shot one of their fellow soldiers|Rookies}}
+[[File:Watching Rishi Station die.png|thumb|right|300px|Commander Cody, with Captain Rex, Echo, and Fives watching the destruction of Rishi Station]]
+When Cody and Rex were dispatched to inspect the [[Rishi]] [[Rishi moon|moon]] [[Rishi Station|station]], they were welcomed by what appeared to be a clone trooper, but in fact was a [[BX-series droid commando|commando droid]] appropriating his [[Phase I clone trooper armor|armor]]. It tried to get rid of the two by sending them away with their ship, but Rex concluded it was a droid because the droid answered a command with 'roger, roger' and a droid attack flare was fired by surviving base guard clones [[CT-782|Hevy]], [[CT-1409|Echo]] and [[CT-5555|Fives]]. Rex realized the reason for the odd behavior and he shot the droid, shocking Cody. They were caught in an ambush set up by the droids in case the disguised droid failed to send the clones away, and the droids proceeded to throw [[thermal detonator]]s towards the clones. The explosion destroyed their [[Obex|shuttle]], but the clones were able to survive by hanging from cables and landing safely on the ground. Later they met the survivors and encountered a [[Rishi eel]] that earlier ate [[CT-4040|Cutup]], one of the survivors, which Rex shot and used its blue blood to place his hand print onto Echo's "shiny" armor. The group managed to take back the station and discovered the droids had hard wired an "all-clear" signal to the unsuspecting [[Republic Navy]] that would allow General [[Grievous]] to attack Kamino and stop the clones' production once and for all. As the clones attempted to disable the all clear signal, droid reinforcements arrived and discovered the clones had survived and retaken the station. The outnumbered clones tried to deactivate the all-clear signal by destroying the station with [[tibanna]] liquid and explosives set off by remote detonation, but the detonator jammed; in which Hevy chose to remain and activate it manually. Hevy continued to hold off incoming droids for as long as he could, eventually getting shot in the back. Following his manual detonation, the all-clear signal ceased to broadcast, thereby alerting the Republic fleet of Grievous' presence near Kamino. For this act, Rex accepted the last two survivors into the 501st Legion.<ref name="Rookies">{{TCW|Rookies}}</ref>
+
+====Battle of Ryloth====
+{{Quote|It's not going to be easy getting to those guns, sir.''"<br />"''There is ''always'' a way, Wooley.|Wooley and Commander Cody|audio=AlwaysAWay-IoR.ogg|Innocents of Ryloth}}
+[[File:Cody and Wooley.png|thumb|left|250px|Cody and Wooley]]
+Later in the war, Cody and [[Ghost Company]] was sent to Ryloth to free the [[Twi'lek]]s from the [[Techno Union]] leader and [[Separatist Council]] member [[Wat Tambor]]'s oppression. When General Skywalker and his apprentice Commander Tano were able to destroy the blockade surrounding the planet, Cody along with Generals Kenobi and Windu were able to make an almost safe landing onto the planet. However, they then were attacked by [[J-1 proton cannon|anti air guns]] which Windu tasked General Kenobi and Ghost Company with destroying. Kenobi also reminded the clones that they had come to aid the Twi'leks, not to destroy their homes.<ref name="Innocents of Ryloth">{{TCW|Innocents of Ryloth}}</ref>
+
+After landing outside of Nabat, Cody and their troopers then took the droids' defense turrets. Cody then took, [[Wooley]], [[Waxer]], and [[Boil]] to scout ahead. While Waxer and Boil went off on their own, Cody and Wooley found the cannons and saw that the droids were using the Nabat's survivors as a living shield. After Kenobi spoke with Windu, Cody then signaled Waxer and Boil to return. Cody, Kenobi, and the rest of Ghost Company
+
+====First Battle of Felucia====
+Cody [[First battle of Felucia|fought]] at [[Felucia]] alongside Rex, Kenobi, Skywalker, Tano and their units. However, they were forced to retreat when the Confederate forces began to surround and overwhelm them. They were able to leave Felucia using General Koon's gunships.<ref name="HH">{{TCW|Holocron Heist}}</ref> Cody accompanied Generals Windu and Kenobi with bounty hunter Cad Bane in custody to his [[Black Stall Station|station]] to retrieve the [[Holocron]] and the [[Kyber memory crystal]]. Unfortunately, Bane escaped, but Cody was able to get their ship away from the station before it blew up.<ref name="CotF">{{TCW|Children of the Force}}</ref>
+
+====Second Battle of Geonosis====
+Cody participated in [[Second Battle of Geonosis|retaking]] [[Geonosis]]. He and his battalion landed at [[Point Rain]] to set up the rendezvous point for Generals Skywalker's and Mundi's forces. When Kenobi's gunship was shot down, Cody sent [[Waxer]] and [[Boil]] to rescue Kenobi and [[Trapper]] from the wreckage. Cody and his men held out against the [[Geonosian]]s and their [[Armored Assault Tank|AATs]] until Skywalker called in an airstrike. Cody, the Jedi and their clone commanders then planned the attack on the [[Ray Shield Fortress|ray shield fortress]]. Cody and Kenobi brought up the AT-TEs and destroyed the generator after Skywalker and Tano disabled the [[J-1 proton cannon|proton cannons]].<ref name="L@PR">{{TCW|Landing at Point Rain}}</ref> Cody and one his squads accompanied Kenobi and Skywalker as they investigated the disappearance of General [[Luminara Unduli]] and [[Buzz]] at the [[Progate Temple]].<ref name="LoT">{{TCW|Legacy of Terror}}</ref>
+
+====Battle of Saleucami====
+When Jedi General [[Eeth Koth]] was [[Capture of Eeth Koth|captured]] by General Grievous, Cody accompanied Kenobi aboard his [[Arquitens-class light cruiser|Jedi light cruiser]] after learning that Grievous was in the [[Saleucami]] [[Saleucami system|system]]. There, they [[Battle of Saleucami|attacked]] Grievous's fleet. Once there, their ship was seized by [[Grievous's Recusant-class warship|Grievous's destroyer's]] [[tractor beam]]. Cody and his men then stood their ground when Grievous, his [[IG-100 MagnaGuard|magnaGuards]], and [[BX-series droid commando|commando droids]] boarded the ship. Cody and his men then tried to keep Grievous from leaving the ship. Cody and Kenobi then following Grievous into docking tube as their ship was being destroyed. Cody and Kenobi then met up with General [[Adi Gallia]]. However, they could not continue their attempt and were forced to leave the destroyer.<ref name="GI">{{TCW|Grievous Intrigue}}</ref>
+
+Cody then accompanied Kenobi, Rex and their units to the surface of Saleucami. There, Cody, Kenobi, and [[Crys]] then searched the flatland for Grievous.<ref name="TD">{{TCW|The Deserter}}</ref>
+
+====Skirmish aboard the ''Coronet''====
+Cody along with Skywalker, Rex, and their troops then accompanied General Kenobi as he continued to protect [[Mandalore]]'s [[Duke|Duchess]] [[Satine Kryze]] and her entourage during their trip to Coruscant from [[Death Watch]] aboard the ''[[Coronet]]''.<ref name="TMP">{{TCW|The Mandalore Plot}}</ref> Cody, Rex, and their men checked the cargo hold for anything dangerous. They then found R2 spooked by something and contacted Skywalker. Cody, Rex, and Skywalker then a open container. Cody, Rex, and their men then went to Skywalker's aid when he was attacked by a [[SD-K4 assassin droid|Assassin probe]].<ref name="VoT">{{TCW|Voyage of Temptation}}</ref>
+
+They were able to stop, but one got past them and went into the lift. Cody and the others then came under attack by smaller [[probe killer]]s, which they were able to destroy. They then questioned the [[protocol droid]] in charge of the cargo, who confirmed that one of the [[Tal Merrik|senators]] was a traitor. They then continued their search for more of the probes. When Cody and Rex were under attack by one of the droids, it was dispatched by [[R2-D2]]. Cody and Rex then assisted Skywalker in destroying the last of the probe droids. Later, Cody, Rex, Skywalker and the rest of the clones assisted the [[Journeyman Protector|royal guards]] in repelling the [[B2 super battle droid|super battle droids]] boarding the ''Coronet''. During the skirmish, Skywalker managed to kill the traitor, now revealed to be Tal Merrik, before he destroyed the ship. Cody, Rex, and the royal guards were able to destroy the droids, and Rex subsequently reported their success to Skywalker.<ref name="VoT" />
+
+====Battle of Tipoca City====
+{{Quote|With all due respect, General, if someone comes to our home, they'd ''better'' be carrying a big blaster.''"<br />"''I concur with Captain Rex, sir. This is personal for us clones.|[[Captain]] [[Rex]] and [[Commander]] Cody, to [[Obi-Wan Kenobi]]|ARC Troopers}}
+Later in the war the Republic intercepted a coded hologram of Ventress and General Grievous planning an attack on [[Tipoca City]]. Cody and Rex along with Generals Kenobi, Skywalker and the 501st Legion were sent to reinforce General [[Shaak Ti]]'s forces on Kamino. When General Grievous' [[Separatist navy|droid fleet]] arrived, Cody was overseeing the battle along with Masters Ti and Kenobi, [[Prime Minister]] [[Lama Su]] and other clone officers, but later joined Rex, Echo, Fives and [[99|clone 99]] when Ventress' [[aqua droid]]s carried by Tridents had attacked Tipoca City from underwater. Cody later helped the other clones along with [[Clone cadet|cadets]] to set up an ambush for Grievous and his droids that were clearing out the [[barracks]], while Kenobi engaged Grievous in a short duel. While the clones were battling the incoming droids, 99 tried to run back to the armory to resupply the clones whom Cody ordered him to stop, but due to his slowness was ultimately shot in the back. Following the separatist defeat, in addition to Grievous and Ventress fleeing the system, the loss of 99 was [[Mourning|mourned]] and he was acknowledged by his comrades as a true soldier. Later, Fives and Echo were promoted to [[Advanced Recon Commando|ARC troopers]].<ref name="ARC T">{{TCW|ARC Troopers}}</ref>
+
+====Battle of Lola Sayu====
+Cody was then part Skywalker's and Kenobi's assault team assigned to infiltrate the [[Citadel]] on [[Lola Sayu]] to rescue Master [[Even Piell]] before the Confederacy got information about the [[Nexus Route]]. Thus, he and the others were put [[Carbon-freezing|into carbonite]] to avoid the sensors.<ref name="TC">{{TCW|The Citadel}}</ref>
+
+====Battles of Umbara and Kiros====
+Cody, Kenobi, and their battalion were then sent to [[Battle of Umbara|retake]] [[Umbara]]<ref name="DoU">{{TCW|Darkness on Umbara}}</ref>. There they were able to take the [[Umbaran capital|capital]], despite Krell secretly sabotaging their efforts.<ref>{{TCW|Carnage of Krell}}</ref>
+
+Cody then went with Kenobi to Kiros. There he received a message from Confederate commander, [[Darts D'Nar]] to discuss terms of surrender. Cody, Skywalker, and Tano then listened in on Kenobi's negotiations with D'Nar, claiming he planted bombs all over the city. After D'Nar detonated one of the bombs, Cody and R2 guided Skywalker and Tano to the bombs locations. They were successful in disarming the bombs.<ref name="kidnapped">{{TCW|Kidnapped}}</ref>
+
+====Rescue on Florrum====
+When Tano was [[Raid on the Crucible|kidnapped]] from her group of Jedi younglings aboard the ''[[Crucible]]''<ref name="AToS">{{TCW|A Test of Strength}}</ref>, Cody went with Kenobi to pick up the younglings and rescue Tano from Captain [[Hondo Ohnaka|Ohnaka's]] [[Ohnaka Gang|gang]] of pirates. However, they then came under [[Attack on Obi-Wan Kenobi's fleet|attack]] by a Confederate fleet under General Grievous. When Grievous's forces took control of the ''[[Negotiator]]'', Cody and Kenobi activated the self-destruct and fled with what remained of their forces to the escape pods.<ref name="BfR">{{TCW|Bound for Rescue}}</ref>
+
+Cody, Kenobi, and their men then met up Tano and the younglings after they escaped with Ohnaka from Grievous.<ref name="ANB">{{TCW|A Necessary Bond}}</ref> Cody then attended the [[Republic strategy conference]] at the [[Valor (space station)|''Valor'']] space station in the [[Carida system]].<ref name="PoNR">{{TCW|Point of No Return}}</ref>
+
+====Battle for Anaxes====
+[[File:Codyrexbadbatch.png|thumb|right|250px|Cody and Rex during the Anaxes campaign]]
+Cody then fought alongside, Skywalker, Rex, Kenobi and Windu during Admiral Trench's [[Battle for Anaxes|campaign]] to take [[Anaxes]]'s [[Anaxes shipyards|shipyards]]. During the battle, Cody and Rex deduced that Trench had somehow gotten a hold of [[Rex's strategy algorithm]] and Jedi General [[Mace Windu]] ordered them to take a small squad of [[Clone trooper]]s behind enemy lines to infiltrate the Separatists [[Cyber center]]. Cody then recommended a [[Clone commando|Clone Commando]] team known as [[Clone Force 99]] to accompany him and Rex to investigate the Confederate's cyber center. However, Cody was injured in their gunship's crash and was left behind with [[CT-6116|Kix]].<ref name="TBB">{{TCW|The Bad Batch}}</ref> Following the Republic's victory on [[Anaxes]] thanks to [[Clone Force 99]], [[Rex]] and [[CT-1409|Echo]], Cody was present at the Anaxes celebration ceremony beside [[Astromech droid]]s. <ref name="Unfinished Business">{{TCW|Unfinished Business}}</ref>
+
+====Working with the Dark Disciple====
+{{Dialogue|Kenobi|Can you give chase?|Cody|Sorry, sir, that's a negative, my leg's been snapped like a twig.|Anakin|We'll get you patched up, Cody, don't you worry. Those slippery, slimy&hellip;|attr=Commander Cody was the sole survivor of Vos and Dooku's escape from the ''Vigilance''|src=Dark Disciple}}
+Towards the end of the Clone Wars, Commander Cody took part in a [[Destruction of the Separatist supply storage base|mission]] to raid a [[Separatist supply storage base]] that contained medications, arms, ship repair parts, and [[foodstuff]]s. For this mission, Commander Cody worked with the Jedi Kenobi, Anakin, [[Akar-Deshu|Desh]], and [[Quinlan Vos]]. Unknown to Cody and his colleagues, Vos had turned to the [[Dark side of the Force|dark side]] and was secretly working with [[Count]] [[Dooku]] to sabotage the Republic's war effort. Upon arriving, Vos quickly "discovered" that the retreating Separatist forces had planted bombs throughout the entire asteroid. Cody and his colleagues managed to evacuate the asteroid but were unable to extract the supplies, which were destroyed with the asteroid.<ref name="Dark Disciple">''[[Dark Disciple]]''</ref>
+
+Later, Commander Cody took part in another joint Jedi-Republic operation to [[Destruction of the Vanqor listening post|destroy]] a [[Vanqor listening post|Separatist]] [[listening post]] on [[Vanqor]]. Under General Kenobi's orders, Cody divided his squadron into teams and sent them to scout the facility. Upon arriving there, Cody and his Clone and Jedi comrades discovered that the listening post had already been abandoned. As a result of this incident, the [[Jedi High Council]] came to suspect that Master Vos was a [[Treason|traitor]]. To test his loyalty to the Jedi and the Republic, they sent Vos on a mission to kill Count Dooku.<ref name="Dark Disciple" />
+
+Vos managed to infiltrate Dooku's [[Providence-class dreadnought|dreadnought]] in space but failed to kill the Count. He wanted Dooku to lead him to his mysterious [[Sith Master|master]] [[Darth Sidious]] and then kill the two [[Sith Lord]]s. However, Master Kenobi and the Jedi Knight Anakin had tailed him there and arrested both Vos and Dooku. Master Kenobi then contacted Cody and Desh, who were aboard the [[Venator-class Star Destroyer|''Venator''-class Star Destroyer]] ''[[Vigilance]]'' and informed them that they were bringing back Vos and Dooku as prisoners. When Desh asked the Clone Commander how many troops they should bring to the [[hangar]], Cody joked about sending two hundred men.<ref name="Dark Disciple" />
+
+Instead, Cody handpicked two dozen of his best Clone troopers to meet the prisoners once they had landed on the brig. As a precaution, Cody also stationed clones every couple of meters between the hangar bay and the brig. Cody was also accompanied by Desh and another [[Jedi Knight]] named [[Kav Bayons]]. Despite being outnumbered, Quinlan managed to turn the table on his captors by tricking Desh into approaching him and then stealing his [[lightsaber]]. Vos then used the lightsaber to free Dooku's bonds. After seizing Bayon's lightsaber, Dooku cut down one Clone escort and then "Force-threw" Cody down the corridor. After killing both Desh, Bayons, and all the other Clone troopers, Vos and Dooku escaped the ''Vigilance'' on [[Asajj Ventress]]' ship ''[[Banshee (starship)|Banshee]]''. Cody survived the fight but sustained a broken leg. While Anakin and Obi-Wan [[Second battle of Christophsis|pursued]] the fugitives on [[Christophsis]], Cody stayed behind to recover aboard the ''Vigilance''.<ref name="Dark Disciple" />
+
+====End of the war====
+{{Quote|Commander Cody, the time has come. Execute Order 66."<br>"Yes, my lord.|Supreme Chancellor Palpatine to Cody|Star Wars: Episode III Revenge of the Sith}}
+Following the [[Battle of Coruscant]], General Grievous's position was discovered to have fled to be on the planet [[Utapau]]. Kenobi spoke with Cody before the encounter, and went to the planet before the 212th fully arrived. On the planet Kenobi dueled Grievous as the battalion [[Battle of Utapau|arrived and attacked]] Grievous's droid forces. Kenobi dropped his lightsaber, which was found by Cody, but this didn't stop Kenobi from finally killing the dreaded cyborg general. After the death of Grievous Cody returned Obi-Wan's lightsaber to him, and the two prepared to finish the battle.<ref name="Episode III" />
+[[File:212th Battalion.png|thumb|left|250px|Cody leads the 212th Attack Battalion to victory]]
+
+After this however, Cody received [[Order 66]] from [[Darth Sidious]], publicly known as [[Supreme Chancellor]] Palpatine.<ref name="Episode III" /> Regardless of having served under Kenobi, Cody's allegiance was abolished by his [[Control chip|bio-chip]].<ref name="Databank" /> The order triggered the clone protocol within his genetically implanted bio-chip,<ref name="Orders">{{TCW|Orders}}</ref> and Cody immediately turned against Kenobi, ordering his forces to fire on the [[Jedi Master]], blasting him with a shot from an [[All Terrain Tactical Enforcer]]. Kenobi survived, however, becoming one of the few [[Jedi]] to escape the destruction of the [[Jedi Order]].<ref name="Episode III" /> Fifteen years after the [[Proclamation of the New Order|rise]] of the [[Galactic Empire]], many of the codes and emergency protocols that Cody and Rex had come up with during the Clone Wars were still used by the Empire.<ref name="Stealth Strike">{{rebels|Stealth Strike}}</ref>
+
+==Equipment==
+[[File:Cody's helmet.jpg|thumb|141x141px|Cody's phase one helmet]]
+During the first year of the Clone Wars, Cody used a set of [[Phase I clone trooper armor]], which featured a visor, an antenna on his helmet an antenna on his shoulder, a small flood light, and [[color|orange]] stripes, which was a color used by many of the other members of the 212th. He had lamps on helmet at Geonosis.<ref name="LoT" /> Later, when [[Phase II clone trooper armor]] was created Cody wore a similar set, but had a few changes. The changes were; two gray stripes coming down the sides of the top of his helmet, a small tool attached to the upper arm piece, one antenna on the shoulder pads with one on the back of his helmet, and a smaller, oval shaped jetpack. This also featured a visor and orange markings.<ref name="Episode III" /> 
+
+==Personality and Traits==
+Commander Cody was a no-nonsense commander who always took the mission seriously. His personality was very much like Obi-Wan Kenobi and was thus able to become close friends with him. Cody was calm, conservative, and resourceful. He was an ideal soldier and loyal to the Republic. However, Cody's friend Rex was more unorthodox and creative. Like Anakin and Obi-Wan, this allowed them to balance each other out and become a formidable duo. Cody was also very by-the-books, as he never disobeyed an order from his superiors. The Commander was a great leader, as he was able to lead one of the best clone forces in the Grand Army. His battlefield exploits were also admirable, as he was able to earn respect from clone troopers and Jedi alike.{{fact}}
+
+==Skills and Abilities==
+Commander Cody was a competent and adept field commander.<ref name="L@PR" /> His knowledge and skill on the battlefield even earned him the rank of Marshal Commander.<ref name="Dark Disciple" /> Cody displayed impressive close combat and hand-to-hand combat skills as well, as shown when he was able to get the upper hand against Sergeant Slick,<ref name="THE" /> and against the droid forces on Christophsis.<ref name="TCW film" /> The Commander was was also proficient with blasters. He was able to accurately hit a fuel tank that was launched from Obi-Wan, and was able destroy many battle droids throughout the Clone Wars.<ref name="BfR" />
+
+As Commander Cody was also an experienced commander, as he was able to formulate plans and execute them effectively. Before the Second Battle of Geonosis, he informed the Jedi Generals of the plan that would eventually lead to victory.<ref name="L@PR" /> During the time of the Empire, Cody and Rex's emergency protocols were still being used by the Galactic Empire.<ref name="Stealth Strike" />
+
+==Behind the scenes==
+[[File:Cody-CWMag08.jpg|thumb|189x189px|Cody in his Phase II armor|left]]
+Commander Cody made his first [[canon]]ical appearance in ''[[Star Wars: Episode III Revenge of the Sith]]'' film and was played by [[Temuera Morrison]] who played all of the other [[clone trooper]]s in the movie.<ref name="Episode III" /> He later appeared in the ''[[Star Wars: The Clone Wars (film)|Star Wars: The Clone Wars]]'' featured film along with its subsequent television series ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' in the [[The Clone Wars: Season One|first]], [[The Clone Wars: Season Two|second]], [[The Clone Wars: Season Three|third]], [[The Clone Wars: Season Four|fourth]] and [[The Clone Wars: Season Five|fifth]] seasons voiced by [[Dee Bradley Baker]]. He later appeared in the [[Darth Maul—Son of Dathomir, Part Three|third issue]] of the ''[[Star Wars: Darth Maul—Son of Dathomir]]'' comic series which adapted an unproduced arc from the [[The Clone Wars: The Lost Missions|sixth season]] of ''The Clone Wars''. He also appeared in "[[The Bad Batch]]"<ref name="TBB" /> and "[[Unfinished Business]]", which were unproduced episodes for season seven which were adapted into story reel and screened at ''Star Wars Celebration''. Cody also appeared in the novel ''[[Dark Disciple]]'' which adapted eight part arc that was originally to appear in season seven.<ref name="Dark Disciple" />
+
+==Appearances==
+{{Scroll_box|content=
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars: Force Arena]]''
+*{{TCW|Cat and Mouse}}
+*{{TCW|The Hidden Enemy}}
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]
+*{{TCW|Ambush}} {{Flash}}
+*{{TCW|Rising Malevolence|Rising ''Malevolence''}} {{C|[[Star Wars: The Clone Wars The Complete Season One|DVD]] extended version}}
+*{{TCW|Rookies}}
+*{{TCW|Innocents of Ryloth}}
+*{{TCW|Liberty on Ryloth}} {{Flash}}
+*{{TCW|Holocron Heist}}
+*{{TCW|Children of the Force}}
+*{{TCW|Landing at Point Rain}}
+*{{TCW|Legacy of Terror}}
+*{{TCW|Brain Invaders}} {{Flash}}
+*{{TCW|Grievous Intrigue}}
+*{{TCW|The Deserter}}
+*{{TCW|The Mandalore Plot}}
+*{{TCW|Voyage of Temptation}}
+*{{TCW|ARC Troopers}}
+*{{TCW|Hunt for Ziro}}
+*{{TCW|Senate Murders}} {{Flash}}
+*{{TCW|The Citadel}}
+*{{TCW|Counterattack}}
+*{{TCW|Citadel Rescue}}
+*{{TCW|Darkness on Umbara}}
+*{{TCW|Kidnapped}}
+*{{TCW|Bound for Rescue}}
+*{{TCW|A Necessary Bond}}
+*{{TCW|Secret Weapons}} {{Flash}}
+*{{TCW|Point of No Return}}
+*''[[Tales from Vader's Castle 2: Count Dooku: Prince of Darkness!]]''
+*{{TCW|The Bad Batch}}
+*{{TCW|A Distant Echo}} {{Flash}}
+*{{TCW|Unfinished Business}}
+*''[[Darth Maul—Son of Dathomir, Part Three]]''
+*''[[Dark Disciple]]''
+*''[[Dark Disciple (audiobook)]]''
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}}
+*''[[Ahsoka (novel)|Ahsoka]]'' {{Mo}}
+*''[[Lords of the Sith]]'' {{Mo}}
+*{{Rebels|Stealth Strike}} {{Mo}}
+*{{Rebels|The Last Battle}} {{Mo}}}}
+
+===Non-canon appearances===
+*{{Droid Tales|Crisis on Coruscant (episode)|Crisis on Coruscant}} {{Flash}}
+*''[[LEGO Star Wars: The Force Awakens]]'' {{C|DLC}}
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+*{{SWArchive|url=theclonewars/guide/episode205.html|text=''The Clone Wars'' Episode Guide: Landing at Point Rain}}
+*{{SWE|characters|boga|Boga|archivedate=20110912224644}}
+*{{SWE|characters|clonecommandercody|Clone Commander Cody|archivedate=20110912224644}}
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*{{SW|url=news/kaminos-finest-captains-and-commanders-of-the-clone-army|text=Kamino's Finest: Captains and Commanders of the Clone Army}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]'' {{Po}}
+*{{Databank|aayla-secura|Aayla Secura|archivedate=20170707040717}} {{Po}} {{Hologram}}
+*{{Databank|anaxes|Anaxes|archivedate=20170706054458}}
+*{{Databank|clone-commander-cody|Clone Commander Cody|archivedate=20170607175032}}
+*{{Databank|waxer|Clone Trooper Waxer|archivedate=20160309123130}}
+
+==Notes and references==
+{{Scroll_box|content=
+{{Reflist}}
+}}
+
+{{Interlang
+|da=CC-2224
+|de=CC-2224#kanon
+|el=CC-2224
+|es=CC-2224
+|fr=Cody
+|hu=CC-2224 "Cody"
+|it=CC-2224
+|ja=CC-2224
+|ko=CC-2224
+|nl=CC-2224
+|no=CC-2224
+|pl=CC-2224
+|pt=CC-2224
+|ru=КК-2224/Канон
+|sv=CC-2224
+|uk=CC-2224
+}}
+
+[[Category:Clone trooper commanders]]
+[[Category:Clones]]
+[[Category:Humans]]
+[[Category:Males]]

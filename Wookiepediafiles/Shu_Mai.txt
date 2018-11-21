@@ -1,0 +1,59 @@
+{{Eras}}
+{{Character
+|type=CIS
+|image=[[File:Shu Mai.png]]
+|name=Shu Mai
+|homeworld=[[Castell]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=[[19 BBY]], [[Mustafar]]<ref name="Revenge of the Sith">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|species=[[Gossam]]<ref name="Ultimate Star Wars" />
+|gender=[[Sexes|Female]]<ref name="Ultimate Star Wars" />
+|height=1.65 [[meter]]s<ref name="Shu Mai">{{Databank|shu-mai|Shu Mai}}</ref>
+|mass=
+|hair=
+|eyes=[[Color|Blue]]<ref name="Attack of the Clones">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|skin=Blue<ref name="Attack of the Clones" />
+|cyber=
+|era=
+|affiliation=*[[Commerce Guild]]<ref name="Ultimate Star Wars" />
+*[[Confederacy of Independent Systems]]<ref name="Attack of the Clones" />
+**[[Separatist Council]]<ref name="Ultimate Star Wars" />
+|masters=
+|apprentices=}}
+{{Quotetrans|What you are proposing could be construed as [[treason]].|Shu Mai to [[Dooku]]|Star Wars: Episode II Attack of the Clones}}
+'''Shu Mai''' was a [[Sexes|female]] [[Gossam]] who served as [[Presidente]] of the [[Commerce Guild]] during the final years of the [[Galactic Republic]].<ref name="Ultimate Star Wars" /> During the [[Separatist Crisis]], she attended a meeting with Count Dooku and the heads of other noted corporate holdings on Geonosis to discuss joining the [[Confederacy of Independent Systems]].<ref name="Attack of the Clones" /> Though Mai showed misgivings about the situation, stating that the proposal could be viewed as treasonous, she was the only one to do so and ultimately pledged the forces of the Commerce Guild to the Separatist cause and gained a seat on the [[Separatist Council]] as a result.<ref name="Ultimate Star Wars" /> She and the entire Council were [[Death|killed]] by [[Anakin Skywalker|Darth Vader]] on [[Mustafar]] following the end of the [[Clone Wars]].<ref name="Revenge of the Sith" />
+
+{{Char-stub}}
+
+==Behind the scenes==
+Shu Mai first appeared in ''[[Star Wars]]'' [[canon]] in the [[2002]] film [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']].<ref name="Attack of the Clones" /> Before that, Mai appeared in the [[Star Wars Legends|''Star Wars'' Legends]] [[2002]] novel ''[[The Approaching Storm]]'', primarily by [[Alan Dean Foster]].<ref name="Approaching Storm">''[[The Approaching Storm]]''</ref> She was realized as a [[Wikipedia:Computer-generated imagery|computer generated]] character for ''Attack of the Clones'' and [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode I ''Revenge of the Sith'']].
+
+In a deleted scene of ''Attack of the Clones'', Mai is present when [[Poggle the Lesser]] sentences Anakin Skywalker and [[Padmé Amidala]] to their deaths.
+
+Shu Mai is also the name of a popular [[Wikipedia:China|Chinese]] dumpling.<ref name="Separatists at Birth">{{InsiderCite|69|Separatists at Birth}}</ref>
+
+==Appearances==
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+
+==Sources==
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]'' {{Po}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*{{Databank|poggle-the-lesser|Poggle the Lesser}} {{Po}}
+*{{Databank|shu-mai|Shu Mai}}
+*{{Databank|wat-tambor|Wat Tambor|archivedate=20170603221250}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Mai, Shu}}
+
+{{Interlang
+|es=Shu Mai
+}}
+
+[[Category:Females]]
+[[Category:Gossam]]
+[[Category:Separatist leadership]]

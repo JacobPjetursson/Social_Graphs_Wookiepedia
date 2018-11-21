@@ -1,0 +1,81 @@
+{{Eras}}
+{{Droid
+|image=[[File:GA-97.png]]
+|name=GA-97
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=
+|line=
+|model=[[GA servant droid]]<ref name="TFA Junior Novel">''[[Star Wars: The Force Awakens: A Junior Novel]]''</ref>
+|class=[[Service droid|Servant droid]]<ref name="TFAVD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+|degree=
+|cost=
+|length=
+|width=
+|height=
+|mass=
+|gender=
+|sensor=[[Color|Black]]<ref name="TFAVD" />
+|plating=Red, green and yellow<ref name="TFAVD" />
+|armament=
+|equipment=
+|era=
+|affiliation=*[[Resistance]]<ref name="TFAVD" />
+**[[Resistance spy droid network]]<ref name="TFAVD" />}}
+{{Quotetrans|Alert the Resistance&hellip; their missing droid is here!|GA-97 reports sighting BB-8|Star Wars: Episode VII The Force Awakens}}
+'''GA-97''' was an unassuming [[Service droid|servant droid]] who served at the [[Maz Kanata's castle|castle]] of the [[pirate]] [[Maz Kanata]] on the [[planet]] [[Takodana]], but was secretly aligned with the [[Resistance]]. In the [[Standard year|year]] [[34 ABY]], it was present when the [[smuggler]] [[Han Solo]] entered with the [[scavenger]] [[Rey]], the former [[Stormtrooper (First Order)|stormtrooper]] [[Finn]] and the [[astromech droid]] [[BB-8]]. Recognizing BB-8 as a missing Resistance [[droid]], GA-97 contacted them via their [[Resistance spy droid network|intelligence network]] to inform them of the astromech's location. Based on the droid's report, Resistance forces were mobilized to travel to Takodana. Before they arrived the castle was [[Battle of Takodana|destroyed]] in an attack by the [[First Order]].
+
+==Biography==
+{{Quote|Your droid is on Takodana.''"<br />"''Isn't that&hellip;Maz Kanata's place?''"<br />"''Yup. Two people just walked right in with him. We got a call from one of Threepio's operatives stationed there&mdash;GA-97.|Leia Organa and [[Poe Dameron]] speaking of BB-8|Poe Dameron 26: The Awakening, Part I}}
+[[File:GA-97 reports.png|thumb|left|200px|GA-97 reported BB-8's presence on Takodana to the Resistance.]]
+GA-97<ref name="TFAVD" /> was a [[GA servant droid|GA]]<ref name="TFA Junior Novel" /> [[Service droid|servant droid]] that was aligned with the [[Resistance]] during their [[Cold war|conflict]] with the [[First Order]] and plugged into [[Resistance spy droid network|their intelligence network]].<ref name="TFAVD" /> The [[droid]] was spending time in the [[Maz Kanata's castle|castle]] of the [[pirate]] [[Maz Kanata]] on the [[planet]] [[Takodana]], when the [[smuggler]] [[Han Solo]] led a group of three fugitives from the First Order into the structure. Kanata, an old friend of Solo's, recognized the smuggler shortly after he entered and cried out to him, causing everyone in the castle to turn their attention to the new-comers including GA-97<ref name="TFAn">[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]</ref> and those seated at the [[fighting droid]] table he was sat against.<ref name="TFA">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref> After the crowd lost interest, GA-97 turned his attention to the [[Dengue sisters]], a group of three [[Culisetto]]s [[gambling]] on a table nearby.<ref name="TFAn" />
+
+The sisters' game was interrupted when the dismembered [[limb|arm]] of the [[junk dealer]] [[Unkar Plutt]] landed on their table, having been tossed by the [[Wookiee]] [[Chewbacca]] after he tore it off defending the [[scavenger]] [[Rey]], one of Solo's companions. The sisters tossed the arm away absently and continued with the gambling, but GA-97's attention was drawn to Rey and then her companion, the [[astromech droid]] [[BB-8]]. Recognizing the astromech as a missing Resistance droid, an internal sequence was activated inside GA-97 which triggered him to send out a compressed signal that was bounced around, coded, decoded, encrypted, and then sent into deep space. The signal was then picked up by the [[protocol droid]] [[C-3PO]] in the [[Resistance base]] on the [[planet]] [[D'Qar]]. Overjoyed, C-3PO relayed the message that BB-8 was on Takodana to [[General]] [[Leia Organa]], who then left for Takodana to collect the droid.<ref name="TFAn" />
+
+Before the Resistance could arrive, the occupants of Kanata's castle were drawn outside by the sound of the First Order's [[Starkiller Base]] firing at the [[Hosnian system]]. In the castle's courtyard they stood and watched as it [[Hosnian Cataclysm|destroyed]] the whole [[star system]], and the [[Galactic Senate (New Republic)|Galactic Senate]] of the [[New Republic]] with it. Almost immediately after the horrific spectacle was over, the First Order [[Battle of Takodana|attacked]] the castle and quickly destroyed it. Those that survived the destruction were then spared, when the Resistance arrived and fought off the First Order's troops, driving them offworld.<ref name="TFAn" />
+
+==Characteristics==
+GA-97 was an unassuming droid with masculine programming. He had a bipedal body, with a power plant in its chest and collapsible [[Limb|legs]] to allow for compact storage. It had [[Color|black]] [[sensor]]s and red, yellow and green plating.<ref name="TFAVD" /> When reporting to the Resistance, GA-97 spoke in an [[alien]] [[language|dialect]].<ref name="TFA" />
+
+==Behind the scenes==
+[[File:GA-97 puppet.png|thumb|right|200px|GA-97 was a puppet controlled by three puppeteers.]]
+GA-97<ref name="TFAVD" /> first appeared in [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], which was released in [[2015]].<ref name="TFA" /> Its lines were provided by voice actor [[David Acord]], who also provided the voices of several other minor characters in the film including [[Sidon Ithano]], [[Teedo (Niima Outpost)|Teedo]] and [[FN-2199]].<ref name="VA">{{SW|url=news/from-blast-that-x-wing-to-traitor-the-voices-of-star-wars-the-force-awakens|text=From "Blast that X-Wing!" to "Traitor!": The voices of ''Star Wars: The Force Awakens''}}</ref> The droid was not identified in the film, but received a name in ''[[Star Wars: The Force Awakens: The Visual Dictionary]]'', a reference book written by [[Pablo Hidalgo]] and released the same day as the film.<ref name="TFAVD" /> The GA-97 model was a puppet capable of walking around when controlled by a team of three puppeteers with a fourth controlling electronic functions.<ref name="Bonus">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] &mdash; BluRay bonus featurette "Secrets of the Force Awakens: A Cinematic Journey"</ref> GA-97's [[vocabulator]] is made from a [[Wikipedia:Shure|Shure]] 55SH microphone, with the Shure branding removed.{{fact}}
+
+==Appearances==
+*''[[Poe Dameron 9: The Gathering Storm, Part II]]'' {{Co}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens: A Junior Novel]]'' {{Imo}}
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part III]]''
+*''[[Poe Dameron 26: The Awakening, Part I]]'' {{Mo}}
+
+===Non-canon appearances===
+*''[[Disney Infinity 3.0]]''
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]'' {{1stID}}
+*{{Topps|set=Star Wars: The Force Awakens Series 1|cardname=GA-97}}
+*{{SW|url=news/from-blast-that-x-wing-to-traitor-the-voices-of-star-wars-the-force-awakens|text=From "Blast that X-Wing!" to "Traitor!": The voices of ''Star Wars: The Force Awakens''}} {{C|as Resistance Loyal Droid}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|ga-97|GA-97|archivedate=20170902030547}}
+
+==Notes and references==
+{{Imagecat|Images of GA-97}}
+{{Reflist}}
+
+{{Interlang
+|de=GA-97#kanon
+|fr=GA-97
+|ru=GA-97
+|pl=GA-97
+}}
+
+[[Category:Individual droids]]
+[[Category:Resistance members]]
+[[Category:Servants]]
+[[Category:Service droids]]

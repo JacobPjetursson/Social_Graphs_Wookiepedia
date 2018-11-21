@@ -1,0 +1,51 @@
+{{Eras}}
+{{Update|[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]}}
+{{Character
+|type=Criminal
+|image=[[File:Ree-Yees-SWCT.png]]
+|name=Ree-Yees
+|homeworld=
+|birth=
+|death=[[4 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> on [[Tatooine]], during the [[Rescue of Han Solo|rescue]] of [[Han Solo]]<ref name="AEYNTK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref>
+|species=[[Gran]]<ref name="AEYNTK" />
+|gender=
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="ROTJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|skin=Pink<ref name="ROTJ" />
+|cyber=
+|era=
+|affiliation=[[Jabba Desilijic Tiure's criminal empire]]<ref name="AEYNTK" />
+|masters=
+|apprentices=}}
+'''Ree-Yees'''<ref name="AEYNTK" /> was a [[Gran]] who worked for the [[Hutt]] [[crime lord]] [[Jabba Desilijic Tiure]]. The Gran's role in [[Jabba's Palace]] on the [[planet]] [[Tatooine]] was to care for the Hutt's pet [[Frog-dog]] [[Buboicullaar]]. Ree-Yees despised the Hutt employer, but not as much as Buboicullaar&mdash;who was in fact [[Sentience|sentient]]&mdash;hated Ree-Yees.<ref name="AEYNTK" /> When the [[Jedi Knight]] [[Luke Skywalker]] was dropped into Jabba's [[rancor]]<ref name="ROTJ" /> [[Pateesa]]'s,<ref name="LD">''[[Aftermath: Life Debt]]''</ref> pit to be eaten, Ree-Yees was amongst those who crowded round to watch the battle and cheer on the rancor. The Gran later rode on board Jabba's [[sail barge]] ''[[Khetanna]]'' to the [[Great Pit of Carkoon]], where Skywalker was to be fed to a [[sarlacc]] alongside the [[smuggler]]s [[Han Solo]] and [[Chewbacca]]. Skywalker and his companions managed to break free during the execution attempt, [[Death|killing]] Jabba and destroying the barge and Ree-Yees along with it.<ref name="ROTJ" />
+
+==Behind the scenes==
+Ree-Yees was originally set to be the character of [[Gial Ackbar]] in the [[1983]] film [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']], however after reviewing sculpts the filmmakers decided to go with the familiar fishy-looking Ackbar instead.<ref name="Much to Learn">{{SW|url=news/much-to-learn-you-still-have-10-things-you-might-not-know-about-mon-calamari|text=Much to Learn You Still Have: 10 Things You Might Not Know about the Mon Calamari}}</ref>
+
+==Appearances==
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+
+==Sources==
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]'' {{Po}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]'' {{Po}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|gran|Gran|archivedate=20170820060053}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SW|url=news/much-to-learn-you-still-have-10-things-you-might-not-know-about-mon-calamari|text=Much to Learn You Still Have: 10 Things You Might Not Know about the Mon Calamari}}
+
+{{Interlang
+|ja=リー＝イーズ
+|ru=Ри-Йис/Канон
+}}
+
+[[Category:Desilijic servants]]
+[[Category:Gran]]
+[[Category:Individuals of unspecified gender]]

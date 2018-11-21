@@ -1,0 +1,44 @@
+{{Eras}}
+{{Character
+|type=
+|image=
+|name=Jova Tarkin
+|homeworld=[[Eriadu]]<ref name="Tarkin">[[Tarkin (novel)|''Tarkin'']]</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="Tarkin" />
+|gender=[[Sexes|Male]]<ref name="Tarkin" />
+|height=
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=
+|era=
+|affiliation=[[Tarkin family]]<ref name="Tarkin" />
+|masters=
+|apprentices=}}
+{{Quote|Never try to live decently, boy&mdash;not unless you're willing to open your life to tragedy and sadness. Live like a beast, and no event, no matter how harrowing, will ever be able to move you.|Jova to young Wilhuff Tarkin|Tarkin (novel)}}
+'''Jova Tarkin''' was a [[human]] [[Sexes|male]] native to the [[planet]] [[Eriadu]]. A member of the [[Tarkin family]], he was the paternal great-uncle of [[Wilhuff Tarkin]].
+==Biography==
+During [[Sexes|his]] youth, Jova Tarkin was taken to endure his [[Tarkin family|family's]] test in the [[Carrion Plateau]] on his [[homeworld]] of [[Eriadu]]. The lesson was meant to teach select Tarkin males the importance of what their family had built and the necessity to force others to abide by the imposed law, by force if need be. The Carrion was maintained as a way to show the Tarkins what Eriadu had been like before their ancestors had arrived from the [[Core Worlds|Core]] to colonize their [[Planet|world]], and to show them that 'life remained a constant battle for survival'.<ref name="Tarkin" />
+
+Once his initiation was done, Jova took the unexpected decision to remain in the Carrion to make it his home and become a permanent guide and mentor for future Tarkin initiates. This decision made him the first of the long line of Tarkins to choose to remain in the Carrion. In this capacity, Jova came to train his own [[Wilhuff Tarkin's father|nephew]] and his great-nephew, [[Wilhuff Tarkin|Wilhuff]], when the [[time]] for their initiations came.<ref name="Tarkin" />
+
+==Appearances==
+*''[[Tarkin (novel)|Tarkin]]'' {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Jova Tarkin
+|pt=Jova Tarkin
+|ru=Джова Таркин
+|ja=ジョヴァ・ターキン
+}}
+
+[[Category:Eriaduans]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Tarkin family]]

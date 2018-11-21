@@ -1,0 +1,79 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=Resistance
+|image=[[File:ThrenalliTopps.png]]
+|name=C'ai Threnalli
+|homeworld=
+|birth=
+|death=
+|species=[[Abednedo (species)|Abednedo]]<ref name="TFAVD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+|gender=[[Sexes|Male]]<ref name="Lego">''[[LEGO Star Wars: The Force Awakens]]''</ref>
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="TFA">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+|eyes=Black<ref name="TFA" />
+|skin=Bluish-brown<ref name="TLJVD">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref>
+|cyber=
+|era=
+|affiliation=*[[Resistance]]<ref name="TFA" />
+**[[Red Squadron (Resistance)|Red Squadron]]<ref name="TLJ Junior Novel">''[[Star Wars: The Last Jedi: A Junior Novel]]''</ref>
+**[["Reb" Squadron]]<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+|masters=
+|apprentices=}}
+'''C'ai Threnalli'''<ref name="Lego" /> was an [[Abednedo (species)|Abednedo]]<ref name="TFAVD" /> [[Sexes|male]]<ref name="Lego" /> who flew in the [[Resistance Starfighter Corps]] of the [[Resistance]]'s [[Resistance military|military]] during their [[Cold war|conflict]] with the [[First Order]].<ref name="TFA" /> Following the [[Battle of Starkiller Base]] in the [[Standard year|year]] [[34 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> Threnalli was amongst the personnel in the [[Resistance base]] on the [[planet]] [[D'Qar]] who waved off the [[YT-1300 light freighter]] known as the ''[[Millennium Falcon]]'', piloted by [[Rey]] and [[Chewbacca|her passenger]][[R2-D2|s]], as it set off to find the missing [[Jedi Master]] [[Luke Skywalker]] on the planet [[Ahch-To]].<ref name="TFA" />
+
+Shortly after the Resistance [[Evacuation of D'Qar|evacuated]] the base on D'Qar, Threnalli flew as [[Commander]] [[Poe Dameron]]'s wingman.<ref name="TLJ SDCC">{{SW|url=news/star-wars-the-last-jedi-props-and-costumes-on-display-at-sdcc|text=''Star Wars: The Last Jedi'' Props and Costumes on Display at SDCC|archivedate=20170721053540}}</ref> He remained loyal to Poe, joining the mutiny against [[Vice Admiral]] [[Amilyn Holdo]] along with at least [[Nodin Chavdri|two]] [[Kaydel Ko Connix|others]]. However, he was stunned, along with Poe's other allies, by Holdo after she caused a distraction.<ref name="Episode VIII" />
+
+Threnalli was aboard the Resistance [[U-55 orbital loadlifter|transports]] that escaped the last Resistance cruiser and he later participated in [[Battle of Crait|the Battle]] of [[Crait]], managing to survive with only a small number of other pilots. He escaped aboard the ''Millennium Falcon'' along with the few Resistance survivors, and hugged his old friend, Poe Dameron.<ref name="Episode VIII" />
+
+Threnalli had brown skin,<ref name="TLJVD" /> brown [[hair]], black [[eye]]s, and wore an orange [[flight suit]].<ref name="TFA" />
+
+==Behind the scenes==
+C'ai Threnalli first appeared in [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']],<ref name="TFA" /> where actor [[Paul Kasey]] came into sight wearing the costume of [[Ello Asty]] in one of the final scenes of the movie.<ref name="Creatures">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] &mdash; "Crafting Creatures" BluRay featurette</ref> As Asty's death had been shown earlier in the film,<ref name="TFA" /> [[Lucasfilm Story Group]] member [[Pablo Hidalgo]] stated that the Abednedo seen waving off the ''Falcon'' in that scene must be a separate pilot.<ref name="Fellow pilot">{{Twitter|pablohidalgo|status/703118364462284801|[[Pablo Hidalgo]]|quote=That's another Abednedo (well, it's the same costume, but we did see Ello die, so therefore, it's another one).|image=File:Other costume tweet.png|noimage=}}</ref> The design for Threnalli was created by creature concept designer [[Jake Lunt Davies]], while his costume was made by costume designner [[Michael Kaplan]].<ref name="TLJ SDCC" />
+Alongside Paul Kasey performing C’ai Threnalli was ‘Animatronic Facial Performer’ Phill Woodfine.
+
+This character went unnamed until appearing in the "Escape from Starkiller Base" DLC expansion for the [[video game]] ''[[LEGO Star Wars: The Force Awakens]]'', which starred Threnalli, voiced by [[Christian Simpson]], crashing in a [[T-70 X-wing starfighter]] during the Assault on Starkiller and then fighting through [[First Order]] forces and escaping the planet's surface alongside fellow Resistance members [[Lieutenant]] [[Wright]] and [[R3-X3]].<ref name="Lego" /> Story Group member [[Leland Chee]] confirmed on Twitter that the idea was for Threnalli to be the unnamed pilot from the film.<ref name="C'ai Threnalli Twitter">{{Twitter|holocronkeeper|status/856883334948847616|[[Leland Chee]]|quote=That's the idea, yes. Could have been Ello Asty but then Ello died.|image=File:Cai Threnalli tweet.png}}</ref>
+
+==Appearances==
+[[File:CaiThrenalliInTheForceAwakens.jpg|thumb|right|256x256px|C'ai Threnalli as seen in ''The Force Awakens''.]]
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*''[[Poe Dameron: Flight Log]]'' {{Po}}
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[Star Wars: The Last Jedi: A Junior Novel]]''
+*''[[The Last Jedi Adaptation 1]]''
+*''[[The Last Jedi Adaptation 2]]''
+*''[[The Last Jedi Adaptation 4]]''
+*''[[Poe Dameron 31: The Awakening, Part VI]]''
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]'' {{C|DLC}} {{1stID}}
+
+==Sources==
+*''[[Star Wars: The Last Jedi: Incredible Cross-Sections]]'' {{Po}}
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*''[[Star Wars: The Last Jedi: Ultimate Sticker Collection]]''
+*''[[Star Wars: The Last Jedi: Heroes of the Galaxy]]''
+*{{Databank|amilyn-holdo-biography-gallery|Amilyn Holdo Biography Gallery|archiveurl=https://archive.fo/DJ2Jb}}; image #2 {{C|of 3}} {{Po}}
+*{{Databank|c-ai-threnalli|C'ai Threnalli|archiveurl=https://archive.fo/toKa6}}
+*{{Databank|resistance-pilots-biography-gallery|Resistance Pilots Biography Gallery|archiveurl=http://www.webcitation.org/6yQuNKtib}}; image #5 {{C|of 6}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SW|url=news/star-wars-the-last-jedi-props-and-costumes-on-display-at-sdcc|text=''Star Wars: The Last Jedi'' Props and Costumes on Display at SDCC|archivedate=20170721053540}}
+
+{{Interlang
+|de=C’ai Threnalli#kanon
+|es=C'ai Threnalli
+|fr=C'ai Threnalli
+|ja=カイ・スレナリ
+|ru=К'аи Треналли
+}}
+
+{{DEFAULTSORT:Threnalli, C'ai}}
+[[Category:Abednedo]]
+[[Category:Males]]
+[[Category:Red Squadron (Resistance) personnel]]

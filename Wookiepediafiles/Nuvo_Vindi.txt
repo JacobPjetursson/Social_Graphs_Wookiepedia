@@ -1,0 +1,70 @@
+{{Eras}}
+{{Character_infobox
+|type=CIS
+|image=[[File:NuvoVindiHS-SWE.jpg]]
+|name=Nuvo Vindi
+|homeworld=[[Adana]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Faust]]<ref name="Ultimate Star Wars" />
+|gender=[[Sexes|Male]]<ref name="Blue Shadow Virus">{{TCW|Blue Shadow Virus (episode)|Blue Shadow Virus}}</ref>
+|height=2.07 [[meter]]s<ref name="Databank">{{Databank|doctor-nuvo-vindi|Doctor Nuvo Vindi|archivedate=20160513101010}}</ref>
+|mass=
+|hair=
+|eyes=[[Color|Gray]]<ref name="Blue Shadow Virus" />
+|skin=Pale blue<ref name="Blue Shadow Virus" />
+|cyber=
+|era=
+|affiliation=*[[Perma families]]<ref name="Blue Shadow Virus" />
+*[[Confederacy of Independent Systems]]<ref name="Blue Shadow Virus" />
+|masters=
+|apprentices=}}
+{{Quote|I suppose one can never have too many lab rats.|Dr. Vindi|audio=NuvoVindi1.ogg|Blue Shadow Virus (episode)}}
+'''Nuvo Vindi''' was an insane [[Faust]] [[scientist]] in the employ of the [[Confederacy of Independent Systems]] during the [[Clone Wars]]. At the behest of the Separatists, Vindi re-engineered the [[Blue Shadow Virus]], an extinct virus capable of inflicting mass casualties across [[the galaxy]]. He worked out of a [[Trade Federation laboratory|secret laboratory]] on the [[planet]] [[Naboo]], where he attempted to spread the virus before being stopped and arrested by the [[Galactic Republic]] and the [[Jedi Order]].<ref name="Blue Shadow Virus" /> [[Jedi Master]] [[Obi-Wan Kenobi]] and [[Jedi Knight]] [[Anakin Skywalker]] were further able to find a cure on [[Iego]] in order to save those who had been infected in Vindi's laboratory.<ref name="Mystery Moons">{{TCW|Mystery of a Thousand Moons}}</ref> While in Republic [[Prison|custody]], Vindi, along with [[Lok Durd]], were part of [[Lieutenant Commander]] [[Orson Callan Krennic|Orson Krennic's]] original plans for a [[prisoner]] exchange with the Separatists to secure the [[Rescue of Galen Erso|release]] of [[Galen Walton Erso|Galen Erso]], [[Lyra Erso]], and the baby [[Jyn Erso]] from imprisonment on [[Vallt]].<ref name="Catalyst">''[[Catalyst: A Rogue One Novel]]''</ref>
+
+==Biography==
+{{Quote|Doctor Nuvo Vindi, the senior medic for the Perma families. He disappeared ten years ago.|[[Gregar Typho]]|audio=DrNuvoVindiSeniorMedic-BSV.ogg|Blue Shadow Virus (episode)}}
+Nuvo Vindi was a male Faust from the planet [[Adana]]<ref name="Ultimate Star Wars" /> who lived during the [[Fall of the Republic]]. He eventually became the senior medic for the [[Perma families]]. He then disappeared in [[31 BBY]].<ref name="Blue Shadow Virus" />
+===Clone Wars===
+Vindi then resurfaced ten years later in [[21 BBY]]. He was then recruited by his friends in the [[Confederacy of Independent Systems|Separatist Alliance]] to re-create the [[Blue Shadow Virus]]. Vindi was then given a [[Trade Federation laboratory|laboratory]] hidden on Naboo in its [[Eastern swamps]]. There, he was able to re-create the Virus. Vindi was then able to make the Virus airborne and his battle-droids then started to fill the bombs. However, a small amount of the virus had leaked out of the lab and Vindi's tactical droid was then captured by the [[Royal Naboo Security Forces]] under Captain [[Gregar Typho]].<ref name="Blue Shadow Virus" />
+
+Vindi then detected Naboo's senator, [[Padmé Amidala]] and representative, [[Jar Jar Binks]] approaching his lab. Vindi then sent his battle droids to capture them. Vindi then showed them his plans for the Virus as loaded the last bomb and gave it to [[LEP-86C8|his servant droid]].<ref name="Blue Shadow Virus" />
+
+{{Char-stub}}
+
+==Appearances==
+*{{TCW|Blue Shadow Virus (episode)|Blue Shadow Virus}} {{1st}}
+*{{TCW|Mystery of a Thousand Moons}}
+*''[[Catalyst: A Rogue One Novel]]'' {{Mo}}
+
+==Sources==
+*{{SW|text = "Blue Shadow Virus" - ''The Clone Wars'' Episode Guide|url = explore/the-clone-wars/ep117/#!/about}}
+
+*{{SW|text = "Mystery of a Thousand Moons" - ''The Clone Wars'' Episode Guide|url = explore/the-clone-wars/ep118/#!/about}}
+*{{SWE|characters|padmeamidala|Padmé Amidala}}
+*{{SWE|characters|jarjarbinks|Jar Jar Binks}}
+*{{SWE|technology|neimodiansshuttle|Neimoidian escort shuttle}}
+*{{SWE|characters|rex|Clone Captain Rex}}
+*{{SWE|characters|ahsokatano|Ahsoka Tano}}
+
+*{{SWE|characters|nuvovindi|Doctor Nuvo Vindi}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}}
+*{{Databank|blue-shadow-virus|Blue Shadow Virus|archivedate=20160702142454}}
+*{{Databank|doctor-nuvo-vindi|Doctor Nuvo Vindi|archivedate=20160513101010}}
+*{{Databank|jar-jar-binks-biography-gallery|Jar Jar Binks biography gallery}}; image #14 {{C|of 29}}
+*{{Databank|padm-amidala-biography-gallery|Padmé Amidala biography gallery}}; image #19 {{C|of 29}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ru=Нуво Винди/Канон
+|ja=ヌーヴォ・ヴィンディ
+}}
+{{DEFAULTSORT:Vindi, Nuvo}}
+[[Category:Confederacy science and engineering personnel]]
+[[Category:Fausts]]
+[[Category:Males]]

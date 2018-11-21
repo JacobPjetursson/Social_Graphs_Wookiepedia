@@ -1,0 +1,185 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=Dark Jedi
+|image=[[File:Barrisprofile2.jpg]]
+|name=Barriss Offee
+|homeworld=[[Mirial]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Mirialan]]<ref name="databank">{{Databank|barriss-offee|Barriss Offee|archivedate=20170809140158}}</ref>
+|gender=[[Sexes|Female]]<ref name="databank" />
+|height=1.66 [[meter]]s<ref name="databank" />
+|mass=
+|hair=[[Color|Black]]<ref name="databank" />
+|eyes=Blue<ref name="databank" />
+|skin=Light green/yellow {{C|with black tattoos}}<ref name="databank" />
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="databank" />
+**[[Jedi assault team]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+*[[Galactic Republic]]<ref name="databank" />
+**[[Grand Army of the Republic]]<ref name="Weapons Factory">{{TCW|Weapons Factory}}</ref>
+|masters=[[Luminara Unduli]]<ref name="databank" />
+|apprentices=}}
+{{Quote|I've learned that 'trust' is overrated. The only thing the Jedi Council believes in is violence!|Barriss Offee, expressing her views|The Wrong Jedi}}
+'''Barriss Offee''' was a [[Sexes|female]] [[Mirialan]] who trained as a [[Jedi]] [[Padawan]] during the [[Clone Wars]]. She carried a [[Color|blue]] [[lightsaber]] and trained under [[Jedi Master]] [[Luminara Unduli]].
+
+Offee was a survivor of the [[Battle of Geonosis]] and was extremely loyal to her Jedi Master. Offee preferred studying ancient Jedi texts to fighting and was a bit older than most Jedi Padawans.
+
+During her time as a Jedi Padawan, Offee struck up a friendship with [[Ahsoka Tano]], the Padawan learner of [[Anakin Skywalker]]. Though rather different in personality, the two bonded through shared experience in combat.
+
+As the Clone Wars continued, Offee grew disillusioned with the Jedi's role in the wars, believing they had lost their way from the ideals that the [[Jedi Order]] was supposed to represent, and wary of the [[Jedi High Council|Jedi Council]] in particular. Deciding to act on her concerns, she orchestrated the [[Bombing of the Jedi Temple hangar|bombing]] of the [[Imperial Palace|Jedi Temple]] as a means to foment further distrust of the Jedi, as [[clone trooper]]s were [[Death|killed]] during the attack. Despite their previous friendship, she allowed Tano to be framed for orchestrating the bombing, but ultimately confessed after being confronted by Anakin Skywalker, just before Tano was about to be convicted of the crime, and shared her views of the Jedi being corrupted by the [[Dark side of the Force|dark side]] before being taken away.
+
+==Biography==
+===Early life===
+Some time prior to the [[Border dispute on Ansion|border dispute on]] [[Ansion]],<ref name="Episode II" /> Barriss Offee, a [[Sexes|female]] [[Mirialan]], was born on Mirial. She was found to be Force-sensitive and was brought into the Jedi Temple to train as a Jedi. She became [[Padawan]] to [[Jedi Master]] [[Luminara Unduli]].<ref name="databank" />
+
+At some point, she studied [[lightsaber]] techniques with [[Tutso Mara]], and the two grew to become close.<ref name="The Jedi Who Knew Too Much">{{TCW|The Jedi Who Knew Too Much}}</ref>
+
+===The Secessionist Movement===
+[[File:FiveFamousJediContinueToFailToDetectTheSith-AotC.jpg|left|thumb|220px|Barriss sits in on meeting between the Jedi Council and Supreme Chancellor Sheev Palpatine]] Offee, along with Unduli, sat in on a meeting between the [[Jedi High Council|Jedi Council]] and [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]], who discussed the growing influence of the [[Separatist Crisis|Secessionist Movement]], and the threat of an imminent war between them and the [[Galactic Republic]].
+
+Later, Offee, along with her master, were part of the [[Jedi assault team]] sent to [[Battle of Geonosis|rescue]] [[Senator]] [[Padmé Amidala]], [[Jedi Knight]] [[Obi-Wan Kenobi]], and his Padawan [[Anakin Skywalker]] from the [[Petranaki arena|execution arena]] on [[Geonosis]]. The Mirialan survived the battle, as did her master, though the [[Clone Wars]] had only just begun.<ref name="Episode II" />
+
+===The Clone Wars===
+[[File:Epguide206.jpg|right|thumb|220px|Barriss and Ahsoka infiltrate the Geonosian Catacombs]]
+====Second Battle of Geonosis====
+Early on during the Clone Wars, Offee accompanied her master back to Geonosis in order to assist the forces of Anakin Skywalker, alongside his Padawan learner [[Ahsoka Tano]] to infiltrate a large [[Geonosian]] droid and weapons factory. Offee and her master found Tano and Skywalker arguing over their tactical strategy upon arrival, and Offee unintentionally annoyed Tano with her authoritative personality. Leaving their masters to launch a frontal attack, both Padawans sneaked through the [[Geonosian catacombs]] below in order to plant explosive grenades from within. They were, however, discovered by [[Poggle the Lesser]] and his [[Super tank]]. After Tano was rendered unconscious, Barriss was left with a choice: the bombs, or Tano's life. Ultimately, Offee and Tano decided to use the tank to destroy the reactor, knowing the explosion would kill them in the process. However, due to the tough exterior armor of the tank, both Padawans survived, much to the relief of their respective masters. Following their ordeal, Offee and Tano, having strengthened their bond, temporarily retired from the battlefield in order to recuperate.<ref name="Weapons Factory" />
+
+====Skirmish on board the TB-73====
+{{Quote|Kill me... please.|Offee briefly regains control of herself and pleads Tano to kill her|Brain Invaders}}
+[[File:Barriss infected.jpg|left|thumb|200px|An infected Barriss attacks Ahsoka on board the TB-73]]
+Shortly after Offee and Tano recovered from their wounds, they were tasked with making a supply run to [[Mace Windu]] on [[Dantooine]] from a station near Ord Cestus on board the [[Pelta-class frigate|medical frigate]] [[TB-73]]. Unknown to either Padawan, a swarm of Geonosian [[brain worm]]s had been brought on board by infected clone trooper [[Scythe]]. Offee was infected herself after she and Tano were separated, and proceeded to stalk her friend across the ship, attacking and nearly killing her with her lightsaber. Eventually, Offee was freed from the parasite's brain control after Tano ruptured the coolant system, though she begged for Tano to kill her instead. Both Tano and Offee were taken to the medical wing of the station by [[Kit Fisto]], once again to recover.<ref name="Brain Invaders">{{TCW|Brain Invaders}}</ref>
+
+====Capture of Eeth Koth====
+Offee was present in the [[Imperial Palace|Jedi Temple]] on [[Coruscant]] when [[General]] [[Grievous]] sent a message to the Order, informing them of the capture of fellow Jedi [[Eeth Koth]]. Offee witnessed his brutal torture and left the room along with the [[Jedi youngling|younglings]] after they were dismissed by Master [[Yoda]].<ref name="Grievous Intrigue">{{TCW|Grievous Intrigue}}</ref>
+
+====Battle over Umbara====
+[[File:BarrisOffee'sDelta7B -DOU.jpg|right|thumb|180px|Barriss pilots her [[Delta-7B Aethersprite-class light interceptor|Jedi starfighter]] during the Battle of Umbara]]
+During the [[Battle of Umbara]], Offee and Tano led Republic forces against the Separatist blockade over the planet of [[Umbara]], allowing infiltration from both Jedi and clone forces.<ref name="Darkness on Umbara">{{TCW|Darkness on Umbara}}</ref>
+
+====Bombing of the Jedi Temple====
+{{Quote|I did it. Because I've come to realize what many people in the Republic have come to realize, that the Jedi are the ones responsible for this War. That we've so lost our way that we have become villains in this conflict, that we are the ones that should be put on trial, all of us! And my attack on the Temple was an attack on what the Jedi have become: an army fighting for the dark side, fallen from the Light that we once held so dear. This Republic is failing! It's only a matter of time.|Barriss Offee admitting to, and explaining, her actions to the court|The Wrong Jedi}}
+[[File:BarrissInCourt-TWJ.png|left|thumb|200px|Offee testifies during Tano's trial]]
+During the later years of the Clone Wars, Offee's views on the Jedi and their role in the galaxy became distorted, and she eventually came to believe that both the Jedi and the Republic had lost their way. Offee came into contact with [[Letta Turmond]], a Coruscanti who opposed the Jedi's involvement in the Clone Wars. Offee shared Turmond's beliefs and decided that it was time to make a statement against the Order. Showing Turmond how to use [[nano-droid]]s as a bomb, Offee had Turmond feed the droids to her husband, [[Jackar Bowmani]], a munitions expert at the Jedi Temple. The nano-droids [[Bombing of the Jedi Temple hangar|exploded]] when Bowmani went into the Temple hangar, killing several Jedi, clones, civilians, and Republic military personnel.<ref name="The Jedi Who Knew Too Much" />
+
+Offee attended the [[Funeral of the Jedi Temple bombing victims|funeral]] for the fallen Jedi, which included her old friend Mara. Afterward, she [[Force choke]]d Turmond in her prison cell before she could reveal Offee's involvement, allowing Tano to be accused of killing Turmond.<ref name="The Jedi Who Knew Too Much" /> She then pretended to help Tano investigate the murder via comlink, providing her false intel and leading her to an abandoned explosive warehouse containing crates of nano-droids, the same droids found at the scene of the crime. Offee then attacked Tano herself, disguised as former [[Sith]] apprentice [[Asajj Ventress]].<ref name="To Catch a Jedi">{{TCW|To Catch a Jedi}}</ref>
+
+[[File:BarrissDisguised-TCWs5BR2.png|thumb|right|200px|Offee disguised as Ventress]]
+After Tano was discovered by Republic clones, she was blamed for the bombing and put back under containment. After a short Council meeting, Offee's former friend was expelled from the Jedi Order. Anakin Skywalker, angry and suspicious of his Padawan's expulsion, interrogated Ventress, who revealed that someone had stolen her lightsabers. Visiting Offee in her Temple chambers, Skywalker spoke to her, and then attacked her with her own lightsaber. Offee, in self-defense, used the Force to grab Ventress' lightsabers, which she had hidden in a nearby vase, thereby revealing herself. Though Offee was able to defend herself for a prolonged period of time, Skywalker eventually overpowered and captured her. Skywalker burst in during Tano's trial with Offee, who was handcuffed and being led by several temple guards, one of whom would eventually become the future [[The Grand Inquisitor|Grand Inquisitor]]. Skywalker demanded that she tell the full truth; Offee admitted she did it because she had come to believe the Jedi were the ones responsible for the war, and that they were the real villains of the conflict. Offee was then taken away while Tano was cleared of all charges. Tano was offered to return to the Order, but she refused and left, feeling betrayed by both the Order and her former friend.<ref name="The Wrong Jedi">{{TCW|The Wrong Jedi}}</ref>
+
+===Legacy===
+{{Quote|Barriss Offee was wrong about a lot of things. She let her anger cloud her judgement and she tried to justify her actions without considering their wider effects. She was afraid of the war and she didn't trust people she should've listened to. But she had a point about the Republic and the Jedi. There was something wrong with them, and we were too locked into our traditions to see what it was. Barriss should've done something else. She shouldn't have killed anyone, and she definitely shouldn't have framed me for it, but if we'd listened to her&mdash;really listened&mdash;we might have been able to stop Palpatine before he took power.|Ahsoka Tano expressing her feelings over Barriss Offee's actions|Ahsoka (novel)}}
+Offee's betrayal had a deep impact on Tano and the Jedi Order itself. Months after Offee's arrest, [[Ki-Adi-Mundi]] supported the idea of executing the fallen Jedi [[Quinlan Vos]], citing Offee's treachery as a sign that the Jedi had a problem with traitors within their own ranks.<ref name="Dark Disciple">''[[Dark Disciple]]''</ref>
+
+Eventually, the Jedi Order [[Order 66|fell]] with the final stage of [[Darth Sidious]]' plans for [[the galaxy]], and the Republic was [[Proclamation of the New Order|transformed]] into the tyrannical [[Galactic Empire]]. One year into the reign of the Empire, Tano was still haunted by Offee's betrayal and later expressed her belief that while she was wrong in what she had done, she did have a point about the Jedi and the Republic, and that if they had truly listened to her, they might have been able to stop Darth Sidious before it was too late.<ref name="Ahsoka">''[[Ahsoka (novel)|Ahsoka]]''</ref>
+
+==Personality and traits==
+Barriss Offee was a [[Mirialan]] [[Sexes|female]] who had [[Color|black]] [[hair]] and [[tattoo]]s, blue [[eye]]s, light greenish-yellow skin, and a height of 1.66 [[meter]]s.<ref name="databank" /> Offee was considered a seemingly ideal example of a Jedi Padawan by some members of the Order.<ref name="Dark Disciple" /> She was a daring and studious individual, able to memorize the entire layout of the system of Geonosian catacombs when her master asked her to.<ref name="Weapons Factory" /> She was also quite selfless, as she pleaded with her friend Ahsoka Tano to kill her when she was being mind-controlled by a brain worm, though Tano refused.<ref name="Brain Invaders" />
+
+However, as the Clone War dragged on, Offee grew to believe that the Republic and Jedi Order were the ones responsible, viewing the latter's role in the war as a betrayal of the Order's ideals.<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> Her growing disillusionment eventually led her to bomb the Jedi Temple hangar, killing several civilians, clones and Jedi, including her friend Tusto Mara. She even murdered her co-conspirator Letta Turmond, to keep her act a secret, and framed Ahsoka Tano for the deed. In doing all of this, however, she fell to the influence of the dark side; during her duel with Anakin Skywalker, he chastised her for not getting rid of Ventress' red lightsabers, to which she snidely responded, "I think they suit me." When taken before the court, Offee finally confessed her crimes, thereby acquitting Tano, but nevertheless maintained her belief that the Jedi and the Republic had lost their way.<ref name="The Wrong Jedi" />
+
+==Powers and abilities==
+As with any other Jedi, Barriss Offee was Force-sensitive, and skilled in the use of [[telekinesis]]. She utilized [[Force push]] during battle. She was trained in [[Form III]].{{Fact}} She was also skilled in [[Jar'Kai]]; with Ventress' lightsabers, she was able to overwhelm Tano—who, at the time, had use of only one lightsaber—and hold her own for a time against Skywalker, a Jedi with significantly more training and experience.<ref name="To Catch a Jedi" /><ref name="The Wrong Jedi" />
+
+==Behind the scenes==
+Offee was portrayed in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] by [[Nalini Krishan]]. She was voiced by [[Meredith Salenger]] in the [[Star Wars: The Clone Wars (TV series)|2008 ''Star Wars: The Clone Wars'' TV series]].<ref>{{SWArchive|url=theclonewars/news11102009/index.html|text=In the Hands of The Padawans...}}</ref>
+
+Offee was introduced in the novel ''[[The Approaching Storm]]'', which was written by [[Alan Dean Foster]]. Offee was also featured widely in a number of other Expanded Universe products, in which she eventually advanced to the rank of [[Jedi Knight]] and was also a noted [[Jedi healer|healer]], but these have been re-branded as [[Star Wars Legends|''Star Wars'' Legends]], and details found within them cannot be considered canon. Offee was originally meant to have been depicted in [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] being killed as part of [[Order 66]], but this scene was cut along with the deaths of Luminara Unduli and [[Shaak Ti]]. An animatic was made of Offee's death showing her on Felucia fighting battle droids at the time of Order 66 when an AT-TE walks up behind her and shoots her. Interestingly, toward the end of this animatic her lightsaber was depicted as being green.<ref name="BlurayScene">''[[Star Wars: The Complete Saga]]'', Disc 7, Star Wars Archives: Episode III Deleted Scene: Kahyyyk and Order 66 Animatic</ref> Unused footage from ''Attack of the Clones'' was going to be used for this appearance.<ref>{{Cite web|publisher=C.C. Banana|title=C.C. Banana Interviews the Stars of STAR WARS!|url=http://www.ccbanana.com/main/interviews/starwars1.htm|archiveurl=https://web-beta.archive.org/web/20071102142039/http://www.ccbanana.com/main/interviews/starwars1.htm|archivedate=November 2, 2007}}</ref> Her scrapped death in Episode III would later be incorporated into the [[Star Wars: Episode III — Revenge of the Sith 3|third issue]] of the [[Star Wars: Episode III — Revenge of the Sith|''Revenge of the Sith'' comic adaptation]].
+
+Offee was originally written to die in "[[The Wrong Jedi]]," but [[Dave Filoni]] "had plans" for the character and cut this scene.<ref name="untold">{{SW|url=news/swca-the-untold-clone-wars-panel-liveblog|text=SWCA: The Untold ''Clone Wars'' Panel Liveblog}}</ref>
+
+==Appearances==
+*''[[Star Wars: Galactic Defense]]'' {{C|Misspelled as "Barris Offee"}}
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*''[[Attack of the Clones Read-Along Storybook and CD]]''
+*{{TCW|Weapons Factory}}
+*{{TCW|Legacy of Terror}}
+*{{TCW|Brain Invaders}}
+*{{TCW|Grievous Intrigue}}
+*{{TCW|The Deserter}}  {{Flash}}
+*{{TCW|Darkness on Umbara}} {{Flash}}
+*{{TCW|Deception}}
+*''[[Star Wars: Forces of Destiny—Ahsoka & Padmé]]''
+*{{TCW|Sabotage (episode)|Sabotage}}
+*{{TCW|The Jedi Who Knew Too Much}}
+*{{TCW|To Catch a Jedi}}
+*{{TCW|The Wrong Jedi}}
+*{{TCW|Destiny (episode)|Destiny}} {{Vision|[[Yoda]]}}
+*''[[Dark Disciple]]'' {{Mo}}
+*''[[Dark Disciple (audiobook)]] ''{{Mo}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]'' ''{{C|Cut}}
+*''[[Ahsoka (novel)|Ahsoka]]'' {{Mo}}
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+*''[[LEGO Star Wars: The Force Awakens]]'' {{C|DLC}}
+
+==Sources==
+{{Scroll box|
+*{{SW|url=tv-shows/clone-wars/weapons-factory|text="Weapons Factory" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/legacy-of-terror|text="Legacy of Terror" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/brain-invaders|text="Brain Invaders" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/grievous-intrigue|text="Grievous Intrigue" Episode Guide - ''The Clone Wars''}} {{Po}}
+*{{SW|url=tv-shows/clone-wars/darkness-on-umbara|text="Darkness on Umbara" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/the-jedi-who-knew-too-much|text="The Jedi Who Knew Too Much" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/to-catch-a-jedi|text="To Catch a Jedi" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/the-wrong-jedi|text="The Wrong Jedi" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/destiny|text="Destiny" Episode Guide - ''The Clone Wars''}}
+*{{SWE|characters|ahsokatano|Ahsoka Tano}}
+*{{SWE|characters|barrissoffee|Barriss Offee}}
+*{{SWE|characters|rex|Clone Captain Rex}}
+*{{SWE|groups|jedi-temple-guard|Jedi Temple Guard}}
+*{{SWE|characters|luminaraunduli|Luminara Unduli}}
+*''[[Star Wars: Force Collection]]''
+*{{SW|url=news/swca-the-untold-clone-wars-panel-liveblog|text=SWCA: The Untold ''Clone Wars'' Panel Liveblog}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}}
+*{{Databank|asajj-ventress|Asajj Ventress|archivedate=20170708191423}}
+*{{Databank|asajj-ventress-lightsabers|Asajj Ventress's lightsabers|archivedate=20170710185204}}
+*{{Databank|barriss-offee|Barriss Offee|archivedate=20170809140158}}
+*{{Databank|clone-captain-rex|Clone Captain Rex|archivedate=20170827024953}}
+*{{Databank|coruscant|Coruscant|archivedate=20170705001748}}
+*{{Databank|luminara-unduli|Luminara Unduli}}
+*{{SW|url=mas-amedda-biography-gallery|text=Mas Amedda biography gallery}}; image #12 {{C|of 18}}
+*{{Databank|mirialan|Mirialan}}
+*{{Databank|tarkin|Tarkin}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Barriss Offee
+|de=Barriss Offee#kanon
+|el=Μπάρις Όφι
+|es=Barriss Offee
+|fr=Barriss Offee
+|hu=Barriss Offee
+|it=Barriss Offee
+|ja=バリス・オフィー
+|ka=ბარის ოფი
+|nl=Barriss Offee
+|no=Barriss Offee
+|pl=Barrissa Offee
+|pt=Legends:Barriss Offee
+|ru=Баррисс Оффи/Канон
+|sv=Barriss Offee
+|uk=Баррісс Оффі
+}}
+
+{{DEFAULTSORT:Offee, Barriss}}
+
+[[Category:Fallen Jedi]]
+[[Category:Females]]
+[[Category:Jedi Knights]]
+[[Category:Mirialans]]

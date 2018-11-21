@@ -1,0 +1,557 @@
+{{Eras|legends=Darth Maul/Legends}}
+{{Otheruses|Darth Maul}}
+{{Character
+|type=Dathomiri
+|image=[[File:MaulHS SWI185.png]]
+|name=Maul
+|homeworld=[[Dathomir]]<ref name="swe-Maul">{{SWE|characters|darthmaul|Darth Maul}}</ref>
+|birth=
+|death=[[2 BBY]], [[Tatooine]]<ref name="Twin Suns">{{Rebels|Twin Suns (episode)|Twin Suns}}</ref>
+|species=[[Zabrak]]<ref name="swe-Dathomir">{{SWE|locations|dathomir|Dathomir}}</ref> {{C|[[Dathomirian]]}}<ref name="swe-Maul" />
+|gender=[[Sexes|Male]]<ref name="swe-Maul" />
+|height=*1.75 [[meter]]s<ref name="swe-Maul" />
+*1.94 meters {{C|[[Cybernetics|Cybernetic]] legs Phase II}}<ref name="swe-Maul" />
+|mass=
+|hair=
+|eyes=[[Color|Yellow]] and red<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|skin=Red {{C|black [[tattoo]]s}}<ref name="Episode I" />
+|cyber=*Six-legged apparatus {{C|formerly}}<ref name="Brothers">{{TCW|Brothers}}</ref>
+*Two cybernetic legs<ref name="Revenge">{{TCW|Revenge (episode)|Revenge}}</ref>
+|era=
+|clan=[[Nightbrothers]]<ref name="swe-Maul" />
+|affiliation=*[[Sith]]<ref name="Episode I" />
+*[[Trade Federation]]<ref name="Episode I" />
+*[[Cad Bane's group]]<ref name="maul-marvel-mini-2">''[[Darth Maul, Part II]]''</ref>
+*[[Death Watch]]<ref name="Eminence">{{TCW|Eminence (episode)|Eminence}}</ref>
+*[[Shadow Collective]]<ref name="Eminence" />
+*[[Crimson Dawn]]<ref name="Solo">''[[Solo: A Star Wars Story]]''</ref>
+|masters=[[Darth Sidious]]<ref name="Episode I" />
+|apprentices=[[Savage Opress]]<ref name="Revival">{{TCW|Revival (episode)|Revival}}</ref>}}
+{{Quote|I was apprentice to the most powerful being in the galaxy once. I was destined to become&hellip; so much more.|Darth Maul|Revenge (episode)}}
+'''Maul''', formerly known as '''Darth Maul''', was a [[Force-sensitive]] [[Dathomirian]] [[Zabrak]] [[Sexes|male]] who lived during the [[Fall of the Republic|final years]] of the [[Galactic Republic]] and the subsequent [[Imperial Era|reign]] of the [[Galactic Empire]]. The son of [[Mother (title)|Mother]] [[Talzin]] of the [[Nightsisters]], he was taken at a young age by the [[Sith Lord]] [[Darth Sidious]], who anointed his first [[Sith apprentice]] [[Darth]] Maul. Through his training, Maul grew strong in the [[dark side of the Force]], becoming a skilled [[lightsaber duel]]ist and [[assassin]] who yearned to reveal the [[Sith]]'s continued survival to the [[Jedi Order]]. During the [[Invasion of Naboo|crisis]] on [[Naboo]] in [[32 BBY]], Maul [[Battle of Naboo|confronted]] [[Jedi Master]] [[Qui-Gon Jinn]] and [[Padawan]] [[Obi-Wan Kenobi|Obi-Wan Kenobi.]] Although he succeeded in [[Death|killing]] the former, Maul was defeated and maimed by Jinn's apprentice, who left the Sith [[Lord]] for dead. As a result of Maul's defeat and apparent death, Sidious replaced him with [[Count]] [[Dooku]], Jinn's [[Jedi]] mentor who adopted the Sith persona of Darth Tyranus.
+
+Fueled by his hatred for Kenobi, Maul survived and reconstructed himself as a [[cyborg]], although the experience of his defeat also drove him insane. He was presumed dead for over a [[Standard decade|decade]] until his brother, [[Savage Opress]] found Maul and restabilized his [[Brain|mind]] with the help of Mother Talzin. By that [[time]] the [[Clone Wars]] raged across [[the galaxy]], with the [[Jedi General|Jedi-led]] [[Grand Army of the Republic|clone forces]] of the Republic battling against the [[Separatist Droid Army|droid armies]] of the [[Confederacy of Independent Systems]] as intended by Maul's former [[Sith Master]]. Believing he had been cheated out of his place in [[Timeline of galactic history|galactic history]], Maul embarked on a personal quest for revenge against Kenobi, whom he blamed for his fate. He also used the [[Galaxy|galactic]] conflict as an opportunity to form his own criminal empire, the [[Shadow Collective]] through various alliances which included the [[Pyke Syndicate]], the [[Black Sun]], and the [[Death Watch]]. Their combined resources enabled Maul to [[Takeover of Mandalore|overthrow]] the [[New Mandalorians]] and install a puppet [[Politics|government]] on [[Mandalore]]. However, as his power and influence increased, Maul became a threat to Sidious' own [[Proclamation of the New Order|plans]] for the [[Imperial Era|future]]. The Dark Lord confronted Maul in person; after killing Opress, Sidious denounced his former apprentice as a Sith no longer due to the [[Rule of Two]]. Despite Maul's efforts to avenge his brother, he was defeated and overpowered by Sidious' command of [[the Force]].
+
+In the waning [[Standard day|days]] of the [[Cloning|Clone]] Wars, Maul [[Escape from the Spire|escaped]] from Sidious and ultimately returned to Mandalore where he was [[Siege of Mandalore|overthrown]] by former Padawan [[Ahsoka Tano]] and an [[army]] of [[clone trooper]]s. However, Maul survived the war and continued to build his own empire as a [[crime lord]] and the secret leader of [[Crimson Dawn]]. He was later stranded on the [[planet]] [[Malachor]], where he hoped to destroy the Sith by unlocking the [[superweapon]] at the heart of the [[Malachor Sith Temple|Sith temple]]. Maul's plan was thwarted by two Jedi, [[Kanan Jarrus]] and [[Ezra Bridger]], the latter of whom Maul hoped to corrupt as his own apprentice. After escaping Malachor, Maul continued to try to tempt Bridger to the dark side before ultimately learning that Kenobi was still alive in spite of [[Order 66]] and the [[Jedi Purge]]. Seeking hope and purpose, Maul sought Kenobi on [[Tatooine]], the planet where he first revealed himself to the Jedi. Kenobi defeated him in a brief [[Mission to Tatooine (Imperial Era)|lightsaber duel]], cutting Maul's lightsaber in half. This finally ended Maul's decade-spanning quest for vengeance as he realized he could not win. Maul died in [[2 BBY]]&mdash;a few [[Standard year|years]] before the [[Battle of Scarif|start]] of the [[Galactic Civil War]]&mdash;with the knowledge that Kenobi was protecting [[Luke Skywalker]], finding some peace in the idea that the [[Chosen One|end of the Sith]] was at hand and, therefore, he would be avenged.
+
+==Biography==
+===Early life===
+{{Quote|Sidious promised to make me his right hand, but instead he stole what was most dear to me... my own flesh and blood. My son!|Mother Talzin recounts how Darth Maul became Darth Sidious' apprentice|Darth Maul—Son of Dathomir, Part Three}}
+[[File:YoungDarthMaulSidious.png|thumb|left|187x187px|A young Maul meets Darth Sidious.]]
+The boy who would become known as Darth Maul was born the son of [[Mother (title)|Mother]] [[Talzin]] on [[Dathomir]].<ref name="Son of Dathomir, Part Three">''[[Darth Maul—Son of Dathomir, Part Three]]''</ref> As a [[Dathomirian]] [[Zabrak]] [[Sexes|male]], he was a [[Nightbrothers|Nightbrother]] and had two blood brothers, [[Feral]] and [[Savage Opress]].<ref name="Witches of the Mist">{{TCW|Witches of the Mist}}</ref> Before his first [[birthday]], Talzin gave Maul and his brother Opress their first tattoos.<ref name="AEYNTK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref> When Maul was a child, Mother Talzin became an ally of [[Darth Sidious]], the [[Dark Lord of the Sith]], and the two exchanged wisdom and power. Sidious eventually abandoned Talzin, despite promising to make her his [[Sith apprentice|apprentice]], and instead took Maul once he realized the boy's potential.<ref name="Son of Dathomir, Part Three" /> Once under Sidious' tutelage, Maul began training as his [[Sith]] apprentice.<ref name="swe-Maul" />
+
+For years, Maul was trained to become a weapon of the Sith. He became an acrobatic warrior, one trained to be relentless against his enemies, and learned to use a [[Double-bladed lightsaber|dual-bladed]] [[lightsaber]]. During his training, Sidious took Maul to [[Malachor]] to bear witness to a [[Great Scourge of Malachor|great battle]] that occurred there between the [[Jedi]] and the Sith. Sidious forced Maul to breathe in the ashes of Sith warriors, slain when an ancient weapon was activated in the [[Malachor Sith Temple|Sith temple]] on the planet. While breathing in this ash, Maul had visions of members of the Sith order being struck down by the Jedi. He felt the slash of saber after saber as he felt the death of his Sith brethren.<ref name="maul-marvel-mini-2" /> His Sith training made Maul long for revenge against the [[Jedi Order]],<ref name="swe-Maul" /> which had defeated the Sith a millennium earlier.<ref name="DBBane">{{Databank|darth-bane|Darth Bane|archivedate=20170710180609}}</ref> With his master, Maul hoped to destroy the Jedi and restore the Sith to galactic power.<ref name="swe-Maul" />
+
+===Serving the Sith===
+====First encounter with a Jedi====
+{{Quote|Jedi. The peacekeepers of the Galactic Republic. Cowards. Wallowing... nesting... hiding in the peace they enforce. Their strength is waning. Deep down, they know they cannot maintain order forever. And when their time begins to tumble into darkness.. they will find me waiting for them.|Maul as he stalks Khaat Qiyn and her apprentice.|Darth Maul, Part I}}
+Several years into his training as Sidious' apprentice, Darth Maul began to become impatient. He longed for a confrontation with the Jedi. Maul spent time hunting wild game, such as [[Rathtar]]s on [[Twon Ketee]], and stalking the Jedi [[Khaat Qiyn]] and her [[padawan]], [[Bairdon Jace]] in the shadows on [[Coruscant]]. It was while hunting Rathtars that Maul reflected on their viciousness, ruthlessness, and freedom. The Rathtars he hunted had no master, unlike himself. Sidious warned Maul to avoid the Jedi until his plans were ready to unfold. While he praised Maul for this thirst for vengeance, Sidious did not want Maul revealing himself until the time was right. Sidious threatened Maul with death if he continued to risk detection.<ref name="maul-marvel-mini-1">''[[Darth Maul, Part I]]''</ref>
+
+[[File:Kellux.png|thumb|213x213px|right|Darth Maul traveled to Kellux.]]
+In an attempt to satiate Maul's bloodlust, Sidious sent him to the [[Kellux system]] to dispatch [[pirate]]s who were interfering with the [[Trade Federation]]. Maul traveled to [[Kellux]] and dispatched the pirates who had kidnapped members of the Trade Federation. A pirate, mistaking Maul for a Jedi, begged for his life in exchange for information. The pirate informed Maul that [[Xev Xrexus]] of the [[Xrexus Cartel]] had captured a [[Eldra Kaitis|Jedi Padawan]] who was going to be [[Auction of Eldra Kaitis|auctioned]] off to the highest bidder. Maul dispatched the remaining pirates as well as the kidnapped members of the Trade Federation, and began his search for the Padawan.<ref name="maul-marvel-mini-1" />
+
+Maul hired a [[Cad Bane's group|group]] of bounty hunters ([[Cad Bane]], [[Aurra Sing]], [[Vorhdeilo]], and [[Troo-tril-tek]]) and traveled to [[Nar Shaddaa]] in an attempt to gain information about the location of Xrexus's auction. Maul got into a bar [[Altercation on Nar Shaddaa|brawl]] after being accused of being a Jedi. He was blinded during the fight by the [[Quarren]] gangster Dirty [[Calgriz]], and was about to be killed, when he was rescued by Bane, Sing, and Vorhdeilo. Bane informed Maul that the bounty hunters had gotten ahold of an invitation to Xrexus's auction. The bounty hunters had killed the [[Haddrex Gang]] and stolen their ship and protocol droid, [[FE-B3]]. Troo-Tril-Tek and Maul tortured FE-B3 until they were able to extract the location of the auction.<ref name="maul-marvel-mini-2" />
+
+[[File:Auction of Eldra Kaitis.jpg|thumb|left|275x275px|Darth Maul at the auction of Eldra Kaitis.]]
+Maul and the bounty hunters then traveled in the Haddrex Gang's ship to a space station in the [[Drazkel system]] to attend the auction. Xrexus told those gathered that the Padawan, a [[Twi'lek]] named Eldra Kaitis, had been found on a crashed Republic transport vessel which had been attacked by pirates. While Xrexus greeted her guests, Maul searched the space station and found Kaitis in a holding cell.<ref name="maul-marvel-mini-2" /> While searching for Kaitis, Maul was caught sneaking around the station by Xrexus, and Maul provided a fake name Seris Madreth of the Haddrex Consortium to trick Xrexus. Maul then spoke with Bane and the other bounty hunters to come up with a clean way out and a back up plan.<ref name="Darth Maul 3">''[[Darth Maul, Part III]]''</ref>
+
+Maul then returned to the auction, where he allowed the [[Moogan]], [[Jee Kra]] to take Kaitis. Maul and his bounty hunters then confronted Jee Kra and his crew at their ship. There, Maul and his bounty hunters killed Kra and his crew. Maul then told Bane to get the ship into space and confirmed to Kaitis that he was a Sith. However, Xrexus had planted a explosive on the shuttle and it was forced to crash land on the [[Moon of Drazkel|Drazkel's moon]].<ref name="Darth Maul 3" />
+
+[[File:Eldra Maul skirmish on Drazkel moon.jpg|thumb|right|266x266px|Maul and Kaitis fighting assassin droids on the Moon of Drazkel.]]
+On the Moon's surface, Maul, Kaitis, and his bounty hunters survived the crash. Maul and his bounty hunters then saw that Xrexus was sending ships after them and split up; Maul and Kaitis would lead the hunters away while Bane, Sing, and Vorhdeilo would take a ship from them. When they became surrounded by the hunters, Maul gave Kaitis her lightsaber and the two of them fought the hunters together. After defeating the hunters, Maul and Kaitis then prepared to fight each other.<ref name="Darth Maul 4">''[[Darth Maul, Part IV]]''</ref>
+
+Both proved to be a match for each other. At first, Kaitis was able to use her lightsaber to cause a landslide that buried Maul. As she was going in for the kill, Maul rose up and stabbed her through the chest. He then destroyed FE-B3, after which he was picked up by Bane and the other bounty hunters using a stolen [[Flarestar-class attack shuttle|''Flarestar''-class shuttle]]. Maul then compensated them and they dropped him off at [[Xev's hideout]]. There, Maul killed Xrexus to ensure the Sith's secrecy. He then returned to Lord Sidious on Coruscant. His master knew he had killed the young Padawan, but he pleased his master by telling him that his Jedi lust was not satisfied.<ref name="Darth Maul 5">''[[Darth Maul, Part V]]''</ref>
+
+====Invasion of Naboo====
+=====Revealing the Sith to the Jedi=====
+{{Quote|At last we will reveal ourselves to the Jedi. At last we will have revenge.|Darth Maul to Darth Sidious|audio=RevengeAtLast-TPM.ogg|Star Wars: Episode I The Phantom Menace}}
+After years of looking for revenge against the Jedi, Maul became part of his master's plan to take over the [[Galactic Republic]] and destroy the Jedi. Sidious, who was secretly Senator Palpatine of [[Naboo]], conspired with the Trade Federation to [[Invasion of Naboo|invade]] his planet as retaliation for the taxation of trade routes in outlying Republic star systems. The Federation launched their vessels and formed a blockade against Naboo, and prepared their battle droid army. [[Supreme Chancellor]] [[Finis Valorum]], who Palpatine aimed to replace through the invasion, dispatched [[Jedi Knight]]s [[Qui-Gon Jinn]] and [[Obi-Wan Kenobi]] to resolve the situation, but the Federation attempted to kill the two Jedi, forcing Jinn and Kenobi to the surface. Once there, and as the invasion began, they rescued [[Monarch of Naboo|Queen]] [[Padmé Amidala]] and escaped from Naboo.<ref name="Episode I" />
+
+[[File:JedivsSith.png|thumb|left|228x228px|Maul fights Qui-Gon Jinn on Tatooine.]]
+Because Amidala was necessary for their plans&mdash;the [[queen]] needed to sign a treaty that would legitimize the illegal occupation of Naboo&mdash;Sidious dispatched Maul to find the queen and the Jedi. Maul traced a distress call from [[Sio Bibble]], the [[governor]] of Naboo, which Queen Amidala received on [[Tatooine]]. With his master's blessing, Maul traveled to Tatooine to locate the queen.<ref name="Episode I" /> He landed in the desert with his [[Scimitar|personal starship]], establishing it as a mobile base for his operation.<ref name="DBSithInfiltrator">{{Databank|sith-infiltrator|Sith Infiltrator}}</ref> From his starship he launched a trio of [[DRK-1 Dark Eye probe droid|Sith probe droids]] to seek out the Queen and her Jedi protectors and thanks to one of them, he discovered her ship just before it was preparing to leave. Maul rode across the Tatooine sand dunes on his ''[[Bloodfin]]'', his personal vehicle of choice, towards the Queen's ship. However, he encountered Qui-Gon Jinn, one of the Jedi Knights that was trying to protect the Queen, and a young boy named [[Anakin Skywalker]], whom Maul felt had an unusually powerful connection with [[the Force]].{{Fact}} Nevertheless, the Sith Lord [[Duel on Tatooine|attacked]] Qui-Gon Jinn, and the two engaged in [[lightsaber combat]]. The Jedi commanded that Anakin board the ship and tell the pilot to take off. It was a short but intense duel, Maul using his terrifying agility and ferocity to tire Jinn out with his vicious lightsaber technique. Just as Jinn had succumbed to Maul's power and fury, and Maul was looking to finish the Jedi off, [[Naboo Royal Starship|the Queen's ship]] came to the rescue and Jinn jumped aboard, leaving the Sith Lord fuming with rage on the sand. Although Jinn and the queen were able to escape, the Sith had revealed themselves to the Jedi for the first time in a millennium, and the Jedi Order began wondering how the Sith could have returned after so many centuries. Despite his narrow defeat, Maul embraced what he had achieved and let himself become more consumed with darkness and hatred. What Maul did not know was that Skywalker, the young boy who was destined to be the [[Chosen One]], would one day all but destroy the Jedi and become a Sith Lord himself.<ref name="Episode I" />
+
+=====Duel on Naboo=====
+{{Quote|Lord Maul, be mindful. Let them make the first move.''"<br />"''Yes, my Master.|Darth Sidious instructs his apprentice before the Battle of Naboo|Star Wars: Episode I The Phantom Menace}}
+[[File:Maul Neimoidians.png|thumb|right|221x221px|Darth Maul worked with Nute Gunray and other Federation officials during his time on Naboo.]]
+After the Jedi and the queen escaped, they made their way to Coruscant where Sidious, as Palpatine, manipulated Amidala into calling for a [[Vote of No Confidence]] against Chancellor Valorum, prompting a new election where Palpatine was a favorite to win and take over the Republic. Maul, meanwhile, returned to Naboo, where Amidala and the Jedi also returned to in order to fight the Federation occupation force. The Naboo, along with the [[Gungan]]s who lived in Naboo's oceans, led the Federation army into [[Battle of Naboo|battle]] away from the capital city. Using the battle as a diversion, the queen and the Jedi fought to regain control of the city.<ref name="Episode I" />
+
+[[File:DotF TPM.png|thumb|left|219x219px|Maul fights Qui-Gon Jinn and Obi-Wan Kenobi during the Battle of Naboo.]]
+The battle for the capital reached the royal palace, where Maul was waiting for Jinn and Kenobi. The Sith Lord fought the Jedi in the palace hangar, before moving into a generator complex. The duel raged on throughout the generator rooms, with Maul dominating the duel; he did, however, give ground in order to lead the Jedi throughout the complex. Maul managed to separate the Jedi by knocking Kenobi down several levels, and Kenobi was unable to catch up to Maul and Jinn due to laser walls standing in his way. Taking advantage of their separation, Maul fought Jinn in single-combat and eventually stabbed the Jedi Master through the torso, mortally wounding him. When Kenobi finally caught up, the two engaged in a ferocious fight, with Kenobi filled with anger and grief over the death of his master and friend. Although Kenobi managed to chop Maul's double-bladed lightsaber in half, leaving the Sith Lord with only one blade, Maul was able to disarm Kenobi and Force-push him over the edge of a vast reactor shaft. Caught off-guard, Kenobi dropped his lightsaber and found himself dangling over the abyss from a small input nozzle. Maul then kicked Kenobi's lightsaber into the shaft below him. As Maul taunted the young Jedi, trying to dislodge him from the wall, Kenobi managed to calm himself and used the Force to jump back up and summon Jinn's lightsaber into his hand. In an instant, Kenobi sliced the blade through Maul's waist, cutting him in half and sending him falling down the shaft.<ref name="Episode I" />
+That same day, Sheev Palpatine became Supreme Chancellor of the Galactic Republic. Both he and the Jedi believed that Maul had perished on Naboo.<ref name="Episode I" />
+
+===Exile in the Outer Rim===
+{{Quote|...he lives in the Outer Rim, in exile.|Mother Talzin tells Opress that Maul survived|Witches of the Mist}}
+[[File:We.jpg|thumb|right|280x280px|The junk fields of Lotho Minor where Maul lived.]]
+However, through his hate and will to survive, Maul used the Force to grab an air vent as he was tumbling down the reactor shaft. He then managed to make it to a trash container.<ref name="AEYNTK" /> Maul's shattered body was dumped on the junkyard world of [[Lotho Minor]].<ref name="DBMaul">{{Databank|darth-maul|Darth Maul|archivedate=20170710180356}}</ref> He lived in the bowels of the planet and had his legs replaced by a six-limbed apparatus that allowed him to walk again. During his exile, he made a bargain with a sentient sneaky [[Anacondan]] called [[Morley]], who agreed to bring Maul food in return for his leftovers. Over the years, Maul was driven mad with rage and despair, but remained driven by thoughts of revenge against Kenobi.<ref name="Brothers" />
+
+During those years, Anakin Skywalker, while training in lightsaber combat at the Jedi Temple, altered a [[Jedi training droid|training droid]], giving it Darth Maul's appearance.<ref name="O&A 1">''[[Obi-Wan & Anakin, Part I]]''</ref>
+
+===The Clone Wars===
+====Rescued by his brother====
+{{Quote|What? It can't be&hellip; Brother!|Savage Opress discovers that the spider-like creature on Lotho Minor is his brother, Darth Maul|Brothers}}
+[[File:HelloBrother.jpg|thumb|left|249x249px|Maul, in a ruined state, is found by his long lost brother Savage Opress on Lotho Minor.]]
+Mother Talzin knew that Maul had survived. During the [[Clone Wars]], she told his brother, Savage Opress, that the former Sith Lord could be found in the Outer Rim. Talzin gave Opress a talisman that would help him find Maul, and Opress set out to locate his brother. Opress found Lotho Minor and [[Mission to Lotho Minor|discovered]] his crazed brother living there, but Maul did not know who Opress was, and barely had a hold on his own identity. All that remained of the one-time Sith Lord was his lust for revenge against the Jedi.<ref name="Brothers" /> Believing that Morley had severed his brother and driven him crazy, Opress killed the Anacondan and, to restore Maul's memories, took him to Dathomir, where Mother Talzin repaired Maul's mind and gave him a pair of cybernetic legs through an incantation, using parts of the [[Confederacy of Independent Systems|Separatist]] droids destroyed during the [[Battle of Dathomir]].<ref name="Revenge" />
+
+====Resurfacing in the galaxy====
+{{Quote|To continue, we need one singular vision&hellip;''my'' vision.''"<br />"''Brother, let us ''share'' our strength. There is no need for dominance between us.''"<br />"''Always two there are, my brother&mdash;a Master, and an apprentice. And ''you'' are the apprentice.|Darth Maul and Savage Opress|Revival (episode)}}
+[[File:MaulVsKenobi-Revenge.jpg|thumb|right|273x273px|Maul and Kenobi fight for the first time in over a decade.]]
+With his mind restored, Maul set out to seek revenge against Kenobi for defeating him on Naboo, and led the now-[[Jedi High Council]] member to [[Raydonia]] by slaughtering civilians to draw Kenobi out. Maul and Opress captured Kenobi, but the Jedi was rescued by [[Asajj Ventress]], a former acolyte of Darth Tyranus and the Dathomir Witch who once commanded Opress. Kenobi and Maul engaged in a lightsaber duel for the first time in over a decade, and Maul attempted to goad Kenobi into anger by talking about how he killed Qui-Gon Jinn. Kenobi was briefly overwhelmed as a result, so he and Ventress escaped the ship. Although Kenobi had escaped, Maul knew that the Jedi would soon begin pursuing him, which would play into Maul's hand in his quest for revenge.<ref name="Revenge" />
+
+The brothers began a rampage across the galaxy, which took them to the [[Cybloc transfer station]] in the [[Cybloc system]]. After defeating the station's guards, the brothers discovered a credit coffer filled to the brim. Maul demonstrated his martial superiority to his brother by disarming him, earning the latter's respect. From that point, Maul referred to himself as Opress's Master, in the same manner as the traditional Sith [[Rule of Two]] dynamic.<ref name="Revival" />
+
+[[File:DuelOnFlorrum-Revival.jpg|thumb|left|269x269px|Maul duels Kenobi while Opress fights Adi Gallia on Florrum.]]
+After stealing the valuables on the space station, the brothers traveled to [[Florrum]], where they bribed a squad of pirates into joining them. Although some joined, others questioned Maul and Opress's motives and were killed as a result, as [[Hondo Ohnaka]], the pirate leader, was forced to watch. Eventually, the brothers were faced off against Kenobi and [[Adi Gallia]], a fellow member of the Jedi High Council, who tracked them there. After a [[Skirmish on Florrum|duel]] that left Gallia dead, Kenobi lured the brothers into the pirate base, where they continued their duel in an isolated passage. When Opress had his arm cut off, Maul knew they were outmatched and ordered a retreat. He also discovered that Ohnaka's forces reconciled with the renegade pirates, and likewise, Maul's hired group had turned on him. The brothers promptly escaped, although the escape cost Maul one of his artificial legs. They later barely escaped the doomed ship after one of Ohnaka's pirates shot out its engines with a rocket launcher. Because of this, Hondo believed that Maul and Opress were incinerated in the crash, though Kenobi suspected otherwise.<ref name="Revival" />
+
+====Building the Shadow Collective====
+{{Quote|Doubt will only lead to failure. Our combined strength will be rewarded. Mandalore will be yours. And Kenobi, this Sith pretender Dooku, and all our enemies…will fall.|Darth Maul to Pre Vizsla while Force choking Bo-Katan.|Eminence (episode)}}
+Maul and Opress managed to escape Florrum, although they eventually passed out from lack of oxygen in their escape pod. As they floated aimlessly in deep space, they were discovered unconscious and half-alive by [[Death Watch]], a [[Mandalorian]] splinter group led by former Governor [[Pre Vizsla]]. Discovering Maul's lightsaber, Vizsla decided not to kill them as his lieutenant, [[Bo-Katan Kryze]], wished to do; Vizsla believed that if they were enemies of the Jedi, then they were his friends. Vizsla and his men returned to their base on [[Zanbar]], with Maul and Opress in tow.<ref name="Eminence" /> On Zanbar, medical droids healed Maul from his wounds and replaced the legs he had received from Mother Talzin for a pair of [[Human]] mechanical legs that returned him to his previous height. Waking after the surgery was completed, Maul was groggy and only tried to react when he saw the still unconscious Opress next to him, as the droids fitted the wounded brother with a mechanical arm. Vizsla and Bo-Katan entered and began to interrogate Maul, threatening to kill Opress if Maul refused to answer. Maul revealed that they were Sith Lords, which immediately led Vizsla to question him as to his links to Count Dooku. Maul angrily stated that he and Opress served no one and that they were brothers, the true Lords of the Sith. Satisfied, Vizsla asked him as to his intentions, and Maul revealed his plans to seek power and influence to gain his revenge over the Jedi. He also informed the Mandalorians that the Jedi responsible for their troubles was Obi-Wan Kenobi. Having faced Kenobi before, and knowing that the Jedi Master was a close friend of Vizsla's enemy, the Mandalorian [[Duke|Duchess]] [[Satine Kryze]], Vizsla ordered the droids to complete the repairs to the brothers.<ref name="Eminence" />
+
+[[File:MaulTorturesBoKatan-Eminence.png|thumb|right|292x292px|Maul demonstrates his power by choking Bo-Katan.]]
+Maul was later taken to Vizsla's shelter and revealed himself as a member of Death Watch, who purported to be the descendants of [[Mandalore]]'s true warrior faith which had been rejected by the pacifists who ruled Mandalore. Vizsla also informed Maul of his and his warriors' exile from Mandalore after failing to overthrow the Mandalorian government and mused against the one responsible for their exile: Kenobi. Realizing that they possessed a common goal and a common enemy, Maul proposed an alliance between the brothers and Death Watch, claiming that it was the will of the Force. Bo-Katan rebuffed him, stating that the last time they had allied with a Sith, they had been betrayed. She also denigrated the Sith as being weaker than they claimed as opposed to the Jedi. Maul used the Force to choke her and, as the Mandalorians aimed their weapons at him, he claimed that, thanks to their alliance, Mandalore would be theirs and they would dispose of all their enemies, as well as gaining their revenge against Kenobi and Dooku. He then released Bo-Katan, and Vizsla sent him to see to Opress while they put the alliance to a vote among the Mandalorians.<ref name="Eminence" />
+
+Opress emerged from his coma and proceeded to destroy the medical droids with his new mechanical arm while Maul watched. As Opress grew agitated, Maul appeared to calm him and informed him of who they had fallen upon. He insisted that the Mandalorians would be more useful to their plans than the pirates ever would have been, because the Mandalorians had honor. While Opress rejected this as a weakness, Maul stated that his plans would be better served by them and, once they had reclaimed Mandalore, they would use its resources to further their own plans, with the Death Watch under their command. Vizsla then arrived and announced that the alliance had been accepted by the Death Watch.<ref name="Eminence" />
+
+Maul convinced Pre Vizsla they needed to recruit Black Sun so they could build an army. The alliance proceeded to go to [[Mustafar]] to recruit the [[Black Sun]] rulers into their ranks. Upon arrival, their request for Black Sun to join were shot down and mocked by the Black Sun leader, although one of their leaders ended up joining after witnessing Opress single-handedly wiping out all the other ruling council members. Upon returning to their camp on Zanbar, the [[Pyke Syndicate|Pykes]] also declared their allegiance to the Sith brothers.<ref name="Eminence" />
+
+[[File:ShadowLeaders-Eminence.png|thumb|left|280x280px|Maul, Opress, and Pre Vizsla, leaders of the [[Shadow Collective]].]]
+Next, the alliance traveled to [[Nal Hutta]] to convince the [[Grand Hutt Council]] to join their group. The brothers and Death Watch were initially met with refusal, and bounty hunters began to attack them, so the alliance retreated outside and began an attack, killing almost everyone. After defeating the bounty hunters and the guards, they met [[Oruba|Oruba the Hutt]], who was captured by Bo-Katan and her forces. After the Hutt could only tell that they would find the other Hutts at [[Jabba's Palace]] on Tatooine, they killed Oruba, resulting in [[Jabba Desilijic Tiure|Jabba]] declaring the Hutts' allegiance to the Sith brothers.<ref name="Eminence" />
+
+====Conquest of Mandalore====
+=====The coup=====
+{{Quote|I will use my army of crime lords to attack different targets across Sundari and sow chaos to undermine the Duchess' rule. Our gangsters will make her look too weak to maintain control. Then you and your Death Watch will capture and arrest us, bringing order where Satine's weak government could not.|Darth Maul to Pre Vizsla|Shades of Reason}}
+Now with an army under his command, Maul and the Shadow Collective planned to overthrow the government of Duchess Satine on Mandalore. Their goal was to make the Duchess look weak by sending the Collective's criminal elements to [[Takeover of Mandalore|attack]] the capital city, [[Sundari]], at which time Death Watch would arrive and drive them off. Maul also anticipated and counted on Pre Vizsla and Bo-Katan betraying him, an act that he counted on as part of his own plans.<ref name="SoR">{{TCW|Shades of Reason}}</ref>
+
+After Death Watch drove the criminals away, Maul's suspicions were confirmed when he and Opress were arrested. With Maul imprisoned, Death Watch declared themselves the leaders of Mandalore. Maul suspected that there would be other political prisoners nearby, other than the deposed and imprisoned Satine, who Maul could use for his own ends. The two Sith brothers broke out of their cells and sought to find a new ally, choosing former Prime Minister [[Almec]] as a puppet; Almec had been imprisoned by the Duchess on corruption charges.<ref name="SoR" />
+
+Having fought his way out of prison, Maul stormed into the Mandalorian throne room and challenged Pre Vizsla to an honorable death match, knowing that the winner would gain the allegiance of Death Watch and become their new leader. After a long and spectacular duel, Maul overpowered Pre Vizsla and beheaded him with his own weapon, the [[Darksaber]] that ancient Mandalorians had stolen from the Jedi, which Maul then claimed as his own. However, Maul's victory split the Death Watch in two, with Bo-Katan and her forces refusing to pledge loyalty to Darth Maul. The other half submitted to Maul's rule, while Almec was reinstated as Prime Minister&mdash;albeit with Maul as the true power on Mandalore.<ref name="SoR" />
+
+=====Revenge against Kenobi=====
+{{Quote|You think you know ''me?'' It was I who languished for years thinking of nothing but ''you!'' Nothing but this moment! And now, the perfect tool for my vengeance is in front of us. I never planned on killing you, but I will make you ''share'' my pain, Kenobi.|Maul prepares to murder Duchess Satine Kryze in front of Kenobi|The Lawless}}
+Shortly after the coup, Maul learned that the Duchess had tried to escape from prison and transmitted a distress call to the Jedi. Having learned of Kenobi's old friendship and relationship with Kryze, Maul realized she could serve as bait for his archenemy and the perfect tool for his revenge against the Jedi Master. As Mandalore was technically neutral in the Clone Wars, Maul knew that Kenobi could not receive an official sanction from the Jedi Council for a rescue mission. As such, he predicted that Kenobi would mount his rescue alone.<ref name="The Lawless">{{TCW|The Lawless}}</ref>
+
+After Kenobi managed to infiltrate the palace and liberate his friend, Maul and the Mandalorian forces chased the two of them all the way to Kenobi's ship, ''[[Twilight]]''. The Mandalorians fired missiles at the ship and crippled it, forcing Kenobi and Kryze to abandon ship before it was destroyed. Although dazed from the crash, Kenobi recognized Maul and Opress and attacked them, but Maul disarmed him and ordered his forces to bring Kenobi and the Duchess to the palace.<ref name="The Lawless" />
+
+[[File:HoldMeObiWanKenobi-TL.png|thumb|left|247x247px|The Duchess dies in Kenobi's arms, as Maul claims his revenge against the Jedi Master.]]
+In the throne room, Maul taunted Kenobi to give in to the dark side, all the while holding Kryze in a Force grip. Kenobi refused, and told Maul he had been to the Sith Lord's village on Dathomir; Kenobi expressed his belief that it had not been Maul's decision to join the dark side, but rather the Nightsisters forced it upon him. The comments struck a nerve, angering Maul and causing him to lash out. He reminded Kenobi that it was the Jedi Master who truly made Maul suffer for over ten years, and that it was time for Kenobi to share in his agony. At that moment, Maul activated the darksaber and stabbed it through the Duchess' chest. Kryze died in Kenobi's arms, before Maul ordered that Kenobi be taken to the prison to contemplate his loss. Kenobi later escaped with the help of Bo-Katan, who revealed herself to be the Duchess' sister.<ref name="The Lawless" />
+
+=====Duel with Darth Sidious=====
+{{Quote|Remember the first and only reality of the Sith: there can only be ''two'', and ''you'' are no longer my apprentice. You have been replaced!|Darth Sidious rejects Darth Maul's claim of Sith lordship|The Lawless}}
+As Bo-Katan and her [[Nite Owls]] [[Mandalorian civil war (Clone Wars)|fought]] Maul's [[Mandalorian super commando]]s, bringing a civil war to Mandalore, Darth Sidious arrived at the royal palace, having sensed that Maul was growing stronger and had become a rival;<ref name="The Lawless" /> as Palpatine, Sidious had learned from Kenobi and Skywalker that Maul was alive.<ref name="Revival" /> When Sidious arrived, Maul sensed his old master's presence and prepared to face him. Maul claimed that he had taken Mandalore and built an army in the hopes of becoming Sidious' apprentice once more, but the Dark Lord saw through Maul's deception and attacked the brothers, demonstrating his superior power through Force attacks.<ref name="The Lawless" />
+
+[[File:SidiousVsNightbrothers-TL.png|thumb|right|295x295px|Maul and Opress vs. Darth Sidious.]]
+After Sidious released the duo from his Force grip, all three drew their weapons and began to duel. At first, the duel was well matched, but Sidious's overwhelming prowess ultimately proved too much for them and after a fight, managed to stun Maul by force-pushing him to a wall before taking Opress on alone. Maul regained consciousness just in time to see Opress be fatally impaled by Sidious' blades and rushed to his brother's side. In his final moments, Opress expressed his regret that he had failed his brother as an apprentice. Sidious was amused and reminded Maul that there can only be two Sith, and that he had been replaced.<ref name="The Lawless" />
+
+Enraged, Maul lit both his own lightsaber and the darksaber, and attacked his former master. Maul held his own better than Opress but he was ultimately outclassed by the more experienced and skilled Dark Lord of the Sith and disarmed. Sidious telekinetically assaulted Maul multiple times, severely weakening him. Maul pleaded for mercy, but Sidious ignored him and sadistically tortured him with blasts of Force Lightning. The Sith Lord revealed he had no intention of killing his former apprentice and still had uses for Maul;<ref name="The Lawless" /> he wanted to use Maul to draw Mother Talzin into the open so she could be defeated, though he did not reveal his plan to Maul.<ref name="Son of Dathomir, Part One">''[[Darth Maul—Son of Dathomir, Part One]]''</ref>
+
+====Capture and escape====
+{{Quote|The war you have waited your entire lives to fight is upon us, my brothers. Victory or death!|Darth Maul to his Death Watch forces|Darth Maul—Son of Dathomir, Part One}}
+After the duel on Mandalore, Sidious took Maul as his prisoner and brought him to the remote world of [[Stygeon Prime]], where the Confederacy of Independent Systems operated the [[Spire (Stygeon Prime)|Spire]], a prison fortress in the mountains. On Almec's orders, Sidious' vessel was pursued by Maul's Death Watch forces, with the intention of rescuing their captive leader. Once he was imprisoned, Maul was subjected to torture at the hands of the Sith, as Sidious reminded Maul that he still had plans for his former apprentice. The two were interrupted by Count Dooku, whose arrival angered Maul.<ref name="Son of Dathomir, Part One" />
+
+Dooku returned to Maul after conferring with Sidious, with orders from the Dark Lord to learn more about the Shadow Collective and the names of Maul's associates. Dooku interrogated his predecessor, electrocuting him in an attempt to find the information he was seeking. Maul resisted the torture and refused to give up any information. After Dooku left, [[Rook Kast]] and [[Gar Saxon]] of Death Watch attacked the prison and rescued their captive leader. The Mandalorians blew a hole in the walls of Maul's cell, and together they rappelled down the mountain and [[Escape from the Spire|escaped]] aboard a Death Watch ship. Unknown to Maul and the Death Watch, the Sith intended for Maul to escape so he could lead them to Mother Talzin.<ref name="Son of Dathomir, Part One" />
+
+[[File:DarthMaulGrievousDuel.png|thumb|right|228x228px|Maul fights General Grievous on Zanbar.]]
+Maul and Death Watch regrouped with more of their forces on Zanbar. After his arrival, Maul spoke to Prime Minister Almec via [[hologram]], and the Prime Minister told Maul that the prison break was repayment for when Maul released Almec from imprisonment. Once again in command of his forces, Maul reclaimed his darksaber and promised the Mandalorians that the war they had longed for was at hand. Soon thereafter, Separatist forces under the command of [[General]] [[Grievous]] reached Zanbar. Grievous [[Battle of Zanbar|launched]] all of his forces against Death Watch, with both sides suffering heavy losses. During the battle, Maul destroyed four of Grievous' [[IG-100 MagnaGuard|MagnaGuard]] droids and then attacked Grievous himself. Despite Maul's obvious power, he quickly realized that he could not win and backed down after Grievous kicked him hard in the chest. With most of his forces in ruins, Maul ordered his warriors to retreat. Grievous allowed Maul to escape, hoping that Maul would seek out Mother Talzin for help.<ref name="Son of Dathomir, Part One" />
+
+====Capturing Dooku and Grievous====
+{{Quote|We must assume he allowed you to break free. With Sidious, nothing is ever as it seems. We must be this way, as well.|Mother Talzin, to Darth Maul|Darth Maul—Son of Dathomir, Part Two}}
+[[File:Maul Speaks to Talzin Smoke.png|thumb|left|213x213px|Maul speaks to Mother Talzin, who appeared in a cloud of smoke.]]
+As Grievous predicted, Maul contacted Mother Talzin after leaving Zanbar, calling out to her through the Force for guidance. She appeared to him from afar in a cloud of smoke and he informed her of his escape from prison and defeat on Zanbar. Talzin anticipated that Sidious hoped to lure her into a trap, so she ordered Maul to go to [[Ord Mantell]], where the Black Sun had a base of operations. Once there, Talzin wanted him to gather his forces for another battle against the Separatists, this time to lure Dooku and Grievous into a trap and capture them&mdash;which Talzin believed that Sidious would not expect. Talzin herself would not go to Ord Mantell, as she knew she was a target of the Sith Lords.<ref name="Son of Dathomir, Part Two">''[[Darth Maul—Son of Dathomir, Part Two]]''</ref>
+
+Maul arrived on Ord Mantell and conferred with his Shadow Collective allies, including Ziton Moj of Black Sun and [[Fife]] of the Pyke Syndicate. He informed them that a battle would take place against the Separatists, who were being lured to Ord Mantell thinking they could capture Maul. Despite some reservations from his allies, Maul was confident that his plan would succeed and they could trap the two Separatist leaders. Maul and his allies quickly began planning their attack against the Separatists, which including luring the droid army into a specific point in the Black Sun-controlled territory so the Shadow Collective forces could attack them.<ref name="Son of Dathomir, Part Two" />
+
+As the Collective prepared for battle, a team of Nightbrother warriors, led by Brother [[Viscus]], arrived after having been sent from Dathomir by Mother Talzin to reinforce Maul's army. While Maul greeted his fellow Nightbrothers, the Separatists arrived in orbit and began their attack, using their fleet to bombard the surface of Ord Mantell. Maul immediately ordered his forces to begin carrying out their assault, while the Nightbrothers were to wait in the command center for instructions. Maul, meanwhile, made his way to Mandalorian warships, which he and Death Watch forces would use to assault the Separatist fleet in orbit.<ref name="Son of Dathomir, Part Two" />
+
+[[File:Maul Tackles Grievous.png|thumb|right|253x253px|Maul tackles General Grievous after boarding the Separatist command ship.]]
+Maul arrived in orbit while the Separatists began landing their troops&mdash;as well as Count Dooku&mdash;on the planet, quickly overwhelming the Shadow Collective army. Maul's ships attacked General Grievous' command vessel, before attaching itself to the hull of the Separatist ship so Maul and his forces could board and make their way to the bridge. Once there, Maul and Death Watch eliminated the battle droids defending the [[cyborg]] general, and Maul then subdued Grievous and gave him a choice: disable the signal powering the droids on the surface, or die. Grievous begrudgingly disabled the signal and was taken into custody. Dooku, who engaged and killed the Nightbrothers in battle, was captured by Shadow Collective forces on the surface, while the disabled battle droids were eliminated.<ref name="Son of Dathomir, Part Two" />
+
+====Alliance with Dooku====
+{{Quote|So it is true&mdash;you are working together!''"<br />"''Of course. Only our hatred of you could be strong enough to unite us!|Obi-Wan Kenobi and Darth Maul|Darth Maul—Son of Dathomir, Part Three}}
+After the battle, Maul contacted Mother Talzin once again to inform her of what had happened on Ord Mantell. Talzin promised Maul that, with Dooku and Grievous in custody, they would capture Sidious as well&mdash;and gain their revenge against him.<ref name="Son of Dathomir, Part Two" /> Maul and his forces cleared off of Ord Mantell, leaving little trace they were there, and made their way to [[Vizsla Keep 09]], a Mandalorian supply outpost.<ref name="Son of Dathomir, Part Three" />
+
+[[File:Maul Dooku Allies or Death.png|thumb|left|231x231px|Maul tempts Dooku to join him.]]
+From the outpost, Maul contacted Darth Sidious, informing him of the capture of Dooku and Grievous. Claiming that he had no further use for the two, Sidious told Maul to kill them, but the former Sith Lord had other plans. Grievous was locked in the brig, while Maul tempted Dooku to join him. They were both betrayed by Sidious, so Maul suggested that he and Dooku could be natural allies. Dooku did not believe that Sidious could be challenged, and claimed he did not think he should ally with Maul and Mother Talzin, the latter of whom once tried to kill Dooku. Talzin herself appeared using Nightsister magic and told the story of how she was once an ally of Sidious, how she too was betrayed when Sidious took Maul from her, and how Sidious was already seeking to replace the Count.<ref name="Son of Dathomir, Part Three" /> Neither Talzin nor Maul believed Dooku would sincerely ally with them, and simply wanted to ensure he could be taken to Dathomir.<ref name="Son of Dathomir, Part Four">''[[Darth Maul—Son of Dathomir, Part Four]]''</ref>
+
+As they spoke, a Jedi-led Republic assault team [[Assault on Vizsla Keep 09|attacked]] the supply outpost. The Jedi, including Kenobi and [[Mace Windu]], had tracked the Shadow Collective from Ord Mantell. With both of their lives at stake, Dooku feigned an alliance with Maul, while Grievous escaped in the chaos using an escape pod. Maul and Dooku engaged the Jedi in a lightsaber duel, which lasted until Kast shot a small explosive towards the Jedi, incapacitating the Jedi and allowing the two Sith Lords to escape.<ref name="Son of Dathomir, Part Three" />
+
+====Fall of the Shadow Collective====
+{{Quote|At last, the great deceiver comes to rescue his pawn.''"<br />"''I come to end this farce once and for all.|Darth Maul and Darth Sidious|Darth Maul—Son of Dathomir, Part Four}}
+Having fled the outpost, Maul and his followers made their way towards Dathomir. While en route, Maul was contacted by Moj and the Pykes, who grew concerned that Maul's vendetta was causing the Shadow Collective's plans to fail. Maul assured them that they would be paid and that Sidious would die, allowing the galaxy to be controlled by the Shadow Collective. To ensure loyalty, Maul ordered Saxon to keep the Pykes and Black Sun in line. He also revealed to Dooku that he knew the Sith Lord was not an ally, and that Sidious had ordered his apprentice to feign allegiance with Maul.<ref name="Son of Dathomir, Part Four" />
+
+Once on Dathomir, Maul was greeted by Brother Viscus, who survived his fight with Dooku on Ord Mantell. The Nightbrother told Maul that they were ready for the next step of their plan, so Dooku was taken before Mother Talzin, who appeared before them in a cloud of smoke. She unleashed her magic upon the Sith Lord, using it to draw Dooku's life force so she could physically manifest herself again; Talzin's physical return required a sacrifice, and they had chosen Dooku for that purpose. They were interrupted, by an explosion ripping through the area, and the arrival of Grievous and Sidious. Sidious reminded his former apprentice that there was only one plan that mattered: Sidious'.<ref name="Son of Dathomir, Part Four" />
+
+[[File:Second Battle of Dathomir.png|thumb|right|264x264px|Maul fights Grievous, while Talzin in Dooku's body fights Sidious.]]
+The arrival of the Dark Lord and Grievous led to a lightsaber duel, one which Talzin joined after she took control of Count Dooku's body. Talzin fought Sidious while Maul fought the cyborg general, and Sidious quickly gained the advantage over the Dathomir witch. Sidious bombarded Talzin with Force lightning, and the witch released Dooku and appeared in physical form once more. Maul, meanwhile, Force-pushed Grievous out of the opening that the explosion created. Once Sidious attacked her with a barrage of lightning, Maul pleaded with his mother to use his own life force to grow more powerful, but Talzin demanded that he retreat as she held off the Dark Lord's attacks. The witch used her powers to toss Maul from the fray and he was dragged away by Kast and another Death Watch warrior. As they fled, Maul watched as Grievous returned to fatally stab Talzin with his lightsabers.<ref name="Son of Dathomir, Part Four" />
+
+Maul fled from Dathomir, which was being [[Second battle of Dathomir|attacked]] by the Separatists. The Shadow Collective, meanwhile, had also been defeated by Separatist forces. In Sidious' [[eye]]s, despite Maul's escape, the former Sith Lord had been eliminated as a rival to the future Sith rule of the galaxy.<ref name="Son of Dathomir, Part Four" />
+
+====Losing Mandalore====
+{{Quote|Where's your army, Lady Tano?''"<br />"''Busy defeating yours.|Maul and Ahsoka Tano|Ahsoka (novel)}}
+After his time with the Shadow Collective, Maul and his loyal forces returned to Mandalore, where they remained in hiding for some time. During the final days of the Clone Wars, they found themselves under [[Siege of Mandalore|siege]] by a battalion of clone troopers led by Captain [[Rex]] and former Jedi Padawan [[Ahsoka Tano]]. During the siege, Maul briefly crossed lightsabers with Tano, mocking her as they fought, but was lured into a plaza, where the former Jedi's comrades trapped Maul in a [[ray shield]]. During the siege, however, Palpatine (who was revealed himself as Darth Sidious) initiated Order 66, causing Ahsoka’s clones (except for Rex who removed his control chip) to turn on her and Rex. Though Tano was given the opportunity to kill Maul, she instead chose to save Rex. As a result, Maul escaped once again.<ref name="Ahsoka">''[[Ahsoka (novel)|Ahsoka]]''</ref>
+
+===Age of the Empire===
+====Leading Crimson Dawn====
+{{Quote|Qi'ra... you and I will be working much more ''closely'' from now on.|Maul threatens Qi'ra after summoning her to Dathomir.|Solo: A Star Wars Story}}
+[[File:Solo-MaulHolo.jpeg|thumb|left|257x257px|Maul was contacted by Qi'ra after Dryden Vos was killed.]]
+Sometime after losing the Siege of Mandalore, Maul took up residence on Dathomir and became the shadowy leader of a criminal organization called [[Crimson Dawn]]. After the death of his underling, [[Dryden Vos]], Maul was contacted by [[Qi'ra]], who informed him that Vos had been betrayed and murdered by [[Tobias Beckett]] and [[Han Solo|his]] [[Chewbacca|associates]] before having his shipment of [[coaxium]] stolen while it was being refined on the desert planet [[Savareen]]. Irritated, Maul recalled Qi'ra to Dathomir where he said the two would decide how best to deal with Beckett and the other traitors. He then activated [[Maul's lightsaber|his new lightsaber]] and threatened Qi'ra, telling her that they would be working more closely from then on.<ref name="Solo" />
+
+====Escaping Malachor====
+{{Quote|So, the rumors are true; Darth Maul lives.''"<br />"''Formerly Darth, now just Maul.|The Seventh Sister and Maul facing off|Twilight of the Apprentice}}
+Sometime after the events on [[Savareen]], Maul traveled to Malachor in search of an ancient weapon located within the planet's Sith temple. However, his ship crashed, leaving him trapped there for years without contact from the wider galaxy. Three years before the [[Battle of Yavin]], an [[Inquisitorius|Inquisitor]] named the [[Eighth Brother]] tracked him down to Malachor. It was also at this time that Maul [[mission to Malachor|came in contact]] with [[Padawan|Jedi apprentice]] [[Ezra Bridger]], who he manipulated into helping him retrieve the [[Sith holocron]]. During their very brief time alone together, Maul also taught Ezra the ways of the dark side by preying upon the boy's passionate and aggressive tendencies.<ref name="Twilight">{{Rebels|Twilight of the Apprentice}}</ref>
+
+After retrieving the [[Sith holocron (Malachor)|Sith holocron]], Maul and Ezra used it as a key to reach the front of the temple, where they came across [[Jedi Knight]] [[Kanan Jarrus]] and Ahsoka Tano, who were members of [[Phoenix Cell]] from the nascent rebellion against the Empire and were in combat with Eighth Brother, [[Fifth Brother]], and [[Seventh Sister]]. While Tano and Jarrus were reluctant to trust Maul, with his help the three of them forced the Inquisitors to retreat. Maul had somehow learned of the Inquisitors' master&mdash;"the one they call 'Vader'"&mdash;and they felt to inform him of the most recent events. This meant that Vader would soon be here, and Maul said to the others that they must work together in order to defeat him.<ref name="Twilight" />
+
+[[File:The light and the dark.jpeg|thumb|right|260x260px|Maul and the [[Jedi]] rebels engaging the Inquisitors.]]
+Still unwilling to trust Maul, they only cooperated with him at the behest of Ezra, who remained adamant that Maul was on their side. With Maul's guidance, the rebels scaled the temple in an attempt to reach the top, where Maul claimed they could find the knowledge they sought to defeat the Sith. Along the way, Maul and Ezra engaged the Seventh Sister, with Maul able to subdue her in a [[Force choke]]. It was then that Maul implored Ezra to strike down the woman. Ezra hesitated, forcing Maul to finish off the Inquisitor himself. Maul scolded Ezra for his hesitation, warning him that it could cost him his life or the life of his friends in the future. Maul and Ezra continued on and met up with their other two companions, who were engaging the Fifth Brother and Eighth Brother in a lightsaber duel.<ref name="Twilight" />
+
+It was then that Maul sensed the presence of Vader, who was also approaching Malachor. He, however, dismissed his feeling to Ezra when the young Jedi asked him what was wrong. Maul then engaged the Inquisitors while Ezra continued on alone. Maul, with Ahsoka's assistance, slew the Fifth Brother, with Jarrus also managing to damage the Eight Brother's lightsaber. As the Eighth Brother attempted to escape using his weapon, it malfunctioned, and the Inquisitor fell to his death below.<ref name="Twilight" />
+
+====Betraying the Jedi====
+{{Quote|My apprentice is activating the temple, or more precisely, this battle station, which I shall use to exact my revenge on ALL my enemies!|Maul talking to Ahsoka Tano about Ezra activating the temple after striking down Kanan Jarrus.|Twilight of the Apprentice}}
+With all the Inquisitors dead and Ezra nearing the top, Maul then betrayed the Jedi, striking at Kanan and blinding him. With Kanan subdued, Maul engaged Tano and the two dueled briefly. It was then he revealed that the [[holocron]] was intended to power an ancient [[Malachor superweapon|superweapon]] and that Maul intended to make the young boy his apprentice. Tano left to confront Darth Vader as Kanan regained himself, with Tano claiming to the former Sith Lord he would have to face Kanan to get to her. Underestimating Kanan, Maul declared that he would finish off the Jedi quickly. However, using his other senses, amplified by the Force, Kanan easily caught Maul's arms and tripped him, where the Nightbrother fell from the Temple to the ground below.<ref name="Twilight" />
+
+Maul survived the fall and, using one of the fallen Inquisitor's [[TIE Advanced v1]], finally fled the [[planet]], smiling as he plotted his next move. His influence had a profound effect on Ezra, who drifted closer to the dark side.<ref name="Twilight" />
+
+===Quest to find Kenobi===
+====Capturing the ''Ghost'' crew====
+{{Quote|He lives! He lives!|Maul on finding out that Obi-Wan Kenobi is still alive|The Holocrons of Fate}}
+[[Standard month|Months]] later in [[2 BBY]], Maul resurfaced. Managing to board a [[Sphyrna-class corvette|''Sphyrna''-class corvettee]], Maul [[Torture|interrogated]] one of the rebels onboard, forcing him to reveal the location of the rebel [[VCX-100 light freighter|freighter]], and Ezra Bridger's home, the ''[[Ghost]]''. Shortly after, Bridger and Kanan Jarrus arrived at the transport and learned of the attack. Believing it to be the work of an Inquisitor, the pair contacted [[Hera Syndulla]], the ''Ghost''<nowiki>'</nowiki>s [[pilot]], and found out that Maul had taken her and the rest of the [[Spectres|crew]] hostage. In exchange for their friends lives, Maul demanded the Jedi give him both the Sith holocron and the Jedi holocron, to which they agreed.<ref name="THoF">{{Rebels|The Holocrons of Fate}}</ref>
+
+While Jarrus and Bridger returned to the planet [[Atollon]] to retrieve the Sith holocron, Maul softly demanded Syndulla give him a "tour" around the ''Ghost'', prompting [[Sabine Wren]] to implore her not to, to which Maul replied she should trust him, for he did once rule her people. Surveying each living quarter, Maul identified Jarrus' as the dull and dour one, befitting of a Jedi. Instructing Syndulla to reveal the location of the Jedi holocron, the Twi'lek told Maul that she didn't know anything about Jarrus. Knowing this to be a lie, Maul [[Mind probe (Force power)|probed]] her mind with the Force, and learned that it was Syndulla's idea to recruit Bridger, and that the boy once stole the holocron, which was being held in a compartment below Jarrus' bed.<ref name="THoF" />
+
+While Maul struggled to open the holocron, the ''Ghost''<nowiki>'</nowiki>s crew took the opportunity to escape. Managing to use their [[Stuncuffs|restraints]] to destroy the reprogrammed [[RIC-1200|tour guide droids]] guarding them, the rebels quietly moved down to the cargo hold, planning to [[magnet]]ize it in order to immobilize Maul's robotic legs. Discovering their absence, Maul went searching for the rebels and eventually made his way to the cargo hold. [[Second]]s later, the rebel crew's [[astromech droid]], [[C1-10P]], activated the magnets, causing Maul's legs to adhere to the vessel's ceiling. The rest of the rebels promptly rushed into the cargo hold and started firing at him, however Maul managed to deflect one of the bolts into the control interface, deactivating the magnets. Knocking the crew down with the Force, Maul became angry, threatening the rebels with death once their usefulness was over.<ref name="THoF" />
+
+[[File:The Holocrons of Fate Episode Guide.png|thumb|left|242x242px|Maul and Bridger combine the holocrons.]]
+Having already informed the Jedi of their rendezvous point, the Mandalorian asteroid outpost, Maul landed the ''Ghost'' in one of its [[hangar]]s and kept the rebel prisoners under the watch of his reprogrammed droids. When the Jedi arrived, they met with Maul in the hangar, where the Dathomirian instructed Bridger to follow his droids to the command center, while Jarrus came with Maul. Looking to succeed where he failed on Malachor, Maul led the Jedi to an [[airlock]] and pushed him in, proceeding to eject him into [[Realspace|space]]. Believing Jarrus to be dead, Maul went to meet Bridger, quietly instructing one of his droids to execute the rebel crew.<ref name="THoF" />
+
+Swapping holocrons, Maul and Bridger sat down on the floor and opened the devices, seeking to combine them and have their questions answered. After [[Holocron fusion|combining]] the holocrons, Bridger, who wanted to know the key to destroying the Sith, saw locations both familiar and unfamiliar, while Maul saw nothing. Shortly after, the ''Ghost'' crew, who had been freed by Jarrus after he managed to make his way back into the hangar, arrived at the command center, but were dazzled by the light coming from the holocrons. Bridger exclaimed that he saw "twin suns", and Jarrus implored his apprentice to look away, while Maul incited the Jedi to focus. Heeding his master's warning, Bridger closed his eyes, causing the energy from the holocrons to explode and giving Maul a chance to escape. As Maul proceeded back to his [[Nightbrother (Gauntlet fighter)|ship]], he realized what he had seen in the holocrons, repeating the phrase, "He lives."<ref name="THoF" />
+
+====Return to Dathomir====
+{{Quote|Our futures converge on a planet with two suns. We can walk that path together as friends, as brothers.|Maul to Ezra Bridger on their shared vision|Visions and Voices}}
+[[File:Visions and Voices thumb.png|thumb|right|261x261px|Maul shows the saber he used to kill Satine.]]
+Due to the ritual involving the two holocrons, Maul and Ezra became mentally linked. As a result, Maul was able to find [[Chopper Base]] on the planet Atollon. Using his mastery of the dark side, Maul tormented Ezra by causing the young Jedi to see and hear visions of him. On one occasion, Ezra even attacked and almost killed a rebel trooper whom he mistook for Maul. Later, he approached Ezra and Kanan in the wilderness while they were talking to a mysterious [[Force wielder]] called [[Bendu]], who served as a bridge between the light and dark sides of the Force. Despite Bendu's warnings not to turn around, Kanan and Ezra did so and found Maul watching them from the top of a dune.<ref name="Visions and Voices">{{Rebels|Visions and Voices}}</ref>
+
+After complimenting the two Jedi for their safe hiding place, Maul assured them that he had come in peace to talk with his "apprentice" Ezra. When Ezra demanded to know how Maul tracked him down, the Dark Sider replied that Ezra's abrupt severance of their connection to the holocrons caused them to see fragments of each other's visions and knowledge. Maul then added that he needed Ezra to come with him in order to retrieve the remaining fragments of the vision from his mind. When Kanan refused to negotiate with Maul, the Dark Sider threatened to activate a [[homing beacon]] that would alert the Empire to their presence in the event of his death.<ref name="Visions and Voices" />
+
+Maul then offered to show Ezra the knowledge on how to destroy the Sith. With Kanan's reluctant approval, Ezra complied with Maul's ultimatum and departed with Maul on the ''Nightbrother''. Maul then took his unwilling apprentice to his homeworld of Dathomir. Unknown to them, Kanan and Sabine had placed a tracker on Ezra's [[wrist comm]] and followed them there. Maul then took Ezra to the ruins of the [[Nightsister lair]] and explained that he was the last survivor of the Nightsisters. As Maul led Ezra into his cave dwelling, he explained that the only way to retrieve the information was to merge their minds again in a ritual.<ref name="Visions and Voices" />
+
+Maul had the cave filled with relics from his past including the Darksaber, a Mandalorian symbol of power. For the ritual, Maul and Ezra drank glasses of [[magick]] water which caused their eyes to turn green and shoot bright rays. As a result, Maul and Ezra discovered that his nemesis Obi-Wan Kenobi was hiding on a planet with [[Tatoo I|twin]] [[Tatoo II|suns]] and that Kenobi held the key to destroying the Sith. After completing the ritual, the two were confronted by Nightsister spirits that demanded that Maul and Ezra sacrifice their flesh and blood in return for the answers.<ref name="Visions and Voices" />
+
+At that point, Kanan and Sabine entered the cave and opened fire on the spirits. However, the spirits overwhelmed and possessed them. The possessed Kanan and Sabine then attacked Maul and Ezra. Maul was forced to parry with the possessed Kanan while Ezra was forced to dodge the possessed Sabine's blasts. Following a struggle, Maul and Ezra managed to reach the entrance of the cave. The Nightsister spirits were unable to leave because the altar was the source of their power. Having accomplished his objective, Maul then offered Ezra a place as his apprentice and claimed that their destiny was linked with the planet with the twin suns. However, Ezra refused to abandon his friends. Exasperated by the sympathy and compassion of the young man towards his friends, Maul told Ezra that he had disappointed him before leaving to find his old enemy, Obi-Wan Kenobi.<ref name="Visions and Voices" />
+
+====Final showdown====
+{{Quote|He will avenge us.|Maul's final words to Obi-Wan Kenobi, referencing Luke Skywalker|Twin Suns (episode)|Twin Suns}}
+[[File:Twin_suns.jpg|thumb|left|241x241px|Maul and Kenobi are ready.]]
+Maul eventually made his way towards Tatooine, using knowledge from the two holocrons months earlier in search of his old nemesis Obi-Wan Kenobi. Whilst searching for him in the desert wastes, Maul soon realized that he was lost. Exhausted from his search and contemplating the thought of dying in the desert, he collapsed into the sand and started screaming Kenobi's name in desperation. However, he soon found a renewed sense of determination and resumed his search for Kenobi. Knowing that he was unable to find his old enemy on his own, he planned to draw him out, using the matrix he had taken from the Sith holocron to reach out to his "apprentice", Ezra Bridger.<ref name="Twin Suns" />
+
+Bridger, inspired by the vision sent by Maul, [[Mission to Tatooine (Imperial Era)|travelled to Tatooine]] to prevent the former Sith Lord from killing Kenobi. The Jedi apprentice also hoped to recruit the old Jedi Master to join [[Alliance to Restore the Republic|the growing rebellion]]. Landing in a canyon at night, he discovered the fragment of the Sith holocron that Maul had planted as bait to lure him in. Deducing that it was a trap, he and his droid were suddenly ambushed by a band of [[Tusken Raider]]s, who attempted to kill Bridger. While the Tuskens failed to kill him, they did succeed in destroying the ship he arrived in. Shortly after Bridger was knocked unconscious by the explosion, Maul arrived and cut down all of the Tuskens before seemingly leaving Bridger alone.<ref name="Twin Suns" />
+
+Seeking a way offworld, Bridger and Chopper, who had stowed away on Bridger's ship, debated whether to follow the natural ridge lines of the canyons in the hope of finding a nearby settlement or crossing the vast desert in front of them. Maul appeared in an apparition and convinced Ezra to travel into the desert. Ezra and Chopper traveled into the desert but the two collapsed due to a sandstorm. A short while later, Bridger and Chopper were discovered by Kenobi, who was riding a [[dewback]]. Constructing a small campfire, Kenobi recharged Chopper with power from a portable light and tended to Bridger's wounds.<ref name="Twin Suns" />
+
+After Ezra awoke, Kenobi told the boy that Maul had manipulated Ezra into leading the former Sith Lord to Kenobi. At that moment, Maul arrived to settle the score with his old archenemy. Having led Maul to Kenobi, Bridger insisted on fighting the former Sith himself, but Kenobi commanded Ezra to return to his friends. After Ezra and Chopper left, Maul bid farewell to his "apprentice" and remarked on Kenobi's lackluster living conditions. He taunted his old rival by wondering aloud whether or not death would in fact be a mercy compared to Kenobi's lifestyle. But Kenobi was unperturbed, and responded by matter-of-factly stating that because Maul defined himself by his empty desires to dominate, kill, and possess, that he had nothing at all. Maul, stung by the verbal barb, ignited his lightsaber and struck the ground in front of Kenobi's small campfire, showering it with sand and snuffing it out. The former Sith Lord then began to speculate on what could have brought Kenobi to Tatooine, and deduced that he was there to protect something; or someone. He could see what was in Kenobi's thoughts: a [[Luke Skywalker|boy]].<ref name="Twin Suns" />
+
+Stirred to action by Maul's threat to his charge, Kenobi activated his lightsaber and assumed the Soresu ready stance. Maul in turn activated the second blade of his weapon and the two enemies locked gazes. Kenobi then switched his stance from Soresu to Ataru, and Maul recognized Kenobi's new stance as having belonged to Kenobi's old master Qui-Gon Jinn. He then charged Kenobi, and the adversaries exchanged two rapid strikes before Maul brought the hilt of his blade up to strike Kenobi's face; the same attack which had allowed him to kill Jinn decades earlier. However, Kenobi had been prepared for Maul's strategy and he brought his lightsaber down in an overhand strike as Maul initiated his attack. Kenobi's attack passed straight through the hilt of Maul's weapon,<ref name="Twin Suns" /> cleaving it in two and carving a lethal laceration into Maul's chest.<ref name="DBMaul" />
+[[File:Maul dies but for real this time.png|thumb|right|245x245px|Maul dies in Kenobi's arms.]]
+A shocked Maul looked down at his wound. Unlike last time, both ends of the lightsaber remained functional. He turned them off before dropping to one knee, but Kenobi caught him before he could fall to the ground and held him. With his last breath, Maul asked Kenobi whether or not the boy that he was guarding was the Chosen One. Kenobi confirmed that this was the case. Maul seemed to come to terms with his death, stating that the boy would avenge them. With that, Maul passed away, and as a final gesture of respect, Kenobi closed his eyes and laid him to rest.<ref name="Twin Suns" />
+
+Kenobi honored his old adversary by building him a funeral pyre, something he recalled shortly after becoming one with the Force.<ref name="Time of Death">{{Shortstory|story=Time of Death|book=From a Certain Point of View}}</ref>
+
+===Legacy===
+{{Quote|Do you ''feel'' that...? ...I feel... ''cold''...|Leia Organa senses remnants of Maul's dark power|Shattered Empire, Part III}}
+[[File:Remnants of Maul - SW Shattered Empire III.png|thumb|left|220x220px|Leia Organa, sensing the remnants of Maul.]]
+Maul's ship, the ''Nightbrother'', was then taken by Ezra and Chopper back to Chopper Base as a new rebel vehicle for the Alliance. It was key in the [[Battle of Atollon]], in which Ezra and Sabine used it to transport members of [[Clan Wren]] to take down an [[Imperial Interdictor]] and allow the Rebels to escape [[Grand Admiral]] [[Mitth'raw'nuruodo|Thrawn's]] blockade.<ref name="Zero Hour">{{Rebels|Zero Hour}}</ref>
+
+By [[0 ABY]], Darth Sidious did not think much of Maul. However, he considered his first apprentice to be a "loss" while compared to Darth Tyranus, who was labelled both as a "proton torpedo" and a "''necessary'' loss."<ref name="EoG 1">''[[Darth Vader 20: End of Games, Part I]]''</ref><ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+
+Twenty-three years after the [[Mission to Mustafar|end]] of the Clone Wars, Palpatine's [[Galactic Empire]] was overthrown by the Alliance to Restore the Republic and the last Jedi Knight in the galaxy: Luke Skywalker,<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref> the son of Anakin Skywalker and Padmé Amidala.<ref name="Episode III" /> Luke's [[twin]] sister, [[Prince]]ss [[Leia Organa]], [[Battle of Naboo (Galactic Civil War)|traveled]] to Naboo shortly before [[Operation: Cinder]], which forced her, the [[Sosha Soruna|queen]], and her escort [[Shara Bey]] to reopen the Theed Royal Palace hangar<ref name="Shattered Empire 3">''[[Shattered Empire, Part III]]''</ref>&mdash;where Maul dueled Qui-Gon Jinn and Obi-Wan Kenobi over three decades earlier<ref name="Episode I" />&mdash;in order to access starfighters. When she entered, Organa felt, through the Force, remnants of Maul's dark power, feeling physically cold because of it.<ref name="Shattered Empire 3" />
+
+Darth Maul was remembered long after the Clone Wars and even after the [[Galactic Civil War]], and was mentioned by name by a [[Second Whill (From a Certain Point of View)|member]] of the [[Whills (community)|Whills]] as someone to be remembered in [[Timeline of galactic history|galactic history]] years after the [[Battle of Endor]].<ref name="Whills">{{Shortstory|story=Whills|book=From a Certain Point of View}}</ref>
+
+==Personality and traits==
+{{Quote|If you define yourself by your power to take life, a desire to dominate, to possess, then you have nothing.|Obi-Wan Kenobi, to Maul|Twin Suns (episode)}}
+[[File:Maul SWDL.png|thumb|right|Maul, at the time of the Rebellion.|269x269px]]
+Darth Maul's life and motivations were based around revenge. As a Sith apprentice, Maul sought revenge against the Jedi for their triumph over the Sith, and wanted to return the Sith to power over the galaxy.<ref name="swe-Maul" /> After his exile and the restoration of his mind, Maul turned his thoughts of revenge towards the galaxy, declaring himself and his brother the true Sith Lords;<ref name="Eminence" /> and especially towards Obi-Wan Kenobi, after the Jedi defeated him and forced him into exile after their duel on Naboo. He felt the vacuum from losing power, having known about the Clone Wars and intending to be part of it, only to learn that the Sith plans moved on without him. Maul was therefore willing to go to great lengths to achieve his vengeance, including slaughtering civilians and thrusting Mandalore into civil war to gain power and draw Kenobi out into the open.<ref name="Revenge" /><ref name="The Lawless" /> He knew the Jedi would not ignore a call for help.<ref name="Revenge" />
+
+During his exile, Maul's mind was shattered. He became obsessed with revenge,<ref name="Brothers" /> fueled and kept alive only by his hatred for Kenobi,<ref name="Revenge" /> despite losing his mind and many memories. His aggression and fear increased in his crazed condition, as Maul attacked Opress when he first encountered his brother on Lotho Minor.<ref name="Brothers" /> It required magic from Mother Talzin to restore his mind, bringing him clarity again while still preserving his desire to seek revenge against those who had wronged him.<ref name="Revenge" /> Maul’s personality was still deeply affected by his isolation and defeat by Kenobi. After his restoration, he lost much of his taciturn bearing and was prone to outbursts of anger and frustration whenever Kenobi came to mind.<ref name="Eminence" /> However, he regained enough of his discipline to keep his brother Opress in line.<ref name="Revival" />
+[[File:DarthMaulTCW-IGN.jpg|left|thumb|217x217px|Maul, at the time of the Clone Wars.]]
+Maul's power made him crave dominance over the Sith and the galaxy, though he did not believe himself strong enough to take on his old mentor, Darth Sidious. It appeared that Sidious was the only being in the galaxy Maul ever feared, not only for his power, but also his sadistic nature. Still, Maul had enough courage to take on his former master in open combat alone, as though he had nothing left to lose.<ref name="The Lawless" /> And he would not break to either of Sidious and Darth Tyranus' torture sessions while incarcerated on Mandalore.<ref name="Son of Dathomir, Part One" />
+
+Despite his ruthless and vindictive nature, Maul was not completely heartless. He showed genuine care for his brother, Savage Opress, and their mother, the Dathomir Witch Mother Talzin. Though Maul didn't always get along with Opress, they did genuinely care about each other; when Opress was killed by Sidious, Maul was grief-stricken and briefly [[Mourning|mourned]] him before flying into a rage and attempting to avenge him.<ref name="The Lawless" /> Maul was extremely loyal to his mother and reciprocated her loving and protective affection for him. Even when cornered by Sidious and his minions, he refused to leave her behind and was devastated by her death.<ref name="Son of Dathomir, Part Four" />
+[[File:DarthScorpionKing-SWE.png|thumb|214x214px|Maul on [[Lotho Minor]].]]
+Even after many years, Maul still held an extremely bitter grudge against Sidious and all those who served him for taking everything he cared about from him. He also developed a slight fondness for Ezra Bridger, seeing great potential in the boy's abilities, desiring him as an apprentice, and even saving his life twice. However, he sought entirely to manipulate Bridger and use him to further his own agenda, and attempted to kill Kanan Jarrus on two occasions in order to be free of the Jedi's influence in attempting to do so.<ref name="Twilight" />
+
+While still practicing their beliefs, Maul disassociated himself from the Sith, mainly due to the Order's association with Sidious. Cunning and deceptive, Maul was perfectly willing to feign weakness to accomplish his purposes, or even side with the Jedi if necessary. He was not above taunting such "allies," as evidenced by his calling Ahsoka "Lady Tano" and "a part-timer" in mockery of her departure from the Jedi Order<ref name="Twilight" /> as well as referring to Jarrus as "Master Jedi."<ref name="THoF" />
+
+Desiring hope, Maul kidnapped Bridger and Jarrus' rebel companions in a successful effort to force them to surrender the Sith holocron from Malachor and Kanan's [[Kanan Jarrus' holocron|Jedi holocron]]. He wanted to merge the holocrons in order to create clarity of vision. Maul also hoped to take Ezra as his apprentice. Despite his promise to Bridger that he would not harm his friends, Maul secretly made an attempt on Jarrus's life and ordered his droids to execute the other Spectres in an attempt to claim Bridger as his apprentice. Despite Jarrus convincing Bridger to close his eyes and stop the vision, Maul nonetheless learned that his old enemy Obi-Wan Kenobi was still alive.<ref name="THoF" />
+
+Maul's still burning desire for vengeance against Kenobi led him to use his mastery of the dark side to torment Bridger in an effort to gain his attention. While Maul was aware of the high price of Nightsister magic, his desire to learn Kenobi's location led him to risk the wrath of these spirits. Due to their revelations, Maul came to believe that his destiny was linked to finding and killing Kenobi on Tatooine. Maul regarded Bridger as an excellent candidate to be his apprentice. However, Bridger's attachment and loyalty to his friends angered Maul, who chastised his desired apprentice as a "disappointment" for refusing to break the chains of the past.<ref name="Visions and Voices" />
+
+Later, Maul's vendetta towards Kenobi led him to use his mastery of the Force to lure Bridger to Tatooine. Maul was willing to manipulate Bridger to serve his own aims and goals. Despite his hatred for Kenobi, he was able to reconcile with his adversary in his last moments. Maul passed away with the belief that Kenobi was protecting the Chosen One who would restore balance to the Force by destroying the Sith.<ref name="Twin Suns" />
+
+==Powers and abilities==
+{{Quote|You have been well trained, my young apprentice. They will be no match for you.|Darth Sidious orders Darth Maul to move against the Jedi during the war on Naboo|Star Wars: Episode I The Phantom Menace}}
+===Lightsaber skills===
+[[File:Darth_Maul_Lightsaber_DB.png|thumb|left|253x253px|Darth Maul's double-bladed lightsaber.]]
+As the apprentice of Darth Sidious, Maul was trained to be a weapon of the Sith, one intended to help Sidious bring about the destruction of the Jedi and take over the galaxy. He became an acrobatic and extremely skillful warrior, one who could relentlessly pursue his enemies while utilizing his double-bladed lightsaber.<ref name="swe-Maul" /> Indeed, Maul had been trained in several forms of [[lightsaber combat]]. During his duel on Naboo against Jinn and Kenobi, he demonstrated the ability to fight both the Jedi Master and his apprentice simultaneously on equal grounds as well as overpower Kenobi after he killed Jinn. Though Kenobi managed to defeat Maul, this was due to Maul's own hubris and neglect for the fallen Jinn's lightsaber.<ref name="Episode I" /> He later outmatched Kenobi in a number of encounters after emerging from exile, including the fight over Raydonia,<ref name="Revenge" /> though their duel on Florrum ended in stalemate.<ref name="Revival" />
+
+Maul was extremely skilled in unarmed combat, which he often integrated into his fighting style.<ref name="Episode I" /><ref name="The Lawless" /><ref name="Twilight" /> This was most notable when he defeated an armed Pre Vizla with little to no assistance from the Force.<ref name="SoR" />
+
+Maul also displayed considerable skill in [[Jar'Kai]], holding his own against Jinn and Kenobi simultaneously on Naboo before splitting them up.<ref name="Episode I" /> He even managed to put up a reasonable fight against Darth Sidious on Mandalore when they dueled with dual-blades, going as far as landing a kick on the Dark Lord.<ref name="The Lawless" /> After the Clone Wars, Maul demonstrated the ability to wield an additional weapon alongside his double-bladed lightsaber, on one occasion using a walking stick as a club in conjunction with his connected blades.<ref name="Twilight" />
+
+Maul could destroy numerous enemies, including Banking Clan droid guards, pirates,<ref name="Revival" /> Hutt Clan forces,<ref name="Eminence" /> hordes of Separatist battle droids and four of General Grievous' MagnaGuards.<ref name="Son of Dathomir, Part One" /> He was also able to hold his own against Mace Windu and Aayla Secura on a Mandalorian supply outpost, the elder Jedi being a long term member of the [[Jedi High Council|High Council]]; this was a fight that Maul deemed "fair."<ref name="Son of Dathomir, Part Three" /> He successfully overpowered the infamous [[Jedi hunter]] General Grievous; though he fought to a stalemate with the cyborg in their first duel,<ref name="Son of Dathomir, Part One" /> he was able to overwhelm him in their second and third encounters.<ref name="Son of Dathomir, Part Two" /><ref name="Son of Dathomir, Part Four" />
+[[File:Maul_lightsaber.png|thumb|right|224x224px|Maul's cane-disguised lightsaber.]]
+Over a decade later, Maul's fighting prowess was still as sharp as ever. While on Malachor, he managed to engage three Inquisitors in a lightsaber duel almost simultaneously. While he initially had the upper-hand, he was eventually pressured by their combined assault and only saved by the timely intervention of Ahsoka Tano and Kanan Jarrus; however, he did not seem the least bit worried, which may indicate that he was holding back against the Inquisitors as part of his plan. After betraying the Jedi group and blinding Kanan, he also briefly dueled Ahsoka. The two fought for a short while until Ahsoka broke off the fight to rescue Ezra Bridger from Darth Vader, leaving Kanan to deal with Maul instead. Even though the recently blinded Kanan was able to anticipate Maul's footsteps through the Force and push him from a precipice,<ref name="Twilight" /> it did not necessarily mean the Zabrak had been defeated.<ref name="Twilight Episode Gallery">{{SW|url=tv-shows/star-wars-rebels/twilight-of-the-apprentice-episode-gallery-2|text=Twilight of the Apprentice Episode Gallery}}</ref>
+
+Despite his dueling skills, Maul was no match for Darth Sidious even alongside his brother Savage Opress, and though he pressed Sidious on his back foot, he was disarmed before being manhandled by the elder Sith Lord's Force powers.<ref name="The Lawless" /> He openly stated his belief that he could not defeat Darth Vader&mdash;an enemy unknown to him&mdash;by himself,<ref name="Twilight" /> and his final encounter with Kenobi lasted mere seconds before he was killed. In that latter duel, however, Maul may have lost due to fatigue from constant traveling in the Tatooine desert, whereas Kenobi was rested and fresh.<ref name="Twin Suns" />
+
+Unlike the Inquisitorius, whose [[Double-bladed spinning lightsaber|lightsabers]] could rotate,<ref name="Twilight" /> and General Grievous, whose split arms were able to spin with a weapon in each hand,<ref name="Lair of Grievous">{{TCW|Lair of Grievous}}</ref> Maul had the ability to twirl a double-bladed lightsaber with the use of only one hand. A great deal of dexterity and practice would have been required for such a feat.<ref name="Twin Suns" /><ref name="Darth Maul 5" />
+
+===Force powers===
+In addition to his exceptional skills with a lightsaber, Maul proved to be very strong with the Force, strong enough to survive being cut in half.<ref name="Brothers" /> This, in Maul's belief, had been due to his hatred and Sidious' training.<ref name="Revenge" /><ref name="The Lawless" />
+
+[[File:Maul SASWS Forbes Promo full.png|left|thumb|314x314px|Maul, former Sith Lord and leader of Crimson Dawn]]
+During a skirmish on Florrum, Maul used a powerful [[Force push]] to blast Obi-Wan Kenobi over a long distance and later telekinetically dragged an [[Eta-class shuttle|''Eta''-class shuttle]] from a plateau to cut his and his brother's pursuers off.<ref name="Revival" /> During his time on Mandalore, he was able to [[Force choke]] Satine Kryze to the point where he could hold her in midair without a hand gesture, a testament to his continued development.<ref name="The Lawless" /> During the Battle of Zanbar, he unleashed a massive Force Wave capable of sweeping away many battle droids.<ref name="Son of Dathomir, Part One" /> Over a decade later, Maul told Ezra Bridger that his advanced age had diminished his abilities. However, this was later revealed to have been a deception meant to gain the boy's trust. Indeed, Maul had been able to Force Grip the Seventh Sister against her active resistance while simultaneously killing her with a Saber Throw.<ref name="Twilight" />
+
+Maul was also skilled in mind probing, as shown when he used the power on Hera to find the location of Kanan Jarrus' Jedi holocron and his true identity;<ref name="THoF" /> he had even succeeded in using the technique on Obi-Wan Kenobi prior to their final duel, discovering the existence of Luke Skywalker.<ref name="Twin Suns" /> It is not improbable that he employed it on Ahsoka Tano, learning much about her past,<ref name="Ahsoka" /> and it was likely that he probed the minds of the Inquisitors to decipher their intentions and the name of their master.<ref name="Twilight" /> Maul was also familiar with the magick practices of the Nightsisters, including a scrying spell which involved two people sharing a potion of [[magical ichor]].<ref name="Visions and Voices" /> He was able to manipulate the [[Force-bond]] he gained with Ezra Bridger as a result of holocron fusion to cause the young Jedi to hallucinate. He also used the fragment of a Sith holocron to activate Kanan's Jedi holocron and the Malachor Sith holocron as part of a plot to trick Ezra into luring Kenobi out of hiding.<ref name="Twin Suns" />
+
+Even so, Maul's Force powers were still significantly outclassed by those of Sidious, as the Dark Lord was able to telekinetically pin both him and Opress to a wall with no visible effort.<ref name="The Lawless" /> But, as Maul had grown more powerful,<ref name="Revival" /> Sidious nonetheless considered him to be a rival.<ref name="The Lawless" /> Darth Tyranus evidently thought rather highly of Maul, as he at one time referred to his predecessor as a great Sith Lord.<ref name="Monster">{{TCW|Monster}}</ref> Obi-Wan Kenobi, prior to his and Maul's final duel, said that his old enemy had the power to "alter the course of many things," which would indicate Maul's vast knowledge of the dark side.<ref name="Twin Suns" />
+
+===Other abilities===
+Maul was a capable manipulator and a skilled military and political strategist as demonstrated by, amongst other achievements, managing to form the Shadow Collective in a very short amount of time and use it to conquer Mandalore.<ref name="Eminence" /> He had enough cunning to trick and capture both General Grievous and Darth Tyranus in a single stroke.<ref name="Son of Dathomir, Part Two" /> Earlier on, Maul must have surveyed the Theed power generator on Naboo before his Jedi adversaries arrived, thus setting a trap for them.<ref name="Episode I" />
+
+After being rescued by Death Watch, Maul said that he had become "indifferent to pain." This would suggest a high pain threshold.<ref name="Son of Dathomir, Part One" /> Maul was highly skilled in espionage, tracking, and surveillance, primarily acting as a covert operative during his apprenticeship. Maul was extremely skilled in unarmed combat, defeating multiple opponents single handedly through martial arts alone.
+
+==Behind the scenes==
+{{Quote|George Lucas had described Darth Maul as a figure from your worst nightmare. So... I drew George my worst nightmare.|Iain McCaig, describing how he designed Darth Maul|url=http://web.archive.org/web/20080611111613/http://www.starwars.com/episode-i/bts/design/f20000228/index.html}}
+Darth Maul first appeared in [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']], where he was played by actor and martial artist [[Ray Park]]. The character was a presence throughout the film, but only spoke three lines in total&mdash;all of which were voiced by actor [[Peter Serafinowicz]].<ref name="Episode I" /> For the character's appearances in the animated television series ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' and ''[[Star Wars Rebels]]'', he was voiced by actor [[Sam Witwer]].<ref name="Brothers" /> For Maul's cameo in ''[[Solo: A Star Wars Story]]'', Park reprised the role, and Witwer provided the character's voice.<ref name="Solo" /> The ''Solo'' script only specified a "Boss" character; Director [[Ron Howard]] chose Maul from a list of possible candidates.<ref>{{Cite web|url=http://www.slashfilm.com/solo-reveal-explained/|title=The Secrets Behind That Big Reveal in 'Solo: A Star Wars Story' Explained by the Filmmakers|publisher=slashfilm.com|last=Sciretta|first=Peter|date=May 29, 2018}}</ref>
+
+[[File:SithWitch.jpg|thumb|right|221x221px|An early concept design for Darth Maul, straight out of Iain McCaig's nightmares.]]
+For ''The Phantom Menace'', the character was designed by concept designer [[Iain McCaig]], who felt that designing a new ''[[Star Wars]]'' villain was a daunting task. He recalled [[George Lucas]] describing Maul as "a figure from your worst nightmare," so McCaig thought about his worst nightmares and then used those to design an initial look for the character. McCaig described his worst nightmare as a lifeless face pressed against a window in a thunderstorm, a dead yet alive figure who stares at him through the rain. McCaig used that as the first design, adding metal teeth and blood-red ribbons falling on it rather than rain. Lucas apparently felt it was too intense, saying "Okay. Now draw me your second worst nightmare..."<ref name="DesigningSithLord">{{SWArchive|url=episode-i/bts/design/f20000228/index.html|text=Designing a Sith Lord}}</ref>
+
+McCaig spent much of the three-year pre-production time drawing masks, attempting to design something similar to [[Ralph McQuarrie]]'s original design for Darth Vader from [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]. Eventually, however, he felt he was on the wrong track. He ended up finding his stride when he drew members of the Episode I Art Department as Sith Lords, using their personalities and faces to design characters. At one point, McCaig used a circuit board as a face, a design that intrigued Lucas. Lucas also liked a concept based on production photographer Greg Gawlowski.<ref name="DesigningSithLord" />
+
+[[File:Darth Maul Concept Art.jpg|thumb|left|221x221px|Maul's final concept art.]]
+Darth Maul's design went through a number of other variations until McCaig created a series of Rorschach designs by creating splattered ink patterns, which led to the tattooed look of Darth Maul. McCaig wanted to soften the look of the character, at one point adding feathers the top of Darth Maul's head. McCaig saw these feathers are being part of the Sith Lord's personality; "every morning I imagined Darth Maul would get up and bind his head with this piano wire, and that the feathers had to end up at the right points&mdash;it was just a part of the focusing of the Sith." These feathers were interpreted as horns, however, which became part of the final design.<ref name="DesigningSithLord" />
+
+With the face of the character completed, McCaig also designed Maul's costume. Originally, Maul wore a large muscle suit, "making him larger than life," with Batman-like spikes on his neck. That costume made it through most of the storyboarding process, until McCaig changed the costume and made it smaller after Lucas talked about an acrobatic lightsaber duel. The costume was therefore made smaller, resulting in the Sith robes Maul wore in ''The Phantom Menace''.<ref name="DesigningSithLord" />
+
+For his return in ''The Clone Wars'', actor Sam Witwer knew that Maul was a popular character and felt a responsibility to get it right and respect the character's iconic status. He described Maul as broken, and attempted to convey a shattered mind through his acting. One way of doing so was to quote the [[Code of the Sith]] from the [[Star Wars Legends|Expanded Universe]], part of which made it into the episode.<ref name="SamWitwerYouTube">[https://www.youtube.com/watch?v=5YaxY_6Wb5w Sam Witwer discusses voicing Darth Maul on Star Wars: The Clone Wars] on [http://www.youtube.com YouTube]</ref> The character's design on the show was very similar to his look in ''The Phantom Menace'', and the animators used the designing of the character as an opportunity to improve animation on the series. Because the character's appearances required him to show emotion such as anger and hatred using only facial expressions, the animators spent time improving the modelling process so they were able to achieve better expressions.<ref name="Explore: Revenge">{{SW|url=explore/the-clone-wars/ep422/#!/about|text="Revenge" - ''The Clone Wars'' Episode Guide}}</ref>
+
+Because Maul had been cut in half in ''The Phantom Menace'', he required a new set of cybernetic legs for ''The Clone Wars''. The cyborg form of Darth Maul had previously been created by [[Industrial Light & Magic]] concept artist [[Aaron McBride]] for the [[Infinities]] graphic novel ''[[Star Wars: Visionaries]]''.<ref name="Explore: Revenge" />
+
+To prevent leaks about Maul's appearance as the true leader of Crimson Dawn in the [[2018]] [[Star Wars Anthology Series|''Star Wars'' Anthology]] film ''[[Solo: A Star Wars Story]]'', he went unnamed in the script, even causing some of the filmmakers to think the decision of who was Crimson Dawn's leader was still undecided.<ref name="Jon's Tweet 1">{{Twitter|JonKasdan|status/1064690494964416512|[[Jon Kasdan]]|quote=However,  because of a notorious leak on Ep. 7 involving the opening image of Luke's severed hand & saber floating through space, Maul was NEVER identified by name in the script & was only discussed in whispers. Thus, people, even some of the filmmakers, thought it was undecided.}}</ref> Prior to Maul's selection, the first draft of the film's script had Dryden Vos as Crimson Dawn's second-in-command with a [[Wikipedia:Hume Cronyn|Hume Cronyn-esque]] genial but ruthless character known as [[the Kazier]].<ref name="Jon's Tweet 2">{{Twitter|JonKasdan|status/1064689594376093701|[[Jon Kasdan]]|quote=Not exactly true. In the 1st draft, Dryden was second-in-command, a sort of Tom Hagen, to a character called The Kazier, a genial but ruthless Hume Cronyn-type who'd replaced his right hand w/ a teched-out rococo key. When that character went out, Dryden's superior became Maul.}}</ref>
+
+==Appearances==
+{{Scroll box|content=
+*''[[Star Wars: Force Arena]]''
+*{{Shortstory|story=Darth Maul and the Rathtars|book=Galactic Adventures Storybook Collection}}
+*''[[Darth Maul, Part I]]''
+*''[[Darth Maul, Part II]]''
+*''[[Darth Maul, Part III]]''
+*''[[Darth Maul, Part IV]]''
+*''[[Darth Maul, Part V]]''
+*''[[Age of Republic: Darth Maul 1]]''
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*[[The Phantom Menace (Golden Book)|''The Phantom Menace'' Golden Book]]
+*''[[The Phantom Menace Read-Along Storybook and CD]]''
+*''[[Star Wars Journeys: The Phantom Menace]]''
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars Battlefront II]]''
+*{{Shortstory|story=Probe Droid Problem|book=Darth Maul, Part I}}
+*''[[Obi-Wan & Anakin, Part I]]'' {{C|Appears in [[hologram]] in flashback(s)}}
+*{{TCW|Monster}} {{Mo}}
+*{{TCW|Witches of the Mist}} {{C|Appears in [[Nightsister crystal ball|crystal ball]] only}}
+*{{TCW|Brothers}}
+*{{TCW|Revenge (episode)|Revenge}}
+*{{TCW|Revival (episode)|Revival}}
+*{{TCW|Eminence (episode)|Eminence}}
+*{{TCW|Shades of Reason}}
+*{{TCW|The Lawless}}
+*''[[Darth Maul—Son of Dathomir, Part One]]''
+*''[[Darth Maul—Son of Dathomir, Part Two]]''
+*''[[Darth Maul—Son of Dathomir, Part Three]]''
+*''[[Darth Maul—Son of Dathomir, Part Four]]''
+*''[[Darth Vader: Dark Lord of the Sith 14: Burning Seas, Part II]]'' {{Mo}} {{C|In Aurebesh text}}
+*''[[Ahsoka (novel)|Ahsoka]]'' {{Flash}}
+*''[[Star Wars 15: From the Journals of Old Ben Kenobi]]'' {{Mo}}
+*''[[Solo: A Star Wars Story]]'' {{Hologram}}
+*''[[Solo: A Star Wars Story: Expanded Edition]]'' {{Hologram}}
+*{{Rebels|Twilight of the Apprentice}}
+*{{Rebels|The Holocrons of Fate}}
+*{{Rebels|Visions and Voices}}
+*{{Rebels|Trials of the Darksaber}} {{Mo}}
+*{{Rebels|Legacy of Mandalore}} {{Mo}}
+*{{Rebels|Twin Suns (episode)|Twin Suns}}
+*{{Shortstory|story=Time of Death|book=From a Certain Point of View}} {{Mo}}
+*''[[Darth Vader 20: End of Games, Part I]]'' {{Mo}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]'' {{Mo}}
+*''[[Shattered Empire, Part III]]'' {{Vision|Leia Organa}}
+*{{IDWAdventuresCite|Ashcan|}} {{Flash}}
+*{{Shortstory|story=Whills|book=From a Certain Point of View}} {{Mo}}}}
+
+===Non-canon appearances===
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+*''[[Disney Infinity 3.0]]''
+*''[[Star Wars: Galaxy of Heroes]]''
+*''[[Jedi Training Academy]]''
+*{{Droid Tales|Exit from Endor}} {{Flash}}
+*''[[LEGO Star Wars: Droid Tales Episodes I-III]]'' {{Flash}}
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+{{Scroll_box|content=
+*{{SWE|characters|amis|Amis}}
+*{{SWE|characters|darthmaul|Darth Maul}}
+*{{SWE|characters|darthsidiousl|Darth Sidious}}
+*{{SWE|technology|firebreather|Fire-Breather}}
+*{{SWE|groups|junkers|Junkers}}
+*{{SWE|locations|lothominor|Lotho Minor}}
+*{{SWE|characters|morley|Morley}}
+*{{SWE|characters|mothertalzin|Mother Talzin}}
+*{{SWE|groups|nightsisters|Nightsisters}}
+*{{SWE|characters|quigonjinn|Qui-Gon Jinn}}
+*{{SWE|characters|savageopress|Savage Opress}}
+*{{SWE|groups|sith|Sith}}
+*{{SWE|technology|sithinfiltrator|Sith Infiltrator}}
+*{{SWE|technology|sithprobedroid|Sith probe droid}}
+*{{SWE|technology|sithspeeder|Sith Speeder}}
+*{{SWE|groups|pykes|The Pykes}}
+*{{SWE|technology|turtletanker|Turtle Tanker}}
+*{{SWE|groups|weequaypirates|Weequay pirates}}
+*{{InsiderCite|150|Insider Looks Back}}
+*{{SW|url=explore/the-movies/episode-i|text=Star Wars Episode I: The Phantom Menace|int=|org=}}
+*{{SW|url=explore/the-clone-wars/ep314|text=Witches of the Mist|int=|org=}}
+*{{SW|url=explore/the-clone-wars/ep421|text=Brothers|int=|org=}}
+*{{SW|url=explore/the-clone-wars/ep422|text=Revenge|int=|org=}}
+*{{SW|url=explore/the-clone-wars/ep501|text=Revival|int=|org=}}
+*{{SW|url=explore/the-clone-wars/ep514|text=Eminence|int=|org=}}
+*{{SW|url=explore/the-clone-wars/ep515|text=Shades of Reason|int=|org=}}
+*{{SW|url=explore/the-clone-wars/ep516|text=The Lawless|int=|org=}}
+*{{SW|url=news/to-fans-of-star-wars-the-clone-wars-thank-you|text=To Fans of ''Star Wars: The Clone Wars'': Thank You|archiveurl=http://archive.li/Z9kSy}}
+*{{SW|url=video/star-wars-rebels-meet-the-inquisitor-the-empire-s-jedi-hunter|text=Star Wars Rebels: Meet the Inquisitor, the Empire's Jedi Hunter}}
+*{{SW|url=news/star-wars-comics-preview-may-21-2014|text=''Star Wars'' Comics Preview: May 21, 2014}}
+*''[[Star Wars Rebels: The Visual Guide]]''
+*{{InsiderCite|151|Blaster (Star Wars Insider)|Blaster}}
+*''[[Ultimate Star Wars]]''
+*{{SW|url=news/sdcc-2014-star-wars-a-new-dawn-panel-liveblog|text=SDCC 2014: ''Star Wars: A New Dawn'' Panel &ndash; Liveblog}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Ships of the Galaxy]]''
+*{{SW|url=video/star-wars-rebels-season-two-mid-season-trailer|text=Star Wars Rebels Season Two - Mid-Season Trailer}}
+*{{SW|url=video/star-wars-rebels-old-master|text=Star Wars Rebels: "Old Master"}}
+*{{cite web|url=http://www.ew.com/article/2016/03/24/darth-maul-returns-star-wars-rebels|title=''Star Wars: Rebels'' resurrects a familiar old foe|text=Entertainment Weekly|date=2016-03-24|first=Anthony|last=Breznican|accessdate=2016-03-24}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*{{SW|url=news/darth-maul-the-story-of-an-apprentice|text=Darth Maul: The Story of an Apprentice}}
+*''[[Star Wars: ABC-3PO]]''
+*{{InsiderCite|168|Zabrak Again!}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Princess Leia: Royal Rebel]]''
+*''[[Darth Vader: Sith Lord]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Lightsaber Battles]]''
+*''[[Dawn of Rebellion]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|adi-gallia|Adi Gallia|archivedate=20170706043936}}
+*{{Databank|anakin-skywalker|Anakin Skywalker|archivedate=20170706054025}}
+*{{Databank|brother-viscus|Brother Viscus|archivedate=20170309232238}}
+*{{Databank|darksaber|Darksaber|archivedate=20170710035845}}
+*{{Databank|darth-maul|Darth Maul|archivedate=20170710180356}}
+*{{Databank|darth-mauls-lightsaber|Darth Maul's Lightsaber|archivedate=20170815093800}}
+*{{Databank|death-watch|Death Watch|archivedate=20170706053752}}
+*{{Databank|eighth-brother-inquisitor|Eighth Brother Inquisitor|archivedate=20170625104816}}
+*{{Databank|gar-saxon|Gar Saxon|archivedate=20170708194335}}
+*{{Databank|hondo-ohnaka|Hondo Ohnaka|archivedate=20170802141131}}
+*{{Databank|jiro|Jiro}}
+*{{Databank|lightsaber|Lightsaber}}
+*{{Databank|lom-pyke|Lom Pyke}}
+*{{Databank|mandalore|Mandalore}}
+*{{Databank|mandalorian-super-commando|Mandalorian Super Commado}}
+*{{Databank|marrok|Marrok}}
+*{{Databank|mother-talzin|Mother Talzin}}
+*{{Databank|nightbrothers|Nightbrothers}}
+*{{Databank|nightsister-crystal-ball|Nightsaber Crystal Ball}}
+*{{Databank|palpatines-lightsaber|Palpatine's lightsaber}}
+*{{Databank|prime-minister-almec|Prime Minister Almec}}
+*{{Databank|qui-gons-lightsaber|Qui-Gon's lightsaber}}
+*{{Databank|obi-wan-kenobis-lightsaber|Obi-Wan Kenobi's Lightsaber}}
+*{{Databank|raydonia|Raydonia}}
+*{{Databank|savage-opress|Savage Opress}}
+*{{Databank|shadow-collective|Shadow Collective}}
+*{{Databank|sith|Sith}}
+*{{Databank|sith-infiltrator|Sith Infiltrator}}
+*{{Databank|sith-probe-droid|Sith Probe Droid}}
+*{{Databank|sith-speeder|Sith Speeder}}
+*{{Databank|stygeon-prime|Stygeon Prime}}
+*{{Databank|the-nightbrother|The Nightbrother}}
+*{{Databank|the-spire|The Spire}}
+*{{Databank|tiplee|Tiplee}}
+*{{Databank|vizsla-keep-09|Vizsla Keep 09|archivedate=20170806171133}}
+*{{Databank|xomit-grunseit|Xomit Grunseit|archivedate=20151231220215}}
+*{{Databank|yoda|Yoda|archivedate=20140703043000}}
+*{{Databank|zanbar|Zanbar}}
+*{{Databank|ziton-moj|Ziton Moj|archivedate=20170626183849}}}}
+
+{{Start box}}
+{{Succession_box
+|title=[[Dark Lord of the Sith]] with [[Darth Sidious]]<ref name="Episode I" />
+|years=Prior to the [[Invasion of Naboo]]<ref name="maul-marvel-mini-1" />&ndash;[[32 BBY]]<ref name="Episode I" />
+|before=[[Darth Plagueis]] with [[Darth Sidious]]
+|before-years=
+|after=[[Darth Sidious]] with [[Dooku|Darth Tyranus]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|after-years=c. [[32 BBY]]<ref name="AEYNTK" />&ndash;[[19 BBY]]<ref name="Episode III" />
+}}
+{{Succession_box
+|title=[[Dark Lord of the Sith]] with [[Savage Opress]] {{C|informally}}<ref name="Monster" />
+|years=[[20 BBY]]<ref name="Monster" />&ndash;[[19 BBY]]<ref name="The Lawless" />
+|before=
+|before-years=
+|after=
+|after-years=
+}}
+{{End box}}
+
+==Notes and references==
+{{Scroll_box|content={{Reflist}}}}
+
+==External links==
+*{{WP}}
+
+{{Interlang
+|bg=Дарт Мол
+|cs=Darth Maul
+|da=Darth Maul
+|de=Maul#kanon
+|el=Νταρθ Μολ
+|es=Darth Maul
+|fr=Dark Maul
+|hu=Darth Maul
+|it=Darth Maul
+|ja=ダース・モール
+|ko=다스 몰
+|nl=Darth Maul
+|no=Maul Opress
+|pl=Darth Maul
+|pt=Darth Maul
+|ro=Darth Maul
+|ru=Дарт Мол/Канон
+|sv=Darth Maul
+|tr=Darth Maul
+|uk=Мол
+|deGA=1
+}}
+
+{{DEFAULTSORT:Maul, Darth}}
+[[Category:Crimson Dawn personnel]]
+[[Category:Cyborgs]]
+[[Category:Death Watch members]]
+[[Category:Dathomirians]]
+[[Category:Males]]
+[[Category:Nightbrothers]]
+[[Category:Shadow Collective members]]
+[[Category:Sith Masters]]
+[[Category:Trade Federation members]]
+[[Category:Zabrak]]

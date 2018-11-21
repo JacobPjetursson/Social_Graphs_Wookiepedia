@@ -1,0 +1,44 @@
+{{Eras|notoc=1}}
+{{Character
+|type=Rebel
+|image=[[Orrimaarko swenc.jpg]]
+|name=Orrimaarko
+|homeworld=
+|birth=
+|death=
+|species=[[Dressellian]]<ref name="Heir">''[[Heir to the Jedi]]''</ref>
+|gender=[[Sexes|Male]]<ref name="ROTJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Black]]<ref name="ROTJ" />
+|skin=Orange<ref name="ROTJ" />
+|cyber=
+|era=
+|affiliation=[[Alliance to Restore the Republic]]<ref name="ROTJ" />
+|masters=
+|apprentices=}}
+'''Orrimaarko'''<ref name="Card Trader">''[[Star Wars: Card Trader]]''</ref> was a [[Sexes|male]] [[Dressellian]]<ref name="Heir" /> who served the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]] against the [[Galactic Empire]]. Shortly before the [[Battle of Endor]], in which the Alliance attacked the Empire's [[Death Star II]] [[superweapon]] above the [[moon]] of [[Endor]], he attended a meeting on board the [[MC80 star cruiser]] ''[[Home One]]'' to plan the battle. He had light [[Color|brown]] skin and black [[eye]]s, although one was covered by an eye patch.<ref name="ROTJ" />
+
+==Behind the scenes==
+Orrimaarko first appeared in [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] played by [[Colin Hunt]]. His 1984 action figure was labeled "Prune Face," the only name the character had until [[Pablo Hidalgo]] dubbed him Orrimaarko in ''[[Galaxy Guide 12: Aliens — Enemies and Allies]]'' a [[Star Wars Legends|''Star Wars'' Legends]] sourcebook by [[West End Games]] released in [[1995]].
+
+==Appearances==
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+
+==Sources==
+*{{SW|url=films/star-wars-episode-vi-return-of-the-jedi|text=Star Wars: Episode VI Return of the Jedi|archivedate=20170731063619}} {{Po}}
+*{{SWE|groups|rebelalliance|Rebel Alliance}} {{Po}}
+*{{SWE|characters|hansolo|Han Solo}} {{Po}}
+*{{ForceCollection|Orrimaarko|star=4}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Orrimaarko
+}}
+
+[[Category:Alliance Special Forces personnel]]
+[[Category:Dressellians]]
+[[Category:Males]]

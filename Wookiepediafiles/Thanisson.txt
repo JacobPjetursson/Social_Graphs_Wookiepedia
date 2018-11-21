@@ -1,0 +1,75 @@
+{{Eras|notoc=1}}
+{{Character
+|type=First Order
+|image=[[File:Thanisson.png]]
+|name=Thanisson
+|homeworld=
+|birth=
+|death=
+|species=[[Human]]<ref name="DB Thanisson">{{Databank|petty-officer-thanisson|Petty Officer Thanisson}}</ref>
+|gender=[[Sexes|Male]]<ref name="DB Thanisson" />
+|height=
+|mass=
+|hair=[[Color|Blond]]<ref name="TFAVD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+|eyes=Brown<ref name="TFA">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+|skin=Fair<ref name="TFAVD" />
+|cyber=
+|era=
+|affiliation=*[[First Order]]<ref name="TFAVD" />
+**[[First Order military]]<ref name="TFAVD" />
+|masters=
+|apprentices=}}
+{{Quote|We have an unsanctioned departure from Bay Two.''"<br />"''Alert General Hux. And stop that fighter!|Thanisson and [[Colonel]] [[Kaplan (colonel)|Kaplan]]|Star Wars: Episode VII The Force Awakens}}
+'''Thanisson''' was a [[human]] [[Sexes|male]] who served the [[First Order]] as a [[petty officer]] on board the [[Resurgent-class Star Destroyer|''Resurgent''-class Star Destroyer]] ''[[Finalizer]]'', the [[flagship]] of [[General]] [[Armitage Hux]]. While on the [[Bridge (starship)|bridge]] he wore a [[Color|black]] [[Clothing|uniform]] marked with the [[First Order insignia]], along with black [[boot]]s an [[Comlink|intercomm]] [[headset]]. Thanisson had fair skin and blond [[hair]].<ref name="TFAVD" />
+
+He was present aboard the ''Finalizer'' during the [[Attack on Tuanul|raid]] on [[Jakku]], and reported the [[Escape from the Finalizer|theft]] of a [[TIE/sf space superiority fighter]] by the rogue [[Stormtrooper (First Order)|stormtrooper]] [[Finn|FN-2187]] and the [[Resistance]] [[pilot]] [[Poe Dameron]].<ref name="DB Thanisson" /> Dameron and Finn then fired upon the [[hangar]] command center where Thanisson was seated, flinging the petty [[First Order officer|officer]] from his chair amongst the shattered remnants of the window in front of him.<ref name="TFA" />
+
+==Biography==
+===[[Jakku]]===
+[[File:TFA FirstOrder Star Destroyer.jpg|thumb|left|250px|Petty Officer Thanisson was stationed on board the ''[[Finalizer]]''.]]
+Thanisson was a [[human]] [[Sexes|male]] who served in the [[First Order military|military branch]] of the [[First Order]] during their [[Cold war|conflict]] with the [[Resistance]], an offshoot of the [[New Republic]].<ref name="TFA" /> In the [[Standard year|year]] [[34 ABY]],<ref name="SWGA">''[[Star Wars: Galactic Atlas]]'' dates the events of [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], including Thanisson's appearance, to [[34 ABY]].</ref> Thanisson held the rank of petty officer and was stationed onboard<ref name="TFA" /> the [[Resurgent-class Star Destroyer|''Resurgent''-class Star Destroyer]] known as the ''[[Finalizer]]'',<ref name="TFAVD" /> where he was posted<ref name="TFA" /> in the main control room for [[Hangar Six]] under [[Colonel]] [[Kaplan]] and Chief Petty Officer [[Unamo]].<ref name="TFAn">[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]</ref>
+
+Thanisson was onboard the ''Finalizer'' when it traveled to the [[planet]] [[Jakku]] in search of the<ref name="TFA" /> retired [[Scout|explorer]]<ref name="TFAVD" /> [[Lor San Tekka]], who held a piece of a [[Map to Skywalker|map]] to the location of [[Jedi Master]] [[Luke Skywalker]]. After the First Order [[Attack on Tuanul|deployed]] [[First Order military|forces]] to San Tekka's home village of [[Tuanul]], the explorer was [[Death|killed]] and the [[Resistance pilot]] [[Poe Dameron]] was captured; however, the map was spirited away by Dameron's [[astromech droid]] [[BB-8]], whom the First Order failed to capture.<ref name="TFA" />
+
+===An unauthorized departure from Bay Two===
+[[File:Hangar Six control room.png|thumb|right|250px|The control room Thanisson was stationed in was destroyed during [[FN-2187]] and [[Poe Dameron]]'s escape attempt.]]
+Dameron was brought on board the ''Finalizer'' for [[Torture|interrogation]], but as the hunt for BB-8 began, the [[pilot]] was [[Escape from the Finalizer|freed]] by [[Finn|FN-2187]], a [[Stormtrooper (First Order)|stormtrooper]] hoping to defect from the First Order. The [[trooper]] brought Dameron into Hangar Six under the pretense of escorting the [[prisoner]] and then hurriedly boarded one<ref name="TFA" /> of the [[TIE/sf space superiority fighter]]s<ref name="TFAVD" /> in [[Bay Two]] of the hangar. When the pair attempted to take off, they discovered the [[starfighter]]'s support cabling was still attached, preventing their escape and drawing the attention of Thanisson in the control room.<ref name="TFA" />
+
+Thanisson immediately reported the unsanctioned departure to Colonel [[Kaplan (colonel)|Kaplan]], who ordered that the [[TIE line|TIE]] be stopped from escaping while [[General]]<ref name="TFA" /> [[Armitage Hux]],<ref name="A:LD">''[[Aftermath: Life Debt]]''</ref> head of the First Order's military, be alerted. [[Squad]]s of stormtroopers<ref name="TFA" /> carrying [[F-11D blaster rifle]]s and [[FWMB-10 repeating blaster]]s<ref name="TFAVD" /> then attempted to shoot down the starfighter, but were unsuccessful as FN-2187 used the vehicle's<ref name="TFA" /> [[Lb-14 dual heavy laser turret]]<ref name="TFAVD" /> to blast many of them. The trooper then turned the [[turret]] on the control room, shattering the [[Viewport|windows]] in an explosion and throwing Thanisson from his seat while Kaplan and the other [[First Order officer|officers]] present tried to cower away from the blast. Once Dameron managed to disconnect the support cabling, the fighter escaped from the ''Finalizer'' and headed for Jakku, but was shot down by the [[battlecruiser]] en route and crashed on the planet's surface.<ref name="TFA" />
+
+==Behind the scenes==
+Thanisson first appeared in the film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], which was released in North America on [[December 18]], [[2015]]. He was not identified in the film, but received a name in the reference book ''[[Star Wars: The Force Awakens: The Visual Dictionary]]'', which was written by [[Pablo Hidalgo]] and released in conjunction with the film.
+
+He was played by British actor [[Thomas Brodie-Sangster]], best known for his roles as the son of [[Liam Neeson]]'s character in the 2003 film ''Love Actually'', Jojen Reed on HBO's ''Game of Thrones'', Newt in ''The Maze Runner'' films, and as the voice of Ferb Fletcher on Disney's ''Phineas and Ferb''.
+
+==Appearances==
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part I]]''
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]'' {{1stID}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|petty-officer-thanisson|Petty Officer Thanisson}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Thanisson#kanon
+|fr=Thanisson
+|it=Thanisson
+|ja=サニソン
+|ko=타니슨
+|pl=Thanisson
+|ru=Таниссон
+}}
+
+[[Category:First Order individuals]]
+[[Category:Humans]]
+[[Category:Males]]

@@ -1,0 +1,195 @@
+{{Eras}}
+{{Update|[[Star Wars: Secrets of the Empire]]}}
+{{Expand}}
+{{Image}}
+{{Character
+|type=Rebel
+|image=[[File:Cassian Andor Fathead.png]]
+|name=Cassian Jeron Andor
+|homeworld=[[Fest]]<ref name="Visual Guide">''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''</ref>
+|birth=[[26 BBY]], Fest<ref name="Visual Guide" />
+|death=[[0 BBY]], [[Scarif]]<ref name="Rogue One">''[[Rogue One: A Star Wars Story]]''</ref>
+|species=[[Human]]<ref name="Rogue One" />
+|gender=[[Sexes|Male]]<ref name="Rogue One" />
+|height=1.78 [[meter]]s<ref name="Visual Guide" />
+|mass=
+|hair=[[Color|Brown]]<ref name="Rogue One" />
+|eyes=Brown<ref name="Rogue One" />
+|skin=Light<ref name="Rogue One" />
+|cyber=
+|era=
+|affiliation=*[[Confederacy of Independent Systems]]<ref name="Visual Guide" />
+**[[Cassian Andor's insurrectionist cell|An insurrectionist cell]]<ref name="Visual Guide" />
+*[[Alliance to Restore the Republic]]<ref name="Rogue One" />
+**[[Alliance Intelligence]]<ref name="Andor DB">{{Databank|Captain-Cassian-Andor|Captain Cassian Andor}}</ref>
+**[[Massassi Group]]<ref name="Rogue One" />
+**[[Rebel army]]<ref name="Visual Guide" />
+**[[Rogue One (squad)|Rogue One]]<ref name="Rogue One" />
+|masters=
+|apprentices=}}
+{{Quote|Everything I did, I did for the Rebellion, and every time I walked away from something I wanted to forget, I told myself it was for a cause I believed in. A cause that was worth it. Without that, we're lost. Everything we've done would have been for nothing. I couldn't face myself if I gave up now.|Cassian Andor to Jyn Erso, vowing to accompany her to [[Scarif]].|Rogue One: A Star Wars Story}}
+'''Cassian Jeron Andor''', also known by the aliases '''Willix''',''' Aach''', '''Joreth Sward''', and the title '''[[Fulcrum (title)|Fulcrum]]''', was a [[human]] [[Sexes|male]] [[Rebel trooper|soldier]], [[Rebel pilot|pilot]] and [[Intelligence officer]] who served in the [[Confederacy of Independent Systems]] during the [[Clone Wars]] and then the [[Alliance to Restore the Republic]] during [[Operation Fracture]] and the [[Galactic Civil War]]. Andor joined a Rebel mission to [[Battle of Scarif|steal]] the [[Death Star plans|plans]] of the [[DS-1 Orbital Battle Station|Death Star]], a [[superweapon]] built by the [[Galactic Empire]]. Although the mission was a success, Andor [[Death|perished]] along with the rest of [[Rogue One (squad)|Rogue One]].
+
+==Biography==
+===Early life===
+{{Quote|Suddenly the Rebellion is real for you? Some of us ''live'' it!. I've been in this fight since I was ''six years old''!|Cassian Andor to [[Jyn Erso]]|Rogue One: A Star Wars Story}}
+Cassian Jeron Andor was a [[human]] [[Sexes|male]] who was born on the [[planet]] [[Fest]] in [[26 BBY]] to a [[Cassian Jeron Andor's father|human father]] and unknown [[Parent|mother]]. During the [[Clone Wars]], Andor joined an [[Cassian Andor's insurrectionist cell|insurrectionist cell]] backed by the [[Confederacy of Independent Systems]] that operated in the wilds of the [[Outer Rim Territories]] and fought against the [[Galactic Republic]]. Andor saw his first combat experience in this cell as a [[Youngling|child]] [[soldier]] in [[20 BBY]] by tossing rocks and bottles at Republic [[walker]]s and [[clone trooper]]s. Sometime during the Clone Wars, when Andor was still young,<ref name="Rogue Graphic Novel">''[[Star Wars: Rogue One Graphic Novel Adaptation]]''</ref> Andor's father was [[Death|killed]] at the [[Carida Academy]] during a protest against the expansion of [[Republic military|Republic militarism]].<ref name="Visual Guide" />
+
+===Serving the rebellion===
+[[File:CassianAndor Fathead.png|left|thumb|180px|Cassian Andor during the Rebellion.]]
+{{Quote|Make ten men feel like a hundred.|Cassian Andor|Rogue One: A Star Wars Story}}
+Prior to [[0 BBY]], Andor joined the [[Alliance to Restore the Republic]] after being recruited by [[General]] [[Davits Draven]].<ref name="Visual Guide" /> Holding the [[Military rank|rank]] of [[Captain]], Andor served as an [[Intelligence officer|officer]] in the Alliance's [[Alliance Intelligence|Intelligence branch]].<ref name="Andor DB" />
+
+A veteran [[spy]] of the Rebellion, Andor maintained a network of contacts throughout [[the galaxy]] who kept him informed about the activities of the [[Galactic Empire]].<ref name="Rogue One" /> Throughout his career as an intelligence agent, Andor worked undercover and used several aliases. While working as a government agent on [[Ord Mantell]], Andor went by the name Willix. As a senatorial contact on [[Darkknell|Darknell]], he was Aach. Andor used the name Joreth Sward when he was an assistant to [[Admiral]] [[Grendreef]]. Andor also used the code name [[Fulcrum (title)|Fulcrum]] when he worked as a Rebel recruiter in the [[Albarrio sector]].<ref name="Visual Guide" />
+
+====Mission to Wecacoe====
+[[File:Andor and Kaytoo Wecacoe.jpg|thumb|right||236x236px|Cassian and K-2SO on Wecacoe.]]
+Andor, along with the [[twin]]s [[Kertas]] and [[Rismor]], went to Wecacoe to undertake a [[Mission to Wecacoe|mission]] to extract Imperial security protocols. While inside storage facility 47, they were confronted by the [[KX-series security droid]] [[K-2SO]]. Kertas and Rismor managed to [[Memory wipe|wipe]] most of K-2SO's memory, and Andor ordered [[Sexes|him]] to escort them back to their [[Starship|ship]]. After a brief confrontation with several [[stormtrooper]]s, Andor and K-2SO located a new ship and escaped Wecacoe.<ref name="Cassian and & K-2SO">''[[Star Wars: Rogue One – Cassian & K-2SO Special 1]]''</ref>
+
+====Mission to the F'tzner system====
+[[File:Cassian and K2 Adventures -3.JPG|thumb|left|259px|Cassian taking K-2SO to Charissia to look after the three young Wookiees.]]
+Following this, Andor and K-2SO were sent to the [[F'tzner system]] to undertake [[Raid on an Imperial freighter|a raid]] on a Imperial [[freighter]]. Andor used gas to trick the Empire into thinking that [[smuggler]]s stole the cargo as smugglers were known to use gas to raid [[transport]]s. When they got to the cargo room, they found three [[Wookiee]]s named [[D'Koetaa]], [[D'Lylaa]], and [[Wyhyatt]], and took them instead of the cargo. Andor then took them to the monastery [[moon]] of [[Charissia]] in the [[Bartahn sector]]. There, he left K-2SO to look after the three Wookiees while he undertook a [[Unidentified Rebel raid|raid]].<ref name="Adventures in Wookiee-Sitting">{{IDWAdventuresCite|3|[[Tales from Wild Space: Adventures in Wookiee-Sitting]]}}</ref>
+
+====Ring of Kafrene====
+[[File:Mission to Kafrene.jpeg|thumb|256px|right|Cassian and Tivik.]]
+Andor was dispatched on a [[mission to the Ring of Kafrene]] where he met [[Tivik]], a Rebel informant from [[Saw Gerrera]]'s [[partisans]]. Through Tivik, Andor learned that the Empire had built a [[superweapon]] which his informant described as a planet killer. During the meeting, Andor killed two [[stormtrooper]]s who had become suspicious of the exchange. He also unwillingly had to execute Tivik, who was unable to escape the area because of an injured arm, before more stormtroopers could arrive and capture him.<ref name="Rogue One" />
+
+Andor was then stationed at the [[Great Temple (Yavin 4)|Rebel base]] on [[Yavin 4]] when [[Jyn Erso]] was assigned by [[Mon Mothma]], a leader of the Rebel Alliance, to take part in what became the [[Battle of Scarif|theft]] of the [[DS-1 Orbital Battle Station|Death Star]] [[Death Star plans|plans]]. During the mission, Andor was assigned to keep an [[eye]] on Erso due to her reckless and potentially volatile nature and was given a secret mission to kill [[Galen Walton Erso|Galen Erso]] in an attempt to stop the development of the [[Death Star]].<ref name="Rogue One" />
+
+====Mission to Jedha====
+Once he, Jyn, and K-2SO landed on [[Jedha]], he and Jyn left to find Gerrera and his rebels. Going to his various sources, the two got stuck in the middle of a battle between the Imperials and Saw's rebels, the Partisans, during which he took out a man from the group in an attempt to save Jyn. As the fight continued, the two escaped and ran into K-2SO. The two were then mistaken for his prisoners and were detained but were saved by [[Chirrut Îmwe]] and [[Baze Malbus]], only to be captured by Saw's forces for killing one of their own. While imprisoned, he found the Imperial pilot, [[Bodhi Rook|Bodhi]], and asked him of the location of Jyn's father. Shortly afterwards, the [[destruction of Jedha City]] caused the Partisans to flee, letting him escape with Chirrut, Baze, Bodhi, and Jyn.<ref name="Rogue One" />
+
+====Eadu====
+The group arrived on [[Eadu]], where they crashed attempting to avoid Imperial detection. Cassian and Bodhi left so that he could get in position to take out Galen and then had Bodhi leave to find a ship to escape with. He then watched a meeting between Galen and Director [[Orson Callan Krennic|Orson Krennic]]. After missing several opportunities to take him out, Cassian realized there was more to the situation than what met the eye. He decided there must be another way. However a strike force from the Rebellion came and attacked the facility, killing Galen in the process. He then went and rescued Jyn and the group leaves on a stolen [[Zeta-class cargo shuttle|''Zeta''-class cargo shuttle]] to Yavin 4.<ref name="Rogue One" />
+
+====Battle of Scarif====
+[[File:Scarif infiltration.png|thumb|left|289px|Cassian, Jyn, and K-2SO sneak into the security complex.]]
+Jyn tried to convince the alliance to attack [[Scarif]] in order to retrieve the plans to the Death Star, but it failed. Knowing this would happen, however, Cassian assembled a [[Rogue One (squad)|squad]] of Rebel assassins, mercenaries, and soldiers to fight on Scarif
+and retrieve the plans. Together, they all took the stolen Imperial shuttle and left for Scarif. At landing, Jyn and Cassian took the uniforms of two Imperial men and snuck into the base. They reached the area where the plans were kept, while a battle occurred outside as a distraction. During the attempt, K-2SO sacrificed himself by locking them in the facility to avoid their deaths by Stormtroopers. The two of them then broke out and stole the plans, only to be met by Krennic and his [[death trooper]]s, where they fought and Cassian was
+knocked unconscious. He later saved Jyn from Krennic by blasting him. He and Jyn beamed the plans to the fleet and went to the beach, where they watched as the Death Star destroyed the base. Cassian told Jyn that her father would be very proud of her. The two then accepted their fate and shared a final embrace before they were killed in the resulting blast.<ref name="Rogue One" />
+[[File:Jyn-cassian death.png|thumb|right|289px|Cassian's and Jyn's death.]]
+
+==Personality and traits==
+{{Quote|Does he look like a killer?''"<br>"''No. He has the face of a friend.|[[Chirrut Îmwe]] and [[Baze Malbus]]|Rogue One: A Star Wars Story}}
+Andor was a human male with [[Color|brown]] [[hair]], brown eyes and light skin. He was a committed, steady and practical by-the-book intelligence officer with a fair amount of combat experience. Andor often kept quiet and reserved, a trait he had acquired due to his experience in war. Although fighting on the side of the Rebel Alliance, he'd been hardened by war to the point that he did not hesitate to commit morally questionable acts when necessary. However, Cassian is shown to still feel some degree of remorse and regret after some of this events, for example, when he had to execute Tivik during the mission to Kafrene.<ref name="Rogue One" />
+
+In a briefing to [[Commander]] Mon Mothma, General Draven described Andor as "one of the most capable agents within Rebel Intelligence," with the ability to handle a wide range of missions, from reconnaissance to [[assassin]]ation and sabotage. Draven also said that Andor was capable of analyzing intelligence and acting on that intelligence without the need to contact superiors. Draven indicated that, since Andor worked for the rebellion since childhood, that the Alliance was like his family and that his loyalty was unwavering. Mothma, however, worried about the terrible things Andor and other Rebel agents were asked to do in the name of the Rebellion. Mothma wondered if command was doing enough to help agents like Andor to cope with the psychological damage inflicted by their actions.<ref name="Rebel Dossier">''[[Star Wars: Rogue One: Rebel Dossier]]''</ref>
+
+==Equipment==
+[[File:CassianAndor-Databank.png|thumb|left|250px|Andor with his A280-CFE, set in the pistol configuration]]
+{{Quote|His weapon ''was'' in the sniper configuration.|[[K-2SO]] on Cassian Andor's [[Cassian Andor's blaster|A280-CFE blaster]]|Rogue One: A Star Wars Story}}
+As a member of the Rebellion, Andor wore a brown [[Corellian]]-cut [[field jacket]] that depicted his military rank and also held a personal identifier transponder that concealed a [[suicide pill]]. He also wore brown military fatigues and wielded an [[BlasTech Industries|BlasTech]] [[A280-CFE blaster]], a modular blaster pistol that could be reconfigured into an [[assault rifle]] or [[sniper rifle]]. As an auxiliary concealed sidearm Cassian also used a small and slim sporting blaster. Due to his years of law-bending, Andor had honed his escapology skills as he carried a compact [[Security kit/Canon|security kit]] hidden inside one of his boots.<ref name="Visual Guide" />
+
+==Behind the scenes==
+Cassian Jeron Andor, portrayed by [[Diego Luna]], is a character created and developed for the [[2016]] [[Star Wars Anthology Series|film]] ''[[Rogue One: A Star Wars Story]]''. Luna's casting in the film was first announced on [[August 15]], [[2015]]. At this time, the first photo of the character was released,<ref name="Rogue One Cast">{{SW|url=news/rogue-one-the-daring-mission-has-begun-cast-and-crew-announced|text=''Rogue One''&mdash;The Daring Mission Has Begun: Cast and Crew Announced}}</ref> and the first footage of the character was shown in the ''Rogue One'' teaser trailer on [[April 7]], 2016.<ref name="Teaser">{{SW|url=video/rogue-one-a-star-wars-story-official-teaser-trailer|text=Rogue One: A Star Wars Story Official Teaser Trailer}}</ref> His name was revealed by a preview of the [http://edelweiss.abovethetreeline.com/ProductDetailPage.aspx?group=related&sku=1942556411 ''Rogue One: A Star Wars Story: The Official Visual Story Guide'' in the Edelweiss catalogue] on [[May 17]], 2016.
+
+Luna spoke with his natural Mexican accent while playing Andor. After ''Rogue One''s release, Luna shared a story from a fan who took her Mexican father to see the film because of his accent, which he said made him emotional.<ref name="Accent">{{cite web|url=http://ew.com/movies/2017/01/04/rogue-one-diego-luna-fan-story-diversity/|title=Diego Luna 'got emotional' over fan story about diversity in ''Rogue One''|work=Entertainment Weekly|first=Jessica|last=Derschowitz|date=2017-01-04|accessdate=2017-05-20}}</ref>
+
+Luna is slated to appear again in the role of Andor for an upcoming [[Untitled Star Wars television series|television series]] on [[Disney+]].<ref name="Series Announcement">{{SW|url=news/cassian-andor-live-action-series-announced|text=Cassian Andor Live-Action Series Announced}}</ref>
+
+==Appearances==
+{{Scroll box|content=
+*''[[Star Wars: Force Arena]]''
+*[[Untitled Star Wars television series|Untitled ''Star Wars'' television series]]
+*''[[Rebel Rising]]''
+*''[[Star Wars: Rogue One – Cassian & K-2SO Special 1]]''
+*{{IDWAdventuresCite|3|[[Tales from Wild Space: Adventures in Wookiee-Sitting]]}}
+*''[[The Mighty Chewbacca in the Forest of Fear!]]''
+*''[[Star Wars: Secrets of the Empire]]''
+*[[Lost Stars (webcomic)|''Lost Stars'' webcomic]]
+*''[[Star Wars: Boots on the Ground]]''
+*''[[Rogue One: A Star Wars Story]]'' {{1st}}
+*[[Rogue One: A Star Wars Story (novelization)|''Rogue One: A Star Wars Story'' novelization]]
+*''[[Star Wars: Rogue One: A Junior Novel]]''
+*''[[Star Wars: Rogue One: Secret Mission]]''
+*''[[Star Wars: Rogue One Graphic Novel Adaptation]]''
+*''[[Rogue One Adaptation 1]]''
+*''[[Rogue One Adaptation 2]]''
+*''[[Rogue One Adaptation 3]]''
+*''[[Rogue One Adaptation 4]]''
+*''[[Rogue One Adaptation 5]]''
+*''[[Rogue One Adaptation 6]]''
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{C|First mentioned; albeit indirectly}}
+*''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]'' {{Imo}}
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]] {{Imo}}}}
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+*{{All-Stars|The Good Stuff!}} {{Flash}}
+
+==Sources==
+{{Scroll box|content=
+*<!-- 08/15/15 -->{{SW|url=news/rogue-one-the-daring-mission-has-begun-cast-and-crew-announced|text=''Rogue One''&mdash;The Daring Mission Has Begun: Cast and Crew Announced}}
+*<!-- 4/7/16 -->{{SW|url=video/rogue-one-a-star-wars-story-official-teaser-trailer|text=Rogue One: A Star Wars Story Official Teaser Trailer}}
+*[http://edelweiss.abovethetreeline.com/ProductDetailPage.aspx?group=related&sku=1942556411 ''Rogue One: A Star Wars Story: The Official Visual Story Guide'' in the Edelweiss catalogue] {{1stID|Cassian Andor}}
+*<!-- 7/15/16 -->{{SW|url=news/swce-2016-15-things-we-learned-from-the-rogue-one-a-star-wars-story-panel|text=15 Things We Learned from the ''Rogue One: A Star Wars Story'' Panel|archivedate=20180413014423}}
+*<!-- 7/15/16 -->{{SW|url=video/rogue-one-a-star-wars-story-celebration-reel|text=Rogue One: A Star Wars Story - Celebration Reel|archivedate=20170806170144}}
+*<!-- 8/11/16 -->{{SW|url=video/rogue-one-a-star-wars-story-trailer|text=Rogue One: A Star Wars Story Trailer}}
+*{{LEGOCite|ro|75155|Rebel U-wing Fighter}}
+*{{LEGOCite|ro|75171|Battle on Scarif}}
+*<!-- 8/30/16 -->{{SW|url=video/go-rogue-chapter-1|text=Go Rogue Chapter 1}}
+*<!-- 9/9/16 -->{{SW|url=video/go-rogue-chapter-2|text=Go Rogue Chapter 2}}
+*<!-- 9/16/16 -->{{SW|url=video/star-wars-go-rogue-chapter-3|text=Go Rogue Chapter 3}}
+*<!-- 9/26/16 -->{{SW|url=video/go-rogue-chapter-4|text=Go Rogue Chapter 4}}
+*<!-- 10/13/16 -->{{SW|url=video/rogue-one-a-star-wars-story-trailer-2|text=Rogue One: A Star Wars Story Trailer 2}}
+*<!-- 10/25/16 -->{{InsiderCite|169|Launch Pad}}
+*<!-- 11/3/16 -->''[[Star Wars: Galactic Atlas]]''
+*<!-- 11/6/16 -->{{SWYoutube|zVJtP2qYMQ0|Rogue One: A Star Wars Story "Together" TV Spot}}
+*<!-- 11/11/16 -->{{SWYoutube|5yLOid9iiwE|Rogue One: A Star Wars Story "Hope" TV Spot}}
+*<!-- 11/17/16 -->{{SWYoutube|u5sdztM-p98|Rogue One: A Star Wars Story Featurette}}
+*<!-- 11/20/16 -->{{SWYoutube|WcwsDJhrREU|Rogue One: A Star Wars Story "Dream" TV Spot}}
+*<!-- 11/21/16 -->{{SWYoutube|uss2S4cFVbQ|Rogue One: A Star Wars Story "Jyn & Cassian" Extended TV Spot}}
+*<!-- 11/25/16 -->{{SWYoutube|YWNvdoRnNv8|Rogue One: A Star Wars Story "Trust"}}
+*<!-- 11/27/16 -->{{SWYoutube|BBNc7Pz35OA|Rogue One: A Star Wars Story "Breath" TV Spot}}
+*<!-- 12/2/16 -->{{SWYoutube|5MIy1V9HI_4|Rogue One: A Star Wars Story "Worth It" TV Spot}}
+*<!-- 12/5/16 -->{{SW|url=news/everything-we-know-about-rogue-one-so-far|text=Everything We Know About ''Rogue One'' So Far}}
+*<!-- 12/5/16 -->{{SWYoutube|xynhtKLc88E|Rogue One: A Star Wars Story "Introducing Jyn Erso" Featurette}}
+*<!-- 12/6/16 -->{{SWYoutube|b2MuIOtTH1U|Rogue One: A Star Wars Story "10 Days"}}
+*<!-- 12/6/16 -->{{SWYoutube|Mvo_463qvb4|Rogue One: A Star Wars Story "Prevail" TV Spot (:30)}}
+*<!-- 12/6/16 -->{{SWYoutube|sRIeW1nwjao|Rogue One: A Star Wars Story "Chance" TV Spot (:30)}}
+*<!-- 12/7/16 -->{{SWYoutube|A-TpMXQojRA|Rogue One: A Star Wars Story Official Chinese Trailer}}
+*<!-- 12/9/16 -->''[[Entertainment Weekly's Ultimate Guide to Rogue One]]''
+*<!-- 12/16/16 -->''[[Star Wars: Rogue One: The Ultimate Visual Guide]]'' {{1stID|Jeron}}
+*<!-- 12/16/16 -->''[[Star Wars: Rogue One: Rebel Dossier]]''
+*''[[Star Wars: Rogue One: Ultimate Sticker Encyclopedia]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars: What is a Droid?]]''
+*''[[Dawn of Rebellion]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|blastech-a280-cfe|BlasTech A280-CFE|archivedate=20170826111847}}
+*{{Databank|captain-cassian-andor|Captain Cassian Andor|archivedate=20161221130824}}}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=Cassian Jeron Andor
+|de=Cassian Jeron Andor#kanon
+|el=Κάσιαν Άντορ
+|es=Cassian Jeron Andor
+|fr=Cassian Andor
+|it=Cassian Jeron Andor
+|ja=キャシアン・ジェロン・アンドー
+|ko=카시안 제론 안도르
+|nl=Cassian Jeron Andor
+|pl=Cassian Jeron Andor
+|pt=Cassian Jeron Andor
+|ru=Кассиан Андор
+|uk=Касіан Джерон Андор
+}}
+
+{{DEFAULTSORT:Andor, Cassian Jeron}}
+[[Category:Alliance Army officers]]
+[[Category:Captains]]
+[[Category:Confederacy individuals]]
+[[Category:Fulcrum]]
+[[Category:Humans]]
+[[Category:Impersonators]]
+[[Category:Males]]
+[[Category:Mechanics]]
+[[Category:Pilots]]
+[[Category:Rogue One personnel]]

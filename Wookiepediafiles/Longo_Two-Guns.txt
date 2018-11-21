@@ -1,0 +1,73 @@
+{{Eras|imp}}
+{{Character
+|type=Criminal
+|image=[[File:LongoDosPistolas.jpg]]
+|name=Longo Two-Guns
+|homeworld=
+|birth=
+|death=[[32 BBY/Legends|32 BBY]], [[Tatooine/Legends|Tatooine]]
+|species=[[Clantaani]]
+|gender=[[Sexes/Legends|Male]]
+|height=
+|mass=
+|hair=[[Blue]]
+|eyes=[[Orange]]
+|skin=
+|cyber=
+|era=[[Rise of the Empire era]]
+|affiliation=*[[Longo Two-Guns's gang]]
+*[[Gardulla the Elder's criminal empire]]
+|masters=
+|apprentices=}}
+{{Quote|When's Jabba gonna learn? Ain't nobody can bring me down...dead or alive!|Longo Two-Guns|Star Wars: Bounty Hunter}}
+'''Longo Two-Guns''', known as the "fastest blaster on Tatooine," was a [[Sexes/Legends|male]] [[Clantaani]] who was the leader of a criminal gang on [[Tatooine/Legends|Tatooine]] and worked for [[Gardulla Besadii the Elder/Legends|Gardulla the Hutt]].
+
+==Biography==
+The gang was known throughout the planet due to their reputation; no one who set out after them came back. He could almost always be seen smoking [[t'bac]]. After a run-in with hired [[Bounty hunter/Legends|bounty hunter]] [[Jango Fett/Legends|Jango Fett]], Longo was captured and taken to [[Jabba Desilijic Tiure/Legends|Jabba Desilijic Tiure]], who had earlier placed a large bounty on his head as punishment for the numerous raids he conducted against Jabba.
+
+Longo purportedly had the best aim of any blasterslinger on Tatooine. His skill as a marksman was complemented by good showmanship: he was very proficient at twirling the two guns in his fingers. Unfortunately for Longo, however, Jango Fett's [[Mandalorian/Legends|Mandalorian]] body armor was able to deflect the weak blaster fire.
+
+It was rumored he was hired by [[Gardulla Besadii the Elder/Legends|Gardulla the Elder]] to reclaim several towns owned by Jabba the [[Hutt/Legends|Hutt]]. This resulted in the deaths of four of Jabba's personal assistants at the hands of Longo. Jabba then put out a 50,000-[[Galactic Credit Standard|credit]] bounty on Longo's head, which Jango Fett set out to claim.
+
+Fett tracked the criminal to his lair in the town of [[Mos Gamos]], fighting his way through Longo's gang and confronting the gunslinger, who was holed up in a warehouse. Jango defeated Longo and laid claim to the bounty before Jabba.
+
+===Death===
+[[File:Longo.png|frame|Longo shortly before his death]]
+{{Noncanonstart}}
+{{Quote|So tell me, bounty hunter. Unarmed and unarmored, how do you think you will fare against the likes of Lomrokk?|Jabba, to Longo|Star Wars Mythos}}
+When finally captured by Jabba, Longo Two-Guns was then brought forward and put on the trap door, only to fall into the pit when the door opened beneath him. In the pit, Longo was axed to death by [[Lomrokk]], one of Jabba's [[Gamorrean/Legends|Gamorrean]] guards.<ref name="mythos">''[[Star Wars Mythos]]''</ref>
+
+{{Noncanonend}}
+
+==Personality and traits==
+Keenly aware of his own skills as a blast-fighter and buying into his own reputation, Longo Two-Guns was overconfident, coaxing Jango into challenging him and his "boys." However, his confidence was misplaced, as the bounty hunter was able to overcome him and his gang in short order.
+
+==Equipment==
+Longo's weapons of choice were a pair of [[DL-18 Blaster Pistol|DL-18 blaster pistols]], which he enjoyed twirling on his fingers. <ref name="Gunslingers">{{SW|url=news/so-uncivilized-great-gunslingers-in-star-wars-part-1|int=So Uncivilized: Great Gunslingers in Star Wars|text=So Uncivilized: Great Gunslingers in ''Star Wars'', Part 1|archivedate=20170908055512}}</ref>
+
+==Behind the scenes==
+Longo Two-Guns was voiced by [[Tom Kane]], the voice actor for [[Yoda/Legends|Yoda]] in ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]''.
+
+==Appearances==
+*''[[Star Wars: Bounty Hunter]]'' {{1st}}
+*''[[Star Wars Mythos]]'' {{Nc}}
+
+==Sources==
+*''[[Star Wars: Bounty Hunter Strategy Guide]]''
+*{{GamerCite|10|Star Wars: Bounty Hunter (article)|Star Wars: Bounty Hunter}}
+*''[[The Complete Star Wars Encyclopedia]]''
+*{{SW|url=news/so-uncivilized-great-gunslingers-in-star-wars-part-1|int=So Uncivilized: Great Gunslingers in Star Wars|text=So Uncivilized: Great Gunslingers in ''Star Wars'', Part 1|archivedate=20170908055512}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Longo Two-Guns#legends
+|ja=ロンゴ・ツー＝ガンズ
+|deGA=1
+}}
+
+{{DEFAULTSORT:Two-Guns, Longo}}
+[[Category:Clantaani]]
+[[Category:Criminals]]
+[[Category:Males]]

@@ -1,0 +1,163 @@
+{{Eras}}
+{{Otheruses|Raddus}}
+{{Update|[[Star Wars: Rogue One: Rebel Dossier]], [[Star Wars: The Rebel Files]]}}
+{{Cleanup}}
+{{Character
+|type=Rebel
+|image=[[File:Admiral Raddus EW.png]]
+|name=Raddus
+|homeworld=[[Mon Cala]]<ref name="Visual Guide">''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''</ref>
+|birth=[[65 BBY]], Mon Cala<ref name="Visual Guide" />
+|death=[[0 BBY]], ''[[Profundity]]'', above [[Scarif]]<ref name="ICS">''[[Star Wars: The Last Jedi: Incredible Cross-Sections]]''</ref>
+|species=[[Mon Calamari]]<ref name="Visual Guide" />
+|gender=[[Sexes|Male]]<ref name="Rogue One">''[[Rogue One: A Star Wars Story]]''</ref>
+|height=1.90 [[meter]]s<ref name="Visual Guide" />
+|mass=
+|hair=
+|eyes=[[Color|Yellow]]<ref name="Rogue One" />
+|skin=Gray<ref name="Rogue One" />
+|cyber=
+|era=
+|affiliation=*[[Mon Cala monarchy]]<ref name="Dark Lord 13">''[[Darth Vader: Dark Lord of the Sith 13: Burning Seas, Part I]]''</ref>
+**[[Mon Cala Mercantile Fleet]]<ref name="Dark Lord 16">''[[Darth Vader: Dark Lord of the Sith 16: Burning Seas, Part IV]]''</ref>
+*[[Galactic Empire]]<ref name="Dark Lord 13" />
+*[[Mon Calamari Exodus Fleet]]<ref name="Armada">{{Armada|Profundity Expansion Pack|cardname=Mon Calamari Exodus Fleet|link=http://starwars-armada.wikia.com/wiki/Mon_Calamari_Exodus_Fleet}}</ref>
+*[[Alliance to Restore the Republic]]<ref name="Rogue One" />
+**[[Alliance Fleet]]<ref name="Rogue One" />
+**[[Alliance High Command]]<ref name="Rogue One" />
+**[[Operation Fracture Oversight]]<ref name="R1 novel">''[[Rogue One: A Star Wars Story (novelization)|Rogue One: A Star Wars Story novel]]''</ref>
+|masters=
+|apprentices=}}
+{{Quote|I say we fight!|Raddus expressing his view on invading Scarif|Rogue One: A Star Wars Story}}
+'''Raddus''' was a [[Sexes|male]] [[Mon Calamari]] [[admiral]] who served in the [[Alliance to Restore the Republic]] [[Early rebellion against the Galactic Empire|up to]] and during the [[Galactic Civil War]]. He commanded his personal [[MC75 cruiser]], ''[[Profundity]]'', which led the space assault on [[Imperial Navy|Imperial Naval forces]] during the [[Battle of Scarif]]. His [[flagship]] was disabled by the ''[[Devastator]]'' and then boarded by [[Anakin Skywalker|Darth Vader]] and his forces in an attempt to retrieve the [[Death Star plans]], which had been transmitted from Scarif's surface by [[Rogue One (squad)|Rogue One]]. Though Raddus and his flagship both perished, his sacrifice and that of the other rebels allowed the plans to escape and were ultimately used to [[Battle of Yavin|destroy]] the [[DS-1 Orbital Battle Station|Death Star]]. Many years after Raddus' [[death]], the name of the esteemed admiral was used by the [[Resistance]] for their own [[Raddus (MC85 Star Cruiser)|flagship]].
+
+==Biography==
+===Early life===
+Raddus was born in [[65 BBY]] in the polar regions of the [[water]]y [[Planet|world]] of [[Mon Cala]].<ref name="Much to Learn">{{SW|url=news/much-to-learn-you-still-have-10-things-you-might-not-know-about-mon-calamari|text=Much to Learn You Still Have: 10 Things You Might not Know about the Mon Calamari}}</ref> [[Sexes|He]] served as [[mayor]] of the [[city]] [[Nystullum]], and also filled a role in Mon Cala's [[Planetary defense forces|planetary defense]].<ref name="Visual Guide" />
+
+===Defending Mon Cala===
+{{Quote|Do not underestimate Raddus. He is a skilled tactician. While his movements seem purely defensive, he undoubtedly has a counterattack in mind.|Wilhuff Tarkin to Bergon|Darth Vader: Dark Lord of the Sith 15: Burning Seas, Part III}}
+[[File:Telvars negotiations.jpg|thumb|left|250px|Raddus was present for the negotiations between King Lee-Char and ambassador Telvar]]
+In [[18 BBY]], Raddus was for [[King of Mon Cala|King]] [[Lee-Char]]'s deteriorating negotiations between the newly-formed [[Galactic Empire]] and Mon Cala. [[Moff]] [[Wilhuff Tarkin]] parked the ''[[Sovereign]]'' above Mon Cala and sent [[ambassador]] [[Telvar]] to negotiate a trade deal with Lee-Char in [[Dac City]]. Influenced by a surviving [[Ferren Barr|Jedi]], Lee-Char continued to defy Telvar's offers. Raddus discussed the possibility of Mon Cala seceding to Lee-Char but their conversation was cut short by [[Anakin Skywalker|Darth Vader]] as he and three [[Inquisitorius|Inquisitors]] [[Battle of Dac City|arrived]] at [[Dac City]]. Vader was confronted by [[Commander]] [[Gial Ackbar]] and Telvar's [[shuttle]] exploded as they discussed Vader's intentions on Mon Cala.<ref name="Dark Lord 13" />
+
+Moff Tarkin responded to Telvar's assassination by sending his forces down to [[Occupation of Mon Cala|invade]] Mon Cala. A [[Battle of Dac City|battle]] subsequently broke out in Dac City where Raddus stayed with Lee-Char and his [[Chief of Security]] [[Gial Ackbar]] in the [[Dac City palace|palace]]. Once the surface cities were evacuated, Lee-Char sent Ackbar to defend the northern hemisphere and sent Raddus to [[Defense of the southern polar regions|defend]] the southern. Lee-Char then sacrificed the surface of Mon Cala by having [[Unidentified Mon Cala creature|large creatures]] generate devastating waves, taking the Imperial forces away in the process.<ref name="Dark Lord 14">''[[Darth Vader: Dark Lord of the Sith 14: Burning Seas, Part II]]''</ref>
+
+Raddus began using two primary tactics: the first was for the Mon Calamari and Quarren defenders to hole up in their under water cities and force the Imperial forces to fight them in the corridors; the second was to scatter into the far reaches of the oceans, forcing the Imperial forces to split up, increasing their need to resupply. In addition to those, Raddus took five [[Star Cruiser]]s and a number of smaller vessels from the [[Mon Cala Mercantile Fleet]] and linked their shields together, making a large shield bubble that was impenetrable to the Imperial attackers. Moff Tarkin claimed that he had built himself a fortress.<ref name="Dark Lord 16" />
+
+Raddus kept his [[Cruiser]]s on hold for the time being, keeping the Imperial forces in the south at bay. In the meantime, Tarkin had began bombarding the northern hemisphere from the ''Sovereign''. The [[turbolaser]] fire destroyed many settlements and killed billions but Raddus told his ships to stay defending as the planet's curve was in their favour. However soon after, Lee-Char ordered the ceasefire of all his forces on Mon Cala, hoping to make Tarkin stop. Tarkin however pledged to keep bombarding the planet until Lee-Char was arrested and the Star Destroyers began targeting the southern hemisphere.<ref name="Dark Lord 17">''[[Darth Vader: Dark Lord of the Sith 17: Burning Seas, Part V]]''</ref>
+
+[[File:Barr Prophecy DV17.png|thumb|right|250px|Raddus led the first Mon Calamari cruisers into escaping Mon Cala]]
+Raddus ordered his ships to de-link their shields and they all set course for the [[blockade]]. As they flew past the Star Destroyers, two of the cruisers were shot down and Tarkin let the other three go, saying they would be found eventually.<ref name="Dark Lord 17" /> The conflict ended with the Empire subjugating Mon Cala and imprisoning King Lee-Char on [[Strokill Prime]].<ref name="SW 44">''[[Star Wars 44: Mutiny at Mon Cala, Part I]]''</ref> However the Mon Calamari, prepared by their harsh [[Battle of Mon Calamari (Clone Wars)|experiences]] during the [[Clone Wars]], conducted a mass exodus. "[[City-ship]]s," entire municipal buildings that were made to be spaceworthy structures, launched into the depths of [[Realspace|space]], including the ''[[Profundity]]'', Nystullum's city governance tower. Raddus returned to command this vessel, crewed primarily by Nystullum's defense staff.<ref name="Visual Guide" />
+
+===Rebel service===
+{{Quote|I am confident we can support whatever Operation Fracture requires.|Raddus, in a readiness report to Mon Mothma|Star Wars: Rogue One: Rebel Dossier}}
+Raddus became one of the first Mon Calamari [[officer]]s to join the Rebellion.<ref name="Secret Mission">''[[Star Wars: Rogue One: Secret Mission]]''</ref> He became an admiral and commander of the burgeoning [[Alliance Fleet]], regarded by [[Mon Mothma]] as the [[Alliance Military|Rebel military's]] most vital component. Work soon began on converting the Mon Calamari city-ships into [[capital ship]]s to form the spine of the Alliance [[Fleet]], and the ''Profundity'' became one of the first ready for combat, joining the varied [[Starship|ships]] of the fleet in the [[Telaris system]]. Despite his new role, Raddus still wore a civic crest of the Mon Cala planetary defence to commemorate his former role among his people.<ref name="Visual Guide" />
+
+Admiral Raddus, as one of the military leaders of the Alliance, also served on the [[Alliance High Command|Rebel council]].<ref name="Secret Mission" /> As he was stationed with the fleet, he rarely visited the [[Great Temple (Yavin 4)|rebel base]] on [[Yavin 4]], but his presence was required for matters of major importance to the council.<ref name="Visual Guide" /> Though united by the common cause to be free of Imperial rule, the council disagreed on all manner of practical details, from battlefield tactics to recruitment.<ref name="Secret Mission" /> A pragmatist at [[heart]], Raddus's patience was tried by the council's dithering, as he saw attempts to negotiate with the Empire, such as was advocated by [[Minister of Finance]] [[Nower Jebel]], to be foolish. In order to not be underestimated by his peers on the council, Raddus was sparse with pleasantries in social interactions, and was happy to cultivate the hardy, thick-[[blood]]ed reputation commonly ascribed to Mon Calamari native to the world's cold polar depths.<ref name="Visual Guide" />
+
+[[File:Alliance-high-command.jpeg|thumb|left|250px|Raddus with the [[Alliance High Command|Rebel Council]]]]
+In [[0 BBY]], [[Jyn Erso]] informed the Alliance High Command that the Empire had created a [[planet]]-[[Superweapon|destroying]] [[battle station]] known as the [[DS-1 Orbital Battle Station|Death Star]] and used it to [[Destruction of Jedha City|destroy]] the [[Jedha City|Holy City]] of [[Jedha]]. Faced with the decision on whether to assault the [[Imperial security complex]] on [[Scarif]] in order to steal the [[Space station|station's]] [[Death Star plans|plans]] or to disband the Alliance and surrender, Raddus agreed with Erso and expressed his opinion that they should fight, even if the odds were against them. However, without the support of the full council, Mon Mothma decided the odds of defeat were too great.<ref name="Rogue One" />
+
+Instead, Raddus was tasked with escorting [[Prince]]ss [[Leia Organa]],<ref name="Updated and Expanded">''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''</ref> who was onboard the Alderaanian [[CR90 corvette|corvette]], ''[[Tantive IV]]'' which was docked with the ''Profundity'' for maintenance and repairs,<ref name="R1 novel" /> on a mission to Tatooine to meet with [[Jedi Master]] [[Obi-Wan Kenobi]].<ref name="Updated and Expanded" />
+
+====Battle of Scarif====
+{{Quote|This is Admiral Raddus of the Rebel Alliance. All squadron leaders report in.|Raddus upon exiting hyperspace above Scarif|Rogue One: A Star Wars Story}}
+[[File:Profoundity bridge comic.jpg|thumb|right|300px|Raddus is notified of the rebel engagement on Scarif]]
+With the newly formed [[Rogue One (squad)|Rogue One]] unit, led by Erso and [[Captain]] [[Cassian Jeron Andor|Cassian Andor]], having already departed from Yavin, a rebel soldier notified Raddus on the ''Profundity'' of the rebel incursion on Scarif. Raddus ordered the fleet to set a course there.<ref name="Rogue One Comic 5">''[[Rogue One Adaptation 5]]''</ref> On Yavin, a rebel [[technician]], [[Private]] [[Tenzigo Weems]],<ref name="Visual Guide" /> also intercepted an Imperial signal indicating the rebels had engaged Imperial forces on Scarif. Despite not receiving authorization to attack Scarif, Raddus decided to divert his ship, with the ''Tantive IV'' in tow, to the tropical planet. After being informed of the situation, Mon Mothma requested she speak with Raddus but was told he had returned to his ship in preparation for [[Battle of Scarif|battle]]. Deciding to go through with the attack, the Alliance Fleet was scrambled and departed for the [[Outer Rim Territories|Outer Rim]] world. Exiting [[hyperspace]] above the [[Deflector shield|shielded]] planet, Raddus, from the [[Bridge (starship)|bridge]] of the<ref name="Rogue One" /> ''Profundity'',<ref name="Visual Guide" /> ordered [[Red Squadron (Rebel Alliance)|Red]] and [[Gold Squadron (Rebel Alliance)|Gold Squadron]] to defend the fleet while [[Blue Squadron (Rebel Alliance)|Blue Squadron]] headed through the [[Shield Gate]] in order to reach the planet's surface.<ref name="Rogue One" />
+
+As Blue Squadron's [[Starfighter|fighters]] began crossing through the shield aperture, the Gate's technicians quickly closed the opening, destroying two and denying access to three of the Squadron's [[X-wing starfighter|X-wings]]. With the shield closed, Raddus was informed by a bridge [[lieutenant]] that transmissions between Blue Squadron and the rest of the fleet were blocked. The admiral then ordered the fleet to bomb the shield as well as engage the two [[Imperial I-class Star Destroyer|Star Destroyers]] holding position above the Shield Gate while they tried to re-establish communications. As the rebel fighters began strafing the Gate and shield aperture, dozens of [[TIE/ln space superiority starfighter|TIE fighters]] were deployed from the station's [[hangar]], proceeding to chase the Rebel ships away and fire a barrage of laser fire at the ''Profundity''{{'}}s bridge. With the [[flagship]] taking more damage with each TIE strafing run, draining its shields by fifty percent, Raddus acknowledged that it was too late to turn back and so ordered that they press their attack. Managing to find an opening in the Imperial starfighter assault, Gold Squadron bombarded the [[Star Destroyer]]<ref name="Rogue One" /> ''[[Persecutor]]''<ref name="R1 novel" /> with [[ion torpedo]]es, causing the entire vessel to lose power. [[Second]]s later, Raddus received a transmission from [[Bodhi Rook]] on the surface of Scarif informing him that they found the Death Star plans, but that the shield had to be taken down in order for them to be able to transmit the schematics. Assuring Rook that he would have the shield down, Raddus ordered the [[Sphyrna-class corvette|''Sphyrna''-class corvette]]<ref name="Rogue One" /> ''[[Lightmaker]]'' to ram the disabled Star Destroyer and push it into the shield.<ref name="R1 novel" />
+
+[[File:ShieldGateDown.jpg|thumb|left|250px|The ''Lightmaker'' rammed the Star Destroyer ''Persecutor'' into the Star Destroyer ''Intimidator'']]
+With all nonessential crew having [[Escape pod|abandoned ship]],<ref name="Entertainment Weekly">{{cite web|url=http://ew.com/movies/2017/01/12/rogue-one-mystery-hammerhead-crew/|title=Rogue One mystery solved: Did the Hammerhead crew survive?|work=Entertainment Weekly|date=2017-01-12|accessdate=2017-01-12}}</ref> the ''Lightmaker'' rammed the capital ship, sending it crashing into the Star Destroyer&mdash;called the ''[[Intimidator]]''&mdash;beside it before colliding with the Shield Gate and deflector shield below, creating the much-needed opening. Immediately, the ''Profundity'' began receiving the Death Star schematics from Jyn Erso. Raddus let out a brief celebration but was informed by the bridge lieutenant that a massive object was emerging from hyperspace: the Death Star. Moving into position above the Rebel fleet, Raddus watched as the Death Star fired its emerald [[superlaser]] at the Imperial complex below. After saying a farewell to Rogue One, Raddus ordered all ships to jump to hyperspace; however, before the ''Profundity'' had a chance to escape, [[Darth]] Vader's flagship, the ''[[Devastator]]'', appeared. The Star Destroyer's [[turbolaser]]s soon penetrated the ''Profundity''{{'}}s already weak shields and dealt enough damage to the vessel's hull to disable it.<ref name="Rogue One" /> As the [[Alderaanian consular security|Alderaanian security soldiers]] aboard the ship scrambled to copy the Death Star plans to a [[datacard]], Imperial forces, along with Vader himself, boarded the vessel. Though Vader cleared an entire hallway of rebels, the surviving soldiers managed to barely get away with the plans and escape on the docked [[CR90 corvette|corvette]], ''Tantive IV''.<ref name="Rogue One" /> By the end of the battle, Raddus had perished as the ''Profundity ''was destroyed.<ref name="ICS" />
+
+===Legacy===
+[[File:Raddus Ship at DQar.png|thumb|right|250px|An MC85 Star Cruiser was named after Raddus]]
+Many [[Standard decade|decades]] after his role in the Battle of Scarif, Raddus's name was carried by the [[Resistance]] [[MC85 Star Cruiser]] known as the ''[[Raddus (MC85 Star Cruiser)|Raddus]]''. Originally named the ''Dawn of Tranquility'', the ship served in the [[New Republic]] before it was retired and handed over to the [[Resistance]].<ref name="ICS" /> Its name was changed to the ''Raddus'' as a recommendation by Ackbar. Despite considerable disagreements during their time in the Rebellion, Ackbar respected his predecessor greatly and wished to honor Raddus and his choice to defy the Alliance's political leaders and fight against insurmountable odds.<ref name="Visual Dictionary">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref> The starship, like its namesake, was ultimately sacrificed for its cause, crippling the ''[[Supremacy]]'' and destroying twenty [[First Order]] [[Resurgent-class Star Destroyer|Star Destroyers]] by jumping to [[lightspeed]] through the ''Supremacy'', to allow the remaining Resistance members to escape.<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref><ref name="Poe 31">''[[Poe Dameron 31: The Awakening, Part VI]]''</ref>
+
+==Personality and traits==
+An outspoken and militant leader of one of the many rebel cells, Raddus could be considered blunt and brash, his practical nature leading him to dislike the petty politics that had kept the various rebel cells divided.<ref name="Visual Guide" /> This sometimes lead to friction with his fellow officers in the Rebellion, including Ackbar, who at the time saw Raddus as too improvisational and aggressive.<ref name="Visual Dictionary" /> When Jyn Erso disobeyed orders and took a team of volunteers to the planet of Scarif to steal the Death Star plans, Raddus was quick to follow suit in his flagship, the ''Profundity''. As the admiral of the Rebel fleet at the Battle of Scarif, Raddus's command ensured the successful theft and transmission of the Death Star plans,<ref name="Rogue One" /> ultimately leading to the Alliance victory at the [[Battle of Yavin]].<ref name="ANH">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref> During the battle, Raddus was not afraid to commit resources to heavy assaults and sacrifice the crew of the ''Lightmaker'' to bring down Scarif's planetary shield. While capable of putting aside his feelings during military operations, Raddus wasn't devoid of emotion, as illustrated by his sadness over the deaths of the Rogue One personnel when the Death Star eradicated the entire surface theater of Scarif.<ref name="Rogue One" />
+
+==Behind the scenes==
+{{Quote|We always tried to find a real world example of who these creatures may be, and in this case we used Churchill. Admiral Raddus is a very strong figure. We would use [Churchill] not only as visual reference for his physical features, but also when it came to performing him and expressing him through the actor.|Neal Scanlan|url=http://www.ew.com/article/2016/11/18/rogue-one-admiral-raddus-character-inspired-winston-churchill}}
+Raddus, portrayed by [[Paul Kasey]]<ref name="Actors Revealed">{{Cite web|url=http://comicbook.com//2016/11/10/rogue-one-character-cards-reveal-3-new-star-wars-actors|title=Rogue One Character Cards Reveal 3 New Star Wars Actors|accessdate=November 28, 2016|last=Siegal|first=Lucas|date=November 10, 2016|work=Comicbook.com}}</ref> <span>with animatronic performer Patrick Comerford </span>and voiced by [[Stephen Stanton]],<ref name="Stanton Raddus">{{Twitter|Stephen_Stanton|status/806681494357823488|[[Stephen Stanton]]|quote=Thx everyone 4 all the congrats! I'm so excited to be voicing Admiral Raddus in #RogueOne Such a great # character in so many ways!😊|image=|noimage=}}</ref> is a character that was created and developed for the [[2016]] [[Star Wars Anthology Series|''Star Wars'' Anthology film]] ''[[Rogue One: A Star Wars Story]]''. The first footage of Raddus was revealed in the [[Celebration Europe (2016)|Celebration Europe]] reel on [[July 15]], 2016.<ref name="CE Reel">{{SW|url=video/rogue-one-a-star-wars-story-celebration-reel|text=Rogue One: A Star Wars Story - Celebration Reel|archivedate=20170806170144}}</ref> As stated by [[Neal Scanlan]], the creature effects supervisor on ''Rogue One: A Star Wars Story'', Admiral Raddus was inspired by [[wikipedia:Winston Churchill|Winston Churchill]], the [[wikipedia:Prime Minister of the United Kingdom|prime minister of the United Kingdom]] who famously led his [[wikipedia:United Kingdom|country]] through [[wikipedia:World War II|World War II]].<ref name="RaddusEW">{{Cite web|url=http://www.ew.com/article/2016/11/18/rogue-one-admiral-raddus-character-inspired-winston-churchill|title=''Rogue One'': Meet Admiral Raddus, the character inspired by Winston Churchill|first=Anthony|last=Breznican|work=Entertainment Weekly|date=November 18, 2016|accessdate=November 18, 2016}}</ref>
+
+Raddus' role in the story was originally intended to be filled by Admiral Ackbar, but following Ackbar's appearance in the [[2015]] film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], his inclusion from the Battle of Scarif was dropped and the Raddus character was created instead.<ref name="Original Intention">{{Cite_web|url=http://ew.com/movies/2017/03/24/rogue-one-revisions-tie-fighter-scene-deleted-planet-killed-cameos/|title=''Rogue One'' revisions: The TIE fighter scene, a deleted planet, and killed cameos|accessdate=2017-12-04|author=Anthony Breznican|authorlink=http://ew.com/author/anthony-breznican/|date=2017-03-24|publisher=Entertainment Weekly|archiveurl=http://web.archive.org/web/20171203190336/http://ew.com/movies/2017/03/24/rogue-one-revisions-tie-fighter-scene-deleted-planet-killed-cameos/|archivedate=2017-12-03|quote="I always loved Admiral Ackbar. I wanted to have him in there, but J.J. Abrams got to him first. We didn’t want to use him again after The Force Awakens. So Ackbar became Admiral Raddus. You will see those little evolutions."}}</ref> Actor Stephen Stanton stated in an interview with [[Wikipedia:Collider.com|Collider]] that Raddus' voice was based on the combined voices of Winston Churchill and [[Wikipedia:George C. Scott|George C. Scott's]] portrayal of General [[Wikipedia:George S. Patton|George S. Patton]] in the 1970 film ''[[Wikipedia:Patton (film)|Patton]]''.<ref name="Collider Interview">{{Cite_web|url=https://www.youtube.com/watch?v=FXZ2aGLGdqQ|title= Alternate Rogue One Endings Revealed w guest Stephen Stanton - Collider Jedi Council|accessdate=2017-03-23|author=ColliderVideos|date=March 23, 2017|publisher=YouTube}}</ref>
+
+==Appearances==
+*''[[Darth Vader: Dark Lord of the Sith 13: Burning Seas, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 14: Burning Seas, Part II]]''
+*''[[Darth Vader: Dark Lord of the Sith 15: Burning Seas, Part III]]'' {{Mo}}
+*''[[Darth Vader: Dark Lord of the Sith 16: Burning Seas, Part IV]]''
+*''[[Darth Vader: Dark Lord of the Sith 17: Burning Seas, Part V]]''
+*''[[Rogue One: A Star Wars Story]]'' {{1st}}
+*[[Rogue One: A Star Wars Story (novelization)|''Rogue One: A Star Wars Story'' novelization]]
+*''[[Star Wars: Rogue One: A Junior Novel]]''
+*''[[Star Wars: Rogue One: Secret Mission]]''
+*''[[Star Wars: Rogue One Graphic Novel Adaptation]]''
+*''[[Rogue One Adaptation 4]]''
+*''[[Rogue One Adaptation 5]]''
+*''[[Rogue One Adaptation 6]]''
+*''[[Star Wars 44: Mutiny at Mon Cala, Part I]]'' {{Mo}}
+*''[[Star Wars 45: Mutiny at Mon Cala, Part II]]'' {{Mo}}
+*''[[Star Wars 48: Mutiny at Mon Cala, Part V]]'' {{Mo}}
+*''[[Star Wars: The Last Jedi: Expanded Edition]]'' {{Imo}}
+*''[[The Last Jedi: Rose Tico: Resistance Fighter]]''
+
+==Sources==
+{{Scroll box|
+*<!-- 7/15/16 -->{{SW|url=video/rogue-one-a-star-wars-story-celebration-reel|text=Rogue One: A Star Wars Story - Celebration Reel|archivedate=20170806170144}}
+*<!-- 8/31/16 -->{{SW|url=news/much-to-learn-you-still-have-10-things-you-might-not-know-about-mon-calamari|text=Much to Learn You Still Have: 10 Things You Might not Know about the Mon Calamari}}
+*{{LEGOCite|ro|75172|Y-Wing Starfighter}}
+*<!-- 10/13/16 -->{{SW|url=video/rogue-one-a-star-wars-story-trailer-2|text=Rogue One: A Star Wars Story Trailer 2}}
+*<!-- 11/11/16 -->{{SWYoutube|5yLOid9iiwE|Rogue One: A Star Wars Story "Hope" TV Spot}}
+*<!-- 11/17/16 -->{{SWYoutube|u5sdztM-p98|Rogue One: A Star Wars Story Featurette}}
+*<!-- 11/20/16 -->{{SWYoutube|WcwsDJhrREU|Rogue One: A Star Wars Story "Dream" TV Spot}}
+*<!-- 11/25/16 -->{{SWYoutube|YWNvdoRnNv8|Rogue One: A Star Wars Story "Trust"}}
+*<!-- 11/27/16 -->{{SWYoutube|BBNc7Pz35OA|Rogue One: A Star Wars Story "Breath" TV Spot}}
+*<!-- 12/4/16 -->{{SWYoutube|P2N0Mn4i4Dw|Rogue One: A Star Wars Story "Creature Featurette"}}
+*<!-- 12/6/16 -->{{SWYoutube|Mvo_463qvb4|Rogue One: A Star Wars Story "Prevail" TV Spot (:30)}}
+*<!-- 12/6/16 -->{{SWYoutube|sRIeW1nwjao|Rogue One: A Star Wars Story "Chance" TV Spot (:30)}}
+*<!-- 12/9/16 -->''[[Entertainment Weekly's Ultimate Guide to Rogue One]]''
+*<!-- 12/16/16 -->''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''
+*<!-- 12/16/16 -->''[[Star Wars: Rogue One: Rebel Dossier]]''
+*''[[Star Wars: Rogue One: Ultimate Sticker Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*''[[Star Wars: The Last Jedi: Incredible Cross-Sections]]'' {{Imo}}
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Women of the Galaxy]]'' {{Imo}}
+*{{Databank|admiral-raddus|Admiral Raddus|archivedate=20170707043638}}
+*{{Databank|alliance-high-command|Alliance High Command|archivedate=20170318215045}} {{Po}}
+*{{Databank|the-raddus|The Raddus}} {{Imo}}}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{Cite web|url=http://www.ew.com/article/2016/11/18/rogue-one-admiral--character-inspired-winston-churchill|title=''Rogue One'': Meet Admiral , the character inspired by Winston Churchill|first=Anthony|last=Breznican|work=Entertainment Weekly|date=November 18, 2016|accessdate=November 18, 2016}}
+*{{Cite web|url=http://www.ew.com/gallery/rogue-one-creatures-and-droids/2853869_admiral-raddus|title='Star Wars': Meet the Creatures and Droids in 'Rogue One'|accessdate=December 10, 2016|work=Entertainment Weekly}}
+
+{{Interlang
+|de=Raddus#kanon
+|deFA=1
+|el=Ράντους
+|es=Raddus
+|fr=Raddus
+|ja=ラダス
+|ka=რადუსი
+|ko=라더스
+|nl=Raddus
+|pl=Raddus
+|pt=Raddus
+|ru=Раддус
+|uk=Раддус
+}}
+
+{{DEFAULTSORT:Raddus}}
+[[Category:Alliance Fleet admirals]]
+[[Category:Alliance High Command personnel]]
+[[Category:Males]]
+[[Category:Mayors]]
+[[Category:Mon Calamari]]

@@ -1,0 +1,76 @@
+{{Eras}}
+{{Character
+|type=Galactic Republic
+|image=[[File:DexterHS-SWE.jpg]]
+|name=Dexter Jettster
+|homeworld=[[Ojom]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Besalisk]]<ref name="Dexter">{{Databank|dexter-jettster|Dexter Jettster|archivedate=20170707044534}}</ref>
+|gender=[[Sexes|Male]]<ref name="Dexter" />
+|height=1.88 [[meter]]s<ref name="Dexter" />
+|mass=
+|hair=[[Color|Brown-black]]<ref name="Dexter" />
+|eyes=Yellow<ref name="Dexter" />
+|skin=Tan-Brown<ref name="Dexter" />
+|cyber=
+|era=
+|affiliation=[[Dex's Diner]]<ref name="Dexter" />
+|masters=
+|apprentices=}}
+{{Quote|I should think that you Jedi would have more respect for the difference between knowledge and wisdom.|Dexter Jettster|Star Wars: Episode II Attack of the Clones}}
+'''Dexter "Dex" Jettster''', nicknamed '''Dexi Jet''',<ref name="Smuggler's Guide">''[[Star Wars: Smuggler's Guide]]</ref> was a [[Sexes|male]] [[Besalisk]] with a colorful background who lived on the [[planet]] [[Coruscant]] and was the owner of [[Dex's Diner]].<ref name="Dexter" /> Serving mostly hard workers from the area, the diner offered home-style cooked meals and freshly brewed [[ardees]] ("Jawa juice"). Jettster worked as the cook and employed two waitresses, [[Hermione Bagwa]] and her [[WA-7 waitress droid]] partner, [[FLO]].<ref name="Diner">{{Databank|dexs-diner|Dex's Diner|archivedate=20170225081024}}</ref>
+
+It was shortly before the [[Clone Wars]] that [[Jedi Knight]] [[Obi-Wan Kenobi]] came to Dex's Diner to see if his old friend, Jettster, could identify a poisoned dart. Though few even knew of the planet [[Kamino]], Jettster did from his days as a [[prospector]] and was able to identify the dart as originating from that planet. Furthermore, he knew of the native inhabitants, the [[Kaminoan]]s, who were [[Cloning|cloners]] of some repute and kept to themselves but were welcoming to those who brought [[credit]]s. Jettster gently chided his old friend Kenobi who as a Jedi should have put more faith in another person's wisdom than the knowledge of the [[Jedi Archives]].<ref name="AotC">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+
+==Biography==
+Before the [[Clone Wars]], [[Dex's Diner]] was known to have the best [[nerfburger]]s ever, and people from all over [[the galaxy]] traveled to [[Coruscant]] to eat at Dex's. Unfortunately, not all of Jettster's clientele was trustworthy, as [[Sexes|he]] was. [[Thief|Thieves]] sometimes stole nearby, so Jettster enlisted the help of his [[Jedi]] friend, [[Obi-Wan Kenobi]]. Kenobi and Jettster set up a sting in the diner itself to stop the robberies. When the thief, [[Tri Tellon]], pickpocketed a trinket from Kenobi, Jettster and Kenobi tracked Tri to [[Tri Tellon's home|her hideout]] that she shared with another rogue, [[Magreda]]. Jettster now owed a favor to Kenobi, one that would be paid.<ref name="Stop, Thief!">{{IDWAdventuresCite|1|[[Tales from Wild Space: Stop, Thief!]]}}</ref>
+
+It was right before the [[Cloning|Clone]] Wars began that Jettster was approached by Kenobi, who wanted to know if Jettster could identify a [[Kamino saberdart|poison dart]]. Jettster was able to identify the dart, which was from the [[planet]] [[Kamino]]. Jettster and Kenobi exchanged friendly banter, and then Kenobi left the diner.<ref name="AotC" />
+
+==Personality and traits==
+Jettster was 1.88 [[meter]]s tall, with a [[Color|brown]]-black mustache, yellow [[eye]]s, and tan-brown skin.<ref name="Dexter" />
+
+==Behind the scenes==
+Dexter Jettster was voiced by Ronald Falk in his debut, Attack of the Clones.<ref name="AotC" /> He was originally written to be married to his waitress, Hermione Bagwa.<ref>{{DB|character|hermionebagwa|Hermione Bagwa}}</ref>
+
+{{Char-stub}}
+
+==Appearances==
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*{{IDWAdventuresCite|1|[[Tales from Wild Space: Stop, Thief!]]}}
+*''[[Aftermath]]'' {{Mo}}
+
+===Non-canon appearances===
+*''[[Disney Infinity 3.0]]''
+
+==Sources==
+*{{SWE|characters|dexterjettster|Dexter Jettster}}
+*{{SW|url=films/star-wars-episode-ii-attack-of-the-clones|text=''Star Wars'': Episode II ''Attack of the Clones''}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Smuggler's Guide]]''
+*{{Databank|besalisk|Besalisk|archivedate=20170504151835}}
+*{{Databank|dexs-diner|Dex's Diner|archivedate=20170225081024}}
+*{{Databank|dexter-jettster|Dexter Jettster|archivedate=20170707044534}}
+*{{Databank|wa-7|WA-7|archivedate=20150903023434}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Dexter Jettster
+|ja=デクスター・ジェットスター/正史
+|ru=Декстер Джеттстер/Канон
+}}
+
+{{DEFAULTSORT:Jettster, Dexter}}
+[[Category:Besalisks]]
+[[Category:Business owners and executives]]
+[[Category:Chefs]]
+[[Category:Coruscanti]]
+[[Category:Galactic Republic individuals]]
+[[Category:Males]]
+[[Category:Miners]]

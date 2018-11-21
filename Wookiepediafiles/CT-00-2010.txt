@@ -1,0 +1,40 @@
+{{Eras}}
+{{Character
+|type=Galactic Republic
+|image=Droidbait-TCWPromo.jpg
+|name=CT-00-2010<br />"Droidbait"
+|homeworld=[[Kamino]]<ref name="Clone troopers">{{Databank|clone-troopers|Clone troopers}}</ref>
+|birth=
+|death=[[22 BBY]], [[Rishi moon]]<ref name="Rookies">{{TCW|Rookies}}</ref>
+|species=[[Human]] {{C|[[Cloning|clone]]}}<ref name="Clone troopers" />
+|gender=[[Sexes|Male]]<ref name="Clone troopers" />
+|height=1.83 [[meter]]s<ref name="Clone troopers" />
+|mass=
+|hair=[[Color|Black]]<ref name="Rookies" />
+|eyes=Brown<ref name="Rookies" />
+|skin=Tan<ref name="Rookies" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Rookies" />
+**[[Domino Squad]]<ref name="Clone Cadets">{{TCW|Clone Cadets}}</ref>
+|masters=
+|apprentices=}}
+{{Quote|Can you stop being droid bait out there?!|[[CT-782|Hevy]] during training|Clone Cadets}}
+'''CT-00-2010''', nicknamed "'''Droidbait'''," was a [[Sexes|male]] [[clone trooper]] who served as a part of [[Domino Squad]]<ref name="Clone Cadets" /> in the [[Clone ]] for the [[Grand Army of the Republic|Grand Army]] of the [[Galactic Republic|Republic]]. He was [[Death|killed]] by [[BX-series droid commando|commando droids]] on the [[Rishi]] [[Rishi moon|moon]] [[Rishi Station|outpost]].<ref name="Rookies" />
+
+{{Char-stub}}
+
+==Appearances==
+*{{TCW|Clone Cadets}}
+*{{TCW|Rookies}} {{1st}}
+
+==Sources==
+*''[[Star Wars: Absolutely Everything You Need to Know]]'' {{1stID}}
+*{{SW|url=tv-shows/clone-wars/rookies|text=Rookies}}
+*{{SW|url=tv-shows/clone-wars/clone-cadets|text=Clone Cadets}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Clone troopers]]

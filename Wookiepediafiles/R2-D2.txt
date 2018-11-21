@@ -1,0 +1,844 @@
+{{Eras}}
+{{Doom}}
+{{Expand}}
+{{Update|[[Star Wars Battlefront II]], [[The Starfighter Stunt]], [[Thrawn: Alliances]], [[Trouble Again]], [[From a Certain Point of View]], [[The Weapon of a Jedi: A Luke Skywalker Adventure]], [[Star Wars Annual 4]], [[Star Wars Book II: Showdown on the Smuggler's Moon]], [[Star Wars: Vader Down]], [[Star Wars Book IV: Rebel Jail]], [[Star Wars Book V: The Last Flight of the Harbinger]], [[Droid Dilemma]], [[Star Wars 26: Yoda's Secret War, Part I]], [[Star Wars 35: The Hutt Run]], [[Star Wars 36: Revenge of the Astromech]], [[Star Wars 37: Imperial Pride]], [[Star Wars Book X: Mutiny at Mon Cala]], [[Star Wars 50: Hope Dies, Part I]], [[Star Wars 52: Hope Dies, Part III]], {{FOD|Beasts of Echo Base}}, [[The Path Ahead]], [[Moving Target: A Princess Leia Adventure]], [[Bounty Hunted]], [[The Legends of Luke Skywalker]], {{IDWAdventuresCite|Ashcan|}}, [[Star Wars: The Last Jedi: Expanded Edition]], [[Porg Problems]], [[Porgs!]], [[Poe Dameron 28: The Awakening, Part III]]}}
+{{Droid
+|image=[[File:ArtooTFA2-Fathead.png]]
+|name=R2-D2
+|homeworld=[[Naboo]]<ref name="SWE">{{SWE|characters|r2d2|R2-D2}}</ref>
+|birth=During or Prior to [[32 BBY]]<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref>
+|death=[[20 BBY]] {{C|rebuilt shortly after}}<ref name="Point of No Return">{{TCW|Point of No Return}}</ref>
+|creator=
+|manufacturer=[[Industrial Automaton]]<ref name="Rebels Visual Guide">''[[Star Wars Rebels: The Visual Guide]]''</ref>
+|line=[[R-series]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|model=[[R2 series astromech droid]]<ref name="Star Wars: Episode IV A New Hope">[[Star Wars: Episode IV A New Hope|''Star Wars:'' Episode IV ''A New Hope'']]</ref>
+|class=[[Astromech droid]]<ref name="R2-D2 DB">{{Databank|r2-d2|R2-D2}}</ref>
+|degree=
+|cost=
+|length=
+|width=
+|height=1.09 [[meter]]s<ref name="SWE" />
+|mass=32 [[kilogram]]s<ref name="Star Wars Rebels: Head to Head">''[[Star Wars Rebels: Head to Head]]''</ref>
+|gender=[[Sexes|Masculine programming]]<ref name="R2-D2 DB" />
+|sensor=[[Color|Red]]<ref name="Star Wars: Episode IV A New Hope" />
+|plating=[[Color|Blue]]<br>[[Color|Silver]]
+|armament=
+|equipment=*Buzz saw<ref name="Star Wars: Episode VI Return of the Jedi">[[Star Wars: Episode VI Return of the Jedi|''Star Wars:'' Episode VI ''Return of the Jedi'']]</ref>
+*Electric pike
+*Drinks tray {{C|Only on [[Khetanna|Jabba's Sail Barge]]}}<ref name="Star Wars: Episode VI Return of the Jedi" />
+*Fusion welder
+*[[Data probe]]<ref name="TFA Visual Dictionary">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+*Power recharge coupler
+*[[Rocket booster]]<ref name="AOTC">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+*[[Holoprojector]]
+*Motorized, all-terrain treads<ref name="TFA Visual Dictionary" />
+*Retractable third leg
+|era=
+|affiliation=*[[Royal House of Naboo]]<ref name="TPM">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+*[[Jedi Order]]<ref name="ROTS">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+*[[Galactic Republic]]<ref name="TPM" />
+**[[501st Legion]]<ref name="TCW film">{{TCW|Star Wars: The Clone Wars (film)|Star Wars: The Clone Wars}}</ref>
+**[[R2-D2's battle droid squadron]]<ref name="The Citadel">{{TCW|The Citadel}}</ref>
+**[[D-Squad]]<ref name="Secret Weapons">{{TCW|Secret Weapons}}</ref>
+*[[House of Organa]]<ref name="ROTS" />
+*[[Galactic Empire]]<ref name="Droids in Distress">{{Rebels|Droids in Distress}}</ref>
+*[[Alliance to Restore the Republic]]<ref name="Star Wars: Episode IV A New Hope" />
+**[[Massassi Group]]<ref name="Star Wars: Episode IV A New Hope" />
+**[[Red Squadron (Rebel Alliance)|Red Squadron]]<ref name="Star Wars: Episode IV A New Hope" />
+**[[Leia Organa's team]]<ref name="Star Wars 1: Skywalker Strikes">''[[Star Wars 1: Skywalker Strikes]]''</ref>
+**[[Rogue Squadron]]<ref name="SW 52">''[[Star Wars 52: Hope Dies, Part III]]''</ref>
+**[[Endor strike team]]<ref name="Star Wars: Episode VI Return of the Jedi" />
+*[[Bright Tree tribe]] {{C|honorary member}}<ref name="Star Wars: Episode VI Return of the Jedi" />
+*[[Resistance]]<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>}}
+{{Quotetrans|Thank you for telling me all this. I know it can be hard to talk about, but war stories are important. I sometimes think it's my destiny&mdash;to see things, to be present, to witness the galaxy moving, evolving. It happens to me over and over again&mdash;but even so, I can't see everything. And so, I like hearing the stories. Recording them.|R2-D2, to BB-8|Poe Dameron 28: The Awakening, Part III}}
+'''R2-D2''', pronounced '''Artoo-Detoo''' and often referred to as '''R2(Artoo)''', was an [[R2 series astromech droid|R2 series]] [[astromech droid]] manufactured by [[Industrial Automaton]] with masculine programming. A smart, spunky droid serving a multitude of masters over its lifetime, R2 never had a full memory wipe (apart from a partial mind-wipe by Cad Bane during the buildup to the senate hostage crisis) nor has he received new programming, with these factors resulting in an adventurous and independent attitude. Oftentimes finding himself in pivotal moments in [[The galaxy|galactic]] [[Timeline of galactic history|history]], his bravery and ingenuity saved the galaxy time and time again.
+
+Beginning his service in the employ of Queen [[Padmé_Amidala|Amidala]] of Naboo, the droid would wind up serving [[Jedi Knight]] [[Anakin Skywalker]] during the waning years of the [[Galactic Republic]], often accompanied by the protocol droid [[C-3PO]] in many adventures throughout the [[Clone Wars]]. After his master's turn to the [[dark side of the Force]], he would eventually serve Senator [[Bail Organa]] for a time in the [[Imperial Senate]]. Nineteen years following the death of the Galactic Republic, he would play a pivotal role in helping the [[Alliance to Restore the Republic]] destroy the [[Galactic Empire|Empire's]] dreaded [[DS-1 Orbital Battle Station|Death Star]], carrying technical readouts essential to its destruction. Serving Jedi Purge survivor [[Luke Skywalker]] throughout the [[Galactic Civil War]], he would participate in both the Battles of [[Battle of Hoth|Hoth]] and [[Battle of Endor|Endor]], and would witness the destruction of the Empire's dreaded [[Death Star II]] a mere four years after the first space station's destruction.
+
+In the subsequent thirty years, Artoo would accompany Luke Skywalker until the [[Destruction of Luke Skywalker's Jedi Temple|destruction]] of his attempted resurrection of the [[Jedi Order]]. Following Luke's disappearance, Artoo set himself into a self-imposed low power mode as newer droid models started to out-compute the aging astromech. Despite this, his celebrated role in the Rebellion protected him from the usual recycling procedure of many old droids, allowing him a peaceful semi-retirement in the [[Resistance]] as he pored over several decades of uninterrupted data, causing him to 'dream' of many of his greatest adventures.
+
+==Biography==
+===Serving Padmé Amidala===
+====Invasion of Naboo====
+{{Quote|An extremely well-put together droid, Your Highness. Without a doubt, it saved the ship, as well as our lives.''"<br />"''It is to be commended. What is its number?''"<br />"''R2-D2, Your Highness.''"<br />"''Thank you, R2-D2.|Captain Panaka and Sabé in the guise of Queen Amidala|Star Wars: Episode I The Phantom Menace}}
+[[File:R2 repair.png|left|thumb|225px|R2-D2 repairing the shield generator of Queen Amidala's Royal Starship.]]
+R2-D2 was one of several [[astromech droid]]s stationed on [[Queen]] [[Padmé Amidala|Amidala's]] [[Naboo Royal Starship]] during the [[invasion of Naboo]] by the [[Trade Federation]]. The ship was used by Queen Amidala and her entourage in an attempt to escape the planet. Unluckily for the ship's passengers, the vessel took a hit to the [[Deflector shield generator|shield generator]] from a Trade Federation battleship. The astromechs were sent out to repair the ship but only R2-D2 survived to bring the shields online by bypassing the main power drive, allowing [[pilot]] [[Ric Olié]] to escape into [[hyperspace]].<ref name="TPM" />
+
+As the ship traveled to [[Tatooine]], R2-D2 was taken before [[Sabé]], the Queen's decoy in the guise of Amidala, where he was commended for his actions. The ship landed on Tatooine without any further incidents, although the voyage fried the [[hyperdrive]]. R2-D2 accompanied [[Jedi]] [[Jedi Master|Master]] [[Qui-Gon Jinn]], [[Gungan]] exile [[Jar Jar Binks]] and Padmé, the queen in disguise, to the city of [[Mos Espa]] to find a replacement. In the junk shop of the [[Toydarian]] merchant [[Watto]] they found they could not afford a replacement hyperdrive and later took shelter from a sandstorm in the home of Watto's slaves, a boy named [[Anakin Skywalker]], and his mother, [[Shmi Skywalker Lars|Shmi]].<ref name="TPM" />
+
+At the [[Skywalker home]], R2-D2 met [[C-3PO]], a [[protocol droid]] that Anakin had built. The two would bond as they worked on Anakin's [[Anakin Skywalker's Podracer|personal]] [[podracer]]. R2-D2 and C-3PO would cheer on Anakin during the [[Boonta Eve Classic]], where the boy would win his freedom, and enough money to buy a new hyperdrive.<ref name="TPM" />
+
+R2-D2 accompanied the group to [[Coruscant]], and from there back to Naboo. As Queen Amidala led an attempt to liberate the planet, R2-D2 nestled into an [[N-1 starfighter]]. Anakin, being ordered to hide in the cockpit by Qui-Gon Jinn, accidentally launched the fighter and the two flew into battle, destroyed the [[Lucrehulk-class Battleship|Droid Control Ship]] and shut down the droid armies, liberating Naboo.<ref name="TPM" />
+
+===The Clone Wars===
+====Genesis of the Clone Wars====
+{{Quote|Don't worry. We have Artoo with us.|Anakin Skywalker, to Padmé Amidala|Star Wars: Episode II Attack of the Clones}}
+R2-D2 accompanied Amidala to Coruscant prior to the [[Galactic Senate|senate's]] vote on the [[Military Creation Act]]. After an assassination attempt on Amidala took the life of her handmaiden and decoy, [[Corde]], Obi-Wan Kenobi and Anakin Skywalker were assigned to be her Jedi protectors. That night, another assassination attempt was carried out. A pair of [[Indoumodo kouhun|kouhuns]] narrowly missed killing Amidala and although one assassin, [[Zam Wesell]], was neutralized, [[Jango Fett|another]] escaped.<ref name="AOTC" />
+
+[[File:Skyrocketsinflight.jpg|thumb|220x220px|R2 using his rockets just prior to the Battle of Geonosis.]]
+For her own protection, Padmé was sent home to Naboo, with R2-D2 and Anakin Skywalker accompanying her. The three would later travel to Tatooine, where they were reunited with C-3PO, and then to [[Geonosis]] to rescue Kenobi. As they explored a massive droid factory, R2-D2 had to save Amidala from being covered with molten lava while C-3PO temporarily switched heads with a battle droid. R2 was able to restore his companion during the [[Battle of Geonosis]]. After the battle, R2-D2 and C-3PO were the sole witnesses to the marriage of Anakin Skywalker and Padmé Amidala in [[Lake Country]].<ref name="AOTC" />
+
+====The Defense of Christophsis====
+[[File:R2-D2 Anakin and Obi-Wan meet Ahsoka.png|left|thumb|250x250px|R2-D2 with Anakin Skywalker and Obi-Wan Kenobi when Anakin met Ahsoka Tano for the first time.]]
+Following the outbreak of the Clone Wars, R2-D2 accompanied Skywalker and Master Kenobi, who had both been promoted to the position of [[Jedi General]], during the [[Battle of Christophsis|defense]] of the planet [[Christophsis]] against a besieging [[Confederacy of Independent Systems|Separatist]] army led by [[Admiral]] [[Trench]]. When the [[Clone Commander]] [[CC-2224|Cody]] and the [[Clone Captain]] [[Rex]] discovered a [[Slick|spy]] among their number, Artoo Detoo helped to ferret out the traitor by monitoring his transmissions. R2-D2's work led to the arrest of [[Clone Sergeant]] Slick, who was identified as the traitor.<ref name="The Hidden Enemy">{{TCW|The Hidden Enemy}}</ref> During the subsequent battle, the Jedi and Clones managed to defeat the Separatist army by sabotaging their shield generator; exposing them to Republic artillery. The Republic forces were also aided by the arrival of [[Ahsoka Tano]], Skywalker's newly designated [[Togruta]] [[Padawan]].<ref name="TCW film" />
+
+====Rescuing Rotta====
+Following the defense of Christophsis, R2-D2 along with General Skywalker and his Padawan Ahsoka Tano took part in a mission to rescue [[Rotta]], the son of the [[Hutt]] [[crime lord]] [[Jabba Desilijic Tiure|Jabba]]. While Skywalker and Tano successfully [[Battle of Teth|laid siege]] to a Separatist-held [[B'omarr Order Monastery]] on [[Teth]] where Rotta was being held, R2-D2 sat in Skywalker's [[starfighter]] and maintained contact with High General Kenobi. Skywalker's starfighter was hit when Separatist reinforcements arrived but he managed to eject from the vehicle moments before it exploded. Later, Artoo linked up with Skywalker and Tano as they escaped from the building.<ref name="TCW film" />
+
+[[File:Dragonflypursuit.png|thumb|220x220px|R2 using his rockets to escape Ventress.]]
+On the way, they encountered [[Asajj Ventress]], a dark side agent of the Separatist leader [[Count]] [[Dooku]], and several [[B2 super battle droid]]s. Before a skirmish could occur, Artoo activated a trap-door which sent everyone plunging down a chute into an arena. During the skirmish, R2-D2 assailed a second group of B2 battle droids, causing them to fall into the arena. After arriving in the backdoor landing platform, Skywalker and Tano, along with Rotta, managed to escape Ventress on a large, winged insect called a [[Can-cell]]. Artoo followed behind by activating his booster rockets. Artoo and his companions then left Teth on a [[G9 Rigger-class light freighter|G9 ''Rigger''-class light freighter]] called ''[[Twilight|Twlight]]''.<ref name="TCW film" />
+
+Unable to rendezvous with the [[Star Destroyer]], R2-D2 and his companions were forced to travel to Tatooine and deliver the Huttlet directly to his father, who owned a [[Jabba's Palace|desert palace]] there. R2-D2 programmed the coordinates into the ship's [[navigation computer|navicomputer]], and it jumped to hyperspace. Arriving above Tatooine, the ''Twilight'' was attacked by Separatist [[Variable Geometry Self-Propelled Battle Droid, Mark I|vulture droids]] and crash-landed on the [[Dune Sea]]. Artoo and his companions were forced to continue the journey to Jabba's palace on foot. While Skywalker confronted Count Dooku, Artoo and Tano continued the journey to Jabba's palace. After fighting off three [[IG-100 MagnaGuard]]s, the two then entered the palace and returned the Huttlet, which coupled with a holo-transmission from Senator Amidala on Coruscant identifying Jabba's uncle [[Ziro Desilijic Tiure/Canon|Ziro]] as the instigator behind the kidnapping, placated an angry Jabba. As a result, the Republic was able to conclude a treaty with Jabba.<ref name="TCW film" />
+
+====Hunting the ''Malevolence''====
+[[File:Shadow Squadron briefing.png|left|thumb|220x220px|R2 helping Anakin brief Shadow Squadron for their mission with his holo-projector.]]
+R2-D2 along with Anakin Skywalker and Obi-Wan Kenobi later took part in the hunt for General Grievous' flagship, the [[Subjugator-class heavy cruiser|''Subjugator''-class heavy cruiser]] ''[[Malevolence]]'', which had destroyed several Republic warships. After a prolonged hunt, Skywalker's [[Venator-class Star Destroyer|''Venator''-class Star Destroyer]] ''[[Resolute]]'' prepared to destroy the ''Malevolence'' near the [[Kaliida Nebula]]. However, their mission was complicated by the arrival of Senator Padmé Amidala's yacht, which had been lured there by disinformation. Unwilling to endanger his wife, Skywalker, accompanied by R2-D2 and Kenobi, boarded the ''Malevolence'' to rescue her.<ref name="Destroy Malevolence">{{TCW|Destroy Malevolence|Destroy ''Malevolence''}}</ref>
+
+During their mission aboard the ''Malevolence'', R2-D2 remained at the [[airlock]] entrance where he shut down the [[Rail jet/Canon|rail jet]] [[Hovertrain/Canon|hovertrain]] under orders from Skywalker. Artoo then help locate his old friend C-3PO, who had arrived with Amidala but gotten lost aboard the massive warship. After finding Threepio, the two droids rendezvoused with Amidala and Skywalker before meeting Kenobi at Skywalker's ship, the ''Twilight''. After destroying the ''Malevolence'' by sabotaging its hyperdrive, R2 and his companions fled back to the ''Resolute''. Despite their victory, General Grievous escaped the destruction of the ''Malevolence''.<ref name="Destroy Malevolence" />
+
+====Captive of General Grievous====
+[[File:R2-taken apart.jpg|thumb|250x250px|R2 being taken apart.]]
+During the Separatist [[Battle of Bothawui|assault]] on [[Bothawui]], R2-D2 flew in the droid socket of General Skywalker's starfighter. While pursuing General Grievous' [[Soulless One|starfighter]], Skywalker and Artoo's starfighter was hit by a piece of shrapnel. Skywalker was rescued by Republic forces but Artoo was recovered by the [[Trandoshan]] [[scavenger]] [[Gha Nachkt]], who sold him to General Grievous. Nachkt traveled to Grievous' secret listening post [[Skytop Station]], which lay in the [[Ruusan system]]. Knowing Artoo's relationship with Skywalker, the Separatist military leader ordered Nachkt to disassemble the astromech droid and extract all information on the Republic's military strategies from him.<ref name="Downfall of a Droid">{{TCW|Downfall of a Droid}}</ref>
+
+During his captivity, R2-D2 had managed to broadcast an emergency transmission to Skywalker, who traveled to Skytop Station and rescued him. Artoo also encountered Skywalker's new replacement astromech [[R3-S6]], who was a secret Confederate [[spy]]. While traveling to the hangar bay where Skywalker's ship ''Twilight'' was docking, R3-S6 showed his true colors by shutting the hangar doors and activating several Vulture droids and B2 battle droids which attacked Skywalker, Artoo, and several Clone troopers. Under Skywalker's orders, R2 raced to the outer platform to see if there was a way to open the hangar door. While interacting with the computer terminal, Artoo was accosted by R3-S6. Following a battle, R2-D2 succeeded in defeating the Separatist spy droid. Together with Skywalker, they escaped Skytop Station before it exploded.<ref name="Duel of the Droids">{{TCW|Duel of the Droids}}</ref>
+
+====Mission to Orto Plutonia====
+[[File:Epguide007.jpg|thumb|left|300px|R2-D2 dueling with the Separatist droid R3-S6.]]
+Later, R2-D2 accompanied C-3PO, General Skywalker, Master Kenobi and a force of Clone troopers on a mission to investigate the disappearance of a local Clone trooper garrison on icy [[Orto Plutonia]]. Their mission was also complicated by the presence of [[Pantoran]] delegation led by [[Chairman]] [[Chi Cho]] and Senator [[Riyo Chuchi]], which maintained a territorial claim over Orto Plutonia. After discovering the dead Clone troopers and a wrecked Separatist base nearby, the Jedi and Republic mission deduced that a third force had been responsible for the attack. Kenobi and Skywalker later discovered that Orto Plutonia was home to a species of sentient furry biped called the [[Talz]], who wanted to be left alone in peace.<ref name="Trespass">{{TCW|Trespass}}</ref>
+
+The two Jedi were able to convince the Talz [[Chief]]tain [[Thi-Sen]] that the Republic had come in peace. However, the bigoted Pantoran Chairman Cho refused to treat the Talz as equals and reiterated his people's claim to Orto Plutonia; sparking [[Battle of Orto Plutonia|conflict]] between the Pantorans and the Talz. The conflict was abruptly halted when Senator Chuchi received permission from the Pantoran [[Speaker of the Assembly]] to negotiate peace and to relieve Cho of his position. R2-D2 and C-3PO accompanied Chuchi, the Jedi, and what clone troopers were not fighting to the scene of the battle, where Chuchi and C-3PO made peace with Thi-Sen and renounced Pantora's claim to Orto Plutonia.<ref name="Trespass" />
+
+====Blue Shadow Virus====
+Following the discovery of a secret Separatist bioweapons research facility in Naboo's [[eastern swamps]], R2-D2 accompanied General Skywalker, Padawan Tano, and Master Kenobi when they traveled to Naboo to apprehend the Separatist scientist [[Doctor]] [[Nuvo Vindi]]. With the aid of Senator Amidala, Representative Binks, C-3PO and several Clone troopers, Artoo and the Jedi managed to capture Dr Vindi and to secure his facility, which was producing a deadly virus called the [[Blue Shadow Virus]]. However, their mission was complicated when Tano, Amidala, Binks and several Clone troopers became trapped in the laboratory with an airborne strain of the Blue Shadow Virus.<ref name="Blue Shadow Virus">{{TCW|Blue Shadow Virus (episode)|Blue Shadow Virus}}</ref>
+
+Learning that the root of the [[Reeksa|Reeksa plant]] contained the antidote to the Blue Shadow Virus, R2-D2 along with Skywalker and Kenobi traveled to the planet [[Iego]] on the ''Twilight'' to obtain the plant. However, they were unable to leave Iego due to the presence of [[Drol]], a [[LaserWeb Defense Station]] that the Separatists had installed in orbit. R2-D2 helped the two Jedi to break through Drol by slave-rigging several Vulture droids and sending them on kamikaze runs against the space station. Artoo's role in destroying Drol enabled Skywalker and Kenobi to travel back to Naboo with the Reeksa plant antidote; allowing them to save the lives of Senator Amidala, Tano, and the Clone troopers.<ref name="Mystery of a Thousand Moons">{{TCW|Mystery of a Thousand Moons}}</ref>
+
+[[File:AnakinArtoo-SOR.jpg|right|thumb|325px|Master and droid tinker with Tano's starfighter above Ryloth.]]
+
+====Liberation of Ryloth====
+Later, the Separatist leader [[Emir]] [[Wat Tambor]] invaded the [[Twi'lek]] homeworld of [[Ryloth]] and [[Slavery|enslaved]] its inhabitants. R2-D2 was part of the Republic force led by General Anakin Skywalker and [[Commander]] Ahsoka Tano that was sent to relieve Ryloth. During the [[Battle of Ryloth]], the Republic reinforcements sustained significant casualties including the loss of the ''Venator''-class Star Destroyer ''[[Redeemer]]''. While Republic forces regrouped, Artoo helped his Master, Skywalker, to repair Tano's starfighter.<ref name="Storm Over Ryloth">{{TCW|Storm Over Ryloth}}</ref>
+
+R2-D2 later took part in the Republic counter-attack against the Separatist blockade when he and Skywalker piloted the damaged Star Destroyer ''[[Defender]]'' into the Separatist flagship. Prior to the crash, Artoo and his master escaped in an escape pod that was picked up by another Star Destroyer. The destruction of the Separatist flagship enabled Republic bombers to destroy the remaining Separatist warships; clearing the way for more reinforcements led by High Generals Kenobi and [[Mace Windu]] to liberate Ryloth.<ref name="Storm Over Ryloth" />
+
+====Hunting Cad Bane====
+R2-D2 later participated in a joint Republic and Jedi operation to hunt down the Separatist-aligned bounty hunter [[Cad Bane]], who had stolen a [[holocron]] from the [[Imperial Palace|Jedi Temple]] on Coruscant. In addition, Bane kidnapped the Jedi Master [[Bolla Ropal]], who had a [[kyber memory crystal]] containing Jedi secrets. Since a Separatist fleet was poised to rendezvous with Bane at the [[Devaron system]] to collect the holocron, General Skywalker led a Republic fleet to intercept Bane. Artoo along Skywalker, Tano, and Captain Rex succeeded in boarding the [[Cad Bane's Munificent-class star frigate|bounty hunter's]] [[Munificent-class star frigate|''Munificent''-class star frigate]].<ref name="Cargo of Doom">{{TCW|Cargo of Doom}}</ref>
+
+In response, Bane killed Master Ropal and set his ship for self-destruct. During the fighting aboard the Separatist cruiser, R2 aided his companions by locating Ropal's cell and later reactivating the artificial gravity during a skirmish with battle droids. Ahsoka was taken hostage by Bane during the fighting. After rescuing her, Artoo and his companions escaped the derelict ship aboard a [[Sheathipede-class transport shuttle|''Sheathipede''-class transport shuttle]].<ref name="Cargo of Doom" /> However, the Jedi failed to recover the stolen holocron and Bane managed to escape the battlefield by impersonating a Clone trooper. Using the holocron and the stolen kyber crystal, Bane disguised himself as a Jedi and began kidnapping [[Force-sensitive]] children under orders from [[Darth Sidious]].<ref name="Children of the Force">{{TCW|Children of the Force}}</ref>
+
+After recapturing Cad Bane on Naboo, R2-D2 along with Skywalker and Tano examined Bane's starfighter ''[[Xanadu Blood]]'' and discovered that he had recently traveled to the volcanic planet of [[Mustafar]]. Artoo later accompanied his master and Tano to Mustafar where they managed to rescue the children following a skirmish with Separatist droids. However, they were unable to locate the mastermind behind Bane, who turned out to be Darth Sidious, who had publicly assumed the persona of the Republic's [[Supreme Chancellor]] Palpatine.<ref name="Children of the Force" />
+
+[[File:R2-D2-spa.png|left|thumb|300px|R2-D2 visiting Droid Spa]]
+
+====The Senate Hostage Crisis====
+Following R2-D2 and Skywalker's adventures with Cad Bane, the two visited Senator Amidala on Coruscant. The Senator and C-3PO were organizing a party for Senator [[Aang]], a friend of Amidala. After R2-D2 forgot to buy some [[jogan fruit]] for garnishing the [[jogan fruit cake]] dessert, Skywalker sent Artoo and Threepio to the market. The two droids quarreled the whole way, with C-3PO blaming his astromech counterpart for his competence.<ref name="Evil Plans">{{TCW|Evil Plans}}</ref>
+
+However, C-3PO got himself swindled by the fruit vendor, who overcharged for the jogan fruit. Right after the purchase, a droid called [[Todo 360]] came up to them and suggested that the two droids relax at a nearby [[Droid Spa|maintenance spa]]. Artoo enthusiastically agreed with the suggestion. On the way to the spa, the two droids were separated and C-3PO was kidnapped by TODO-360 and a fellow sentinel droid called [[HELIOS-3E]]. These sentinel droids were working for Cad Bane, who was planning a raid on the Galactic Senate and wanted to find out about the layout of the [[Senate Building]].<ref name="Evil Plans" />
+
+When C-3PO failed to provide the information, Bane ordered his droid henchmen to kidnap R2-D2. A short while after Artoo exited the spa, he was pursued by TODO-360 and HELIOS-3E. Artoo managed to hide in a dark alley but surrendered himself after learning that Bane planned to dismantle Threepio. Accessing R2-D2's [[Memory core|memory banks]], Bane was able to obtain a technical layout of the Senate Building. He then had the two droids [[memory wipe|mind-wiped]] of the kidnapping and returned to the place where they had been snatched. Completely unaware of what had transpired previously, R2-D2 and C-3PO returned to Amidala's apartment with the jogan fruit.<ref name="Evil Plans" /> Following their kidnapping and release, Bane and several associates [[Senate hostage crisis|invaded]] the Senate and kidnapped several Senators in a successful attempt to force the Republic to release Jabba's uncle Ziro.<ref name="Hostage Crisis">{{TCW|Hostage Crisis}}</ref>
+
+====Exposing the Senate Spy====
+[[File:AhsokaZeroG-CoD.jpg|thumb|right|300px|R2-D2 and Anakin's Padawan Ahsoka during one of his many Clone Wars missions]]
+R2-D2 and C3-PO were briefly reunited when the two droids accompanied their masters Senator Amidala and General Skywalker on a sensitive [[Mission to Cato Neimoidia|mission]] to [[Cato Neimoidia]]. The quartet were accompanying [[Rush Clovis]], a delegate representing the [[InterGalactic Banking Clan]] in the Senate. The Jedi Council suspected that Clovis was secretly spying for the Separatists and sent Skywalker and Amidala to spy on him. During the journey, Skywalker posed as Amidala's pilot while Artoo posed as one of Amidala's astromech droids. Upon arriving on Cato Neimoidia, Artoo and Skywalker stayed aboard Amidala's ship while Amidala, Clovis, and C-3PO met the Trade Federation's [[Senator]] [[Lott Dod]].<ref name="Senate Spy">{{TCW|Senate Spy}}</ref>
+
+While socializing with Clovis and Dod, Amidala managed to steal a [[hologram disc]] which confirmed that Clovis was indeed spying for the Separatists. Amidala managed to pass the datacard to Skywalker and R2-D2 before she succumbed to the effects of a poison drink spiked by Senator Dod. After securing the datacard and an antidote for Amidala, R2-D2 and his companions left Cato Neimoidia. However, Clovis was left behind to face the "tender mercies" of a displeased Senator Dod.<ref name="Senate Spy" /> Using the intelligence obtained from the stolen datacard, Republic and Jedi forces were able to destroy a Separatist droid factory on Geonosis.<ref name="Weapons Factory">{{TCW|Weapons Factory}}</ref>
+
+====Mission to Mandalore====
+Later, R2-D2 accompanied Generals Skywalker and Kenobi on a sensitive mission to escort the [[Mandalorian]] [[Duke|Duchess]] [[Satine Kryze]], who was traveling to the Galactic Senate on Coruscant to plead the case for her homeworld's neutrality. While the Mandalorians were officially neutral in the Clone Wars, there had been rumors that the planet was planning to join the Separatists. There was also a pro-Separatist Mandalorian faction known as the [[Death Watch]]. Master Kenobi had been picked to lead this mission because he was an old friend of the Duchess, who was a member of a pacifist faction called the [[New Mandalorians]].<ref name="Voyage of Temptation">{{TCW|Voyage of Temptation}}</ref>
+
+Duchess Satine was traveling to Coruscant on the Mandalorian luxury spaceliner ''[[Coronet]]''. Under orders from Skywalker and Kenobi, R2-D2 and several Clone troopers probed the ship for any signs of Death Watch or Separatist activity. After entering hyperspace, the Jedi and clones were attacked by several [[SD-K4 assassin droid|assassin probes]]. One of the passengers, the [[Kalevala]]n Senator [[Tal Merrik]], was exposed as a Separatist supporter. Merrik took Satine hostage and seized control of the cockpit. Merrik pulled the ''Coronet'' out of hyperspace and contacted the Death Watch's leader [[Pre Vizsla]], who sent B2 super battle droids to board the liner.<ref name="Voyage of Temptation" />
+
+R2-D2 along with the clones and Jedi fought off the Separatist boarders. During the fighting, Merrik was killed by Skywalker and Duchess Satine was freed by the Jedi. Following the defeat of the Death Watch and Separatists, the ''Coronet'' arrived in Coruscant safely with Duchess Satine.<ref name="Voyage of Temptation" /> After some further Separatist attempts to sabotage her peace mission, Duchess Satine was able to convince the Galactic Senate, with the help of Senator Amidala and Master Kenobi, that Mandalore wanted to remain neutral during the Clone Wars. As a result, the Senate rescinded an earlier order to occupy Mandalore.<ref name="Duchess of Mandalore">{{TCW|Duchess of Mandalore}}</ref>
+
+[[File:C3POR2D2zillo.jpg|thumb|left|300px|R2-D2 giving C-3PO a piggy-back ride]]
+
+====The Zillo Beast affair====
+Later, R2-D2 accompanied General Skywalker during the [[Battle of Malastare]]. The Republic was fighting against the Separatists for access to [[Malastare]]'s vast [[Malastarian fuel|fuel reserves]]. The Republic's Grand Army fought alongside the [[Dug]]s against the Separatist droid army. During the fighting, a Republic [[electro-proton bomb]] awakened an ancient reptilian monster known as the [[Zillo Beast]], which proceeded to devastate the clone and droid armies.<ref name="The Zillo Beast">{{TCW|The Zillo Beast}}</ref>
+
+During the fighting, R2-D2 and Skywalker barely escaped their starfighter before it was devoured by the monster. Skywalker held on to R2-D2 as they rocketed away from the Zillo Beast. Later, the Republic forces managed to incapacitate the Zillo Beast by stunning it with [[RX-200 Falchion-class assault tank|RX-200 ''Falchion''-class assault tanks]]. Following the battle, Supreme Chancellor Palpatine ordered that the Zillo Beast be brought to Coruscant for further study despite the misgivings of General Windu and General Skywalker.<ref name="The Zillo Beast" /> Palpatine hoped to use its scales to develop a new [[armor]] for the Grand Army.<ref name="The Zillo Beast Strikes Back">{{TCW|The Zillo Beast Strikes Back}}</ref>
+
+To remove the scales, Palpatine ordered the [[scientist]] [[Sionver Boll]] to kill the creature with Malastarian fuel. However, Senator Amidala learned of Palpatine's plan and arranged a meeting with Skywalker and Kenobi. As a result, R2-D2 got to meet his protocol counterpart C-3PO again briefly. Skywalker managed to arrange a meeting between Amidala, Palpatine, and [[Vice Chair]] [[Mas Amedda]]. However, the Zillo Beast escaped Boll's laboratory at the same time and proceeded to wreck havoc on the streets of Coruscant. Sensing that Palpatine was a Sith, the Zillo Beast made its way to the Galactic Senate building. R2-D2, C-3PO, and their companions escaped in an executive ship but it was captured by the Zillo Beast.<ref name="The Zillo Beast Strikes Back" />
+
+Before the monster could devour the ship, Skywalker managed to use his lightsaber to cleave the vessel in half; sending the bow along with R2-D2 and the other passengers plummeting into the Senate Building. R2-D2 managed to activated his booster rockets and rescue C-3PO. The astromech droid also used a tow cable to attach himself to the other side of the building. R2-D2 was forced to drop C-3PO to rescue Palpatine. Shortly later, the Zillo Beast was killed by [[gas bomb]]s fired from [[Low Altitude Assault Transport/infantry|LAAT gunships]]. Due to this quick intervention, R2-D2 survived the Zillo Beast incident and continued serving Skywalker.<ref name="The Zillo Beast Strikes Back" />
+
+====The Vanqor Trap====
+[[File:Gundark grabs Artoo.png|thumb|right|300px|Artoo struggling with a Gundark]]
+After the ''Venator''-class Star Destroyer ''[[Endurance]]'' crash-landed on the planet [[Vanqor]], R2-D2 along with General Skywalker, Master Mace Windu, and the astromech droid [[R8-B7]] participated in a mission to rescue the crew and passengers of the stricken vessel. Unknown to R2 and his companions, the former [[bounty hunter]] and clone template Jango Fett's son [[Boba Fett]] had sabotaged the vessel and set a trap for the Jedi. He intended to avenge the death of his father Jango by murdered Master Windu, who had killed him during the Battle of Geonosis.<ref name="R2 Come Home">{{TCW|R2 Come Home}}</ref>
+
+While approaching the vessel, R2-D2 beeped that "he had a bad feeling about this". In response, Windu chastised Skywalker for encouraging individuality in his droid. While exploring the bridge of the stricken Star Destroyer, the Jedi and droids came across the bodies of dead Clone troopers who had been executed rather than killed by the impact of the crash. While searching for survivors, R2 and R8 were pursued and set upon by a pack of [[gundark]]s. R8 was ripped apart while R2 was knocked to the ground. Before the gundarks could finish R2 off, a bomb on the bridge exploded; raining shreds of shrapnel on one of the gundarks and forcing another to flee.<ref name="R2 Come Home" />
+
+R2 raised to the bridge and found Skywalker and Windu had survived the blast but were trapped under the rubble. When Artoo attempted to move the debris, he caused the bridge to shudder; prompting Skywalker to warn him to cease trying to free them from the rubble. Instead, he instructed the astromech droid to return to their [[Delta-7B Aethersprite-class light interceptor|Jedi starfighter]] and to contact the Jedi Temple on Coruscant for help. While leaving the bridge, R2 was pursued by Boba Fett's bounty hunter associates including [[Aurra Sing]]. R2 managed to escape and delayed them by using debris to block them.<ref name="R2 Come Home" />
+
+R2 managed to reached the Jedi starfighters but was accosted by the remaining gundark. R2 managed to kill the beast by using a cable to tie it to one of the starfighters and activating its engines. The Jedi starfighter crashed several miles away, dragging the hapless gundark to a fiery death. The bounty hunters then jammed the remaining starfighter's signals and attempted to capture R2. However, the astromech droid managed to escape into hyperspace and travel to Coruscant. There, he relayed Skywalker's message to the other Jedi. In response, Plo Koon and Ahsoka Tano traveled to Vanqor with Clone reinforcements and rescued Skywalker and Windu, who commended the droid for his bravery. However, Boba Fett and his associates escaped and continued to trouble the Jedi.<ref name="R2 Come Home" />
+
+====Infiltrating the Citadel====
+[[File:ArtoosBDSquadron-TC.png|left|250px|thumb|R2-D2 and his battle droid squadron]]
+R2-D2 and his Jedi masters and several Clone troopers later took part in a [[Battle of Lola Sayu|mission to infiltrate]] the Separatist stronghold [[Citadel]] on the planet [[Lola Sayu]] and free the Jedi Master [[Even Piell]]. Piell's cruiser had been ambushed by Separatist forces who wanted to extract information about the secretive [[Nexus Route]] from the captive Jedi. As part of the plan, R2-D2 and a group of reprogrammed [[battle droid]]s would pilot a [[Sheathipede-class Type B shuttle|Class Type B shuttle]] through enemy lines. To fool the Separatist life form detectors, the entire Jedi and Clone trooper strike team were frozen in [[carbonite]]. This plot worked and the Jedi-Republic strike team succeeded in landing at a cavern near the Citadel.<ref name="The Citadel" />
+
+After unfreezing the Jedi and clone troopers, R2-D2 waited aboard the shuttle while the Jedi-Republic strike team freed Master Piell and several Republic officers including [[Captain]] [[Wilhuff Tarkin]].<ref name="The Citadel" /> After achieving their objectives, General Skywalker contacted Artoo to prepare their ship for departure and too meet them at the landing platform. However, the platform was occupied by several Separatist droids. Artoo managed to fool the [[T-series tactical droid|tactical droid]] [[K2-B4]] by posing as a prisoner of the reprogrammed battle droids. This enabled R2 to infiltrate the prison complex and flee General Kenobi and his team who had been captured.<ref name="Counterattack">{{TCW|Counterattack}}</ref>
+
+Following the destruction of their escape transport, Master Piell and R2-D2 contacted the [[Jedi High Council|Jedi Council]] for help. The Jedi Council dispatched a task force of four warships led by Master [[Plo Koon]] to rescue Skywalker and Kenobi's Jedi-Republic rescue team. The Jedi-Republic team planned to rendezvous with their rescuers on a small island situated in a [[Magma|lava]] lake surrounded by a mountain ring. They were pursued by droid forces led by the Separatist [[warden]] [[Osi Sobeck]] who was intent on recovering his prisoners. During the fighting, R2's battle droid squadron sacrificed themselves to hold back the battle droids while Master Piell was murdered by an [[Anooba]], but not before disclosing his secret information to Skywalker's Padawan Ahsoka Tano. Later, the Jedi and Republic strike team were rescued by Plo Koon's forces.<ref name="Citadel Rescue">{{TCW|Citadel Rescue}}</ref>
+
+====Mission to Aleen====
+[[File:Aleen underworld seal.png|thumb|right|250px|R2-D2 and C-3PO inspecting the water seal leading to Aleen's underworld]]
+R2-D2 was again reunited with his protocol counterpart when the two droids took part in a Republic mercy mission to the [[Mid Rim]] planet of [[Aleen]], which was experiencing a series of catastrophic global earthquakes. While Artoo Detoo was tasked with interfacing with the equipment, C-3PO served as a translator for the Clone Commander [[CC-3636|Wolffe]]. During their mission, R2-D2 and C-3PO visited a local Republic communications mission to survey and repair the damage caused by the recent earthquake. Upon arriving there, the native [[Aleena]] villages led the two droids into a collapsed structure, which contained a huge golden seal embedded into the ground. The seal turned out to be the entrance to a tunnel that led to the subterranean regions of Aleen. Their arrival coincided with an earthquake and the two droids fell into the tunnel and were separated from the Clone troopers and villagers.<ref name="Mercy Mission">{{TCW|Mercy Mission}}</ref>
+
+While exploring the underground tunnels, R2-D2 and C-3PO encountered a species of sentient, [[tree]]-like beings called the [[Kindalo]], who demanded that they leave since the surface dwellers "destroyed the peace". After C-3PO managed to convince the Kindalo that they bore no ill will and had come to help with the earthquakes, the Kindalo sent the two droids to meet [[Orphne]], a reptilian humanoid with mystical powers. Orphne told the two droids that a mutual balance had previously existed between the Aleena and the subterranean world. Since Aleena's atmosphere was toxic to them, the underground dwellers depended on a filtering process of the planet's soil that made the air breathable for them. The underground dwellers had set off this earthquake as a means of sealing the breach.<ref name="Mercy Mission" />
+
+When C-3PO agreed to help fix the damage, Orphne gave the droids a parting riddle. R2-D2 quickly deduced that Orphne was referring to a river and used the water seal to activate a water spout that sent the two droids and the chamber's central floor plate back to the surface. The two droids landed at the opening where they were greeted by a chanting crowd of Aleena. Recalling the riddle, two droids quickly realized that they had to fix the breach, which was in fact the unsettled seal. Together, R2-D2 and C-3PO closed the seal which brought an end to Aleen's earthquakes. While Wolffe and his clone troopers were skeptical of their story, the two droids' efforts were greatly appreciated by the Aleena.<ref name="Mercy Mission" />
+
+====Further Adventures====
+[[File:Lilliputians.jpg|thumb|left|300px|R2-D2 and C-3PO encountering the pint-sized Patitites.]]
+Following the events on Allena, R2-D2 and C-3PO were caught up in a second adventure that took them to [[Patitite Pattuna]], [[Balnab]], and the pirate ship ''[[Marauder (Weequay pirate ship)|Marauder]]''. While traveling aboard the Jedi Master [[Adi Gallia]]'s Star Destroyer, their starship was attacked by three Separatist cruisers led by General Grievous. The two droids escaped the stricken vessel aboard a [[BTL-B Y-wing]] and crash-landed on the nearby planet of Patitite Pattuna.<ref name="Nomad Droids">{{TCW|Nomad Droids}}</ref>
+
+On Pattuna, they were captured by the indigenous [[Patitite]]s, who brought them before their obese leader [[Hay-Zu]]. During their meeting, R2-D2 accidentally toppled the tyrannical overlord much to the joy of the Patitites, who released their prisoners and allowed the two droids to leave on their Y-wing. With their starfighter's power systems damage, R2-D2 and C-3PO landed on another planet called Balnab. The indigenous [[Balnab (group)|Balnabs]] captured the two droids and brought them before their leader, who turned out to be a holo-projection created by a group of rogue [[DUM-series pit droid|pit droids]]. These pit droids had enslaved the Balnabs. After R2-D2 exposed the scam, the Balnabs rebelled against their droid overlords.<ref name="Nomad Droids" />
+
+R2-D2 and C-3PO took the opportunity to escape and resume their search for a replacement power unit for their Y-wing starfighter. Low on power, the two droids were captured by a band of [[Weequay]] pirates, who wanted to use them as gladiators. However, the Weequay's pirate ship ''Marauder'' was attacked by General Grievous' cruiser. During the bombardment, C-3PO and R2-D2 were sucked out of the ''Marauder'' by a hull-breach. R2-D2 used his rocket boosters to bring him and C-3PO aboard Grievous' ship. Grievous ordered the two droids to be melted down in his incinerator but they were rescued by a Republic fleet led by Master Plo Koon, who had come to rescue Master Gallia. R2-D2 and C-3PO were subsequently rescued by Plo Koon's forces and resumed their services to Senator Amidala and General Skywalker respectively.<ref name="Nomad Droids" />
+
+====Fighting the Zygerrians====
+Later, R2-D2 accompanied his masters Anakin Skywalker, Ahsoka Tano, and Obi-Wan Kenobi on a mission to the planet [[Kiros]], which was home to a Togrutan colony. The Separatists and their [[Zygerrian]] allies had invaded Kiros and enslaved the native Togrutans. During the [[Battle of Kiros]], R2-D2 accompanied the Republic assault on the Separatist forces there. The astromech droid played his part by helping the Republic forces to locate Separatist bombs planted in Kiros' capital city with his [[scanner]]s.<ref name="Kidnapped">{{TCW|Kidnapped}}</ref> Later, R2-D2 accompanied Skywalker and Tano on a mission to infiltrate the Zygerrian planet [[Kadavo]] in order to free Kenobi, the Clone trooper captives, and the enslaved Togrutans. Following a [[Battle of Kadavo|battle]], the Republic succeeded in achieving these objectives and dealing a heavy blow against the [[Zygerrian Slave Empire]].<ref name="Escape from Kadavo">{{TCW|Escape from Kadavo}}</ref>
+
+[[File:Epguide414.jpg|right|thumb|250px|Artoo, Ahsoka, and Lux fleeing the Death Watch]]
+
+====Escaping the Death Watch====
+R2-D2 later accompanied Ahsoka, Senators Amidala, Bail Organa, and Mon Mothma on a peace mission to the neutral world of [[Mandalore]]. Under the auspices of the Mandalorian Duchess Satine Kryze, Republic and Separatist delegates were meeting there to discuss a peaceful solution to the Clone Wars. The proceedings were interrupted by the [[Onderon]]ian junior senator [[Lux Bonteri]], who accused Count Dooku of conspiring to murder his mother, Senator [[Mina Bonteri]]. R2-D2 and Ahsoka managed to rescued Lux from being killed by the Separatists and fled to the icy planet of [[Carlac]].<ref name="A Friend in Need">{{TCW|A Friend in Need}}</ref>
+
+However, Lux was unwilling to join the Republic and had planned to join the Death Watch, a militant Mandalorian faction aligned with [[Maul|Darth Maul's]] [[Shadow Collective]]. The Death Watch and Shadow Collective had conspired to kill Count Dooku. On Carlac, R2-D2 was put to work repairing their batch of battle droids, which were used for target practice, and quickly befriend them. Meanwhile, Ahsoka was forced to work with a number of young female [[Ming Po|native]] slaves that had been taken captive by the Death Watch. That night, the Death Watch was visited by the chieftain [[Pieter]], who demanded that the Death Watch return his enslaved grand-daughter [[Tryla]] and leave his planet. Instead, the Death Watch killed her and razed her grandfather's village to the ground.<ref name="A Friend in Need" />
+
+Ahsoka and Lux fought against the Death Watch and managed to help Pieter and several of the villagers to escape. As punishment, Ahsoka was sentenced to death. After witnessing Ahsoka in bonds, R2-D2 convinced the newly-repaired Death Watch droids to help him rescue her. Before the Death Watch leader Pre Vizsla could execute her, R2 managed to blind Vizsla and return her lightsabers. While Tano parried with Vizsla, R2's droid allies kept the remaining Death Watch members busy. This diversion enabled R2 to escape with Ahsoka and Lux on a speeder. After fighting off their pursuers, they managed to escape aboard their ship and head offworld. However, Lux decided to depart the ship in an [[escape pod]] but vowed to meet Ahsoka again.<ref name="A Friend in Need" />
+
+====Younglings and Pirates====
+[[File:StandingUpToGrievous-ANB.png|thumb|left|250px|R2-D2 (second from the left), Huyang, Ahsoka, and the Jedi younglings confronting General Grievous]]
+R2-D2 later accompanied Ahsoka Tano who was escorting six Jedi [[youngling]]s to the planet [[Ilum]] to complete [[The Gathering]], an initiation rite prior to Jedi commencing their training as Padawans. The younglings were required to find crystals to build their lightsabers in the [[Crystal Cave (Dantooine)|Crystal Cave]] of Ilum.<ref name="The Gathering">{{TCW|The Gathering (episode)|The Gathering}}</ref> On the way back to Coruscant, their Jedi training cruiser, the ''[[Crucible]]'' was intercepted by the pirate [[Hondo Ohnaka]] and his gang. Before R2-D2 could effect an escape, the pirates managed to board the ship. They intended to steal the youngling's lightsaber crystals and sell them on the black market. During the skirmish, Tano ordered Artoo and the younglings [[Zatt]] and [[Ganodi]] to secure the deck while the droid [[Huyang]] and the other younglings hid in the deck. Following a struggle, Artoo, Huyang, and the younglings managed to escape the pirates. However, Hondo kidnapped Ahsoka and left Artoo and the others to deliver the bad news to the Jedi Council.<ref name="A Test of Strength">{{TCW|A Test of Strength}}</ref>
+
+Left adrift in space, the younglings managed to contact General Kenobi, who promised to send a rescue mission to relieve them and to rescue Ahsoka from the pirate Hondo. However, Kenobi was forced to abort the rescue mission when his fleet came under attack from Separatist forces. Alone, the six younglings hatched a mission to rescue Ahsoka. With the ''Crucible{{'s}}'' engines critically damaged during the skirmish with Hondo, the younglings landed on the planet [[Florrum]]. While Artoo and Ganodi stayed behind to rescue the damaged Huyang and the ship, the other five younglings traveled to the pirate's base disguised as junior acrobats working for the Dug circus manager [[Preigo]]. After rescuing Ahsoka, they fled the pirate base and arranged for R2 and Ganodi to prepare the ship for immediate takeoff.<ref name="A Necessary Bond">{{TCW|A Necessary Bond}}</ref>
+
+While flying to pick up the younglings and Ahsoka, the ''Crucible'' was shot down by the pirates; forcing Artoo, Ganodi, and Huyang to evacuate the vessel. Hondo's pirates quickly recaptured Ahsoka and her youngling rescuers. However, the arrival of a Separatist droid army under General Grievous forced the Jedi prisoners to work together with their former pirate captors. Ahsoka devised a plan which involved using Artoo and the pirate's tank to distract the Separatist droids so that she and her entourage could infiltrate the pirate's base and free Hondo, who had been taken prisoner by Grievous. After freeing Hondo, the united Jedi and pirates proceeded to liberate the rest of Hondo's men. During the skirmish, Artoo's tank was boarded by Grievous. R2 attempted to shake the cyborg general off but his efforts ended up crashing the tank. In the end, R2 along with Ahsoka, the younglings, and the pirates managed to escape aboard Hondo's escape ship, the rebuilt ''[[Slave I]]''.<ref name="A Necessary Bond" />
+
+====Serving in D-Squad====
+[[File:Epguide511.png|right|300px|thumb|R2-D2 (center) and the rest of D-Squad]]
+R2-D2 later participated in a mission devised by the Jedi Council to capture a Separatist decoding module from the vault of a Separatist warship. Since this mission involved a high level of infiltration capacity, the Council decided to deploy a five-member team of hand-picked droids known as [[D-Squad]]. R2-D2 was part of the squad along with the astromech droids [[QT-KT]], [[M5-BZ]], and [[U9-C4]], and the pit droid [[WAC-47]]. Their mission was led by [[Meebur Gascon]], a diminutive male [[Zilkin]] who served as a [[Colonel]] in the [[Grand Army of the Republic]].<ref name="Secret Weapons" />
+
+After a brief skirmish, the droids managed to infiltrate the Separatist warship and steal the decoding module. They then managed to escape the warship.<ref name="Secret Weapons" /> While traveling back to Coruscant, their transport shuttle was damaged by ice comets and crash-landed on the nearby waste planet of [[Abafar]]. As D-Squad continued their journey across the wasteland, Gascon assigned Artoo with the task of carrying the module. The stress of the mission created strains between Gascon and the astromech droids, who separated. After WAC appointed himself the leader of the squad, the astromech droids abandoned him and continued their journey to a sunken city. Shortly later, they were joined by Gascon and WAC, who had managed to reconcile and tame a herd of rat-like [[Void strider]]s.<ref name="A Sunny Day in the Void">{{TCW|A Sunny Day in the Void}}</ref>
+
+Reunited, the droids and Colonel Gascon traveled to the seedy town of [[Pons Ora]]. While Artoo and the astromechs did a reconnaissance sweep of the town, Colonel Gascon and WAC traveled to a diner where they met the Clone officer [[CC-5576-39|Gregor]], who had suffered amnesia following the [[Battle of Sarrish]] and become a cook. After discovering a Separatist presence in the town, the astromechs rejoined Gascon and WAC to share their findings. With R2-D2's help, Gascon and D-Squad managed to convince Gregor that he was a Clone trooper and to get him to help them. Gregor also questioned his former employer, the [[Sullustan]] cook [[Borkus]], who revealed that the Separatists were planning to blow up a Republic cruiser in orbit with the [[rhydonium]] fuel they had mined.<ref name="Missing in Action">{{TCW|Missing in Action}}</ref>
+
+Using Borkus' information, D-Squad returned to the landing zone and confirmed that Borkus was telling the truth. D-Squad unanimously agreed to save the cruiser. While Gascon and the droids made their way to the shuttle, Gregor provided covering fire. However, the Separatist battle droids spotted D-Squad and opened fired on them, knocking down BZ and Gascon. Despite Gascon's orders to leave him and BZ, Gregor managed to bring them aboard the shuttle. Despite R2 and Gascon's insistence, Gregor decided to stay behind to cover their escape. Gregor managed to harry the Separatist by shooting nearby canisters, causing several explosions.<ref name="Missing in Action" />
+
+Upon escaping Pons Ora, R2-D2 and the rest of D-Squad traveled to a ''Venator''-class Star Destroyer, which was orbiting Abafar. Upon arriving, they discovered that the Separatists had already seized control of the ship and were planning to use the rhydonium-laden to disrupt a crucial [[Republic strategy conference]] aboard the space station [[Valor (space station)|''Valor'']] above the planet [[Carida]]. Despite Gascon's objections, R2-D2 and the rest of D-Squad joined forces with the [[LEP servant droid]] [[BNI-393|Bunny]] to stop the Separatist plot.<ref name="Point of No Return" />
+
+Following a struggle, they managed to fight off the Separatist forces aboard. During the fighting, M5-BZ was lost when he was sucked out into the void with several [[Pistoeka sabotage droid|buzz droids]]. Gascon then devised a plan for the rest of D-Squad to evacuate aboard a shuttle while Artoo defused the trigger mechanism. However, they were ambushed by [[Unidentified super tactical droid|a]] [[super tactical droid]] and several battle droid reinforcements. While Gascon and U9-C4 opened fire on the battle droids, Artoo tussled with the super tactical droid. As the other droids retreated aboard the shuttle, Gascon refused to leave Artoo behind but WAC initiated liftoff.<ref name="Point of No Return" />
+
+Meanwhile, Artoo gained the upper hand over the tactical droid and managed to reprogram the detonator, causing the rhydonium to explode prematurely and destroy the Star Destroyer. As a result of R2 and his companions' efforts, the Republic conference and fleet in the Carida system was saved. While Gascon believed that Artoo had perished during the struggle, Skywalker refused to believe this was so and sent salvage teams to scour the wreckage. They managed to retrieve R2-D2 and repair the damaged astromech droid. Following Artoo's recovery, Gascon personally praised the astromech droid for his bravery and told D-Squad that he would be honored to serve them again.<ref name="Point of No Return" />
+
+====Dogfight above Cato Neimoidia====
+Artoo Deetoo along with his masters Skywalker and Ahsoka later participated in the [[defense of Cato Neimoidia]], which had come under attack from the Separatists. During the battle, Skywalker's starfighter was attacked by buzz droids. After Skywalker was knocked out by a powerful blast, R2-D2 took control of the starfighter. Under Ahsoka's orders, he landed the fighter on Cato Neimoidia's surface. Shortly later, Skywalker and Ahsoka were summoned back to the Jedi Temple on Coruscant to investigate a bomb attack. R2 accompanied his masters back to Coruscant to assist with the investigation.<ref name="Sabotage">{{TCW|Sabotage (episode)|Sabotage}}</ref>
+
+====Mission to Scipio====
+R2-D2 later accompanied General Skywalker to the planet [[Scipio]]. Skywalker's secret spouse Senator Amidala had traveled to Scipio on a mercy mission to secure funds from the InterGalactic Banking Clan to aid refugees displaced by the Clone Wars. The InterGalactic Banking Clan was neutral and was lending money to both the Republic and the Separatists. However, Amidala was subsequently arrested for espionage and Skywalker was sent to negotiate her release.<ref name="An Old Friend">{{TCW|An Old Friend}}</ref>
+
+R2-D2 and Skywalker's mission was complicated by the presence of Clovis, the pro-Separatist senator whom Amidala had flirted with during an earlier mission to Cato Neimoidia. Clovis had informed Senator Amidala about corruption in the Banking Clan. Prior to departing Scipio, Skywalker and Amidala went to retrieve files from a vault in Clovis' alpine residence. After coming under attack from the bounty hunter [[Embo]], Skywalker and Amidala were forced to work with Clovis to escape. Under Skywalker's orders, R2-D2 rendezvoused with the humans and evacuated them before Embo could finish them off.<ref name="An Old Friend" /> Using the evidence found in the files, Clovis and Amidala were able to present irrefutable evidence of the Banking Clan's corruption to the Galactic Senate. With the support of both the Senate and Supreme Chancellor Palpatine, Clovis was elected as the new head of the Banking Clan. Unknown to everyone, Clovis was secretly working in cahoots with the Separatists.<ref name="The Rise of Clovis">{{TCW|The Rise of Clovis}}</ref>
+
+[[File:Yoda starfighter Voices.png|left|250px|thumb|R2-D2 in Yoda's starfighter socket]]
+
+====Escorting Yoda====
+After the Jedi Master [[Yoda]] was contacted through the Force by the deceased Jedi Master Qui-Gon Jinn, R2-D2 accompanied Yoda on a journey to the remote planet of [[Dagobah]]. After Skywalker had helped Yoda to escape from the infirmary, the Jedi General assigned R2 to escort Yoda to Dagobah. During the journey, R2 sat in the droid socket of [[Yoda's fighter]]. After reaching Dagobah, Yoda received instructions from Qui-Gon to travel to the Origin-of-Life to continue his Jedi training.<ref name="Voices">{{TCW|Voices}}</ref>
+
+R2-D2 then escorted Yoda to a mysterious planet which lay in the middle of a cloud of golden energy. Upon entering the cloud, R2-D2 and Yoda's fighter malfunctioned. Trusting in the Force, Yoda allowed the Force to guide his starfighter to a planet generating the golden energy. The starfighter landed near a geyser and Yoda decided to leave R2 behind. He also instructed the astromech droid to guard his lightsaber while he re-entered the starfighter to fly into the geyser. After Yoda completed his trials on the mysterious planet, he received instructions to travel to the ancient [[Sith]] homeworld of [[Moraband]].<ref name="Destiny">{{TCW|Destiny (episode)|Destiny}}</ref>
+
+Upon arriving on Moraband, Yoda instructed R2-D2 to wait with his starfighter while he went on to continue his Jedi trials. The Jedi Master also instructed R2 to return alone to Coruscant if he did not return within three days. Yoda managed to complete his trials but experienced visions of the [[Jedi Purge]] and the rise of the [[Galactic Empire]]. After completing his Jedi trials, R2-D2 accompanied him back to Coruscant. However, the Jedi Master declined to share any of his experiences with R2 and his Jedi peers.<ref name="Sacrifice">{{TCW|Sacrifice}}</ref>
+
+====Battle for Anaxes====
+[[File:R2D2UnfinishedBuisness.png|thumb|250px|R2 and other astromech droids celebrating the victory on Anaxes]]
+At the end of the war, R2 accompanied Anakin Skywalker, Mace Windu and [[Obi-Wan Kenobi]] in the [[Battle for Anaxes]] to reclaim the [[Anaxes|planet]] from Separatist forces under the command of Admiral Trench. Despite [[Standard week|weeks]] of battle, Admiral Trench gained the upper hand but ultimately the [[Galactic Republic|Republic]] won the battle. R2 along with other astromech droids attended the Republic ceremony celebration where [[Advanced Recon Commando|ARC trooper]] [[CT-1409|Echo]], Captain Rex and [[Clone Force 99]] received medals.<ref name="Unfinished Business">{{TCW|Unfinished Business}}</ref>
+
+====Battle of Coruscant====
+{{Quote|Easy, Artoo.|Anakin Skywalker, to R2-D2|Star Wars: Episode III Revenge of the Sith}}
+When Chancellor Palpatine was captured by [[General]] [[Grievous]], R2-D2 accompanied Anakin Skywalker on a mission to rescue him. While Skywalker and Kenobi searched the Separatist flagship, the ''[[Invisible Hand]]'' for the Chancellor, R2-D2 fended off super battle droids and succeeded in destroying them. He then penetrated the Separatist flagship and managed to reunite with Skywalker, Kenobi, and Palpatine. Skywalker had already freed the Chancellor and executed Count Dooku. Shortly later, they were captured by General Grievous' droids and taken to the command bridge. Following another struggle, Skywalker managed to break free and turn the tables of Grievous. Defeated, Grievous fled into an escape pod. Hit by Republic fire, the ''Invisible Hand'' began descending into Coruscant. However, Skywalker managed to land the vessel with considerable difficulty.<ref name="ROTS" />
+
+Following the [[Battle of Coruscant]], R2-D2 witnessed the outbreak of the Jedi Purge and the Republic's transformation into the Galactic Empire.<ref name="ROTS" />
+
+===Age of the Empire===
+After Anakin fell to the [[Dark side of the Force|dark side]] and became Darth Vader, R2-D2 accompanied him to Mustafar where he wiped out the Separatist leaders. R2 also witnessed his master strangle Padmé and begin to duel Obi-Wan Kenobi. While Skywalker fought with Kenobi, R2-D2 and C-3PO moved Padmé to her starship, and Obi-Wan took them all to [[Polis Massa]] where Padmé gave birth to [[Luke Skywalker|twin]] [[Leia Organa|children]] before dying. Following Padmé's death, R2 and 3PO passed into the service of [[Bail Organa]] of the [[House of Organa|Royal House of Alderaan]], Alderaan's Senator and a good friend of the late Amidala. While C-3PO underwent a memory wipe, R2-D2 was allowed to preserve his memories.<ref name="ROTS" />
+
+====Reunion with Ahsoka Tano====
+[[18 BBY|A year]] after the end of the Clone Wars, R2-D2 served Captain [[Raymus Antilles]]. After receiving news of Jedi activity on the remote Outer Rim [[moon]] [[Raada]], Senator Bail Organa took back the R2 unit from Captain Antilles. This Jedi turned out to be R2's old friend Ahsoka Tano, a former Jedi Padawan who had inspired a [[Raada resistance|resistance]] movement on Raada. Senator Organa assigned R2-D2 to accompany the pilots [[Chardri Tage]] and [[Tamsin]] on a secret mission to find the Jedi and to rendezvous with his starship ''[[Tantive IV]]''. Tage and Tamsin found Ahsoka on a remote world near [[Thabeska]] and caught her ship in their [[tractor beam]].<ref name="Ahsoka">''[[Ahsoka (novel)|Ahsoka]]''</ref>
+
+Believing they were hostile, Tano knocked Tage and Tamsin unconscious. While making her way through the ship's engine room to reach the cockpit, Ahsoka encountered R2-D2 and hugged the astromech droid, having missed his company. Since he had not received a memory wipe, R2 recognized his old friend and told her that he and the pilots were working for a senator who wanted to meet her. At Tano's prompting, R2-D2 told Ahsoka that Bail Organa was the senator. Tano managed to convince R2-D2 to release the tractor beam from her freighter, tell nobody he had met her, and to make sure that she could track his ship. Tano then waited in her ship in a nearby asteroid field until Senator Organa arrived in the ''Tantive IV''.<ref name="Ahsoka" />
+
+When Tage and Tamsin awoke, R2-D2 pretended to have been short-circuited by Tano in order to cover up his role in helping her escape. However, Bail realized R2-D2's role in Tano's escape after viewing a clip of the security footage in the engine room. After delivering his report, Tage rendezvoused with the ''Tantive IV'' and returned R2-D2 to his master. R2-D2 was greeted by C-3PO, who berated his companion. When Senator Organa arrived, R2-D2 informed her and left a hatch on the ''Tantive IV'' open. Ahsoka managed to infiltrate the ship with a pressure suit and entered Organa's office.<ref name="Ahsoka" />
+
+After Ahsoka informed him about R2-D2's role in her escape, Organa joked that the droid was too independent and ought to be deactivated. Ahsoka responded that R2-D2 had a lot of "bad role models." When Organa mentioned Anakin Skywalker, Ahsoka clarified she was referring to the late Senator Amidala. After Tano agreed to take part in a [[Uprising on Raada|mission]] on Raada to investigate the [[Inquisitorius|Inquisitor]] known as the [[Sixth Brother]], R2-D2 helped Captain Antilles' crew to repair her damaged freighter. While R2-D2 was repairing the engines, Ahsoka spent time with him and told him that she missed him. When the engines hummed to live, Ahsoka thanked the astromech droid. Following the successful evacuation of the farming population on Raada, Ahsoka joined Senator Organa's rebel movement and became the elusive spymaster known as "[[Fulcrum (title)|Fulcrum]]."<ref name="Ahsoka" />
+
+====Mission to Garel====
+[[File:Bail Organa Droids in Distress.png|left|thumb|250px|R2-D2 informing Bail Organa about the Spectres]]
+About five years before the [[Battle of Yavin]], Senator Bail Organa sent R2-D2 and his protocol droid counterpart C-3PO to escort the Imperial [[Minister]] [[Maketh Tua]] and the [[Aqualish]] arms dealer [[Amda Wabo]] to the planet [[Garel]]. Minister Tua wanted to obtain a shipment of [[T-7 ion disruptor rifle]]s, illicit weapons which had been banned by the [[Imperial Senate]] following the brutal [[Siege of Lasan|pacification]] of [[Lasan]]. She intended to mass-produce the weapons on [[Lothal]], a formerly backwater [[Outer Rim Territories|Outer Rim]] world that had become a manufacturing base for the Empire. Since Tua could not speak the [[Aqualish (language)|Aqualish language]], C-3PO was assigned the job of acting as her translator. However, R2-D2 was aware about the true nature of their mission: preventing the T-7 ion disruptors from falling into Imperial hands. By contrast, C-3PO was deliberately kept in the dark.<ref name="Droids in Distress" />
+
+Upon arriving in Lothal, R2-D2 and his companions boarded the [[Star Commuter 2000]] [[shuttle]] [[ST-45]], which ferried them to Garel. Unknown to R2-D2, members of a [[Spectres|Lothalian rebel cell]] were also traveling on the same shuttle. Two of rebels, the [[human]] teenager [[Ezra Bridger]] and the astromech droid [[C1-10P|Chopper]] created a noisy ruckus. Another rebel, the former Jedi [[Kanan Jarrus]] pretended to be irate and demanded that the petulant Chopper be sent to the back of the shuttle. The [[RX-24|pilot]] complied, but in retaliation Bridger demanded that Tua's droids be sent to the back as well. Despite Tua's and C-3PO's protests, R2-D2 and his protocol counterpart were forced to move to the rear compartment.<ref name="Droids in Distress" />
+
+Bereft of a translator, Tua was forced to turn to the Mandalorian girl [[Sabine Wren]], who posed as an [[Imperial Academy]] student fluent in Aqualish. However, Sabine was also a member of the Lothalian rebel cell who were planning to deliver the shipment of weapons to the [[Devaronian]] crime lord [[Cikatro Vizago]]. Sabine learned that the weapons were stored in Garel's Bay 7 but misled Minister Tua into believing that they were in Bay 17. After the shuttle landed in Garel's [[spaceport]], R2-D2 and C-3PO accompanied Minister Tua and a force of [[stormtrooper]]s to Bay 17. When they found nothing, C-3PO explained that Sabine might have accidentally mistranslated "Bay 7" as "Bay 17".<ref name="Droids in Distress" />
+
+While traveling to Bay 7, R2-D2 was accosted by Chopper, who had been sent to distract the Imperials. Chopper rammed himself right into R2-D2, then shook his arm in apparent anger. In response, R2-D2 whipped out his [[electro-shock prod]], but did not use it as C-3PO ordered him to apologize. But then, Minister Tua recognized Chopper from the shuttle ride to Garel and ordered her stormtrooper guards to hurry to Bay 7. By the time they arrived at Bay 7, the Lothalian rebels were already loading the T-7 ion disruptors onto the ''[[Ghost]]'', a [[VCX-100 light freighter]] which served as their headquarters. A blaster fight broke out and in the ensuing confusion R2-D2 and C-3PO fled aboard the ''Ghost'', which fled into hyperspace. The two droids were then taken prisoner by the Lothalian rebels who placed [[restraining bolt]]s on both of them. <ref name="Droids in Distress" />
+
+The Spectres then traveled back to Lothal to sell the stolen weapons and the two stowaway droids to Vizago at a pre-arranged rendezvous point. Before they could complete the transaction, Imperial forces under the ISB Agent [[Alexsandr Kallus|Kallus]] caught up with them. Unknown to Chopper and the other crew, C-3PO had contacted the Imperial authorities telling them that he and his astromech counterpart had been kidnapped by a group of "criminals" in Garel. Carrying out Organa's orders, R2-D2 proceeded to overload and destroy the T-7 disruptors with the help of Sabine and Chopper. During the fighting, the rebels managed to destroy the T-7 disruptors and to escape their Imperial pursuers. Following their escape, the crew of the ''Ghost'' rendezvoused with Senator Bail Organa and returned R2-D2 and C-3PO to their rightful owner. In return for destroying the T-7 disruptors, Senator Organa paid Spectres several [[credit]]s to cover their living expenses. After the rebels had departed, R2-D2 showed Bail Organa a recording of his time with them. <ref name="Droids in Distress" />
+
+====Picking up EG-86====
+Following the [[Action at Mustafar|rescue]] of the Jedi rebel Kanan Jarrus and the [[Siege of Lothal]], R2-D2 was part of an Alderaanian reception party at [[Havoc Outpost]] which greeted the Specter rebels Wren and Chopper, the bounty hunter [[Ketsu Onyo]] and their special cargo: the [[GNK-series power droid]] [[EG-86]], who was carrying some secret intelligence of value to the rebel network. R2-D2 whistled when he greeted EG-86, who whistled back in return.<ref name="Blood Sisters">{{Rebels|Blood Sisters}}</ref>
+
+===Galactic Civil War===
+[[File:3P0 and R2 Rogue One.jpg|thumb|right|250px|R2-D2 and C-3PO watch as the Rebel fleet departs for Scarif.]]
+{{Quote|Scarif? They're going to Scarif? Why does nobody ever tell me anything, Artoo&hellip;?|C-3PO to R2-D2 as the Rebel Fleet leaves Yavin 4 for Scarif|Rogue One: A Star Wars Story (novelization)}}
+During the [[Galactic Civil War]], R2-D2 was with C-3PO at the [[Alliance to Restore the Republic|Rebel Alliance's]] [[Great Temple (Yavin 4)|secret base]] on [[Yavin 4]] at the time the [[Alliance Fleet]] prepared to leave for the [[Battle of Scarif]] to help reinforce [[Rogue One (squad)|Rogue One]] who had traveled to [[Scarif]] to retrieve the [[Death Star plans|plans]] for the Galactic Empire's [[DS-1 Orbital Battle Station|Death Star]], a new [[superweapon]] capable of destroying entire worlds.<ref name="Rogue One">''[[Rogue One: A Star Wars Story]]''</ref>
+
+====The Death Star Plans====
+{{Quote|Did you hear that?|C-3PO, to R2-D2 after the ''Devastator'' boarded the ''Tantive IV''|Star Wars: Episode IV A New Hope}}
+[[File:Noescapefortheprincessthistime.png|thumb|left|300px|R2-D2 and C-3PO aboard the ''Tantive IV'']]
+The Alliance succeeded in stealing the plans for the superweapon. R2-D2 and his protocol counterpart C-3PO were serving Princess Leia Organa's blockade runner ''Tantive IV'', which was being pursued by Darth Vader's [[Imperial-class Star Destroyer|''Imperial''-class Star Destroyer]]. Senator Organa's adopted daughter Leia was now Alderaan's Senator in the Imperial Senate, one of the last remnants of the Old Republic. During the pursuit, the ''Tantive IV'' was crippled by a laser blast from Vader's ship and Imperial stormtroopers boarded the vessel. After Princess Leia uploaded the secret Death Star plans and a [[hologram|holographic message]] for Master Kenobi into R2-D2's memory bank, he and C-3PO fled in an escape pod to the desert planet Tatooine.<ref name="Star Wars: Episode IV A New Hope" />
+
+After quarreling in the [[Jundland Wastes]], the two droids parted company. While R2-D2 was traveling past a cave, he was stunned and captured by several [[Jawa]]s, who took him aboard a [[sandcrawler]]. There, he managed to reunite with Threepio.<ref name="Star Wars: Episode IV A New Hope" /> During the night, R2-D2 attempted to sabotage an [[R5 unit]] named [[R5-D4]] but relented when the astromech droid awoke. Though R5-D4 desired to be sold, R2-D2 told the droid that the fate of the galaxy depended on him being sold and that he needed to find Master Kenobi. When R2 told R5 that he worked for the Rebelion, his words had an impact on R5, who had once worked for the Rebellion. Having established a rapport with the other astromech droid, R2-D2 promised not to trouble R5-D4 for the rest of the journey.<ref name="The Red One">{{Shortstory|story=The Red One|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}</ref>
+
+The following day, the Jawas visited a moisture farm that was the home of [[Owen Lars]], his wife [[Beru Whitesun Lars|Beru]], and their adopted nephew Luke Skywalker, the son of Anakin Skywalker. Lars bought Threepio and then bought R5-D4. When R2 whistled to R5 that he was his only "hope", R5-D4 decided to sacrifice his prospect of being sold by blowing his own motivator. As a result, Owen bought R2-D2.<ref name="The Red One" /> While Threepio settled down to his new home, R2-D2 wanted to continue his mission to find Master Ben Kenobi. Despite Threepio's objections, R2-D2 escaped one night into the Jundland Wastes. C-3PO and Skywalker followed him in a [[landspeeder]] and caught up with R2-D2. However, they were then ambushed by a gang of [[Tusken Raider]]s.<ref name="Star Wars: Episode IV A New Hope" />
+
+During the Tusken attack, R2-D2 managed to hide in a cave. Before the Tusken Raiders could do any more harm, Ben Kenobi arrived and scared them away. He then brought Artoo and his companions to his dwelling. There, Kenobi revealed Skywalker's Jedi heritage and passed him his father's lightsaber; telling the boy that his father Anakin had been murdered by another apprentice named Darth Vader. After Artoo played Princess Leia's message, Kenobi attempted to persuade Luke to accompany him to Alderaan, Princess Leia's homeworld. Skywalker was initially reluctant until he discovered that Imperial stormtroopers had murdered his relatives and razed their moisture farm. Later, R2-D2 and his companions traveled to the spaceport of [[Mos Eisley]] with the intention of finding passage to Alderaan.<ref name="Star Wars: Episode IV A New Hope" />
+
+Upon arriving in the settlement, they were stopped by a stormtrooper patrol who were hunting for R2-D2 and Threepio. However, Kenobi used a [[Mind trick|Jedi mind trick]] to convince the stormtroopers to give them free passage through the town. Artoo and Threepio were denied entry to [[Chalmun's Cantina]] due to a rule banning droids. While Kenobi and Skywalker negotiated with the [[smuggler]] [[Han Solo]] and his [[Wookiee]] co-pilot [[Chewbacca]], the two droids wandered the streets of Mos Eisley and narrowly evaded a stormtrooper patrol. Later, Artoo and Threepio boarded Han Solo's ship, the ''[[Millennium Falcon]]'' and fled into hyperspace.<ref name="Star Wars: Episode IV A New Hope" />
+
+====Rescuing the Princess====
+[[File:Futureoftherebellion.png|thumb|right|300px|Princess Leia Organa giving R2-D2 the plans to the Death Star.]]
+Upon arriving in the [[Alderaan system]], Artoo and his companions discovered that the Empire had used their Death Star to destroy Alderaan. Shortly later, the ''Millennium Falcon'' was captured in the tractor beam of the Death Star. While hiding in the ''Falcon{{'s}}'' smuggling compartment, the rebels managed to ambush an Imperial scanning crew and two stormtroopers. The rebels then seized control of an Imperial control room and discovered that Princess Leia was located in [[Detention Block AA-23]], pending execution. While Artoo and Threepio stayed behind to watch over the ''Falcon'', the other rebels split up. While Solo, Luke, and Chewbacca headed to Detention Block AA-23, Kenobi went to disable the Death Star's tractor beam projector.<ref name="Star Wars: Episode IV A New Hope" />
+
+Skywalker, Solo, and Chewbacca managed to free the Princess but ended up in a [[Garbage compactor|garbage chute]]. The Imperials quickly realized that the rebels were trapped in the garbage chute and proceeded to crush the chamber. Meanwhile, Artoo and Threepio narrowly escaped an Imperial patrol by claiming that the rebels had thrown them into the storage compartment. Once the Imperials had gone, the two droids were contacted by Skywalker, who ordered them to shut down the garbage compactor. R2-D2 succeeded in shutting down the garbage compactor just in time. After grappling with more stormtroopers, the other rebels and the Princess managed to return to their hangar bay where they linked up with Artoo and Threepio.<ref name="Star Wars: Episode IV A New Hope" />
+
+Master Kenobi also managed to shut down the tractor beam projector but was cornered by his former apprentice Darth Vader on the way back. While Kenobi gave his life, Artoo and the other rebels took the opportunity to flee the Death Star on the ''Millennium Falcon''. After dispatching several pursuing [[TIE/ln space superiority starfighter|TIE fighters]], Artoo and his companions escaped to Yavin 4, where the rebels maintained a base. There, the rebels managed to access the Death Star plans stored inside Artoo's memory banks. Unknown to the rebels, the Empire had planted a [[homing beacon|tracking device]] aboard the ''Falcon'' which allowed them to discover the rebel base on Yavin 4.<ref name="Star Wars: Episode IV A New Hope" />
+
+====Battle of Yavin====
+R2-D2 and Luke Skywalker participated in the Battle of [[Yavin]]. With the Death Star approaching Yavin 4, the rebel leadership ordered a starfighter strike on the battle station. Rebel tacticians had discovered that the Death Star contained one weak point&mdash;a small thermal exhaust port narrow enough for an [[T-65B X-wing starfighter|X-wing fighter]] to fire a [[proton torpedo]] into the space station's reactor core. During the battle, R2-D2 served as the astromech unit aboard Skywalker's X-wing starfighter.<ref name="Star Wars: Episode IV A New Hope" />
+
+Despite initial successes, the Rebels suffered numerous casualties from the Empire's nimble TIE fighters. Following two failed attempts to penetrate the trench which led to the thermal exhaust port, Skywalker and two other X-wing pilots, [[Wedge Antilles]] and [[Biggs Darklighter]], made one final attempt to reach the exhaust port. However, the found themselves pursued by Darth Vader's [[TIE Advanced x1|TIE Advanced starfighter]] and two other TIE fighters.<ref name="Star Wars: Episode IV A New Hope" />
+
+During the assault, Vader damaged Antilles' starfighter, forcing him to withdraw, and destroyed Darklighter's starfighter, killing him. Undaunted, Skywalker continued the mission. Vader strafed Skywalker's X-wing and damaged R2-D2, who short-circuited as a result of a direct laser hit. Before Vader could move in for the kill, he was ambushed by Han Solo's ''Millennium Falcon'', which eliminated Vader's wingmen and forced him to disengage. Skywalker then fired the proton torpedo which destroyed the Death Star, scoring a major victory for the Rebellion. Following the battle, Artoo was repaired and full restored. The astromech droid later attended a victory celebration where Skywalker, Solo, and other Rebel pilots were awarded medals for their combat valor.<ref name="Star Wars: Episode IV A New Hope" />
+
+====Alderaan's survival====
+Following the medal ceremony in the Great Temple, R2-D2 accompanied Leia and the Alderaanian starfigter pilot [[Evaan Verlaine]] to the worlds of [[Naboo]], [[Espirion]] and [[Sullust]] on a [[Mission to rescue the survivors of Alderaan|mission]] to save the survivors of Alderaan. Since General Dodonna had forbidden Princess Leia from leaving Yavin 4, Princess Leia recorded a transmission of R2-D2 recording a message telling the General about her mission to save the Alderaanian refugees scattered across the galaxy. R2-D2 was aboard Leia and Verlaine's [[T-1 shuttle]] when Verlaine outran several X-wing starfighters that had been sent to bring them back to Yavin.<ref name="Princess Leia 1">''[[Princess Leia, Part I]]''</ref>
+
+After landing in the Naboo city of [[Keren]], R2-D2 accompanied Princess Leia and Verlaine when they visited the [[June's palace|home]] of [[Lord]] [[Junn]], a wealthy Alderaanian expatriate who provided the group with information about the whereabouts of the [[Melodic Order]]. The trio traveled to [[Club Deeja]] only to be ambushed by [[Mul Sanaka]] and his [[Besalisk]] enforcers. R2-D2 used his electric cables to knock out one of the Besalisks. The droid then accompanied his master, Verlaine, and the Melodic Order offworld on a T-1 shuttle and Lord Junn's [[Lord Junn|eponymous yacht]].<ref name="Princess Leia 2">''[[Princess Leia, Part II]]''</ref>
+
+The group then traveled to the planet Sullust to contact [[Preserver]] [[Jora Astane]]'s [[Alderaan Enclave]], who lived underground. R2-D2 accompanied Leia and Verlaine through the caves and tunnels. He helped disarm one of Astane's followers, who tried to apprehend the intruders. In order to convince Jora to trust them, Leia allowed [[Covis]] to download data from R2-D2's memory banks including the ''Lord Junn''{{'s}} weapons profile, navigational history, and transmissions.<ref name="Princess Leia 3">''[[Princess Leia, Part III]]''</ref>
+
+When Covis intercepted transmissions between the singer [[Tace]] and her sister [[Tula]], who was stationed aboard an [[Dreed's Star Destroyer|Imperial cruiser]], Jora thought that Leia and her group were Imperial spies and tried to apprehend them. R2-D2 and the humans escaped down a tunnel hatch which led the den of the [[rockrender]]s, large beasts that feasted on metals. Meanwhile, Imperial stormtroopers attacked the Alderaan Enclave upstairs. R2-D2 with the help of Verlaine managed to lure the rockrenders into the Enclave's den. The rockrenders turned the tide of the battle by attacking the stormtroopers, feasting on their mineral rich armor. This gained the trust of Jora's followers and they pledged their allegiance to Princess Leia.<ref name="Princess Leia 3" />
+
+====Salvation over Espirion====
+A week later, R2-D2 was present when the rebels obtained a shipment of weapons from the Sullustan [[Nien Nunb]]. After Princess Leia undertook a mission to rescue Tace's sister Tula by pretending to surrender herself to the Empire, R2-D2 accompanied his master on their T-1 shuttle. Prior to landing on the desert world of [[Skaradosh]], Princess Leia told R2-D2 that she would see him on the "other side", leading the others to believe that Princess Leia was planning to die and go to "droid heaven."<ref name="Princess Leia 4">''[[Princess Leia, Part IV]]''</ref>
+
+Leia's surrender turned out to be a ruse. Following the prisoner exchange, Verlaine swooped down on the ''[[Mellcrawler (starship)|Mellcrawler]]'' and killed Commander [[Dreed]] and his men. R2-D2 and Nien Nunb manned the ''Mellcrawler''{{'s}} cockpit during the rescue mission. After launching a decoy ship, the group traveled to the planet Espirion where the [[Alderaan Flotilla]] had gathered after learning of Leia's mission to gather them. When Dreed's subordinate [[Venk]] attacked the flotilla, R2-D2 beamed Leia's speech directly to the [[Alder-Espirion]] Chief [[Beon Beonel]]. Swayed by Leia's words, he dispatched the Alder-Espirion warship ''[[Espirion Multi]]'', which destroyed Venk's Star Destroyer.<ref name="Princess Leia 5">''[[Princess Leia, Part V]]''</ref>
+
+Following the battle above Espirion, R2-D2 attended the victory celebrations where Princess Leia learnt that her droid had beamed her speech directly to Chief Beonel. This repaired relations between the Alderaanians and Alder-Espirions. R2-D2 then accompanied his Princess back to Yavin 4 to continue fighting for the Rebellion. Upon landing, R2-D2 reunited with C-3PO while Leia chatted with Han, Luke, and Chewbacca.<ref name="Princess Leia 5" />
+
+====Weapons Factory Alpha====
+{{Quote|We aren't here to negotiate. Artoo..."<br>"Your droid appears to be leaking fluids."<br>"Um...Artoo?|Han Solo and Aggadeen|Star Wars 1: Skywalker Strikes}}
+Several weeks after the Battle of Yavin, R2 took part in the Rebel [[attack on Cymoon 1]]. [[Cymoon 1]] was a moon in the [[Corellian Industrial Cluster]], that housed the largest [[weapons factory]] in the galaxy&mdash;[[Weapons Factory Alpha]]. The factory was also the main target of the assault. R2, Luke Skywalker, Princess Leia Organa, and Han Solo boarded a shuttle that had been intercepted by the Rebel Fleet several days earlier. The shuttle was sent from the crime lord Jabba the Hutt, and had housed an envoy that was to negotiate with the Empire. But due to Solo's past ties with the Hutt, the Rebels were able to pass themselves off as the envoy, and were escorted into the factory by [[Overseer (Assignment)|Overseer]] [[Aggadeen]].<ref name="Star Wars 1: Skywalker Strikes" />
+
+[[File:R2 fries stormies.png|thumb|left|300px|R2 begins the assault]]
+After passing through the factory floor they arrived at the room where the negotiations were to be held. The Overseer invited them in to await the negotiator, but Han revealed that they weren't there to negotiate and gave R2 the signal. R2 began pouring a green liquid onto the floor, he then he electrocuted the fluid with his [[Force pike|electric pike]]. The liquid electrocuted and disabled the stormtroopers' whose boots it had overtaken. Luke, Han, and Leia then finished off the remaining troopers. Han asked Aggadeen where the main power core was, but the proud [[Imperial officer]] refused to answer&mdash;until R2 threatened to electrocute him too. Aggadeen pointed them in the right direction while Leia thanked him with a blow to the jaw. They arrived at the power core, where R2 plugged into the main [[computer]] and shut off all the safety restraints. Soon they had rigged the core to blow up in ten minutes time. Han noticed that Luke was missing, but a minute later he arrived with more passengers&mdash;#slaves of the Empire. The team prepared to retreat while C-3PO, who was waiting with the ''Millennium Falcon'' in the huge [[Cymoon 1 refuse fields|refuse fields]] that surrounded the factory, brought the ''Falcon'' in to pick them up for their escape. Chewbacca, who was stationed on a large metal structure overlooking the landing platform where they had originally entered, reported that Darth Vader, the Dark Lord of the Sith, had arrived. Leia ordered the wookiee to kill Vader using his [[bowcaster]]. The wookiee tried but was thwarted by the dark lord. Chewbacca was out of contact, the entire moon was on alert and 3PO still hadn't arrived. Soon 3PO informed the team via [[comlink]] that the old [[freighter]] was being dismantled by [[Unidentified Cymoon 1 species|native scavengers]], and as such the ''Falcon's'' [[autopilot]] was out of order Han realized their escape had been foiled and led the team&mdash;with slaves in tow, to a large warehouse that housed several newly minted [[All Terrain Armored Transport]]s [[walker]]s. Han ordered everyone on board, they were going to walk right out of the factory.<ref name="Star Wars 1: Skywalker Strikes" />
+
+Han, Leia, and several slaves boarded the walker. Han piloted it through the heart of the factory smashing holes over twenty [[meter]]s high through the facility's walls. Luke reapppeared after confronting Vader and bid the slaves to follow him as he followed Han in the AT-AT. Meanwhile R2 and his former enemies, the Jawas, began rewiring the walker's [[laser cannon]]s to get them operational. Han was arguing about their chances of death with Vader on their tail; Han asked the astromech on their progress. R2 replied but Han did not understand the droid language of Binary. Han believed R2 and the Jawas would get the cannons working&mdash;they just needed to give them the time. A short time later, Han attempted to step on Darth Vader with the AT-AT's massive feet. Vader used the Dark Side of the Force to hold the walker's foot several meters above himself and the ground&mdash;Han couldn't believe it. Vader began to crush the armored transport using the force, Han told R2 "We need those guns!" R2 spoke in his customary beeps and clicks; which Leia translated to "Fire!" The AT-AT opened fire on the Sith Lord and the factory walls as Han drove out of the facility. Leia was so happy she wanted to kiss the little droid&mdash;much to Han's annoyance.<ref name="Star Wars 2: Skywalker Strikes">''[[Star Wars 2: Skywalker Strikes, Part II]]''</ref>
+
+[[File:Leia loves R2.PNG|thumb|right|200px|Leia hugging R2 after they seemingly escaped Vader.]]
+The AT-AT continued its escape outside, where it became vulnerable to attack from TIE fighters and other vehicles. Han and Leia realized that it had been too long&mdash;the factory should have melted down and exploded before this time. Chewbacca survived Vader's attack and returned to the ''Falcon'' and was preparing to bring it in and extract the team. Although Vader was right beneath the walker, using his lightsaber to cut through the back left leg of the AT-AT. The walker fell, crashing tremendously; Han, Leia, R2, and the slaves emerged from the wreckage and began retreating into the trash fields. Luke, mounted on a [[74-Z speeder bike]], returned to the factory and fired upon the core reactor&mdash;causing the facility to explode. While Vader and the Imperials were distracted Chewbacca swooped in with Han's ''Falcon'' and everyone boarded the freighter. Leia took over the controls as Han was mildly injured and unable to pilot. Chewbacca repaired the hyperdrive and they fled to lightspeed. The now free slaves rejoiced while R2 went to work repairing 3PO who had been blasted into pieces by the scavengers.<ref name="Star Wars 3: Skywalker Strikes">''[[Star Wars 3: Skywalker Strikes, Part III]]''</ref>
+
+====To Tatooine with Luke====
+{{Quote|Beedo Beedo Wwhmpp.''"<br>"''What? What is it? You find something? What's it... Wait... Does that say 'For Luke'?|Artoo and Luke, just before the flash grenade went off|Star Wars 5: Skywalker Strikes, Part V}}
+[[File:Red Five in the desert.png|thumb|left|250px|Artoo and Luke leave Red Five, and head towards Kenobi's home.]]
+Later, the ''Millennium Falcon'' and its passengers rendezvoused with the Rebel Fleet<ref name="Star Wars 4">[[Star Wars 4: Skywalker Strikes, Part IV]]</ref> on the edge of the galaxy.<ref name="Star Wars 5">''[[Star Wars 5: Skywalker Strikes, Part V]]''</ref> While the team recovered and was debriefed, Artoo and Threepio argued over whether Artoo had incorrectly assembled Threepio after escaping Darth Vader on Cymoon 1. Soon thereafter, Artoo boarded Luke's T-65 X-wing to leave the Rebel Fleet. Solo and Organa argued against Luke's leaving, but Luke assured them he and Artoo would be safe for he was anonymous to the Empire; and that he needed to find answers on who he really was. At Luke's request, Artoo set course to again go to Tatooine in the [[Tatoo system]].<ref name="Star Wars 4" />
+
+Soon, Luke and Artoo set down in the Jundland Wastes, and began the trek through the desert to Kenobi's former home. The suns were setting when they neared the hut, while Luke divulged in his reasoning for returning; nearly everything he knew about the Force he had learned from Ben Kenobi, and he believed that he sometimes heard the disembodied voice of the Jedi Master. However, Luke was interrupted when a Tusken Raider appeared and attacked him. Artoo readied his electric pike, but did not have to use it, because at familiar sight of Luke's lightsaber, they ran. Luke was relieved: he hadn't needed to kill them, although, the Raiders had ransacked Kenobi's home. Artoo went to work with his flashlight to locate anything Kenobi may have left to aid Luke in his journey to learn the Jedi way. While searching, Luke openly wondered why Kenobi had chosen to stay on Tatooine after all he had experienced. Artoo knew it was to protect Luke from the Sith, until he was of age to become a Jedi&mdash;although, following Kenobi's lead, he did not tell the former-farmboy. Just then, a [[flash grenade]] tumbled into the room and exploded; temporarily blinding Luke, and short-circuiting Artoo.<ref name="Star Wars 5" />
+
+[[File:Fett trips over R2.png|thumb|right|240px|Fett falling backwards over Artoo]]
+While Artoo's systems rebooted, Luke fought Boba Fett, a bounty hunter sent by Darth Vader to capture Luke and bring him to the Dark Lord&mdash;although it was unknown to both Luke and Artoo at the time. Luke used his lightsaber and knocked Fett backwards where he tripped over Artoo. The two combatants, Fett with his Mandalorian armor, and Luke with the Force&mdash;though still blind&mdash;fought, Luke became more bloodied, and Fett more impatient. Artoo soon recovered, got to his "feet", and watched as the box marked "For Luke" floated into the air and flew across the room where it knocked Fett unconscious. Luke wondered aloud how he had done it, before asking Artoo to lead them back to the X-wing, for he was still unable to see. Later, as Tatooine's suns rose over the desert, Luke had recovered enough of his sight to open the box and examine its contents: "[[The Journals of Ben Kenobi]]". And they left the desert world.<ref name="Star Wars 6">''[[Star Wars 6: Skywalker Strikes, Part VI]]''</ref>
+
+====Detour to Dagobah====
+Later, the Rebel Alliance established a base on the remote icy planet of [[Hoth]] and R2-D2 followed his companions there. When Luke Skywalker failed to return from a snow patrol, Han Solo traveled out on another [[tauntaun]] to rescue him. When both men did not return that night, Artoo calculated that they had a poor chance of surviving in the frozen wilderness. Despite his pessimistic assessment, Skywalker and Solo were safely recovered by a [[T-47 airspeeder|snowspeeder]] patrol the following day. Later, the rebels were forced to evacuate Hoth after Solo and Chewbacca encountered an [[Viper probe droid|Imperial probe droid]]. However, Darth Vader's fleet blockaded the planet; preventing the rebels from leaving.<ref name="Star Wars: Episode V The Empire Strikes Back">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars:'' Episode V ''The Empire Strikes Back'']]</ref>
+
+The Rebels managed to penetrate the Imperial blockade by using an [[ion cannon]] to clear away for their ships to flee into hyperspace. Following the ground assault, Artoo and his master Skywalker left Hoth on an X-wing fighter. Instead of rendezvousing with the rest of the Rebel fleet, Skywalker traveled to Dagobah, a remote swampy world. Earlier, Skywalker had been visited by a [[Force spirit]] of Master Kenobi who told him to visit Dagobah where the Jedi Master Yoda would continue his Jedi training. After a rough landing, Artoo was nearly eaten by a [[dragonsnake]] which spat him out. Artoo suffered little serious damage but was muddy and dented.<ref name="Star Wars: Episode V The Empire Strikes Back" />
+
+Shortly later, the two companions encountered a small green creature, who promised to take them to Master Yoda. Artoo didn't seem to have a good first impression of Yoda and appeared to haggle with him until Skywalker intervened. While Skywalker visited [[Yoda's Hut|the creature's hut]], R2-D2 guarded the X-wing starfighter. The rainfall made Artoo's stay an unpleasant one. After the green creature revealed himself as Master Yoda, Skywalker began his Jedi training. Artoo observed the training from a distance. On one occasion, Artoo was present when Yoda used the Force to levitate Skywalker's X-wing starfighter from the swamp.<ref name="Star Wars: Episode V The Empire Strikes Back" />
+
+[[File:R2 Empire.png|thumb|180px|left|A filthy R2-D2 after surviving his encounter with the dragon-snake]]
+On another training exercise, Luke Skywalker, under Yoda's instruction, used the Force to levitate Artoo and several rocks. However, Skywalker was distracted by a vision of his friend Han, Leia, and Chewbacca being tortured in a "[[Cloud City|city in the clouds]]". Despite Yoda and Kenobi's warnings, Skywalker decided to adjourn his Jedi training and leave Dagobah to rescue his companions. Unknown to Luke and Artoo, the vision was a trap created by Darth Vader to lure the young Jedi into a trap. Artoo and Luke traveled to Cloud City, a floating city which lay in the gas giant [[Bespin]].<ref name="Star Wars: Episode V The Empire Strikes Back" />
+
+After landing without any problems, the two entered the complex. While walking through Cloud City, Artoo and Luke caught a glimpse of Princess Leia and their companions being led away by several Imperial stormtroopers. Artoo was separated from Luke after the latter ascended up a [[turbolift]] which led him to a carbon freezing chamber. Later, Artoo managed to link up with C-3PO, Leia, and Chewbacca, who had already been freed by Lando. Lando had earlier betrayed his former friend Han Solo but had decided to help the rebels escape the Empire. Under Calrissian's instruction, Artoo connected with a power socket which enabled Calrissian to warn the citizens of Cloud City that the Empire had begun occupying the city. After fighting several stormtroopers, Artoo and his companions managed to escape Cloud City on the ''Millennium Falcon''.<ref name="Star Wars: Episode V The Empire Strikes Back" />
+
+After picking up the wounded Skywalker, who had lost his hand in combat against Darth Vader, Artoo and his companions fled into space. However, they were pursued by Darth Vader's [[Executor-class Star Dreadnought|Super Star Destroyer]] ''[[Executor]]''. While reattaching Threepio's legs, Artoo was forced to attend to the ship's hyperdrive, which had been disabled by the Imperials. Artoo managed to repair the hyperdrive in the nick of time and the ''Falcon'' was able to flee into hyperspace and rejoin the Rebel fleet. Artoo was knocked down by the impact of the jump but survived the incident undamaged. Later, he along with Threepio, Leia, and Skywalker watched while Lando and Chewie departed on the ''Millennium Falcon'' to find Han Solo.<ref name="Star Wars: Episode V The Empire Strikes Back" />
+
+====Rescuing Han Solo====
+[[File:ArtooArcWelder-ROTJ.png|right|250px|thumb|R2-D2 giving Salacious Crumb an electric shock]]
+Later, R2-D2 and his companions learnt that Han Solo was being held by Jabba on Tatooine. Skywalker informed R2-D2 about his plan to rescue Han Solo but kept C-3PO in the dark, knowing that his programming prevented him from lying. As planned, R2-D2 and C-3PO traveled to Jabba's castle where Artoo played a holographic message from Luke Skywalker. Skywalker offered to give Artoo and See Threepio as a "gift" to Jabba in return for freeing Han. As expected, Jabba declined the offer and quickly revealed that he had kept a carbonited Solo on display in his throne room.<ref name="Star Wars: Episode VI Return of the Jedi" />
+
+However, he accepted the two droids as gifts. While C-3PO became Jabba's new translator, R2-D2 was pressed into service as a waiter aboard Jabba's [[sail barge]] ''[[Khetanna]]''. Later, Leia, disguised as the bounty hunter [[Boushh]], visited Jabba with the captive Chewbacca in tow. However, this was merely a ruse to free Han Solo. Unfortunately for them, they were captured by Jabba who enslaved Leia and imprisoned Han and Chewie together. The following day, Skywalker visited and reiterated his demands. Jabba refused and threw Luke into the [[rancor]] pit. However, Skywalker killed the beast. Enraged, Jabba ordered that Luke, Han, and Chewie be fed to the [[sarlacc]], a massive monster that lived at the [[Great Pit of Carkoon]] in the Dune Sea.<ref name="Star Wars: Episode VI Return of the Jedi" />
+
+While traveling to the Dune Sea, R2-D2 was serving drinks when he bumped into C-3PO, who expressed despondence at the situation. However, Artoo, who knew the true nature of Skywalker's plan, told him not to worry. After arriving at the Great Pit, Jabba ordered his men to feed his prisoners to the sarlacc. Luke was forced to walk the plank but at that moment he signaled to R2-D2. The astromech droid fired Skywalker's lightsaber and the Jedi promptly freed his companions and overpowered Jabba's minions on the nearby desert skiff. Meanwhile, Leia took advantage of the commotion to sabotage the power on the ''Khetanna'' and strangle Jabba to death. R2-D2 also freed Leia and came to C-3PO's defense, when he was accosted by Jabba's pet [[Kowakian monkey-lizard]] [[Salacious B. Crumb|Salacious Crumb]].<ref name="Star Wars: Episode VI Return of the Jedi" />
+
+After freeing Leia, Artoo Detoo and See Threepio dived into the Dune sea where they were picked up by their companions. They then fled the scene on a stolen [[Bantha-II cargo skiff|desert skiff]] and went offworld. While C-3PO and the others departed on the ''Millennium Falcon'' to rendezvous with the Rebel fleet near the [[Sullust system]], R2-D2 and Skywalker traveled to Dagobah. This trip was a more pleasant trip for R2-D2, who guarded Skywalker's X-wing while the Jedi visited Yoda. The dying Yoda revealed that Luke's father Anakin and Darth Vader were the same person. Later, Skywalker met the Force spirit of Kenobi who warned him of his final trial with Vader.<ref name="Star Wars: Episode VI Return of the Jedi" />
+
+====Battle of Endor====
+{{Quote|Going? What do you mean, you're going. But-- but going where, Artoo? No, what! Artoo! Oh, this is no time for heroics. Come back!|C-3PO|Star Wars: Episode VI Return of the Jedi}}
+[[File:Artoo blasted on Endor.jpg|left|thumb|250px|Artoo gets blasted by enemy fire during the battle of Endor]]
+After rescuing Han Solo, R2-D2 and his companions participated in a rebel mission to destroy the [[Death Star II|Second Death Star]] that was being built above the [[Endor|Forest Moon of Endor]]. Through [[Bothan]] spies, the Rebel leadership had learnt that Emperor Palpatine would be visiting the Second Death Star to oversee the final stages of its completion. In response, the Rebel leader [[Mon Mothma]] and Admiral [[Gial Ackbar|Ackbar]] had marshaled the Rebel fleet for a massive strike against the Imperial leadership. Since the Second Death Star was protected by a shield generator, a rebel force would have to infiltrate Endor and disable it out so that the Rebel fleet could destroy it.<ref name="Star Wars: Episode VI Return of the Jedi" />
+
+Artoo Detoo along with his companions Threepio, Han Solo, Princess Leia, Luke Skywalker, and Chewbacca took part in this Rebel mission to infiltrate Endor. Using a stolen [[Lambda-class T-4a shuttle|Imperial shuttle]], the rebels managed to land on Endor. They soon encountered several Imperial [[scout trooper]]s and Princess Leia was separated from the group during the struggle. R2-D2 accompanied Han, Skywalker, and Chewbacca as they search through the forest for Leia. However, they stumbled into a net trap. Using his electrical saw, R2-D2 managed to free his companions. They were then surrounded by several [[Ewok]]s, a species of furry bipeds native to Endor. Believing that Threepio was a god, the Ewoks attempted to sacrifice Solo, Skywalker, Chewbacca, and Artoo. When Threepio failed to dissuade the Ewoks, Skywalker used the Force to cause Threepio's throne to levitate. Fearing that they had angered their "god", the Ewoks promptly released their prisoners.<ref name="Star Wars: Episode VI Return of the Jedi" />
+
+After convincing the Ewoks to fight on their side, R2-D2 and C-3PO took part in the Rebel assault on the [[Death Star's shield generator]] the following day. However, the rebel force was quickly captured by the Imperial garrison. R2-D2 and C-3PO managed to evade capture. Under orders from R2-D2, Threepio exposed his position to the Imperials. Shortly later, the Ewoks attacked the Imperial forces massed outside the shield generator. However, the Imperials managed to seal off the shield generator and launched a devastating counter-attack with [[All Terrain Scout Transport|AT-ST walkers]]. Meanwhile in space, the Rebel fleet was trapped between the Second Death Star and an Imperial fleet.<ref name="Star Wars: Episode VI Return of the Jedi" />
+
+[[File:Celebration on Endor.png|thumb|right|250px|R2-D2 and his companions celebrating the Rebel victory at Endor]]
+During the fighting, R2-D2 and C-3PO made their way to the shield generator's blast door where Han and Leia were attempting to breach it. R2-D2 attempted to access the power socket but was blasted by enemy fire; causing him to short-circuit. The rebels were then cornered by two stormtroopers but Leia managed to shoot them. Meanwhile, Chewbacca and two Ewok warriors managed to turn the tide of the battle by hijacking an AT-ST walker and using it to destroy the others. Using the hijacked AT-ST, the rebels tricked the remaining Imperial troops into opening the shield generator. After storming the bunker, the rebels planted explosives which destroyed the energy field protecting the Death Star. This enabled the Rebels to destroy the Second Death Star along with Emperor Palpatine, Darth Vader, and several Imperial ships. Following the Battle of Endor, R2-D2 was repaired and took part in the victory celebrations at [[Bright Tree Village]].<ref name="Star Wars: Episode VI Return of the Jedi" />
+
+===After Endor===
+====At Luke Skywalker's side====
+R2-D2 accompanied Luke and [[Shara Bey]] on a [[Mission to Vetine|mission]] to obtain two [[Great Tree (Coruscant)|Force-sensitive trees]] that sprouted from the one planted in the [[Jedi Temple training ground]]. The trees were stored in an [[Imperial base (Vetine)|Imperial base]] on [[Vetine]], and Luke had Bey impersonate an [[Imperial Security Bureau]] officer, [[Alecia Beck]], to enter the facility, and had R2 stash his lightsaber. This did not fool [[Commandant]] [[Hurron]], who knew Beck had a prosthetic [[eye]], so R2 ejected the lightsaber for Luke to fight their way out and escape with the trees.<ref>''[[Shattered Empire, Part IV]]''</ref>
+
+[[File:Lukes_remorse.png|thumb|left|300px|Luke places his hand on R2, following the massacre.]]
+Luke spent the subsequent decades rebuilding the [[Jedi Order]], but his dream was destroyed by his nephew [[Kylo Ren|Ben]], who [[Destruction of Luke Skywalker's Jedi Temple|killed]] his fellow students after succumbing to the dark side. R2-D2 was present at the burning of the [[Luke Skywalker's Jedi Temple|Temple]] Luke used: his master placed his hand on his trusted astromech as he knelt and wept.<ref name="VII novel">[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]</ref>
+
+====Locating Luke Skywalker====
+{{Quote|R2-D2 has been in low power mode ever since Master Luke went away. Sadly, he may never be his old self again.|C-3PO|Star Wars: Episode VII The Force Awakens}}
+A short time after Luke went into exile, R2-D2 went into a self-imposed low-power mode in order to recuperate from decades of uninterrupted operation, having not operated at peak efficiency for several years prior.<ref name="Episode VII" /> In a sort of semi-retirement, his celebrated status in the early Rebellion protected him from becoming spare parts as newer and more advanced droid models had become the norm for starship support duty. Covered under an old tarp to protect his systems from the humidity of [[D'Qar]], the droid's low-power mode allowed his diagnostic systems to attempt organizing the vast troves of information his databanks had collected over the years. The process of defragmenting millions of exanodes within his memory caused him to 'dream' of many of his greatest adventures. Despite being unresponsive, his longtime companion C-3PO still talked and fussed over him on a regular basis, and even found ways to argue with him.<ref name="TFA Visual Dictionary" />
+
+[[File:LukeAndArtooReuniteTLJ.jpeg|thumb|300px|right|Luke and Artoo are reunited on the Falcon.]]
+Shortly after the [[Battle of Starkiller Base|attack]] on [[Starkiller Base]], he overheard [[Rey]] stating that the [[First Order]] had recovered the majority of the starchart that was recovered from the Imperial archives, but they were still lacking the final piece contained within BB-8. Artoo promptly reactivated after years of hibernation, and searched his records and found that he had previously downloaded this map while upon the first Death Star.<ref name="VII novel" /> Projecting the map into the room, Artoo matched his map with the piece that [[BB-8]] held. He subsequently accompanied Rey and Chewbacca in the ''Millennium Falcon'' to [[Ahch-To]], the planet identified as Luke's final destination.<ref name="Episode VII" />
+
+After Rey initially failed to convince Luke to help her, Luke was reunited with Artoo when he entered the ''Falcon'' to mourn the news that Han Solo was dead. Initially, Luke informed Artoo that he was resolute in his decision not to train Rey in the ways of the Force, but Artoo replayed the holographic recording of Leia asking Obi-Wan Kenobi for aid, inspiring Luke to accept Rey's request and give her at least a basic instruction in the ways and history of the Jedi. After Rey's failed attempt to redeem Kylo Ren, Artoo helped the ''Falcon'' track the other half of the binary signal device Rey was using to keep track of Leia's location while Rey and Chewbacca piloted the ''Falcon'' against the forces of the First Order. Once this fight was over, Artoo was once again reunited with Threepio.<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+
+==Characteristics==
+{{Quote|Artoo's here to handle it. Believe me, I've never seen a jam he couldn't beep his way out of.|Leia Organa|Princess Leia, Part II}}
+R2-D2 was known for his loyal, courageous, and assertive personality. Over the years, R2-D2 had served several masters diligently including the [[Royal House of Naboo]], Senator Padmé Amidala,<ref name="TPM" /> the [[Jedi Knight]] Anakin Skywalker,<ref name="ROTS" /> Senator Bail Organa,<ref name="Droids in Distress" /> and Anakin's son, Luke Skywalker.<ref name="Star Wars: Episode V The Empire Strikes Back" /> While R2-D2 was not designed for combat, R2-D2 was still able to hold himself well in a fight on several occasions during the [[Clone Wars]] and the Galactic Civil War. Unlike his fastidious and worry-prone protocol counterpart C-3PO, R2-D2 had an adventurous spirit and was able to cope well under challenging circumstances. Unlike C-3PO, he was able to keep secrets and employ deception to achieve his masters' goals.<ref name="Star Wars: Episode VI Return of the Jedi" />
+
+Due to his resourcefulness and quick-thinking nature, R2-D2 acquitted himself well during a number of difficult and challenging missions including repairing the Naboo Royal Starship's shield generator.,<ref name="TPM" /> preventing T-7 ion disruptor rifles from falling into the hands of the Empire,<ref name="Droids in Distress" /> and delivering [[Luke Skywalker's green lightsaber|Luke's lightsaber]] during a mission to rescue Han Solo and Chewbacca from Jabba the Hutt.<ref name="Star Wars: Episode VI Return of the Jedi" />
+
+===Relationships===
+====Ahsoka Tano====
+R2-D2 and the former Jedi Padawan Ahsoka Tano also had a mutual liking and respect for each other. R2-D2 helped Ahsoka escape a pair of pilots that Senator Organa had hired to bring her to him. Senator Organa once joked that R2 was far too independent for an astromech droid but did not give him a memory wipe out of respect. Tano quipped that R2-D2 had several "bad" role models including Anakin Skywalker and Senator Amidala. Later, R2 repaired Tano's freighter.<ref name="Ahsoka" />
+
+====Leia Organa====
+R2-D2 was loyal to his master Princess Leia Organa and was determined to get her message to Obi-Wan Kenobi despite the odds stacked against him.<ref name="Star Wars: Episode IV A New Hope" /> R2-D2 showed ingenuity when he helped Princess Leia and Evaan Verlaine defeat a platoon of stormtroopers on Sullust by luring a pack of rockrenders to attack them.<ref name="Princess Leia 3" /> R2-D2 also showed initiative when he beamed Princess Leia's message to Chief Beon Beonel, helping repair the breach between the Alderaanians and the Alder-Espirions and save the Alderaan Flotilla from destruction at the hands of an Imperial Star Destroyer.<ref name="Princess Leia 5" />
+
+====R5-D4====
+R2-D2's determination to deliver the Death Star plans to the Alliance once led him to attempt to sabotage R5-D4 in an attempt to improve his chances of being sold. However, R2 relented upon learning about R5's sad story. Instead, R2-D2 managed to convince R5-D4 to help him get sold by telling him that the fate of the galaxy depended on it and that he was working for the Rebellion. This moved R5, who once worked for the Rebellion. R2-D2 could also speak in [[Binary]] with other astromech droids.<ref name="The Red One" />
+
+==Equipment==
+{{Quote|Don't you call me a mindless philosopher, you overweight glob of grease!|[[C-3PO]] to R2-D2|Star Wars: Episode IV A New Hope}}
+R2-D2 was a diminutive [[droid]], standing 1.09 meters tall.<ref name="SWE" /> He rolled on three legs, one of which could be retracted into his body, and had a silver blue domed head. Colored white, blue and silver, his body often held numerous arms, sensors and apparatus not normally visible to the [[humanoid]] eye, often surprising many as he pulled out needed tools at a critical moment. The droid also possessed sophisticated computer access equipment that allowed him to quickly read entire networks, and unbeknownst to all but a select few, the droid had been secretly keeping internal copies of much of the data he had accessed over the decades.<ref name="TFA Visual Dictionary" />
+
+===Known accessories===
+The droid featured two power-bus cables on both his legs, connecting to small power cells found under his body, positioned vertically. The droid's motorized all-terrain treads were, as a result, not impacted by ankle articulator servomotors immediately above. Activating couplers were located immediately beneath shoulder articulation joints at the "top" of the droid's legs, with the joints appearing as concentric circles. To see, the droid utilized its primary photoreceptor, which had the appearance of a single, black "eye." Acoustic signalers were located in two square-looking depressions in the droid's front, right beneath several parallel blue "lines," which were actually the openings for some of his various gadgets.<ref name="TFA Visual Dictionary" />
+
+The droid also featured [[rocket booster]]s that could propel him into the air. However, by the time of the Galactic Civil War they had not worked in ages, with their warranty being long expired.<ref name="Beware">''[[Return of the Jedi: Beware the Power of the Dark Side!]]''</ref>
+<div style="float:left; width:48%;">
+*Rocket booster<ref name="AOTC" />
+*[[Holoprojector]] / Recorder
+*Periscope
+*Fire extinguisher
+*Hidden [[lightsaber]] compartment with ejector
+*Small Saw
+</div><div style="float:right; width:48%;">
+*[[Electro-shock prod]] (electric shock)
+*Data probe<ref name="TFA Visual Dictionary" />
+*Utility arm<ref name="TFA Visual Dictionary" />
+*Life-form scanner
+*Motorized, all-terrain treads<ref name="TFA Visual Dictionary" />
+</div><br clear="all">
+
+==Behind the scenes==
+R2-D2 was portrayed by [[Kenny Baker]] in ''[[Star Wars: Episode IV A New Hope|A New Hope]]'', ''[[Star Wars: Episode V The Empire Strikes Back|The Empire Strikes Back]]'', ''[[Star Wars: Episode VI Return of the Jedi|Return of the Jedi]]'', ''[[Star Wars: Episode I The Phantom Menace|The Phantom Menace]]'', and ''[[Star Wars: Episode II Attack of the Clones|Attack of the Clones]]''. For ''[[Star Wars: Episode III Revenge of the Sith|Revenge of the Sith]]'', [[Anthony Daniels]] has stated that Baker did not film any scenes; Baker himself said that he may have appeared as Artoo in a majority of scenes that were caught during production of ''Episode II'', though he did film some bits and pieces. He has been credited as playing R2-D2 in the first six films. Baker served as a consultant on [[Star Wars: Episode VII The Force Awakens|''The Force Awakens'']], and [[Jimmy Vee]] took over for [[Star Wars: Episode VIII The Last Jedi|Episode VIII]].<ref>{{Cite web|url=http://metro.co.uk/2015/11/16/doctor-who-actor-jimmy-vee-is-the-new-r2-d2-in-star-wars-episode-8-5505452/|title=Doctor Who actor Jimmy Vee is the new R2-D2 in Star Wars Episode 8|publisher=Metro.co.uk|last=McEwan|first=Cameron|date=2015-11-16|accessdate=2016-01-16}}</ref> Vee has also confirmed that he will reprise the role once more in [[Star Wars: Episode IX|''Star Wars'': Episode IX]] and that he hopes he could play the character beyond the [[sequel trilogy]] films.<ref name="Twitter">{{Twitter|realjimmyvee|status/975539460719988739|[[Jimmy Vee]]|quote=Yes hopefully il be in all of them from now on.}}</ref> The droid's distinctive sounds were created by [[Ben Burtt]].
+
+Before the cancellation of The Clone Wars series, [[Brent Friedman]] wrote scripts for a four-episode arc starring R2-D2 and Rex. The ground forces of the Clone Army and the [[Clone trooper pilot|pilots]] and their droids would get into a fight which resulted in Rex flying a starfighter with R2 as his copilot. They would crash and be stranded together on one of the moons of Ryloth,<ref name="Untold Clone Wars Panel">{{SW|url=news/swca-the-untold-clone-wars-panel-liveblog|text=SWCA: The Untold ''Clone Wars'' Panel Liveblog}}</ref> where most of the episodes would take place.<ref name="Rex/R2 Ryloth Moon">{{Twitter|BFree63|status/588844674867068929|[[Brent Friedman]]|quote=@JacobRegan18 nope. The Rex/R2 arc was set almost entirely on one of the moons of Ryloth... if I remember correctly. ;)}}</ref> Rex and R2 reprogrammed a B2 super battle droid that they would grow attached to,<ref name="Rex/R2 SBD">{{Twitter|BFree63|status/466486061796196352|[[Brent Friedman]]|quote=@Halabrew No time travel in the Rex/R2 arc. The T2 vibe came from our heroes co-opting a Super Battle Droid... and growing attached to it.}}</ref> and at some point Rex was injured.<ref name="Rex/R2 Injury">{{Twitter|BFree63|status/466826004938235905|[[Brent Friedman]]|quote=Halabrew Ha! Injuries yes, but nothing so cruel was planned.}}</ref>
+
+==Appearances==
+{{Scroll_box|content=
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]
+*''[[Star Wars Journeys: The Phantom Menace]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars Battlefront II]]''
+*''[[Star Wars: Force Arena]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
+*{{TCW|The Hidden Enemy}}
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]
+*{{TCW|Rising Malevolence|Rising ''Malevolence''}}
+*{{TCW|Shadow of Malevolence|Shadow of ''Malevolence''}}
+*{{TCW|Destroy Malevolence|Destroy ''Malevolence''}}
+*{{TCW|Rookies}}
+*{{TCW|Downfall of a Droid}}
+*{{TCW|Duel of the Droids}}
+*{{TCW|Bombad Jedi}} {{Imo}}
+*{{TCW|Trespass}}
+*{{TCW|Blue Shadow Virus (episode)|Blue Shadow Virus}}
+*{{TCW|Mystery of a Thousand Moons}}
+*{{TCW|Storm Over Ryloth}}
+*{{TCW|Liberty on Ryloth}}
+*{{TCW|Cargo of Doom}}
+*{{TCW|Children of the Force}}
+*{{TCW|The Zillo Beast}}
+*{{TCW|The Zillo Beast Strikes Back}}
+*{{TCW|Senate Spy}}
+*{{TCW|Weapons Factory}}
+*{{TCW|Voyage of Temptation}}
+*{{TCW|Death Trap}}
+*{{TCW|R2 Come Home}}
+*{{TCW|Lethal Trackdown}} {{Flash}}
+*{{TCW|ARC Troopers}}
+*{{IDWAdventuresCite|12|[[Intermission, Part I]]}}
+*{{IDWAdventuresCite|13|[[Intermission, Part II]]}}
+*''[[Forces of Destiny: Daring Adventures: Volume 2]]''
+*{{TCW|Evil Plans}}
+*{{TCW|Nightsisters (episode)|Nightsisters}}
+*{{TCW|The Citadel}}
+*{{TCW|Counterattack}}
+*{{TCW|Citadel Rescue}}
+*{{TCW|Mercy Mission}}
+*{{TCW|Nomad Droids}}
+*{{TCW|Darkness on Umbara}}
+*{{TCW|Kidnapped}}
+*{{TCW|Slaves of the Republic}}
+*{{TCW|Escape from Kadavo}}
+*{{TCW|A Friend in Need}}
+*{{TCW|Tipping Points}}
+*{{TCW|The Gathering (episode)|The Gathering}}
+*{{TCW|A Test of Strength}}
+*{{TCW|Bound for Rescue}}
+*{{TCW|A Necessary Bond}}
+*{{TCW|Secret Weapons}}
+*{{TCW|A Sunny Day in the Void}}
+*{{TCW|Missing in Action}}
+*{{TCW|Point of No Return}}
+*{{FOD|The Starfighter Stunt}}
+*{{TCW|Sabotage (episode)|Sabotage}}
+*{{TCW|An Old Friend}}
+*{{TCW|The Rise of Clovis}}
+*{{TCW|Voices}}
+*{{TCW|Destiny (episode)|Destiny}}
+*{{TCW|Sacrifice}}
+*{{TCW|Unfinished Business}}
+*''[[Kanan 7: First Blood, Part I: The Corridors of Coruscant]]''
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+*[[Revenge of the Sith (Golden Book)|''Revenge of the Sith'' Golden Book]]
+*''[[Ahsoka (novel)|Ahsoka]]''
+*{{IDWAdventuresCite|9|[[Trouble Again]]}}
+*[[Lost Stars (webcomic)|''Lost Stars'' webcomic]]
+*''[[Droids in Distress (book)|Droids in Distress]]''
+*{{Rebels|Droids in Distress}}
+*''[[Sabine My Rebel Sketchbook]]''
+*''[[Battle to the End]]'' {{Mo}}
+*''[[Star Wars Rebels: Recon Missions]]''
+*{{Rebels|Blood Sisters}}
+*''[[Forces of Destiny: The Leia Chronicles]]''
+*''[[Thrawn: Alliances]]''
+*''[[Rogue One: A Star Wars Story]]''
+*[[Rogue One: A Star Wars Story (novelization)|''Rogue One: A Star Wars Story'' novelization]]
+*''[[Star Wars: Rogue One: A Junior Novel]]''
+*{{Shortstory|story=Raymus|book=From a Certain Point of View}}
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]''
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*''[[Episode IV: A New Hope Read-Along Storybook and CD]]''
+*[[A New Hope (Little Golden Book)|''A New Hope'' Golden Book]]
+*''[[Escape from Darth Vader]]''
+*''[[Trapped in the Death Star!]]''
+*''[[Star Wars: A New Hope: Activity Book]]''
+*''[[Star Wars: Heroes Path]]''
+*''[[The Adventures of Luke Skywalker, Jedi Knight]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*{{IDWAdventuresCite|8|[[Tales from Wild Space: Gonk]]}}
+*''[[Star Wars Battlefront]]''
+*''[[A Leader Named Leia]]''
+*{{Shortstory|story=Stories in the Sand|book=From a Certain Point of View}}
+*{{Shortstory|story=Reirin (short story)|sformatted=Reirin|book=From a Certain Point of View}}
+*{{Shortstory|story=The Red One|book=From a Certain Point of View}}
+*{{Shortstory|story=Rites|book=From a Certain Point of View}}
+*{{Shortstory|story=Master and Apprentice (short story)|sformatted=Master and Apprentice|book=From a Certain Point of View}}
+*{{Shortstory|story=The Luckless Rodian|book=From a Certain Point of View}}
+*{{Shortstory|story=Not for Nothing|book=From a Certain Point of View}}
+*{{Shortstory|story=We Don't Serve Their Kind Here|book=From a Certain Point of View}}
+*{{Shortstory|story=Added Muscle|book=From a Certain Point of View}} {{Imo}}
+*{{Shortstory|story=You Owe Me a Ride|book=From a Certain Point of View}}
+*{{Shortstory|story=The Secrets of Long Snoot|book=From a Certain Point of View}}
+*{{Shortstory|story=Born in the Storm|book=From a Certain Point of View}}
+*{{Shortstory|story=Bump|book=From a Certain Point of View}}
+*{{Shortstory|story=Grounded|book=From a Certain Point of View}} {{Mo}}
+*{{Shortstory|story=By Whatever Sun|book=From a Certain Point of View}}
+*''[[Princess Leia, Part I]]''
+*''[[Princess Leia, Part II]]''
+*''[[Princess Leia, Part III]]''
+*''[[Princess Leia, Part IV]]''
+*''[[Princess Leia, Part V]]''
+*{{IDWAdventuresCite|Annual 2018|[[Mind Your Manners]]}}
+*{{IDWAdventuresCite|Annual 2018|[[The Lost Eggs of Livorno]]}}
+*''[[Heir to the Jedi]]''
+*''[[The Weapon of a Jedi: A Luke Skywalker Adventure]]''
+*''[[Luke and the Lost Jedi Temple]]''
+*''[[The Weapon of a Jedi (animated comic)|The Weapon of a Jedi]]''
+*''[[The Weapon of a Jedi, Part 1]]''
+*''[[The Weapon of a Jedi, Part 2]]''
+*''[[The Weapon of a Jedi, Part 3]]''
+*''[[The Weapon of a Jedi, Part 4]]''
+*''[[Star Wars Annual 4]]''
+*''[[Star Wars 1: Skywalker Strikes]]''
+*''[[Star Wars 2: Skywalker Strikes, Part II]]''
+*''[[Star Wars 3: Skywalker Strikes, Part III]]''
+*''[[Star Wars 4: Skywalker Strikes, Part IV]]''
+*''[[Star Wars 5: Skywalker Strikes, Part V]]''
+*''[[Star Wars 6: Skywalker Strikes, Part VI]]''
+*''[[Star Wars 7: From the Journals of Old Ben Kenobi: The Last of His Breed|Star Wars 7: From the Journals of Old Ben Kenobi: "The Last of His Breed"]]'' {{Mo}}
+*''[[Star Wars 8: Showdown on the Smuggler's Moon, Part I]]''
+*''[[Star Wars 9: Showdown on the Smuggler's Moon, Part II]]''
+*''[[Star Wars 10: Showdown on the Smuggler's Moon, Part III]]'' {{Imo}}
+*''[[Star Wars 11: Showdown on the Smuggler's Moon, Part IV]]''
+*''[[Star Wars 12: Showdown on the Smuggler's Moon, Part V]]''
+*''[[Vader Down, Part I]]''
+*''[[Darth Vader 13: Vader Down, Part II]]''
+*''[[Star Wars 13: Vader Down, Part III]]''
+*''[[Darth Vader 14: Vader Down, Part IV]]''
+*''[[Star Wars 14: Vader Down, Part V]]''
+*''[[Darth Vader 15: Vader Down, Part VI]]''
+*''[[Star Wars 16: Rebel Jail, Part I]]''
+*''[[Star Wars 18: Rebel Jail, Part III]]''
+*''[[Star Wars 19: Rebel Jail, Part IV]]''
+*''[[Star Wars 22: The Last Flight of the Harbinger, Part II]]''
+*''[[Star Wars 23: The Last Flight of the Harbinger, Part III]]''
+*''[[Star Wars 24: The Last Flight of the Harbinger, Part IV]]''
+*''[[Star Wars 25: The Last Flight of the Harbinger, Part V]]''
+*{{Shortstory|story=Droid Dilemma|book=Star Wars 25: The Last Flight of the Harbinger, Part V}}
+*''[[Star Wars 26: Yoda's Secret War, Part I]]''
+*''[[Star Wars 27: Yoda's Secret War, Part II]]'' {{C|Mentioned only; in the opening crawl}}
+*''[[Star Wars 28: Yoda's Secret War, Part III]]'' {{Mo}}
+*''[[Star Wars 29: Yoda's Secret War, Part IV]]'' {{C|Mentioned only in opening crawl}}
+*''[[Star Wars 30: Yoda's Secret War, Part V]]'' {{C|Mentioned only in opening crawl}}
+*''[[Star Wars 35: The Hutt Run]]''
+*''[[Star Wars 36: Revenge of the Astromech]]''
+*''[[Star Wars 37: Imperial Pride]]''
+*''[[Star Wars 38: The Ashes of Jedha, Part I]]''
+*''[[Star Wars 39: The Ashes of Jedha, Part II]]''
+*''[[Star Wars 41: The Ashes of Jedha, Part IV]]''
+*''[[Star Wars 42: The Ashes of Jedha, Part V]]''
+*''[[Star Wars 43: The Ashes of Jedha, Part VI]]''
+*''[[Star Wars 44: Mutiny at Mon Cala, Part I]]''
+*''[[Star Wars 45: Mutiny at Mon Cala, Part II]]''
+*''[[Star Wars 46: Mutiny at Mon Cala, Part III]]''
+*''[[Star Wars 47: Mutiny at Mon Cala, Part IV]]''
+*''[[Star Wars 48: Mutiny at Mon Cala, Part V]]''
+*''[[Star Wars 49: Mutiny at Mon Cala, Part VI]]''
+*''[[Star Wars 50: Hope Dies, Part I]]''
+*''[[Star Wars 51: Hope Dies, Part II]]''
+*''[[Star Wars 52: Hope Dies, Part III]]''
+*''[[Star Wars 53: Hope Dies, Part IV]]''
+*''[[Star Wars 54: Hope Dies, Part V]]''
+*''[[Star Wars 55: Hope Dies, Part VI]]''
+*''[[Star Wars 56: The Escape, Part I]]''
+*''[[Star Wars 57: The Escape, Part II]]''
+*''[[Choose Your Destiny: A Luke & Leia Adventure]]''
+*''[[Star Wars: Commander]]''
+*''[[Star Wars: Forces of Destiny—Leia]]''
+*{{FOD|Beasts of Echo Base}}
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+*[[The Empire Strikes Back (Golden Book)|''The Empire Strikes Back'' Golden Book]]
+*''[[AT-AT Attack!]]''
+*''[[Use the Force!]]''
+*''[[Captured on Cloud City]]''
+*''[[Star Wars: Yoda's Jedi Training]]''
+*{{FOD|The Path Ahead}}
+*''[[Moving Target: A Princess Leia Adventure]]''
+*{{FOD|Bounty Hunted}}
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*''[[Episode VI: Return of the Jedi Read-Along Storybook and CD]]''
+*[[Return of the Jedi (Golden Book)|''Return of the Jedi'' Golden Book]]
+*''[[Rescue from Jabba's Palace]]''
+*''[[Ewoks Join the Fight]]''
+*{{FOD|An Imperial Feast}}
+*''[[Shattered Empire, Part I]]''
+*''[[Shattered Empire, Part III]]'' {{Mo}}
+*''[[Aftermath]]'' {{Flash}}
+*''[[Shattered Empire, Part IV]]''
+*''[[Aftermath: Empire's End]]'' {{Imo}}
+*''[[The Legends of Luke Skywalker]]''
+*''[[Bloodline (novel)|Bloodline]]'' {{Mo}}
+*''[[Star Wars: Galaxy's Edge]]''
+*''[[Poe Dameron 9: The Gathering Storm, Part II]]'' {{Mo}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens: A Junior Novel]]''
+*[[The Force Awakens (Golden Book)|''The Force Awakens'' Golden Book]]
+*''[[The Force Awakens Read-Along Storybook and CD]]'' {{Mo}}
+*''[[Han & Chewie Return!]]'' {{Po}}
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part IV]]'' {{Vision|Rey}}
+*''[[The Force Awakens, Part V]]'' {{Mo}}
+*''[[The Force Awakens, Part VI]]''
+*''[[Star Wars: The Force Awakens Beginner Game]]'' {{Po}}
+*{{IDWAdventuresCite|Ashcan|}} {{Flash}}
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[Star Wars: The Last Jedi: A Junior Novel]]''
+*''[[The Last Jedi: Rey's Journey]]''
+*''[[The Last Jedi Adaptation 2]]''
+*''[[The Last Jedi Adaptation 3]]'' {{Flash}}
+*''[[The Last Jedi Adaptation 4]]''
+*''[[Chewie and the Porgs]]''
+*{{FOD|Porg Problems}}
+*{{FOD|Porgs!}}
+*{{IDWAdventuresCite|5|[[Tales from Wild Space: The Best Pet]]}}
+*''[[Poe Dameron 28: The Awakening, Part III]]''
+*[[Star Wars: Episode IX|''Star Wars'': Episode IX]]
+*{{Shortstory|story=Whills|book=From a Certain Point of View}} {{Mo}}}}
+
+===Non-canon appearances===
+*''[[Disney Infinity 3.0]]''
+*''[[Star Wars: Galaxy of Heroes]]''
+*''[[Angry Birds Star Wars II]]''
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+*''[[William Shakespeare's The Clone Army Attacketh: Star Wars Part the Second]]''
+*''[[Revenge of the Sith: Episode III (LEGO Star Wars)]]''
+*''[[William Shakespeare's Tragedy of the Sith's Revenge: Star Wars Part the Third]]''
+*''[[William Shakespeare's Star Wars]]''
+*''[[Star Wars Epic Yarns: A New Hope]]''
+*''[[William Shakespeare's The Empire Striketh Back]]''
+*''[[Star Wars Epic Yarns: The Empire Strikes Back]]''
+*''[[William Shakespeare's The Jedi Doth Return]]''
+*''[[Star Wars Epic Yarns: Return of the Jedi]]''
+*{{Droid Tales|Exit from Endor}}
+*{{Droid Tales|Crisis on Coruscant (episode)|Crisis on Coruscant}}
+*{{Droid Tales|Mission to Mos Eisley (episode)|Mission to Mos Eisley}}
+*{{Droid Tales|Flight of the Falcon (episode)|Flight of the Falcon}}
+*{{Droid Tales|Gambit on Geonosis}}
+*''[[LEGO Star Wars: Droid Tales Episodes I-III]]''
+*{{The Resistance Rises|Poe to the Rescue}} {{Mo}}
+*''[[LEGO Star Wars: The Force Awakens]]''
+*''[[Star Wars: Puzzle Droids]]''
+*{{Blips|One Up}}
+*{{Blips|Out of Reach}}
+*{{Blips|Fan Droids}}
+*''[[Star Wars: The Force Inside]]''
+*{{All-Stars|The Good Stuff!}}
+
+==Sources==
+{{Scroll_box|content=
+*{{SWArchive|url=theclonewars/guide/episode015.html|text=''The Clone Wars'' Episode Guide: Trespass|archivedate=20110629042347}}
+*{{SWE|technology|astromechdroids|Astromech droids}}
+*{{SWE|characters|battledroid513|battle droid 513}}
+*{{SWE|characters|bni-393|BNI-393}}
+*{{SWE|technology|buzz-droid|Buzz droid}}
+*{{SWE|characters|c3po|C-3PO}}
+*{{SWE|characters|captainantilles|Captain Antilles}}
+*{{SWE|characters|mister-borkus|Mister Borkus|archivedate=20131130061426}}
+*{{SWE|groups|patitites|Patitites}}
+*{{SWE|characters|r2d2|R2-D2}}
+*{{SWE|technology|xwing|X-wing fighter}}
+*{{SW|url=video/droid-designs-chopper-from-star-wars-rebels-comes-to-life|text=Droid Design: Chopper from Star Wars Rebels Comes to Life}}
+*''[[Star Wars Rebels: The Visual Guide]]''
+*''[[Ultimate Sticker Collection: Star Wars Rebels]]''
+*{{SW|url=video/star-wars-rebels-a-look-ahead|text=Star Wars Rebels: A Look Ahead}}
+*''[[Star Wars Rebels: Head to Head]]''
+*''[[Ultimate Star Wars]]''
+*{{InsiderCite|152|Rebel Rouser}}
+*{{InsiderCite|152|Chopper Rolls Out!}}
+*{{InsiderCite|152|Blaster (Star Wars Insider)|Blaster}}
+*{{SWYoutube|48dGX8zmK4I|Thank you from the set of Star Wars: The Force Awakens!}}
+*{{InsiderCite|156|Star Wars Rebels Recounted}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars: The Force Awakens: New Adventures]]''
+*''[[Star Wars: Ships of the Galaxy]]''
+*{{SW|url=news/swca-the-untold-clone-wars-panel-liveblog|text=SWCA: The Untold ''Clone Wars'' Panel Liveblog}}
+*{{SW|url=news/princess-leia-3-exclusive-preview|text=''Princess Leia'' #3 &ndash; Exclusive Preview!}}
+*''[[Star Wars: I Am a Droid]]'' {{Po}}
+*''[[Star Wars: I Am a Jedi]]'' {{Po}}
+*''[[Star Wars: I Am a Pilot]]'' {{Po}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: ABC-3PO]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Princess Leia: Royal Rebel]]''
+*''[[Entertainment Weekly's Ultimate Guide to Rogue One]]''
+*''[[Darth Vader: Sith Lord]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Forces of Destiny: Meet the Heroes]]''
+*''[[Star Wars Look and Find (Journey to Star Wars: The Last Jedi)|Star Wars: Look and Find]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Forces of Destiny: Tales of Hope & Courage]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*''[[Star Wars: The Last Jedi: Ultimate Sticker Collection]]''
+*''[[Star Wars: The Last Jedi Activity Book with Stickers]]'' {{Po}}
+*''[[Star Wars: What is a Droid?]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*''[[Star Wars: Droidography]]''
+*{{SW|url=stormtroopers-history-gallery|text=Stormtroopers history gallery}}; image #6 {{C|of 16}}
+*{{SW|url=y-wing-starfighter-biography-gallery|text=Y-wing Starfighter biography gallery}}; image #8 {{C|of 12}}
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}}
+*{{Databank|alderaan|Alderaan|archivedate=20170706052637}} {{Po}}
+*{{Databank|alexsandr-kallus|Alexsandr Kallus|archiveurl=https://archive.fo/sF7cI}}
+*{{Databank|astromech-droid|Astromech Droids}}
+*{{Databank|balnab|Balnab|archivedate=20161021085523}}
+*{{SW|url=bespin-history-gallery|text=Bespin History Gallery|archivedate=20170814025341}}
+*{{Databank|bni-393|BNI-393|archivedate=20170322004640}}
+*{{Databank|buzz-droid|Buzz droid|archivedate=20170703200730}} {{Po}}
+*{{Databank|c-3po|C-3PO (See-Threepio)|archivedate=20170603062029}}
+*{{Databank|cad-bane-biography-gallery|Cad Bane Biography Gallery|archivedate=20170419013445}}; image #11 {{C|of 22}}
+*{{SW|url=cloud-city-history-gallery|text=Cloud City History Gallery}}
+*{{Databank|d-squad|D-Squad|archivedate=20170707040723}}
+*{{Databank|death-star|Death Star|archivedate=20170703151616}}
+*{{Databank|delta-7-jedi-starfighter|Delta-7 Jedi Starfighter|archivedate=20170706051350}}
+*{{Databank|geonosis-droid-factory|Geonosis Droid Factory|archivedate=20170207180404}}
+*{{Databank|h-type-nubian-yacht|H-type Nubian yacht|archivedate=20170902013726}} {{Po}}
+*{{Databank|havoc-outpost|Havoc Outpost|archivedate=20170623044725}}
+*{{Databank|hay-zu|Hay-Zu|archivedate=20170331214446}}
+*{{Databank|jawa|Jawa}}
+*{{Databank|luke-skywalker|Luke Skywalker}}
+*{{SW|url=lux-bonteri-biography-gallery|text=Lux Bonteri biography gallery}}; image #8 {{C|of 22}}
+*{{Databank|millennium-falcon|Millennium Falcon}}
+*{{Databank|patitite|Patitite}}
+*{{Databank|r2-d2|R2-D2}}
+*{{Databank|rebel-alliance|Rebel Alliance}}
+*{{Databank|wald|Wald|archivedate=20141207150954}}
+*{{Databank|wedge-antilles|Wedge Antilles|archivedate=20140714220601}} {{Po}}
+*{{Databank|wicket-w-warrick|Wicket W. Warrick|archivedate=20140703043251}}
+*{{Databank|x-wing-starfighter|X-wing Starfighter|archivedate=20170817003528}} {{Po}}
+*{{Databank|y-wing-starfighter|Y-wing Starfighter|archivedate=20140703025509}}
+*{{Databank|yavin-4|Yavin 4|archivedate=20140707124359}}
+*{{Databank|yoda-s-fighter|Yoda's Fighter|archivedate=20150330015857}}
+*{{Databank|yodas-hut|Yoda's Hut|archivedate=20151212091102}} {{Po}}}}
+
+==Notes and references==
+{{Scroll_box|content=
+{{Reflist}}
+|}}
+
+==External links==
+*{{WP|R2-D2}}
+*{{Imdb|url=character/ch0000054/|text=R2-D2}}
+*{{SWSB|09|Artoo-Detoo}}
+
+{{Interlang
+|de=R2-D2#kanon
+|ko=R2-D2
+|pl=R2-D2
+|pt=Cânon:R2-D2
+|ja=R2-D2
+|es=R2-D2
+}}
+
+{{DEFAULTSORT:R2-D2}}
+[[Category:Endor strike team personnel]]
+[[Category:Galactic Republic individuals]]
+[[Category:Masculine programming]]
+[[Category:Massassi Group personnel]]
+[[Category:Naboo]]
+[[Category:R2-series astromech droids]]
+[[Category:Rebel Alliance members]]
+[[Category:Resistance members]]
+[[Category:Rogue Squadron personnel]]
+[[Category:Shadow Squadron personnel]]

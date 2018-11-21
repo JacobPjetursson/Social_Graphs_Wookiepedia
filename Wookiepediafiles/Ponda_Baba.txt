@@ -1,0 +1,136 @@
+{{Eras}}
+{{Update|[[Rogue One: A Star Wars Story]], [[Doctor Aphra 26: Worst Among Equals, Part I]]}}
+{{Character
+|type=Criminal
+|image=[[File:Pondababa.png]]
+|name=Ponda Baba
+|homeworld=[[Ando]]<ref name="Ultimate SW">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Aqualish]]<ref name="Ultimate SW" />
+|gender=[[Sexes|Male]]<ref name="Episode IV">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref>
+|height=1.85 [[meter]]s<ref name="Ponda Baba">{{Databank|ponda-baba|Ponda Baba}}</ref>
+|mass=
+|hair=[[Color|Black]]<ref name="Episode IV" />
+|eyes=Black<ref name="Episode IV" />
+|skin=Gray<ref name="Episode IV" />
+|cyber=
+|era=
+|affiliation=[[Jabba Desilijic Tiure's criminal empire]]<ref name="Ultimate SW" />
+|masters=
+|apprentices=}}
+{{Quote|Negola dewaghi wool dugger?''"<br />"''He doesn't like you.|Ponda Baba and Evazan, to Luke Skywalker|audio=PondaBabaDoesn'tLikeYou.ogg|Star Wars: Episode IV A New Hope}}
+'''Ponda Baba''' was a [[Sexes|male]] [[Aqualish]] thug who rescued [[Doctor|Dr.]] [[Cornelius Evazan]] from a [[bounty hunter]]. The two formed a partnership and began to [[Smuggler|smuggle]] [[spice]] for the [[crime lord]] [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]], resulting in him becoming a wanted man. Shortly before the [[Battle of Yavin]], he was a patron in [[Chalmun's Cantina]] on the [[planet]] [[Tatooine]], where he instigated an argument with [[Luke Skywalker]] while bored and drunk. Evazan claimed that Baba did not like Skywalker and began to threaten the youth, leading to a brief confrontation with [[Obi-Wan Kenobi]], who, after failing to calm tensions with the [[pirate]]s, used [[Obi-Wan Kenobi's lightsaber (Jedi Master)|his]] [[lightsaber]] to sever Baba's right [[Limb|arm]] and wound Evazan with a slash across the torso when the pair drew their [[blaster]] [[Blaster pistol|pistols]] on the old man, who was in secret one of the last remaining [[Jedi]] [[Jedi Master|Masters]] of the nearly extinct [[Jedi Order]]. Evazan later tried to reattach Baba's arm using his medical training, but ended up nearly [[Death|killing]] the Aqualish in the process when the procedure failed.
+
+==Biography==
+{{Quote|You just watch yourself. We're wanted men.|Cornelius Evazan|Star Wars: Episode IV A New Hope}}
+Originally from the [[planet]] [[Ando]], Ponda Baba was a burly [[Aqualish]] thug who rescued [[Cornelius Evazan]], a former [[doctor]] who was infamous for the cruelty [[Sexes|he]] inflicted upon his patients, from a [[bounty hunter]]. The two formed a partnership and began to [[Smuggler|smuggle]] [[spice]] for [[Jabba Desilijic Tiure|Jabba]] the [[Hutt]]. The [[pirate]]s<ref name="Ultimate SW" /> were successful at their trade<ref name="Card Trader">{{Topps|set=Star Wars: Card Trader|sformat=''Star Wars'': Card Trader|cardname=Ponda Baba - Cantina Patron|link=http://starwarscardtrader.wikia.com/wiki/Ponda_Baba_-_Cantina_Patron}}</ref> and became wanted men.<ref name="Episode IV" /> Their working relationship wasn't always pleasant, however, and Baba even briefly considered turning Evazan in to collect the [[bounty]] on his head before realizing that their ongoing partnership was more profitable.<ref name="Card Trader" /> Still, the two considered each other friends<ref name="Doctor Cornelius Evazan">{{Databank|doctor-cornelius-evazan|Doctor Cornelius Evazan|archivedate=20161104154102}}</ref><ref name="Ponda Baba" /> despite their differences.<ref name="Card Trader" />
+
+[[File:PondaEvazan.jpg|thumb|left|250px|Cornelius Evazan and Ponda Baba on Jedha.]]
+The pair eventually adopted the aliases "[[Roofoo]]" and "[[Sawkee]]", and when visiting [[Milvayne]], they committed a series of crimes including kidnapping, forced servitude, a surgical alteration. The [[Milvayne Authority]] [[officer]] [[Tam Posla]] looked into their case and despite being taken off it by [[Tam Posla's superior officer|his superior officer]] he managed to track them to [[Jedha]], where the two began creating the [[decraniated]].<ref name="The Ultimate Visual Guide">''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''</ref> Posla travelled to Jedha to look for them and found their decraniated prototype [[Caysin Bog]], whom he fell in love with.<ref name="Aphra 18">''[[Doctor Aphra 18: Remastered, Part V]]''</ref> While on their way off-world,<ref name="Baba Escape">{{Twitter|GaryWhitta|status/811351220648431616|[[Gary Whitta]]|quote=They were on their way off-world. Lucky escape, not quite so lucky later in the week.|image=File:Evazan_escape.png}}</ref> Baba and Evazan bumped into the rebel operatives [[Jyn Erso]] and [[Cassian Jeron Andor|Cassian Andor]]. Evazan told them to watch themselves and Andor said they would be careful. The two parties then continued their routes.<ref name="RougeOne">''[[Rogue One: A Star Wars Story]]''</ref> Baba and Evazan departed<ref name="Baba Escape" /> from the city prior to its [[Destruction of Jedha City|destruction]] by the Death Star<ref name="RougeOne" /> and travelled to the planet [[Tatooine]].<ref name="Episode IV" />
+
+[[File:Bar fight.jpg|thumb|right|250px|Baba and Evazan are confronted by Obi-wan Kenobi]]
+Prior to the [[Battle of Yavin]], Baba and Evazan were patrons at [[Chalmun's Cantina]] on [[Tatooine]].<ref name="Episode IV" /> Bored and looking for excitement,<ref name="Ponda Baba" /> a drunk Baba<ref name="Ultimate SW" /> decided to pick a fight with [[Luke Skywalker]],<ref name="Ponda Baba" /> a young [[farm]]boy. Evazan quickly escalated the argument, even beginning to threaten the boy before attracting the attention of [[Obi-Wan Kenobi]], Skywalker's guardian.<ref name="Episode IV" /> The hermit attempted to ease tensions<ref name="Mos Eisley Cantina">{{Databank|mos-eisley-cantina|Mos Eisley Cantina}}</ref> by offering to purchase the pair drinks, but Evazan refused to back down and tossed Skywalker out of his way, and, along with Baba, drew his [[blaster pistol]] on the old man, despite the protest of [[Wuher]], the [[cantina]]'s [[bartender]]. Before the pirates were even able to discharge their weapons, however, Kenobi had already ignited [[Obi-Wan Kenobi's lightsaber (Jedi Master)|his]] [[lightsaber]],<ref name="Episode IV" /> swiftly [[Dismemberment|removing]] Baba's right [[Limb|arm]] and wounding Evazan with a slash across his torso, decisively ending the argument.<ref name="Ponda Baba" />
+
+Following the altercation, those present in the cantina briefly turned to see what had transpired before returning to their business. However, a departing patron, [[Garouf Lafoe]],<ref name="CL">''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''</ref> decided to inform a [[squad]] of Mos Eisley's [[sandtrooper]]s of the attack.<ref name="Mos Eisley Cantina" /> After the [[trooper]]s had entered the establishment and reached the counter, Wuher indicated to them where Kenobi and Skywalker had taken a seat, though the pair found another exit before they could be apprehended.<ref name="Episode IV" /> Evazan tried to reattach Baba's arm using his medical training, but ended up nearly [[Death|killing]] the Aqualish in the process when the procedure failed.<ref name="Updated and Expanded">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> Ponda would later regret bullying that 'blond human teenager.'<ref name="CL" />
+
+Skywalker later recalled his encounter with Baba while he was training with [[Skywalker's lightsaber|his own]] lightsaber in the [[Temple of Eedit]] on [[Devaron]].<ref name="The Weapon of a Jedi">''[[The Weapon of a Jedi: A Luke Skywalker Adventure]]''</ref>
+
+Baba's severed arm eventually came into the hands of Posla when he continued investigating the pair. Posla put the arm in a jar and stored it on [[Tam Posla's ship|his ship]].<ref name="Aphra 22">''[[Doctor Aphra 22: The Catastrophe Con, Part III]]''</ref> Following Posla's death, Evazan stole the ship and rendezvoused with Baba in deep space. As he boarded Baba's ship, Evazan took Baba's arm with him to return to his companion.<ref name="Aphra 25">''[[Doctor Aphra 25: The Catastrophe Con, Part VI]]''</ref>
+
+==Personality and traits==
+Ponda Baba was a fearsome,<ref name="The Original Trilogy Stories">''[[The Original Trilogy Stories]]''</ref> ill-tempered thug<ref name="Absolutely Everything You Need to Know">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref> who enjoyed bullying<ref name="Ponda Baba" /> those whom he considered to be an easy target.<ref name="Doctor Cornelius Evazan" />
+
+Baba was a burly male Aqualish who stood 1.85 [[meter]]s tall.<ref name="Ponda Baba" /> He had [[Color|gray]] skin, black [[eye]]s, black [[hair]] on the lower part of his face, and a pair of pink tusks.<ref name="Episode IV" />
+
+==Equipment==
+{{Quote|No blasters! No blasters!|Wuher, as Ponda Baba draws his blaster pistol|Star Wars: Episode IV A New Hope}}
+Ponda Baba wore an orange jacket, a brown pair of pants, a black pair of [[boot]]s, and a black belt with a gold buckle which had a holster attached to its left side to carry his [[SE-14C blaster pistol]].<ref name="Episode IV" />
+
+==Behind the scenes==
+Ponda Baba first appeared in the [[1977]] film [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], the first installment of the ''[[Star Wars]]'' [[original trilogy]],<ref name="Episode IV" /> in which he was played by [[Tommy Ilsley]].<ref name="IMDb">{{Imdb|name/nm0407908/|Tommy Ilsley}}</ref> The original [[1976]] [[Star Wars Episode IV: A New Hope (novel)|novelization]] of ''[[Star Wars]]'', ghostwritten by [[Alan Dean Foster]], described the character, then nameless, as a "multi-eyed alien". This story's version of events,<ref name="Novelization">[[Star Wars Episode IV: A New Hope (novel)|''Star Wars'': Episode IV ''A New Hope'' novelization]]</ref> which closely matches the film's revised fourth draft,<ref name="Revised Fourth Draft">{{Cite_web|url=http://www.imsdb.com/scripts/Star-Wars-A-New-Hope.html|title=Star Wars: A New Hope Script at IMSDb|accessdate=2017-09-13|work=[http://www.imsdb.com/ The Internet Movie Script Database]|publisher=imsdb.com|archiveurl=https://web.archive.org/web/20170913065016/http://www.imsdb.com/scripts/Star-Wars-A-New-Hope.html|archivedate=2017-09-13}}</ref> describes Obi-Wan Kenobi as cutting off not Baba's arm, rather Evazan's.<ref name="Novelization" /> The Evazan character dates back as early as ''[[The Star Wars: Rough Draft]]'' from [[May (month)|May]] [[1974]].<ref name="The Making of Star Wars">''[[The Making of Star Wars: The Definitive Story Behind the Original Film]]''</ref>
+
+A walrus named [[Petulia]] was used by [[Ben Burtt]] to supply Ponda Baba's vocalizations, although [[Tim Veekhoven]] and [[Mark Newbold]], the authors of the Star Wars Blog entry "Drawing from the Present: Familiar Creatures in a Galaxy Far, Far Away", were unable confirm whether the walrus was Petulia or not.<ref name="Drawing from the Present">{{Blog|official=true|/2013/08/15/drawing-from-the-present-familiar-creatures-in-a-galaxy-far-far-away/|Drawing from the Present: Familiar Creatures in a Galaxy Far, Far Away|int=}}</ref> Baba also appears alongside Evazan in the [[2016]] [[Star Wars Anthology Series|''Anthology Series'']] film ''[[Rogue One: A Star Wars Story]]'' and was portrayed by an uncredited performer.<ref name="RougeOne" /> ''Rogue One'' writer [[Gary Whitta]] disagreed with Baba and Evazan's inclusion in the film, opining that he "thought having Evazan and Walrus Man was a little too much. You have to reign in that instinct to go back and put things in just because you loved them when you were a kid".<ref name="Entertainment Weekly">{{Cite_web |url=http://ew.com/movies/2017/03/24/rogue-one-revisions-tie-fighter-scene-deleted-planet-killed-cameos/|title=''Rogue One'' revisions: The TIE fighter scene, a deleted planet, and killed cameos|accessdate=2017-12-04|author=Anthony Breznican|authorlink=http://ew.com/author/anthony-breznican/|date=2017-03-24|publisher=Entertainment Weekly|archiveurl=http://web.archive.org/web/20171203190336/http://ew.com/movies/2017/03/24/rogue-one-revisions-tie-fighter-scene-deleted-planet-killed-cameos/ |archivedate=2017-12-03 |quote="I thought having Evazan and Walrus Man was a little too much," Whitta says. "You have to reign in that instinct to go back and put things in just because you loved them when you were a kid."}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Ponda Baba}}
+*''[[Rogue One: A Star Wars Story]]''
+*[[Rogue One: A Star Wars Story (novelization)|''Rogue One: A Star Wars Story'' novelization]]
+*''[[Star Wars: Rogue One: A Junior Novel]]''
+*''[[Bounty Hunt]]'' {{Po}}
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]''
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*''[[Star Wars: Heroes Path]]''
+*''[[A New Hope (Little Golden Book)|A New Hope]]''
+*''[[The Original Trilogy Stories]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*{{Shortstory|story=The Luckless Rodian|book=From a Certain Point of View}}
+*{{Shortstory|story=Not for Nothing|book=From a Certain Point of View}}
+*{{Shortstory|story=We Don't Serve Their Kind Here|book=From a Certain Point of View}}
+*{{Shortstory|story=The Kloo Horn Cantina Caper|book=From a Certain Point of View}}
+*{{Shortstory|story=The Secrets of Long Snoot|book=From a Certain Point of View}}
+*{{Shortstory|story=Born in the Storm|book=From a Certain Point of View}} {{Imo}}
+*''[[The Weapon of a Jedi: A Luke Skywalker Adventure]]'' {{Imo}}
+*''[[Doctor Aphra 22: The Catastrophe Con, Part III]]'' {{Po}} {{Hologram}}
+*''[[Doctor Aphra 25: The Catastrophe Con, Part VI]]''
+*''[[Doctor Aphra 26: Worst Among Equals, Part I]]''
+
+==Sources==
+*{{SW|url=films/star-wars-episode-4-a-new-hope-story-gallery|text=''Star Wars: A New Hope'' Story Gallery}} {{C|Slide 20}}
+*{{InsiderCite|152|A Trip to the Light Side}} {{Imo}}
+*{{Topps|set=Star Wars: Card Trader|sformat=''Star Wars'': Card Trader|cardname=Ponda Baba - Cantina Patron|link=http://starwarscardtrader.wikia.com/wiki/Ponda_Baba_-_Cantina_Patron}} {{1stID}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Rogue One: The Ultimate Visual Guide]]'' {{1stID|Sawkee}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*{{Databank|chadra-fan|Chadra-Fan|archivedate=20170106021520}}
+*{{Databank|doctor-cornelius-evazan|Doctor Cornelius Evazan|archivedate=20161104154102}}
+*{{Databank|figrin-d-an|Figrin D'an|archivedate=20161229181030}} {{C|Misspelled as "Ponda Boba"}}
+*{{Databank|mos-eisley-cantina|Mos Eisley Cantina}}
+*{{Databank|ponda-baba|Ponda Baba}}
+*{{Databank|tatooine|Tatooine}}
+*{{Databank|wuher|Wuher|archivedate=20150827081234}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWSB|mos_eisley_cantina|Mos Eisley Cantina}}
+*{{SW|url=video/creature-cantina|text=Creature Cantina}}
+*{{SW|url=video/episode-iv-teaser-trailer|text=Episode IV Teaser Trailer}}
+*{{SW|url=character-building-at-star-wars-identities-in-paris|text=Character Building at ''Star Wars'' Identities}}
+*{{SW|url=news/the-big-impact-of-west-end-games-star-wars-miniatures|text=The Big Impact of West End Games' ''Star Wars'' Miniatures}}
+*{{SW|url=news/star-wars-skins-bring-the-force-to-minecraft|text=''Star Wars'' Skins Bring the Force to Minecraft}}
+*{{SW|url=news/7-things-you-might-not-know-about-the-mos-eisley-cantina|text=7 Things You Night Not Know About the Mos Eisley Cantina}}
+*{{SW|url=news/star-wars-blasters-so-uncivilized-but-so-awesome|text=''Star Wars'' Blasters: So Uncivilized, but So Awesome}}
+*{{SW|url=news/every-limb-lost-in-the-star-wars-films|text=Every Limb Lost in the ''Star Wars'' Films}}
+*{{SW|url=news/swca-secrets-of-the-mos-eisley-cantina-panel-liveblog|text=SWCA: Secrets of the Mos Eisley Cantina Panel Liveblog}}
+*{{SW|url=news/meet-the-humans-from-the-mos-eisley-cantina|text=Meet the Humans from the Mos Eisley Cantina}}
+*{{SW|url=news/galaxy-wire-special-edition-star-wars-the-force-awakens-blowout|text=Galaxy Wire Special Edition: ''Star Wars: The Force Awakens'' Blowout!}}
+*{{SW|url=news/star-wars-trailers-part-1-the-original-trilogy|text=''Star Wars'' Trailers Part 1: The Original Trilogy}}
+*{{SW|url=news/west-end-games-expanding-that-galaxy-far-far-away|text=West End Games: Expanding that Galaxy Far, Far Away...}}
+*{{SW|url=video/starwars-com-10-best-duos|text=StarWars.com 10: Best Duos}}
+
+{{Interlang
+|de=Ponda Baba#kanon
+|es=Ponda Baba
+|fr=Ponda Baba
+|ja=ポンダ・バーバ
+|ka=პონდა ბაბა
+|nl=Ponda Baba
+|pl=Ponda Baba
+|pt=Legends:Ponda Baba
+|ru=Понда Баба/Канон
+}}
+
+{{DEFAULTSORT:Baba, Ponda}}
+[[Category:Aqualish]]
+[[Category:Males]]
+[[Category:Pirates]]
+[[Category:Smugglers]]

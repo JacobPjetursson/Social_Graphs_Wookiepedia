@@ -1,0 +1,72 @@
+{{Eras}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Aiolin_Astarte_profile.png]]
+|name=Aiolin Astarte
+|homeworld=[[Celanon]]<ref name="Darth Vader 6">''[[Darth Vader 6: Vader, Part VI]]''</ref>
+|birth=
+|death=[[0 ABY]], [[Shu-Torun]]<ref name="Darth Vader 19">''[[Darth Vader 19: The Shu-Torun War, Part IV]]''</ref>
+|species=[[Human]]<ref name="Darth Vader 5">''[[Darth Vader 5: Vader, Part V]]''</ref>
+|gender=[[Sexes|Female]]<ref name="Darth Vader 5" />
+|height=
+|mass=
+|hair=[[Color|Blonde]]<ref name="Darth Vader 5" />
+|eyes=Blue
+|skin=Light
+|cyber=
+|era=
+|affiliation=*[[Astarte line]]<ref name="Darth Vader 6" />
+*[[Cylo Directive]]<ref name="Darth Vader 5" />
+|masters=[[Cylo]]<ref name="Vader 4">''[[Darth Vader 4: Vader, Part IV]]''</ref>
+|apprentices=}}
+{{Quote|I'm a great admirer of your kind, Lord Vader. In your time, you&mdash;|Aiolin to [[Anakin Skywalker|Darth Vader]]|Darth Vader 5: Vader, Part V}}
+'''Aiolin Astarte''' was a [[Sexes|female]] [[human]] engineered and trained by [[Doctor]] [[Cylo]] to replace Darth Vader as [[Darth Sidious]]' [[Sith apprentice]].
+
+Astarte and her [[twin]] brother [[Morit Astarte]] were born of the [[Astarte line]] of [[Celanon]], who had joined the [[Confederacy of Independent Systems|Separatist]] cause. The Astarte line funded much of Cylo's early work. Cylo thought of them as "generally smart" and "forward facing." Fearing retribution for their allegiance during the [[Clone Wars]], the Astartes passed their children to Cylo for training and experimentation, in the hope of redeeming themselves.
+
+==Biography==
+===Early life===
+{{Quote|The Astarte feared retribution, and passed their children to me to use in a way to redeem the line. They have been in my tender care ever since.|Cylo to Darth Sidious|Darth Vader 6: Vader, Part VI}}
+Aiolin was born, along with her brother, [[Morit Astarte|Morit]], into the Astarte line of [[Celanon]] either before or during the [[Clone Wars]]. His family financially backed the research of Doctor [[Cylo]], a specialist in [[cybernetics]] whose experiments were considered immoral and illegal by the [[Galactic Republic]], during this time. The Astartes sided with the [[Confederacy of Independent Systems|Separatists]] during the war and, fearing the retribution of the new [[Galactic Empire]], gave their two children over to Cylo's care.<ref name="Darth Vader 6" /><ref>[[Darth Vader 20: End of Games, Part I]]</ref>
+
+With backing from the newly self-appointed [[Galactic Emperor]] [[Darth Sidious|Sheev Palpatine]], Cylo continued his research and included Aiolin and Morit into his experiments. He upgraded them with the best genetic enhancements and technolgy that made them stronger and capable of greater feats than common warriors. Such an ability was an ability to slice into technological systems and with little to no ability. Cylo believed that this not only made up for their lack of [[Force-sensitive|Force sensitivity]], but also eliminated any need for [[the Force]]. He also provided the twins with advanced training in lightsaber combat. Coupled with their technological upgrades, including rockets placed in the soles of their feet and missile launchers in their wrists, this turned the Astarte twins into warriors with abilities equaling those of the [[Jedi]] and [[Sith]] of old.<ref name="Darth Vader 6" />
+
+===The Arrival of Vader===
+{{Quote|This isn't a test. That's '''Vader'''.|Aiolin|Darth Vader 5: Vader, Part V}}
+Several [[Standard week|weeks]]<ref name="Vader 7">In ''[[Darth Vader 7: Shadows and Secrets, Part I]]'', [[Chelli Lona Aphra]] says "It's been dead for weeks." As ''Star Wars: Darth Vader 7: Shadows and Secrets, Part I'' takes place just after ''[[Darth Vader 6: Vader, Part VI]]'', we can deduce that the cited events take place several weeks after the [[Battle of Yavin]].</ref> after the [[Battle of Yavin|Battle]] of [[Yavin]], [[Sith]] [[Sith Lord|Lord]] [[Anakin Skywalker|Darth Vader]] learned of her and her brother's existence after he captured and killed [[Cylo]],<ref name="Vader 4" /> after learning of the doctor's existence from the [[Galactic Emperor|Emperor]], [[Darth Sidious]].<ref name="Darth Vader 1">''[[Darth Vader 1: Vader]]''</ref> She was sent along with her brother, Morit, to Sho-Torun to aid Vader in subduing the the Ore-Baron revolt against Queen Trios at Sho-Torun. During the ensuing conflict at Sho-Torun, she gravitated towards Vader as a mentor, wishing he would teach her the ways of the Jedi. She hoped Vader would train her to become better at the lightsaber. Vader was quick to dismiss this, saying nothing he could teach would be useful to her, and telling her that she and her brother had bought a fantasy: Neither of them had any future.
+
+Nearing the end of the revolt at the Sho-Torun war, she and her brother Morit tried to ambush Vader, in order to take out one of their competitors in their scheme for who would be the Emperor's right hand. However, Vader successfully held them off, and Aiolin told her brother that she was no longer certain they could ever defeat Vader. Morit was however still determined to eliminate ''one'' of his competitors on that occasion, and in an act of sudden betrayal, he pushed Aiolin off a cliff, making her fall into a pit of molten lava.
+
+Before she succumbed to her agonizing wounds, Vader used the Force to raise her from the lava. In an uncharacteristic display of seeming compassion, he assured her that the pain would soon pass, but asked her to tell him everything she knew. The horribly burnt woman revealed that Cylo V had collaborated with the Ore-Barons in the rebellion against Queen Trios and was planning to betray the Emperor Palpatine. Aiolin then thanked Vader in advance for ending her pain, apparently understanding what this really entailed: Vader used his lightsaber to [[Death|put her quickly out of her misery]].
+
+Vader's somewhat merciful handling of the situation, even though he was dealing with a person who had just tried to kill him, was probably motivated by his own traumatic memory of being [[Duel on Mustafar|maimed and burnt on Mustafar]].
+
+{{Char-stub}}
+
+==Appearances==
+*''[[Darth Vader 4: Vader, Part IV]]'' {{C|First mentioned; albeit indirectly}}
+*''[[Darth Vader 5: Vader, Part V]]'' {{1st}}
+*''[[Darth Vader 6: Vader, Part VI]]'' {{1stID|Astarte}}
+*''[[Darth Vader 7: Shadows and Secrets, Part I]]'' {{C|Indirectly mentioned only; in the opening crawl}}
+*''[[Darth Vader 8: Shadows and Secrets, Part II]]''
+*''[[Darth Vader 9: Shadows and Secrets, Part III]]''
+*''[[Darth Vader 12: Shadows and Secrets, Part VI]]''
+*''[[Darth Vader 16: The Shu-Torun War, Part I]]''
+*''[[Darth Vader 17: The Shu-Torun War, Part II]]''
+*''[[Darth Vader 18: The Shu-Torun War, Part III]]''
+*''[[Darth Vader 19: The Shu-Torun War, Part IV]]''
+*''[[Darth Vader 20: End of Games, Part I]]'' {{Hologram}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Aiolin Astarte#kanon
+|ru=Айолин Астарти
+|es=Aiolin Astarte}}
+
+{{DEFAULTSORT:Astarte, Aiolin}}
+[[Category:Cyborgs]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Personnel of the Galactic Empire]]

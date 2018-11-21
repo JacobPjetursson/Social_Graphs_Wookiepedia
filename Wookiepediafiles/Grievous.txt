@@ -1,0 +1,410 @@
+{{Eras}}
+{{Update|[[Star Wars Lightsabers: A Guide to Weapons of the Force]]}}
+{{Cleanup}}
+{{Character
+|type=CIS
+|image=[[File:Grievoushead.jpg]]
+|name=Grievous
+|homeworld=[[Kalee]]<ref name="SWJB">''[[Star Wars Journeys: Beginnings]]''</ref>
+|birth=
+|death=[[19 BBY]], [[Utapau]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|species=[[Kaleesh]]<ref name="GrievousSWE">{{SWE|characters|generalgrievous|General Grievous}}</ref>
+|gender=[[Sexes|Male]]<ref name="Episode III" />
+|height=2.16 [[meter]]s<ref name="GrievousSWE" />
+|mass=159 [[kilogram]]s<ref name="SWJB" />
+|hair=
+|eyes=[[Color|Gold]]<ref name="Episode III" />
+|skin=Red<ref name="Episode III" />
+|cyber=Completely cybernetic except for brain, some vital organs, and parts of his head<ref name="GrievousSWE" />
+|era=
+|affiliation=*[[Confederacy of Independent Systems]]<ref name="Episode III" />
+**[[Separatist Droid Army]]<ref name="Episode III" />
+|masters=[[Dooku]] {{C|[[lightsaber combat]]}}<ref name="Episode III" />
+|apprentices=}}
+{{Quote|I hear a lot of talking, General, but in the final accounting, what does all that talk get you? A futile quest for power, a mutilated body? Your place is Dooku's ''errand boy!''"<br />"I'm no errand boy. And I'm not in this war for Dooku's politics. I am the leader of the most powerful droid army the galaxy has ever seen!''"<br />"''An army with no loyalty, no spirit, just ''programming''. What have you to show for all your power? What have you to ''gain?''"<br />"The future. A future where there are ''no Jedi!''|Obi-Wan Kenobi and General Grievous|Grievous Intrigue}}
+'''Grievous''' was a [[Kaleesh]] [[Sexes|male]] [[warlord]] who served as a [[commanding officer]] in the [[Confederacy military|military forces]] of the [[Confederacy of Independent Systems]] during the last [[Standard year|years]] of the [[Galactic Republic]]. Although he was known by his [[Military rank|rank]] as a [[general]], Grievous was the [[Supreme Commander of the Droid Army|Supreme Commander]] of the [[Separatist Droid Army]] that engaged the [[Grand Army of the Republic]] throughout the pan-[[Galaxy|galactic]] conflict of the [[Clone Wars]]. Noted for his ruthlessness and extensive [[Cyborg|cybernetic]] enhancements, Grievous inspired fear as he travelled across [[the galaxy]], invading entire [[Planet|worlds]] and engaging the [[Jedi Knight]]s of the Republic.
+
+A [[homeworld|native]] of the planet [[Kalee]], Grievous sustained severe injuries that required extensive repair by the [[time]] of the [[Cloning|Clone]] Wars. Willingly submitting to a procedure that rendered him more mechanical than organic, he became a living weapon, granting him lightning-quick reflexes and devastating strength. Although he was neither [[Jedi]] or [[Sith]], nor even [[Force-sensitive|sensitive]] to the [[Force power|power]] of [[the Force]], Grievous was a skilled [[lightsaber duel]]ist, having trained in the [[Lightsaber combat|art]] of the [[lightsaber]] under the [[Dark side of the Force|fallen]] [[Jedi Master]]-turned-[[Sith Lord]] [[Count]] [[Dooku]]. Known for his hatred of the [[Jedi Order]], Grievous [[Death|killed]] several Jedi over the course of the war, and would claim their lightsabers both as trophies and weapons to be used against other opponents, be they Jedi or [[clone trooper]]s.
+
+In addition to his combat skills, Grievous was a brilliant military strategist who oversaw multiple campaigns throughout the Clone Wars&mdash;from the [[Battle of Kamino]], where he failed to halt the production line of clone [[trooper]]s; to the [[Battle of Dathomir]], where his [[battle droid]]s massacred the [[Nightsisters]] led by the [[witch]] [[Mother (title)|Mother]] [[Talzin]]. In [[19 BBY]], Grievous launched a daring [[Battle of Coruscant|raid]] on [[Coruscant]], the Republic [[capital]] world, resulting in the [[Prisoner|abduction]] of [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]]. However, the Jedi succeeded in rescuing the Chancellor while driving back the Separatist invaders. Following the loss of Dooku, Grievous and his [[army]] went into hiding in the [[Outer Rim Territories]]. Unknown to Grievous, his master, the Sith [[Lord]] [[Darth]] Sidious, betrayed the general's location to the Jedi Order, allowing them to [[Battle of Utapau|invade]] the planet [[Utapau]] in an effort to bring a swift and decisive conclusion to the war. As a result, Grievous was ultimately slain by his nemesis, [[Jedi General]] [[Obi-Wan Kenobi]], whose [[212th Attack Battalion]] went on to secure Utapau even as [[Order 66]] went into effect, marking the [[fall of the Republic]] and the [[Imperial Era|rise]] of the [[Galactic Empire]].
+
+==Biography==
+===Early Life===
+{{Quote|Sometimes I wonder why you submitted to the changes.''"<br />"''Improvements! I submit to no one! I choose them!|[[EV-A4-D]] and Grievous|audio=ISubmitToNoOne-LoG.ogg|Lair of Grievous}}
+[[File:Pre-robo grievous.png|thumb|left|300px|A statue of Grievous in his original Kaleesh form before he became a cyborg.]]
+A [[Kaleesh]] [[warlord]]<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> from the [[planet]] [[Kalee]],<ref name="SWJB" /> Grievous was allied with [[InterGalactic Banking Clan]] [[Chairman]] [[San Hill]], [[Archduke]] [[Poggle the Lesser]] of [[Geonosis]],{{Fact}} and [[Count]] [[Dooku]] of [[Serenno]]. At some point of his life, Grievous became a [[cyborg]] following an accident,<ref>''[[Star Wars: Alien Archive - Species Guide]]''</ref> and afterwards he chose a new mechanical form to increase his skills in combat.<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref> After the reconstruction, little was left of his original body. What was left of him was his brain, lungs, heart, eyes, and spinal cord.<ref name="Episode III" />
+
+===The Clone Wars===
+{{Quote|The droid general Grievous has our forces spread thin.|Mace Windu|Star Wars: The Clone Wars (film)}}
+After Grievous received his cybernetic enhancements<ref name="Lair of Grievous" /> and trained in [[lightsaber combat]] by Count Dooku, he was given the [[military rank|rank]] of [[general]] in the [[Confederacy military]]. Grievous became the [[Supreme Commander of the Droid Army]],<ref name="Character Encyclopedia" /> and under his command the [[Separatist Droid Army]] quickly moved throughout [[the galaxy]].<ref name="Databank">{{Databank|general-grievous|General Grievous|archivedate=20170704041537}}</ref> Grievous's forces engaged the [[Grand Army of the Republic]] in the [[Clone Wars]] on countless worlds, and early into the war Grievous had already spread the Republic forces thin.<ref name="TCW film">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]</ref> Grievous fought against numerous [[Jedi]] and defeated and killed many of the [[Jedi Order]], which proved him to be a feared [[Jedi hunter]].<ref name="Databank" /> The General collected lightsabers and other trophies from the Jedi he killed in the war and kept them in his growing collection.<ref name="Lair of Grievous">{{TCW|Lair of Grievous}}</ref>
+
+Grievous quickly earned a reputation among the Republic, with Jedi like [[Anakin Skywalker]] considering him a monster that needed to be stopped. Grievous also encountered the [[Jedi Master]] [[Obi-Wan Kenobi]], and the two fought each other numerous times throughout the war.<ref name="Grievous Intrigue">{{TCW|Grievous Intrigue}}</ref>
+
+====Hiring AD-W4====
+{{Quote|There is a planet in the Outer Rim, Hissrich, which is of particular interest to our endeavors. We are sending units there for a "harvesting" mission. We would like you to oversee it.|Grievous, hiring AD-W4|Jedi of the Republic—Mace Windu, Part III}}
+[[File:AD and Grievous.png|thumb|right|233px|Grievous and AD-W4.]]
+In the early days of the Clone Wars Grievous hired the droid [[mercenary]] [[AD-W4]] to oversee the Separatists' operations on the planet [[Hissrich]]. Grievous admitted that he would have liked to do so himself, but could not as he had the entire Separatist Droid Army to command. AD-W4 was skeptical, but after seeing the payment left to fulfill its job. AD-W4 served as [[commander]] of the droid forces on the planet, and [[Mission to Hissrich|battled]] with Jedi Master [[Mace Windu]] and his Jedi [[Mace Windu's squad|squadron]]. Grievous later checked in via [[hologram]] to see the progress of AD-W4, and the droid claimed to have killed Windu, however Grievous demanded the [[Mace Windu's lightsaber|Jedi's lightsaber]] as evidence.<ref name="Mace Windu 3">''[[Jedi of the Republic&mdash;Mace Windu, Part III]]''</ref> Ultimately, the droid was defeated and Hissrich was lost to the Republic.<ref name="Mace Windu 5">''[[Jedi of the Republic&mdash;Mace Windu, Part V]]''</ref>
+
+====The ''Malevolence'' campaign====
+{{Quote|Do not compound your failure this day by allowing our prized warship to fall.''"<br />"''My lord, they will never capture me or this ship.|Count Dooku and Grievous|Destroy Malevolence}}
+[[File:Malevolence firing ion pulse.png|thumb|left|300px|The ''Malevolence'' fires an ion pulse.]]
+As he was leading the Separatist forces in the Clone Wars, Grievous then took the [[Subjugator-class heavy cruiser|''Subjugator''-class heavy cruiser]], ''[[Malevolence]]'', as his [[flagship]].<ref name="Rising Malevolence">{{TCW|Rising Malevolence|Rising ''Malevolence''}}</ref> Under the general's command he began the [[Malevolence campaign|''Malevolence'' campaign]],<ref name="BioGal13">{{SW|url=battle-droid-history-gallery|text=Battle Droid History Gallery}} {{C|Image 13 caption}}</ref> where he executed attacks on Republic fleets that left no survivors. While stationed in the [[Abregado system]] with Count Dooku aboard, a Republic task force led by Jedi Master [[Plo Koon]] and [[Clone Commander]] [[CC-3636|Wolffe]] arrived in the system to [[Battle of Abregado|engage]] the warship. The [[ion cannon]]s of the ''Malevolence'' disabled the Republic fleet's [[deflector shield]]s, and fired on the defenseless ships, leading to the destruction of the entire fleet. A few individuals managed to survive via [[escape pod]]s, but Dooku ordered a [[Droch-class boarding ship|pod hunter]] to be dispatched to destroy the pods. Plo Koon, Commander Wolffe, and the two [[clone trooper]]s, [[Clone Sergeant|sergeant]] [[Sinker]] and [[Boost]], were the only survivors. they destroyed the pod hunter and were finally rescued by Anakin Skywalker and [[Ahsoka Tano]] on the ''[[Twilight]]''. As a result of the escape of some survivors, Dooku's trust in Grievous was shaken, and the [[Sith Lord]] left to discuss plans with his master, [[Darth Sidious]].<ref name="Rising Malevolence" />
+
+[[File:OOM1-Malevolence.png|thumb|right|220px|Grievous giving orders to an [[OOM command battle droid]] during the search for the intruders.]]
+After [[Battle of the Ryndellia system|destroying]] the Republic [[convoy]] in the [[Ryndellia system]], Grievous, as instructed by Count Dooku via hologram, took the ''Malevolence'' to [[Battle of the Kaliida Nebula|destroy]] a Republic medical facility that was treating over 60,000 wounded clones. In order to reach the target, the ''Malevolence'' had to navigate around the [[Kaliida Nebula]]. Anakin Skywalker led a small strike force of fighters which disabled the ion cannons of the ''Malevolence''. After this, a Republic fleet led by Obi-Wan Kenobi arrived and attacked Grievous' crippled ship.<ref name="Shadow of Malevolence">{{TCW|Shadow of Malevolence|Shadow of ''Malevolence''}}</ref> Grievous was forced to retreat, but Dooku came up with a new plan: taking [[Senator]] [[Padmé Amidala]] hostage. After Senator Amidala's ship was captured, the Republic fleet stopped firing, and a team was sent to board the ''Malevolence'' led by Obi-Wan Kenobi and Anakin Skywalker. Grievous fought Obi-Wan Kenobi briefly and overpowered him, but the two Jedi managed to escape with Padmé and [[C-3PO]]. Grievous pursued the ''Twilight'' in his personal starfighter, the ''[[Soulless One]]'' but Anakin had sabotaged the navigation system of the ''Malevolence'' such that when the ship engaged its hyperdrive, it crashed directly into a nearby moon.<ref name="Destroy Malevolence">{{TCW|Destroy Malevolence|Destroy ''Malevolence''}}</ref> After the destruction of the ''Malevolence'', the Republic made efforts to locate him. [[Clone Intelligence]] spotted him in the [[Balmorra system]], but he vanished shortly after.<ref name="Rookies">{{TCW|Rookies}}</ref>
+
+====Attack on Rishi Station====
+{{Quote|All the preparations for your invasion are in order.''"<br />"''Good. Our fleet is approaching the system. We are almost at the rendezvous point.''"<br />"''Very good, my lord. I will await your arrival.''"<br />"''The destruction of Kamino will stop their production of clones for good.|Asajj Ventress informs Grievous that the preparations for his invasion of Kamino are in order|Rookies}}
+[[File:Grievous Rookies.png|thumb|left|300px|Grievous speaks with Ventress via hologram aboard his warship.]]
+Several weeks later, Grievous arranged for an attack on the planet [[Kamino]], determined to stop the clone production at its source. In order to reach the planet undetected, Grievous sent a team of [[BX-series droid commando]]s to [[Battle of the Rishi moon|seize]] [[Rishi]] [[Rishi Station|Station]] from the clone troopers stationed there. After the commando droids had taken control of the station, Grievous was contacted by their captain aboard his [[Munificent-class star frigate|''Munificent''-class star frigate]], who informed him that the outpost was secure, and that they managed to disable the alarm and activate the all-clear signal. Grievous ordered him to keep the signal activated, so as not to draw the Republic's attention and lose the element of surprise. After ending the transmission, a battle droid informed the general that their spy on Kamino, [[Asajj Ventress]], was contacting him. Ventress assured Grievous that everything was ready for their invasion. Pleased, the General informed her that he had almost reached their rendezvous point. However, after losing contact with the commando droids, Grievous sent a battalion to the station to investigate, in order to ensure that the invasion continued as planned. He was then informed that there are still some clones remaining, and ordered them eliminated. Unfortunately for the Separatists, the station was destroyed and the all-clear signal stopped transmitting. Realizing they were under attack, the Republic fleet moved into the [[Rishi system]] and attacked Grievous' fleet, forcing him to retreat and postpone the invasion.<ref name="Rookies" />
+
+====Taking the Outer Rim====
+{{Quote|Our intelligence has confirmed that Grievous's spies have been intercepting our transmissions.''"<br />"''He must have some sort of secret listening post out there somewhere.''"<br />"''That would explain how he's been able to ambush our fleets.|Obi-Wan Kenobi, Ahsoka Tano, and Anakin Skywalker|Downfall of a Droid}}
+[[File:General Grievous duing the Outer Rim Campaign.png|thumb|right|242x242px|
+General Grievous during his Outer Rim campaign, where he destroyed many Republic fleets and put the Republic on the defensive]]
+Grievous launched his [[Conquest of the Outer Rim|next campaign]] in the galaxy's [[Outer Rim Territories]]. As he moved his forces throughout the Outer Rim, Grievous used<ref name="Downfall of a Droid">{{TCW|Downfall of a Droid}}</ref> the newly created [[Skytop Station]], a Separatist [[battlesphere]] that served as a [[listening post]],<ref name="Duel of the Droids">{{TCW|Duel of the Droids}}</ref> to locate and ambush Republic fleets to attack. General Grievous moved his droid forces against Republics forces and fleets in the Outer Rim, and was victorious in the battles engaged. Due to Grievous's victories the Republic's foothold in the Outer Rim quickly began to slip from their losses. Anakin Skywalker and his battle group fought against Grievous's forces in many of these battles, but failed to stop Grievous's advance. After the [[Falleen battle group|Republic battle group]] at [[Falleen]] was [[Battle of Falleen|wiped out]], Grievous turned his attention to the world of [[Bothawui]].<ref name="Downfall of a Droid" />
+
+=====Retreat at Bothawui=====
+{{Quote|Our spies were right, General. The Jedi have positioned a fleet beyond the planetary rings.''"<br />"''Move our ships through the asteroid field to engage them.''"<br />"'''Through' the field, sir?''"<br />"''If we attack from above, they will have the advantage. So we will go through the rocks.|A battle droid and Grievous|Downfall of a Droid}}
+[[File:Grievous Battle of Bothawui.png|thumb|300px|Grievous at the Battle of Bothawui|left]]
+Following the victory at Falleen, Grievous moved his fleet to Bothawui to [[Battle of Bothawui|attack]] Jedi General Anakin Skywalker's fleet with information from his spies. Realizing that attacking from above would've left them at a disadvantage, Grievous moved the fleet through the asteroid field to engage Skywalker's fleet, with the asteroids protecting their rear. Skywalker then deployed into the [[Gold Squadron (Rebel Alliance)|Gold Squadron]] from his flagship, the ''[[Resolute]]'', to try and draw out the general. As Grievous' fleet exited the asteroid field, it was able to severely damage one the Republic cruisers, but was quickly outflanked by [[All Terrain Tactical Enforcer|AT-TEs]] hidden on the asteroids. As a result, the General issued a retreat, with one of the battle droid commanders pointing out that they had nowhere to run. Grievous then fled from his burning flagship in his starfighter, moments before it exploded. Skywalker attempted to pursue him in his [[Delta-7B Aethersprite-class light interceptor|Delta-7B ''Aethersprite''-class interceptor]] but was soon sent spinning out of control as a result of the damage his fighter had sustained earlier in the fight. Meanwhile, Grievous had managed to power up the ''Soulless One''{{'s}} hyperdrive, allowing him to jump into hyperspace. The rest of Grievous' fleet however, was destroyed.<ref name="Downfall of a Droid" />
+
+Following his loss at Bothawui, Grievous contacted the [[Trandoshan]] salvager [[Gha Nachkt]], and requested that he search the debris field for an [[R2-D2|astromech droid]],<ref name="Downfall of a Droid" /> telling him to rendezvous at Skytop Station on [[Ruusan]]'s [[moon]] once the droid was located. The droid in question was R2-D2, the astromech droid of General Skywalker, with Grievous suspecting that he held vital military secrets within his memory banks that could aid the Separatists.<ref name="Duel of the Droids" />
+
+====Trapping Skywalker====
+{{Quote|Ah! There's our Jedi tracking beacon. Skywalker, now you have fallen into ''my'' trap.|Grievous, after R3-S6 activated the tracking beacon on Skywalker's Jedi Starfighter|audio=JediTrackingBeacon-DoaD.ogg|Downfall of a Droid}}
+[[File:Between those tin cans.jpg|thumb|right|300px|Grievous' ''Munificent''-class star frigates attempt to block the ''Twilight''{{'s}} escape]]
+Later, Grievous was contacted by the Nachkt, who informed him that he had the droid in his possession and was en route to their rendezvous point. He also revealed that Skywalker had boarded his [[Vulture's Claw|ship]] looking for it, and believing it to be valuable, requested more money than they had previously agreed upon. However, Grievous threatened him, telling Nachkt to arrive as fast as he could, or else there would be consequences.
+
+Not soon after, Grievous detected Skywalker's fighter's beacon, which had been activated by [[R3-S6]], Skywalker's replacement astromech droid, in reality a Separatist spy. Having fallen into his trap, Grievous [[Mission to sweep outer corridor of space|attacked]], destroying his [[Hyperspace transport ring]] and preventing his escape. Grievous then launched a squadron of [[Variable Geometry Self-Propelled Battle Droid, Mark I|vulture droids]] to kill the Jedi, and ordered his cruisers to move in. However, Skywalker was rescued by the timely arrival of his apprentice Ahsoka Tano and the ''Twilight'', Skywalker's freighter. The General then ordered his ships to prevent their escape, but the ''Twilight'' was able to navigate between the two battleships, causing them to collide with each other, destroying the vulture droids. The Jedi's ship then jumped to hyperspace. In his anger, Grievous decapitated an unfortunate battle droid who had pointed out to him that the Jedi had escaped.<ref name="Downfall of a Droid" />
+
+====Encounter on Skytop Station====
+{{Quote|Sorry to interrupt your playtime, ''grumpy'', but wouldn't you prefer a ''challenge?<br />"''That wouldn't be you!|Ahsoka Tano and Grievous, after the latter attempts to kill the unconscious Captain Rex|audio=InteruptPlaytime-DotD.ogg|Duel of the Droids}}
+[[File:Ahsoka vs Grievous.jpg|220px|thumb|Grievous duels Ahsoka Tano aboard Skytop Station.|left]]
+Nachkt soon arrived at Skytop Station with R2-D2, and proceeded to disassemble the astromech droid and sift through his memory banks for any vital information. Grievous listened as Nachkt revealed that the data within the astromech had never been erased and contained a wealth of information that they could exploit. Trying to use this to his advantage, Nachkt demanded double the agreed price, but Grievous having grown tired of his insubordination, killed him. He was then informed by R3-S6 that the Jedi had infiltrated the station in order to rescue the droid. Grievous ordered R3 to distract them until he arrived, and tasked his [[IG-100 MagnaGuard]]s with taking care of the astromech while he confronted the Jedi. Grievous then found Skywalker's apprentice, Ahsoka Tano, along with Captain Rex and a squad of clone troopers. He engaged them in combat and managed to kill all of the clones except Rex and [[Denal]], who were saved by the timely intervention of Ahsoka. As she confronted the general, she was quickly overpowered and forced to retreat further into the station, with Grievous and R3 giving chase after her. While searching one of abandoned spare parts rooms for her, Grievous was informed that Skywalker had gone to rescue his astromech. He then had R3 go to the hangar and ensure that Skywalker would not escape. Meanwhile, Grievous having finally cornered Ahsoka, prepared to kill her, when the bombs that Rex had planted earlier, went off. In his momentary distraction, Ahsoka was able to sever Grievous's hand with her lightsaber and escape through the ventilation system. Their objective complete and R2-D2 safely back with Skywalker, the Jedi made their escape. Grievous then retreated aboard the ''Souless One'' as the station collapsed around him.<ref name="Duel of the Droids" />
+
+====Encounter with Master Neebo====
+At some point prior to the discovery of his lair by the Jedi, Grievous had an [[Mission to the moons of Sanjin|encounter]] with Jedi Master [[Neebo]], on the moons of [[Sanjin]]. Neebo was attempting to protect [[refugee]]s on the moons, and she was presumed missing. However, Jedi Master [[Kit Fisto]] and his former apprentice [[Nahdar Vebb]] later found her lightsaber among the trophies of the Jedi Grievous had murdered, with Vebb deducing that everything in the room was a trophy from the Jedi Grievous had killed.<ref name="Lair of Grievous" />
+
+====Proving his competence====
+{{Quote|You might have been a proud warrior once, but now you are just a pawn in Dooku's game!''"<br />"''I wield ''great'' power, Jedi ''fool!''<nowiki />''"<br />"''That power will only consume you.|Kit Fisto and Grievous during their duel|audio=ProudWarrior-LoG.ogg|Lair of Grievous}}
+[[File:Vebb Grievous Fisto.jpg|thumb|250x250px|Grievous activates two more of his lightsabers during combat with the Jedi.|right]]
+Later in the war, Grievous was instructed by his master to return to his fortress on the third moon of [[Vassek]]. When he arrived, he found that his MagnaGuards had been deactivated. Count Dooku, having laid a trap for the general in order to test his abilities, lured the Jedi and clones to Grievous's fortress. With the Jedi having infiltrated the base and with his bodyguards deactivated, the Count had hoped to punish Grievous for his recent failures. In the fight that ensued, Grievous was damaged and his pet [[roggwart]] [[Gor]], was killed. However, he was soon repaired by his droid A-4D and continued on his hunt for the Jedi. Grievous eventually caught up with them and dispatched the remaining clone forces. Grievous then engaged Padawan Nahdar Vebb in a fierce duel, easily killing him with a blaster.<ref name="Lair of Grievous" />
+
+[[File:FistovsGrievous.png|thumb|left|220x220px|Grievous and Fisto engage in battle.]]
+The cyborg General then went on to fight against Jedi Master Kit Fisto. After a lengthy duel in which Grievous's MagnaGuards arrived to assist him, Fisto fled aboard his ship and escaped the planet. Shortly thereafter, Grievous contacted Dooku and told him that he had defeated the Jedi, but that Fisto had escaped. Dooku congratulated Grievous on his victory but stated that he could have done better and that there was still room for improvement.<ref name="Lair of Grievous" />
+
+====Capture of Eeth Koth====
+{{Quote|Listen to me, Jedi. I do not care about your politics. I do not care about your Republic. I only live to see you die!|General Grievous's message to the Jedi Order|Grievous Intrigue}}
+[[File:The good general.png|thumb|228x228px|Grievous tortures Eeth Koth in a transmission to the Jedi Council.|right]]
+At some point during the war, General Grievous managed to [[Capture of Eeth Koth|ambush]] Jedi Master [[Eeth Koth]]'s [[Steadfast|flagship]]. Grievous boarded the vessel and captured Koth after a brief, but intense duel. He then sent a message to the [[Jedi High Council|Jedi Council]], promising to kill Koth, however revealed that he would torture the Jedi Master, as he knew that would be felt by the other members of the Order through the Force. He promised he would hunt down and eliminate the remaining Jedi.<ref name="Grievous Intrigue" />
+
+====Saleucami conflict====
+[[File:Epguide209.jpg|thumb|left|289x289px|Grievous engaging Kenobi in combat.]]
+Unbeknownst to Grievous however, Eeth Koth had managed to communicate a secret message to the Council through the use of hand signals, telling them that he and Grievous were stationed in the [[Saleucami system]]. In response, the Council sent Obi-Wan Kenobi, Anakin Skywalker, and [[Adi Gallia]] to rescue the Jedi Master. Once they arrived, Kenobi sought out and engaged Grievous in an effort to distract him, while Skywalker and Gallia snuck aboard Grievous' ship to rescue Koth. However Grievous, having earlier deduced that he was being tricked, had laid a trap for the Jedi. Nonetheless, his attempts to stop them were futile and Skywalker and Gallia were able to successfully rescue Koth. Meanwhile, Grievous had managed to gain the upper hand in his duel with Kenobi, but his Commando Droids on his ship had been overwhelmed by Skywalker and Gallia. Unfortunately, his Recusant-Class Destroyer, which had served as his flagship in the battle that had broken out, was taking heavy fire from Skywalker's trio of Star Destroyers, and was nearly destroyed. Forced to withdraw from his duel and flee, the general attempted to land on the planet of [[Saleucami]] in a [[C-9979 landing craft|Trade Federation landing ship]]. However, the craft malfunctioned, and Grievous and the droids were forced to evacuate into escape pods. After landing, Grievous and his forces searched the wreckage for any undamaged escape pods they could use to contact their forces, before republic reinforcements arrived.<ref name="Grievous Intrigue" />
+
+[[File:Saleucami final duel.jpg|thumb|239x239px|Grievous and Kenobi duel on Saleucami|right]]
+However, Obi-Wan Kenobi had followed Grievous to Saleucami in an attempt to capture the cyborg general. Unfortunately, Grievous had managed to find a working communications system in one of the escape pods and get contact with Separatist forces. When Kenobi and the clones finally caught up with Grievous, they were only able to fight a short time before reinforcements arrived, allowing Grievous to escape.<ref name="The Deserter">{{TCW|The Deserter}}</ref>
+
+====Battle of Kamino====
+{{Quote|All is ready, General''"<br />"''Good. We will attack Tipoca City first.''"<br />"''I have the exact locations of both the clone DNA room and the clone trooper barracks.''"<br />"''Both shall be annihilated under my hand.''"<br />"''Our hands, General. Count Dooku assigned us both this task.''"<br />"''But of course, assassin. I look forward to meeting you.|Asajj Ventress reports to Grievous that they are ready to attack Kamino|ARC Troopers}}
+[[File:GrievousVentress-KaminoARC.png|thumb|left|320x320px|Grievous and Ventress meet in person for the first time]]
+Despite the failure of their first attempt,<ref name="Rookies" /> Grievous and Ventress planned to launch another [[Battle of Kamino|invasion of]] Kamino. However, a transmission between the two was intercepted by the Galactic Republic, and as a result the [[501st Legion]] was deployed to Kamino in preparation for the impending attack. As the two conferred before the battle, Grievous decided to start their initial assault on [[Tipoca City]], home of the Republic's cloning facilities. As Grievous engaged the Republic blockade, Ventress, with her [[Trident-class assault ship|''Trident''-class assault ships]] and [[aqua droid]]s, attacked the city. After the initial struggle, Grievous managed to break through the blockade and land on the planet with the remainder of his forces. Once there, he proceeded to speak with Ventress about their objectives; Grievous would assault the clone trooper barracks while Ventress would get a sample of Jango Fett's DNA. During the assault, Ventress managed to acquire the DNA sample but her escape was prevented by Skywalker, and in the ensuing fight the sample was lost. Elsewhere, Grievous was confronted by Kenobi and the two engaged in a heated battle until a ''Trident'' ship destroyed the pier they were fighting on. Grievous, thinking Kenobi had been killed in the explosion, made his escape aboard a flight pod. He then rescued Ventress from Skywalker and the clones.<ref name="ARC Troopers">{{TCW|ARC Troopers}}</ref>
+
+====Obstructing peace====
+{{Quote|There is a problematic situation brewing in the Senate. We must insure that everything my master has set in motion does not unhinge. My representatives in the Republic are relying on you, General. See that your droids complete their mission.''"<br />"''But of course, Count. They will not fail.|Count Dooku orders Grievous to bomb the power generator on Coruscant|Heroes on Both Sides}}
+Dooku, at the behest of his master, ordered Grievous to arrange an [[Bombing of Coruscant's central power distribution grid|attack]] on Coruscant. Grievous thus sent in a team of [[Demolition droid]]s to blow up the power generators on Coruscant. The droids succeeded in their mission and Coruscant fell without power.<ref name="Heroes on Both Sides">{{TCW|Heroes on Both Sides}}</ref>
+
+====Skirmish on Naboo====
+{{Quote|This turn of events is unfortunate. General Grievous is a critical part of my plan for the Clone Wars. He must not remain captive.|Darth Sidious, to Count Dooku|Shadow Warrior}}
+[[File:GrievousonNaboo.png|thumb|270x270px|Grievous on Naboo|right]]
+Later during the Clone Wars, Grievous suffered a defeat when he attempted to invade [[Naboo]]. [[Jar Jar Binks]] (posing as [[Gungan]] Boss [[Lyonie]]) distracted Grievous in a series of negotiations long enough for the Gungan Army to shut down Grievous's invasion force. As Grievous pursued Jar Jar, he slaughtered many [[Gungan Grand Army]] soldiers. At that moment, General [[Tarpals]] intervened and engaged Grievous in a duel. Although he was mortally wounded by the cyborg, Tarpals impaled Grievous through his chest which allowed the Gungan Army to bombard the injured general with energized projectiles and capture him. However, Grievous was freed in a prisoner exchange with Skywalker between Dooku and Padmé Amidala.<ref name="Shadow Warrior">{{TCW|Shadow Warrior}}</ref>
+
+====Capturing Adi Gallia====
+{{Quote|General, we've come across what appears to be a pirate ship.''"<br />"''Use that ship for target practice. Open fire!''"<br />"''All forward cannons, open fire!|General Grievous orders the destruction of the ''Marauder''|Nomad Droids}}
+[[File:GalliaVsGrievous-ND.jpg|thumb|left|263x263px|Grievous dueled and defeated Gallia]]
+Following his release, Grievous and his fleet attacked the flagship of Jedi Council member Adi Gallia. Grievous and his forces quickly boarded the ship and engaged the [[91st Mobile Reconnaissance Corps|91st Recon Corps]]. Grievous captured Gallia after a brief, but intense duel with the Council member. Sometime later, the General attacked and destroyed a pirate ship for target practice. However, Grievous's ship was then boarded by Jedi master Plo Koon and his forces, who rescued Gallia and forced Grievous to flee.<ref name="Nomad Droids">{{TCW|Nomad Droids}}</ref>
+
+====Massacre on Dathomir====
+{{Quote|Wipe the witches out. All of them.|Count Dooku ordering Grievous to attack the Nightsisters|Massacre}}
+After the failed assassination attempt on his life by his former apprentice Asajj Ventress, who had been aided by [[Talzin|Mother Talzin]] and the [[Nightsisters]] from [[Dathomir]], Dooku summoned Grievous and ordered him to attack Dathomir and wipe them out.
+
+[[File:DookuThroneRoom-Massacre.png|thumb|287x287px|Dooku orders Grievous to attack Dathomir.|right]]
+Grievous then took a Separatist Fleet to Dathomir and landed his forces on the planet. He had his [[Hyena-class bomber]]s launch an airstrike on their village, before sending in his ground troops to attack them. Despite being severely outnumbered and outgunned, the Nightsisters were initially able to hold their ground. This prompted Grievous to send in several [[Defoliator Deployment Tank|Defoliator Tanks]] in order to burn the forest, which successfully managed to drive the Nightsisters back. Unfortunately, Talzin had sought the assistance of [[Daka|Old Daka]], the eldest of the Nightsisters, who used her magic to raise the [[Army of the Dead]] as reinforcements. With Ventress leading the charge, the Nightsisters pushed forward, destroying the Defoliator Tanks and fighting their way to the open field from where Grievous was commanding his troops. Both armies halted their positions opposite one another.
+
+[[File:GrievousVsVentress-Massacre.jpg|thumb|left|291x291px|Grievous fights Asajj Ventress on Dathomir.]]
+Ventress then challenged Grievous to a duel, proposing that if he won then Nightsisters would surrender to him, but if she won then Grievous and his army would leave Dathomir. The two then engaged in a fierce [[lightsaber]] [[Lightsaber combat|duel]] and initially seemed equally matched, until Ventress severed one of Grievous' four mechanical arms and knocked him to the ground. Holding all the cards militarily, with no intention of honoring the result of the duel, and no longer entertained by the sport of it, Grievous ordered his battle droids to kill her. Ventress tried to fight them off, but was shot in her shoulder. As Grievous attempted to finish her off, a large wave of Nightsister zombies attacked him, with both armies once again engaging each other in combat. With the assistance of her [[Luce|fellow Nightsister]], Ventress was able to escape in the ensuing chaos.
+
+[[File:DeathOldDaka.jpg|right|thumb|265x265px|Grievous slays Old Daka.]]
+Whilst cutting down the attacking zombies, Grievous was contacted by Dooku, who was being magically attacked by Mother Talzin. Dooku ordered Grievous to follow the Nightsister magic to its source and kill Talzin before she could torture him to death. Grievous followed the green magic trail to the Nightsister village and a secret cave where both Talzin and Daka where performing their magic rituals, killing several Nightsisters on the way. Grievous then ordered one of his Commando Droids to blow up the wall of the cave. Upon entering the cave, Grievous quickly disposed of Daka by impaling her with one of his lightsabers. However, before he could get the chance to attack Talzin, she was able to teleport herself to safety, disappearing in a green mist. Grievous then toppled over Daka's cauldron, freeing Dooku from her spell. With Daka's death, all the undead Nightsisters returned to the grave, leaving the rest outnumbered, and eventually massacred by Grievous' army. Unbeknown to Dooku and Grievous however, Ventress had managed to survive the battle.<ref name="Massacre">{{TCW|Massacre}}</ref>
+
+Sometime after the battle, Dooku told Grievous that with the Nightsisters dead, there was no one to control the rogue [[Savage Opress]], whose powers he felt growing, to which Grievous simply mocked Dooku's notion that Opress could pose a threat to them.<ref name="Brothers">{{TCW|Brothers}}</ref>
+
+====Battle with Kenobi and Invasion of Florrum====
+{{Quote|Hondo.''"<br />"''General Grievous, I presume? What a surprise. Have a seat. What, may I ask, is the honor?''"<br />"''You can dispense with the pleasantries, pirate. This planet is now under Separatist control!''"<br />"''Ah ha... and, what do you suppose that means?''"<br />"''It means you have a new master, pirate scum.|General Grievous and Hondo Ohnaka|A Necessary Bond}}
+[[File:GrievousOnFlorrum.png|thumb|left|255x255px|Grievous and two IG-100 MagnaGuards on Florrum]]
+Grievous later attacked and boarded Obi-Wan Kenobi's command ship. He tore through the clone trooper ranks until he made his way to Kenobi, whom he proceeded to duel and overpower. However, Kenobi managed to escape and abandon his ship, but not before rigging it to self-destruct, forcing Grievous to retreat and abandon all the useful information in the ship's memory banks.<ref name="Bound for Rescue">{{TCW|Bound for Rescue}}</ref> Sometime later, Grievous [[Battle on Florrum|landed]] on the planet Florrum and took over pirate Captain [[Hondo Ohnaka]]'s base in retaliation for Ohnaka's previous capture of Dooku. Grievous was soon informed that Ahsoka Tano, her fellow Jedi younglings, and a group of pirates had freed Ohnaka. He then ordered his tanks to level the prison section. As they were escaping, Grievous and [[Single Trooper Aerial Platform|STAPs]] pursued them and boarded their tank. Grievous then fought Tano and though she proved to be a much more formidable opponent than in their previous encounter, Grievous was still more than a match for her. Ohnaka then arrived in ''[[Slave I]]'', rescued Tano and opened fire on Grievous, but was forced to retreat when [[Armored Assault Tank|AATs]] arrived, leaving Grievous to laugh in victory.<ref name="Necessary Bond">{{TCW|A Necessary Bond}}</ref> At some point afterwards, Grievous and his droids demolished the remains of Ohnaka's base and left Florrum.
+
+====Secret transmission====
+[[File:JediClonesMeeting-SW.png|right|thumb|254x254px|Grievous's transmission to other Separatist forces was located by the Republic, however they were unable to decode the transmission]]
+Sometime later, Grievous sent an encoded transmission to other members of the Confederacy, but the transmission was also intercepted by the Jedi Council. Republic Intelligence however was unable to break the new encryption technology used in Grievous' transmission, and the Republic feared this was leading to an upcoming major attack. In order to understand the transmission the Republic sent [[D-Squad]], a group of Republic droids, to a [[Aut-O's flagship|Separatist dreadnought]] to retrieve an [[encryption module]].<ref name="Secret Weapons">{{TCW|Secret Weapons}}</ref>
+
+====Crystal conspiracy====
+Near the end of the war, Dooku and Grievous arranged a weapons deal to acquire a massive [[kyber crystal]] from [[Sugi]] arms dealers. The deal was to take place on the outer-rim world of Utapau, with [[Amani tribe (Clone Wars)|local]] [[Amani]] being used as bodyguards. Despite this at least two Magnaguards were present in the early days of the event, with more of them and other droids arriving later with Grievous. The Jedi Anakin Skywalker and Obi-Wan Kenobi learned of the arms deal when they [[Mission to Utapau|came to the planet]] to investigate the mysterious death of Jedi Master [[Tu-Anh|Tu-Anh.]] They tracked down the crystal and stole it from those were trafficking in it, only for Grievous to then claim it. They, however, continued their mission, following the crystal to the space above Utapau.<ref name="death">{{TCW|A Death on Utapau}}</ref><ref name="bang">{{TCW|The Big Bang}}</ref>
+
+====Battle above Utapau====
+{{Quote|There appears to be an entire Separatist Fleet orbiting the planet.|Obi-Wan Kenobi|A Death on Utapau}}
+[[File:Grievous defeats Kenobi.png|thumb|left|288x288px|Obi-Wan Kenobi is defeated by General Grievous]]
+The pair of Jedi chased the ship carrying the crystal, but the pair themselves were being chased by Grievous in his fighter and several droid fighter. The crystal was brought to a [[DH-Omni Support Vessel|Separatist supply ship]], which the pair crashed their ship into the [[hyperdrive]] of. They abandoned their craft in escape pods, but boarded the supply ship in different [[hangar]]s. While Skywalker did not encounter resistance, only seeing one unarmed [[OOM pilot battle droid]] which he scared off, Kenobi was forced to deal with the crystal's droid escort. After cutting down several battle droids, Grievous and two vulture droids entered the hangar. Kenobi demanded that his nemesis surrender, and the two engaged in a brief duel, with Grievous quickly overpowering Kenobi, resulting in Obi-wan's capture. While Grievous prepared an execution camber for Kenobi, battle droids secured the crystal, with it eventually being taken to the ship's vault. Skywalker was able to eventually free Kenobi and the pair eventually reclaimed the crystal. The pair learned that the crystal could fire back energy, such as [[laser]] fire, which they used to fight their way to the hangar. When they had secured a ship, Obi-wan made several AATs fire at the crystal, causing it to over load. While the crystal's explosion destroyed the ship, Grievous chased after the Jedi in his fighter. The pair ultimately escaped into hyperspace while the explosion grew, destroying the Separatist Fleet above the planet, and Grievous was flung into space in his starfighter.<ref name="death" /><ref name="bang" />
+
+====Protecting Dooku====
+Grievous was later seen with Dooku on the Separatist capital planet of [[Raxus]] where Dooku was receiving the [[Raxian Humanitarian Award]]. Grievous was in charge of security, and he briefly [[Mission to Raxus|fought]] [[Quinlan Vos]], who was there on orders of the [[Jedi Council]] to kill Dooku. In the end, Vos' partner in the assassination, Ventress, escaped but Vos was captured.<ref name="Dark Disciple">''[[Dark Disciple]]''</ref>
+
+====Destroying Maul's forces====
+{{Quote|We are not fighting clones this time. These are Mandalorian warriors...The odds are stacked against us!|Grievous estimating their chances of winning the battle|Darth Maul—Son of Dathomir, Part One}}
+Sometime after the Battle of Dathomir, Grievous was ordered by his master Count Dooku to hunt down Darth Sidious' former apprentice&mdash;the [[Zabrak]] [[Nightbrothers|Nightbrother]] [[Maul|Darth Maul]]. Sidious had tracked Maul to the [[Death Watch]] controlled moon of [[Zanbar]] after he had [[Escape from the Spire|escaped]] from Sidious&mdash; although that was ultimately the Sith Lord's plan. Dooku then ordered him to direct his entire droid fleet at Maul's recently formed crime syndicate&mdash;the [[Shadow Collective]] and ordered him to destroy his army and wound his pride, but not to kill him. This was in order for him to draw out Mother Talzin, Maul's mother and one of the most powerful beings in the galaxy. Grievous thought it foolish to keep Maul alive, but Dooku reminded Grievous that it was not wise to question the plans of Darth Sidious, and that he as Dooku's apprentice would carry out his orders to the fullest degree. Grievous then moved his fleet to Zanbar and launched several landing craft to destroy the Mandalorian warriors, starting off the [[Battle of Zanbar]]. Grievous knew from personal experience that the chances of his droid army gaining a victory in this battle were unlikely, as the Mandalorians were no mere clones. During the battle, Grievous spotted Maul on the battlefield and sent out four of his IG-100 MagnaGuards to "soften him up".<ref name="SonOfDathomir1">''[[Darth Maul—Son of Dathomir, Part One]]''</ref>
+
+[[File:DarthMaulGrievousDuel.png|thumb|right|231x231px|Maul and Grievous engage in battle.]]
+Grievous emerged from his ship and engaged at least one [[Mandalorian super commando]] in battle, easily killing him with his lightsabers. Maul disposed of the Magnaguards and turned his attention to the cyborg general and engaged Grievous in single combat. Neither Maul nor Grievous was able to gain the upper hand in the duel but Grievous, per his orders, taunted Maul, telling him that the battle was lost. However, Maul had held several [[Kom'rk-class fighter|Gauntlet fighters]] in reserve and ordered them to drop firebombs onto the battlefield. This left both factions' resources almost depleted. Maul, realizing Zanbar was lost, fled into a Gauntlet fighter and retreated from Grievous. Grievous then contacted Count Dooku via hologram and informed him he had fulfilled his master's wishes; Maul was on the run. Dooku congratulated Grievous. Maul now believed the Sith were out to destroy him and his Syndicate but would not learn of their true intentions until it was too late. Grievous knew their goal was the [[Dathomirian|witch]] Talzin, but did not understand what value Maul held for the Witch. Dooku told him all would be revealed as their plans unfolded.<ref name="SonOfDathomir1" />
+
+====Captured by Darth Maul====
+{{Quote|Once our droids take control of the city, Maul's forces will be insects under our heels!|Grievous during the battle|Darth Maul—Son of Dathomir, Part Two}}
+[[File:CIS Orbital Bombardment SoD.png|thumb|left|239x239px]]
+After leaving Zanbar, Dooku rendezvoused with Grievous, gathering another fleet after Separatist spies reported that Mandalorian [[warship]]s were amassing on the planet of [[Ord Mantell]], confirming Maul was in league with the [[Black Sun]] who controlled the planet. Grievous once again questioned the Dark Lord's obsession with destroying Mother Talzin; Dooku explained to Grievous that Talzin was an older and fouler creature than Grievous understood, and that she would have to be destroyed before she disrupted Darth Sidious' plans. Grievous' [[super tactical droid]] [[Tey-Zuka]] reported to the cyborg general that a lone transport shuttle had left Dathomir moments ago, with Ord Mantell being a possible destination. Dooku believed Talzin was aboard and ordered the fleet to move to Ord Mantell. Soon they arrived and Grievous ordered the fleet to begin bombarding the [[Ord Mantell City|city]] from orbit. With the city now in ruins, the landing crafts began their assault. Grievous believed Maul's forces would soon be on the run but became suspicious when he realized he had not seen any Mandalorian warships. Tey-Zuka calculated that they had been destroyed before they could lift off but Grievous knew better&mdash;they were planning a sneak attack. The Gauntlet fighters appeared from behind Ord Mantell's moon, [[Battle on Ord Mantell|attacking]] the Separatist fleet. Grievous had been lured into a trap. Tey-Zuka reported a fighter had attached itself to the hull of Grievous' [[Providence-class dreadnought]]&mdash;but before the droid could finish, Maul interrupted. He gave Grievous an ultimatum; either he shut down the battle droids that were killing his troops&mdash;or he would die. With the General dismissing his threats, Maul then charged Grievous, tackling him into a [[transparisteel]] [[viewport]]. Dooku had also been captured as well and brought aboard the ship, where Maul contacted Sidious via hologram and threatened to kill them both unless he met Mother Talzin's demands. Sidious refused, instead stating he had no further use for them. Maul decided not kill them, but ordered Grievous to the brig. Grievous told Dooku that it would be unfortunate if the next time they met he would have to add [[Dooku's lightsaber]] to his collection.<ref name="Son of Dathomir 2">''[[Darth Maul—Son of Dathomir, Part Two]]''</ref>
+
+Dooku, who was still on the bridge of the ship, later used the Force to unlock Grievous' cell. Grievous escaped, killing the Mandalorians that were guarding him and several more while searching for a way off the ship. He soon found an escape pod, ejecting from the carrier and escaping from Maul.<ref name="Son of Dathomir 3">''[[Darth Maul—Son of Dathomir, Part Three]]''</ref>
+
+====Confronting Talzin====
+[[File:Grievous_Owns_Talzin.png|thumb|right|225px|Grievous slays Talzin.]]
+{{Quote|It is just as you predicted my Lord...we've traced Count Dooku's signals to Dathomir's surface. What is your command?|Grievous to Darth Sidious, just before the battle|Darth Maul—Son of Dathomir, Part Four}}
+Shortly afterward, Grievous regrouped with Darth Sidious aboard the ''[[Scimitar]]''; which was originally Maul's personal starship; and they made their way to Dathomir where Dooku's signals were emanating from; just as Sidious predicted. Sidious ordered Grievous to [[cloaking device|cloak]] the ship from view and make their way to Dathomir's surface. They landed and the pair approached a chamber said to hold a stone column that was the heart of Mother Talzin's power. The chamber was located very near the [[Nightbrother village]] where Maul was born.<ref name="Son of Dathomir 4">''[[Darth Maul—Son of Dathomir, Part Four]]''</ref>
+
+Grievous blew an opening in the wall of the chamber, entered and stated he was about to kill Maul. Sidious followed, stating only the Dark Lord's plan shall rule the galaxy. Dooku appeared, though he was now possessed by Talzin, who was at the time was still unable to take physical form. The four [[Second battle of Dathomir|engaged]]­­­ in lightsaber combat; Grievous attacked Maul while Sidious freed his apprentice from Talzin with the use of [[Force lightning]]. Talzin returned in the flesh while Sidious told her she was going to die here. Maul took advantage of this distraction and used the Force to shove Grievous through the opening the explosion had created. Sidious attacked Talzin with a Force lightning barrage while Talzin defended Maul and herself with [[magick]]. Grievous reentered the chamber calmly striding towards the now beaten Talzin; Grievous then ignited his lightsabers and plunged them through the witch's chest. The retreating Maul looked on in horror as Talzin's body turned to stone. Darth Sidious took a moment to congratulate Dooku and Grievous; Maul's future had been erased while theirs was more certain than it had ever been.<ref name="Son of Dathomir 4" />
+
+====Fighting Billaba====
+[[File:Grievious in Kanan- First Blood -9.png|thumb|left|190px]]
+Grievous [[Battle of Haruun Kal|fought]] Jedi General [[Depa Billaba]] on [[Haruun Kal]]. There his troops decimated her [[Depa Billaba's battalion|clone troops]], while he personally engaged the Jedi Master in a duel and almost ended her life.<ref name="Kanan 9">''[[Kanan 9: First Blood, Part III: The Canyons of Kardoa]]''</ref> Six months after his victory over Billaba, he and General [[Kleeve]] then sent in their top explosives expert, Captain [[Rackham Sear]] to carry out a [[Bombing at the Jedi Temple|bombing]] on the [[Imperial Palace|Jedi Temple]].<ref name="Kanan 8">''[[Kanan 8: First Blood, Part II: The Towers of the Temple]]''</ref> After Captain Sear's mission failure, Grievous then went to [[Kardoa]] with Kleeve and Sear's brother, Colonel [[Coburn Sear]]. There, Grievous saw Billaba [[Skirmish on Kardoa|leading]] the [[Depa Billaba's new battalion|Republic forces]]. Grievous then demanded that she must die. However, Kleeve saw his obsession with killing Jedi as distraction and warned against attacking before he left for [[Kaller]]. Grievous left as well for [[Mygeeto]]. However, he left Colonel Sear to deal with Billaba and her forces.<ref name="Kanan 9" />
+
+Grievous then waited for Billaba and her forces to come to Mygeeto. There, he and Colonel Sear [[Third Battle of Mygeeto|confronted]] Billaba and her apprentice, [[Kanan Jarrus|Caleb Dume]]. The General was able to duel her again during the Third Battle of Mygeeto and was able to get the upper hand in the fight. However, he was forced to flee when Billaba's clone troopers surrounded him and Billaba fully fought back against him.<ref name="Kanan 10">''[[Kanan 10: First Blood, Part IV: The Mesas of Mygeeto]]''</ref>
+
+====Battle of Coruscant====
+{{Quote|Your lightsabers will make a fine addition to my collection.|General Grievous|Star Wars: Episode III Revenge of the Sith}}
+[[File:Grievous on Invisible Hand.png|thumb|right|309px|Grievous aboard the ''Invisible Hand'']]
+In [[19 BBY]], Grievous led an [[Battle of Coruscant|attack]] on [[Coruscant]] to capture [[Supreme Chancellor]] Sheev Palpatine. He landed on the planet's surface and fought his way through layers of security forces and Jedi to secure Palpatine, killing Jedi [[Roron Corobb]] and knocking out Master [[Shaak Ti]] with electrified cables and stealing her lightsaber in the process.<ref name="Lightsabers">''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''</ref> He did not emerge from the battle unscathed, however, for he appeared to have suffered some damage to the left side of the plates, which covered the synthskin gut-sack containing his remaining organs. Now his coughing was occurring more than usual.<ref name="Episode III" />
+
+Grievous then took the Chancellor aboard his flagship the ''[[Invisible Hand]]''. Jedi Knights Anakin Skywalker and Obi-Wan Kenobi boarded the ''Invisible Hand'' to rescue the Chancellor. They first defeated Count Dooku and were escaping with the Chancellor when Grievous captured them, meeting with Skywalker face to face for the first time. The Jedi broke free of their bonds, and after destroying [[IG-101]] and [[IG-102]], the pair cornered Grievous. Too wounded to fight, the General had to shatter the front window of the cruiser with an [[electrostaff]]. Kenobi, Skywalker and the Chancellor managed to stay in the ship, but Grievous was sucked into space. Protected from exposure to vacuum, the general survived and used a grappling hook installed in his arm to latch onto the hull of the ship.<ref name="Episode III" />
+
+After ejecting the rest to trap the Jedi and the Chancellor inside, Grievous fled in one of his dying flagship's escape pods, and later headed for the secured planet of [[Utapau]] in the Outer Rim Territories, where the [[Separatist Council]] was hiding.<ref name="Episode III" /> With Count Dooku's death, Grievous succeeded him as [[Head of State]] of the Confederacy of Independent Systems.<ref name="On the Front Lines">''[[Star Wars: On the Front Lines]]''</ref> Under the direct order of Dooku's Master, Darth Sidious, Grievous relocated the Council to the planet [[Mustafar]].<ref name="Episode III" />
+
+====Return to Utapau and duel with Kenobi====
+{{Quote|Back away. I will deal with this Jedi slime myself!''"<br />"''Your move.''"<br />"''You fool. I've been trained in your Jedi arts by Count Dooku.|Grievous and Obi-Wan Kenobi before their duel on Utapau|Star Wars: Episode III Revenge of the Sith}}
+[[File:Kenobi faces Grievous ROTS.png|left|thumb|310px|Grievous faces Kenobi on Utapau.]]
+After the Republic received word that Grievous was hiding on Utapau, General Kenobi was sent to [[Battle of Utapau|defeat]] him. Though [[Nute Gunray]] and the other Council members doubted Grievous' ability to lead, they followed his orders, leaving just moments before Kenobi's arrival.<ref name="Episode III" />
+
+Kenobi jumped down from a bar above and greeted Grievous, who applauded his audacity before ordering his bodyguards to kill the Jedi Master. After Kenobi handily defeated Grievous' bodyguards, the droid army got ready to open fire. However, Grievous ordered them to back away as he decided to engage Kenobi himself. He immediately split his arms in four and attacked the Jedi Master in one last duel. But the injuries to his left side had not yet been treated and, as a consequence to either his negligence or a lack of spare parts, he was apparently unable to fight as well as he used to. Grievous lost two of his hands to Kenobi before Clone Commander [[CC-2224|Cody]] and the [[212th Attack Battalion]] arrived, ambushing the droid army. Fighting broke out all over [[Pau City]] between droid and clone forces. Grievous continued to threaten Kenobi, but Kenobi ended the initial duel with a tremendous Force push that disarmed the general. Grievous fled on his [[TSMEU-6 personal wheel bike|wheel bike]]. <ref name="Episode III" />
+
+====Death====
+{{Listen|filename=GrievousDeath.ogg|title=The Death of General Grievous|description=Listen to Grievous's death cry}}
+[[File:GrievousFlameOut-ROTS.jpg|right|thumb|250px|General Grievous bursts into flames after being shot by Kenobi]]
+Pursued by Kenobi on a [[varactyl]] named [[Boga]], after a prolonged chase and running duel, the two soon crashed onto Grievous' private landing platform, where the ''Soulless One'' was docked. As they fought hand-to-hand, Grievous made use of his mechanical body's superior strength. However, Kenobi managed to rip open Grievous' chest plates, revealing Grievous' gut-sack. Angered, Grievous tossed Kenobi off the platform, but the Jedi manipulated his position via Force and caught hold of the edge. Grievous charged Kenobi with an electrostaff, preparing to finish off his old adversary. However, Kenobi used [[the Force]] to summon Grievous' blaster, shooting Grievous five times in his exposed gut-sack. The oils preserving Grievous' remaining biological components ignited, incinerating the famed cyborg from the inside and finally destroying him.<ref name="Episode III" />
+
+===Legacy===
+{{Quote|I was a great admirer of the late General Grievous. An interesting design, but very much a first step. Commander Karbin is the next.|Cylo, on the design of Karbin's cybernetic body|Darth Vader 6: Vader, Part VI}}
+[[File:Karbin-ready to go full ham.png|thumb|280px|left|Karbin's cybernetics were said to have been inspired by the late Grievous.]]
+Years after Grievous' death, an [[Galactic Empire|Imperial]] researcher named [[Cylo]] began working on the creation of [[Cybernetics|cybernetically-enhanced]] individuals; these individuals were designed to be possible replacements for Darth Vader as the [[Galactic Emperor|Emperor's]] apprentice. One such individual, [[Karbin]], had a cybernetic body installed by [[Doctor]] Cylo, whom claimed to have been inspired by the body of Grievous.<ref>''[[Darth Vader 6: Vader, Part VI]]''</ref>
+
+Some time after the [[Battle of Endor]], [[Temmin Wexley]] implied that he had downloaded some of Grievous' old programming into [[Mister Bones]], his robotic bodyguard.<ref>''[[Aftermath]]''</ref>
+
+==Personality and traits==
+{{Quote|The general's description of your tactics have been 100 percent accurate today. Very impressive, even by my standards.|TV-94, impressed by Grievous's military tactics|Grievous Intrigue}}
+[[File:Grievous escape pod.png|thumb|right|Grievous was known to always flee a battle once the tide was turned.|222x222px]]
+As a Kaleesh warrior, Grievous stood 2.16 meters tall and had red skin and slit-pupilled golden eyes.<ref name="Episode III" /> As a cyborg, he had clawed feet, two arms which could split into four, and a skull-like mask which his eyes peered through.<ref name="Dark Disciple" /> Grievous' hatred for the Jedi was well known throughout the galaxy and was stated by him on many occasions. A brilliant military strategist and a feared Jedi hunter, he was especially known for his brutality and ruthlessness. However, he was also quick to run from a fight when the tide was turned against him. This tactic worked, until his final encounter with his nemesis, Jedi master Obi-Wan Kenobi.<ref name="Databank" />
+
+Grievous always insisted on fighting the Jedi personally when possible, displaying a mild form of recklessness as well as restlessness despite suffering injuries. This was displayed by refusing to heed EV-A4D's advice to recuperate after his first bout with Kit Fisto and Nahdar Vebb.<ref name="Lair of Grievous" /> He later displayed this again when he fought Obi-Wan on Utapau.<ref name="Episode III" /> Although Grievous killed many Jedi during the Clone Wars, his greatest lightsaber prizes were those of [[Pablo-Jill]], Eeth Koth, Roron Corobb, and Shaak Ti.<ref name="Lightsabers" /> Grievous also had a disdain for [[B1 battle droid]]s, as shown when he decapitated a B1 aboard the ''Malevolence'' out of frustration<ref name="Shadow of Malevolence" /> and when he did the same to another on the bridge of a ''Munificent''-class star frigate.<ref name="Downfall of a Droid" />
+
+==Skills and abilities==
+{{Quote|You fool! I've been trained in your Jedi arts by Count Dooku!|Grievous, to Obi-Wan Kenobi|Star Wars: Episode III Revenge of the Sith}}
+[[File:The_General.png|left|thumb|280px|Grievous with four ignited lightsabers.]]
+Despite his lack of Force-sensitivity, Grievous was highly skilled in lightsaber combat, in which he was trained by Count Dooku. With his cybernetic enhancements, Grievous relied on strength and agility when in combat with a Jedi. He was a master of many of the classic forms of Jedi arts, and was able to adapt quickly to an opponent's fighting style.<ref name="Ultimate Star Wars" /> Grievous chose a very unorthodox style while contending with the Jedi, using his four arms to his advantage. He would usually spin and use them all at once to either immediate or overwhelm his opponents. Sometimes he would surprise his opponent by taking out one of his extra arms and subdue or even kill them.<ref name="Lair of Grievous" />
+
+[[File:Grievous blaster.png|thumb|right|220x220px|Grievous firing a blaster.]]
+General Grievous was very durable due to his cybernetics, and could even resist explosions from fuel barrels.<ref name="Bound for Rescue" /> Grievous was also very fast as he was able to use his cybernetics to crawl on the floor and make a quick escape if he needed to.<ref name="Episode III" />
+
+Though he preferred hand-to-hand combat, Grievous was also skilled in the use of blaster pistols or blaster rifles,<ref name="Episode III" /> and was also a skilled pilot.<ref name="Destroy Malevolence" />
+
+==Behind the scenes==
+{{Quote|With General Grievous, I wanted somebody who was reminiscent of what Anakin is going to become, which is a half man, half robot. In this case, Grievous is sort of 20% alien and 80% robot.|George Lucas on the creation of Grievous|Star Wars: Episode III Revenge of the Sith#DVD release}}
+Grievous was developed for the [[2005]] movie [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] as a powerful new villain on the side of the Confederacy. He was introduced in "[[Clone Wars Chapter 20|Chapter 20]]" of the animated series ''[[Star Wars: Clone Wars]]'', which aired over a year before the film's release, but his appearances in that series have been relegated to the [[Star Wars Legends|Legends]] continuity. In ''Revenge of the Sith'' and the second ''[[Star Wars: The Clone Wars (TV series)| The Clone Wars]]'' animated series, he was voiced by [[Matthew Wood]].
+
+Before Matthew Wood was cast in the role of Grievous, producer [[Rick McCallum]] suggested British actor [[Wikipedia: Gary Oldman|Gary Oldman]] for Grievous' role. However, at the end, Oldman didn't accept the role and Wood was cast instead.<ref>[https://www.theguardian.com/film/2004/sep/16/news.starwars]</ref>
+
+In ''[[Angry Birds Star Wars II]]'', Grievous appears during the events of ''[[Star Wars: Episode II Attack of the Clones|Attack of the Clones]]''. Also, instead of dying at Obi-Wan Kenobi's hands on Utapau, Grievous accompanies Anakin Skywalker and Emperor Sheev Palpatine to Mustafar, where he helps them defeat the [[stormtrooper]]s who did not side with them. After the defeat of Skywalker, Grievous isn't seen again during the game, possibly indicating that he was defeated or killed offstage.
+
+==Appearances==
+{{Scroll_box|content=
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars Battlefront II]]'' {{C|DLC}}
+*''[[Star Wars: Force Arena]]''
+*''[[Jedi of the Republic&mdash;Mace Windu, Part III]]'' {{Hologram}}
+*''[[Jedi of the Republic&mdash;Mace Windu, Part IV]]'' {{C|Mentioned only; in the opening crawl}}
+*''[[Jedi of the Republic&mdash;Mace Windu, Part V]]'' {{C|Appears through imagination}}
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]] {{Flash}}
+*{{TCW|Rising Malevolence|Rising ''Malevolence''}}
+*{{TCW|Shadow of Malevolence|Shadow of ''Malevolence''}}
+*{{TCW|Destroy Malevolence|Destroy ''Malevolence''}}
+*{{TCW|Rookies}}
+*{{TCW|Downfall of a Droid}}
+*{{TCW|Duel of the Droids}}
+*{{TCW|Lair of Grievous}}
+*{{TCW|Bounty Hunters (episode)|Bounty Hunters}} {{Mo}}
+*{{TCW|Senate Spy}} {{Flash}}
+*{{TCW|Landing at Point Rain}} {{Flash}}
+*{{TCW|Grievous Intrigue}}
+*{{TCW|The Deserter}}
+*{{TCW|R2 Come Home}} {{Mo}}
+*{{TCW|ARC Troopers}}
+*{{TCW|Sphere of Influence}} {{Flash}}
+*{{TCW|Hostage Crisis}} {{Flash}}
+*{{TCW|Heroes on Both Sides}}
+*{{TCW|Padawan Lost}} {{Flash}}
+*{{TCW|Shadow Warrior}}
+*{{TCW|Nomad Droids}}
+*{{TCW|Deception}} {{Mo}}
+*{{TCW|Massacre}}
+*{{TCW|Brothers}}
+*{{TCW|Revenge (episode)|Revenge}} {{Imo}}
+*{{TCW|A Test of Strength}} {{Mo}}
+*{{TCW|Bound for Rescue}}
+*{{TCW|A Necessary Bond}}
+*{{TCW|Secret Weapons}} {{C|Appears as a hologram in flashback}}
+*{{TCW|Revival (episode)|Revival}} {{Mo}}
+*{{TCW|A Death on Utapau}} {{Mo}}
+*{{TCW|In Search of the Crystal}} {{Mo}}
+*{{TCW|Crystal Crisis}}
+*{{TCW|The Big Bang}}
+*''[[Dark Disciple]]''
+*''[[Darth Maul—Son of Dathomir, Part One]]''
+*''[[Darth Maul—Son of Dathomir, Part Two]]''
+*''[[Darth Maul—Son of Dathomir, Part Three]]''
+*''[[Darth Maul—Son of Dathomir, Part Four]]''
+*''[[Kanan 7: First Blood, Part I: The Corridors of Coruscant]]'' {{Mo}}
+*''[[Kanan 8: First Blood, Part II: The Towers of the Temple]]''
+*''[[Kanan 9: First Blood, Part III: The Canyons of Kardoa]]''
+*''[[Kanan 10: First Blood, Part IV: The Mesas of Mygeeto]]''
+*''[[Kanan 11: First Blood, Part V: The Fog of War]]''
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}}
+*''[[Tarkin (novel)|Tarkin]]'' {{Mo}}
+*''[[Solo: A Star Wars Story: Tales from Vandor]]'' {{Mo}}
+*''[[A New Dawn]]'' {{Mo}}
+*''[[Thrawn: Alliances]]'' {{Mo}}
+*''[[The Mighty Chewbacca in the Forest of Fear!]]'' {{Mo}}
+*''[[Darth Vader 6: Vader, Part VI]]'' {{Mo}}
+*''[[Aftermath]]'' {{Imo}}
+*''[[Aftermath: Empire's End]]'' {{Imo}}
+*{{IDWAdventuresCite|Ashcan|}} {{Flash}}}}
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+*''[[Revenge of the Sith: Episode III (LEGO Star Wars)]]''
+*{{Droid Tales|Exit from Endor}} {{Flash}}
+*{{Droid Tales|Crisis on Coruscant (episode)|Crisis on Coruscant}} {{Flash}}
+*''[[LEGO Star Wars: The Force Awakens]]'' {{C|DLC}}
+*{{All-Stars|Lo, I am Manufactured}} {{Flash}}
+
+==Sources==
+{{Scroll box|
+*{{SWE|technology|battledroid|Battle droid|archivedate=20140106201856}}
+*{{SWE|characters|boga|Boga}}
+*{{SWE|characters|generalgrievous|General Grievous}}
+*{{SWE|technology|general-grievous-speeder|General Grievous' Speeder}}
+*{{SWE|groups|nightsisterzombies|Nightsister zombies}}
+*{{SWE|technology|separatistdreadnaught|Separatist dreadnought}}
+*{{SWE|technology|separatist-encryption-module|Separatist encryption module}}
+*{{SWE|technology|ywing|Y-wing starfighter}}
+*{{SW|url=y-wing-starfighter-biography-gallery|text=Y-wing Starfighter biography gallery}}; images #1, 5 {{C|of 12}}
+*''[[Star Wars Rebels: The Visual Guide]]''
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Ships of the Galaxy]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Darth Vader: Sith Lord]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Lightsaber Battles]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''
+*''[[Solo: A Star Wars Story The Official Guide]]''
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|aat-battle-tank|AAT Battle Tank|archivedate=20170711224900}}
+*{{Databank|adi-gallia|Adi Gallia|archivedate=20170706043936}}
+*{{Databank|wullf-yularen|Admiral Wullf Yularen|archivedate=20170404042020}}
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}}
+*{{Databank|anakin-skywalker|Anakin Skywalker|archivedate=20170706054025}}
+*{{Databank|b1-series-rocket-battle-droid|B1-series Rocket Battle Droid|archivedate=20170504102650}}
+*{{Databank|clone-commander-cody-biography-gallery|Clone Commander Cody Biography Gallery|archivedate=20170614155931}}; images #4, 8-10, 19, 20 {{C|of 21}}
+*{{Databank|count-dooku|Count Dooku|archivedate=20170705061812}}
+*{{Databank|eeth-koth|Eeth Koth|archivedate=20170706052456}}
+*{{Databank|electrostaff|Electrostaff|archivedate=20160514033534}}
+*{{Databank|ev-a4-d|EV-A4-D|archivedate=20161216125829}}
+*{{Databank|general-grievous|General Grievous|archivedate=20170704041537}}
+*{{Databank|general-grievous-speeder|General Grievous' Speeder|archivedate=20170706051552}}
+*{{Databank|general-grievous-tsmeu-6-wheel-bike|General Grievous’ TSMEU-6 Wheel Bike}}
+*{{Databank|hondo-ohnaka|Hondo Ohnaka|archivedate=20170802141131}}
+*{{Databank|jar-jar-binks-biography-gallery|Jar Jar Binks Biography Gallery}}; image #21 {{C|of 29}}
+*{{Databank|obi-wan-kenobi|Obi-Wan Kenobi|archivedate=20170625182018}}
+*{{Databank|separatist-encryption-module|Separatist Encryption Module}}
+*{{Databank|soulless-one|Soulless One}}
+*{{Databank|tion-medon|Tion Medon}}
+*{{Databank|vizsla-keep-09|Vizsla Keep 09|archivedate=20170806171133}}
+*{{SW|url=battle-droid-history-gallery|text=Battle Droid History Gallery|archiveurl=https://archive.fo/CdJrg}}; image #13 {{C|of 22}}
+*{{Databank|y-wing-starfighter|Y-wing Starfighter|archivedate=20140703025509}}}}
+
+==Notes and references==
+{{Start box}}
+{{Succession box
+|title=[[Head of State]] of the [[Confederacy of Independent Systems]]<ref name="On the Front Lines" />
+|years=[[Battle of Coruscant]] to [[Battle of Utapau]]<ref name="On the Front Lines" />
+|before=[[Count]] [[Dooku]]<ref name="On the Front Lines" />
+|after=
+}}
+{{End box}}
+
+{{Scroll_box|content=
+{{Reflist}}}}
+
+{{Interlang
+|da=Grievous
+|de=Grievous
+|el=Γκρίβους
+|fr=Grievous
+|ja=グリーヴァス
+|ru=Гривус/Канон
+|pl=Grievous
+|pt=Cânon:Grievous
+|no=Grievous
+|ko=그리버스
+|uk=Ґрівус
+|zh=格里弗斯將軍
+|es=Grievous
+|plFA=1
+}}
+
+==External links==
+*{{WP|General Grievous}}
+
+{{DEFAULTSORT:Grievous}}
+[[Category:Cyborgs]]
+[[Category:Jedi hunters]]
+[[Category:Kaleesh]]
+[[Category:Males]]
+[[Category:Separatist admirals and generals]]
+[[Category:Separatist leadership]]
+[[Category:Sith minions]]

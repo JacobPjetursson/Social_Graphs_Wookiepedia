@@ -1,0 +1,36 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Reeve Panzoro.jpg]]
+|name=Reeve Panzoro
+|homeworld=[[Atterra Bravo]]<ref name="Cobalt">''[[The Last Jedi: Cobalt Squadron]]''</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="Cobalt" />
+|gender=[[Sexes|Male]]<ref name="Cobalt" />
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="Bomber">''[[The Last Jedi: Bomber Command]]''</ref>
+|eyes=Blue<ref name="Bomber" />
+|skin=Fair<ref name="Bomber" />
+|cyber=
+|era=
+|affiliation=[[Bravo Rising]]<ref name="Cobalt" />
+|masters=
+|apprentices=}}
+'''Reeve Panzoro''' was a member of the united resistance movement [[Bravo Rising]] at the [[time]] of the [[Atterra campaign]]. [[Sexes|He]] was the grandson of fellow resistance member [[Casca Panzoro]].<ref name="Cobalt" />
+
+{{Char-stub}}
+
+==Appearances==
+*''[[The Last Jedi: Cobalt Squadron]]'' {{1st|''The Last Jedi: Bomber Command''}}
+*''[[The Last Jedi: Bomber Command]]'' {{1st|''The Last Jedi: Cobalt Squadron''}} {{1stp}}
+*''[[The Last Jedi: Rose Tico: Resistance Fighter]]'' {{Mo}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Panzoro, Reeve}}
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Resistance fighters]]

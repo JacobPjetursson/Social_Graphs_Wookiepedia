@@ -1,0 +1,73 @@
+{{Eras}}
+{{Character
+|type=Jedi
+|image=[[File:GungiFace-TG.png]]
+|name=Gungi
+|homeworld=
+|birth=
+|death=
+|species=[[Wookiee]]<ref name="TCW:TG">{{TCW|The Gathering (episode)|The Gathering}}</ref>
+|gender=[[Sexes|Male]]<ref name="TCW:TG" />
+|height=1.53 [[meter]]s<ref name="DB">{{Databank|Gungi|Gungi}}</ref>
+|mass=
+|hair=[[Color|Brown]]<ref name="TCW:TG" />
+|eyes=Brown<ref name="TCW:TG" />
+|skin=Brown<ref name="TCW:TG" />
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="TCW:TG" />
+*[[Galactic Republic]]<ref name="TCW:TG" />
+|masters=[[Tera Sinube]]<ref name="TCW:TG" />
+|apprentices=}}
+{{Quote|A Wookiee! Rare you are to the Jedi. Proud, your people must be.|Professor [[Huyang]] to Gungi|A Test of Strength}}
+'''Gungi''' was a [[Sexes|male]] [[Wookiee]] [[Jedi youngling]] who was [[Jedi training|training]] to become a [[Jedi]] in the [[Jedi Order]] during the [[Clone Wars]]. During the war, Gungi and a group of five other younglings, ([[Petro]], [[Katooni]], [[Byph]], [[Ganodi]] and [[Zatt]]) were deemed to be at the top of their class and, led by [[Ahsoka Tano]], they traveled to [[Ilum]] to participate in [[the Gathering]]; an ancient Jedi ritual that proved a [[youngling]]'s readiness to become a [[Padawan]].
+
+==Biography==
+===The Gathering===
+Gungi, who was amongst the top of his class was sent to [[Ilum]] with [[Sexes|his]] fellow [[Jedi]] [[Jedi youngling|younglings]]. While on Ilum, the [[youngling]]s were instructed by [[Jedi Master]] [[Yoda]] to enter a [[Crystal Cave (Ilum)|Crystal Cave]] and find their [[kyber crystal]]s, which were necessary for the younglings to construct their first [[lightsaber]]s. Every [[crystal]] in the cave was specific to each individual, and Gungi found his crystal on an island across a body of [[water]] within the cave Ignoring Ganodi, who told him to move on, he had to meditate to wait for the body of water to freeze so he could cross, and he was later commended by Master Yoda on his patience.<ref name="TCW:TG" />
+
+===Captured by pirates===
+While on their way back to [[Coruscant]] aboard the ''[[Crucible]]'', Gungi and his fellow younglings began creating their lightsabers under the guidance of [[Professor]] [[Huyang]] when the Jedi's [[Starship|ship]] was [[Raid on the Crucible|attacked]] by the [[pirate]] [[Hondo Ohnaka]]. Hondo and his pirate [[Ohnaka Gang|crew]] were looking for the kyber crystals the younglings had just collected as they were worth lots of [[credit]]s on the [[black market]]. Though the younglings managed to escape the pirates, [[Ahsoka Tano]] was pulled into [[Realspace|space]] along with the pirates because the ''[[Crucible]]'' had managed to get away from the pirates docking station and had created a vacuum.<ref name="ATS">{{TCW|A Test of Strength}}</ref>
+
+Gungi and his youngling friends were building their lightsabers as they had free time, due to the fact their ship was stranded. After Gungi, [[Petro]] and [[Byph]] finished their lightsabers the group dececided to go to [[Florrum]] to cool their engines (which were at risk of exploding) and to save Ahsoka. Once there, they joined the [[Preigo's Traveling World of Wonder|troupe]] of the [[Dug]] [[Preigo]] to infiltrate the [[Hondo's complex|base]] of Hondo before stealing back [[Ahsoka Tano's lightsaber|Ahsoka's lightsabers]], [[Rescue on Florrum|freeing]] Ahsoka and escaping on a stolen [[speeder]].<ref name="ANB">{{TCW|A Necessary Bond}}</ref>
+
+===Battle against Grievous ===
+After escaping on the stolen speeder Petro made contact with [[R2-D2]] and [[Ganodi]] on board the ''Crucible'', but by the time the ''Crucible'' got to them the speeder was almost at a ravine leading the Jedi to have to get onboard fast. Gungi and Byph ended up hanging of the edge of the ramp before the pirates shot a missile at the ship causing it to crash and the pirates to take them hostage yet again. When they reached Hondo's base they found it was under [[Battle on Florrum|attack]] by [[General]] [[Grievous]] and with the common goal to escape the [[Confederacy of Independent Systems|Separatists]], the Jedi and the pirates worked together freeing Ohnaka and escaped to his secret private fleet, before managing to leave Florrum.<ref name="BFR">{{TCW|Bound for Rescue}}</ref>
+
+===Bombing at the Temple===
+Gungi was later seen training outside the [[Imperial Palace|Jedi Temple]] some [[time]] after the [[Bombing of the Jedi Temple hangar|bombing]] of the Temple's [[hangar]]. Along with his [[teacher]], [[Tera Sinube]], Gungi observed as [[Anakin Skywalker]] and [[Barriss Offee]] [[Duel at the Jedi Temple|dueled]] outside until Offee was apprehended.<ref name="TWJ">{{TCW|The Wrong Jedi}}</ref>
+
+==Appearances==
+*{{TCW|The Gathering (episode)|The Gathering}} {{1st}}
+*{{TCW|A Test of Strength}}
+*{{TCW|Bound for Rescue}}
+*{{TCW|A Necessary Bond}}
+*{{TCW|The Wrong Jedi}}
+*{{TCW|Destiny (episode)|Destiny}} {{Vision|[[Yoda]]}}
+*''[[Ahsoka (novel)|Ahsoka]]'' {{Imo}}
+
+==Sources==
+*{{SW|text = The Gathering|url = explore/the-clone-wars/ep506/#!/about}}
+*{{SW|text = A Test of Strength|url = explore/the-clone-wars/ep507/#!/about}}
+
+*{{SWE|characters|byph|Byph}}
+*{{SWE|characters|ganodi|Ganodi}}
+*{{SWE|characters|gungi|Gungi}}
+*{{SWE|characters|katooni|Katooni}}
+*{{SWE|characters|petro|Petro}}
+*{{SWE|characters|zatt|Zatt}}
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]'' {{Po}}
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}} {{Po}}
+*{{Databank|gungi|Gungi|archivedate=20170503120807}}
+*{{Databank|wookiee|Wookiee|archivedate=20140703015344}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Gungi
+}}
+
+[[Category:Jedi trainees]]
+[[Category:Males]]
+[[Category:Wookiees]]

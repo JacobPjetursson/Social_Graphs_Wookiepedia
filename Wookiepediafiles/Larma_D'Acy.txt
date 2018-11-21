@@ -1,0 +1,69 @@
+{{Eras}}
+{{Expand}}
+{{Cleanup}}
+{{Character
+|type=Resistance
+|image=[[File:Larma DAcy.png]]
+|name=Larma D'Acy
+|homeworld=[[Warlentta]]<ref name="TLJ-TVD">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+|gender=[[Sexes|Female]]<ref name="Episode VIII" />
+|height=
+|mass=
+|hair=[[Color|Blonde]]<ref name="Episode VIII" />
+|eyes=Blue<ref name="Episode VIII" />
+|skin=Light<ref name="Episode VIII" />
+|cyber=
+|era=
+|affiliation=*[[Resistance]]<ref name="Episode VIII" />
+**[[Resistance army]]<ref name="TLJ-TVD" />
+|masters=
+|apprentices=}}
+{{Quote|The admiral's banned you from the bridge. Let's not have a scene.''"<br />"''No, ''let's''.|Commander D'Acy and Poe Dameron|Star Wars: Episode VIII The Last Jedi}}
+'''Larma D'Acy'''<ref name="TLJ-TVD" /> was a [[human]] [[Sexes|female]] who served as a [[commander]] in the [[Resistance army|ground forces]] of the [[Resistance]], a paramilitary group founded by [[Leia Organa]] to monitor and [[Cold war|oppose]] the actions of the [[First Order]].<ref name="Episode VIII" /> A native of [[Warlentta]], she was recruited personally by [[General]] [[Leia Organa]], who greatly admired her homeworld's independent streak. D'Acy's [[Larma D'Acy's father|father]], despite Warlentta having declined to join the New Republic, was nonetheless a noted critic of the [[Military Disarmament Act|demilitarization]] efforts undertook by the [[Galactic Senate (New Republic)|Senate]]. D'Acy herself came from a distinguished military background, with her family charged with protecting the Warlentta system, and joined the Resistance with her family's blessing.<ref name="TLJ-TVD" />
+
+D'Acy attended the funeral of Han Solo and was stationed on the bridge of the Resistance flagship, the [[MC85 Star Cruiser]] ''[[Raddus (MC85 Star Cruiser)|Raddus]]'', during the evacuation of D'Qar and the subsequent surprise attack on the fleet when the [[First Order]] somehow tracked them through lightspeed. During the attack, the bridge was destroyed by TIE fighters<ref name="Episode VIII" /> but D'Acy survived as she had been on an errand.<ref name="TLJ Junior novel">''[[Star Wars: The Last Jedi: A Junior Novel]]''</ref> She then reported on the situation to the surviving Resistance members on the secondary command bridge, the only good news being that Leia was alive but unconscious. With a heavy heart, D'Acy revealed that the majority of the Resistance Command, including [[Admiral]] [[Gial Ackbar]], had perished in the attack. Following the chain of command, leadership of the Resistance fell to [[Vice Admiral]] [[Amilyn Holdo]], commanding officer of the cruiser ''[[Ninka]]''. D'Acy followed her loyally, but this resulted in her being held at gunpoint with Holdo and several other officers when [[Captain]] [[Poe Dameron]], at odds with Holdo over her strategies and lack of transparency, staged a mutiny. Holdo managed to regain control of the ship with the help of the newly recovered Leia, who personally stunned Poe and had him loaded onto a U-55 orbital loadlifter which she and D'Acy used to evacuate while Holdo stayed behind to pilot the ''Raddus, ''with D'Acy expressing hope that the plan worked. When Poe regained consciousness, D'Acy explained that they were heading for an old rebel base on the [[mineral]] planet of [[Crait]] where they could take refuge and send out a signal to their [[Outer Rim Territories|Outer Rim]] allies. When the transports came under fire, it was only thanks to Holdo's valiant sacrifice by ramming the First Order fleet at lightspeed that allowed the remainder to reach planetfall safely. Once there, D'Acy reactivated the base's shields with an ancient computer monitor and observed the battle against the First Order. The signal that Lieutenant Kaydel Co Connix sent out asking for help was received at multiple points but went unanswered, with D'Acy realising that their allies had heard them, but no one was coming. D'Acy then bore witness to the appearance of what appeared to be [[Luke Skywalker]], who proceeded to face down the First Order while the Resistance fled through an underground tunnel, ultimately escaping aboard the ''[[Millennium Falcon]]''. D'Acy was left as one of the few surviving Resistance members, telling C-3PO that when they got to the Outer Rim, she had a contact there who could help them.<ref name="Episode VIII" />
+
+==Personality and traits==
+A human female with fair skin, blonde hair and a prominent nose, Larma D'Acy was a calm and collected individual who rarely lost her composure and maintained a cool head even when under great stress. Loyal to the Resistance, D'Acy followed Vice Admiral Holdo without question and futilely attempted to intercede when Holdo and Poe Dameron butted heads over strategy. Though deeply affected by the loss of Admiral Ackbar and Leia's near-death, D'Acy nonetheless plowed on resolutely.<ref name="Episode VIII" />
+
+Larma D'Acy wore the standard Resistance officer uniform with a rank plaque denoting her rank of Commander, boots and a belt in which she holstered a standard issue [[Glie-44 blaster pistol]].<ref name="TLJ-TVD" />
+
+==Behind the scenes==
+Larma D'Acy was portrayed by [[Amanda Lawrence]] in [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]. She was named for Dan and Stacy, two close personal friends of [[Rian Johnson]].
+
+==Appearances==
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] {{1st}}
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[Star Wars: The Last Jedi: A Junior Novel]]''
+*''[[The Last Jedi Adaptation 2]]''
+*''[[The Last Jedi Adaptation 4]]''
+*''[[The Last Jedi Adaptation 5]]''
+
+==Sources==
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]'' {{1stID|Larma}}
+*''[[Star Wars: The Last Jedi: Ultimate Sticker Collection]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|amilyn-holdo-biography-gallery|Amilyn Holdo Biography Gallery|archiveurl=https://archive.fo/DJ2Jb}}; image #2 {{C|of 3}} {{Po}}
+*{{Databank|commander-d-acy|Commander D'Acy|archiveurl=https://archive.fo/wLq6n}}
+*{{Databank|resistance-pilots|Resistance Pilots}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Larma D'Acy
+|fr=Larma D'Acy
+|ja=ラーマ・デイシー
+|ka=ლარმა დ'ეისი
+|pl=Larma D'acy
+|ru=Ларма Ди'Эйси
+|uk=Ларма Д'Ейсі
+}}
+
+{{DEFAULTSORT:D'Acy, Larma}}
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Resistance Military officers]]

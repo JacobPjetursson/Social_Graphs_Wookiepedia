@@ -1,0 +1,173 @@
+{{Eras}}
+{{Majorspoiler|The Children of Tehar}}
+{{Youmay|the [[Resistance pilot]]|the [[protocol droid]], [[T-2L0]] or "Ello"}}
+{{Update|[[Poe Dameron 28: The Awakening, Part III]]}}
+{{Character
+|type=Resistance
+|image=[[File:Ello Asty AotG.png]]
+|name=Ello Asty
+|homeworld=[[Abednedo]]<ref name="Flight Log">''[[Poe Dameron: Flight Log]]''</ref>
+|birth=
+|death=[[34 ABY]],<ref name="Atlas">''[[Star Wars: Galactic Atlas]]'' notes that the [[Battle of Starkiller Base]] takes place in the [[Standard year|year]] [[34 ABY]].</ref> [[Starkiller Base]]<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+|species=[[Abednedo (species)|Abednedo]]<ref name="Hasbro">{{HasbroCite|set=Star Wars: The Force Awakens (toy line)|text=''Star Wars: The Force Awakens'' (toy line)|pack=X-wing Pilot Asty|link=X-Wing-Pilot-Asty-The-Force-Awakens-Hasbro.asp}}</ref>
+|gender=[[Sexes|Male]]<ref name="Episode VII" />
+|height=1.88 [[meter]]s<ref name="Databank">{{Databank|ello-asty|Ello Asty|archivedate=20170808074030}}</ref>
+|mass=
+|hair=[[Color|Brown]]<ref name="AotG">''[[Star Wars: Aliens of the Galaxy]]''</ref>
+|eyes=Black<ref name="Episode VII" />
+|skin=Dark<ref name="Episode VII" />
+|cyber=
+|era=
+|affiliation=*[[New Republic]]<ref name="BL">''[[Bloodline (novel)|Bloodline]]''</ref>
+**[[Precision air team]]<ref name="BL" />
+*[[Resistance]]<ref name="Episode VII" />
+**[[Cobalt Squadron (Resistance)|Cobalt Squadron]]<ref name="Databank" />
+**[[Red Squadron (Resistance)|Red Squadron]]<ref name="Databank" />
+|masters=
+|apprentices=}}
+{{Quote|Direct hit!''"<br />"''But no damage.|Bastian and Asty during the Starkiller Base battle|Star Wars: Episode VII The Force Awakens}}
+'''Ello Asty''' was a talented but reckless and singular [[Sexes|male]] [[Abednedo (species)|Abednedo]] [[T-70 X-wing starfighter]] [[pilot]] who worked for the [[New Republic]]'s [[precision air team]]. When [[Senator]] [[Leia Organa]] founded the [[Resistance]] [[Standard year|years]] after the [[Battle of Endor]], the pilot was recruited into it as he felt it was important work. Asty, who came from the [[planet]] [[Abednedo]], went on to fly with [[Red Squadron (Resistance)|Red Squadron]] in [[34 ABY]] during the [[Battle of Starkiller Base|Battle]] of [[Starkiller Base]], but was shot down trying to destroy the [[superweapon]], although the battle was ultimately a victory for the Resistance. During his final battle, he flew under the [[callsign]] [[Red Six]].
+
+==Biography==
+===New Republic service===
+{{Quote|Traveling all over the galaxy like that, taking care of business&mdash;it sounds ''important''.''"<br />"''More important than an air show, that's for sure.|Zari Bangel and Asty talking to fellow precision team pilot Joph Seastriker|Bloodline (novel)}}
+Ello Asty was an extremely skilled, though occasionally reckless, [[Abednedo (species)|Abednedo]]<ref name="Hasbro" /> [[T-70 X-wing starfighter]] [[pilot]]<ref name="Episode VII" /> approximately twenty four [[Standard year|years]] following the [[Battle of Endor]].<ref name="BL" /> The [[Sexes|male]] pilot was known for his superb abilities in the [[cockpit]]&mdash;and for his trouble remembering that a [[squadron]] relies on teamwork.<ref name="Databank" /> He came from the [[planet]] [[Abednedo]].<ref name="Flight Log" />
+
+During that [[time]], Ello Asty was a member of the [[New Republic Defense Fleet]]'s [[precision air team]] alongside [[New Republic pilot|pilots]] [[Joph Seastriker]], [[Zari Bangel]], [[Ledaney]] and [[Temmin Wexley|"Snap" Wexley]], which flew mostly patrol missions and [[air show]]s. Stationed in the [[Galactic Senate (New Republic)|Galactic Senate]] [[New Republic senatorial complex|complex's]] [[Senate hangar|main hangar]] on the [[capital]] planet [[Hosnian Prime]], Asty and the others grew bored with the assignment. When it became clear that Seastriker was involved in a [[Amaxine warrior crisis|greater cause]], Asty and the other pilots expressed a desire to become part of it as well.<ref name="BL" />
+
+===Road to war===
+{{Quote|They also said that someone called ''Kylo Ren'' was leading the First Order army. Does that name mean anything to you?''"<br />"''You could say that. General Organa will want to hear about this immediately.|Kazuda Xiono and Ello Asty|The Children from Tehar}}
+[[Standard month|Months]] later, when [[Senator]] [[Leia Organa]] organized the burgeoning [[Resistance]] movement after foreseeing the secession of many [[Centrists]] [[Star system|systems]], Asty and other precision air team pilots were in attendance at the movement's first meeting in Organa's newly-leased [[hangar]] on Hosnian Prime.<ref name="BL" />
+
+[[File:Ello talks to Kaz.png|left|thumb|300px|Asty speaks with Kazuda Xiono]]
+Asty flew with the Resistance's [[Cobalt Squadron (Resistance)|Cobalt Squadron]] during the [[cold war]].<ref name="Databank" /> During that time, he managed to log the highest ratio of combat [[Standard hour|hours]] to total flight time.<ref name="Front Lines">''[[Star Wars: On the Front Lines]]''</ref> At one point, Asty was keeping in contact with all of [[Poe Dameron]]'s [[Spy|spies]] when he was contacted by [[Kazuda Xiono]] from the [[Colossus]], who had found two children that witnessed [[Kylo Ren]] and the [[First Order]]'s [[Massacre on Tehar|destruction]] of a village on the planet [[Tehar]].<ref name="TCFT">{{Resistance|The Children from Tehar}}</ref> The conflict came to a head thirty years after the Battle of [[Endor]]<ref name="TFA Visual Dictionary">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref> when the [[First Order]] revealed their new [[Starkiller Base]] [[superweapon]] by [[Hosnian Cataclysm|destroying]] the [[New Republic|Republic]] capital in the [[Hosnian system]]<ref name="Episode VII" /> in [[34 ABY]].<ref name="Atlas" /> [[File:Abednedo pilot.jpg|right|thumb|300px|Asty in his cockpit moments before his death]]
+
+After the destruction, Asty joined in the briefing about Starkiller Base with the other [[Resistance pilot|pilots]] and<ref name="Episode VII" /> [[General]] Leia Organa's handpicked staff at their [[D'Qar]] [[Resistance base|headquarters]].<ref name="TFA Visual Dictionary" /> During the [[Battle of Starkiller Base|battle]] against the superweapon before it could fire at the Resistance base,<ref name="Episode VII" /> Asty flew with [[Red Squadron (Resistance)|Red Squadron]]<ref name="Databank" /> with the [[callsign]] [[Red Six]].<ref name="Episode VII" /> At one point, he saved [[Blue Nine (Resistance)|Blue Nine]] from a pair of [[Seeker (missile)|seekers]] by redirecting the [[missile]]s.<ref name="Front Lines" /> Asty then joined in the final run against the superweapon's [[thermal oscillator]] led by [[Black Leader]] [[Poe Dameron]]<ref name="Episode VII" /> and escorted the lead craft through the trench, firing at weapons emplacements and [[All Terrain Mobile Artillery|base defense walkers]].<ref name="Front Lines" /> Asty's craft was subsequently shot down during the run by ground fire. Although he was [[Death|killed]], the Resistance succeeded in destroying Starkiller Base.<ref name="Episode VII" />
+
+===Legacy===
+During a [[Funeral of Han Solo|ceremony]] held at the Resistance base on D'Qar for [[Han Solo]] after his death on Starkiller Base, Organa read out the names of the pilots who'd never returned from Starkiller Base.<ref name="TLJNovel">''[[Star Wars: The Last Jedi: Expanded Edition]]''</ref>
+
+==Personality and traits==
+{{Quote|I'm hit!|Asty's final words before his X-wing's destruction|Star Wars: Episode VII The Force Awakens‎‎}}
+As a pilot, Asty was skilled at the controls, but acted recklessly and without the support of his teammates,<ref name="Hasbro" /> since he preferred to fly by himself.<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> When his fellow precision air team pilots commented on how Seastriker appeared to be doing important work, Asty added that whatever it was, it was more important than the team flying air shows.<ref name="BL" /> During his time with the Resistance, he assisted his wingman in understanding fellow Abednedo pilot [[C'ai Threnalli]], who repeatedly misplaced his [[translator fob]].<ref name="TLJ VD">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref>
+
+The [[starfighter]] pilot zealously attacked First Order patrols during the leadup to the First Order conflict, earning a reputation as someone who "shoots first and questions second." At the time of his death, he had the highest ratio of combat encounters to total flying time among the Resistance as a result of this aggression.<ref name="Front Lines" />
+
+Despite Asty's preference for flying solo, during the attack on Starkiller Base, he responded promptly to Black Leader Dameron's orders to form up alongside [[Red Four]], [[Bastian]]. Following their initial bombing run on the oscillator, Asty commented that their barrage had produced no effect.<ref name="Episode VII" />
+
+He stood 1.88 [[meter]]s tall,<ref name="Databank" /> and spoke with a low and sonorous voice.<ref name="BL" /> As an Abednedo, he was a member of a gregarious and creative [[species]], and had [[Color|brown]] [[Hair|fur]] lining the sides of his face.<ref name="AotG" />
+
+==Equipment==
+Asty wore the standard Resistance pilot [[Flight suit|flightsuit]], with flight vest, [[Guidenhauser]] ejection harness, [[boot]]s, and [[life support]] equipment,<ref name="TFA Visual Dictionary" /> and [[Gauntlet (glove)|gauntlets]]. The letters on the Resistance's [[flight harness]] read "pull to inflate." His specially-modified [[Flight helmet|helmet]]<ref name="Character Encyclopedia" /> sported the [[Rebel Alliance starbird|Resistance symbol]], yellow-and-black checkerboard pattern, and [[Abednedish]] lettering. The checkerboard pattern was part of the Resistance's practices of honoring the heroes of the [[Alliance to Restore the Republic|Rebel Alliance]].<ref name="TFA Visual Dictionary" /> The phrase "Born to ill" was written on the side in [[Aurebesh]]<ref name="Hasbro" /> alongside the unit insignia for Cobalt Squadron. He also carried a [[Glie-44 blaster pistol]].<ref name="TFA Visual Dictionary" />
+
+==Behind the scenes==
+===Portrayal===
+{{Quote|This character here is an animatronic character, so he can blink, his eyes can move, he can sniff his nose. Obviously it is worn by a performer and his head's inside.|Creature Effects Supervisor Neal Scanlan describes Asty's animatronic mask in the "Crafting Creatures" featurette|Star Wars: Episode VII The Force Awakens}}
+[[File:Bullhead rebel pilot.png|right|thumb|200px|Concept art for what became the Abednedo]]
+Ello Asty appears in the [[2015]] ''[[Star Wars]]'' saga film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]. The character was performed physically by [[Paul Kasey]]<ref name="Creatures">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] &mdash; "Crafting Creatures" BluRay featurette</ref> and voiced by veteran ''Star Wars'' voice actor and technician [[Matthew Wood]].<ref name="Voices of Star Wars">{{SW|url=news/from-blast-that-x-wing-to-traitor-the-voices-of-star-wars-the-force-awakens|text=From "Blast That X-wing!" to "Traitor!": The Voices of ''Star Wars: The Force Awakens''}}</ref> For his portrayal, Kasey, also a member of the motion capture section, wore an animatronic mask and costume. The masks used in the film helped, in [[Neal Scanlan]]'s words, to help the performers "...tell a thousand words."<ref name="Creatures" /> The pilot was created based off concept art entitled "Bullhead Pilot."<ref name="The Art">''[[The Art of Star Wars: The Force Awakens]]''</ref> The actor can also be seen in costume during the Resistance briefing scene during a behind the scenes look at the making of documentary ''Secrets of ''The Force Awakens'': A Cinematic Journey.''<ref name="Secrets">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] &mdash; ''Secrets of ''The Force Awakens'': A Cinematic Journey'' BluRay featurette</ref>
+
+[[File:LegoElloAsty.jpg|left|thumb|160px|Ello Asty in LEGO form]]
+Asty is one of the pilots to appear in the "[[X-wing starfighter|X-wings]] Prepare for [[Lightspeed]]" deleted scene, which features the Resistance pilots taking off for the Starkiller Base battle.<ref name="Episode VII" />
+
+Although an Abednedo identical to Asty appears in the episode "[[The Recruit]]" in the [[2018]] animated series ''[[Star Wars Resistance]],'' it was not confirmed to be him.<ref name="The Recruit">{{Resistance|The Recruit}}</ref> Asty however later appeared briefly in the episode "[[The Children from Tehar]]" voiced once more by Matthew Wood who had voiced the character for the film.<ref name="TCFT" />
+
+Asty also features in the [[2016]] [[video game]] ''[[LEGO Star Wars: The Force Awakens]]''. He is present at the Resistance base during an incident that started "a small [[fire]]" and led to the closing of the [[blast door]]s. Unlike his [[canon]] appearance, he survives the battle of Starkiller Base and has additional lines, including informing the player of damage. His figure can be bought at the D'Qar base.<ref name="LEGO Star Wars">[[LEGO Star Wars: The Force Awakens|''LEGO Star Wars: The Force Awakens'' video game]]</ref>
+
+===Background===
+{{Quote|Roger, lightspeed.|Asty during the deleted scene|Star Wars: Episode VII The Force Awakens}}
+The character was first revealed in his [[StarWars.com]] [[Databank (website)|Databank]] entry, released in advance of the film.<ref name="Databank" /> The action figure for the character was also released beforehand.<ref name="Hasbro" /> His name is a reference to the album ''[[wikipedia:Hello Nasty|Hello Nasty]]'' by the hip hop group [[wikipedia:Beastie Boys|Beastie Boys]], and the inscription on Asty's helmet, "Born to Ill," references their debut album ''[[wikipedia:Licensed to Ill|Licensed to Ill]]''.<ref name="Beasty Boys">{{Cite web|url=http://www.nme.com/filmandtv/news/new-star-wars-movie-features-character-named-after/389737|title=New 'Star Wars' movie features character named after Beastie Boys album|accessdate=2016-09-02|author=Nick Levine|date=2015-10-06|publisher=NME.com|archiveurl=http://www.webcitation.org/6kERu9Mmx|archivedate=2016-09-02}}</ref>
+
+[[File:Cai Threnalli.png|right|thumb|180px|C'ai Threnalli as seen at the end of ''The Force Awakens'']]
+The film's director [[J.J. Abrams]] said the name was a suggestion from the creature department, which he approved for both the Beastie Boys reference, having previously featured their song "Sabotage" in ''Star Trek'' and "Body Movin'" in ''Star Trek Into Darkness'', and the fact it served as a phonetic reference to his television show ''[[wikipedia:Lost (TV series)|Lost]].''<ref name="JJ's fandom">{{Cite web|url=https://www.yahoo.com/movies/j-j-abrams-confirms-name-1318519424016438.html|title=J.J. Abrams Confirms Name of New 'Star Wars' Character Is Nod to Both Beastie Boys and 'Lost'|accessdate=2016-09-02|author=Kevin Polowy|date=2015-12-10|publisher=Yahoo Movies|archiveurl=http://www.webcitation.org/6kESVVf5h|archivedate=2016-09-02}}</ref>
+
+Asty's costume was re-used for another Abednedo pilot, who was seen at the Resistance base during the celebration scene after the Battle of Starkiller Base.<ref name="Twitter #1">{{Twitter|pablohidalgo|status/703128144656478208|[[Pablo Hidalgo]]|quote=That's another Abednedo (well, it's the same costume, but we did see Ello die, so therefore, it's another one).|image=File:Other costume tweet.png}}</ref> The pilot was later identified as [[C'ai Threnalli]] in the "Escape from Starkiller Base" DLC expansion for [[LEGO Star Wars: The Force Awakens|''LEGO Star Wars: The Force Awakens'' video game]].<ref name="LEGO Star Wars" /><ref name="Twitter #2">{{Twitter|holocronkeeper|status/856883334948847616|[[Leland Chee]]|quote=That's the idea, yes. Could have been Ello Asty but then Ello died.|image=File:Cai Threnalli tweet.png}}</ref>
+
+In initial sources such as the character's Databank entry, it says the pilot is part of [[Blue Squadron (Resistance)|Blue Squadron]], but in the film ''Star Wars'': Episode VII ''The Force Awakens'' his call sign is Red Six. Later sources including ''[[Poe Dameron: Flight Log]]'' clarify that he is part of Red Squadron.<ref name="Episode VII" />
+
+''[[Star Wars: On the Front Lines]]'', a [[2017]] canon reference book by [[Daniel Wallace]], expands his backstory in a Tales of Valor profile. It introduces a minor continuity error when it says that Asty was shot down by a missile and not [[turbolaser]] fire.<ref name="Front Lines" />
+
+==Appearances==
+{{Imagecat|Images of Ello Asty}}
+*''[[The Chewbacca Story]]'' {{Imo}}
+*''[[Bloodline (novel)|Bloodline]]''
+*{{Resistance|The Children from Tehar}} {{C|Appears on holoscreen}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]] {{Imo}}
+*''[[Star Wars: The Force Awakens: A Junior Novel]]'' {{Imo}}
+*''[[The Force Awakens: Rey's Story]]'' {{Imo}}
+*''[[The Force Awakens: Finn's Story]]'' {{Imo}}
+*[[The Force Awakens (storybook)|''The Force Awakens'' storybook]] {{Imo}}
+*''[[The Force Awakens Read-Along Storybook and CD]]'' {{Imo}}
+*''[[Join the Resistance: Attack on Starkiller Base]]'' {{Imo}}
+*''[[The Fight in the Forest]]'' {{Imo}}
+*''[[The Force Awakens, Part VI]]''
+*''[[Captain Phasma, Part I]]'' {{C|fighter only}}
+*''[[Poe Dameron: Flight Log]]''
+*''[[Star Wars: The Last Jedi: Expanded Edition]]'' {{Imo}}
+*''[[Poe Dameron 28: The Awakening, Part III]]'' {{Flash}}
+
+===Non-canon appearances===
+*[[LEGO Star Wars: The Force Awakens|''LEGO Star Wars: The Force Awakens'' video game]]
+*[[LEGO Star Wars: The Force Awakens (DK Readers)|''LEGO Star Wars: The Force Awakens'' (DK Readers)]] {{Imo}}
+*[[LEGO Star Wars: The Force Awakens (Scholastic)|''LEGO Star Wars: The Force Awakens'' (Scholastic)]] {{Imo}}
+*''[[William Shakespeare's The Force Doth Awaken]]''
+
+==Sources==
+{{Scroll box|
+*{{HasbroCite|set=Star Wars: The Force Awakens (toy line)|text=''Star Wars: The Force Awakens'' (toy line)|pack=X-wing Pilot Asty|link=X-Wing-Pilot-Asty-The-Force-Awakens-Hasbro.asp}}
+*{{FFGXW|T-70 X-wing Expansion Pack|cardname=Ello Asty&mdash;T-70 X-wing}}
+*''[[The Art of Star Wars: The Force Awakens]]''
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Ultimate Sticker Collection: Star Wars: The Force Awakens]]'' {{Po}}
+*{{HasbroCite|set=Star Wars: The Black Series|pack=X-wing Pilot Asty|link=X-Wing-Pilot-Asty-14-The-Black-Series-6-inch-Ello-Hasbro.asp}}
+*{{SW|url=news/from-blast-that-x-wing-to-traitor-the-voices-of-star-wars-the-force-awakens|text=From "Blast That X-wing!" to "Traitor!": The Voices of ''Star Wars: The Force Awakens''}}
+*{{SW|url=news/its-the-resistance|text=It's the Resistance!}}
+*{{SW|url=films/star-wars-episode-7-the-force-awakens-story-gallery|text=Star Wars: The Force Awakens Story Gallery}} {{Imo}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*{{InsiderCite|165|50 Things to Notice in Star Wars: The Force Awakens}}
+*{{Topps|set=Star Wars: The Force Awakens Chrome|cardname=Ello Asty}}
+*{{Topps|set=Star Wars: The Force Awakens Chrome|cardname=Matt Stewart Sketch Card}}
+*{{SWYoutube|video=JUafi3EWBY8|text=Star Wars Archaeology Panel <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}
+*{{SWYoutube|video=qV_dg8Citm4|text=The Creatures, Droids and Aliens of Star Wars: The Force Awakens <nowiki>|</nowiki> Star Wars Celebration Europe 2016}}
+*''[[Star Wars: Aliens of the Galaxy]]''
+*''[[The Force Awakens: Movie Theater Storybook & BB-8 Projector]]'' {{Imo}}
+*''[[Star Wars: Aliens and Ships of the Galaxy]]'' {{C|reprint}}
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: Rebel Heroes]]'' {{Imo}}
+*{{SW|url=video/rebels-recon-inside-through-imperial-eyes|text=Rebels Recon: Inside "Through Imperial Eyes"}}
+*''[[Star Wars: The Visual Encyclopedia]]'' {{Po}}
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*''[[Star Wars: Aliens, Creatures, & Beasts]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
+*{{Databank|ello-asty|Ello Asty|archivedate=20170808074030}} {{1stm}}
+*{{Databank|resistance-pilots-biography-gallery|Resistance Pilots Biography Gallery|archiveurl=http://www.webcitation.org/6yQuNKtib}}; image #4 {{C|of 6}}}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SW|url=news/force-of-fashion-stories-told-on-rebel-helmets|text=Force of Fashion: Stories Told on Rebel Helmets}}
+*{{SW|url=news/quiz-how-well-do-you-know-star-wars-the-force-awakens|text=Quiz: How Well Do You Know ''Star Wars: The Force Awakens''?}}
+*{{SW|url=news/from-jyn-to-jaina-behind-the-scenes-of-star-wars-the-black-series|text=From Jyn to Jaina: Behind the Scenes of ''Star Wars'': The Black Series}}
+*{{SW|url=news/6-spectacular-rebel-and-resistance-demises|text=6 Spectacular Rebel and Resistance Demises}}
+
+{{Interlang
+|de=Ello Asty#kanon
+|el=Έλο Άστι
+|es=Ello Asty
+|fr=Ello Asty
+|it=Ello Asty
+|ja=エロー・アスティ
+|nl=Ello Asty
+|pl=Ello Asty
+|pt=Ello Asty
+|ru=Илло Эсти
+}}
+
+{{DEFAULTSORT:Asty, Ello}}
+[[Category:Abednedo]]
+[[Category:Cobalt Squadron personnel]]
+[[Category:Males]]
+[[Category:Precision air team personnel]]
+[[Category:Red Squadron (Resistance) personnel]]

@@ -1,0 +1,157 @@
+{{Eras}}
+{{Character
+|type=Jedi
+|image=[[File:LuminaraHS-SWE (new).png]]
+|name=Luminara Unduli
+|homeworld=[[Mirial]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=Sometime after [[Order 66]], the [[Spire (Stygeon Prime)|Spire]]<ref name="Rise of the Old Masters">{{Rebels|Rise of the Old Masters}}</ref>
+|species=[[Mirialan]]<ref name="Databank">{{Databank|luminara-unduli|Luminara Unduli}}</ref>
+|gender=[[Sexes|Female]]<ref name="Databank" />
+|height=1.76 [[meter]]s<ref name="Databank" />
+|mass=
+|hair=[[Color|Black]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|eyes=Royal-blue<ref name="DiD-book">[[Droids in Distress (book)|''Droids in Distress'' (book)]]</ref>
+|skin=Green {{C|with black tattoos}}<ref name="DiD-book" />
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="Databank" />
+**[[Jedi assault team]]<ref name="Episode II" />
+*[[Galactic Republic]]<ref name="Databank" />
+**[[41st Elite Corps]]<ref name="Cloak of Darkness">{{TCW|Cloak of Darkness}}</ref>
+|masters=
+|apprentices=[[Barriss Offee]]<ref name="Databank" />}}
+{{Quote|She was a great Jedi Master; brave, compassionate, disciplined.|[[Kanan Jarrus]]|Rise of the Old Masters}}
+'''Luminara Unduli''' was a [[Mirialan]] [[Sexes|female]] [[Jedi Master]] during the final days of the [[Jedi Order]]. She commanded the [[41st Elite Corps]] of the [[Grand Army of the Republic]], and was the master of [[Padawan]] [[Barriss Offee]]. Together, they fought in numerous battlefields of the [[Clone Wars]], before Offee turned against the Jedi Order and [[Bombing of the Jedi Temple hangar|bombed]] the [[Imperial Palace|Jedi Temple]].
+
+At the end of the war, Unduli fought in the [[Battle of Kashyyyk|battle]] on [[Kashyyyk]]. She was arrested and [[Death|executed]] after [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] issued [[Order 66]] and destroyed the Jedi Order. The [[Galactic Empire]] would later use her remains to attract and kill any Jedi that survived Order 66. One such trap was laid for [[Kanan Jarrus]] and the [[Spectres|crew]] of the ''[[Ghost]]'', who believed Unduli was alive and being [[Spire (Stygeon Prime)|imprisoned]] on [[Stygeon Prime]]. They mounted a [[Duel on Stygeon Prime|rescue mission]], only to discover that it was a trap by the [[The Grand Inquisitor|Grand Inquisitor]]. The rebels escaped with the knowledge that Unduli was dead and spread the word to dispell the ruse, preventing any more deaths in her name.
+
+==Biography==
+Before the [[Separatist Crisis]], Unduli took on a [[Padawan]], a fellow Mirialan named [[Barriss Offee]]<ref name="Databank" />; this was in keeping with the traditions of her people, as Mirialan Jedi were only to take their own as Padawans. Following an [[Plot to assassinate Padmé Amidala|assassination attempt]] on [[Naboo]] [[Senator]] [[Padmé Amidala]], she attended a meeting between the [[Jedi High Council|Jedi Council]] and [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] about the possibility of war between the Republic and the Separatists under [[Count]] [[Dooku]].<ref name="Episode II" /> She also met a [[Jedi youngling]], [[Kanan Jarrus|Caleb Dume]], who saw her as a "brave, compassionate, disciplined" Jedi and who respected her greatly.<ref name="Rise of the Old Masters" />
+
+===Clone Wars===
+====First Battle of Geonosis====
+[[File:Luminara Unduli Battle of Geonosis.png|thumb|250px|left|Unduli during the First Battle of Geonosis]]
+When it became apparent that a full-fledged [[Clone Wars|military conflict]] between the Galactic Republic and the Confederacy of Independent Systems would occur, Obi-Wan Kenobi was captured by the Confederacy on [[Geonosis]], and Unduli and her Padawan joined Master [[Mace Windu]]'s quickly launched rescue mission.<ref name="Episode II" />
+
+Housed within the packed arena were Obi-Wan Kenobi, Anakin Skywalker, and Senator [[Padmé Amidala]], who were to be tried and executed by the Confederacy leaders assembled on the world. As over two hundred Jedi crept into the arena, they ignited their lightsabers in challenge to [[Dooku|Count Dooku]], the leader of the Confederacy, who was personally overseeing the planned execution. A heated but short battle followed; over half of the assembled Jedi Knights fell in battle before Dooku called his forces to a halt. After the Jedi survivors rejected an offer of surrender in exchange for their lives, Dooku prepared to order their deaths and his forces prepared to shoot them down. Unduli raised [[Luminara Unduli's lightsaber|her lightsaber]], prepared to die fighting, but she and the others were saved by the arrival of [[Grand Master]] [[Yoda]], accompanied by the newly-created [[Grand Army of the Republic]] in several [[Low Altitude Assault Transport/infantry|gunships]]. When the gunships landed, Master Unduli boarded one alongside Masters [[Saesee Tiin]] and [[Shaak Ti]] and was airlifted to safety.<ref name="Episode II" />
+
+====Duel with Ventress====
+{{Quote|This assassin, I've&hellip; I've never faced an adversary like her. I should have listened to your advice.|Unduli to Ahsoka Tano, now knowing Asajj Ventress' capabilities|audio=IShouldHaveListened-CoD.ogg|Cloak of Darkness}}
+Later on, Unduli traveled to [[Rodia]] to escort captured [[Viceroy of the Trade Federation|Viceroy]] [[Nute Gunray]] to Coruscant for trial. The Jedi Master was joined by Anakin Skywalker's Padawan, [[Ahsoka Tano]]. Aboard the [[Venator-class Star Destroyer|''Venator''-class Star Destroyer]] ''[[Tranquility]]'', Unduli spearheaded the interrogations of the viceroy, whose denial of information cost Tano her patience. The Padawan threatened Gunray with her lightsaber, and though Unduli scolded the Padawan for using fear as a weapon, the viceroy agreed to "negotiate." Before any information could be gleaned, the ''Tranquility'' was attacked by [[Asajj Ventress]] and a battle droid squad, who had arrived to rescue Gunray.<ref name="Cloak of Darkness" />
+
+[[File:Luminara CoD.png|250px|right|thumb|Unduli facing Asajj Ventress]]
+After Unduli and [[Clone Commander]] [[CC-1004]], nicknamed "Gree," managed to destroy the army of [[B2 super battle droid|super battle droids]], the Jedi Master sensed that Tano was in danger and rushed to meet with her. Unduli arrived to assist the Padawan in confronting Ventress, who was cornered. However, while "surrendering," Ventress activated [[thermal detonator]]s that she had planted in the [[Star Destroyer]]'s reactor room, crippling the [[cruiser]], and escaped to the ravaged engine room. Although Tano offered to help, noting her past run-ins with Ventress and stating that the [[assassin]] was "too powerful for any one Jedi," Unduli unwisely pursued the assassin on her own, leaving Tano to guard Gunray.<ref name="Cloak of Darkness" />
+
+Finding and engaging Ventress in [[lightsaber combat]], Unduli was hampered by a wound to the left eye early in the battle and was eventually trapped beneath several pipes the Dark Acolyte collapsed on her from the ceiling, though she put up a good fight nonetheless. As Ventress moved to deal the killing blow, the Jedi Master was saved by the timely arrival of Tano, who had decided to disobey her orders in the interest of helping Unduli. The Mirialan accepted the Padawan's help for the continuing duel, but in the end, Ventress escaped with [[Senate Commando]] [[Captain]] [[Argyus]], who had defected to the Separatists and freed Gunray from Republic custody. Unduli and Tano transmitted the signal of the [[Consular-class space cruiser|Republic cruiser]] that the Separatists had used to escape the ''Tranquility'' to Jedi Master Kit Fisto,<ref name="Cloak of Darkness" /> who tracked Gunray to the third moon of [[Vassek]].<ref name="Lair of Grievous Ep Guide">{{SWArchive|url=theclonewars/guide/episode010.html|text=''The Clone Wars'' Episode Guide: Lair of Grievous|archivedate=20110629042618}}</ref> Unduli apologized to Tano for not taking her advice before the Padawan departed to rendezvous with her own Master.<ref name="Cloak of Darkness" />
+
+====Return to Geonosis====
+{{Quote|Gentlemen, if you are quite finished, we have a battle to begin.|Luminara Unduli to Obi-Wan Kenobi and Anakin Skywalker|audio=IfYouAreQuiteFinished-LaPR.ogg|Landing at Point Rain}}
+Luminara later returned to Geonosis to help Masters [[Ki-Adi-Mundi]] and Obi-Wan Kenobi [[Second Battle of Geonosis|destroy]] [[Poggle the Lesser]]'s [[Geonosis primary droid foundry|new droid foundry]] there. She attended the mission briefing before the invasion made planetfall and interceded in Kenobi and Skywalker's casual sniping, reminding them that they had a battle to fight.<ref name="L@PR">{{TCW|Landing at Point Rain}}</ref> Along with her Padawan, Barriss Offee, she joined Anakin Skywalker and Ahsoka Tano in the storming of the droid factory. While she and Skywalker acted as diversions, the two Padawans Offee and Tano made their way through the vast underground catacombs to destroy the factory. Unduli cut her way through dozens of battle droids alongside Skywalker, demonstrating her mastery of both her lightsaber and the Force, but was forced into a temporary retreat after the Separatists unveiled their new super tanks, whose ray shields and warhead launchers decimated the Republic ranks. Alongside Skywalker, Luminara placed explosives along the underside of the bridge the tanks were crossing and then watched as the detonation sent the tanks plummeting to their doom. She and Anakin then watched in horror as the factory exploded and collapsed with their Padawans inside; though Luminara was sadly accepting of Barriss' fate, Anakin refused to allow them to die and his faith was rewarded by a faint signal from Ahsoka underneath a large pile of rubble. Ecstatic to see her Padawan alive, Luminara congratulated both on the success of their mission but also counseled Skywalker on being prepared for the time when he would have to let his apprentice go. <ref name="WF">{{TCW|Weapons Factory}}</ref>
+
+[[File:Luminara-LoT.jpg|thumb|left|250px|Luminara prepares to pursue Poggle on Geonosis]]
+Following this, Unduli went in search of Poggle the Lesser, who had retreated into the catacombs of an ancient temple. While she and a trooper searched the temple, a sandstorm prohibited reinforcements from reaching their positions. While communicating with Masters Kenobi and Mundi via hologram, Unduli's clone trooper was killed by the undead hordes of the mysterious Hive Queen [[Karina the Great (Clone Wars)|Karina the Great]] and Unduli cut the communication whilst turning to face her attackers. Having been knocked unconscious and captured, the Jedi Master was taken before Karina. Jedi Kenobi and Skywalker came to her rescue; they were not far off when Luminara regained consciousness and wrestled her way out of the zombies' reach, only to find her usually crippling moves had no effect on the undead warriors. Realizing what they were up against, she contacted Kenobi to warn him not to come after her, but was cut off as the zombies overwhelmed her. The Jedi disregarded her warnings and continued their search until they came upon Karina's abode, where they found Luminara in an energy trap for her to be infested with brain worms. Luminara, much to her chagrin, nearly found herself infected due to Kenobi's eagerness to see how the process worked but resigned herself under the hope that it was all part of the plan. With Kenobi and Commander Cody delaying the zombies and the Queen, Skywalker freed Unduli and the two captured Poggle. Cody and his troops shot down the cave support, burying the Queen and taking Poggle prisoner.<ref name="WF" />
+
+===Death and legacy===
+{{Quote|Yes, I'm afraid Master Luminara died with the Republic, but her bones continue to serve the Empire, luring the last Jedi to their ends.|The Grand Inquisitor|Rise of the Old Masters}}
+[[File:41stelite.png|thumb|right|250px|Unduli with her troops on Kashyyyk]]
+By the end of the war, Unduli served alongside Yoda, Republic forces, and [[Wookiee]] warriors during a [[Battle of Kashyyyk|battle]] on the Wookiee [[homeworld]] of [[Kashyyyk]]. During the battle, [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] issued [[Order 66]], a command ordering all clone troopers to kill their Jedi commanders.<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref> Unduli evaded the fate that many of her fellow Jedi had,<ref name="Rise of the Old Masters" /> though for years it was believed she had been shot down by her troops on Kashyyyk.<ref name="Databank" /> In actuality, Unduli had been taken into custody by the Empire.<ref name="Rise of the Old Masters" /> The Jedi Order was destroyed, and Palpatine declared himself [[Galactic Emperor|Emperor]] and transformed the Republic into the [[Galactic Empire]].<ref name="Episode III" /> After a short time in the prison known as the [[Spire (Stygeon Prime)|Spire]] on [[Stygeon Prime]], she was executed in her cell in the presence of [[the Grand Inquisitor]], who then held her remains for future purposes of the Empire.<ref name="Dave Filoni Luminara">{{Cite web|publisher=IGN|title=Star Wars Rebels: Dave Filoni on the Luminara Twist in "Rise of the Old Masters"|url=http://www.ign.com/articles/2014/10/28/star-wars-rebels-dave-filoni-on-the-luminara-twist-in-rise-of-the-old-masters|accessdate=October 27, 2014}}</ref>
+
+[[File:Luminara's Remains.png|thumb|250px|left|Unduli's remains, held in the Spire]]
+After her death, rumours began to spread that Unduli had survived the Clone Wars and was still alive, with those rumours existing as late as fourteen years after the war ended. In reality, the Empire used Unduli's remains to lure Jedi survivors into traps so they could be killed, corrupting the Mirialan Master's memory. One such trap was laid by the Inquisitor fourteen years after the war, with Unduli's remains still held in the Spire. In an attempt to trick Jedi survivor Kanan Jarrus and the [[Spectres|rebel crew]] of the ''[[Ghost]]'' into a trap, former Imperial Senator [[Gall Trayvis]], a secret operative of the Empire, 'hacked' a [[HoloNet News]] transmission to proclaim that Unduli was being held in the [[Stygeon system]]. Jarrus and the crew determined that they would mount a [[Duel on Stygeon Prime|rescue mission]] to save Unduli. Jarrus, who remembered Unduli as a compassionate and capable Jedi, especially wanted to find her as he believed she would be a better teacher for his apprentice, [[Ezra Bridger]], than he had been.<ref name="Rise of the Old Masters" />
+
+The rebels infiltrated the Spire, with Jarrus and Bridger leading the search for the Jedi Master. They found the cell she appeared to be held in, where they saw a physical manifestation of her. Jarrus could sense her presence, but something about it felt wrong. Her physical manifestation (in reality a [[hologram]]) soon disappeared into a case on the wall, which contained Unduli's desiccating remains. It was at that moment that the Inquisitor revealed himself and attempted to kill the two Jedi, but the rebels were able to escape. The experience nonetheless helped teach Jarrus that he could train Bridger himself. Having survived the Inquisitor's trap, Jarrus resolved to spread the word that Luminara was dead and news of her imprisonment was being used as bait for exiled Jedi.<ref name="Rise of the Old Masters" /> During Jarrus's vision during his second visit to [[Lothal]]'s [[Lothal Jedi Temple|Jedi Temple]], a vision of Unduli's lightsaber was present in the [[Imperial Palace|Jedi Temple's]] [[Jedi Temple dojo|dojo]].<ref name="Shroud of Darkness TG">{{SW|url=tv-shows/star-wars-rebels/shroud-of-darkness-trivia-gallery|text=Shroud of Darkness Trivia Gallery|}}</ref>
+
+==Personality and traits==
+Luminara Unduli was known as a Jedi Master of great patience, bravery, compassion, and discipline and was held in great esteem by her colleagues. She was able to keep a cool head in any situation, even when about to be forcibly infected with brain worms, and was never known to show anger or even raise her voice. Though confident in her abilities as a Jedi, she greatly underestimated the prowess of the assassin Asajj Ventress and was only saved by the timely arrival of Ahsoka Tano, whose advice she had disregarded. However, she was humble enough to admit her mistake and was genuinely thankful to Tano for rescuing her. Luminara was also humorous on occasion, at one point stifling a snort of laughter at Anakin's "simple logic" approach to dealing with droids, and when she requested that some strategic planning be saved for her so she didn't feel left out.{{Fact}}
+
+==Powers and abilities==
+[[File:Windu, Fisto, & Unduli.jpg|thumb|243x243px|Luminara fought in the Battle of Geonosis]]
+Luminara was an extremely powerful and skilled Jedi Master, with few able to match her. Her skill with a lightsaber allowed her to duel Asajj Ventress on an even footing even with one eye impaired, an impressive feat as Ventress had managed to easily defeat several uninjured Jedi in the past. She was also skilled in unarmed combat, as demonstrated when she was disarmed and captured by undead Geonosian warriors, she was able to put up a decent fight despite being severely outnumbered and in handcuffs. Unduli possessed at least some skill in [[Form II]], as she was able to recognize it when Ventress applied it against her in battle, and was also known to adopt the classic [[Form III]] combat stance when preparing to fight. Luminara wore black robes and a headdress along with brass-coloured armbands and a sash, the latter two embossed with ornate symbols. She wielded a green-bladed lightsaber.{{Fact}}
+
+Luminara was also extremely strong in the Force, so much so that her bones still radiated her presence in it many years after her death, albeit corrupted slightly.
+
+==Behind the scenes==
+[[File:MaryOyaya-Luminara.jpg|thumb|175px|Mary Oyaya in costume as Luminara while on set during the filming of Attack of the Clones|left]]
+Luminara Unduli was played by [[Mary Oyaya]] in ''[[Star Wars: Episode II Attack of the Clones|Attack of the Clones]]'' and [[Fay David]] in ''[[Star Wars: Episode III Revenge of the Sith|Revenge of the Sith]]''. She was voiced by [[Olivia d'Abo]] in ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]''. Unduli was originally to have been depicted in [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] being killed as part of Order 66, but this scene was cut along with the deaths of Barriss Offee and [[Shaak Ti]]. Unused footage from ''Attack of the Clones'' was going to be used for this appearance.<ref>{{Cite web|publisher=C.C. Banana|title=C.C. Banana Interviews the Stars of STAR WARS!|url=http://www.ccbanana.com/main/interviews/starwars1.htm|accessdate=July 2, 2013}}</ref>
+
+==Appearances==
+{{Scroll box|
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*''[[Jedi of the Republic&mdash;Mace Windu, Part I]]'' {{Flash}}
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]
+*{{TCW|Destroy Malevolence|Destroy ''Malevolence''}} {{Hologram}}
+*{{TCW|Rookies}} {{Flash}}
+*{{TCW|Cloak of Darkness}}
+*{{TCW|Lair of Grievous}} {{Hologram}}
+*{{TCW|Holocron Heist}}
+*{{TCW|Landing at Point Rain}} {{Hologram}}
+*{{TCW|Weapons Factory}}
+*{{TCW|Legacy of Terror}}
+*{{TCW|Brain Invaders}}
+*{{TCW|Grievous Intrigue}} {{Hologram}}
+*{{TCW|The Deserter}} {{Flash}}
+*{{TCW|Gungan Attack}} {{Hologram}}
+*{{TCW|Secret Weapons}} {{C|Appears in [[hologram]] in flashback(s)}}
+*''[[Star Wars: Forces of Destiny—Ahsoka & Padmé]]'' {{Mo}}
+*{{TCW|The Rise of Clovis}}
+*{{TCW|Voices}}
+*{{TCW|Destiny (episode)|Destiny}} {{Vision|[[Yoda]]}}
+*''[[Kanan 7: First Blood, Part I: The Corridors of Coruscant]]''
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+*''[[Solo: A Star Wars Story: Tales from Vandor]]'' {{Mo}}
+*[[Droids in Distress (book)|''Droids in Distress'' book]] {{C|Appears as a hologram and a corpse}}
+*''[[The Secret Jedi: The Adventures of Kanan Jarrus: Rebel Leader]]'' {{C|Appears as a hologram and a corpse}}
+*{{Rebels|Rise of the Old Masters}} {{C|Appears as a hologram and a corpse}}
+*''[[The Inquisitor's Trap]]'' {{C|Appears as a hologram and a corpse}}
+*''[[Sabine My Rebel Sketchbook]]'' {{Mo}}
+*''[[The Mighty Chewbacca in the Forest of Fear!]]'' {{Mo}}}}
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+*''[[LEGO Star Wars: The Force Awakens]]'' {{C|DLC}}
+
+==Sources==
+*{{SWArchive|url=theclonewars/guide/episode205.html|text=''The Clone Wars'' Episode Guide: Landing at Point Rain}}
+*{{SWE|characters|argyus|Captain Argyus}}
+*{{SWE|characters|luminaraunduli|Luminara Unduli}}
+*{{SW|url=films/star-wars-episode-ii-attack-of-the-clones|text=''Star Wars'': Episode II ''Attack of the Clones''}}
+*''[[Star Wars Rebels: The Visual Guide]]'' {{Imo}}
+*{{SW|url=video/star-wars-rebels-a-look-ahead|text=Star Wars Rebels: A Look Ahead}}
+*{{InsiderCite|156|Star Wars Rebels Recounted}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*{{LEGOCite|rots|75151|Clone Turbo Tank}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]'' {{Po}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Lightsaber Battles]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}}
+*{{Databank|brain-worm|Brain worm|archivedate=20170623052652}}
+*{{Databank|luminara-unduli|Luminara Unduli}}
+*{{Databank|yoda|Yoda|archivedate=20140703043000}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|el=Λουμινάρα Αντούλι
+|fr=Luminara Unduli
+|ka=ლუმინარა უნდული
+|ko=루미나라 운둘리
+|pl=Luminara Unduli
+|ru=Луминара Ундули
+|uk=Лумінара Ундулі
+}}
+
+{{DEFAULTSORT:Unduli, Luminara}}
+[[Category:Females]]
+[[Category:Jedi Generals]]
+[[Category:Jedi Masters]]
+[[Category:Jedi Purge victims]]
+[[Category:Mirialans]]

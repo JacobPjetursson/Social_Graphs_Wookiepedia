@@ -1,0 +1,43 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Morley-SWE.png]]
+|name=Morley
+|homeworld=[[Lotho Minor]]<ref name="Databank">{{Databank|morley|Morley}}</ref>
+|birth=
+|death=[[20 BBY]], [[Lotho Minor]]<ref name="Brothers">{{TCW|Brothers}}</ref>
+|species=[[Anacondan]]<ref name="Databank" />
+|gender=[[Sexes|Male]]<ref name="Databank" />
+|height=4.7 [[meter]]s long<ref name="Databank" />
+|mass=
+|hair=
+|eyes=[[Color|White]]<ref name="Databank" />
+|skin=
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+{{Quote|I'm Morley. I could help you. We've got everything here. I can get you what you want. For the right amount of course.|Morley, to Savage Opress|Brothers}}
+'''Morley''' was a [[Sexes|male]] [[Anacondan]] native to [[Lotho Minor]] who lived during the [[Clone Wars]]. Morley helped provide the former [[Sith Lord]] [[Maul|Darth Maul]] with food in his exile in return for the "leftovers." Morley later encountered Maul's brother, [[Savage Opress]], whom the Anacondan tricked into finding Maul without realizing that Opress intended to in fact find and help his brother. When Morley found that Maul had not [[Death|killed]] Opress, he retreated from the scene. However, before he could escape, Opress grabbed Morley by the neck and strangled him. He then threw Morley's corpse into a fire out of anger.<ref name="Brothers" />
+
+==Appearances==
+*{{TCW|Brothers}} {{1st}}
+*{{TCW|Revival (episode)|Revival}} {{Flash}}
+
+==Sources==
+*{{SW|url=tv-shows/clone-wars/brothers|text="Brothers" Episode Guide}}
+*{{SW|url=news/drawing-from-the-imagination-mythological-creatures-in-star-wars-part-1|int=Drawing from the Imagination: Mythological Creatures in Star Wars|text=Drawing from the Imagination: Mythological Creatures in ''Star Wars'', Part 1|archivedate=20170908061455}}
+*{{SWE|characters|darthmaul|Darth Maul}}
+*{{SWE|groups|junkers|Junkers}}
+*{{SWE|characters|morley|Morley}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|morley|Morley}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Anacondan]]
+[[Category:Males]]
+[[Category:Scavengers]]
+[[Category:Sith minions]]

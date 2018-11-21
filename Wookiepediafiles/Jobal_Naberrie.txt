@@ -1,0 +1,55 @@
+{{Eras}}
+{{Character
+|type=
+|image=[[File:Jobal Naberrie Canon.png]]
+|name=Jobal Naberrie
+|homeworld=[[Naboo]]<ref name="Force Collection">''[[Star Wars: Force Collection]]''</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|gender=[[Sexes|Female]]<ref name="Episode III" />
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="Episode III" />
+|eyes=Brown<ref name="Episode III" />
+|skin=Light<ref name="Episode III" />
+|cyber=
+|era=
+|affiliation=[[Naberrie family]]<ref name="Force Collection" />
+|masters=
+|apprentices=}}
+'''Jobal Naberrie''' was a [[human]] [[Sexes|female]] from the [[planet]] [[Naboo]]. A member of the [[Naberrie family]],<ref name="Force Collection" /> she was the [[Parent|mother]] of [[Sola Naberrie]] and [[Padmé Amidala]].<ref name="Card Trader">[[Star Wars: Card Trader|''Star Wars'': Card Trader]]</ref> Her younger daughter, who was [[Reproduction|born]] Padmé Naberrie before assuming the name Amidala, served as [[Monarch of Naboo|queen]] and later as the [[Senator|representative]] of their [[homeworld]] in the [[Galactic Senate]] during [[Fall of the Republic|final years]] of the [[Galactic Republic]].<ref name="Padme Databank">{{Databank|padme-amidala|Padmé Amidala}}</ref>
+
+==Biography==
+===Early life===
+At some point of her life, Jobal married a man named [[Ruwee Naberrie]] and they have two daughters, named [[Sola Naberrie|Sola]]{{Fact}} and [[Padmé Amidala|Padmé Naberrie]].<ref name="BioGal1" >{{Databank|padm-amidala-biography-gallery|Padmé Amidala Biography Gallery}} {{C|Image 1 caption}}</ref> Through her elder daughter, she became the grandmother of [[Ryoo Naberrie|Ryoo]] and [[Pooja Naberrie]]. When Padmé turned [[26 BBY|fourteen years]], she [[Coronation of Queen Amidala|was]] [[Democracy|elected]] [[Monarch of Naboo|Queen of Naboo]] and adopted the name of "Padmé Amidala".<ref name="BioGal1" />
+
+===Death of Padmé===
+[[19 BBY|Three years later]], following the end of the [[Clone Wars]] and the execution of [[Order 66]], Jobal, Ruwee and Sola attended the [[Funeral of Padmé Amidala|funeral]] of Padmé after her [[death]] at [[Polis Massa]].<ref name="Episode III" />
+
+==Personality and traits==
+Jobal Naberrie had brown [[hair]], brown [[eye]]s, and light skin.<ref name="Episode III" />
+
+==Behind the scenes==
+In deleted scenes for [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']], Jobal Naberrie was established as the mother of Padmé Amidala.<ref name="Episode II deleted scenes">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] deleted scenes</ref> She was portrayed by [[Trisha Noble]], who reprised the role for Amidala's funeral in [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']].<ref name="IMDb">{{Imdb|url=name/nm0633682/|text=Trisha Noble}}</ref> Jobal's backstory was expanded upon in [[Star Wars Legends|''Star Wars'' Legends]] stories, but these stories are currently non-[[canon]].
+
+==Appearances==
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{Del}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}}
+
+==Sources==
+*''[[Star Wars: Force Collection]]'' {{1stID}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Jobal Naberrie
+}}
+
+{{DEFAULTSORT:Naberrie, Ruwee}}
+[[Category:Females]]
+[[Category:House Naberrie]]
+[[Category:Humans]]

@@ -1,0 +1,114 @@
+{{Eras}}
+{{Update|[[Lando's Luck]], [[Flight of the Falcon, Part 1: Spy Games]]}}
+{{Expand}}
+{{Character
+|type=Criminal
+|image=[[File:Bazine Netal SWI165.png]]
+|name=Bazine Netal
+|homeworld=[[Chaaktil]]<ref name="ECUC">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="PerfectWeapon">"[[The Perfect Weapon]]"</ref>
+|gender=[[Sexes|Female]]<ref name="PerfectWeapon" />
+|height=1.7 [[meter]]s<ref name="ECUC" />
+|mass=55 [[kilogram]]s<ref name="TFA head to head">''[[Star Wars: The Force Awakens: Head-to-Head]]''</ref>
+|hair=[[Color|Black]]<ref name="TFA">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+|eyes=Yellow<ref name="TFA" />
+|skin=Fair<ref name="TFA" />
+|cyber=
+|era=
+|affiliation=*[[Delphi Kloda's combat school]]<ref name="PerfectWeapon" />
+*[[First Order]] {{C|As an [[Spy|informant]]}}<ref name="TFA" />
+|masters=
+|apprentices=}}
+{{Quotetrans|Inform the First Order&hellip; I've found the droid.|Bazine Netal, to the First Order|Star Wars: Episode VII The Force Awakens}}
+'''Bazine Netal''' was a [[human]] [[Sexes|female]] [[mercenary]]. She was present in [[Maz Kanata's castle]] approximately thirty [[Standard year|years]] after the [[Battle of Endor]]. Netal informed the [[First Order]] of the presence of [[BB-8]] in [[Maz Kanata|Kanata's]] castle.
+
+==Biography==
+===Early life===
+{{Quote|My bedtime stories were tales of bloody pirate raids. My friends were grizzled murderers who taught me how to punch. My jump rope was a garrote. But it was better than the orphanage.|Bazine Netal|The Perfect Weapon}}
+Netal was born on the [[planet]] [[Chaaktil]] with a name that she would later keep secret. As a child, she was taken from an [[Chaako City orphanage|orphanage]] in [[Chaako City]] by [[Delphi Kloda]] and raised in Kloda's [[Delphi Kloda's combat school|combat school]]. There she learned a range of deadly [[Hand-to-hand combat|martial arts]]. Kloda nicknamed her "[[Chaakrabbit]]."<ref name="PerfectWeapon" />
+
+===First assignment===
+When Netal was fourteen [[Standard year|years]] old, Kloda sent her to steal an item from one of his [[Delphi Kloda's competitor|competitors]]. She was quickly discovered by her mark, who burned her with a [[flamethrower]]. Despite this, Netal was able to [[Death|kill]] her attacker and complete her goal, though she was left with burn scars on the left side of her scalp.<ref name="PerfectWeapon" />
+
+Thereafter, Netal became a feared [[bounty hunter]] and master of disguise, learning from teachers other than Kloda as well. At some point, she adopted the pseudonym "Bazine Netal." She based her operations on Chaaktil around [[Suli's cantina]].<ref name="PerfectWeapon" />
+
+===Mission to Vashka===
+[[File:Bazine Netal EaW.png|left|thumb|250px|Netal armed with a thermal detonator]]
+Six years after having left Chaako [[City]], Netal received an assignment from an anonymous client. Her assignment was to retrieve a [[steel]] case which was in the possession of former [[Galactic Empire|Imperial]] [[stormtrooper]] [[Jor Tribulus]]. Netal's client warned her that a competitor known as "[[Narglatch]]" would also be hunting for the case.<ref name="PerfectWeapon" />
+
+Netal visited Kloda in order to borrow his [[Starship|ship]], the ''[[Sparrowhawk]]''. Kloda leant her the vessel on the condition that she take Kloda's student, the skilled [[Pantoran]] [[slicer]] [[Orri Tenro]], along on her mission as a part of his training. Reluctantly, Netal agreed, hoping that Tenro's slicing ability would outweigh the risk he posed to her [[Mission to Vashka|mission]]. As they left for the planet [[Vashka]], Tenro proved to be incompetent with anything aside from [[computer]]s.<ref name="PerfectWeapon" />
+
+On Vashka, Netal and Tenro infiltrated the [[Vashka City Medcenter One|medcenter]] where Tribulus was most recently recorded as a patient. There they were able to learn the location of Tribulus's [[Vashka Valley Retirement Facility 48|retirement facility]]. Before disembarking for that site, Netal injected Tenro with a [[poison]] which rendered him unconscious.<ref name="PerfectWeapon" />
+
+Netal then discovered that the retirement home had been overtaken by [[Vashkan apidactyl|apidactyls]]. She made her way inside the building by distracting the apidactyls with a [[thermal detonator]]. There she met [[Aric Nightdrifter]], a retired stormtrooper who had been living in the building, and he led her to Tribulus's remains.<ref name="PerfectWeapon" />
+
+Netal was taken by surprise when Kloda appeared and revealed that he was Narglatch, and he had raised Netal for the sole purpose of sending her after the case in order to steal it himself. After taking the case from Tribulus's corpse and disarming Netal, Kloda trapped Netal in the grave of apidactyl [[wax]] and escaped.<ref name="PerfectWeapon" />
+
+Using the materials Nightdrifter had buried with Tribulus, Netal was able to escape the building. She threw a detonator ahead of Kloda's narglatch, creating a hole in the ground and trapping Kloda. After a brief struggle, Netal killed Kloda and returned to the ''Sparrowhawk'' with the case.<ref name="PerfectWeapon" />
+
+===First Order spy===
+[[File:Bazine reporting.png|thumb|right|250px|Netal reported a sighting of BB-8 to the First Order.]]
+During the [[First Order]]'s [[Cold war|conflict]] with the [[Resistance]], Netal served as one of the Order's [[Spy|spies]]. When she was at [[Maz Kanata]]'s [[Maz Kanata's castle|castle]] on [[Takodana]], Netal posed as [[Grummgar]]'s girlfriend.{{Fact}} As soon as the ''[[Millennium Falcon]]''{{'}}s captain [[Han Solo]] arrived with [[Rey]], [[Finn]], and [[BB-8]], she informed the Order of the [[droid]]'s location.<ref name="TFA" />
+
+==Personality and traits==
+Bazine Netal was intelligent and calculating, traits that served her well in her job. She was also elusive, as she was skilled at playing lowly aliens and would not reveal her past to anyone.<ref name="PerfectWeapon" /> She was extremely secretive as well.{{Fact}}
+
+Bazine Netal was a [[human]] [[Sexes|female]]<ref name="PerfectWeapon" /> who stood at 1.7 [[meter]]s.<ref name="ECUC" /> She had [[Color|black]] [[hair]],<ref name="PerfectWeapon" /> dark eyes<ref name="PerfectWeapon" /> and fair skin.<ref name="TFA" />
+
+==Equipment==
+Netal used [[Rishi eel ink]] to conceal her fingerprints. She also kept several small thermal detonators inside the hollow wedges of her boots.<ref name="PerfectWeapon" />
+
+==Behind the scenes==
+Bazine Netal first appeared in the short story "[[The Perfect Weapon]]," written by [[Delilah S. Dawson]].<ref name="PerfectWeapon" /> She was portrayed by [[Anna Brewster]] in [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']].<ref name="Imdb">{{Imdb|title/tt2488496/fullcredits/|Star Wars: The Force Awakens (2015) &ndash; Full Cast & Crew}}</ref>
+
+==Appearances==
+*''[[Lando's Luck]]''
+*{{IDWAdventuresCite|14|[[Flight of the Falcon, Part 1: Spy Games]]}}
+*{{IDWAdventuresCite|15|[[Flight of the Falcon, Part 2: The Planet of Misfit Droids]]}}
+*"[[The Perfect Weapon]]" {{1st}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens: A Junior Novel]]''
+*[[The Force Awakens (Golden Book)|''The Force Awakens'' Golden Book]] {{Po}}
+*''[[Chaos at the Castle]]''
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part III]]''
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*{{SW|url=video/star-wars-the-force-awakens-comic-con-2015-reel|text=Star Wars: The Force Awakens &ndash; Comic-Con 2015 Reel}}
+*{{SW|url=news/journey-to-the-force-awakens-panel-at-new-york-comic-con-recap|text=Journey to ''The Force Awakens'' Panel at New York Comic Con &ndash; Recap}}
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Ultimate Sticker Collection: Star Wars: The Force Awakens]]''
+*''[[The Art of Star Wars: The Force Awakens]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*{{Destiny|Empire at War (Star Wars: Destiny)|Empire at War|cardname=Bazine Netal}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|bazine-netal|Bazine Netal|archivedate=20170706030454}}
+*{{Databank|grummgar|Grummgar|archivedate=20170706044702}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Bazine Netal#kanon
+|el=Μπεϊζίν Νετάλ
+|ja=バジーン・ネタル
+|ka=ბაზინი ნეტალი
+|nl=Bazine Netal
+|pl=Bazine Netal
+|ru=Базини Нетал
+}}
+
+{{DEFAULTSORT:Netal, Bazine}}
+[[Category:Females]]
+[[Category:First Order individuals]]
+[[Category:Humans]]
+[[Category:Mercenaries]]
+[[Category:Spies]]

@@ -1,0 +1,302 @@
+{{Eras}}
+{{Update|[[Jedi of the Republic—Mace Windu, Part V]], [[Star Wars Lightsabers: A Guide to Weapons of the Force]]}}
+{{Character
+|type=Jedi
+|image=[[File:KiAdiMundi.jpg]]
+|name=Ki-Adi-Mundi
+|homeworld=[[Cerea]]<ref name="Mundi Databank">{{Databank|ki-adi-mundi|Ki-Adi-Mundi}}</ref>
+|birth=
+|death=[[19 BBY]], [[Mygeeto]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|species=[[Cerean]]<ref name="Mundi Databank" />
+|gender=[[Sexes|Male]]<ref name="Mundi Databank" />
+|height=1.98 [[meter]]s<ref name="Mundi Databank" />
+|mass=
+|hair=[[Color|White]]<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|eyes=Yellow<ref name="Episode I" />
+|skin=Light<ref name="Episode I" />
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="Mundi Databank" />
+**[[Jedi High Council]]<ref name="Episode I" />
+**[[Jedi assault team]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+*[[Galactic Republic]]<ref name="Mundi Databank" />
+**[[Galactic Marines]]<ref name="Episode III" />
+|masters=
+|apprentices=}}
+{{Quote|Good luck, General."<br />"There is no such thing as luck.|Admiral Yularen And Ki-Adi-Mundi talking before the second campaign of Geonosis.|Landing at Point Rain}}
+'''Ki-Adi-Mundi''', a [[Force-sensitive]] [[Cerean]] [[Sexes|male]], was a [[Jedi Master]] and member of the [[Jedi High Council]] during the last [[Standard year|years]] of the [[Galactic Republic]]. By the [[time]] of the [[Clone Wars]], Mundi became a [[Jedi General]] of the [[Grand Army of the Republic]]. Like his [[Jedi]] colleagues, he led the Republic [[clone trooper]]s against the [[Confederacy of Independent Systems|Separatist Alliance]] [[Confederacy military|forces]] in several battles across [[the galaxy]], including the [[Battle of Geonosis|first]] and [[Second Battle of Geonosis|second campaign]] on [[Geonosis]] and the [[Outer Rim Sieges]]. In [[19 BBY]], the third and final year of the war, Mundi oversaw the [[Assault on Mygeeto|Republic invasion]] of [[Mygeeto]] with the [[Galactic Marines]] under his command. During the campaign, [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] instructed the Grand [[Army]] [[soldier]]s to execute their Jedi leaders in accordance with [[Order 66]], an act which resulted in the [[death]] of Mundi along with the majority of the [[Jedi Order]].
+
+==Biography==
+===Naboo Crisis===
+By the [[time]] of the naboo [[Invasion of Naboo/Legends|crisis]], Mundi had achieved the rank of [[Jedi Master]]. [[Qui-Gon Jinn]] approached the [[Jedi High Council|Jedi Council]], describing a [[Duel on Tatooine|lightsaber duel]] [[Sexes|he]] had on [[Tatooine]] with a [[Zabrak]]. Jinn believed the warrior to be a [[Sith]], a claim that the Council, and Mundi in particular, met with skepticism. Jinn also brought [[Anakin Skywalker]] in front of the [[Jedi]] Council, the boy had a high [[Midi-chlorian]] count and had a good grasp on [[the Force]], but the Council denied his and Jinn's wishes to [[Jedi training|train]] him as a Jedi, believing he was too old, and had much fear in him. Following the [[Battle of Naboo|death]] of Jinn at the hands of the warrior [[Maul|Darth Maul]], the Council reversed their decision to allow Skywalker to be trained. Mundi traveled to [[Naboo]] for Jinn's [[Funeral of Qui-Gon Jinn|Funeral]].<ref name="Episode I" />
+
+[[File:Mundi @ Carnelion IV.jpg|thumb|left|250px|Mundi and other Jedi on Carnelion IV.]]
+[[29 BBY|Several years later]], Mundi traveled with a Republic task force to [[Carnelion IV]] where they [[Mission to Carnelion IV|rescued]] Kenobi and Skywalker and also ended the [[Open-Closed War|war]] between the [[Open]] and [[Closed]] human inhabitants of the world.<ref name="OW&A 5">''[[Obi-Wan & Anakin, Part V]]''</ref>
+
+===The Clone Wars===
+====Genesis of the Clone Wars and Geonosis====
+{{Quote|He is a political idealist, not a murderer.|Ki-Adi-Mundi, to Padmé Amidala, about Count Dooku|Star Wars: Episode II Attack of the Clones}}
+[[File:Yoda mace windu ki-adi-mundi aotc.jpg|thumb|250px|[[Yoda]], Mace Windu and Ki-Adi-Mundi discussing the threat of the [[Confederacy of Independent Systems|Separatist movement]].]]
+Just before the dawn of the [[Clone Wars]], Mundi attended a meeting with [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] in his [[Emperor's office|office]], along with fellow Jedi [[Mace Windu]], [[Yoda]], [[Plo Koon]], [[Kit Fisto]], [[Luminara Unduli]] and [[Barriss Offee]]. Palpatine explained an alarming number of [[star system]]s were [[Separatist Crisis|breaking away]] from the [[Galactic Republic]] to join the [[Confederacy of Independent Systems]], a Separatist movement led by the former Jedi Master [[Count]] [[Dooku]]. The [[Galactic Senate|Senate]] was to consider a vote on the establishment through the [[Military Creation Act]], a move Palpatine claimed he wished to avoid if possible, as some feared it could lead to war with the Separatists. As the meeting concluded, [[Senator]] [[Padmé Amidala]] of Naboo, who had just survived an [[Plot to assassinate Padmé Amidala|assassination attempt]], arrived and explained she believed Dooku was the behind the attack. Windu reminded Amidala that Dooku had been a Jedi once, and Mundi reasoned that he was simply a [[Politics|political]] idealist.<ref name="Episode II" />
+
+Later, when [[Obi-Wan Kenobi]] reported that the [[bounty hunter]] [[Jango Fett]] was behind the [[assassin]]ation attempts on Amidala, Mundi and the Council ordered Kenobi to track the [[bounty]] hunter down, and commanded Skywalker to bring Amidala safely back to Naboo. Later, Mundi listened along with the rest of the Jedi High Council to a message from Kenobi, who had tracked Fett to the [[Geonosian droid factories|droid foundries]] of [[Geonosis]], where it appeared the [[Trade Federation]] was about to take delivery of a [[Separatist Droid Army|droid army]]. Kenobi explained Trade Federation [[Viceroy of the Trade Federation|Viceroy]] [[Nute Gunray]] was behind the attempts on Amidala's life. Kenobi's transmission was interrupted as he was attacked by a [[droideka]]s, prompting a meeting between Mundi, Yoda, Windu, Palpatine and Senators [[Bail Organa]], [[Ask Aak]], [[Jar Jar Binks]] and [[Mas Amedda]]. When the Jedi explained only about 200 fellow Jedi were available to go to Geonosis to stop the [[Confederacy military|Separatist forces]] from assembling, the current senator of Naboo, Jar Jar Binks made plans to vote Palpatine emergency powers so he could call the recently-discovered [[Grand Army of the Republic|clone army]] into battle.<ref name="Episode II" />
+
+Windu assembled a [[Jedi strike team|strike team]] of Jedi to rescue Kenobi on Geonosis. Mundi was among the Jedi who traveled to the planet's surface and infiltrated the [[Petranaki arena|arena]], where Kenobi, Skywalker and Amidala were about to be [[Death|executed]]. Mundi appeared at a ledge overlooking the arena along with [[Aayla Secura]] and Koon, all of whom ignited their [[lightsaber]]s as Windu personally confronted Dooku. Although they were desperately outnumbered by the Separatist [[Droid]] [[Army]], Mundi and his fellow Jedi engaged the droids in a bloody [[Battle of Geonosis|battle]].<ref name="Episode II" />
+
+[[File:Yoda mace windu ki-adi-mundi battle of geonosis.jpg|thumb|left|250px|Ki-Adi-Mundi aboard a gunship during the battle on [[Geonosis]].]]
+After several tense [[Standard minute|minutes]] of fighting, the majority of the Jedi were slain and Dooku's forces gained the upper hand, rounding Mundi and the other surviving Jedi into the center of the arena. Before he could kill them, however, the Jedi were rescued by the Republic's newly-acquired [[Cloning|clone]] army, led into the arena by Yoda aboard [[Low Altitude Assault Transport/infantry]]s. As the [[gunship]]s opened [[fire]] on the droids, the Jedi resumed their lightsaber battle against the droids, with Mundi deflecting [[blaster]] shots and fighting back-to-back with Amidala.<ref name="Episode II" />
+
+The [[Cerean]] helped Fisto get aboard before taking off and escaping the arena. As they flew away, Yoda insisted to Windu and Mundi that they must attempt to prevent Dooku's escape or he would rally more systems to his cause. Windu ordered the [[pilot]] to land in an assembly area in the [[desert]]. Mundi continued to fight until the Separatists ordered a full retreat. Mundi was one of the few Jedi to survive the battle at Geonosis, which formally marked the beginning of the [[Clone Wars]].<ref name="Episode II" />
+
+====Calming Mace Windu====
+{{Quote|Thank you for taking the time to speak with me, my old friend.''"<br />"''To put your mind at ease is to place the Galaxy in steady hands.|Mace Windu and Ki-Adi-Mundi| Jedi of the Republic—Mace Windu, Part I}}
+Shortly after the battle of Geonosis, Mundi met with Windu via [[hologram]] to discuss the battle. The two of them discussed how so many Jedi were [[death|killed]] in the battle, and that those Jedi would be missed, but that it was good that they were one with the Force. The two old friends also discussed how the Clone Wars were upon the [[Galaxy]], with Windu stating he felt uneasy about leading the Clone Army, but stated that sometimes they must be offensive. Mundi then remarking the title of General must be added to the Jedi among their other titles. The two raised their cups to peace and the fallen. Mundi was also at the Council meeting a short time later, [[Mission to Hissrich|assigning]] Windu to go to [[Hissrich]].<ref name="Jedi of the Republic—Mace Windu, Part I">''[[Jedi of the Republic—Mace Windu, Part I]]''</ref>
+
+Later, Mundi was present via hologram for the Council meeting where Windu reported his mission to be a success. However, during the mission, one of [[Mace Windu's squad|Windu's team]], [[Tenth Brother|Prosset Dibs]], had turned against them and attempted to murder Windu. He was therefore brought before the Council to stand trial for this. Mundi chastised Dibs for his actions, which were deemed both treasonous and heretical, but nevertheless gave him the chance to defend himself. Dibs refused to find fault in his actions, insisting that the Council were the ones in the wrong and they were twisting the Jedi Code for their own selfish gain. Ultimately, Dibs was found guilty of treason and, at the request of Windu, sentenced to confinement in the [[Jedi Archives]].<ref name="Mace Windu 5">''[[Jedi of the Republic&mdash;Mace Windu, Part V]]''</ref>
+
+====Return to Geonosis====
+{{Dialogue|Mundi|Sixty-five, Skywalker.|Skywalker|Um, sorry?|Mundi|My total&mdash;65. So what do I win?|Skywalker|[pause] My everlasting respect, Master Mundi.|Mundi|Oh.|Kenobi|That is a gift Anakin rarely bestows, I assure you.|attr=Ki-Adi-Mundi, Skywalker and Kenobi discuss enemy kills|audio=MyEverlastingRespect-LaPR.ogg|src=Landing at Point Rain}}
+Although Geonosis had been captured by the Republic at the onset of the Clone Wars, resistance from the [[Geonosian]] natives and their loyalty to Count Dooku proved stronger than the [[Jedi Order]] anticipated, and the Jedi soon discovered Separatist leader [[Poggle the Lesser]] had established several [[battle droid]] [[Factory|foundries]] on the planet capable of creating thousands of weapons.<ref name="LaPR">{{TCW|Landing at Point Rain}}</ref> The Jedi Council dispatched Mundi, Kenobi and Unduli to lead a massive clone army [[fleet]] to [[Second Battle of Geonosis|retake Geonosis]] and destroy the droid foundries, the destruction of which was viewed as essential to the Republic war effort. Aboard the [[Bridge (starship)|bridge]] of one of the [[Star Destroyer]]s during the voyage, Mundi and Kenobi lamented at the Republic's failure to recognize how loyal the native Geonosians remained to the Confederacy.<ref name="LaPR" />
+
+[[File:GeonosisPlanning.png|thumb|250px|The Jedi plan their assault of Geonosis.]]
+Later, a [[hologram]] meeting session was held between Mundi, Kenobi, Skywalker, Unduli, [[Ahsoka Tano]], Palpatine, Yoda and Windu to discuss the battle plan. Mundi, Kenobi and Skywalker were to lead three separate fronts of a three-pronged attack on a [[Ray shield]] Fortress generator, which protected the [[Geonosis primary droid foundry|primary droid foundry]] where Poggle had established his command post. Mundi and [[CC-1993|Jet]] were to lead a northern advance through the Geonosian defense lines to a [[staging area]] called [[Point Rain]] a short distance from the [[Deflector shield generator|shield generator]]. The [[troop]]s would establish a defensive perimeter around the staging area, where Mundi's forces would meet up with those of Kenobi and Skywalker, who would be coming in after leading their forces through central and southern advances, respectively. Once they rendezvoused, the three Jedi were to combine their forces on an attack against the shield generator. Mundi suggested if either of the three forces were met with heavy resistance that prevented them from reaching the staging area on time, the others should wait until they arrive before advancing on the shield generator.<ref name="LaPR" />
+
+With their planning complete, the Jedi split up to mobilize forces for the upcoming battle. Shortly after Kenobi and Skywalker's men entered the battle, Mundi boarded an LAAT/i gunship and launched along with Jet and a [[company]] of [[Clone trooper|clones]] aboard the ''[[Resolute]]'', the [[flagship]] of [[Admiral]] [[Wullf Yularen]]. Mundi led several other gunships into the battle and were immediately met with extremely heavy gunfire. Several of the [[Starship|ships]] among Mundi's forces were destroyed, and Mundi quickly lost contact with Skywalker after his own gunship was shot down. Many of the ships were carrying [[All Terrain Tactical Enforcer]]s and Mundi ordered them to be dropped to the ground right away, before they were all destroyed all with the gunships. Immediately after issuing this order, the gunship was struck by enemy fire and crashed onto the planet surface below. Many of the clones aboard were killed but Jet and Mundi survived, although the Cerean was injured. Jet reported that only Kenobi's forces made it to the staging area, and that Skywalker and his men had crashed were caught in a firefight with the Geonosians.<ref name="LaPR" />
+
+[[File:KiAdiMundiGeonosis-LaPR.png|thumb|left|250px|Ki-Adi-Mundi fighting beside special ops clone troopers on Geonosis]]
+Mundi ordered the injured among his men to be loaded onto the AT-TE [[walker]], and then for the forces to move forward toward a nearby bridge, where Mundi hoped to meet up with Skywalker's forces on their way to Kenobi's position. As the forces traveled through a large [[caltrop field]], Mundi went up ahead and used his lightsaber to cut down the giant caltrops so his walkers could pass them unharmed. Jet requested air support from Yularen, but the admiral denied the request, claiming all [[starfighter]]s and other resources were engaged elsewhere in the planetary invasion. Upon arriving at a trail leading up to a clifftop [[cave]], Mundi split up his forces, ordering the AT-TE walkers to take the longer route to Kenobi's position while the Jedi took a squad of 13 clones to investigate what Mundi believed was a shortcut through the cave. Mundi admitted to Jet he did not know for sure the cave would be a faster route, but could only trust his instincts. After entering the cave, which disrupted their communications, Mundi sensed an incoming presence and ordered his men to take defensive positions just as a swarm of winged Geonosian warriors attacked them.<ref name="LaPR" />
+
+Several of the clones were swept up and carried deeper into the cave to be killed, but Mundi ordered the men not to stop and continue pushing forward. Despite heavy casualties, Mundi's men cut their way through the cave, and upon reaching the other side, the Cerean ordered his [[clone flametrooper]]s to fire their [[flamethrower]]s. Most of the remaining Geonosians were killed, allowing Mundi and his surviving troops to exit the cave. Afterward, Mundi made contact with Skywalker, who informed him the path to the staging area was now clear but that Kenobi's forces were being overwhelmed by the enemy there. Upon a request for air support from Skywalker, Yularen dispatched a [[BTL-B Y-wing|Y-wing]] [[bomber]] [[squadron]], which bombed the advancing Separatist tanks just as Mundi, Skywalker and Tano arrived at Kenobi's position. The Jedi regrouped and determined that, despite their losses, their combined forces were still sufficient to destroy the shield generator. Skywalker took a small force through the shield barrier and jammed the Geonosians' scanners, which freed the AT-TE walkers to fire upon the shield generator without risk of being targeted. Once the generator was destroyed, Mundi led the rest of the clone troopers into the battle via gunships.<ref name="LaPR" />
+
+[[File:SecondGeonosis.jpg|thumb|250px|Ki-Adi-Mundi, Ahsoka Tano and Anakin Skywalker leading troops at the conclusion of the Geonosis battle.]]
+After they landed, the remaining Geonosians at the Ray Shield [[Fortress]] were outnumbered by the clones and forced to surrender, marking the end of that phase of the battle. The injured Mundi and Kenobi were unable to continue with the rest of the attack, and were to be taken back to the [[Republic Navy|fleet]] along with the other injured [[soldier]]s for [[bacta tank]] treatment. Skywalker was left in charge of the remaining [[Republic military|Republic forces]], which were to set out for Poggle's primary droid foundry. Before departing the planet, Mundi overheard Skywalker and Tano boasting about their number of kills during the battle, and the Cerean noted that his own kill total of 65, which was greater than that of either of the two other Jedi and thus earned Skywalker's respect. Mundi and the rest of the injured left the planet,<ref name="LaPR" /> while Skywalker and Unduli later led a successful effort to destroy the primary droid foundry.<ref name="Weapons Factory">{{TCW|Weapons Factory}}</ref>
+
+By the time Mundi recovered from his injuries in the bacta tank, he was aboard a Jedi [[transport]] docked at a Geonosian landing zone. Anxious to return to the mission at hand, Mundi reviewed strategic charts and maps to help continue the search for Poggle, who had escaped the primary droid foundry. Mundi and Kenobi were contacted via holocomm by Unduli, who had been tracking Poggle and believed he was hiding at the nearby [[Progate Temple]]. Mundi felt that location was unlikely because little would have survived the first wave of Republic attacks there, which would leave Poggle to exposure at the temple. Unduli nevertheless decided to investigate, despite Mundi's warnings against it due to an incoming [[sandstorm]]. The storm left the Jedi unable to leave the transport and provide Unduli assistance and, when Skywalker grew concerned that she failed to report in several hours later, Mundi urged him to have patience.<ref name="LegacyTerror">{{TCW|Legacy of Terror}}</ref>
+
+When Unduli finally reported back, she explained Poggle had been tracked to the temple, and her holocomm transmission cut out just as she was attacked by unseen assailants. Skywalker wished to rescue her immediately, but Mundi and Kenobi said they had no choice but to wait for the sandstorm to die down. Later, Mundi stayed behind while Kenobi and Skywalker led forces into the temple to rescue her. After getting attacked by Geonosians infected with [[brain worm]]s, the Jedi tried to send clone [[trooper]]s to Mundi for reinforcements, but they were killed and the message never reached him. Kenobi and Skywalker ultimately succeeded in rescuing Unduli and taking Poggle [[prisoner]].<ref name="LegacyTerror" />
+
+====Post-Geonosis service====
+{{Quote|I'm afraid we have a complication.''"<br>"''Don't we always?|Ki-Adi-Mundi and Anakin Skywalker|Brain Invaders}}
+[[File:RexJediBrainInvaders.png|thumb|left|250px|Clone Captain Rex, Obi-Wan Kenobi, Anakin Skywalker, Luminara Unduli and Ki-Adi-Mundi shortly after the battle of Geonosis.]]
+As they prepared to take Poggle back to [[Coruscant]], Mundi received a transmission from Windu on [[Dantooine]]. Although Windu's forces had fended off an [[Battle of Dantooine (Clone Wars)|attack]] there, they had suffered heavy casualties and were in immediate need of medical supplies from a [[Ord Cestus medical station|medical station]] at [[Ord Cestus]]. Mundi informed the others, who decided to send Tano and Offee to pick up the supplies while Mundi, Kenobi and Unduli took Poggle back to Coruscant to be interrogated. Later, on the [[Venator-class Star Destroyer|''Venator''-class Star Destroyer]] making the voyage back to Coruscant, Skywalker informed Mundi, Kenobi, Unduli and [[Clone Captain|Captain]] [[Rex]] that the ship carrying Tano and Offee has been [[Skirmish aboard TB-73|infected]] by Geonosian [[brain]] [[worm]]s. Skywalker later interrogated Poggle alone and learned the brain words were susceptible to cold [[temperature]]s. When Mundi asked Skywalker how he convinced Poggle to talk, the [[Jedi Knight]] declined to answer, and the Cerean was unaware that Skywalker used violent methods to achieve his means.<ref name="Brain Invaders">{{TCW|Brain Invaders}}</ref>
+
+====Capture of Eeth Koth====
+[[File:The general's transmission.jpg|thumb|280px|The Jedi Council watches Grievous's torture of Koth.]]
+Mundi was present at the [[Imperial Palace|Jedi Temple]] when the Council viewed a hologram transmission from [[General]] [[Grievous]], who had [[Capture of Eeth Koth|captured]] [[Eeth Koth]]. Upon discovering Koth secretly used hand signals in the message to indicate he was in the [[Saleucami]] [[Saleucami system|system]], the Council assigned Skywalker, Kenobi and [[Adi Gallia]] to [[Battle of Saleucami|rescue]] him.<ref name="Grievous Intrigue">{{TCW|Grievous Intrigue}}</ref>
+
+====Jedi in distress====
+Some [[Standard week|weeks]] later, Mundi also viewed a holocomm strategy session led by Koon on Coruscant along with Tano and Secura, who were interrupted by the [[astromech droid]] [[R2-D2]]. When R2 projected a message that Skywalker and Windu were trapped on [[Vanqor]] and in grave danger, Koon prepared his ship for an immediate rescue.<ref name="R2 Come Home">{{TCW|R2 Come Home}}</ref>
+
+====Mysterious transmission====
+Not too long afterward, Mundi and the rest of the Council received a report from Admiral [[Nils Tenant|Tenant]] about a mysterious transmission that had been intercepted in the [[Chrelythiumn system]]. Although the source for and reason behind the call were unknown, Tenant reported that it contained a Jedi [[distress signal]] that had not been used in more than 2,000 [[Standard year|years]].<ref name="Overlords">{{TCW|Overlords}}</ref>
+
+====A plot to abduct the Chancellor====
+[[File:KenobiMockFuneral-Deception.png|thumb|left|250px|Mundi attends the mock funeral.]]
+Sometime after that, the Council learned that Dooku schemed to abduct Chancellor Palpatine at the [[Festival of Light]] on Naboo. As a result of this, the Council hatched a plan to thwart Dooku's efforts. Kenobi would fake his death by assassination and then pose as [[Rako Hardeen]] to infiltrate Dooku's cadre of bounty hunters and provide information to the kidnapping itself. Mundi attended the [[Funeral of Obi-Wan Kenobi|mock funeral]] for Kenobi.<ref name="Deception">{{TCW|Deception}}</ref>
+
+====The return of Maul====
+{{Quote|He is a broken, unbalanced monster. I have dealt with him before, I can do it again.|Obi-Wan Kenobi addresses Mundi and the other Jedi of his ability to confront Darth Maul.|Revenge (episode)}}
+Sometime afterwards the Jedi received an extraordinarily shocking transmission sent from the [[Outer Rim Territories|Outer Rim]] planet of [[Raydonia]] by [[Darth]] Maul - the [[Sith Lord]] that killed Qui-Gonn Jinn on Naboo years earlier. Mundi and Koon watched Maul's transmission via hologram, as Maul [[Massacre on Raydonia|massacred]] a [[Raydonian settlement|village]] of people ordering Kenobi face him alone. Kenobi went against Windu's wishes of caution and headed out to [[Skirmish above Raydonia|face]] the resurrected Sith [[Lord]] alone.<ref name="Revenge">{{TCW|Revenge (episode)|Revenge}}</ref>
+
+====Crisis on Mandalore====
+{{Quote|Without involvement from the Separatists, if this is an internal affair for the Mandalorians, I'm afraid we cannot help.''"<br />"''We cannot just hand Mandalore over to these crime families and left Satine become a martyr.''"<br />"''I'm afraid her decision to keep Mandalore neutral makes this situation difficult.|Ki-Adi-Mundi and Obi-Wan Kenobi debate about assisting Satine Kryze.|The Lawless}}
+Mundi, along with Yoda, announced to Kenobi that [[Duke|Duchess]] [[Satine Kryze]] had asked for his help to free [[Mandalore]] from [[Shadow Collective|criminals]]. Mundi argued that the Jedi would not be able to help her, because intervening on neutral Mandalore would be considered an act of war. Nevertheless, Kenobi secretly traveled to Mandalore to [[Mandalorian civil war (Clone Wars)|assist]] his former lover.<ref name="The Lawless">{{TCW|The Lawless}}</ref>
+
+====Attack on the Jedi Temple====
+[[File:TempleBombingFuneral.png|thumb|250px|Mundi attendes the funeral for the six deceased Jedi.]]
+Sometime later the [[Jedi temple]] was [[Bombing of the Jedi Temple hangar|attacked]] by an unknown assailant. The attack killed six Jedi, maintenance crew and clone soldiers within the Jedi Temple [[hangar]]. As a result of this attack, [[Grand Master]] Yoda contacted Skywalker and Tano, recalling them from the [[Defense of Cato Neimoidia|battle]] on [[Cato Neimoidia]] to question witnesses and lead the investigation. In the [[Jedi Council Chamber|Council chamber]], the Council briefed Skywalker and Tano as to what they needed to do. Windu told them to be on alert and to not make any assumptions. The Council also aired out their concern that someone within the Jedi would have turned to the [[Dark side of the Force|dark side]] and committed the act. Soon after, it was discovered that [[Anti-Jedi sentiment|anti-Jedi]] activist [[Letta Turmond]] fed her [[Marriage|husband]], Jedi Temple worker [[Jackar Bowmani]], [[nano-droid]]s which unwittingly caused him to explode, thus causing the damage to the hangar bay.<ref name="Sabotage">{{TCW|Sabotage (episode)|Sabotage}}</ref> Shortly after Turmond's arrest, Mundi and the rest of the Council attended a joint [[Funeral of the Jedi Temple bombing victims|funeral]] for the six Jedi&mdash;including Jedi Knight [[Tutso Mara]]&mdash;that perished.<ref name="The Jedi Who Knew Too Much">{{TCW|The Jedi Who Knew Too Much}}</ref>
+
+====Fugitive Padawan====
+{{Quote|Your Padawan status will be stripped from you, and you shall forfeit all rank and privileges within the Grand Army of the Republic. You will be turned over to the Republic court to await your trial, and whatever punishment they will set for you. Henceforth, you are barred from the Jedi Order.|Ki-Adi-Mundi informing Ahsoka Tano of her expulsion from the Jedi Order and transfer to Republic custody|The Wrong Jedi}}
+Sometime after that, the Council learned that Tano had been arrested by [[Clone Commander]] [[CC-1010|Fox]] after she allegedly murdered the [[Prison|imprisoned]] Turmond via [[the Force]]. Soon after that, Tano broke free and [[Escape from the Republic military base|escaped]] a [[Naval Intelligence headquarters|Republic military base]], eventually reaching the [[Underworld portal|portal]] to the [[Coruscant underworld]]. Skywalker, Fox and Rex failed to re-apprehend Tano as she made her getaway.<ref name="The Jedi Who Knew Too Much" />
+
+After that, the Council held a meeting to discuss the course of action to take. Koon and Skywalker were sent with [[Clone Commander|Commander]] [[CC-3636|Wolffe]] and Rex to find Tano and bring her back into Jedi custody. Their search led them to the Coruscant Underworld level of [[Level 1315]], where Tano was found in a [[Abandoned munitions warehouse|warehouse]] with crates full of nano-droids.<ref name="TCAJ">{{TCW|To Catch a Jedi}}</ref>
+
+A little while later, the Council received a transmission from Admiral [[Wilhuff Tarkin]], who made it clear that Tano should be expelled from the Jedi Order so that she could be dealt with by the Republic in a more easier fashion. Once the transmission ended, Kenobi strongly suggested that the Council side with Tano,<ref name="TWJ">{{TCW|The Wrong Jedi}}</ref> but Mundi, [[Saesee Tiin]] and Windu refused,<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref> noting that in addition to the evidence against her, failing to comply could be regarded as an act of opposition to the Senate. Yoda then stated that Tano should come before them in the [[Chamber of Judgment]] alongside her master, Skywalker.<ref name="TWJ" />
+
+Mundi was a part of that meeting, seated alongside Kenobi, Windu, Koon, Yoda and [[Shaak Ti]]. Although Tano insisted she was innocent, Mundi remained unconvinced and pointed out the fact that Tano was alone with Letta Turmond when she died. Ultimately, Windu closed the matter by formally expelling Tano from the Jedi Order. As Tano's platform lowered, Mundi informed her that she was banished from the Jedi Order, and therefore stripped of her Padawan status. In addition, her battlefield privileges were revoked and she was subsequently remanded to the custody of the Republic.<ref name="TWJ" />
+
+Afterward, a military [[Trial of Ahsoka Tano|trial]] was held for Tano. But before the verdict could be given out for Tano, Skywalker burst into the room and revealed that the true culprit that framed Tano was Offee, who openly confessed to her crimes and claimed that the Jedi had fallen to the dark side by fighting in the Clone Wars. As a result, Offee was imprisoned while Tano was cleared of all charges.<ref name="TWJ" />
+
+Following Tano's acquittal, the Council personally invited her to rejoin the Order, with Mundi and Tiin praising her efforts to prove her innocence, and Windu observing her ordeal as the [[Jedi Trials|great trial]] in her path to Jedi Knighthood.<ref name="Bio gallery">{{Databank|ki-adi-mundi-biography-gallery|Ki-Adi-Mundi Biography Gallery}}</ref> But, to Mundi and the others' aghast, Tano refused to come back, having become disillusioned with both herself and the Jedi as a result of the Council's lack of faith in her.<ref name="TWJ" />
+
+====Tyranus revealed====
+While on a [[Mission to Oba Diah (Clone Wars)|mission]] to uncover the secrets regarding the [[Mission to Oba Diah (pre–Naboo Crisis)|death]] of Master [[Sifo-Dyas]], Skywalker and Kenobi learned that the mysterious "Tyranus," who helped to create the clone army was in fact Dooku. The Council realized the implications of this, that Dooku had helped to create the army he was fighting against, but decided to keep these revelations a secret as it would damage the war effort, and the Jedi trusted the clones they'd fought alongside.<ref name="tLO">{{TCW|The Lost One}}</ref>
+
+====Specter of the past====
+Yoda informed the Council that he had been contacted by the [[Force spirit|spirit]] of Qui-Gonn Jinn. Mundi and the Council [[Meditation|meditated]] with him, but none could hear the voice. Mundi suggested that Yoda may be affected by the Sith, and as Yoda slept in the Temple's medical ward, suggested that Yoda's relationship with Dooku may have left him vulnerable. After Yoda emerged from a deprivation ritual, claiming to have spoken to Qui-Gon, Mundi remained skeptical.<ref name="Voices">{{TCW|Voices}}</ref>
+
+====Rescuing Quinlan Vos====
+Mundi attended a Council meeting to discuss rescuing Master [[Quinlan Vos]], who had been captured by Dooku while on an undercover [[Mission to Raxus|mission]] to assassinate the Separatist [[Head of State|leader]]. Mundi was also aware about the damage that Dooku's new right-hand man "Admiral Enigma" (who was actually Vos) had inflicted on the Republic. He advocated capturing him in order to prevent another Sith Lord from being let loose in [[the galaxy]]. After learning from Admiral Yularen that Enigma's [[Providence-class dreadnought|''Providence''-class dreadnought]] was planning to attack [[Taris]], the Council decided to authorize a [[Rescue of Quinlan Vos|mission]] to rescue Vos. In addition, the Council agreed to pardon [[Asajj Ventress]], Dooku's former [[Sith apprentice]] in return for helping to rescue Vos.<ref name="Dark Disciple">''[[Dark Disciple]]''</ref>
+
+Following the rescue of Vos, Mundi was present at a Council meeting where Vos was assigned to lead a Jedi and Republic mission to [[Destruction of the Separatist supply storage base|raid]] a [[Separatist supply storage base]] for supplies. Mundi reported that the base contained medications, weapons, ship repair materials, and [[foodstuff]]s that would be of valuable assistance to desperate worlds. Unknown to the Council, Vos was secretly colluding with Dooku in order to discover the identity of Darth Sidious so that he could destroy the Sith Order. Vos leaked intelligence of the Republic raid to Dooku and planted explosives which destroyed much of the supplies in the [[asteroid]].<ref name="Dark Disciple" />
+
+After the failed asteroid heist and another [[Destruction of the Vanqor listening post|failed raid]] on a [[Vanqor listening post|Separatist]] [[listening post]] on [[Vanqor]], Mundi took part in a Council emergency meeting to discuss Vos' [[treason]] against the Jedi. During the meeting, he cited Offee's actions as a sign that the Jedi had a problem with traitors within their own ranks. He supported Windu's suggestion that they should execute Vos as a deterrent. When Kenobi recommended banishing him, Mundi argued that Vos posed a serious threat to the [[galaxy]] due to status as a highly-trained Jedi Master who had turned to the dark side. In the end, the Council decided to test Vos' loyalty by sending him on a mission to kill Dooku.<ref name="Dark Disciple" />
+
+Later, Mundi was present when the Council deliberated including Ventress in this mission. Mundi supported Vos' arguments that Ventress should come along on the grounds that the Council had given her a full pardon. Ventress informed the Council that Dooku was last sighted in a Separatist dreadnought above [[Christophsis]]. The Council's suspicions were proven when Vos failed to kill Dooku and instead attempted to force the Sith Lord to lead him to Darth Sidious. Kenobi and the Skywalker apprehended Vos but the turncoat Jedi and Dooku escaped to Christophsis, leading to the events of the [[Second battle of Christophsis]]; which ended in Vos' redemption.<ref name="Dark Disciple" />
+
+====Execution on Mygeeto====
+{{Quote|Come on!|Ki-Adi-Mundi's last words, and order to his Clones|Star Wars: Episode III Revenge of the Sith}}
+[[File:The Death of Ki-Adi-Mundi.png|thumb|left|250px|Ki-Adi-Mundi is shot to death by his own clone troopers on Mygeeto following Order 66.]]
+Mundi was leading the [[Galactic Marines]] in a charge across a bridge on [[Mygeeto]] when Palpatine enacted [[Order 66]], and Clone [[Commander]] [[CC-1138|Bacara]] ordered the other marines to open fire.<ref name="Ultimate Star Wars" /> Realizing too late he had been betrayed by his clone troopers, Mundi raised his lightsaber and deflected a handful of the shots, sending them hurling back toward the clones. However, one of the blasts struck Mundi in the [[stomach]], which rendered him incapable of defending himself from a subsequent barrage of shots. Dropping his lightsaber, Mundi was riddled with blaster fire and fell to the ground, dead.<ref name="Episode III" />
+
+===Legacy===
+Three years before the [[Battle of Yavin]], Mundi's lightsaber was seen in former Jedi [[Padawan]] [[Kanan Jarrus]]'s vision of the Jedi Temple's [[Jedi Temple dojo|dojo]] during his second visit to [[Lothal]]'s [[Lothal Jedi Temple|Jedi Temple]].<ref name="SoD">{{rebels|Shroud of Darkness}}</ref>
+
+==Personality and traits==
+Ki-Adi-Mundi was a Cerean male who had [[Color|white]] [[hair]], yellow [[eye]]s, light skin and a height of 1.98 [[meter]]s.<ref name="Mundi Databank" /> He was a logical and methodical Jedi Master who was well-known for his wisdom,<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> his noble thinking,<ref name="SWTVE">''[[Star Wars: The Visual Encyclopedia]]''</ref> and his courage. Like other Cereans, he was highly intelligent due to his binary brain, which allowed him to observe both sides of a situation simultaneously.<ref name="Character Encyclopedia" />
+
+In Mundi's opinion, the adventurous natures of Jedi Knight Anakin Skywalker and his Padawan Ahsoka Tano were unusual.<ref name="Character Encyclopedia" /> Like his fellow Jedi Master Luminara Unduli, he was disturbed by Skywalker's brutal interrogation methods on Poggle the Lesser shortly after Poggle's capture during the Second Battle of Geonosis.<ref name="Mundi Databank" />
+
+Mundi had a tendency to refute unlikely events.<ref name="SWTCVDNE">''[[Star Wars: The Complete Visual Dictionary, New Edition]]''</ref> For example, he doubted Qui-Gonn Jinn's contention that the Sith had returned,<ref name="Mundi Databank" /> arguing that such a notion was "impossible" because they had not been sighted for a [[millennium]]. He was also dubious about Count Dooku's possible involvement in an assassination attempt on Senator Padmé Amidala, believing he was incapable of violence or murder because of his Jedi past.<ref name="Episode I" /> When Ahsoka Tano was framed for treason, the evidence against her, as well as the wish to keep the relationship between the Jedi Order and the Galactic Senate undamaged, led Mundi and the Council to expel Tano from the Order and turn her over to the Republic military. However, after her innocence was proven and the real traitor apprehended, Mundi joined his colleagues in offering to reinstate Tano into the Order, praising her efforts to prove her innocence and stating that she had shown the "true sign of a Jedi Knight."<ref name="TWJ" /> He was aghast when she instead chose to walk away from the Order.<ref name="Bio gallery" />
+
+==Powers and abilities==
+[[File:KiAdiMundi1-SWE.jpg|thumb|200px|Stoic Jedi, Ki-Adi-Mundi]]
+Mundi was a lightsaber expert, possessing at least some skill with [[Form II|Makashi]].<ref name="CW2DVD">[[Star Wars: The Clone Wars The Complete Season Two|''Star Wars: The Clone Wars'' The Complete Season Two]]</ref> Mundi also had extremely fast reflexes which allowed him to react in time to defend himself for a short while after his clone troopers attacked him after the enactment of Order 66. While he was ultimately killed in the encounter, Mundi was able to deflect several shots and kill two of his troopers before they killed him.<ref name="Episode III" />
+
+==Behind the scenes==
+===Concept and design===
+{{Quote|When I first saw the design, I just thought it was amazing, because it incorporates so many different things. To me, he looks part Native American and part European, and he's got a wonderful, wise face. Once I'd seen that design, I had a pretty good idea of what he should be like.|[[Silas Carson]]|Star Wars Insider 55}}
+[[File:MundiConceptArt.jpg|thumb|left|140px|Concept art of Ki-Adi-Mundi for ''[[Star Wars: Episode I The Phantom Menace|The Phantom Menace]]''.]]
+[[File:Ki adi mundi eyepatch concept art.jpg|thumb|120px|Ultimately unused concept art of Ki-Adi-Mundi from ''[[Star Wars: Episode III Revenge of the Sith|Revenge of the Sith]]'']]
+Ki-Adi-Mundi was designed by artistic director and concept designer [[Iain McCaig]] for the first film of the ''[[Star Wars]]'' [[prequel trilogy]], ''[[Star Wars: Episode I The Phantom Menace|The Phantom Menace]]'' ([[1999]]). The design for what eventually became Mundi began when ''Star Wars'' creator and executive producer [[George Lucas]] asked McCaig to draw sketches for alien characters to be featured on the Jedi High Council. In doing so, McCaig experimented by drawing some unusual parodies of the elderly Obi-Wan Kenobi, including one with whale-like features, and an elongated head with ridges along the back of the neck.<ref name="Art of Episode I">''[[The Art of Star Wars Episode I: The Phantom Menace]]''</ref> While drawing early conceptual sketches of the Jedi characters for the final film in the trilogy, ''[[Star Wars: Episode III Revenge of the Sith|Revenge of the Sith]]'' ([[2005]]), concept artist [[Derek Thompson]] proposed a version of Mundi that had lost his left eye during the battles of the Clone Wars and now wore an [[eye patch]] along with a black and gold cape. The concept was ultimately not used in the final film.<ref name="Art of Episode III">''[[The Art of Star Wars Episode III: Revenge of the Sith]]''</ref>
+
+===Film portrayal===
+{{Quote|I enjoy playing this very wise man who is part of the great council. You get the feeling that he is kind of like your uncle, because he's this nice, kind, wise, protective master. I always think that way of him.|[[Silas Carson]]|Star Wars Insider 55}}
+Ki-Adi-Mundi was portrayed by [[Silas Carson]] in all three prequel films. Carson originally auditioned for the supporting role of a fighter pilot role, but the character was eliminated from the script a few days after the audition.<ref name="SWI55">{{InsiderCite|55|Silas Carson: Hero with a Thousand Faces}}</ref><ref name="EHerald">"Actor Silas tackles three roles in Phantom" (July 14, 1999). ''Evening Herald'': p. 14</ref> However, George Lucas screened a video of Silas' audition and was so impressed he encouraged the actor to accept the role of Mundi,<ref name="EHerald" /> which led him to play the other parts as well. In addition to appearing on-screen, Carson also performed Mundi's voice, mimicking that of an elderly man who speaks slowly and deliberately.<ref name="SWI55" /> During the filming of ''The Phantom Menace'', executive producer [[George Lucas]] had not yet decided whether he would keep Carson's voice or dub in that of another actor, as he had done for several other characters, but Lucas found he liked Carson's vocal performance and decided to keep it.<ref name="SWI55" /><ref>Hendry, Steve (July 15, 1999). "The light fantastic". ''[[Wikipedia:Edinburgh Evening News|Edinburgh Evening News]]'': p. 1.</ref> To create Mundi's movements, Carson spent time with elderly people and watched the ways they moved and spoke.<ref name="SWI44">{{InsiderCite|44|Silas Carson: Manic Mundi}}</ref> In crafting Mundi's manner of speech, Carson said he spoke slowly not only because of the Jedi's age, but because he believed Mundi was wise and would not waste his words.<ref name="SWI44" />
+
+[[File:Lieutenant Williams.png|thumb|left|180px|Ki-Adi-Mundi was portrayed in the [[prequel trilogy]] by [[Silas Carson]], who also played [[Nute Gunray]], [[Lott Dod]] and [[Antidar Williams/Legends|Antidar Williams]].]]
+Lucas did not give Carson any backstory from which to build his performance as Mundi, but simply left it up to the actor to create.<ref name="SWI55" /> Once the shooting of each film was completed, Carson did not know right away whether he would be returning for the next film. According to ''[[Star Wars Insider]]'' writer [[Scott Chernoff]], Lucas, producer [[Rick McCallum]] and casting director [[Robin Gurland]] were so impressed with Carson's four performances in ''The Phantom Menace'' that they decided to expand upon Mundi's role in the second film.<ref name="SWI55" />
+
+The Mundi costume and prosthetics were designed by the [[Industrial Light & Magic]] visual effects creature shop.<ref name="SWI44" /> They included a prosthetic head, fake hair and two cheek pieces that were built and glued onto Carson's face so they would actually move along with his facial reactions.<ref name="SWI44" /><ref>{{InsiderCite|83|Multiple Personality}}</ref> During the first film, it took about four hours to apply Mundi's make-up and prosthesis,<ref name="SWI44" /> but in the later films the process was narrowed down to three hours.<ref name="SWI55" /> However, while the process took longer to prepare for Mundi than it did for Nute Gunray or Lott Dod, Carson said the Mundi make-up was less hot and comfortable to wear than those other character and that he would often walk around off-set and forget he had the make-up on at all.<ref name="SWI55" /><ref name="SWI44" /> During filming for ''[[Star Wars: Episode II Attack of the Clones|Attack of the Clones]]'' ([[2002]]), the make-up artists used a different brand of make-up glues and removers, causing Silas' skin to break out due to allergies.<ref name="SWI55" /> Silas was trained by stunt coordinator [[Nick Gillard]] for his lightsaber scenes in ''Attack of the Clones''. Upon learning Mundi would be fighting in that film, Carson worked out a great deal before filming began to get physically fit, and claimed he was even outrunning some of the [[Wikipedia:Stunt performer|stunt performers]]. For these scenes, Carson decided that although Mundi appeared slow and frail at normal times, he should be fast and strong while fighting, although the actor struggled to maintain the balance between those two different aspects of the character.<ref name="SWI55" />
+
+[[File:Ki-adi-mundi green lightsaber.jpg|thumb|250px|Ki-Adi-Mundi is shown with a green-bladed [[lightsaber]], while he has a blue lightsaber in all other scenes.]]
+Mundi is the only sitting Jedi High Council member other than Yoda and Windu to have a speaking role in the final cut of the first three films.<ref name="Episode III" /><ref name="Episode I" /> In ''Attack of the Clones'', Mundi can be seen fighting with a green-bladed lightsaber during a shot when he stands back-to-back with Padmé Amidala. The character uses a blue-bladed lightsaber in every other shot in the film, including those that come immediately before and after that particular shot.<ref name="Episode II" /> A scene was partially filmed for ''Attack of the Clones'' in which Mundi and Plo Koon led a group of Jedi on a raid of a Trade Federation ship during the battle of Geonosis. This scene did not appear in the final version of the film, but the rough cut and animations later became available on the official website for registered [[Hyperspace: The Official Star Wars Fan Club|Hyperspace]] customers.<ref>{{Hyperspace|url=hyperspace/member/video/droidcontrolship.html|text=Jedi Attack on the Droid Control Ship|int=}}</ref> That rough cut was also included among the deleted scenes for ''Attack of the Clones'' in the ''[[Star Wars: The Complete Saga]]'' [[Wikipedia:Blu-ray Disc|Blu-ray]] collection, which was released in September [[2011]].<ref name="BlurayScene">''[[Star Wars: The Complete Saga]]'', Disc 7, Star Wars Archives: Episode II Deleted Scene: Raid on the Droid Control Ship and Extended Arena Fight</ref>
+
+===Other appearances===
+Ki-Adi-Mundi was voiced by [[Brian George]] in the [[Star Wars: The Clone Wars (TV series)|2008 series]].
+
+==Appearances==
+{{Scroll_box|content=
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+*[[The Phantom Menace (Golden Book)|''The Phantom Menace'' Golden Book]]
+*''[[The Phantom Menace Read-Along Storybook and CD]]''
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars: Galactic Defense]]''
+*''[[Obi-Wan & Anakin, Part V]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
+*''[[Jedi of the Republic&mdash;Mace Windu, Part I]]'' {{Hologram}}
+*''[[Jedi of the Republic&mdash;Mace Windu, Part V]]'' {{Hologram}}
+*{{TCW|Landing at Point Rain}}
+*{{TCW|Weapons Factory}} {{Flash}}
+*{{TCW|Legacy of Terror}}
+*{{TCW|Brain Invaders}}
+*{{TCW|Grievous Intrigue}} {{Hologram}}
+*{{TCW|The Deserter}} {{C|Appears in hologram in flashback(s)}}
+*{{TCW|R2 Come Home}} {{Hologram}}
+*{{IDWAdventuresCite|12|[[Intermission, Part I]]}}
+*{{TCW|Overlords}} {{Flash}}
+*{{TCW|Kidnapped}}
+*{{TCW|Deception}}
+*{{TCW|Crisis on Naboo}}
+*{{TCW|Revenge (episode)|Revenge}} {{Hologram}}
+*{{TCW|A War on Two Fronts}} {{Hologram}}
+*{{TCW|The Lawless}}
+*{{TCW|Sabotage (episode)|Sabotage}}
+*{{TCW|The Jedi Who Knew Too Much}}
+*{{TCW|To Catch a Jedi}}
+*{{TCW|The Wrong Jedi}}
+*{{TCW|Conspiracy}} {{Hologram}}
+*{{TCW|The Rise of Clovis}}
+*{{TCW|The Disappeared, Part I}}
+*{{TCW|The Lost One}}
+*{{TCW|Voices}}
+*{{TCW|Destiny (episode)|Destiny}} {{Vision|[[Yoda]]}}
+*{{TCW|The Big Bang}}
+*''[[Dark Disciple]]''
+*''[[Dark Disciple (audiobook)]]''
+*''[[Kanan 7: First Blood, Part I: The Corridors of Coruscant]]''
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+*''[[Kanan 2: The Last Padawan, Part II: Flight]]'' {{Vision|[[Kanan Jarrus|Caleb Dume]]}}
+*''[[A New Dawn]]'' {{Mo}}}}
+
+===Non-canon appearances===
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+*{{Droid Tales|Crisis on Coruscant (episode)|Crisis on Coruscant}} {{Flash}}
+*''[[LEGO Star Wars: The Force Awakens]]'' {{C|DLC}}
+
+==Sources==
+{{Scroll box|
+*{{SWArchive|url=theclonewars/guide/episode205.html|text=''The Clone Wars'' Episode Guide: Landing at Point Rain}}
+*{{SWE|characters|clone-commander-bacara|Clone Commander Bacara}}
+*{{SWE|characters|clone-commander-jet|Clone Commander Jet}}
+*{{SWE|characters|kiadimundi|Ki-Adi-Mundi}}
+*{{SW|url=news/to-fans-of-star-wars-the-clone-wars-thank-you|text=To Fans of ''Star Wars: The Clone Wars'': Thank You|archiveurl=http://archive.li/Z9kSy}} {{Po}}
+*{{InsiderCite|152|A Trip to the Light Side}} {{Po}}
+*''[[Journey Through Space (2015)|Journey Through Space]]''
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: I Am a Jedi]]''
+*{{SW|url=tv-shows/star-wars-rebels/shroud-of-darkness-trivia-gallery|text=Shroud of Darkness Trivia Gallery}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Darth Vader: Sith Lord]]'' {{Po}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Forces of Destiny: Tales of Hope & Courage]]'' {{Po}}
+*''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''
+*{{Databank|aayla-secura|Aayla Secura|archivedate=20170707040717}} {{Po}}
+*{{Databank|adi-gallia|Adi Gallia|archivedate=20170706043936}} {{Po}}
+*{{Databank|cerean|Cerean|archivedate=20170725195531}}
+*{{Databank|clone-commander-bacara|Clone Commander Bacara|archivedate=20170621144237}}
+*{{Databank|clone-commander-jet|Clone Commander Jet|archivedate=20170522124714}}
+*{{Databank|jedi-order|Jedi Order}} {{Po}}
+*{{Databank|ki-adi-mundi|Ki-Adi-Mundi|archivedate=20170906110513}}
+*{{Databank|yoda|Yoda|archivedate=20140703043000}}}}
+
+{{Start_box}}
+{{Succession_box
+|title=Member of the [[Jedi High Council]]
+|years=c. [[32 BBY]]<ref name="Episode I" />&ndash;[[19 BBY]]<ref name="Episode III" />
+|before=Unknown
+|before-years=
+|after=None
+}}
+{{End_box}}
+
+{{JediCouncil32}}
+{{JediCouncil22}}
+{{JediCouncil19}}
+
+==Notes and references==
+{{Scroll_box|content={{Reflist}}}}
+
+{{Interlang
+|cs=Ki-Adi-Mundi
+|de=Ki-Adi-Mundi#kanon
+|el=Κι-Άντι Μούντι
+|es=Ki-Adi-Mundi
+|fr=Ki-Adi-Mundi
+|hu=Ki-Adi-Mundi
+|it=Ki-Adi-Mundi
+|ja=キ＝アディ＝ムンディ
+|ka=კი-ადი-მუნდი
+|nl=Ki-Adi-Mundi
+|no=Ki-Adi-Mundi
+|pl=Ki-Adi-Mundi
+|pt=Ki-Adi-Mundi
+|ru=Ки-Ади-Мунди/Канон
+|sv=Ki-Adi-Mundi
+|tr=Ki-Adi-Mundi
+|uk=Кі-Аді-Мунді
+|deGA=1
+}}
+
+[[Category:Cereans]]
+[[Category:Jedi Council members]]
+[[Category:Jedi Generals]]
+[[Category:Jedi Masters]]
+[[Category:Jedi Purge victims]]
+[[Category:Males]]

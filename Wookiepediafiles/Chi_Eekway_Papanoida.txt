@@ -1,0 +1,76 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Chi Eekway.jpg]]
+|name=Chi Eekway Papanoida
+|homeworld=
+|birth=
+|death=
+|species=[[Pantoran]]<ref name="Databank">{{Databank|chi-eekway-papanoida|Chi Eekway Papanoida|archivedate=20170825165716}}</ref>
+|gender=[[Sexes|Female]]<ref name="Databank" />
+|height=1.65 [[meter]]s<ref name="Databank" />
+|mass=
+|hair=
+|eyes=[[Color|Gold]]
+|skin=Blue<ref name="Databank" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Databank" />
+**[[Delegation of 2,000]]<ref name="PABG">{{Databank|padm-amidala-biography-gallery|Padmé Amidala Biography Gallery}}</ref>
+|masters=
+|apprentices=}}
+'''Chi Eekway Papanoida''' was a [[Sexes|female]] [[Pantoran]] and the daughter of [[Baron]] [[Papanoida]] who served as [[Chairman]] of [[Pantora]]. She served as [[senator]] of [[Pantora]] in the [[Galactic Senate]] at the end of the [[Clone Wars]].
+
+==Biography==
+During the [[Clone Wars]], [[Pantora]] was placed under a [[Blockade of Pantora|blockade]]. This led to [[Sexes|her]] being [[Kidnapping of the Papanoida daughters|abducted]] by [[Greedo]] and a [[Unidentified Gotal bounty hunter|Gotal]] on orders from the [[Trade Federation]] along with her sister [[Che Amanwe Papanoida]]. Eekway was im[[prison]]ed on the Federation's [[flagship]]. There she lingered for [[Standard day|days]] alone and afraid until [[Senator]] [[Riyo Chuchi]] and [[Jedi]] [[Padawan]] [[Ahsoka Tano]] came to her [[Rescue on the Pantora Droid Control Ship|rescue]]. Papanoida then returned to the [[Galactic Republic]]'s [[capital]], she later attended the senate meetings where the blockade was lifted from her [[planet]].<ref name="SoI">{{TCW|Sphere of Influence}}</ref>
+
+By the [[Standard year|year]] [[19 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> Papanoida had succeeded Chuchi as senator of Pantora.<ref name="Trivia Gallery">{{SW|url=tv-shows/clone-wars/sphere-of-influence-trivia-gallery|text=Sphere of Influence Trivia Gallery}} {{C|Slide 2}}</ref> Following his [[Battle of Coruscant|abduction]], [[Supreme Chancellor]] [[Darth Sidious|Palpatine]] came back to a royal welcome as he was greeted by several senators; Chi Eekway was among these distinguished [[ambassador]]s. She stood by [[Terr Taneel]] and wore [[Color|red]] [[robe]]s covering her back and head.<ref name="RotS">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+
+[[File:Papanoida at the opera.jpg|thumb|left|150px|Eekway with her father at the Opera.]]
+Eekway attended the [[Galaxies Opera House]] with her [[Papanoida|father]] and watched the [[Squid Lake|performance]]. For the event Chi dressed in a brown velvet cloak and a black floor length dress, and she also wore [[moon]] [[crystal]]s.<ref name="RotS" />
+
+Near the close of the Clone Wars, Eekway joined the [[Delegation of 2,000]],<ref name="PABG" /> a group of senators who demanded that after the war came to an end, Chancellor Palpatine return his emergency powers to the senate.<ref name="DBMT">{{Databank|meena-tills|Meena Tills}}</ref>
+
+==Behind the scenes==
+Chi Eekway Papanoida was portrayed by one of [[George Lucas]]'s daughters, [[Katie Lucas]]. She was voiced in the ''Clone Wars'' by [[Nika Futterman]].
+
+==Appearances==
+*{{TCW|Sphere of Influence}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}}
+
+==Sources==
+*{{SW|url=tv-shows/clone-wars/sphere-of-influence-episode-guide|text="Sphere of Influence" Episode Guide - ''The Clone Wars''|org=theclonewars/guide/episode304.html}}
+*{{SWE|characters|papanoida|Chairman Papanoida}} {{Imo}}
+*{{SWE|characters|greedo|Greedo}} {{Imo}}
+*{{SWE|characters|jabba|Jabba the Hutt}} {{Imo}}
+*{{SWE|locations|cantina|Mos Eisley Cantina}} {{Imo}}
+*{{SWE|characters|riyochuchi|Riyo Chuchi}} {{Imo}}
+*{{SWE|characters|tandivo|Tan Divo}} {{Imo}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]'' {{Imo}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]'' {{Imo}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|chairman-papanoida|Chairman Papanoida|archivedate=20170203164224}} {{Imo}}
+*{{Databank|che-amanwe-papanoida|Che Amanwe Papanoida|archivedate=20160515015413}} {{Imo}}
+*{{Databank|chi-eekway-papanoida|Chi Eekway Papanoida|archivedate=20170825165716}}
+*{{Databank|galactic-senate|Galactic Senate|archivedate=20170705025411}} {{Imo}}
+*{{Databank|ion-papanoida|Ion Papanoida}} {{Imo}}
+*{{Databank|jabba-the-hutt|Jabba the Hutt|archivedate=20170712090459}} {{Imo}}
+*{{Databank|orn-free-taa|Orn Free Taa}} {{Po}}
+*{{Databank|padme-amidala|Padmé Amidala}} {{Po}}
+*{{Databank|pantoran|Pantoran}} {{Po}}
+*{{SW|url=riyo-chuchi-biography-gallery|text=Riyo Chuchi biography gallery}}; images #6-9 {{C|of 10}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ja=チー・エクウェイ・パパノイダ
+|uk=Чі Іквей Папаноїда
+}}
+
+{{DEFAULTSORT:Papanoida, Chi Eekway}}
+[[Category:Females]]
+[[Category:Galactic Republic senators]]
+[[Category:Pantorans]]

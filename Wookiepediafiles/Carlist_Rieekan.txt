@@ -1,0 +1,110 @@
+{{Eras}}
+{{Update|[[Moving Target: A Princess Leia Adventure]], [[Star Wars: Absolutely Everything You Need to Know]], [[Ultimate Star Wars]], [[Star Wars: The Rebel Files]], [[Star Wars: On the Front Lines]]}}
+{{Image}}
+{{Character
+|type=New Republic
+|image=[[File:Rieekan.jpg]]
+|name=Carlist Rieekan
+|homeworld=[[Alderaan]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Human]] {{C|[[Alderaanian]]}}<ref name="ESB">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+|gender=[[Sexes|Male]]<ref name="ESB" />
+|height=1.8 [[meter]]s<ref name="Databank">{{Databank|general-rieekan|General Rieekan|archivedate=20170623091018}}</ref>
+|mass=
+|hair=[[Color|Brown]]<ref name="ESB" />
+|eyes=Blue<ref name="ESB" />
+|skin=Fair
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Ultimate Star Wars" />
+**[[Republic military]]<ref name="Front Lines">''[[Star Wars: On the Front Lines]]''</ref>
+*[[Alliance to Restore the Republic]]<ref name="ESB" />
+**[[Alliance Military]]<ref name="ESB" />
+**[[Alliance High Command]]<ref name="MovingTarget">''[[Moving Target: A Princess Leia Adventure]]''</ref>
+*[[New Republic]]<ref name="Lost Stars">''[[Lost Stars]]''</ref>
+**[[New Republic army]]<ref name="Lost Stars" />
+|masters=
+|apprentices=}}
+{{Quote|A death mark's not an easy thing to live with.|Rieekan to [[Han Solo]].|Star Wars: Episode V The Empire Strikes Back}}
+'''Carlist Rieekan''' was a [[human]] [[Sexes|male]] military officer who served as a [[General]] in the [[Alliance to Restore the Republic]] and the military leader of the Rebellion's [[Echo Base|base]] on [[Hoth]].
+
+==Biography==
+===Joining the rebellion===
+A [[human]] [[Sexes|male]] from the [[planet]] [[Alderaan]],<ref name="Ultimate Star Wars" /> Carlist Rieekan served in the [[Republic military|military]] of the [[Galactic Republic]] during the [[Clone Wars]] and later earned a post in the [[House of Organa|Royal House of Alderaan]].<ref name="Front Lines" /> Later in his career, Rieekan became a founding member of the [[Alliance to Restore the Republic]]. Rieekan was off-world when Alderaan was [[The Disaster|destroyed]].<ref name="Ultimate Star Wars" /> He later attained the rank of [[General]] and assumed command of [[Echo Base]] on the ice planet of [[Hoth]].<ref name="ESB" />
+
+===Battle of Hoth===
+In [[3 ABY]], General Rieekan summoned [[Prince]]ss [[Leia Organa]], [[Han Solo]], and [[Chewbacca]] to the base's command center to discuss some signals that his staff had intercepted. After the [[protocol droid]] [[C-3PO]] recognized the signal as an Imperial code, Han and Chewbacca ventured outside, where they discovered and destroyed a [[Viper probe droid]]. However, Han deduced that the probe droid had already alerted the [[Galactic Empire]] to their presence and warned General Rieekan to order an evacuation of Echo Base. During the [[Battle of Hoth]], General Rieekan commanded the rebel evacuation of Echo Base.<ref name="ESB" />
+
+===Alliance Fleet===
+After the evacuation of Hoth, he was present with the other leaders of the Alliance on [[Zastiga]] to develop a plan to attack the second [[Death Star II|Death Star]].<ref name="MovingTarget" /> Later, General Rieekan was stationed aboard the [[MC80 star cruiser|Mon Calamari cruiser]] ''[[Liberty]]''. He commanded several Alliance forces, including the [[X-wing starfighter]] squadron [[Corona Squadron]]. Following the disappearance of both the ''[[Millennium Falcon]]'' and [[Luke Skywalker]], General Rieekan summoned an emergency conference of senior officers including the starfighter pilot [[Wedge Antilles]].<ref name="Lost Stars" />
+
+The following morning, General Rieekan and [[Chancellor (Rebel Alliance)|Chancellor]] [[Mon Mothma]] officiated over a briefing for members of the Corona Squadron including [[Private]] [[Yendor]], [[Lieutenant]] [[Thane Kyrell]], and [[Kendy Idele]]. After Mothma informed Corona Squadron that they would not be accompanying the rest of the [[Alliance Fleet]] to the new rendezvous point, Rieekan briefed the pilots that their squadron would be based on the ''Liberty'' for the foreseeable future. He added that they would get permanent bunk assignments within the next few hours. Yendor then joked about living in a sauna, prompting the General to ask the pilot to clarify his statement. While the others laughed, Rieekan smiled.<ref name="Lost Stars" />
+
+After Thane Kyrell returned from a secret meeting with his friend [[Ciena Ree]], who was still a [[Imperial officer|commissioned officer]] the [[Imperial Navy]], General Rieekan thanked Thane for his timely return two hours prior to takeoff. When Thane volunteered to report his movements during his absence, Rieekan reassured the pilot that he was free to come and go as he pleased as long as he followed security protocol. However, Rieekan was visibly displeased when Thane informed him that he had made contact with an Imperial officer. When Rieekan inquired whether Ciena was aware that Thane had already joined the Rebellion, Thane admitted that she already knew of his involvement with the Rebel Alliance.<ref name="Lost Stars" />
+
+Angered by Thane's apparent failure to follow security protocol, Rieekan demanded to know whether the rebels had a double agent feeding the Empire intelligence. Thane reassured General Rieekan that Ciena had identified him based on Imperial battle footage from Hoth. While Reekan accepted Thane's explanation, he still asked whether the officer had placed a [[homing beacon|tracking device]] on his X-wing starfighter. While Thane vouched for Ciena's friendship, Rieekan still insisted on scanning his ship. Before leaving the [[hangar]], Rieekan warned Thane not to make any more contact with Imperial personnel and added that the galaxy was full of women who did not fight for the Empire.<ref name="Lost Stars" />
+
+===New Republic===
+General Rieekan continued serving the Rebel Alliance's successor government, the [[New Republic]], and [[New Republic military|its military]]. To bolster the expanding [[New Republic Defense Fleet]], Rieekan embarked on a plan to capture Imperial [[Star Destroyer]]s during the [[Battle of Jakku]]. For this mission, General Rieekan recruited the former Imperial officers Thane and Kendy. Despite their misgivings, he reassured them that the Imperial crews were not as die-hard as they used to be and pointed out that they had seen capital ships as large as [[attack cruiser]]s switch allegiance in earlier battles during the [[Galactic Civil War]]. When Thane pointed out that those ships had thousands of crew members as opposed to tens of thousands, Rieekan responded that they needed enough sympathizers to help them shut the systems down. He added that former Imperial officers like Thane and Kendy could identify the most vulnerable areas.<ref name="Lost Stars" />
+
+Thane and Kendy later boarded the [[Imperial-class Star Destroyer|Imperial Star Destroyer]] ''[[Inflictor]]'', which was being commanded by the now [[Captain]] Ciena Ree. Despite their efforts to disable the ship' self-destruct mechanism, Ree managed to deny the ship to the New Republic by crashing it on Jakku's surface. Meanwhile, the Battle of Jakku ended as a decisive victory for the New Republic which brought the end of the Galactic Civil War. The defeated remnants of the Empire were forced to sign the [[Galactic Concordance]] with the New Republic, which became the dominant government in the galaxy for the next twenty-nine years.<ref name="Lost Stars" />
+
+===Legacy===
+Decades after the Galactic Concordance, the [[Resistance]] would award the [[Rieekan Ribbon for Bravery in Battle]] to soldiers in its armed forces.<ref name="Poe Dameron Flight Log">''[[Poe Dameron: Flight Log]]''</ref>
+
+==Personality and traits==
+Carlist Rieekan was a gruff and stern Rebel Alliance general who took his duty and work seriously.<ref name="ESB" /> Despite his stern and businesslike demeanor, General Rieekan could still appreciate humor, as shown when the pilot Yendor likened the starship ''Liberty'' to a sauna. Rieekan was a flexible commander who allowed his men to come and go as they pleased as long as they followed the Alliance's security protocols. Rieekan regarded the Alliance military as a volunteer force.<ref name="Lost Stars" />
+
+As a committed rebel, Rieekan had a strong antipathy towards the Empire and Imperials in general. Rieekan expressed disappointment and anger when one of his subordinates, Thane Kyrell, fraternized with his former classmate Ciena Ree, a commissioned officer in the Imperial Navy. Despite accepting Thane's report that Ciena did not pose a threat to the Rebellion, he disapproved of their relationship and told Thane that he could choose other women who did not fight for the Empire.<ref name="Lost Stars" />
+
+==Behind the scenes==
+General Rieekan was portrayed by [[Bruce Boa]] in [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]. His backstory was expanded in several [[Star Wars Legends|''Star Wars'' Legends]] works. More recently, Rieekan has appeared as a supporting character in the [[canon]] spinoff novels ''[[Lost Stars]]'' and ''[[Moving Target: A Princess Leia Adventure]]''.
+
+==Appearances==
+*''[[Forces of Destiny: Daring Adventures: Volume 2]]''
+*''[[Battlefront: Twilight Company]]'' {{Mo}}
+*''[[Lost Stars]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+*''[[Moving Target: A Princess Leia Adventure]]''
+*''[[Bloodline (novel)|Bloodline]]'' {{Imo}}
+*''[[Poe Dameron: Flight Log]]''
+
+==Sources==
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Forces of Destiny: Tales of Hope & Courage]]''
+*''[[Star Wars: The Rebel Files]]''
+*{{Databank|echo-base|Echo Base|archivedate=20170815093058}}
+*{{Databank|general-rieekan|General Rieekan|archivedate=20170623091018}}
+*{{Databank|hoth|Hoth|archivedate=20170712112556}}
+*{{Databank|rebel-alliance|Rebel Alliance}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|es=Carlist Rieekan
+|fr=Carlist Rieekan
+|ko=칼리스트 라이칸
+|pl=Carlist Rieekan
+|ru=Карлист Риекан/Канон
+|uk=Карліст Рієкан
+}}
+
+{{DEFAULTSORT:Rieekan, Carlist}}
+[[Category:Alderaanians]]
+[[Category:Alliance Army generals]]
+[[Category:Alliance High Command personnel]]
+[[Category:Galactic Republic military personnel]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:New Republic Army generals]]

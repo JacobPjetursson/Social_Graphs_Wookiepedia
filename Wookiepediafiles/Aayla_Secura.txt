@@ -1,0 +1,172 @@
+{{Eras}}
+{{Youmay|the [[canon]] individual|''[[Jedi: Aayla Secura]]'', the [[Star Wars Legends|''Star Wars'' Legends]] [[Star Wars comic books|comic]]}}
+{{Update|[[Star Wars Lightsabers: A Guide to Weapons of the Force]]}}
+{{Character
+|type=Jedi
+|image=[[File:Aayla Secura SWE.png]]
+|name=Aayla Secura
+|homeworld=[[Ryloth]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref><ref name="Aayla SWE">{{SWE|characters|aaylasecura|Aayla Secura}}</ref>
+|birth=
+|death=[[19 BBY]],<ref name="SWGA">''[[Star Wars: Galactic Atlas]]''</ref> [[Felucia]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|species=[[Twi'lek]] {{C|[[Rutian]]}}<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|gender=[[Sexes|Female]]<ref name="Episode II" />
+|height=1.72 [[meter]]s<ref name="SWJB">''[[Star Wars Journeys: Beginnings]]''</ref>
+|mass=55 [[kilogram]]s<ref name="SWJB" />
+|hair=
+|eyes=[[Color|Hazel]]<ref name="Episode II" />
+|skin=Blue<ref name="Episode II" />
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="Episode II" />
+**[[Jedi assault team]]<ref name="Episode II" />
+*[[Galactic Republic]]<ref name="Episode II" />
+**[[327th Star Corps]]<ref name="JC">{{TCW|Jedi Crash}}</ref>
+|masters=[[Quinlan Vos]]<ref name="Databank">{{Databank|aayla-secura|Aayla Secura|archivedate=20170707040717}}</ref>
+|apprentices=}}
+{{Quote|Sometimes it takes courage to stick to one's beliefs, young Padawan.|Aayla Secura, to [[Ahsoka Tano]]|audio=ItTakesCourage DoP.ogg|Defenders of Peace}}
+'''Aayla Secura''', a [[Force-sensitive]] [[Rutian]] [[Twi'lek]] [[Sexes|female]], was a [[Jedi Master]] who served as a [[Jedi General]] of the [[Grand Army of the Republic]] during the [[Clone Wars]]. Prior to the [[Cloning|Clone]] Wars, Secura learned the ways of [[the Force]] as the [[Padawan]] of [[Jedi]] Master [[Quinlan Vos]]. With the outbreak of civil war between the [[Galactic Republic]] and the [[Confederacy of Independent Systems]], Secura and her fellow Jedi supported the Republic by becoming [[officer]]s in its newly-formed [[Republic military|military]]. As a [[general]], she commanded the [[clone trooper]]s of the [[327th Star Corps]], with [[Commander]] [[CC-5052]] "Bly" serving at Secura's side.
+
+Throughout the conflict, Secura fought alongside her [[soldier]]s in multiple battles across [[the galaxy]], from [[Battle of Geonosis|Geonosis]] to [[Battle of Quell|Quell]], [[Battle of Coruscant|Coruscant]], and [[Battle of Felucia (Outer Rim Sieges)|Felucia]]. As the war drew to an end, the clones were instructed by [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] to execute [[Order 66]], resulting in a sudden [[Jedi Purge|purge]] of the [[Jedi Order]] at the hands of their own [[trooper]]s. As a result, Secura was among the first casualties of the purge, having been shot in the back repeatedly by Bly and several other clone troopers.
+
+The [[Death|demise]] of Secura and many other Jedi was sensed through the Force by [[Grand Master]] [[Yoda]], who survived the purge and ultimately escaped into [[Exile (punishment)|exile]], while the [[Galactic Empire]] [[Proclamation of the New Order|rose to power]] in place of the Republic. Secura's death was also witnessed in a [[Force vision]] by [[Depa Billaba]] and her apprentice, [[Kanan Jarrus|Caleb Dume]] on [[Kaller]].
+
+==Biography==
+===Genesis of the Clone Wars===
+At some point before the [[Clone Wars]], Aayla Secura was apprenticed to [[Quinlan Vos]], whom she regarded as a father figure and was very close to.<ref name="JC" /> Under his guidance, she completed her [[Jedi training]] and achieved the rank of [[Jedi Knight]].<ref name="Aayla SWE" />
+
+[[File:Aayla.jpg|thumb|left|170px|Secura during the Battle of Geonosis]]
+She was part of the Jedi [[Jedi assault team|rescue team]] sent to the [[planet]] [[Geonosis]] to rescue Jedi Knight [[Obi-Wan Kenobi]], his [[Padawan]] [[Anakin Skywalker]] and the [[Senator]] [[Padmé Amidala]]. Igniting her [[Aayla Secura's lightsaber|blue-bladed lightsaber]], Secura and her fellow Jedi met the Separatist battle droids head-on in the Geonosian arena. At one point, Secura dispatched a [[B2 super battle droid|super battle droid]] by kicking it in the face. Unfortunately, the Jedi were overwhelmed and picked off by sheer force of numbers and soon only a few remained standing in a circle, desperately fending off blaster fire. When [[Count]] [[Dooku]] called a halt, Secura was escorted from elsewhere in the arena by two Geonosian warriors and joined the survivor's circle. Led by Master [[Mace Windu]], the remaining Jedi rebuffed his offer of surrender and prepared to die fighting, but the timely arrival of Master Yoda and a fleet of gunships bearing the newly christened clone army saved them from death. Boarding a [[gunship]] out of the arena, Secura then led a squad of [[Clone trooper]]s into [[Battle of Geonosis|battle]] against the droid army, a battle that led to the galaxy-wide conflict known as the [[Clone Wars]].<ref name="Episode II" />
+
+===The Clone Wars===
+Secura was assigned Clone Commander [[CC-5052|CC-5052, known as "Bly"]], as her 2nd in command and his [[327th Star Corps]].<ref name="Databank: Bly">{{Databank|clone-commander-bly|Clone Commander Bly|archiveurl=https://web.archive.org/web/20170823003049/http://www.starwars.com:80/databank/clone-commander-bly}}</ref>
+====Battle of Quell====
+At some point during the Clone Wars, her fleet came under [[Battle of Quell|attack at Quell]]. Damaged in the battle, her flagship began falling through the atmosphere. The situation was made worse when [[B2-RP battle droid|rocket droids]] started boarding her ship. She and Bly managed to fight them off until Skywalker, his apprentice [[Ahsoka Tano]] and Captain Rex arrived to rescue her and Bly. Secura and the others then fought their way to Skywalker's frigate. However, en route, Secura and the others were pushed out of the way of an explosion by Skywalker, who tried to hold it back with the Force. However, it was too strong for him and he was flung against the bulkhead and badly injured. Secura then helped Tano get Skywalker aboard the frigate. As they tried to dock with the ''Resolute'', the hyperdrive was activated when the ship was struck by laser fire and Secura ordered Admiral Yularen to detach. She then ordered Tano to assist Bly in flying the frigate before it could collide with one of the stars. Secura then ordered the power to be turned off, despite the risk to Skywalker's life. However, during the chaos, she was pushed away from the switch but was able to [[Telekinesis|use the Force]] to turn the power back on. The ship then crashed on the planet [[Maridun]].<ref name="JC" />
+[[File:Epguide014.png|thumb|right|200px|Secura fighting on Maridun]]
+After the crash, Secura then decided to find help and ordered Tano to accompany her, Bly, [[Cameron]], [[Lucky]], and [[Flash]] to do so. En route, Secura began sensing Tano's doubt and confusion. Worried about her master, she started questioning the Jedi philosophy concerning attachments. Secura assured her that it was nothing to be ashamed of as she went through the same thing with [[Quinlan Vos|her own master]], but in time she learnt to let go. Secura and her group then came under attack by [[Mastiff phalone]]s that killed three of her troopers. She, Ahsoka and Bly then found a [[Lurmen village|village of Lurmen]]. Secura then asked the village elder [[Tee Watt Kaa]] for aid but he refused to help them. However, upon hearing of their friends' plight, he allowed his son to go with Ahsoka and Bly to treat them as long as Secura stayed at the village. Secura and Tee Watt Kaa then started discussing the Jedi's involvement in the war and how she believed it was their intention not to spark conflict but to restore peace to the galaxy.<ref name="JC" />
+
+[[File:Communication center.jpg|thumb|left|200px|Secura was present, along with several other Jedi, during Cad Bane's infiltration of the Jedi Temple]]
+Secura, Skywalker, Tano, Rex and Bly were then forced to leave the village when Separatist General [[Lok Durd]] arrived and searched the village for contraband. Secura then destroyed a [[Viper recon droid|scout droid]] and found Durd's base. There she witnessed Durd's secret weapon, the [[Defoliator]] [[Defoliator Deployment Tank|tank]], and rescued Bly from its effects. Despite Tee Watt Kaa's wishes, Secura and Skywalker decide to steal Durd's shuttle and stop him from using it on the Lurmen village. Secura and Tano then snuck into the base, destroyed the droids and took the shield generators. Secura and the others then made their way back to the village and set up a barrier and shield around its periphery, despite Tee Watt Kaa's objections. She and the others then fought against Durd's Squad until Skywalker disabled Durd and his weapon. With the Lurmen finally deciding to defend their village, they along with the remainder of the republic forces were able to destroy the rest of the Separatist droid army. Secura then took Durd and the Defoiliator's gunner into custody aboard their shuttle just as the Republic fleet arrived.<ref name="DoP">{{TCW|Defenders of Peace}}</ref>
+
+====Later Conflicts====
+{{Quote|We aren't having much of an effect!|Secura regarding her efforts to distract the Zillo Beast|The Zillo Beast Strikes Back}}
+[[File:SecuraYodaZilloBeast.png|thumb|220x220px|Secura and Yoda distract the Zillo Beast]]
+Secura was in the Jedi Temple's communications center when Cad Bane infiltrated the Temple to steal a Holocron.<ref name="HH">{{TCW|Holocron Heist}}</ref> Secura then aided Yoda in distracting the [[Zillo Beast]] while Skywalker worked on a plan to save himself, the Chancellor, Senator Amidala, C-3PO, and R2-D2. After realizing that their efforts weren't amounting to much, Yoda and Secura leapt off the beast and joined the others as it was assailed with gas bombs, holding the cloud back with the Force to protect themselves.<ref name="TZBSB">{{TCW|The Zillo Beast Strikes Back}}</ref>
+
+Secura also owned a pink [[astromech droid]] called [[QT-KT]], who was chosen to join [[D-Squad]] for a special mission. She dropped off QT for the mission briefing.<ref name="Secret Weapons">{{TCW|Secret Weapons}}</ref>
+
+Secura attended the [[Funeral of the Jedi Temple bombing victims|funeral service]] for the victims of the [[Imperial Palace|Jedi Temple's]] [[Bombing of the Jedi Temple hangar|hangar bombing]].<ref name="TJWKTM">{{TCW|The Jedi Who Knew Too Much}}</ref>
+
+Secura later went with Masters [[Mace Windu|Windu]], [[Obi-Wan Kenobi|Kenobi]], [[Tiplee]] and Commander [[CC-3636|Wolffe]] to investigate the recent [[Battle on Ord Mantell|battle]] on [[Ord Mantell]]. She and Master Windu then assisted Masters Kenobi and Tiplee in [[Assault on Vizsla Keep 09|fighting]] [[Maul|Darth Maul]] and Count Dooku. After Tiplee was killed, Secura then left Maul's ship with prisoners.<ref>''[[Darth Maul—Son of Dathomir, Part Three]]''</ref>
+
+By the end of the Clone Wars, Secura had achieved the rank of [[Jedi Master]].<ref name="Ultimate Star Wars" />
+
+====Order 66====
+[[File:BlyShootsAayla.png|thumb|180px|Secura is killed on Felucia.|left]]
+Shortly after the [[Battle of Coruscant]], Secura was sent to the exotic Outer Rim planet of [[Felucia]], along with Clone Commander [[CC-5052|Bly]], where she and her troops fought against the Separatist forces stationed there. As she and her troops prepared to engage Separatist spider tanks, [[Supreme Chancellor]] [[Darth Sidious|Palpatine]] issued [[Order 66]], calling for the extermination of all Jedi throughout the galaxy. Bly, having received the orders, ordered his fellow clones to open fire on the Twi'lek Jedi. Secura, who was distracted at the time by a bird suddenly taking flight, was unable to even draw her lightsaber before being shot twice in the back by the same clones she had trusted and even risked her life for. As she crumpled beneath a large fungal tree, the clones continued to hammer her body with blaster fire, killing her.
+
+Grand Master [[Yoda]] felt the death of Secura and many other fellow Jedi while on [[Kashyyyk]], which allowed him to defend himself and escape.<ref name="Episode III" /> Master [[Depa Billaba]], who was [[Meditation|meditating]] at the time, witnessed Secura as one of those killed in her [[Force vision]] which she shared with her Padawan [[Kanan Jarrus|Caleb Dume]] on [[Kaller]]. She sacrificed herself soon after so Dume could survive.<ref name="Kanan 2">''[[Kanan 2: The Last Padawan, Part II: Flight]]''</ref>
+
+==Personality and traits==
+Aayla Secura was intelligent, skilled with a [[lightsaber]], and was sometimes mischievous.<ref name="Updated and Expanded">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> She was also compassionate and sympathized with Tano about her bond with her master, comparing it to her own bond with her master. However, knowing she had to let go of him for the greater good, Secura told Tano that she would have to let go of Skywalker for the same reason.<ref name="JC" />
+
+==Powers and abilities==
+Aayla Secura was a master of [[Form IV]] of lightsaber combat, but she also practiced [[Form V]]. Aayla used her athletic lightsaber skills to outwit her opponents.<ref name="Updated and Expanded" /> She wielded a [[Aayla Secura's lightsaber|blue-bladed lightsaber]] during her time as a Jedi Knight and later Master.
+
+In combat, Secura was known to use the nexu-stance evasive roll.<ref name="Head to Head">''[[Star Wars: The Force Awakens: Head-to-Head]]''</ref>
+
+==Behind the scenes==
+[[File:SWPicsMissFisto.jpg|thumb|right|Early, unused concept art by Dermot Power, of a fish-like Jedi that would evolve into Kit Fisto.]]
+Aayla Secura was portrayed by [[Lucasfilm Ltd.]] employee [[Amy Allen]] in the [[2002]] film [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] and the [[2005]] film [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]. She was voiced by [[Jennifer Hale]] in ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' TV series with a [[Wikipedia:France|French]]-type accent to resemble the dialogue a post [[Wikipedia:World War II|World War II]] veteran as Director [[Dave Filoni]] wanted.
+
+Unlike many Jedi Knights from the [[prequel trilogy]], Secura wasn't originally created for the films. She was created by artist [[Jan Duursema]] and writer [[John Ostrander]] for the [[Star Wars Legends|''Star Wars'' Legends]] ''[[Star Wars: Republic]]'' comic book series.<ref name="Star Wars 19">''[[Star Wars 19: Twilight, Part 1]]''</ref>
+
+In early concept art for the character by artist [[Dermot Power]], she was a [[fish]]-like creature rather than a Twi'lek, but the
+concept later evolved into the character of [[Kit Fisto]].<ref name="fish girl">{{FacebookCite|author=[[Jan Duursema]]|dateposted=2013-08-19|timeposted=9:43 AM|description=Timeline Photos|quote=Original concept art for Quinlan Vos and Aayla Secura--yes, Aayla was almost a little fish girl...|link=photo.php?fbid=10151868261798993&set=a.10150421871483993.411075.703558992&type=1&relevant_count=1&ref=nf|dateaccessed=2013-08-19}}</ref> After seeing a piece of cover art of the final character, [[George Lucas]] decided to place her in ''Attack of the Clones''.
+
+==Appearances==
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars Battlefront II]]'' {{Mo}} {{C|DLC}}
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*{{TCW|Jedi Crash}}
+*{{TCW|Defenders of Peace}}
+*{{TCW|Holocron Heist}}
+*{{TCW|The Zillo Beast Strikes Back}}
+*{{TCW|R2 Come Home}} {{Hologram}}
+*{{TCW|Secret Weapons}}
+*{{TCW|A Sunny Day in the Void}} {{Flash}}
+*{{TCW|The Jedi Who Knew Too Much}}
+*{{TCW|Voices}}
+*{{TCW|Destiny (episode)|Destiny}} {{Vision|[[Yoda]]}}
+*''[[Darth Maul—Son of Dathomir, Part Three]]''
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+*''[[Kanan 2: The Last Padawan, Part II: Flight]]'' {{Vision|Caleb Dume}}
+*[[Star Wars (LINE Webtoon)|''Star Wars'' LINE Webtoon]] {{Vision}}
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]'' {{C|DLC}}
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+*{{SWE|characters|aaylasecura|Aayla Secura}}
+*{{SWE|characters|ahsokatano|Ahsoka Tano}}
+*{{SWE|characters|rex|Clone Captain Rex}}
+*{{SWE|characters|clone-commander-bly|Clone Commander Bly|archivedate=20131221190229}}
+*{{SWE|locations|felucia|Felucia}}
+*{{SWE|groups|lurmen|Lurmen}}
+*{{SWE|characters|qt-kt|QT-KT}}
+*{{SWE|characters|quinlanvos|Quinlan Vos}}
+*{{InsiderCite|151|Hera: A New Breed of Hero}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*{{SW|url=news/force-of-fashion-the-best-of-twilek-head-gear|text=Force of Fashion: The Best of Twi'lek Head Gear}}
+*''[[Star Wars: Aliens of the Galaxy]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{SW|url=databank/aat-battle-tank-history-gallery|text=AAT Battle Tank History Gallery|archivedate=20170711233332}}
+*{{Databank|aayla-secura|Aayla Secura|archivedate=20170707040717}}
+*{{Databank|wullf-yularen|Admiral Wullf Yularen|archivedate=20170404042020}}
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}}
+*{{Databank|clone-captain-rex|Clone Captain Rex|archivedate=20170827024953}}
+*{{Databank|clone-commander-bly|Clone Commander Bly|archiveurl=https://web.archive.org/web/20170823003049/http://www.starwars.com:80/databank/clone-commander-bly}}
+*{{Databank|felucia|Felucia|archivedate=20170806120651}}
+*{{Databank|qt-kt|QT-KT}}
+*{{Databank|quinlan-vos|Quinlan Vos|archivedate=20170605073739}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|bg=Айла Секура
+|cs=Aayla Secura
+|de=Aayla Secura#kanon
+|el=Αάυλα Σεκιούρα
+|es=Aayla Secura
+|fr=Aayla Secura
+|hu=Aayla Secura
+|it=Aayla Secura
+|ja=アイラ・セキュラ
+|ka=ეილა სეკურა
+|ko=아일라 세큐라
+|nl=Aayla Secura
+|no=Aayla Secura
+|pl=Aayla Secura
+|pt=Aayla Secura
+|ru=Эйла Секура/Канон
+|sv=Aayla Secura
+|tr=Aayla Secura
+|uk=Ейла Секура
+|deFA=1
+|plFA=1
+}}
+
+{{DEFAULTSORT:Secura, Aayla}}
+[[Category:Females]]
+[[Category:Jedi Generals]]
+[[Category:Jedi Masters]]
+[[Category:Jedi Purge victims]]
+[[Category:Rutian Twi'leks]]

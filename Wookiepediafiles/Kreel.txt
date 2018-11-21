@@ -1,0 +1,95 @@
+{{Eras}}
+{{Image}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Gamemaster.jpg]]
+|name=Kreel
+|homeworld=[[Chagar IX]]<ref name="SW21">''[[Star Wars 21: The Last Flight of the Harbinger, Part I]]''</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="ECUC">In the [[2016]] reference book ''[[Star Wars Character Encyclopedia: Updated and Expanded]]'', it is stated that the [[stormtrooper]]s of the [[Galactic Empire]] were all [[human]]s.</ref>
+|gender=[[Sexes|Male]]<ref name="SW10">''[[Star Wars 10: Showdown on the Smuggler's Moon, Part III]]''</ref>
+|height=
+|mass=
+|hair=
+|eyes=
+|skin=Dark<ref name="SW10" />
+|cyber=[[Cybernetics|Cybernetic left arm]]<ref name=SW25">''[[Star Wars 25: The Last Flight of the Harbinger, Part V]]''</ref>
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="SW11">''[[Star Wars 11: Showdown on the Smuggler's Moon, Part IV]]''</ref>
+**[[501st Legion]]<ref name="SW12">''[[Star Wars 12: Showdown on the Smuggler's Moon, Part V]]''</ref>
+**[[Task Force 99]]<ref name="SW21" />
+*[[Palace of Grakkus the Hutt]] {{C|As a [[spy]]}}<ref name="SW9">''[[Star Wars 9: Showdown on the Smuggler's Moon, Part II]]''</ref>
+|masters=
+|apprentices=}}
+{{Quote|You can call me the Gamemaster. Before we're through, I expect you'll think of a few other things to call me.|Kreel, as the gamemaster, to Luke Skywalker|Star Wars 10: Showdown on the Smuggler's Moon, Part III}}
+[[Sergeant]] '''Kreel''', designated '''Agent 5241''', was an undercover [[stormtrooper]] and [[Special Commando Advanced Recon trooper|SCAR trooper]] of the [[Galactic Empire]], serving in the [[501st Legion]] under the direct command of [[Anakin Skywalker|Darth Vader]]. He operated as the '''gamemaster''' in [[Grakkus]] the [[Hutt]]'s [[Palace of Grakkus the Hutt|arena]] on [[Nar Shaddaa]]. He was tasked with training new candidates to fight in the arena, including [[Luke Skywalker]]. During Skywalker's arena fight with [[Kongo]] the Disemboweler, Agent 5241 contacted the Empire to inform them that Skywalker was on Nar Shaddaa. After his mission on Nar Shaddaa was complete, Kreel was given command of an elite group of [[Special Commando Advanced Recon trooper|SCAR troopers]], designated [[Task Force 99]].
+
+==Biography==
+===Age of the Empire===
+Kreel was [[Reproduction|born]] on the [[planet]] [[Chagar IX]]. When [[Sexes|he]] was four, Kreel watched a man [[Death|die]]. It made him cry like a baby for a dozen more times. Two [[Standard year|years]] later, Kreel watched his own [[Kreel's father|father]] being murdered in front of him, but he did not cry. His mother was also said to have died in the arenas. He then started to kill people and worked in the [[fighting pit]]s. Kreel made the fighting pits his way of life in order to survive. Sometime later when Kreel first saw the [[Galactic Empire]]'s [[stormtrooper]]s, he viewed them as being beautiful. After the Empire toppled Chagar IX's [[warlord]]s and shut down the fighting pits, Kreel and his people were given jobs, a sense of purpose, and peace. When he was old enough, Kreel joined the [[Stormtrooper Corps]].<ref name="SW21" />
+
+He then went to the [[Imperial Academy]], where he became friends with a ranger named [[Izak Anzio]] of [[Agamar]]. During their first mission together, Izak was killed by the Rebels' [[mortar]]s before their [[transport]] landed. Kreel then killed every Rebel he could find that day and vowed to continue doing so.<ref name="SW21" /> Kreel eventually became a [[sergeant]] in the [[501st Legion]].<ref name="SW11" />
+
+===Infiltrating Grakkus's Palace===
+[[File:Luke Skywalker vs the gamemaster.png|thumb|left|220px|Kreel would go on to duel with Luke Skywalker multiple times]]
+He was then recruited by the [[Sith Lord]], [[Anakin Skywalker|Darth Vader]] for a deep undercover assignment;<ref name="SW21" /> to infiltrate [[Grakkus]] the [[Hutt]]'s [[Palace of Grakkus the Hutt|palace]] on [[Nar Shaddaa]].<ref name="SW12" /> He posed as one of Grakkus's greatest fighting [[Slavery|slaves]] that he had bought. In his role, Kreel trained [[Wookiee]]s, [[lizard]] men and space [[pirate]]s to fight in the arena for Grakkus and his audience.<ref name="SW11" /> He called himself the "Gamemaster".<ref name="SW10" />
+
+Eventually, he was given [[Luke Skywalker]] to train for Grakkus's games. Along with the [[IG-100 MagnaGuard|MagnaGuards]], Kreel taught Skywalker how to fight. He spoke with Grakkus and watched as the MagnaGuards fought Skywalker. Later, he was shown the beast that Skywalker would face.<ref name="SW10" /> Kreel then took Skywalker to the arena to fight [[Kongo|Kongo the Disemboweler]]. Kreel soon contacted a group of [[TIE/ln space superiority starfighter]]s, informing them that Skywalker was there.<ref name="SW11" />
+
+[[File:Kreel takes down Grakkus.jpg|right|thumb|231px|Kreel taking down Grakkus.]]
+Kreel triggered Kongo's [[shock collar]] and then took out Grakkus's MagnaGuards using [[Kreel's lightsaber|a]] [[lightsaber]]. He then arrested Grakkus, telling him that his arena was closed. He was joined by several of the [[TIE fighter pilot|TIE pilots]] who surrounded Skywalker. However, as they were taking Grakkus and Skywalker, Grakkus initiated an [[Electromagnetic pulse|E.M.P.]] that disabled Kreel's and the TIE pilots guns. Kreel then drew his lightsaber as Kongo was revived. Kreel attempted to subdue Skywalker but was attacked by Grakkus. He ordered the [[pilot]]s and stormtroopers to capture Skywalker and his allies. Afterwards, Kreel spoke with Vader about Skywalker as he showed the [[Sith]] [[Lord]] Grakkus' collection of [[Jedi]] artifacts.<ref name="SW12" />
+
+===Task Force 99===
+[[File:SW19 Kreel squad.png|thumb|left|203px|Kreel leading the elite stormtrooper group known as Task Force 99.]]
+Not long after Nar Shaddaa, Kreel was given command of a [[Special Commando Advanced Recon trooper|SCAR trooper]] squad, [[Task Force 99]].<ref name="SW21" /> Kreel and the squad then went to [[Sunspot Prison]] to find [[Kolar Ludd]]. Kreel and his squad were given a new assignment,<ref name="SW19">''[[Star Wars 19: Rebel Jail, Part IV]]''</ref> on the [[Ghost Moon]]. There, they were able to shoot down the Rebels' [[Taylander shuttle]]. He and his Squad then attacked of the rebel forces, with Kreel destroying a [[Tank (vehicle)|tank]] with his lightsaber. The attack was successful, with Kreel and his squad capturing [[Admiral]] [[Verette]], and interrogating him.<ref name="SW21" />
+
+Kreel then had Verette tied to his shuttle and sent it to the [[Hijacking of the Harbinger|captured]] [[Star Destroyer]] ''[[Harbinger (Imperial I-class)|Harbinger]]'' as distraction, while he and his SCAR troopers boarded the ''Harbinger'' to retake it.<ref name="SW23">''[[Star Wars 23: The Last Flight of the Harbinger, Part III]]''</ref> Kreel then fought and [[Lightsaber duel|dueled]] Skywalker, confirming to Luke that he was the Gamemaster from [[Grakkus]]'s arena.<ref name="SW24">''[[Star Wars 24: The Last Flight of the Harbinger, Part IV]]''</ref> During the fighting, Kreel was contacted by Vader and was warned not to injure Skywalker- a contact that allowed Skywalker to sense Vader's presence, leaving him distracted. Kreel took advantage of Luke's attempt to use [[The Force]], which he claimed to just get in the way of true fighting skill- but before he could fully overpower the young Jedi, Luke struck out with a [[Force push]] that rocked the entire Star Destroyer, trapping Kreel under wreckage and debris. While Luke and the others escaped, Kreel ordered his team to salvage the mission by destroying the Star Destroyer, while he used his lightsaber to cut off his own arm at the shoulder, allowing him to rejoin them as they escaped the ship. While Vader was furious that Kreel and his SCAR team had thoroughly failed in every one of their objectives, Kreel and the Task Force escaped the brunt of his wrath by presenting a valuable captive- the [[Protocol droid]] [[C-3PO]].<ref name="SW25">''[[Star Wars 25: The Last Flight of the Harbinger, Part V]]''</ref>
+
+Kreel and SCAR Squadron took 3PO to the ''[[Devastator]]'' where they attempted to interrogate him in order to find the [[Alliance Fleet|Rebel fleet]] or any new bases. However, Kreel was ordered to get rid of 3PO by Vader. Despite Vader's orders, Kreel decided to use 3PO as bait to lure the Rebels to them.<ref name="SW26">''[[Star Wars 26: Yoda's Secret War, Part I]]''</ref>
+
+[[File:Luke vs Kreel on Crait.png|thumb|right|193px|Kreel vs Skywalker on Crait]]
+Kreel and SCAR Squad later [[Mission to Crait|confronted]] the rebels again on the planet [[Crait]], where the Rebels were attempting to build a [[Crait outpost|new base]]. SCAR Squad engaged the rebel forces on the planet, but were defeated. The squad was able to escape, however Kreel's lightsaber was destroyed in a duel with Skywalker.<ref name="Crait">''[[Star Wars: The Last Jedi – The Storms of Crait 1]]''</ref>
+
+{{Char-stub}}
+
+==Appearances==
+*''[[Star Wars 9: Showdown on the Smuggler's Moon, Part II]]'' {{C|First mentioned as the gamemaster}}
+*''[[Star Wars 10: Showdown on the Smuggler's Moon, Part III]]'' {{C|First appearance, as the gamemaster}}
+*''[[Star Wars 11: Showdown on the Smuggler's Moon, Part IV]]'' {{1stID|Agent 5241}}
+*''[[Star Wars 12: Showdown on the Smuggler's Moon, Part V]]'' {{1stID|Kreel}}
+*''[[Star Wars 19: Rebel Jail, Part IV]]''
+*''[[Star Wars 21: The Last Flight of the Harbinger, Part I]]''
+*''[[Star Wars 22: The Last Flight of the Harbinger, Part II]]'' {{C|Mentioned only; in the opening crawl}}
+*''[[Star Wars 23: The Last Flight of the Harbinger, Part III]]''
+*''[[Star Wars 24: The Last Flight of the Harbinger, Part IV]]''
+*''[[Star Wars 25: The Last Flight of the Harbinger, Part V]]''
+*''[[Star Wars 26: Yoda's Secret War, Part I]]''
+*''[[Star Wars 36: Revenge of the Astromech]]''
+*''[[Star Wars 37: Imperial Pride]]''
+*''[[Star Wars: The Last Jedi – The Storms of Crait 1]]''
+
+==Sources==
+*{{SW|url=news/elite-stormtroopers-are-coming-in-star-wars-21-exclusive|text=Elite Stormtroopers Are Coming in ''Star Wars'' #21 – Exclusive!}}
+*''[[Star Wars: Stormtroopers: Beyond the Armor]]''
+*''[[Star Wars: The Rebel Files]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Kreel
+|pl=Kreel
+|ja=クリール
+|ru=Крил
+|uk=Кріл
+}}
+
+[[Category:Agents of the Galactic Empire]]
+[[Category:Cyborgs]]
+[[Category:Gladiators]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Members of the 501st Legion]]
+[[Category:Stormtroopers of the Galactic Empire]]
+[[Category:Task Force 99 members]]

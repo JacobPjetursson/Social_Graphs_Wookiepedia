@@ -1,0 +1,83 @@
+{{Eras|notoc=1}}
+{{Droid
+|image=[[File:BB-9E Fathead.png]]
+|name=BB-9E
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=
+|line=
+|model=[[BB-series]]<ref name="Force Friday">{{SW|url=news/force-friday-ii-first-look-select-new-star-wars-products|text=Force Friday II: First Look at Select New ''Star Wars'' Products}}</ref>
+|class=[[Astromech droid]]<ref name="Force Friday" />
+|degree=
+|cost=
+|length=Less than 0.67 [[meter]]s<ref name="Length">''[[Star Wars: Absolutely Everything You Need to Know]]'' states that [[BB-8]] stands 0.67 [[meter]]s tall. According to {{SW|url=news/force-friday-ii-first-look-select-new-star-wars-products|text=Force Friday II: First Look at Select New ''Star Wars'' Products}}, BB-9E is shorter than BB-8.</ref>
+|width=
+|height=
+|mass=
+|gender=
+|sensor=[[Color|Red]]<ref name="Force Friday" />
+|plating=Black<ref name="Force Friday" />
+|armament=
+|equipment=[[Photoreceptor]]s in every visual spectrum<ref name="Databank">{{Databank|bb-9e|BB-9E|archivedate=20170904011255}}</ref>
+|era=
+|affiliation=[[First Order]]<ref name="Force Friday" />}}
+'''BB-9E''' was a [[Color|black]]-plated [[BB-series]] [[astromech droid]] in the service of the [[First Order]].<ref name="Force Friday" />
+
+==Biography==
+[[File:BB-9E SWDL.png|left|thumb|220px|BB-9E aboard the ''Supremacy''.]]
+Unlike [[BB-8]], a BB unit in the service of the [[Resistance]],<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref> the [[droid]] featured a squarer domed head and red-colored [[sensor]].<ref name="Force Friday" /> In addition, due to the [[First Order]]'s views on droids simply being machines, he had a cold, sinister, and even malicious personality to his programming.<ref name="TLJ:TVD">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref> BB-9E, owing to it being created by the First Order, was built with the latest technological advances, and included a [[photoreceptor]] that utilized all spectrums to aid it on its various patrols and keeping various machinery maintained.<ref name="Databank" />
+
+BB-9E served aboard the [[Supreme Leader]] [[Snoke]]'s personal [[flagship]], the [[Mega-class Star Dreadnought|''Mega''-class Star Dreadnought]] ''[[Supremacy]]''. While serving on the Supremacy, BB-9E exposed [[Finn]] and [[Rose Tico]], covert Resistance operatives, to the rest of the [[Starship|ship]].<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+
+==Behind the scenes==
+BB-9E was first revealed when several [[LEGO]] sets' packaging for [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] [[LEGO Star Wars Episode VIII: The Last Jedi|toy line]] leaked on [[May 26]], [[2017]].<ref name="Nerdist">{{Cite web|url=http://nerdist.com/star-wars-last-jedi-snoke-lego-nerdist-news/|title=New LEGO Leaks Reveal Snoke and THE LAST JEDI Spoilers|accessdate=2017-06-02|last=Marnell|first=Blair|date=2017-05-30|work=[[Wikipedia:Nerdist News|Nerdist]]|publisher=nerdist.com|archiveurl=https://web.archive.org/web/20170602024534/http://nerdist.com/star-wars-last-jedi-snoke-lego-nerdist-news/|archivedate=2017-06-02}}</ref> The droid was officially introduced in a preview for the [[Force Friday]] II products, released on [[August 31]], 2017.<ref name="Force Friday" /> BB-9E also acted as one of the three droids of the "App-Enabled Droids" app AR game by [[Wikipedia:Sphero|Sphero]] alongside [[R2-D2]] and BB-8, with BB-9E in particular giving a tour of the ''Supremacy''.<ref name="Sphero">[https://play.google.com/store/apps/details?id=com.sphero.starwars ''Star Wars'' App-Enabled Droids by Sphero]</ref> The droid made his first appearance in the non-[[canon]] ''[[Star Wars Blips]]'' episode "[[Hey You]]", where he had a run in with BB-8.<ref name="Blips">{{Blips|Hey You}}</ref>
+
+BB-9E was nicknamed "BB-H8", as in "hate", on the set of ''The Last Jedi''.<ref name"RianTwitter">{{Twitter|rianjohnson|status/903299927572307968|[[Rian Johnson]]|quote=Just be thankful we didn't stick with his obscenely adorable on set nickname, BB-H8|image=}}</ref>
+
+During the early development of ''The Last Jedi'', BB-9E went almost three different designs made by [[Luke Fisher]] before the final one which was featured in the finished version of the film. Interestingly, every design mostly affected the droid's head. Additionally, its original name was going to be BB-Hate in order, according to droid and creature effects supervisor [[Neal Scanlan]], to demonize BB-8.<ref name="Art of TLJ">''[[The Art of Star Wars: The Last Jedi]]''</ref>
+
+==Appearances==
+*''[[Star Wars: Force Arena]]''
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] {{C|First [[canon]]ical appearance}}
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[The Last Jedi Adaptation 4]]''
+
+===Non-canon appearances===
+*{{Blips|Hey You}} {{1st}}
+
+==Sources==
+*{{LEGOCite|tlj|75179|Kylo Ren's TIE Fighter}}
+*{{LEGOCite|tlj|75190|First Order Star Destroyer}}
+*{{SW|url=news/force-friday-ii-first-look-select-new-star-wars-products|text=Force Friday II: First Look at Select New ''Star Wars'' Products}}
+*[https://play.google.com/store/apps/details?id=com.sphero.starwars ''Star Wars'' App-Enabled Droids by Sphero]
+*{{HasbroCite|set=Star Wars: Droid Factory (toy line)|text=''Star Wars: Droid Factory''|link=|pack=''Star Wars: The Last Jedi'' set}}
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*{{SW|url=news/designing-star-wars-the-last-jedi-part-3-bb-9e|text=Designing ''Star Wars: The Last Jedi'', Part 3: Developing BB-9E, a Droid Fit for the First Order}}
+*''[[Star Wars: The Last Jedi: Ultimate Sticker Collection]]''
+*''[[Star Wars: The Last Jedi Activity Book with Stickers]]'' {{Po}}
+*''[[The Art of Star Wars: The Last Jedi]]''
+*{{Destiny|Legacies|cardname=BB-9E|link=https://swdestinydb.com/find?q=BB-9E}}
+*[[Star Wars: Droidography|''Star Wars: Droidography'']]
+*{{Databank|bb-9e|BB-9E|archivedate=20170904011255}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|cs=BB-9E
+|de=BB-9E#kanon
+|es=BB-9E
+|fr=BB-9E
+|ko=BB-9E
+|ja=BB-9E
+|pl=BB-9E
+|pt=BB-9E
+|ru=BB-9E
+|uk=BB-9E
+}}
+
+[[Category:BB-series astromech droids]]
+[[Category:First Order individuals]]
+[[Category:Individual droids]]

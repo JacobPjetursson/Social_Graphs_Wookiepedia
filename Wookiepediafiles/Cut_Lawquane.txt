@@ -1,0 +1,73 @@
+{{Eras}}
+{{Image}}
+{{Character
+|type=
+|image=[[File:CutLawquaneHS-SWE.jpg]]
+|name=Cut Lawquane
+|homeworld=[[Kamino]]<ref name="Cut Lawquane">{{Databank|cut-lawquane|Cut Lawquane|archivedate=20170706051743}}</ref>
+|birth=
+|death=
+|species=[[Human]] {{C|[[Cloning|clone]]}}<ref name="The Deserter">{{TCW|The Deserter}}</ref>
+|gender=[[Sexes|Male]]<ref name="The Deserter" />
+|height=1.83 [[meter]]s<ref name="Cut Lawquane" />
+|mass=
+|hair=[[Color|Black]];<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref> {{C|dyed red}}<ref name="The Deserter" />
+|eyes=Brown<ref name="The Deserter" />
+|skin=Tan<ref name="The Deserter" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="The Deserter" />
+**[[Grand Army of the Republic]]<ref name="The Deserter" />
+|masters=
+|apprentices=}}
+{{Quote|My name is Lawquane. Cut Lawquane.|Cut Lawquane|The Deserter}}
+'''Cut Lawquane''' was a [[clone trooper]] who fought for the [[Galactic Republic]] during the [[Clone Wars]]. Shortly after the [[Battle of Geonosis]], Lawquane's [[transport]] was attacked by [[Confederacy of Independent Systems|Separatist]] [[gunship]]s, leaving his fellow [[soldier]]s either dead or injured. Lawquane fled, deserting the [[Grand Army of the Republic|army]], and later married [[Suu Lawquane]]. The War later [[Battle of Saleucami|made its way]] to [[Saleucami]], where Lawquane, Suu, and his two adopted children lived. Lawquane met [[Clone Captain]] [[Rex]], who helped defend his home from [[BX-series droid commando|commando droids]].
+
+==Biography==
+===Deserting the Republic===
+{{Quote|Shortly after the Battle of Geonosis, our troop transport got caught between two Separatist gunships. They fired at us with everything they had. We crashed. Most of us were either dead or severely injured. So when they started working their way through the wounded, killing us off, I knew there was no hope. I ran. It still haunts me.|Cut Lawquane|The Deserter}}
+Like all [[clone trooper]]s, Cut Lawquane was a [[Cloning|clone]] of the [[bounty hunter]] [[Jango Fett]], and was bred on the [[water]]y [[Planet|world]] of [[Kamino]].<ref name="Episode II" /> Shortly after the [[Battle of Geonosis]], the first battle of the [[The galaxy|galaxy]]-wide [[Clone Wars]], Lawquane was on board a [[transport]] along with several other [[trooper]]s. Two [[Confederacy of Independent Systems|Separatist]] [[gunship]]s [[Attack on a Republic troop transport|attacked]] the transport, crashing it, and proceeded to [[Death|eliminate]] any surviving clones. Lawquane, realizing there was no chance of survival if he stayed with his fellow [[soldier]]s, fled.<ref name="The Deserter" />
+
+Lawquane eventually met [[Suu Lawquane|Suu]], a [[Sexes|female]] [[Twi'lek]] whom he fell in love with and [[Marriage|married]]. Lawquane became [[Parent|father]] of two children, [[Shaeeah Lawquane|Shaeeah]] and [[Jek Lawquane|Jek]], and the four lived together on the [[Outer Rim Territories|Outer Rim]] planet of [[Saleucami]], where they maintained a [[Cut Lawquane's farmstead|farm]].<ref name="The Deserter" />
+
+===Battle of Saleucami===
+{{Quote|So... I see the war has finally made its way out here, and I guess I can expect a visit from some droids soon.|Cut Lawquane|The Deserter}}
+As the Clone Wars waged on, they eventually [[Battle of Saleucami|came]] to Lawquane's home of Saleucami. Separatist [[General]] [[Grievous]] intended to invade the planet, however his [[C-9979 landing craft|landing craft]] was shot down by the [[Galactic Republic]], forcing him and his [[Battle droid|droids]] to flee to the planet surface in [[escape pod]]s.<ref name="The Deserter" />
+[[File:Lawquane farm.png|left|thumb|271x271px|Cut's farm]]
+As the Republic's hunt for the general commenced, Lawquane returned home. He returned to his homestead only to find a stranger in his barn. Lawquane cautiously entered the barn, arming himself with a [[staff]], slowly raising it up at the stranger. The stranger pulled a [[DC-17 hand blaster|blaster pistol]] on him, which Lawquane swiftly knocked from his hand, and discovered that the stranger was in fact a clone. The clone, [[Clone Captain|Captain]] [[Rex]], who had been staying in the barn after being injured by a [[BX-series droid commando|commando droid]] [[sniper]], immediately recognized Lawquane as a clone, and accused him of deserting the [[Grand Army of the Republic|Republic Army]].<ref name="The Deserter" /> Cut defended himself by telling Rex his story. After the [[Battle of Geonosis]], he and his troopmates were injured and since clones are expendable, they were going to kill him. So he ran. He landed on Saleucemai, where he met his [[Twi'lek]] wife, [[Suu Lawquane|Suu]]. At dinner, Rex started to warm up to Lawquane, although only slightly. After dinner, Cut's two children decided to play outside, where they discovered a droid escape pod. The girl accidentally pressed a button and activated the twenty Commando Droids inside. Cut knew Rex was injured, and volunteered to take on the droids himself, leaving Rex as the last line of defense for his family. Cut skillfully killed the majority of the droids, having Rex finish a couple off. As Rex walked off, Suu asked Rex if he was going to report Cut. Rex responded by saying that it was his duty. Cut got disheartened, but Rex claimed, "In my condition, I may forget everything." He left, with them being equals. Rex did not report Cut, implying he was right or lied to his generals. <ref name="The Deserter" />
+
+===Legacy===
+{{Quote|Both of you, picking sides. Side you should pick is your family. No matter what. Above all else. But here you sit, bickering like a bunch of starkles over which one gets the first and last worm. You know the Lawquanes? Old man Cut, he fought in the Clone Wars. He saw the truth of things: No side in war is the right side. He did the right thing. Settled down. Had a family. Never got drawn back into the muck.|Glenn|Aftermath}}
+After the [[Battle of Endor]], Cut was used as an example of someone who had left conflict to start a family.<ref name="Aftermath">''[[Aftermath]]''</ref>
+
+{{Char-stub}}
+
+==Appearances==
+*{{TCW|The Deserter}} {{1st}}
+*''[[Aftermath]]'' {{Mo}}
+
+==Sources==
+*{{SWArchive|url=theclonewars/guide/episode210.html|text=''The Clone Wars'' Episode Guide: The Deserter}}
+*{{SW|text="The Deserter" Episode Guide|url=tv-shows/clone-wars/the-deserter}}
+*{{SWE|characters|jesse|Jesse}}
+*{{SWE|characters|cutlawquane|Cut Lawquane}}
+*{{SWE|characters|nuna|Nuna}}
+*{{SWE|characters|clonecaptainrex|Clone Captain Rex}}
+*{{SWE|locations|saleucami|Saleucami}}
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|cut-lawquane|Cut Lawquane|archivedate=20170706051743}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|ru=Кат Локуэйн/Канон
+|ja=カット・ロクウェイン
+|es=Cut Lawquane
+}}
+
+{{DEFAULTSORT:Lawquane, Cut}}
+[[Category:Clone troopers]]
+[[Category:Defectors]]
+[[Category:Farmers]]

@@ -1,0 +1,84 @@
+{{Eras}}
+{{Update|[[The Sand Will Provide]], [[From a Certain Point of View]], [[Star Wars 5: Skywalker Strikes, Part V]]}}
+{{Character
+|type=
+|image=[[File:Wuher-ANH.png]]
+|name=Wuher
+|homeworld=[[Tatooine]]<ref name="USW">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="ANH">[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]</ref>
+|gender=[[Sexes|Male]]<ref name="ANH" />
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="ANH" />
+|eyes=Brown<ref name="ANH" />
+|skin=Light<ref name="ANH" />
+|cyber=
+|era=
+|affiliation=[[Chalmun's Cantina]]<ref name="ANH" />
+|masters=
+|apprentices=}}
+{{Quote|If you have a drink in your hand, you don't need me for nothing.|Wuher|We Don't Serve Their Kind Here}}
+'''Wuher''' was a [[human]] [[Sexes|male]] from [[Tatooine]] who worked as a [[bartender]] at [[Chalmun's Cantina]].<ref name="ANH" />
+
+He strongly [[Anti-droid sentiment|disliked]] [[droid]]s and installed a [[droid detector]] in the [[cantina]] to keep them out.<ref name="theirkind">{{Shortstory|story=We Don't Serve Their Kind Here|book=From a Certain Point of View}}</ref> Despite this, [[Luke Skywalker]] and [[Obi-Wan Kenobi]] entered with the droids [[C-3PO]] and [[R2-D2]]. Upon noticing their presence, he ordered that the droids would have to wait outside.<ref name="ANH" />
+
+Some time afterwards, [[Boba Fett]] arrived at the cantina and asked for the identity and name of Luke Skywalker. After torturing an [[Unidentified six-armed alien|alien]], Wuher told Fett that he and the patrons didn't know the identity or name of the boy he was searching for.<ref name="Star Wars 5">''[[Star Wars 5: Skywalker Strikes, Part V]]''</ref>
+
+==Personality and traits==
+{{Quote|Hey! We don't serve their kind here!''"<br />"''What?''"<br />"''Your droids. They'll have to wait outside. We don't want them here.|Wuher and Luke Skywalker|Star Wars: Episode IV A New Hope}}
+Wuher disliked the concept of [[slavery]], feeling that nobody should have to be a slave. He himself could have had an easier [[time]] in his work at Chalmun's Cantina by purchasing slaves, but decided against it. He disliked [[bounty hunter]]s for similar reasons, but could not refuse their patronage for fear of what it would do to his reputation. His abiding dislike of droids stemmed from the [[death]] of his [[parent]]s at the hands of [[battle droid]]s [[Battle on Arkax Station|during]] the [[Clone Wars]]. He had great respect, however, for [[Jedi]], who saved him from an entire [[battalion]] of droids. His nightly ritual was to go home and drink a glass of [[blue milk]] to settle his [[stomach]].<ref name="theirkind" />
+
+==Behind the scenes==
+Wuher was portrayed by British actor [[Ted Burnett]] in ''[[Star Wars: Episode IV A New Hope|A New Hope]]''.<ref name="ANH" /> However, his dialog was dubbed with the voice of another actor.{{Source?}}
+
+The character was known only as "The Bartender" at the time of the film's release, but the [[Star Wars Legends|''Star Wars'' Legends]] source ''[[Mos Eisley Adventure Set]]'' gave the character's name as "Cedo Partu." The character was later renamed as "Wuher."<ref name="DB">{{DB|character|wuher|Wuher}}</ref> The new name was later confirmed as part of the [[canon]] continuity established on [[April 25]], [[2014]]<ref name="End of EU">{{SW|url=/news/the-legendary-star-wars-expanded-universe-turns-a-new-page.html|text=The Legendary Star Wars Expanded Universe Turns a New Page}}</ref> in the reference book ''[[Ultimate Star Wars]]''.<ref name="USW" />
+
+==Appearances==
+*{{Shortstory|story=The Sand Will Provide|book=Star Wars 37: Imperial Pride}}
+*''[[Bounty Hunt]]''
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]''
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*''[[Star Wars: A New Hope Graphic Novel Adaptation]]''
+*[[Star Wars (LINE Webtoon)|''Star Wars'' LINE Webtoon]]
+*''[[Star Wars: Heroes Path]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*{{Shortstory|story=The Luckless Rodian|book=From a Certain Point of View}}
+*{{Shortstory|story=Not for Nothing|book=From a Certain Point of View}}
+*{{Shortstory|story=We Don't Serve Their Kind Here|book=From a Certain Point of View}}
+*{{Shortstory|story=You Owe Me a Ride|book=From a Certain Point of View}}
+*{{Shortstory|story=The Secrets of Long Snoot|book=From a Certain Point of View}}
+*{{Shortstory|story=Born in the Storm|book=From a Certain Point of View}}
+*''[[Star Wars 5: Skywalker Strikes, Part V]]''
+
+===Non-canon appearances===
+*{{Droid Tales|Mission to Mos Eisley (episode)|Mission to Mos Eisley}}
+
+==Sources==
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*{{InsiderCite|159|A Certain Point of View (Star Wars Insider)#Star Wars Insider 159: "Not Coming Soon to a Theater Near You!"|Not Coming Soon to a Theater Near You!}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|wuher|Wuher|archivedate=20150827081234}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Wuher#kanon
+|es=Wuher
+|fr=Wuher
+|ja=ウーハー
+|nl=Wuher
+|pl=Wuher
+|ru=Вухер
+}}
+
+[[Category:Bartenders]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Tatooinians]]

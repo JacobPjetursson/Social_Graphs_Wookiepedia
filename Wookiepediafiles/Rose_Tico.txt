@@ -1,0 +1,174 @@
+{{Eras|ssprot}}
+{{Update|[[Star Wars: Forces of Destiny—Rose & Paige]], [[The Last Jedi: Cobalt Squadron]], [[The Last Jedi: Bomber Command]], [[Rose Knows]], [[Star Wars: The Last Jedi: Expanded Edition]], [[Shuttle Shock]]}}
+{{Expand}}
+{{Image}}
+{{Character
+|type=Resistance
+|image=[[File:RoseTicoTLJCollector'sEdition.png]]
+|name=Rose Tico
+|homeworld=[[Hays Minor]]<ref name="Cobalt Squadron">''[[The Last Jedi: Cobalt Squadron]]''</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="Databank">{{Databank|rose-tico|Rose Tico}}</ref>
+|gender=[[Sexes|Female]]<ref name="Databank" />
+|height=
+|mass=
+|hair=[[Color|Black]]<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+|eyes=Brown<ref name="Episode VIII" />
+|skin=Tan<ref name="Episode VIII" />
+|cyber=
+|era=
+|affiliation=*[[Resistance]]<ref name="Databank" />
+**[[Resistance ground crew]]<ref name="Updated and Expanded">''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''</ref>
+**[[Cobalt Squadron (Resistance)|Cobalt Squadron]]<ref name="Cobalt Squadron" />
+**[["Reb" Squadron]]<ref name="Episode VIII" />
+|masters=
+|apprentices=}}
+{{Quote|That's how we're gonna win, not fighting what we hate, but saving what we love.|Rose Tico to Finn|Star Wars: Episode VIII The Last Jedi}}
+'''Rose Tico''' was a [[Sexes|female]] [[human]] who served in the [[Resistance]] as a [[Resistance technician|maintenance worker]] during their [[Cold war|conflict]] with the [[First Order]], whom Tico had hated since she was a [[Youngling|child]]. Tico's older sister, [[Paige Tico|Paige]], was a [[gunner]] in the Resistance.
+
+==Biography==
+===Early life===
+Rose Tico and her older sister [[Paige Tico|Paige]] grew up [[Hays Minor]], a impoverished mining colony in the [[Otomok system]]. The First Order forced her people to mine their planet's resources to feed their war machine, then shelled them to test the results. Having lost everything they had to the First Order, Rose and her sister joined the Resistance to avenge their homeworld.<ref name="Cobalt Squadron" />
+
+===Helping Poe Dameron===
+[[File:Thanking Rose.JPG|thumb|left|260x260px|Resistance members thanking Rose for fixing the door.]]
+After being transfered to the [[Resistance]] [[cruiser]] ''[[Raddus (MC85 Star Cruiser)|Raddus]]'', Rose spent a long time reading through how it worked. Another [[Technician|mechanic]] named [[Lazslo]] mocked [[Sexes|her]] by saying she never did any hard work, just sat there and read. Paige then told her to go to [[sleep]], but Rose continued, stating that she had to keep reading as some commands were even in [[Calamarian]]. When [[First Order]] [[Starship|ships]] appeared and [[Poe Dameron]] was trapped outside the ship with the [[hangar]] door being unable to open, Rose helped him by figuring out the problem and opening the door. Everyone thanked her and in the end, all the reading paid off.<ref name="Rose Knows">{{IDWAdventuresCite|6|[[Rose Knows]]}}</ref>
+
+===Evacuation of D'Qar===
+Rose Tico and her sister were both active fighters in General [[Leia Organa]]'s Resistance. Her older sister Paige was a gunner on the [[MG-100 StarFortress SF-17|Resistance bomber]] ''[[Cobalt Hammer]]'', which served as part of [[Cobalt Squadron (Resistance)|Cobalt Squadron]].<ref name="Cobalt Squadron" /> While Rose was a mechanic, both siblings were very close; they each wore matching pendants around their necks at all times. Paige died in the [[Evacuation of D'Qar|Battle of D'Qar]], which greatly upset Rose, who was aboard the ''Raddus'' during the evacuation.<ref name="Episode VIII" />
+
+She was stationed in the ''Raddus''{{'}} escape-pod bay to prevent any deserters from escaping during the ensuing battle between the First Order and Resistance fleets.<ref name="Episode VIII" />
+
+[[Finn]], in an attempt to warn [[Rey]] of the critical danger that the Resistance now faced, attempted to leave the ''Raddus'' and make contact with her by stealing one of the escape pods.<ref name="Episode VIII" />
+
+When Rose caught Finn trying to escape she was initially flustered at meeting a "Resistance hero," not realizing his intent to leave. When she did finally notice his packed bag, she stunned him with an [[electro-shock prod]], put him on a cart and attempted to drag him to the brig, believing him to be one of many attempting to desert in light of the overwhelming odds the Resistance was facing.
+
+When Finn came to, he tried to convince her that he was not merely a deserter but was trying to warn his friend of the direness of the Resistance's situation, pointing out the fact that the ''Raddus'' would be tracked by the First Order through hyperspace, chasing them down until they ran out of fuel and were destroyed.<ref name="Episode VIII" />
+
+Rose realized that the First Order must be using a tracking device aboard the ''[[Supremacy]]''. With Rose's knowledge of mechanics and Finn's knowledge of First Order ships, the two devised a plan to shut down the tracking device and allow the ''Raddus ''to escape into hyperspace. They informed Dameron of their plan to infiltrate the ''Supremacy'', although they did not know how to decrypt the ship's computer codes to be able to gain access to the ship itself. Dameron called [[Maz Kanata]], who referred them to a "master codebreaker" that they would be able to find on [[Cantonica]].<ref name="Episode VIII" />
+
+===Canto Bight===
+[[File:Rose Finn Canto Bight Empire Magazine.jpg|thumb|right|309x309px|Rose and Finn search for the codebreaker in the Canto Bight casino.]]
+Without permission from acting commander [[Vice Admiral]] [[Amilyn Holdo]], Finn, Rose, and [[BB-8]] took a ship and traveled to the casino city of [[Canto Bight]]. While Finn marveled at the superficial beauty of the city, Rose understood the darkness hiding underneath. She pointed out that many of these rich people and gamblers had come into their fortunes by selling weapons and goods to the First Order, or otherwise had profited from war and the suffering of others. She also pointed out to him the blatant abuse of the [[fathier]]s and their child caretakers, expressing a desire to shatter their hollow and selfish town.<ref name="Episode VIII" />
+
+Rose and Finn continued to search for the "master codebreaker," and thought they had identified him by the pin he wore on his lapel, but they were arrested by the [[Canto Bight Police Department|Canto Bight Police]] for parking their ship on a private beach.<ref name="Episode VIII" />
+
+While in prison, they met a [[DJ|mysterious figure]] who claimed to be able to get them onto the ''Supremacy'' undetected. Rose and Finn politely declined. The man shrugged it off and proceeded to open the door of their cell with a lockpick.<ref name="Episode VIII" />
+
+Now free, Finn and Rose escaped through the sewer system of the city, emerging in the fathier stables. There, Rose secured the allegiance of the young slave [[Temiri Blagg]] by showing him her Resistance ring, which she then gave to him before they released the animals and the herd stampeded through the city, leaving a wave of destruction in their wake.<ref name="Episode VIII" />
+
+Riding one of the fathiers out of the city, Finn and Rose attempted to reach their ship, but the police destroyed it before they could reach it. The mysterious slicer suddenly returned with BB-8 aboard a stolen vessel, rescuing Finn and Rose once again.<ref name="Episode VIII" />
+
+===''Supremacy''===
+[[File:UndercoverFO.png|thumb|left|337x337px|The trio infiltrates the ''Supremacy''.]]
+The slicer decided to help the duo infiltrate the First Order after Rose offered him her gold pendant as a down payment.<ref name="Episode VIII" />
+
+As promised, his hacking skills were impressive, and they passed through the ''Supremacy''{{'s}} radar undetected. They stole a set of First Order uniforms from the supply rooms and sneaked through the ship until they reached the tracking mechanism.<ref name="Episode VIII" />
+
+The slicer used Rose's pendant as a conductor in order to hotwire a door panel; he returned it to her afterward. The door opened, but the trio was quickly surrounded by First Order forces. Once captured, the slicer made a deal with the First Order to secure his freedom, allowing the ''Supremacy'' to spot the fleeing Resistance shuttles and begin firing on them.<ref name="Episode VIII" />
+
+Rose and Finn were taken before [[Captain]] [[Phasma]] and [[General]] [[Armitage Hux]], the latter of whom recognized Rose's medallion as being from the Otomok system and took the opportunity to taunt her, mocking her home system as vermin. Refusing to be cowed, Rose bit his hand hard enough to draw blood, humiliating the general in front of his troops and leading him to call for their execution. Deeming death by firing squad to be "too good for them," Phasma summoned a pair of [[First Order stormtrooper executioner|stormtrooper executioners]] instead. Before they could be executed, however, Vice Admiral Holdo jumped the ''Raddus'' to hyperspace right through the First Order fleet, splitting the ''Supremacy''. The blast briefly knocked Finn unconscious, whereupon Rose began dragging him towards a nearby shuttle, before he regained consciousness. But their way was barred by Phasma and a squad of stormtroopers, who immediately opened fire on them. Suddenly, a rogue [[First Order All Terrain Scout Transport|AT-ST]] began firing on Phasma and her [[Stormtrooper (First Order)|stormtroopers]]. The pilot of the rogue walker was revealed to be BB-8 when the armor of the walker was removed. Rose took cover as Finn engaged Phasma with a [[Z6 riot control baton]], ultimately besting his former superior, who plunged into a fiery pit.<ref name="Episode VIII" />
+
+In the ensuing chaos of the ''Supremacy''{{'s}} destruction, Rose and Finn escaped with BB-8 aboard a stolen First Order shuttle. They took the shuttle to [[Crait]], where the remainder of the Resistance forces had retreated at an abandoned [[Alliance to Restore the Republic|Rebel Alliance]] base. As their shuttle was being pursued by two TIE fighters, the Resistance assumed all three craft to be hostile and began closing the base doors. Rose and Finn managed to pilot their shuttle into the hanger just before the doors shut, resulting in critical damage to the shuttle, before they were met with a barrage of blasterfire from the Resistance members. To prove they were not First Order, the duo showed their hands, prompting their comrades to cease fire.<ref name="Episode VIII" />
+
+===Battle of Crait===
+Rose piloted a [[V-4X-D ski speeder|ski speeder]] during the [[Battle of Crait]]. The speeders were relics left in the base from the days of the Rebel Alliance and so were in a state of serious disrepair. Having no other option, Rose and several other pilots, including Finn and Dameron, flew the speeders towards the First Order's [[Superlaser siege cannon|battering ram cannon]] in order to prevent them from entering the base and destroying the last of the Resistance.<ref name="Episode VIII" />
+
+The majority of the speeders were destroyed by [[All Terrain MegaCaliber Six|AT-M6]] fire. When Dameron ordered the squadron to retreat and fall back to the base, Finn refused to retreat with them, instead deciding to fly his speeder into the cannon in an attempt to destroy it. Rose crashed her speeder into his in order to stop him from doing so and save his life, though she badly injured herself in the process. Before falling unconscious, Rose told her friend that they had to fight for what they loved instead of just fighting what they hated, and kissed the dumbfounded Finn.<ref name="Episode VIII" />
+
+Finn dragged her back to the base in order for her to receive medical aid. She was transported onboard the ''Millennium Falcon'', with the few remaining survivors of the Resistance who survived the Battle of Crait, with Finn watching over his unconscious friend.<ref name="Episode VIII" />
+
+===Aboard the ''Falcon''===
+Following the Battle of Crait, after talking with Poe and Rey, Finn took the opportunity to check on Rose.<ref name="Poe Dameron 27">''[[Poe Dameron 27: The Awakening, Part II]]''</ref> Shortly afterwards, after telling Rey some of his recent experiences, Dameron met Finn and asked him how Rose was, to which Finn stated that she was asleep, something he thought that was good, though he wasn't sure at all, as he wasn't a [[doctor]], commenting on the first aid training received by the First Order stormtrooper and the realization that the stormtroopers who failed were left to die from their injuries, leading Dameron to tell his friend that he was sure that Tico would be alright even though he couldn't be sure she was, but that he was sure that he can choose to believe the former. Finn then proceeded to clothe Rose.<ref name="Poe Dameron 28">''[[Poe Dameron 28: The Awakening, Part III]]''</ref>
+
+==Behind the scenes==
+Rose Tico was portrayed by [[Kelly Marie Tran]] in the [[2017]] ''Star Wars'' film [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']].<ref name="Episode VIII" /> Tran's casting in the film was first announced on [[February 15]], [[2016]].<ref name="Cast Announce">{{SW|url=news/star-wars-episode-viii-now-filming|text=Star Wars Episode VIII now filming}}</ref> The first photo of Rose was released during The Last Jedi panel at [[Celebration Orlando]] on [[April 15]], 2017.<ref>{{SWYoutube|Mh4X4N-8fEM|Star Wars: The Last Jedi Panel <nowiki>|</nowiki> Star Wars Celebration Orlando 2017 (US)}}</ref> Rose's surname of Tico was revealed by ''[[Wikipedia:Vanity Fair|Vanity Fair]]'' on [[May 23]], 2017.<ref name="Vanity Fair">{{Cite_web|url=https://www.vanityfair.com/hollywood/2017/05/star-wars-the-last-jedi-four-covers|title=See the Cast of Star Wars: The Last Jedi on Four Exclusive Vanity Fair Covers|work=Vanity Fair|date=2017-05-23|accessdate=2017-05-23|archivedate=2017-09-27|archiveurl=https://web.archive.org/web/20170927032909/https://www.vanityfair.com/hollywood/2017/05/star-wars-the-last-jedi-four-covers}}</ref> Rose was named after Maz Kanata's original name during the pre-production of [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']], which was a tribute to director [[J.J. Abrams]]' and production designer [[Rick Carter]]'s late teacher [[Rose Gilbert]].<ref name="Art Last Jedi">''[[The Art of Star Wars: The Last Jedi]]''</ref>
+
+''The Last Jedi'' director [[Rian Johnson]] conceived Rose because he realized that having Poe go with Finn to Canto Bight would have been boring. "It was just these two dudes on an adventure," he said. "I knew something was wrong when I looked at their dialogue and realized I could interchange any of the lines. There wasn't conflict between them. So I realized I had to come up with something else. Finn needing somebody else to go with who would actually challenge him and push him and contrast with him was where Rose came from."<ref name="Art Last Jedi" />
+
+He did not envision Rose with a specific ethnicity, auditioning Caucasian actresses and women of color for the role. "We saw a lot of talented actresses of a very broad range — but honestly, it was more about finding Kelly," he recalled. "There was something about Kelly that had that kind of genuine oddball nature and a real sweetness to her. She has the most open heart of anyone I've ever met and I knew that was going to shine through onscreen."<ref name="LATimes">{{Cite_web|url=http://www.latimes.com/entertainment/movies/la-et-mn-star-wars-last-jedi-rian-johnson-20171217-story,amp.html|title=How Rian Johnson made heroism inclusive in 'Star Wars: The Last Jedi'|work=Los Angeles Times|first=Jen|last=Yamato|date=2017-12-17|accessdate=2017-12-18|archivedate=2017-12-20|archiveurl=https://web.archive.org/web/20171220081412/http://www.latimes.com/entertainment/movies/la-et-mn-star-wars-last-jedi-rian-johnson-20171217-story,amp.html}}</ref>
+
+Tran had never seen a ''[[Star Wars]]'' movie until she got the part: she was more of a fan of other series like ''[[Wikipedia:The Lord of the Rings (film series)|The Lord of the Rings]]'' or ''[[Wikipedia:Harry Potter (film series)|Harry Potter]]''. She attributes the fact she landed the part to this oversight, explaining "I didn't have this expectation of what I thought this person should be like; I wasn't trying to model her after someone I'd seen in a movie."<ref name="Rise of Rose">{{cite web|url=https://www.buzzfeed.com/keelyflaherty/the-rise-of-rose/|title=The Rise of Rose: How A Badass Nerd Became The New "Star Wars" Lead|work=BuzzFeed|first=Keely|last=Flaherty|date=2017-11-14|accessdate=2017-11-15|archivedate=2017-12-20|archiveurl=https://web.archive.org/web/20171220184708/https://www.buzzfeed.com/keelyflaherty/the-rise-of-rose?utm_term=.gvJjBRb2Y#.so2b5XGvd}}</ref>
+
+[[Carrie Fisher]] inspired Rose and Paige's crescent necklaces. Johnson tweeted in response to a fan inquiring about the idea that, "In rehearsals Carrie grabbed my arm and told me with great urgency that we needed 'space jewelry.' I thought that was a fabulous idea. So."<ref name="Nerdist">{{Cite_web|url=https://nerdist.com/star-wars-the-last-jedi-carrie-fisher-space-jewelry-rian-johnson/|title=THE LAST JEDI Has New Space Jewelry Because of Carrie Fisher|work=The Nerdist|date=2017-11-05|first=Amy|last=Ratcliffe|accessdate=2017-12-18|archivedate=2017-11-06|archiveurl=https://web.archive.org/web/20171106012903/https://nerdist.com/star-wars-the-last-jedi-carrie-fisher-space-jewelry-rian-johnson/}}</ref>
+
+Despite the critical success of ''The Last Jedi'' at the box office, Tran received online racist attacks over her portrayal of Rose Tico including vandalism to her character's Wookieepedia article and far-right vlogger [[Wikipedia:Paul Ray Ramsey|Paul Ray Ramsey's]] tweet attacking her physical appearance. This attracted coverage from several news media including [[Wikipedia:Newsweek|''Newsweek'']] and [[Wikipedia:HuffPost|''HuffPost'']].<ref name="Newsweek">{{Cite_web|last1=Menta|first1=Anna|title=Racist Attacks Against Kelly Marie Tran posted  to Rose Tico's Wookieepedia page|url=http://www.newsweek.com/racist-rose-tico-wookieepedia-page-753063|accessdate=4 January 2018|publisher=[[Wikipedia:Newsweek|''Newsweek'']]|date=19 December 2017}}</ref><ref name="HuffPost">{{Cite_web|last1=Moye|first1=David|title=Kelly Marie Tran Of 'Last Jedi' Facing Racist, Sexist Comments Online|url=https://www.huffingtonpost.com/entry/kelly-marie-tran-racists-last-jedi_us_5a4400fee4b06d1621b6b2bb|accessdate=4 January 2018|publisher=[[Wikipedia:HuffPost|HuffPost]]|date=27 December 2017}}</ref> In response to criticism likening Tico to [[Jar Jar Binks]], the official Star Wars Facebook page defended the character's contribution to the story plot.<ref name="CBR">{{Cite_web|title=Star Wars Facebook Page Defends Last Jedi's Rose Tico Against Irate Fans|url=https://www.cbr.com/star-wars-facebook-defends-rose-tico/|publisher=CBR|accessdate=4 January 2018}}</ref> Attorney Anthony Nguyen described Tran as the first "woman of color" to be cast in a leading role in the ''Star Wars'' franchise, while journalist Nicole Karlis commented that attacks on Tran reflected a fear of women who defied sexist stereotypes.<ref name="Cision">{{cite web|title=Attorney Anthony Nguyen Comments on the Racist Backlash Against Vietnamese-American Actress Kelly Marie Tran|url=https://www.prnewswire.com/news-releases/attorney-anthony-nguyen-comments-on-the-racist-backlash-against-vietnamese-american-actress-kelly-marie-tran-300576592.html|publisher=Cision|accessdate=4 January 2018}}</ref><ref name="Salon">{{Cite_web|last1=Karlis|first1=Nicole|title=Threats against Kelly Marie Tran highlight a fear of women who break sexist stereotypes|url=https://www.salon.com/2017/12/28/threats-against-kelly-marie-tran-highlight-a-fear-of-women-who-break-sexist-stereotypes/|accessdate=4 January 2018|publisher=[[Wikipedia:Salon (website)|Salon]]|date=29 December 2017}}</ref>
+
+==Appearances==
+*''[[5-Minute Star Wars Stories Strike Back]]''
+*''[[Star Wars: Force Arena]]'' {{1st}}
+*''[[Star Wars: Forces of Destiny—Rose & Paige]]''
+*''[[The Last Jedi: Cobalt Squadron]]''
+*''[[The Last Jedi: Bomber Command]]''
+*{{Shortstory|story=Rose and Paige Fight for the Resistance|book=Galactic Adventures Storybook Collection}}
+*{{IDWAdventuresCite|6|[[Rose Knows]]}}
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[Star Wars: The Last Jedi: A Junior Novel]]''
+*''[[The Last Jedi: Rose and Finn's Secret Mission]]''
+*''[[The Last Jedi Adaptation 2]]''
+*''[[The Last Jedi Adaptation 3]]''
+*''[[The Last Jedi Adaptation 4]]''
+*''[[The Last Jedi Adaptation 5]]''
+*''[[The Last Jedi Adaptation 6]]''
+*{{FOD|Shuttle Shock}}
+*''[[The Last Jedi: Rose Tico: Resistance Fighter]]''
+*''[[Poe Dameron 27: The Awakening, Part II]]'' {{Mo}}
+*''[[Poe Dameron 28: The Awakening, Part III]]''
+*''[[Poe Dameron 31: The Awakening, Part VI]]''
+*[[Star Wars: Episode IX|''Star Wars'': Episode IX]]
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+{{Scroll_box|content=
+*<!-- 2/15/16 -->{{SW|url=news/star-wars-episode-viii-now-filming|text=Star Wars Episode VIII now filming}}
+*<!-- 4/15/17 -->{{SWYoutube|Mh4X4N-8fEM|Star Wars: The Last Jedi Panel | Star Wars Celebration Orlando 2017 (US)}}
+*<!-- 9/1/17 -->''[[Star Wars Made Easy: A Beginner's Guide to a Galaxy Far, Far Away]]''
+*<!-- 9/7/17 -->''[[Star Wars: Card Trader]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*''[[Star Wars: The Last Jedi: Incredible Cross-Sections]]''
+*''[[Star Wars: The Last Jedi: Ultimate Sticker Collection]]''
+*''[[Star Wars: The Last Jedi Activity Book with Stickers]]''
+*''[[Star Wars: The Last Jedi: Heroes of the Galaxy]]''
+*''[[The Art of Star Wars: The Last Jedi]]''
+*<!-- 12/20/2017 -->{{SWYoutube|SFxZb-GHbrQ|Star Wars: The Last Jedi <nowiki>|</nowiki> Becoming Rose}}
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|amilyn-holdo|Amilyn Holdo|archivedate=20180407184111}}
+*{{Databank|bb-8|BB-8|archiveurl=https://archive.fo/c16lg}}
+*{{Databank|electro-shock-prod|Electro-shock prod|archiveurl=https://archive.fo/5gBGd}}
+*{{Databank|finn|Finn|archiveurl=https://archive.fo/qfElP}}
+*{{Databank|otomok-medallion|Otomok Medallion}}
+*{{Databank|paige-tico|Paige Tico}}
+*{{Databank|rebel-insignia-ring|Rebel insignia ring|archivedate=20180411000742}}
+*{{Databank|resistance-transport-pod|Resistance Transport Pod}}
+*{{Databank|rose-tico|Rose Tico}}
+*{{Databank|slowen-lo|Slowen Lo}}
+*{{Databank|temiri-blagg|Temiri Blagg}} {{Imo}}
+*{{Databank|the-libertine|The Libertine}} {{Po}}}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Rose Tico#kanon
+|el=Ρόουζ Τίκο
+|es=Rose Tico
+|fr=Rose Tico
+|ja=ローズ・ティコ
+|ko=로즈 티코
+|pl=Rose Tico
+|pt=Rose Tico
+|ru=Роуз Тико
+|uk=Роуз Тіко
+}}
+
+{{DEFAULTSORT:Tico, Rose}}
+[[Category:Cobalt Squadron personnel]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Technicians]]

@@ -1,0 +1,54 @@
+{{Eras|notoc=1}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Sache-TPM.png]]
+|name=Saché
+|homeworld=[[Naboo]]<ref name="TPM">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|birth=
+|death=
+|species=[[Human]] {{C|[[Naboo (people)|Naboo]]}}<ref name="TPM" />
+|gender=[[Sexes|Female]]<ref name="TPM" />
+|height=
+|mass=
+|hair=[[Color|Brown]]<ref name="TPM" />
+|eyes=Brown<ref name="TPM" />
+|skin=Fair<ref name="TPM" />
+|cyber=
+|era=
+|affiliation=*[[Royal House of Naboo]]<ref name="TPM" />
+**[[Naboo Royal Handmaidens]]<ref name="TPM" />
+*[[Galactic Republic]]<ref name="TPM" />
+|masters=
+|apprentices=}}
+'''Saché''' was a [[Sexes|female]] [[human]] who served as one of the [[Naboo Royal Handmaidens|handmaidens]] of [[Padmé Amidala|Amidala]], [[Monarch of Naboo|Queen]] of [[Naboo]]. During the [[Invasion of Naboo]], Saché and [[Yané]] remained behind as her sovereign and the other handmaidens fled their planet with [[Jedi Master]] [[Qui-Gon Jinn]] and his [[Padawan|disciple]], [[Obi-Wan Kenobi]]. She later attended funeral ceremony of Master Jinn.<ref name="TPM" />
+
+{{Char-stub}}
+
+==Personality and traits==
+Saché was a human female [[Naboo (people)|native]] from Naboo, she had [[Color|brown]] [[hair]], brown [[eye]]s and fair skin.<ref name="TPM" />
+
+==Behind the scenes==
+{{Quote|I asked George if I could come and watch the shoot, and he asked if I wanted to be in the royal entourage. (...) I'm at the back with a hood on and you can't really see me. I don't even remember what my character was called.|Sofia Coppola, about her role as Saché|url=http://www.empireonline.com/features/sofia-coppola-on-sofia-coppola/p8}}
+Saché was portrayed by [[Sofia Coppola]] in the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']], the first installment of the ''[[Star Wars]]'' [[prequel trilogy]].<ref name="TPM" /> Coppola considers director [[George Lucas]], a long-time friend and working partner of her father [[wikipedia:Francis Ford Coppola|Francis Ford Coppola]], "like an uncle to me&mdash;he used to send me and my brother [[wikipedia:Roman Coppola|Roman]] ''[[Star Wars]]'' toys when we were little," and upon hearing he was going back to the saga, "thought it’d be so fun to see how they make them" as she was preparing her own directorial debut ''[[wikipedia:The Virgin Suicides (film)|The Virgin Suicides]]'', released that same year. When she asked Lucas if she could attend the shoot, he offered her the role of Saché, and she accepted as "it seemed like a good vantage point to watch without getting in the way."<ref name="Empire">{{Cite web|publisher=''Empire''|title=Sofia Coppola: Film By Film: From ''The Godfather Part III'' to ''The Bling Ring'' {{C|Page 8}}|url=http://www.empireonline.com/features/sofia-coppola-on-sofia-coppola/p8|accessdate=May 13, 2014}}</ref>
+
+==Appearances==
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
+
+==Sources==
+*{{SWE|groups|nabooroyalhandmaidens|Naboo royal handmaidens}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]'' {{Imo}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]'' {{Imo}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Saché
+|ko=사셰
+}}
+
+[[Category:Females]]
+[[Category:Galactic Republic individuals]]
+[[Category:Humans]]
+[[Category:Naboo Royal Handmaidens]]
+[[Category:Naboo]]

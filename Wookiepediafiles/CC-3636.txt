@@ -1,0 +1,207 @@
+{{Eras}}
+{{Cleanup}}
+{{Image}}
+{{Character
+|type=Rebel
+|image=[[File:Commander Wolffe Rebels.png]]
+|name=CC-3636<br />"Wolffe"
+|homeworld=[[Kamino]]<ref name="Databank">{{Databank|clone-commander-wolffe|Clone Commander Wolffe|archivedate=20170605012138}}</ref>
+|birth=
+|death=
+|species=[[Human]] {{C|[[Cloning|clone]]}}<ref name="Databank" />
+|gender=[[Sexes|Male]]<ref name="Databank" />
+|height=1.83 [[meter]]s<ref name="Databank" />
+|mass=
+|hair=[[Color|Black]], later white<ref name="Databank" />
+|eyes=Brown {{C|right eye lost}}<ref name="Databank" />
+|skin=Tan<ref name="Rising M">{{TCW|Rising Malevolence|Rising ''Malevolence''}}</ref>
+|cyber=[[Cybernetics|Cybernetic]] right [[eye]]<ref name="Databank" />
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Databank" />
+**[[104th Battalion]]<ref name="Rising M" />
+|masters=
+|apprentices=}}
+{{Quote|Do you think we've got a chance, General?''"<br />"''I don't believe in chance, Commander. I know if we work together, we will stay alive, and someone ''will'' find us.|Wolffe and Plo Koon|Rising Malevolence}}
+'''CC-3636''', nicknamed "'''Wolffe'''," was a veteran [[Clone Commander|clone trooper commander]] in the [[Grand Army of the Republic]] who served with [[Jedi General]] [[Plo Koon]] during the [[Clone Wars]]. The leader of the [[104th Battalion]]'s famed Wolfpack [[squad]], [[Commander]] Wolffe proved to be tireless in his efforts against the [[Confederacy of Independent Systems]], displaying an affinity for strategy. On his first mission with Koon, Wolffe served on board the [[Jedi Master]]'s [[flagship]], the ''[[Triumphant]]'', when Koon led a [[Fleet|task force]] to eliminate the Separatist [[warship]] ''[[Malevolence]]''. While [[Battle of Abregado|confronting]] the ''Malevolence'' in the [[Abregado system]], all the troopers from the Wolfpack who were on board the ship were [[Death|eliminated]], save for Koon, Wolffe, and [[trooper]]s [[Sinker]] and [[Boost]]. The four were rescued by [[Jedi]] [[General]] [[Anakin Skywalker]] and his [[Padawan]], [[Ahsoka Tano]], and Wolffe had his unit adopt new [[Phase I clone trooper armor|clone trooper armor]] in honor of his fallen comrades. Refusing to let the loss of the Wolfpack deter him from his service, he inspired loyalty amongst his men.
+
+During the [[Battle of Khorm]], Wolffe lost his right [[eye]] in a fight with the [[Sith apprentice]] [[Asajj Ventress]]. Although scarred and forced to wear a [[Cybernetics|cybernetic]] eye replacement, Wolffe continued his military service to the Republic, undertaking several [[First Battle of Felucia|key]] [[Mission to Vanqor|rescue]] [[Battle of Lola Sayu|missions]] with Koon to [[Felucia]], [[Vanqor]], and [[Lola Sayu]]. He personally oversaw a [[Mission to Aleen|supply mission]] to the [[groundquake]]-devastated planet [[Aleen]], assisted in [[Battle of Kadavo|liberating]] [[Togruta]] slaves from the [[Zygerrian Slave Empire]] on [[Kadavo]], and took part in a mission that recovered the [[lightsaber]] of the late Jedi Master [[Sifo-Dyas]].
+
+Fifteen years after the end of the Clone Wars, Wolffe was still alive and was living in a modified [[All Terrain Tactical Enforcer|AT-TE]] on [[Seelos]] with [[Captain]] [[Rex]] and [[Clone commando]] [[CC-5576-39|Gregor]]. Wolffe initially distrusted the [[Spectres]], which included the [[Jedi Purge]] survivor [[Kanan Jarrus]] among their number. Believing that the rebels were a threat, Wolffe sent a transmission that was picked up by the [[Galactic Empire|Imperial]] [[Agent]] [[Alexsandr Kallus|Kallus]]. However, Wolffe came to see reason when Rex spoke up for the rebels and told him they were not a threat. Under Rex's command, Wolffe and Gregor held back Kallus's [[All Terrain Armored Transport|AT-AT walkers]] so that the rebels could escape. Following the battle, he and Gregor stayed behind on Seelos while Rex joined the rebellion. In [[1 BBY]], Wolffe and Gregor contributed to the [[Liberation of Lothal]].
+
+==Biography==
+===The Clone Wars===
+====Lost at Abregado====
+{{Quote|Thanks for getting us out of there in one piece, General Skywalker.''"<br />"''You have my Padawan to thank for that. She always said you guys would pull through.''"<br />"''General Plo said someone would come for us. We're glad he was right.|Wolffe and Skywalker|Rising Malevolence}}
+[[File:Wolffe Koon.jpg|thumb|left|250x250px|Wolffe and Koon plan their attack on the ''Malevolence''.]]
+Some months into the Clone Wars,<ref name="Ultimate">''[[Ultimate Star Wars]]''</ref> Wolffe and Koon were dispatched by the [[Jedi High Council|Jedi Council]] to investigate a series of surprise attacks on Republic [[fleet]]s which always left no survivors by the [[Confederacy military|Separatist military]] leader, [[General]] [[Grievous]], in his [[Subjugator-class heavy cruiser|''Subjugator-class'' heavy cruiser]], the ''[[Malevolence]]''. Wollfe, the Wolfpack and Koon set out aboard the ''[[Triumphant]]'', with two other [[Venator-class Star Destroyer|''Venator-class'' Star Destroyers]] as support, and soon tracked the ''Malevolence'' to the [[Abregado system]]. Wolffe informed Koon that the ''Malevolence'' had spotted them and had reduced its speed, prompting Koon and Wolffe reported their position and request reinforcements to the nearest Republic military presence: the fleet of Jedi General [[Anakin Skywalker]] and his [[Padawan]] [[Ahsoka Tano]], who were in the nearby [[Bith system]]. However, the [[HoloNet]] signal was lost when the Separatists [[signal jammer|jammed]] signal, and began their [[Battle of Abregado|surprise attack]].<ref name="Rising M" />
+
+Grievous fired its secret [[superweapon]]: a massive [[ion cannon]]. The ion blast engulfed all three [[Star Destroyer]]s and shut down all the systems and equipment; leaving them dead in [[realspace|space]]. The now defenseless fleet fell under [[turbolaser]] fire from the ''Malevolence''. Koon, realizing the fleet was lost, ordered the evacuation of the ''Triumphant''{{'s}} crew to its [[escape pod]]s. Wolffe, Koon, [[Sergeant]] [[Sinker]] and trooper [[Boost]] boarded a [[Republic escape pod|pod]] and ejected into space just as the ''Triumphant'' exploded;<ref name="Rising M" /> turning the fleet into a graveyard and killing all of the Wolfpack&mdash;save Wolffe, Sinker and Boost.<ref name="Ultimate" />
+
+The group, alone drifting in the debris field, were unsure that anyone would come rescue them, except Koon, who was sure of it. Soon thereafter, Wolffe learned the pod's power grid was down, leaving them with little [[oxygen|air]] and no way to contact help. Koon reasoned that if they got the power restored they would survive long enough to be found, assuring them that if they worked together they would survive, therefore, the inevitable rescue party would save them. Just then, another pod appeared through their pod's [[viewport]], but the clones within had fallen victim to [[B1-series rocket battle droid|rocket battle droids]] manning a [[Droch-class boarding ship|boarding ship]]&mdash;their pod had been "cracked open". The clones were floating dead in the vacuum of space. Disturbed by the sight, Boost and Sinker quickly restored the power, so Wolffe could man the [[Comm unit|comm system]] to search for rescue craft. However, He quickly picked up a distress signal from another pod, [[Pod 1977]]. The clone officer on the comm only had a second to shout that the battle droids were attacking them and hunting down survivors. Wolffe made visual contact with the pod just as the droids cut into the pod and killed the troopers; leaving only Koon, Wollfe, Sinker and Boost as the sole survivors of the battle.<ref name="Rising M" />
+
+[[File:Escape shuttle 3636.png|thumb|right|250x250px|Wolffe, Plo Koon and his squad trapped inside one of the escape shuttles]]
+The droids spotted the group’s pod and headed towards it, forcing Koon to quickly decide to meet the enemy face-to-face&mdash;his [[Antiox mask|breath]] [[breath mask|mask]] and Boost and Sinker’s [[Phase I clone trooper armor]] would protect them from the airless environment. Woffe, however, who was wearing no armor, remained inside the pod to ensure the distress signal would continue broadcasting, as it was their only chance of survival. The Jedi and the two troopers fought the droids, who had latched on to the pod with the boarding craft's pincers and activated the "squeeze" feature on the boarding craft that began to damage the pod. Wolffe picked up a signal from Commander Tano and General Skywalker, who had come to search for survivors, against a direct order from the Jedi Council and the Supreme Chancellor. Wolffe informed Koon that the Jedi were coming, and Koon then ordered him not to lose the signal as the droid’s craft damaged the pod enough that it began to lose pressure. Koon destroyed the craft using [[Plo Koon's lightsaber|his lightsaber]] and the Force, defeating the droids. Koon, Boost and Sinker remained outside of the doomed pod to allow Wolffe more oxygen as he used his [[Midi-chlorian|connection]] to [[the Force]] to relay their position to Tano. She and Skywalker quickly located them, and Skywalker used a [[Magnetic harpoon|tow cable]] to pull the pod into the hold of his [[freighter]], the ''[[Twilight]]''.<ref name="Rising M" />
+
+[[File:Wolffe recovers.png|thumb|left|250px|Wolffe recovering aboard the Twilight]]
+Skywalker popped the viewport from the pod [[Telekinesis|using]] the Force, allowing Wolffe, who was coughing and weak from a lack of oxygen, to sit and rest while a [[2-1B surgical droid]] tended to the weakened clones. Grievous, at the helm of the ''Malevolence'', after learning the rocket droids had been killed, returned to the debris field to locate the survivors. Koon, Skywalker and Tano, in the ''Twilight's'' [[bridge (starship)|bridge]], shut down all the ship's systems and Skywalker's [[astromech droid]], [[R2-D2]]. However, the 2-1B surgical droid, [[TB-2]], was not shut down and the ''Malevolence'' picked up the signal from the droid and fired an ion blast at the ''Twilight'' as a result. Skywalker, however, a prestigious [[pilot]], used his skills to escape the debris field, evade the ion blast and enter [[hyperspace]]. The ''Twilight'' rendezvoused with Skywalker's fleet, and aboard the ''[[Resolute]]'', where Wolffe thanked Tano and Skywalker for rescuing them, glad that Koon's faith had come to pass.<ref name="Rising M" />
+
+====Losing an eye====
+Some time later, the Wolfpack's ranks were replenished with new troopers and Wolffe and his battalion participated in a [[Battle of Khorm|battle]] on [[Khorm]],<ref name="Ultimate" /> where he fought alongside [[Jedi General]] [[Anakin Skywalker]].<ref name="FC Wollfe 4">{{ForceCollection|Clone Commander Wolffe|star=4}}</ref> During the fighting, Wolffe was permanently scarred when Count Dooku's [[Sith apprentice]] [[Asajj Ventress]] cut his right [[eye]], leaving a long scar across the right side of his face.<ref name="Ultimate" /> He later had a silver [[cybernetics|cybernetic]] replacement installed.<ref name="Holocron Heist">{{TCW|Holocron Heist}}</ref> Despite his injury, Wolffe continued to serve and lead his troops.<ref name="Ultimate" />
+
+====Rescue missions====
+{{Quote|They made it through the first wave. Concentrate all fire on the cruiser on the left.|Wolffe commands the Republic fleet during the battle over Felucia|Holocron Heist}}
+[[File:WolffeFelucia-HH.jpg|thumb|right|250x250px|Wolffe giving orders]]
+Following the Battle of Khorm,<ref name="Ultimate" /> the Wolfpack and Koon were deployed on the ''[[Negotiator]]'', a ''Venator-class'' Star Destroyer, to break the [[Separatist navy]]'s [[blockade]] of the planet [[Felucia]]. The Republic forces, led by Jedi General [[Obi-Wan Kenobi]], Anakin Skywalker and Ahsoka Tano, had been overwhelmed by the droid army, so Koon led a group of [[Low Altitude Assault Transport/infantry|Low Altitude Assault/infantry]] [[gunship]]s and [[V-19 Torrent starfighter]]s through the blockade in order to rescue Skywalker and his troops, while Wolffe oversaw the space battle against the Separatist [[battleship]]s and [[starfighter]]s. Wolffe directed the clone [[gunner]]s to target and destroy the Confederate [[Munificent-class star frigate|''Munificent-class'' star frigates]]. Meanwhile, Koon and the rest of the Wolfpack extracted Skywalker, Tano, Kenobi and the clone soldiers and brought them to safety aboard the ''Negotiator''. They then returned to Coruscant, having completed the rescue mission.<ref name="Holocron Heist" /> Following's Grievous's [[Capture of Eeth Koth|capture]] of [[Eeth Koth]], Wolffe discovered a coded message from Koth that told him that Grievous was heading to [[Saleucami]].<ref name="GI">{{TCW|Grievous Intrigue}}</ref>
+
+Wolffe then assisted Plo Koon and Ahsoka in rescuing Windu and Skywalker from the wreckage of the ''[[Endurance]]'' on [[Vanqor]].<ref name="R2 Come Home">{{TCW|R2 Come Home}}</ref> He also went with Koon to rescue Skywalker's, Kenobi's, and Ahsoka's team from the [[Citadel]] on [[Lola Sayu]].<ref name="Citadel Rescue">{{TCW|Citadel Rescue}}</ref>
+
+[[File:BattleOfFelucia-Planning.jpg|thumb|left|243x243px|Skywalker, Koon, Wolffe, and Tano plan their attack on the Separatist outpost]]
+Some time later Wolffe and his squad received some armor upgrades and took part in a [[Second Battle of Felucia|attack]] on a [[Separatist outpost (Felucia)|Separatist outpost]] on Felucia, commanded by Grievous. However, while everyone were distracted by the ongoing battle, Commander Tano was captured by a [[Trandoshan]] hunter and was brought to the [[Trandosha]]n [[moon]] [[Wasskah]], where the Trandoshans used to hunt sentient beings for sport. After the battle on Felucia was over, the group noticed Commander Tano was missing and Anakin launch a huge mission to find her, with no results. However, a Wookiee relief force aided by bounty hunters rescued Tano and her fellow Jedi friends and brought them back to the Jedi Temple on Coruscant.<ref name="Padawan Lost">{{TCW|Padawan Lost}}</ref>
+
+====Mercy Mission of Aleen====
+{{Quote|Here's how it is. My ''orders'' are to deliver supplies and re-establish power and communication systems. Report back to the transport the moment that R2 unit has completed the download. Tell them we'll be out of their hair in no time.|An impatient Wolffe, to C-3PO, the translator for the Aleena|Mercy Mission}}
+[[File:Screenshot 2015-10-23-08-31-08~01.png|thumb|right|261x261px|Wolffe with Plo Koon and Adi Gallia]]
+En route to resupply Koon's forces, Wolffe was ordered by Senator [[Padmé Amidala]] and Master [[Yoda]] to drop off relief supplies to [[Aleen]] to help the [[Aleena]]. Wolffe also had Amidala's protocol droid, [[C-3PO]] and Skywalker's astromech, R2-D2, much to his annoyance. Once on Aleen, Wolffe spoke with King [[Manchucho]] and set up stations for their supplies. After the mission, Wolffe and his men then dropped the droids off with Master [[Adi Gallia]].<ref name="Mercy Mission">{{TCW|Mercy Mission}}</ref> Wolffe then boarded General Grievous' ship with Plo Koon and his men to rescue Galia. Wolffe then found C-3PO and R2-D2 and took them back to their ship.<ref name="Nomad Droids">{{TCW|Nomad Droids}}</ref>
+
+====Rescue Mission of Kadavo====
+[[File:Rescue mission kavado.png|thumb|left|250px|Wolffe following the rescue mission of Kadavo]]
+Wolffe then went to the [[Zygerrian]] [[Zygerrian Slave Empire|Slave Empire's]] [[Kadavo slave processing facility|processing facility]] on [[Kadavo]] with Koon and Admiral [[Coburn]]. He then assisted in rescuing Kenobi, Rex, Skywalker, Ahsoka, and [[Kiros]]'s [[Togruta]]s from plunging to their deaths.<ref name="Escape from Kadavo">{{TCW|Escape from Kadavo}}</ref> Wolffe then attended the Republic's [[Republic strategy conference|strategy conference]] at [[Valor (space station)|Valor]].<ref name="Point of No Return">{{TCW|Point of No Return}}</ref>
+
+<!--The extra line here means the title below doesn't clash with the photo above-->
+====Finding Ahsoka====
+{{Quote|We're taking you in now, Commander.''"<br />"''That's ''not'' going to happen, trust me. Now, I'm not going to hurt any of you&hellip; ''We're'' not going to hurt any of you, but you're ''not'' taking me in.''"<br />"''Commander, we ''are'' taking you in.|Wolffe and Ahsoka Tano, the latter refusing to be arrested alongside Asajj Ventress|To Catch a Jedi}}
+[[File:WolffeCornersFugitives-TCAJ.png|thumb|right|250px|Wolffe and his Coruscant Guard troopers corner Tano and Ventress.]]
+Wolffe then took a squad of [[Clone shock trooper|shock troopers]] to Coruscant's [[Coruscant underworld|underworld]] to find Ahsoka Tano and ascertain if she was really behind the [[Bombing of the Jedi Temple hangar|bombing]] at the [[Imperial Palace|Jedi Temple]]. During his search, he found Tano with Dooku's former assassin turned bounty hunter Asajj Ventress. He tried to take them both, but was subdued by Ventress.<ref name="To Catch a Jedi">{{TCW|To Catch a Jedi}}</ref>
+
+Wolffe later found Tano at [[Level 1315]]'s [[Abandoned munitions warehouse|warehouse]] and stunned her. Nearby, he found a crate full of [[Nano-droid]]s, the same devices used in the bombing of the Jedi Temple, leading him to assume that Tano was the one responsible.<ref name="To Catch a Jedi" /> Tano was expelled from the Jedi Order and turned over to the Republic for trial, but was ultimately cleared of any wrongdoing after Anakin Skywalker identified Padawan [[Barriss Offee]] as the true culprit.<ref name="The Wrong Jedi">{{TCW|The Wrong Jedi}}</ref>
+
+====Search on Oba Diah====
+{{Quote|The hull shows substantial scoring and wear. Whenever it crashed, it wasn't recently. General Plo, the scans check out. It's a T-6 shuttle, all right, serial number 775519.''"<br />"''I want the entire area cleared. We're taking everything back to Coruscant.''"<br />"''Everything?''"<br />"''Everything!|Wolffe and Plo Koon, as the latter comes across Sifo-Dyas's lightsaber in the wreckage of the shuttle|The Lost One}}
+[[File:KoonWolffeFind775519-TLO.png|thumb|left|250px|Koon and Wolffe examine the wreckage of Sifo-Dyas's T-6 shuttle on the Oba Diah moon.]]
+Wolffe then went with Koon to one of the moons of [[Oba Diah]]. There they found the [[T-6 shuttle|shuttle]] that belonged to Jedi Master [[Sifo-Dyas]]. They also find [[Sifo-Dyas' lightsaber (Oba Diah)|Sifo-Dyas' lightsaber]] in the shuttle and reported it back to the Jedi Council.<ref name="The Lost One">{{TCW|The Lost One}}</ref> He then went to [[Ord Mantell]] with [[Aayla Secura]] where they found evidence linking the recent [[Battle on Ord Mantell|battle]] to former Sith Lord [[Maul|Darth Maul's]] [[Shadow Collective]].<ref name="Darth Maul 3">''[[Darth Maul—Son of Dathomir, Part Three]]''</ref>
+
+===Age of the Empire===
+{{Quote|They're clones!''"<br />"''No, Kanan! Wait!''"<br />"''Jedi! They've come for revenge!|Wolffe thinking the rebels came for revenge|The Lost Commanders}}
+[[File:Wolffe-4-retina 92972cde.jpeg|thumb|right|263x263px|Wolffe, Rex and Gregor go outside to meet the rebels]]
+Wolffe survived the Clone Wars and at some point removed his [[control chip]]. In the years after the Empire's [[Proclamation of the New Order|birth]], Wolffe was living with Captains [[Rex]] and [[CC-5576-39|Gregor]] in a modified [[All Terrain Tactical Enforcer|AT-TE]] on [[Seelos]], having managed to remove their control chips that forced them to follow [[Order 66]].<ref name="The Lost Commanders">{{Rebels|The Lost Commanders}}</ref>
+
+====Encounter with the Spectres====
+Several years before the [[Battle of Yavin]], Wolffe made sure that Rex was unaware of transmission from his old friend, Commander Tano. They were then contacted and approached by the [[Spectres]] rebel cell, who had been sent by Ahsoka Tano to acquire locations of [[Outer Rim Territories|Outer Rim]] bases for the rebellion. When [[Kanan Jarrus]] identified the clones and drew his lightsaber, Wolffe identified him as a Jedi and assumed he had come for revenge, prompting him to open fire on the Jedi. Rex managed to break up the fight before [[Ezra Bridger]] revealed that Ahsoka Tano sent them. Wolffe later privately discussed whether or not to aid the rebels with his brothers, fearing retribution from the Empire if they did so. Unbeknownst to his brothers, Wolffe secretly tipped off the Empire to the presence of a Jedi on Seelos.<ref name="The Lost Commanders" />
+
+Subsequently, Wolffe drove the AT-TE as the clones and ''Ghost'' crew went hunting for [[joopa]]s, using [[Garazeb Orrelios]] as bait. After successfully luring and killing the joopa, Jarrus desired to get their intel and leave, though Rex convinced him to stay for dinner. As [[Sabine Wren]] was granted access to the clones' database, she discovered that one of them has alerted the Empire. Rex realized Wolffe tipped them off, who regretfully admitted to alerting the Empire to protect his comrades from persecution for helping the Jedi, as well as having hidden the messages that Tano had sent Rex. Rex then managed to convince him that the Empire was the enemy. Subsequently, they discovered a [[Viper probe droid|probe droid]] had been spying on them before Rex shot it down. Afterwards, the group prepared for an imminent invasion from the Empire.<ref name="The Lost Commanders" />
+
+While the Spectres urged the clones to come with them and join the Rebellion, Wolffe and his fellow Clones insisted on staying behind to delay the Imperials so that the ''Ghost'' crew could escape. During the [[Assault on Seelos|Imperial assault]] on Seelos, Wolffe and his companions rode their AT-TE against Agent Kallus' three [[All Terrain Armored Transport|AT-AT walkers]]. Despite being outnumbered and outgunned, the clones were determined to go down in a blaze of glory. However, Bridger convinced his fellow rebels to help the clones. Flying the ''Phantom'', the rebels succeeded in hijacking one of the AT-AT walkers and using it to immobilize the other Imperial walkers; forcing Agent Kallus and his surviving crew to retreat into the desert.<ref name="Relics of the Old Republic">{{Rebels|Relics of the Old Republic}}</ref> Following the battle, Rex joined the Rebellion whilst Wolffe and Gregor stayed behind on Seelos, taking the remaining AT-AT walker for their new home.<ref name="Rebels Recon">{{SW|url=video/rebels-recon-inside-wings-of-the-master|text=Rebels Recon: Inside "Wings of the Master"}}</ref> Wolffe and Gregor continued to live on Seelos in their AT-AT, naming it [[Joopa Base]].<ref name="A Fool's Hope">{{Rebels|A Fool's Hope}}</ref>
+
+====Helping the Lothal rebels====
+[[File:Hera mustering allies.jpeg|thumb|left|250px|Wolffe joins Hera to help liberate Lothal]]
+In [[1 BBY]],<ref name="Chronology Note">The events of "[[A Fool's Hope]]" and "[[Family Reunion – and Farewell]]" take place in or after ''[[Star Wars Rebels: Heroes of Mandalore]]'', which is the first known episode to take place one [[Standard year|year]] before the [[Battle of Yavin]]. As such, we can deduce that this event takes place one year before the Battle of [[Yavin]]. For more information, see [[Forum:SH:Timeline of Star Wars Rebels Events|Wookieepedia's Timeline of ''Star Wars Rebels'' Events]].</ref> Wolffe and Gregor then met with [[Alliance to Restore the Republic|Rebel Alliance]] General [[Hera Syndulla]], Captains Kallus, [[Hondo Ohnaka]], Rex, and bounty hunter [[Ketsu Onyo]]. There they asked them to join them in [[Liberation of Lothal|liberating]] Lothal from the Empire. Both Wolffe and Gregor agreed to join them, with Wolffe reasoning that he had followed Jedi into battle before. After sneaking past the Lothal's blockade, Wolffe, Gregor, and Kallus then assisted Ezra and the others in capturing Governor [[Arihnda Pryce]] and defeating her forces, who had assaulted the [[Lothal resistance]]'s [[Lothal cliff dwelling|cliff base]].<ref name="A Fool's Hope" />
+
+====Liberation of Lothal====
+During the liberation of Lothal, Wolffe stayed behind at the Lothal rebel base with [[Mart Mattin]] and [[Cikatro Vizago]] in order to pick up General Syndulla and the other rebels once they had completed their mission to launch and destroy the [[Imperial Complex (Lothal)|Dome]], the center of Imperial power on Lothal. Wolffe and his comrades were attacked and knocked out by [[Grand Admiral]] [[Mitth'raw'nuruodo|Thrawn's]] "[[Assassin|pet]]", [[Rukh]]. However, they were saved by the [[White Loth-wolf]]. However, Rukh stole their [[LAAT/le gunship|patrol transport]].<ref name="Family Reunion – and Farewell">{{Rebels|Family Reunion – and Farewell}}</ref>
+
+After awakening, Mart revealed to Wolffe and Vizago that Ezra had assigned him a secret mission. The rebels departed aboard the ''Ghost'' and flew into Lothal's upper atmosphere where they transmitted a signal on [[Frequency Zero]]. Though Wolffe expressed skepticism, Mart convinced him and Vizago to trust Ezra's plan. This drew a large pod of [[purrgil]], which wiped out Thrawn's [[Seventh Fleet]]. While Wolffe and Vizago initially did not grasp Ezra's plan, they believed that it would work because it had "Ezra written all over it." After the purrgil carried Ezra, Thrawn, and the ''Chimaera'' away into the depths of space, Wolffe informed Sabine Wren that there were no Imperial ships left in space.<ref name="Family Reunion – and Farewell" />
+
+He, Mart, and Vizago then evacuated the surviving rebel strike team after they succeeded launching the Dome, a mobile [[Imperial Planetary Occupation Facility]], into Lothal's atmosphere and detonating the Imperial base. This ushered the end of Imperial rule on Lothal. Despite this victory, Wolffe and Rex's comrade Gregor perished during the fighting in the Dome.<ref name="Family Reunion – and Farewell" />
+
+==Personality and traits==
+[[File:Wolffe's helmet.jpg|thumb|right|150px|Wolffe's Phase II helmet]]
+Wolffe was a [[Clone Commander]] who was bred from a template of the [[bounty hunter]] [[Jango Fett]].<ref name="Rising M" /> He lost his right eye during a skirmish with the Sith apprentice Asajj Ventress.<ref name="Ultimate" /> and covered it with a silver patch.<ref name="Holocron Heist" /> Wolffe was also practical strategist and a competent commander with naval combat experience; having served aboard ''Venator''-class Star Destroyer ''Triumphant''. Wolffe was also calm and displayed fortitude even in the midst of crisis. Despite being wounded, Wolffe refused to abandon his duty as a soldier. He often used dual DC 17 blaster pistols in combat.<ref name="Rising M" />
+
+Wolffe developed a sense of respect for the Jedi Knight Anakin Skywalker and his Padawan Ahsoka Tano after they saved his life during the Battle of Abregado.<ref name="Rising M" /> As a Clone commander, Wolffe was bred for combat and naturally favored combat operations over relief missions. Wolffe complied with orders to lead a relief mission to Aleen, but found his escort the [[protocol droid]] C-3PO annoying and fastidious. Wolffe also had little appreciation for the eccentric customs of the Aleena species and disregarded [[King]] Manchucho's beliefs in the underground [[Kindalo]] dwellers as nonsense.<ref name="Mercy Mission" /> Following the bombing of the Jedi Temple hangar, Wolffe and his men took part in a manhunt for Tano through Coruscant's Underworld. Upon discovering the Padawan near a crate of nano-droids, he assumed that she was guilty and [[stun]]ned her with his blaster, despite her pleas for him to let her explain.<ref name="To Catch a Jedi" />
+
+Since he removed his control implant, Wolffe and his fellow comrades Rex and Gregor were unaffected by the transmission of Order 66. Following the Clone Wars, Wolffe and his comrades settled on Seelos and lived in a vintage AT-TE walker. He and Gregor looked up to Rex as their natural leader. Wolffe did not want to have any dealings with the wide galaxy and hid messages that Tano had sent to Rex. Wolffe had an unpleasant initial encounter with the former [[Jedi Purge]] survivor Kanan Jarrus and believed that the Jedi had come for revenge. Only the timely intervention of Rex prevented the escalation of hostilities.<ref name="The Lost Commanders" />
+
+[[File:Wolffe commanding AT-TE.png|thumb|left|250px|Wolffe charges the AT-TE towards Kallus' AT-AT's legs]]
+While Rex and Gregor befriend Jarrus and his rebel comrades, Wolffe remained aloof and suspicious of the newcomers. Believing that the presence of Jarrus and his Jedi apprentice Ezra Bridger endangered him and his fellow Clone veterans, Wolffe secretly contacted the Empire. When Rex pointed out the errors of his way, Wolffe ultimately accepted Rex's chastisement without bitterness.<ref name="The Lost Commanders" /> He made up for his transgression by joining forces with Rex and Gregor to hold back [[Agent]] [[Alexsandr Kallus|Kallus's]] AT-AT walkers so that the Spectres could escape. Wolffe came to respect Bridger and Jarrus after the two returned to save him and his Clone comrades from being destroyed by Kallus.<ref name="Relics of the Old Republic" />
+
+Wolffe's sense of loyalty to the Jedi led him, Gregor, and Rex to participate in Ezra's plan to liberate Lothal.<ref name="A Fool's Hope" /> While Wolffe initially did not grasp Ezra's plan to use a pod of purrgil to attack Thrawn's fleet, he believed that it would work because it had "Ezra written all over it."<ref name="Family Reunion – and Farewell" />
+
+==Skills and abilities==
+As a Clone commander, Wolffe knew how to operate a blaster rifle<ref name="The Lost Commanders" /> and an AT-TE walker.<ref name="Relics of the Old Republic" /> He also wore a [[jetpack]] during the Battle of Felucia.<ref name="Padawan Lost" /> While Wolffe was a seasoned soldier, he was no match for the Force powers of Asajj Ventress, who trounced him and his men.<ref name="To Catch a Jedi" />
+
+Wolffe was also a competent pilot and was able to fly the [[VCX-100 light freighter]] ''[[Ghost]]'' during the Liberation of Lothal.<ref name="Family Reunion – and Farewell" />
+
+==Behind the scenes==
+Wolffe was created for the [[Cartoon Network]] animated television series ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'', which ran from [[2008]] to [[2013]]. He was voiced by [[Dee Bradley Baker]], who also voiced all the other Clone troopers in the series. Wolffe first appeared in the episode "Rising Malevolence", which premiered on [[October 3]], 2008. Baker reprised his role as Wolffe in the animated television series ''[[Star Wars Rebels]]''.
+
+Though ''Rebels'' confirmed that as Rex and Gregor, Wolffe was able to get rid of his control chip and were not forced to follow Order 66, ''The Clone Wars'' writer [[Henry Gilroy]] speculated at Dragon Con that Wolffe likely followed the command for a while before getting rid of his chip.<ref name="Gilroy's Statement">{{Twitter|StarWarsExplain|status/1035606443339251713|Star Wars Explained|quote=According to Henry Gilroy, Wolffe likely carried out Order 66 and removed his chip afterwards. 🤭}}</ref>
+
+==Appearances==
+{{Scroll box|
+*''[[Star Wars Battlefront II]]'' {{Mo}} {{C|DLC}}
+*{{TCW|Rising Malevolence|Rising ''Malevolence''}} {{1st}}
+*{{TCW|Shadow of Malevolence|Shadow of ''Malevolence''}} {{Flash}}
+*{{TCW|Holocron Heist}}
+*{{TCW|Grievous Intrigue}} {{Hologram}}
+*{{TCW|R2 Come Home}}
+*{{TCW|Citadel Rescue}}
+*{{TCW|Padawan Lost}}
+*{{TCW|Mercy Mission}}
+*{{TCW|Nomad Droids}}
+*{{TCW|Escape from Kadavo}}
+*{{TCW|Point of No Return}}
+*{{TCW|To Catch a Jedi}}
+*{{TCW|The Wrong Jedi}} {{Flash}}
+*{{TCW|The Lost One}}
+*''[[Darth Maul—Son of Dathomir, Part Three]]'' {{Mo}}
+*{{Rebels|The Lost Commanders}}
+*{{Rebels|Relics of the Old Republic}}
+*{{Rebels|A Fool's Hope}}
+*{{Rebels|Family Reunion – and Farewell}}}}
+
+==Sources==
+{{Scroll box|
+*{{SW|url=tv-shows/clone-wars/rising-malevolence|text="Rising ''Malevolence''" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/r2-come-home|text="R2 Come Home" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/citadel-rescue|text="Citadel Rescue" Episode Guide - ''The Clone Wars''}} {{Po}}
+*{{SW|url=tv-shows/clone-wars/padawan-lost|text="Padawan Lost" Episode Guide - ''The Clone Wars''}} {{Po}}
+*{{SW|url=tv-shows/clone-wars/mercy-mission|text="Mercy Mission" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/nomad-droids|text="Nomad Droids" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/escape-from-kadavo|text="Escape from Kadavo" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/to-catch-a-jedi|text="To Catch a Jedi" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/the-lost-one|text="The Lost One" Episode Guide - ''The Clone Wars''}} {{Po}}
+*{{SWE|characters|admiralcoburn|Admiral Coburn}}
+*{{SWE|locations|aleen|Aleen}}
+*{{SWE|characters|clonecommanderwolffe|Clone Commander Wolffe}}
+*{{SWE|technology|escapepod|Escape pod}}
+*{{SWE|characters|kingmanchucho|King Manchucho}}
+*{{SWE|technology|malevolence|''Malevolence''}}
+*{{SWE|characters|plokoon|Plo Koon}} {{Imo}}
+*{{SWE|technology|republicgunship|Republic attack gunship}}
+*{{SWE|characters|warthog|Warthog}}
+*{{SW|url=news/star-wars-rebels-season-two-set-to-premiere-june-20|text=''Star Wars Rebels'' Season Two Set to Premiere June 20}}
+*''[[Ultimate Star Wars]]''
+*{{SWYoutube|YfeWNZqVYsE|Star Wars Rebels Season Two NYCC 2015 Trailer (Official)}}
+*{{LEGOCite|rebels|75157|Captain Rex's AT-TE}}
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*{{ForceCollection|Clone Commander Wolffe|star=4}}
+*{{Databank|admiral-coburn|Admiral Coburn|archivedate=20170703200725}}
+*{{Databank|clone-commander-wolffe|Clone Commander Wolffe|archivedate=20170605012138}}
+*{{Databank|warthog|Clone Pilot Warthog}}
+*{{Databank|joopa-base|Joopa Base}}
+*{{Databank|king-manchucho|King Manchucho}}
+*{{Databank|malevolence|Malevolence|archivedate=20161217024146}}
+*{{Databank|republic-attack-gunship|Republic Attack Gunship}}
+}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=CC-3636#kanon
+|es=CC-3636
+|hu=Wolffe
+|it=CC-3636
+|ja=CC-3636
+|nl=CC-3636
+|pl=CC-3636
+|pt=CC-3636
+|ru=КК-3636/Канон
+|deFA=1
+}}
+
+[[Category:Clone trooper commanders]]
+[[Category:Cyborgs]]

@@ -1,0 +1,183 @@
+{{Eras}}
+{{Update|[[The Angle]], [[Last Shot]]}}
+{{Character
+|type=New Republic
+|image=[[File:SWE Lobot.jpg]]
+|name=Lobot
+|homeworld=[[Bespin]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=
+|death=
+|species=[[Human]]<ref name="Episode V">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+|gender=[[Sexes|Male]]<ref name="Episode V" />
+|height=1.75 [[meter]]s<ref name="Lobot">{{Databank|lobot|Lobot}}</ref>
+|mass=
+|hair=
+|eyes=[[Color|Blue]]<ref name="Episode V" />
+|skin=Light<ref name="Episode V" />
+|cyber=[[AJ^6 cyborg construct]]<ref name="AEYNTK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref>
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="Lando 1">''[[Lando, Part I]]''</ref>
+**[[Imperial Military]]<ref name="Lando 1" />
+*[[Cloud City]]<ref name="Episode V" />
+*[[Alliance to Restore the Republic]]<ref name="Ultimate Star Wars" />
+*[[New Republic]]<ref name="Aftermath">''[[Aftermath]]''</ref>
+|masters=
+|apprentices=}}
+{{Quote|You're Lobot. You know all the odds! There's no beating you, my man!|Lando Calrissian|Lando, Part V}}
+'''Lobot''', also known by the nickname '''Lo''', was a [[Sexes|male]] [[human]] from the [[planet]] [[Bespin]] who, with the assistance of his [[AJ^6 cyborg construct]], was paid to run battlefield calculations for the [[Galactic Empire]]. However, he eventually began working with the [[smuggler]] [[Lando Calrissian]] aboard the ''[[Millennium Falcon]]'', running numerous criminal jobs. During one job, the [[Theft of the Imperialis|theft]] of [[Darth Sidious|the Emperor's]] personal [[yacht]], Lobot was gravely wounded by an [[Emperor's Royal Guard|Imperial Guard]]. In his injured state, Lobot's mind was lost and his cybernetic implants took over.
+
+In the [[time]] to come, Calrissian became [[Baron Administrator]] of [[Cloud City]] on Lobot's homeworld of Bespin, and Lobot served as his [[aide]] and chef. As the [[city]]'s [[computer]]-liaison officer, his implants enabled him to communicate with the city's central network. During the Empire's takeover of Cloud City, Lando ordered Lobot to gather their security forces to outflank the [[stormtrooper]]s. Although they successfully helped evacuate the city by rounding up the stormtroopers, the city soon fell to the Empire and Lobot was captured.
+
+Following the Empire's defeat at the [[Battle of Endor]], Imperial [[Governor]] [[Ubrik Adelhard]] tightened his grip on the [[Anoat sector]], home to Bespin, forming the [[Iron Blockade]]. Receiving support from the [[New Republic]], Lobot fought to [[Liberation of Bespin|liberate]] his homeworld.
+
+==Biography==
+===Early careers===
+{{Quote|You had the Imperials put those ''things'' in your head so you could get paid to run battlefield calculations, all nice and safe back at a ''base''.|Lando Calrissian, to Lobot|Lando, Part I}}
+During the [[Galactic Civil War]] between the [[Galactic Empire]] and [[Alliance to Restore the Republic]], Lobot, a [[Sexes|male]] [[human]] from [[Bespin]],<ref name="Ultimate Star Wars" /> was hired by the Empire to run battlefield calculations. In order to do so, he allowed the Imperials to implant an [[AJ^6 cyborg construct]]<ref name="AEYNTK" /> to his [[brain]], exchanging some of his personality for increased productivity.<ref name="Lobot-Tech Headgear">{{Databank|lobot-tech-headgear|Lobot-Tech Headgear}}</ref> Eventually leaving the Empire, Lobot formed a friendship with the [[smuggler]] [[Lando Calrissian]], owner of the ''[[Millennium Falcon]]'',<ref name="Lando 2">''[[Lando, Part II]]''</ref> and [[Chanath Cha]], a [[bounty hunter]]. They remained friends for [[Standard year|years]], and Lobot and Cha fell in love.<ref name="Lando 5">''[[Lando, Part V]]''</ref> Nonetheless, Calrissian and Cha went separate ways, and Lobot chose to remain with Lando.<ref name="Lando 1" /> At some point during their underground operations, Lando lost the ''Millennium Falcon'' to another old friend of his, [[Han Solo]], in a game of [[sabacc]].<ref name="SWELando">{{SWE|characters|lando-calrissian|Lando Calrissian}}</ref>
+
+===One last mission===
+====Deal of a lifetime====
+{{Quote|I looked over Toren's plan. It's a quick job. The payoff is ''huge'', and we'll be able to keep a good chunk of it. It won't just get us back to the level&mdash;we'll be ''ahead''. We can start thinking about new ''opportunities''.''"''<br />''"''How many times are we going to ''do'' this, Lando?''"''<br />''"''Just once more, my friend. Just once.|Calrissian persuades Lobot to participate in Toren's plan.|Lando, Part I}}
+[[File:Lobot and Lando trinket.jpg|thumb|left|300px|Calrissian shows Lobot that he has obtained the "trinket" from Moff Ssaria in Toren's cantina.]]
+Some [[time]] after the [[Battle of Yavin]], Lobot and Calrissian found themselves in deep debt to Papa [[Toren]], a [[crime lord|crime boss]] who operated off of the Imperial world [[Castell]] in the [[Colonies]] region of [[the galaxy]]. Calrissian, in order to pay off the debt, went to steal a valuable object from the Imperial [[governor]] of the [[sector]]: [[Moff]] [[Ssaria]], known as the "Fiend of Castell" and the "Burning Moff." However, instead of just stealing the trinket and running, Calrissian suavely manipulated the Moff into giving it to him; Calrissian soon told the story to Lobot when they met in [[Toren's cantina]]. Lobot was shocked at the risks his partner took, adding that his implants gleaned that the odds of that working were about one in ten-thousand. The gambler replied that he didn't like to know the odds, and explained that he had done what he did because he didn't want the Moff hunting them. Lobot was assured by his partner that they were debt free after he traded the trinket to Toren, and Lando then went to speak with the crime boss. He returned a few minutes later with news: ten percent of their debt had been wiped away, and he had a chance at one "hell of a score." Lobot was appalled that only ten percent of their debt had been cleared and demanded to know what had gone wrong. Calrissian explained that things had not gone as planned, but still had gone well, given the new job. Lobot, however, did not share Calrissian's optimism and believed they should fight Toren. Calrissian did not, adding that Lobot had the cyborg construct implanted so he wouldn't have to fight; just analyze battlefront movements from afar. Lobot gave in, so they began preparations for the job.<ref name="Lando 1" />
+
+The duo first recruited the [[cloning|cloned]] [[hand-to-hand combat]] experts [[Aleksin]] and [[Pavol]] in case they did need to fight, and next, the [[Ugnaught]] antiquities expert, [[Sava]] [[Korin Pers]], who they met in her office. Pers pulled a blaster on Calrissian when he entered; the last time they had worked together, Pers lost an [[eye]]. Pers eventually accepted to assist in the job after seeing the ease and the payoff. Soon, the team of five made their way to [[Sienar Fleet Systems]] [[Orbital Shipyard CC-24]] in [[orbit]] over Castell, which the team infiltrated using [[stealth suit]]s. They quickly secured a portion of the [[shipyard]], [[Theft of the Imperialis|hijacked]] an Imperial [[Yacht|pleasure craft]] that they believed had belonged to an Imperial art collector, and blasted away from the station. Calrissian [[pilot]]ed the [[Starship|ship]], the ''[[Imperialis]]'', while Lobot acted as his co-pilot. Lobot was unsure of Calrissian's rejoicing in escaping so easily; Lobot believed there was still trouble to come.<ref name="Lando 1" />
+
+====Escaping Castell====
+{{Quote|Three? They sent ''three'' Star Destroyers?''"<br />"''Bad news.''"<br />"''No, this is ''good''. Can you imagine how much this thing must be ''worth''?''"<br />"''To ''us''? Nothing, once we are ''dead''.''"<br />"''Cheer up, pal. Suddenly&hellip;I feel ''very much alive''.|Calrissian and Lobot|Lando, Part II}}
+[[File:Lando and Lobot escape Castell.png|thumb|right|350px|Lando and Lobot aboard the stolen ''Imperialis'']]
+Lobot was soon proven correct when a trio of [[Imperial-class Star Destroyer|''Imperial''-class Star Destroyers]] emerged from [[Hyperspace|hypersapce]] near the ''Imperialis''. Lobot grew frustrated as the "easy score" that Calrissian had promised began to disappear. Calrissian argued that it was a good thing that the [[Star Destroyer]]s arrived; it meant the ship was incredibly valuable to its owner&mdash;who, unknown to Lobot and his fellows, was none other than [[Galactic Emperor]] [[Darth Sidious|Sheev Palpatine]]. The Star Destroyers dropped [[gravity]]-based mines to prevent the ''Imperialis'' from entering hyperspace, but the yacht's automated defenses destroyed the mines. When the Star Destroyers captained by Shan and Conro activated tractor beams to reclaim the vessel, Lando had Lobot upload the ships' coordinates to Lando's piloting [[computer]]. With the coordinates uploaded, Lando piloted the ''Imperialis'' between the two Star Destroyers, causing them to lock onto each other. Unable to disengage in time, the capital ships collided, giving the ''Imperialis'' the opportunity to jump to hyperspace. Free from the [[Castell system]], Lando and Lobot were approached by Sava Korin, who said the yacht was filled with treasure. Touring the crew around, Korin explained that one area of the ship, the central chamber, was very well secured, so Lobot volunteered to open the sealed door with his implants. When he did, however, he was confronted by a pair of [[Emperor's Royal Guard|Imperial Guards]], one of which immediately impaled him through the chest with their [[Force pike|staff]].<ref name="Lando 2" />
+
+====A turn for the worst====
+{{Quote|What's ''wrong'' with him, Calrissian?''"<br />"''When Lobot loses ''focus'', his implants start to take over his ''mind'', Korin. If we can't figure out something ''now'', he'll just&hellip;''lose himself''.|Korin Pers and Calrissian|Lando, Part III}}
+[[File:Lando apologizes to Lobot.png|thumb|left|350px|Lando apologizes to Lobot.]]
+The Guards were quickly engaged by Pavol and Aleksin, while Lando rushed to Lobot's side. Lobot, struggling to maintain consciousness, fought against his implants from taking over his mind. Pers, informing Lando of a medical bay one deck from their location, helped Lando rush Lobot to a [[bacta tank]]. Not sure if the semi-conscious Lobot reached the [[bacta]] tank in time, Lando apologized to his friend. Pers, deducing the ''Imperialis'' belonged to Palpatine, told Lando that the entire crew would die. Lando, unable to withstand the recent events, went to check on the [[twin]]s.<ref name="Lando 3">''[[Lando, Part III]]''</ref>
+
+Aleksin and Pavol defeated the Guards, so the crew examined the central chambers artifacts. Pers, attributing the pieces to be works by [[Lord]] [[Momin]], an ancient [[Sith]] sculptor, estimating the artifacts to each be worth an entire [[moon]] or two. While Calrissian and Pers discussed the loot, Aleksin became possessed by a [[Armor|helmet]] imbued with the [[dark side of the Force]], igniting a [[double-bladed lightsaber]] and attacking Pavol. Shocked, Calrissian and Pers fled the chamber, resealing the door behind them. Pers argued to enter the [[escape pod]]s, but Lando refused to leave Lobot behind. Meanwhile, unknown to Lando and Pers, Chanath Cha, now working for the Emperor, had infiltrated the ship. Preventing the crew's escape, Cha disabled the pods, and the ship relayed the message over the intercom. Lando realized that someone else must be on the ship, and, soon after, Pers and Lando encountered the bounty hunter at gunpoint. However, Cha recognized Lando and lowered her weapons. Cha explained her presence, saying that she was sent to [[Death|kill]] anyone aboard or destroy the vessel.<ref name="Lando 4">''[[Lando, Part IV]]''</ref>
+
+====A change of plans====
+[[File:Lobot Lando and Chanath.png|thumb|right|215px|Lobot tries to save his friends.]]
+{{Quote|Can't&hellip;stop the auto-destruct. It's&hellip; hardwired. Designed not to be&hellip; messed with. Probably 'cause of&hellip; guys like me. ''NEURAL RE-ROUTE EIGHTY-FOUR PERCENT COMPLETE. NEURAL RE-ROUTE EIGHTY-FIVE''&mdash;Think I can turn the&hellip;escape&hellip;pods&hellip;back on, though.|Lobot, trying to save his friends while fighting his implants|Lando, Part V}}
+While Chanath couldn't reactive the escape pods, she agreed to let Lando and Korin escape aboard her ship, the ''[[Scimitar]]'', and destroy the ''Imperialis''. However, when Calrissian told Cha that Lobot was aboard the ''Imperialis'' and was injured, Cha succumbed to Calrissian's plan of stopping Aleksin and Pavol and keeping the ship intact. Immediately after, Aleksin and Pavol confronted the group, saying that Pers was a victim, before killing her. Sealing the door between them and the twins, Cha went to dock the ''Scimitar'' while Calrissian went to retrieve Lobot. Despite Lobot needing more time, Calrissian removed him from the bacta as the ship announced it would self-destruct. Helping Lobot out of the medical bay, Calrissian encountered Aleksin, fatally shooting the [[alien]]. The two reunited with Cha, and Lobot told her that he'd missed her company. When Lando asked if the ''Scimitar'' was prepped, Cha explained that her ship's [[droid]] pilot, [[O-66]], had fled, trapping them on the self-destructing ''Imperialis''. Lobot then requested to be taken to a computer interface, where he attempted to disable the auto-destruct. Unable to do so, Lobot realized he could turn the escape pods back on, but he couldn't do so while fighting his implant from taking over. Deciding to save his longtime friends, he enabled the pods, allowing the implants to take over his mind. Moving to the escape pods, Lando invited Cha to come with them, saying that it might bring Lobot back, but Cha declined, saying that he'd made his choice and picked Lando. After Cha said goodbye, Lando and Lobot's pod ejected. As it departed, Lando told Lobot he'd find a cure to bring him back. Upon hearing the word "cure," Lobot's cybernetic construct played a pre-recorded contingency message to his friend, saying that Lobot believed Lando could find a cure, but either way he wouldn't be upset, as he had lived by his choices. Lobot's message went on to tell Lando that people trust his leadership, and that he needed to do something good with that power. Lobot's recording then ended with, "Lando. Old buddy. You're better than this."<ref name="Lando 5" />
+
+===Aide to the Baron Administrator===
+{{Quote|Well done. Hold them in the security tower. And keep it quiet.|Calrissian, upon Lobot's execution of Code Force Seven|Star Wars: Episode V The Empire Strikes Back}}
+In the time to come, Lobot and Calrissian returned to Bespin, where Calrissian was appointed to be [[Baron Administrator]] of [[Cloud City]], a [[Tibanna]] gas [[mining]]-colony located in the planet's [[atmosphere]]. In Cloud City, Lobot was given the responsibility of managing day-to-day affairs,<ref name="AEYNTK" /> serving as Calrissian's [[Chief Administrative Aide]] and the [[city]]'s computer liaison officer.<ref name="Lobot" />
+
+[[File:Lando13.jpg|thumb|left|300px|Lando, with Lobot, greets Han Solo.]]
+Shortly after the [[Battle of Hoth]], Calrissian was contacted by his old friend Han Solo, who requested shelter for his rebel companions [[Prince]]ss [[Leia Organa]], the [[Wookiee]] [[Chewbacca]], and the [[protocol droid]] [[C-3PO]]. Unknown to Solo and his companions, Calrissian had already made a secret agreement with [[Anakin Skywalker|Darth Vader]] to hand Solo over to the bounty hunter [[Boba Fett]], who was working for the [[Hutt]] crime lord [[Jabba Desilijic Tiure|Jabba]]. While the Empire agreed not to arrest Solo's rebel companions, they would not be allowed to leave Cloud City.<ref name="Episode V" />
+
+Later, Lobot was present when Vader, Fett, and several Imperial [[stormtrooper]]s apprehended Solo and his companions at a banquet hall. After the Imperials froze Solo in [[carbonite]] and handed him over to Fett, Darth Vader altered the terms of the deal by arresting Organa, Chewbacca, and C-3PO. Unhappy about Vader's unilateral changes and feeling guilty for his role in betraying Solo, Calrissian, via [[comlink]],<ref name="Episode V" /> issued [[Code Force Seven]],<ref name="SWCE">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> ordering Lobot and the [[Bespin Wing Guard]] to detain Vader's troops and free Solo's rebel associates. Lobot was successful, and he held the stormtroopers in the security tower as Calrissian fled the planet with the escaped prisoners.<ref name="Episode V" /> Although Lobot helped evacuate the city, it soon fell to the Empire, and Lobot was captured.<ref name="SWE">{{SWE|characters|lobot|Lobot}}</ref>
+
+===The Iron Blockade===
+{{Quote|Tell Lobot to make sure he's standing by with the intrusion team. And get a message to Calrissian. Tell him we're almost in and that he can transfer the credits&mdash;No, you know what? Tell him we're doing this one gratis. On the house. He and his New Republic pals can owe me a favor.|Kars Tal-Korla|Aftermath}}
+In [[4 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> the rebellion against the Empire won a major victory at the [[Battle of Endor]], in which Emperor Palpatine was killed. In the following months, the Rebel Alliance reorganized into a [[New Republic]],<ref name="Aftermath" /> which continued to fight against remaining Imperial forces. Bespin, still under Imperial control, was subjected to the [[Iron Blockade]] under the order of [[Governor]] [[Ubrik Adelhard]] of the [[Anoat sector]].<ref name="Uprising">''[[Star Wars: Uprising]]''</ref> Lobot, still present on Bespin, relayed messages through the blockade to Calrissian, who had been promoted to a [[general]] in the Republic following his departure from Cloud City. At one point during the blockade, Lobot hired the [[pirate]] [[Kars Tal-Korla]] to capture [[Borgin Kaa]], an Imperial collaborator, and extract a code needed to open an access panel connected to Adelhard's personal chamber; once the panel was opened, Lobot and an intrusion team would apprehend the Governor. Rather than being paid for the act, the pirate said to treat it as a favor.<ref name="Aftermath" /> Despite their efforts, Adelhard eluded capture, although the planet was [[Liberation of Bespin|liberated]] by the [[Uprising]] soon after.<ref name="Uprising" />
+
+===Retaking Cloud City===
+{{Quote|I know. It's allright. I'll have two to make it equitable. That way, we both win.|Lando Calrissian, trying to please Lobot's personal tastes|Aftermath: Empire's End}}
+Around the time of the [[Battle of Jakku]], Lobot accompanied Lando as [[New Republic]] forces [[Liberation of Bespin|mopped up]] the remaining Imperial holdouts on Cloud City. When Lando remarked that the Empire had left Cloud City in a mess, Lando responded that he would look into rehiring staff immediately. Lando then told Lobot to make sure that they hired refugees since Cloud City was inundated with expats and evacuees who needed work. As Lando went to deal with Imperial holdouts in the [[Bolo Tanga room]], Lobot informed Calrissian that his friend Princess Leia Organa was expected to give birth soon and that he had forgotten to send a nuptial gift. At Lobot's insistence, Calrissian agreed to think of a gift to send his friends.<ref name="Empire's End">''[[Aftermath: Empire's End]]''</ref>
+
+Lobot followed Calrissian as they approached the Bolo Tanga room, which was surrounded by several Wing Guards and New Republic soldiers. Lobot stood by Calrissian as the Baron Administrator convinced the Imperial troops to surrender. However, an Imperial sergeant refused to surrender and tried to shoot Calrissian. However, Lando killed him with his [[Vitiator]] blaster. After neutralizing the Imperial, Lando toyed with the idea of sending Leia's [[Kylo Ren|child]] a lamp. Lobot disagreed with that idea.<ref name="Empire's End" />
+
+When Lando suggested giving the child a blaster, Lobot opposed the idea on the grounds that children should not play with blasters. Lando suggested keeping the blaster in a safe till Leia's son came of age. When Lobot vetoed the idea, Calrissian finally settled with giving Leia's family the [[Vantillian catamaran]] in the western skipdock. Lobot accepted the idea. When Calrissian toyed with the idea of starting his own family, Lobot vetoed the idea. When Lando suggested they should go and share some drinks, Lobot responded that he did not drink.<ref name="Empire's End" />
+
+==Personality and traits==
+{{Quote|Hey, Lando. If you're hearing this recording, I'm gone, and you just said the word 'cure.' I bet it didn't take you very long, either. Maybe you'll pull it off. I wouldn't put it past you. I've seen you beat crazier odds. But even if you don't, I'm not angry about what happened to me. Not now, and definitely not by the time you hear this. I live by my choices.|Lobot's recording to Calrissian|Lando, Part V}}
+Lobot was a 1.75 [[meter]]&ndash;tall<ref name="Lobot" /> male human with [[Color|blue]] [[eye]]s, light skin,<ref name="Episode V" /> and an AJ^6 cyborg construct<ref name="AEYNTK" /> attached to the back of his bald head. His implant detracted from some of his personality, but it allowed him to make quick calculations,<ref name="Lobot-Tech Headgear" /> and he used this ability to help Lando determine the risks of missions they underwent. Prior to her departure, Lobot had a romantic relationship with Chanath Cha, and he missed her in her absence. Lobot placed trust in his friends, yet he held himself accountable for his actions, as demonstrated following his injuries acquired on the ''Imperialis'', when his construct played a recorded message for Lando. The injuries he sustained weakened him, so he was forced to sacrifice his mind to save his friends, leaving him without a personality or ability to speak.<ref name="Lando 5" />
+
+Lobot also displayed some introspection. Before losing his personality, he counseled Lando to use his charm and talents to find something bigger to believe in than himself and to use that power to do something good. Lobot opined that Lando was made for better things than a scoundrel.<ref name="Lando 5" /> His efficiency and near-silence made him the perfect match for Calrissian's flamboyant personality.<ref name="SWCE" /> Lobot was also known for his strict, no-nonsense personality. He was a teetotaler and opposed Calrissian's idea of gifting the young [[Kylo Ren|Ben Solo]] a [[blaster]] and lamp. He appeared to be the only person who could say no to Calrissian.<ref name="Empire's End" />
+
+==Equipment==
+{{Quote|I mean&hellip;uh&hellip;let's see&hellip; Yeah. The implants tell me the chances of that working were something like one in ten thousand. At ''best''.|Lobot, joking to Calrissian after hearing the tale of how he manipulated Moff Ssaria|Lando, Part I}}
+During his time with the Galactic Empire,<ref name="Lando 1" /> Lobot had an AJ^6 cyborg construct<ref name="AEYNTK" /> implanted into the back of his skull,<ref name="Lobot-Tech Headgear" /> allowing him to make battlefield calculations.<ref name="Lando 1" /> The implants, which traded personality for productivity,<ref name="Lobot-Tech Headgear" /> would take over his mind if he lost focus. After sustaining severe injuries while aboard the ''Imperialis'', Lobot was unable to prevent the implants from taking over,<ref name="Lando 5" /> permanently making him a machine-like assistant.<ref name="SWCE" /> Years later, when Lobot worked on Cloud City, his implants allowed him to communicate directly to the city's central computer, positioning him to be the city's computer liaison officer.<ref name="Lobot" />
+
+Lobot's [[clothing]] consisted of a belt projecting a clear-signal field and a [[Fineweave sherculién-cloth]] [[shirt]].<ref name="SWCE" /> Lobot was incapable of speaking verbally and communicated using his cyborg construct, which could transmit messages to a communication device on his friend Lando's wrist.<ref name="Empire's End" />
+
+==Behind the scenes==
+===Creation and portrayal===
+[[File:Lobot concept.jpg|thumb|right|200px|Concept art for Lobot]]
+{{Quote|If you've got a part where you're walking around with lights flashing on your head, you can't really fail, can you?|John Hollis|Star Wars Insider 33}}
+Lobot first appeared in the [[1980]] film [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']], in which he was portrayed by [[John Hollis]]. A character serving as Lando Calrissian's assistant was present in most of the original screenplays of ''The Empire Strikes Back'', and many production paintings depicted this character as a tall, regal dark-skinned woman. One of the later drafts of the script established this character as a cyborg, and it was then that actor John Hollis was selected for the role by the filmmakers. The cybernetic implant prop Hollis wore on his head was completely battery-powered and was connected to a spring clip that was fit around the actor's head. However, the prop was quite heavy and uncomfortable for Hollis to wear. Hollis was originally only hired for a week's worth of work, but because of the film's extended shooting schedule, he remained on the Bespin set at [[Elstree Studios]] for ten weeks.<ref name="BtM">''[[Star Wars: Behind the Magic]]''</ref>
+
+Throughout most of the film's production, Lobot was only referred to as "Lando's [[aide]]"<ref name="DB">{{DB|character|lobot|Lobot}}</ref> and is referred to as such in the credits. He was to have a great deal of dialogue, mostly with Calrissian. However, the filmmakers decided that the character had been [[Wikipedia:lobotomy|lobotomized]] as a result of the installation of his cybernetic implant, causing him to become a mute. This decision reportedly did not concern Hollis.<ref name="BtM" /> As a reference to this change, the character was named "Lobot," a corruption of the word "lobotomy."<ref name="DB" /> This idea was later reflected in ''The Empire Strikes Back'' when Lobot mouths a soundless reply to Lando before taking captured stormtroopers to the security tower. However, the French dub from the 2004 European release adds an audible answer.
+
+A scene cut from ''The Empire Strikes Back'' called "Lobot's Capture" depicted Lobot being detained by a pair of stormtroopers,<ref name="Blu-ray">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] Blu-ray release</ref> while another showed a critically injured Lobot being carried away by several men wearing white masks. This was meant to serve as Lobot's death scene, but it was ultimately removed by the filmmakers because there was a possibility that the character would appear in the following film, [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']].<ref name="BtM" />
+
+===Cultural impact===
+{{Quote|Look at him. He looks like he didn't pay his parking tickets, and they put a boot on his head.''"<br />"''He looks like [[Wikipedia:Lex Luthor|Lex Luthor's]] playing laser tag.|Lando and Jango discussing Lobot, as depicted on ''Conan''|url=https://www.youtube.com/watch?v=z36TWbEpsSk}}
+Since his appearance in ''The Empire Strikes Back'', Lobot has been featured in numerous ''[[Star Wars]]'' spoofs, including sketches in the comedy television shows ''[[Wikipedia:Robot Chicken|Robot Chicken]]''<ref name="Robot Chicken">''[[Robot Chicken: Star Wars]]''</ref> and ''[[Wikipedia:Conan (talk show)|Conan]]''. Prior to the release of [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] in [[2015]], an opening skit on ''Conan'' featured castoff ''Star Wars'' characters such as [[Jango Fett]], [[Bib Fortuna]], and [[Oola]] meeting in a diner to gripe about not being cast in the film. Their discussion is soon interrupted by Lobot, played by [[Conan O'Brien]], who begins to harass them.<ref name="Conan">{{Cite web|url=https://www.youtube.com/watch?v=z36TWbEpsSk|title=Conan's Star Wars Cold Open - CONAN on TBS|work=YouTube|date=2015-12-17|accessdate=2016-1-23}}</ref>
+
+On [[February 25]], [[2016]], the [[StarWars.com]] editorial staff ranked Lobot and Lando to be the ninth best ''Star Wars'' duo, placing in front of [[Cornelius Evazan]] and [[Ponda Baba]].<ref name="Duos">{{SW|url=video/starwars-com-10-best-duos|text=StarWars.com 10: Best Duos}}</ref>
+
+==Appearances==
+*''[[5-Minute Star Wars Stories Strike Back]]''
+*[[Star Wars (LINE Webtoon)|''Star Wars'' LINE Webtoon]]
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*{{Shortstory|story=The Angle|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*''[[Lando, Part I]]''
+*''[[Lando, Part II]]''
+*''[[Lando, Part III]]''
+*''[[Lando, Part IV]]'' {{Mo}}
+*''[[Lando, Part V]]''
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+*''[[Captured on Cloud City]]''
+*''[[Solo: A Star Wars Story: Tales from Vandor]]''
+*''[[Aftermath]]'' {{Mo}}
+*''[[Aftermath: Empire's End]]''
+*''[[Last Shot]]''
+*''[[Last Shot (audiobook)]]''
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+*{{Droid Tales|Gambit on Geonosis}}
+*{{The Resistance Rises|The Trouble with Rathtars}} {{Mo}}
+
+==Sources==
+*{{SW|url=films/star-wars-episode-v-the-empire-strikes-back|text=''Star Wars'': Episode V ''The Empire Strikes Back''}}
+*{{SWE|characters|lobot|Lobot}}
+*''[[Star Wars Costumes: The Original Trilogy]]''
+*{{SW|url=news/lando-1-coming-in-july-from-marvel-exclusive|text=''Lando'' #1 Coming in July from Marvel &mdash; Exclusive!}}
+*{{InsiderCite|157|Blaster (Star Wars Insider)|Blaster}}
+*''[[Ultimate Star Wars]]''
+*{{SW|url=news/open-alex-maleevs-lando-sketchbook-part-2|text=Open Alex Maleev's ''Lando'' Sketchbook, Part 2}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*{{InsiderCite|161|Blaster (Star Wars Insider)|Blaster}}
+*{{Topps|set=Star Wars High-Tek|cardname=Lobot}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[The Art of Rogue One: A Star Wars Story]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*{{Databank|bespin|Bespin|archivedate=20170606133655}}
+*{{Databank|boba-fett|Boba Fett|archivedate=20170605030244}}
+*{{Databank|cloud-city|Cloud City|archivedate=20170528224811}}
+*{{Databank|lando-calrissian|Lando Calrissian}}
+*{{Databank|lobot|Lobot}}
+*{{Databank|lobot-tech-headgear|Lobot-Tech Headgear}}
+
+==Notes and references==
+{{Scroll_box|content=
+{{Imagecat|Images of Lobot}}
+{{Reflist}}
+}}
+
+==External links==
+*{{Imdb|character/ch0036735|Lobot}}
+*{{SW|url=video/starwars-com-10-best-duos|text=StarWars.com 10: Best Duos}}
+
+{{Interlang
+|fr=Lobot
+|ka=ლობოტი
+|pl=Lobot
+|ru=Лобот/Канон
+|es=Lobot
+}}
+
+[[Category:Bespinites]]
+[[Category:Clerical workers and assistants]]
+[[Category:Cyborgs]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:New Republic individuals]]
+[[Category:Rebel Alliance members]]

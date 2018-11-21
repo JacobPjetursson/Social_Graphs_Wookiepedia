@@ -1,0 +1,232 @@
+{{Eras}}
+{{Expand}}
+{{Image}}
+{{Character
+|type=Jedi
+|image=[[File:Shaak Ti closeup-SWE.png]]
+|name=Shaak Ti
+|homeworld=[[Shili]]<ref name="USW">''[[Ultimate Star Wars]]''</ref>
+|birth=[[59 BBY]]<ref name="CT">''[[Star Wars: Card Trader]]''</ref>
+|death=[[19 BBY]], [[Coruscant]]<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref>
+|species=[[Togruta]]<ref name="USW" />
+|gender=[[Sexes|Female]]<ref name="Attack of the Clones">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|height=1.87 [[meter]]s<ref name="USW" />
+|mass=
+|hair=
+|eyes=[[Color|Purple]]<ref name="Attack of the Clones" />
+|skin=Red {{C|with white markings and gray stripes}}<ref name="Attack of the Clones" />
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="Attack of the Clones" />
+**[[Jedi High Council]]<ref name="Attack of the Clones" />
+**[[Jedi assault team]]<ref name="Attack of the Clones" />
+*[[Galactic Republic]]<ref name="Attack of the Clones" />
+**[[Grand Army of the Republic]]<ref name="Clone Cadets">{{TCW|Clone Cadets}}</ref>
+|masters=
+|apprentices=}}
+{{Quote|Thank you for believing in me, General.''"<br />"''It is not a matter of belief, Fives. It is simply the right thing to do.|Fives and Shaak Ti|Fugitive}}
+'''Shaak Ti''', a [[Force-sensitive]] [[Togruta]] [[Sexes|female]], was a [[Jedi Master]] and member of the [[Jedi High Council]] in the [[Fall of the Republic|waning]] [[Standard year|years]] of the [[Galactic Republic]]. During the [[Clone Wars]], Ti took part in the battles of [[Battle of Geonosis|Geonosis]], [[Battle of Kamino|Kamino]], and [[Battle of Coruscant|Coruscant]]. In addition to her role as a [[Jedi General|General]] for the [[Grand Army of the Republic]], she personally oversaw the training and development of [[Clone trooper|clone forces]] on [[Kamino]]. As she [[Meditation|meditated]] during the [[attack on the Jedi Temple]], she was [[Death|killed]] by [[Anakin Skywalker|Darth Vader]], the fallen Jedi Anakin Skywalker.
+
+==Biography==
+===Early life===
+Shaak Ti was [[Reproduction|born]] on the [[planet]] [[Shili]]<ref name="USW" /> in [[59 BBY]].<ref name="CT" /> [[Sexes|She]] joined the [[Jedi Order]], and at some point following the [[Battle of Naboo]], gained a seat on the [[Jedi High Council]], taking the place of [[Jedi Master|Master]] [[Yaddle]].<ref name="Attack of the Clones" />
+
+===Road to war===
+The [[Galactic Republic]] was in a state of turmoil during this [[time]], as the [[Separatist Crisis|Secessionist Movement]], led by former [[Jedi]] [[Count]] [[Dooku]], threatened the stability of the Republic. The Secessionist Movement led to debate over the creation of a military force to combat an impending war. After the attempted [[Plot to assassinate Padmé Amidala|assassination]] of [[Naboo]]'s [[senator]] [[Padmé Amidala]], Ti and the other members of the [[Jedi Council]] assigned [[Jedi Knight]] [[Obi-Wan Kenobi]] to investigate the [[Jango Fett|assassin]] behind the attacks on the senator while his [[Padawan]] [[Anakin Skywalker]] protected the senator. Kenobi's [[Mission to Kamino (Separatist Crisis)|investigation]] led to [[Kamino]], where he learned that the deceased Jedi Master [[Sifo-Dyas]] had, [[Standard year|years]] earlier, secretly ordered a [[Grand Army of the Republic|clone army]] from the [[Kaminoan]]s with the help of a man named Tyranus. Kenobi, while following Amidala's would-be [[assassin]], was captured by Dooku on [[Geonosis]]. The Jedi Council was informed of his peril by Skywalker and Amidala, who unsuccessfully attempted to rescue Kenobi, leading to their capture.<ref name="Attack of the Clones" />
+
+===The Clone Wars===
+====Battle of Geonosis====
+[[File:Jedi fighting battle droids.jpg|thumb|220x220px|left|Shaak Ti and Pablo-Jill fight battle droids at Geonosis]]
+Ti participated in the [[Battle of Geonosis]], the conflict that sparked the [[Clone Wars]] between the Republic and the [[Confederacy of Independent Systems|Separatist Alliance]]. As a participant, she was a member of the [[Jedi assault team]] assembled by fellow Jedi Council member [[Mace Windu]] to rescue Kenobi, Skywalker, and Amidala from being [[Death|executed]] by the Separatists. The Jedi strike team was quickly overwhelmed, with only a small group left standing, including Ti. The [[Separatist Droid Army|Droid Army]] was ready to end the survivors when [[Grand Master]] [[Yoda]] arrived with the newly deployed Grand [[Army]] of the Republic. With the [[Clone trooper|clone's]] help, the Jedi successfully rescued the trio and won the ensuing battle.<ref name="Attack of the Clones" />
+
+====Overseeing clone training and Domino Squad====
+{{Quote|I am a Jedi, where the individual and the group are one and the same&mdash;much like you clones.''"<br />"''Which is why Fives and I are looking out for each other.''"<br />"''As individuals, but ''not'' as a group. You are where you need to be. Solve your problems as a whole, not as individuals. I have decided to allow you and the rest of your squad to take the test again tomorrow.|Shaak Ti and Echo|Clone Cadets}}
+[[File:EchoFivesRequestTramsfer-CC.png|thumb|right|220px|Ti with Fives and Echo during their training]]
+Early in the war, Ti was assigned to Kamino in order to oversee the production and training of new [[Cloning|clone]] [[trooper]]s at the primary [[Tipoca City Military Complex|cloning facilities]] in [[Tipoca City]]. She, along with paid [[bounty hunter]]s [[Bric]] and [[El-Les]], were tasked with conducting training exercises. One clone training group, [[Domino Squad]], was ineffective in following protocol and working as a team. Following one such failed exercise, Bric implied that the group were "rejects", and should be demoted to sanitation detail. El-Les was more sympathetic, and wanted Domino [[Squad]] to continue training. Ti conversed with the Kaminoan [[Prime Minister]], [[Lama Su]], on what the clones' consequence should be. Su suggested rejecting the squad, by means of termination, an idea Ti opposed. Su ultimately left the final decision to Ti. She was approached by two members of Domino Squad, [[CT-5555]], "Fives", and [[CT-1409]], "Echo", who asked for transfer to another squad. Ti disapproved of their plea and told them that, when in battle, they should fight as a group, not as individuals. With that, Ti allowed Domino Squad to face one more challenge. Domino Squad successfully completed it, and Ti graduated them to the Grand Army of the Republic.<ref name="Clone Cadets" />
+
+====Battle of Kamino====
+{{Quote|The droids are spread thin. We must press our offensive now!|Shaak Ti|ARC Troopers}}
+[[File:WelcomeToKamino-ARCT.png|thumb|left|250px|Shaak Ti greets Jedi Generals Obi-Wan Kenobi and Anakin Skywalker on Kamino.]]
+After the Republic intercepted a message between [[General]] [[Grievous]] and [[Asajj Ventress]] discussing a planned [[Battle of Kamino|attack]] on Kamino, Ti and Su greeted Kenobi and Skywalker when they arrived in Tipoca [[City]] with reinforcements. A [[Separatist navy|Separatist fleet]] soon arrived and engaged the Republic [[blockade]] that defended Kamino. Ti monitored the progress of the battle from Tipoca City's control room alongside Kenobi, Su, [[Captain]] [[Rex]] and [[Commander]] [[CC-2224|Cody]]. She noted that the Separatist [[fleet]] was not large enough to defeat the blockade, and ordered Skywalker to lead the Republic's fighters in assaulting the enemy. Several [[Munificent-class star frigate|''Munificent''-class star frigates]] were destroyed protecting Grievous' [[flagship]], with their debris crashing in the [[ocean]] near Tipoca City. Kenobi became concerned that the battle was too easy, and left Ti and the others to investigate the wreckage. He discovered [[Aqua droid]]s assembling [[Trident-class assault ship|''Trident''-class assault ships]] underwater, but was unable to warn the city before the [[droid]]s began their assault.<ref name="ARC Troopers">{{TCW|ARC Troopers}}</ref>
+
+[[File:TiDefendsHangar-ARCT.png|thumb|right|250px|Shaak Ti leads the clone troopers in pushing the battle droids back to the main hangar.]]
+When the control room came under assault by several Aqua droids, Ti quickly dispatched them and contacted the other Jedi, noting the attacking droids were spread thin throughout the city and that the Republic needed to press their counterattack quickly. While Kenobi engaged Grievous and Skywalker hunted down Ventress, who attempted to steal a genetic sample of the clone's [[DNA]], Ti led the clone troopers in pushing the droids back to Tipoca City's main [[hangar]], contacting Cody to inform him on the progress of the battle. The remaining droids were soon destroyed and the Separatist fleet retreated, although both Grievous and Ventress managed to escape.<ref name="ARC Troopers" />
+
+====Bombing of the Temple and Trial of Ahsoka Tano====
+Ti was later present during the [[Funeral of the Jedi Temple bombing victims|funeral]] of the six Jedi killed during the [[bombing of the Jedi Temple hangar]]. She also attended the Council meeting in which [[Admiral]] [[Wilhuff Tarkin]] accused Padawan [[Ahsoka Tano]] of masterminding the attack, causing Ti to exchange a shocked look with Jedi Master [[Kit Fisto]].<ref name="TCAJ">{{TCW|To Catch a Jedi}}</ref>
+
+After the [[capture of Ahsoka Tano]], Ti was also present during Tano's trial in the [[Chamber of Judgment]], where Tano was expelled from the Jedi Order and stripped of her [[Military rank|ranks]] within the Grand [[Army]] of the Republic.<ref name="The Wrong Jedi">{{TCW|The Wrong Jedi}}</ref>
+
+====Clone conspiracy====
+[[File:EpGuide602.png|thumb|left|250px|Shaak Ti watches over Tup's medical tests.]]
+Toward the end of the war, Ti oversaw the testing and investigation of clone trooper "[[CT-5385|Tup]]," who had seemingly gone rogue and killed Jedi Master [[Tiplar]] during a [[Battle of Ringo Vinda|battle]] on [[Ringo Vinda]]. She oversaw the Kaminoan [[doctor]] [[Nala Se]]'s test on Tup, which yielded nothing, and sent "Fives", a friend of Tup's, for examination.<ref name="Conspiracy">{{TCW|Conspiracy}}</ref>
+
+The [[medical droid]] [[AZI-345211896246498721347|AZI-3]] suggested a phase 5 atomic scan on Tup. Se claimed that the scan could kill him, and instead they should terminate the clone and do an autopsy on his body, as she believed that the cause of his behavior was a virus. Ti instead believed that the cause was mental. Ti contacted the Jedi Council on [[Coruscant]] to discuss the issue, and they told her to bring the clone back to the [[Imperial Palace|Jedi Temple]].<ref name="Conspiracy" />
+
+Ti was then alerted to an invader alarm on Kamino which she found had been triggered by Fives, who, along with AZI-3, had run an atomic scan on Tup and extracted a [[tumor]] which he believed to be the cause of Tup's behavior. Tup soon died muttering that he was "free of the nightmares". Ti and Se contacted [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] and told them about the situation. The Chancellor told them to bring the data to the [[Grand Republic Medical Facility]] on Coruscant. Ti however, invoking her authority, decided to take the data to the Jedi first&mdash;much to the protest of Se&mdash;and told Fives that one last test would be conducted on him before he could return to duty.<ref name="Conspiracy" />
+
+[[File:FivesOnTheLam-Fugitive.png|226x226px|right|thumb|With Fives pointing a [[DC-15A blaster rifle|blaster]] at her head, Nala Se tried to convince Shaak Ti that clones were dangerous without their bio-chips.]]
+Before she could leave, Ti was alerted that Fives was attempting to escape. She gave chase but was unable to catch them before they left in an [[Kaminoan flight pod|escape pod]]. As they attempted to track him down, Ti felt that they were searching in the wrong place. Her suspicion turned out to be true when she learned that someone was accessing the Jango Fett [[Clone template|template data]]. Ti, along with several troopers and Se, discovered that it was indeed Fives and AZI-3. They gave chase but, again, were unable to capture them. Ti realized that they were researching something and weren't planning to escape. She later saw Se quietly leaving the command center and followed her with a squad of clone troopers. She arrived in time to see Fives holding a [[blaster]] to Se and told him to surrender.<ref name="Fugitive">{{TCW|Fugitive}}</ref>
+
+She learned that Fives, assisted by AZI-3, had discovered that the tumor had been bio-engineered and had suspected a larger plot to be the cause of Tup's actions. The duo had also discovered that all troopers, including Fives, had been implanted with the same organic [[Control chip|inhibitor chip]]. Se claimed that the chip had been placed to inhibit aggressive behavior, while Fives told Ti that the chip's malfunction in Tup had caused him to lose his mind. When he told them that he had removed his chip, Se claimed that Fives was now a threat and should be terminated.<ref name="Fugitive" />
+
+[[File:Informing Palpatine of Tups death.png|thumb|left|250px|Shaak Ti informs Chancellor Palpatine of the death of clone trooper CT-5385.]]
+Ti again invoked Jedi authority, insisting that both Fives and the chips be sent to the Supreme Chancellor for investigation, rather than let the troopers be terminated by the Kaminoans. Fives thanked her for trusting him, to which Ti replied that she was only doing what was right.<ref name="Fugitive" /> Ti led Fives, as well as Se, to the Supreme Chancellor on Coruscant. Fives insisted to the Chancellor that the chips should be removed from the clones, while Se still claimed that he was a threat. The Chancellor then requested Ti and Se to wait outside while he talked with Fives. As Ti was mediating outside, she heard blaster fire and opened the door to see Fives disarming the Chancellor and his security. Fives began to aim his weapon at the Chancellor, but Ti used the Force to stop him. The Chancellor claimed that Fives had tried to assassinate him. Fives ran out of the room and down a staircase. Ti chased after the fleeing clone, and jumped down the staircase to the medical bay. She ordered that the [[blast door]]s be closed, but Fives managed to make it through in time.<ref name="Orders">{{TCW|Orders}}</ref>
+
+[[File:EpGuide604.png|thumb|right|220px|Shaak Ti discusses the assassination attempt with the Jedi]]
+Ti met with Master [[Plo Koon]], Yoda, Windu and Skywalker and told them about Fives' actions. Skywalker, whose [[501st Legion|legion]] Fives belonged to, expressed disbelief upon hearing that he had tried to assassinate the Chancellor. Ti told them that the Kaminoans believed that a virus had caused the clones' inhibitor chip to malfunction, resulting in this behavior, while Fives believed that he was the victim of a conspiracy. Windu then said that Fives should be captured alive to uncover if there was any conspiracy. Skywalker said that he would bring Fives in with the help of Rex. Ti warned him to be cautious, as the removal of the chip might have changed Fives.<ref name="Orders" />
+
+Ti was present later when the Chancellor told the Jedi that his investigation had led him to believe that a [[parasite]] native to Ringo Vinda, had caused the chips to malfunction, and that an inoculation for it had been developed which would be administered to the clones.<ref name="Orders" />
+
+====Crisis on Bardotta====
+Palpatine informed the Jedi Council of [[Queen]] [[Julia]] of [[Bardotta]]'s request for [[Jar Jar Binks]] to assist her after the disappearance of several [[Dagoyan Masters]]. Ti, along with the rest of the council, discussed the matter, ultimately deciding that Binks should not go alone, leading to Windu's decision to [[Mission to Bardotta|accompany]] Binks.<ref name="The Disappeared, Part I">{{TCW|The Disappeared, Part I}}</ref>
+
+====Tyranus revealed====
+After receiving a [[Standard decade|decades]]-old [[Distress signal|distress call]] from the lost [[Jedi T-6 shuttle 775519|ship]] of Sifo-Dyas, the Jedi Council sent Koon to investigate. After confirming the ship as Sifo-Dyas', the council chose to investigate the matter deeper. Ti was present when Skywalker and Kenobi gave a report of their [[Mission to Oba Diah (Clone Wars)|mission to Oba Diah]], where they were confronted by Dooku. They had also gave a startling realization that Dooku and Tyranus, the man who helped Sifo-Dyas order the clone army, were one and the same. Ti and her fellow council members chose to keep this revelation secret, as support in the war effort would disintegrate if the public knew that the [[Sith]] had a secret connection to the army.<ref name="The Lost One">{{TCW|The Lost One}}</ref>
+
+====Yoda's visions====
+Ti was present at a Jedi High Council meeting in which the members expressed concern over Yoda's health. Ti, along with the other Council members, meditated with Yoda in an effort to hear a voice Yoda claimed to have heard, the voice belonging to [[Qui-Gon Jinn]]. The meditation proved fruitless. Ti later appeared to Yoda in a [[Force vision|vision]] on [[Dagobah]], in which she was impaled by Anakin Skywalker's [[Skywalker's lightsaber|lightsaber]] while meditating.<ref name="Voices">{{TCW|Voices}}</ref>
+
+====Crisis on Utapau====
+Following the death of the Jedi [[Tu-Anh]] on [[Utapau]], Kenobi and Skywalker discovered that the Separatists were secretly transporting a massive [[kyber crystal]] to [[Serenno]]. Ti was present during Kenobi's report of the situation, listening as Yoda ordered him to keep the crystal out of Separatist hands. The subsequent [[Mission to Utapau|mission]] led to the crystal's destruction by the Jedi. Ti sat among her fellow masters when Skywalker and Kenobi reported their actions to the council. The Jedi learned from Yoda that kyber crystals like the one on Utapau had once powered ancient [[superweapon]]s constructed by the Sith, and that the mysterious Darth Sidious might one day discover another giant kyber crystal and craft a [[DS-1 Orbital Battle Station|new superweapon]].{{Fact}}
+
+====Plot to assassinate Dooku====
+Ti was present at the Jedi Council meeting where it was suggested that assassinating Dooku could help end the war. After careful consideration, the council chose to send [[Quinlan Vos]]. Vos, alongside Dooku's former assassin, Asajj Ventress, trained to take down Dooku. The plan didn't work, as Vos was [[Mission to Raxus|captured]] and Ventress narrowly escaped. Following a failed [[Mission to Serenno (Boba Fett's syndicate)|attempt]] to free Vos and the revelation that he was Dooku's new [[Sith apprentice|apprentice]], Ventress was brought before the council. All except Yoda raised [[Shaak Ti's lightsaber|their]] [[lightsaber]]s in response to Ventress' appearance. With the Jedi's help, [[Rescue of Quinlan Vos|Vos was freed]]. Windu wanted to keep him away from the war effort, as Vos posed a threat to the Republic, due to his knowledge of both Republic and Separatist information and his ties with Dooku. Both Obi-Wan Kenobi and Ti spoke against this, saying that his knowledge would aid the Republic, and they should give him smaller assignments until he was deemed ready to rejoin the war at hand.<ref name="Dark Disciple">''[[Dark Disciple]]''</ref>
+
+====The Battle of Coruscant====
+Towards the end of the war, the Separatist Alliance staged a [[Battle of Coruscant|massive invasion]] of Coruscant. The battle, however, was a ruse to slip Grievous onto the surface of the planet to kidnap Palpatine. After making his way through, and subsequently killing, several clone forces and the Jedi [[Roron Corobb]], Grievous met up with Ti, who tried to prevent him from reaching the Chancellor. She failed, as Grievous knocked her unconscious with electrified cables. Grievous took her lightsaber, and successfully captured the Chancellor, transporting him to the Separatist flagship ''[[Invisible Hand]]''.<ref name="Lightsabers">''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''</ref>
+
+====Attack on the Jedi Temple and death====
+[[File:Shaak Ti Death TCW Destiny.jpeg|thumb|left|209px|Shaak Ti is impaled by Vader's lightsaber in Yoda's vision]]
+On the night the [[Jedi temple|temple]] was [[Attack on the Jedi Temple|attacked]] by [[Darth]] Vader, the fallen Jedi Anakin Skywalker,<ref name="Galactic Atlas" /> Ti recorded a message on a [[holocron]], urging whoever found the message to continue the legacy of [[the Force]], and not to let the [[Jedi Purge|Purge]] be the end of the Jedi.<ref name="Hidalgo Tweet">{{Twitter|pablohidalgo|status/797563070717378560|[[Pablo Hidalgo]]|quote=@Darth_Hardy She recorded that the night the temple was under siege. We know she wasn't fighting because of the deleted scene.|noimage=}}</ref> As she meditated during the attack, Ti was killed by Vader.<ref name="Galactic Atlas" />
+
+===Legacy===
+{{Quote|Whoever is seeing this&hellip; it's up to you now. Don't let our deaths have been in vain. Don't let this be the end of the Jedi.|A holocron of Shaak Ti|Star Wars 9: Showdown on the Smuggler's Moon, Part II}}
+Many years after [[Order 66]], Ti's holocron was found by Skywalker's son, [[Luke Skywalker]], in [[Grakkus]] the [[Hutt]]'s collection of Jedi artifacts on [[Nar Shaddaa]]. At Grakkus' urging, he opened several holocrons, and witnessed Ti's message.<ref name="Star Wars 9">''[[Star Wars 9: Showdown on the Smuggler's Moon, Part II]]''</ref><ref name="Hidalgo Tweet" />
+
+==Powers and abilities==
+Shaak Ti was skilled in using [[telekinesis]] during battle. During the Battle of Kamino, she used telekinesis to lift two Aqua droids and slam them into two other droids hard enough to destroy all four.<ref name="ARC Troopers" /> Her martial capabilities were also enough to ensure her survival during the Battle of Geonosis, an engagement which saw the deaths of nearly 200 Jedi.<ref name="Attack of the Clones" />
+
+As the overseer of clone training on Kamino, Ti demonstrated an affinity for teaching.<ref name="Galactic Atlas" />
+
+==Behind the scenes==
+[[File:Fate_of_Shaak_Ti.jpg|thumb|160px|Shaak Ti's canonical fate was confirmed in ''Star Wars: Galactic Atlas''.]]
+Shaak Ti was created by concept artists [[Dermot Power]] and [[Iain McCaig]], who designed her as a Jedi with rubicund complexion as well with her intricately patterned and layered brocade for use in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']].<ref name="databank">{{DB|character|bultarswan|Bultar Swan}}</ref> She was played by [[Orli Shoshan]] in ''Attack of the Clones'' and [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']].<ref name="Attack of the Clones" /><ref name="Revenge of the Sith">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref> She was voiced by [[Tasia Valenza]] in [[Star Wars: The Clone Wars (TV series)|''Star Wars: The Clone Wars'']].<ref name="Clone Cadets" />
+
+===Deleted scenes===
+In the final edit of ''Revenge of the Sith'', most of the footage featuring Shaak Ti was cut, including two possible death scenes for her. In one, she is captured by General Grievous and taken aboard the ''[[Invisible Hand]]'', when Anakin Skywalker and Obi-Wan Kenobi make it aboard the ship they find a strangely despondent Ti sitting at the feet of Grievous, stating that she is sorry for failing him before Grievous stabs and kills her in front of Kenobi and Skywalker.<ref name="databank" /> It was later planned to have the [[Star Wars Legends|''Star Wars'' Legends]] character [[Tsui Choi]] fill her seat at the Jedi High Council, as seen in the film's set diary.<ref>{{Hyperspace|url=hyperspace/member/episode-iii/bts/setdiary/news20050627.html|text=Episode III Set Diary - Jedi Missing In Action|int=}}</ref> However, the character was spared after the deletion of the scene and was featured in a later scene.<ref name="databank" />
+
+In another scene which takes place during the Jedi Purge, Ti is meditating when she feels the presence of Vader and asks what he wants. Vader then stabs and kills her.<ref name="databank" /> The scene exists as "Anakin kills Shaak Ti" animatic and is part of the deleted scenes released on the [[Star Wars: The Complete Saga|Blu-ray in 2011]]. Ti's canonical death was finally confirmed as being killed by Darth Vader during Order 66, in the [[2016]] reference book ''[[Star Wars: Galactic Atlas]]''.<ref name="Galactic Atlas" />
+
+==Appearances==
+{{Scroll_box|content=
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[5-Minute Star Wars Stories Strike Back]]''
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*''[[Jedi of the Republic&mdash;Mace Windu, Part I]]''
+*{{TCW|Clone Cadets}}
+*{{IDWAdventuresCite|12|[[Intermission, Part I]]}}
+*{{TCW|ARC Troopers}}
+*{{TCW|Overlords}} {{C|Appears in [[hologram]] in flashback}}
+*{{TCW|Kidnapped}}
+*{{TCW|Deception}}
+*{{TCW|Crisis on Naboo}}
+*{{TCW|A War on Two Fronts}} {{Hologram}}
+*{{TCW|Sabotage (episode)|Sabotage}}
+*{{TCW|The Jedi Who Knew Too Much}}
+*{{TCW|To Catch a Jedi}}
+*{{TCW|The Wrong Jedi}}
+*{{TCW|Conspiracy}}
+*{{TCW|Fugitive}}
+*{{TCW|Orders}}
+*{{TCW|The Disappeared, Part I}}
+*{{TCW|The Lost One}}
+*{{TCW|Voices}}
+*{{TCW|Destiny (episode)|Destiny}} {{Vision|Yoda}}
+*{{TCW|The Big Bang}}
+*''[[Dark Disciple]]''
+*''[[Dark Disciple (audiobook)]]''
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{Hologram}}
+*''[[Star Wars 9: Showdown on the Smuggler's Moon, Part II]]'' {{Holocron}}
+*[[Star Wars (LINE Webtoon)|''Star Wars'' LINE Webtoon]] {{Vision}}}}
+
+==Sources==
+{{Scroll_box|content=
+*{{SW|url=tv-shows/clone-wars/clone-cadets|text="Clone Cadets" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/arc-troopers|text="ARC Troopers" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/crisis-on-naboo|text="Crisis on Naboo" Episode Guide - ''The Clone Wars''}} {{Po}}
+*{{SW|url=tv-shows/clone-wars/a-war-on-two-fronts|text="A War on Two Fronts" Episode Guide - ''The Clone Wars''}} {{Po}}
+*{{SW|url=tv-shows/clone-wars/the-jedi-who-knew-too-much|text="The Jedi Who Knew Too Much" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/the-wrong-jedi|text="The Wrong Jedi" Episode Guide - ''The Clone Wars''}} {{Po}}
+*{{SW|url=tv-shows/clone-wars/conspiracy|text="Conspiracy" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/fugitive|text="Fugitive" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/orders|text="Orders" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/the-disappeared-part-i|text="The Disappeared, Part I" Episode Guide - ''The Clone Wars''}} {{Po}}
+*{{SW|url=tv-shows/clone-wars/voices|text="Voices" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=tv-shows/clone-wars/destiny|text="Destiny" Episode Guide - ''The Clone Wars''}}
+*{{SWE|characters|adigallia|Adi Gallia}} {{Po}}
+*{{SWE|groups|clonetroopers|clone troopers|archivedate=20121227180834}}
+*{{SWE|locations|kamino|Kamino}}
+*{{SWE|characters|shaakti|Shaak Ti}}
+*{{SWE|characters|taunwe|Taun We}}
+*{{InsiderCite|152|A Trip to the Light Side}} {{Po}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: I Am a Jedi]]'' {{Po}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Aliens of the Galaxy]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]'' {{Po}}
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Forces of Destiny: Tales of Hope & Courage]]'' {{Po}}
+*''[[Star Wars: Lightsabers: A Guide to Weapons of the Force]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|adi-gallia|Adi Gallia|archivedate=20170706043936}} {{Po}}
+*{{Databank|arc-trooper-fives|ARC Trooper Fives|archivedate=20170707054534}}
+*{{Databank|azi-3|AZI-3|archivedate=20170602125510}}
+*{{Databank|clone-99|Clone 99|archivedate=20170816141048}}
+*{{Databank|clone-captain-rex|Clone Captain Rex|archivedate=20170827024953}} {{Po}}
+*{{Databank|clone-troopers|Clone Troopers|archivedate=20170602182649}}
+*{{Databank|kamino|Kamino}}
+*{{Databank|mace-windu|Mace Windu}} {{Po}}
+*{{Databank|nala-se|Nala Se}}
+*{{Databank|shaak-ti|Shaak Ti}}
+*{{Databank|taun-we|Taun We}}
+*{{Databank|togruta|Togruta}}}}
+
+{{Start_box}}
+{{Succession_box
+|title=Member of the [[Jedi High Council]]
+|years=c. [[22 BBY]]<ref name="Attack of the Clones" />&ndash;[[19 BBY]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|before=[[Yaddle]]<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|before-years=c. [[32 BBY]]<ref name="Episode I" />&ndash;before [[22 BBY]]<ref name="Databank">{{Databank|yaddle|Yaddle|archivedate=20150201212616}}</ref>
+|after=None
+}}
+{{End_box}}
+
+{{JediCouncil22}}
+{{JediCouncil19}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|el=Σάακ Τι
+|es=Shaak Ti
+|fr=Shaak Ti
+|ja=シャアク・ティ
+|ko=샤크 티
+|pl=Shaak Ti
+|pt=Cânon:Shaak Ti
+|ru=Шаак Ти/Канон
+|uk=Шаак Ті
+}}
+
+{{DEFAULTSORT:Ti, Shaak}}
+[[Category:Females]]
+[[Category:Jedi Council members]]
+[[Category:Jedi Generals]]
+[[Category:Jedi Masters]]
+[[Category:Jedi Purge victims]]
+[[Category:Togruta]]

@@ -1,0 +1,355 @@
+{{Eras|sprot}}
+{{Otheruses|Finn}}
+{{Update|[[Before the Awakening]], [[Tracker Trouble]], [[Perilous Pursuit]], [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']], [[Star Wars: The Last Jedi: Expanded Edition]], [[Star Wars: The Last Jedi: A Junior Novel]], [[Shuttle Shock]], [[Poe Dameron 26: The Awakening, Part I]], [[Poe Dameron 27: The Awakening, Part II]], [[Poe Dameron 28: The Awakening, Part III]]}}
+{{Citation}}
+{{Character
+|type=Resistance
+|image=[[File:Finn TLJ Collector's Edition.png]]
+|name=Finn
+|homeworld=
+|birth=[[11 ABY]]<ref name="Visual">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
+|death=
+|species=[[Human]]<ref name="Finn DB">{{Databank|finn|Finn|archiveurl=https://archive.fo/qfElP}}</ref>
+|gender=[[Sexes|Male]]<ref name="Finn DB" />
+|height=1.78 [[meter]]s<ref name="Finn DB" />
+|mass=73 [[kilogram]]s<ref name="TFA head to head">''[[Star Wars: The Force Awakens: Head-to-Head]]''</ref>
+|hair=[[Color|Black]]<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
+|eyes=Brown<ref name="Episode VII" />
+|skin=Dark<ref name="Episode VII" />
+|cyber=
+|era=
+|affiliation=*[[First Order]]<ref name="Finn DB" />
+**[[FN Corps]]<ref name="BTA">''[[Before the Awakening]]''</ref>
+*[[Resistance]]<ref name="Finn DB" />
+**[["Reb" Squadron]]<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+|masters=
+|apprentices=}}
+{{Quote|You're a good man, Finn.|[[Poe Dameron]]|Star Wars Episode VII: The Force Awakens}}
+'''Finn''', also known as '''FN-2187''' or '''Eight-Seven''', was a [[human]] [[Sexes|male]] [[Stormtrooper (First Order)|stormtrooper]] who [[Deserter|deserted]] the [[First Order]] and joined the [[Resistance]] during the [[First Order–Resistance war|new galactic war]]. He was [[Reproduction|born]] in [[11 ABY]] and, like other [[trooper]]s, conscripted into the [[First Order military]]. Though a capable [[soldier]], he lacked the zeal for combat possessed by other members of the [[FN Corps]]. During the waning [[Standard day|days]] of the [[cold war]], FN-2187 witnessed the [[Attack on Tuanul|massacre]] of an entire [[Tuanul|village]] on the [[desert]] [[planet]] [[Jakku]]&mdash;an act carried out by his [[squad]]mates on the orders of the [[Dark side of the Force|fallen]] [[Jedi]] [[Kylo Ren]]. Unable to reconcile the First Order's methods with his conscience, FN-2187 escaped from his former comrades with the help of [[Commander]] [[Poe Dameron]], a Resistance [[pilot]] who named the stormtrooper "Finn." He planned to hide in the [[Outer Rim Territories]], believing the First Order was unbeatable, but reluctantly became involved with [[Rey]], [[Han Solo]], and [[Chewbacca]] as they made their way to the [[Resistance base]] on [[D'Qar]] in order to bring the [[droid]] [[BB-8]] to [[General]] [[Leia Organa]]. After Rey was [[Battle of Takodana|captured]] by Ren on [[Takodana]], Finn infiltrated [[Starkiller Base]] to [[Battle of Starkiller Base|rescue]] his newfound friend but was subsequently defeated in a [[lightsaber duel]] with Ren.
+
+Although Finn recovered from his injuries, he was convinced that the [[Resistance navy|Resistance fleet]] would be destroyed by the First Order. His second attempt at [[Treason|desertion]] was thwarted, however, by [[Rose Tico]]. As a result, Finn participated in an [[Mission to Canto Bight|unsanctioned mission]] on [[Canto Bight]] where he and Tico recruited the [[Slicer|codebreaker]] known as "[[DJ]]." They managed to [[Attack on the Resistance fleet|infiltrate]] [[Supreme Leader]] [[Snoke]]'s [[flagship]], the ''[[Supremacy]]'', but were [[Prisoner|apprehended]] by [[Captain]] [[Phasma]]'s [[troop]]s before the team could disable the [[Starship|vessel's]] [[hyperspace tracker]]. After escaping from the [[Dreadnought]], Finn, Tico and BB-8 regrouped with their allies on [[Crait]] where the Resistance was all but destroyed by the First Order. However, Finn was among a handful of survivors who fled the [[Battle of Crait|battle]] with Rey's help.
+
+==Biography==
+===Serving the First Order===
+{{Quote|You have great potential, 2187. You are officer corps material. Your duty is to the First Order above everything. Nothing else comes before that.|Captain Phasma|Before the Awakening}}
+[[File:FN-2187.png|thumb|left|250px|Belonging to a new generation of stormtroopers, FN-2187 was raised to fight for the First Order.]]
+The boy who would become Finn was taken as a child from his family to serve the [[First Order]]. Finn later reflected that he had been too young to even remember who his family was. The child received the designation [[FN Corps|FN-]]2187 and was made a [[Stormtrooper (First Order)|stormtrooper]] of the First Order, a military junta that continued the ideals of the fallen [[Galactic Empire]] in the [[Standard decade|decades]] after the [[Galactic Civil War]]. FN-2187 served under [[Captain]] [[Phasma]] as a cadet, alongside fellow troopers [[FN-2199]] ("Nines"), [[FN-2000]] ("Zeroes"), and [[FN-2003]] ("Slip"). FN-2187, known to his fellow troopers as Eight-Seven, was seen by his comrades and superiors as an ideal First Order stormtrooper, and consistently scored top marks as a cadet.<ref name="BTA" /> Finn was also once in charge of sanitation duties at [[Starkiller Base]].<ref name="BTA" />
+
+Following this aboard the ''[[Finalizer]]'', groups of stormtroopers went on [[AAL-1971/9.1 Troop Transport|Atmospheric Assault Landers]] to investigate [[GUHL-JO387O]] a planet in the [[Outer Rim Territories]]. GUHL-JO3870 was known to be muddy and FN-2187 complained about scrubbing assault landers. While scrubbing the assault landers, [[Unidentified creature (GUHL-JO387O)|a creature]] from the surface of GUHL-JO387O, came aboard one of the assault landers. Finn chased the creature all around the ''Finalizer'', preventing its discovery even as it disrupted a formal meeting with Kylo Ren, General [[Armitage Hux]] and other First Order officers. FN-2187 later went to the length of impersonating Captain Phasma in order to fool Kylo Ren in the process of tracking the creature in Phasma's quarters. He would later finally get a chance to release back on GUHL-JO387O.<ref name="Pest Control">{{IDWAdventuresCite|3|[[Pest Control]]}}</ref>
+
+[[File:KowakianM-L_Finn_Comedy.png|thumb|right|342x342px|A Kowakian monkey-lizard attacks FN-2187.]]
+Sometime after, FN-2187 and a [[squad]] of stormtroopers were deployed on a [[Unidentified jungle planet (Finn)|jungle planet]]. While patrolling, a [[Kowakian monkey-lizard]] got on Eight-Seven's shoulders and pulled off his [[First Order stormtrooper armor|helmet]], which made Eight-Seven lose the grip on his [[blaster]] and the other stormtroopers from the squad look at him. The monkey-lizard laughed furiously from the prank he made, while Eight-Seven looked uncomfortable. [[C-3PO]] later told this story to some visitors and described it as "comical."<ref name="Ashcan">{{IDWAdventuresCite|Ashcan|}}</ref>
+
+While 2187 was stationed aboard the ''Finalizer'', his destroyer occasionally docked with the First Order's massive spacefaring capital the ''[[Supremacy]]''. While aboard the ''Supremacy ''after his defection, Finn would feel guilty that he was unable to tell the Resistance that the First Order possessed a ship with capabilities as deadly as the ''Supremacy's''. While serving the First Order, FN-2187 was selected a few times for [[First Order stormtrooper executioner|executioner]] duty, and hoped he would never be ordered to carry out any executions.<ref name="Expanded Edition">''[[Star Wars: The Last Jedi: Expanded Edition]]''</ref>
+
+During his time as a cadet, Eight-Seven and his fellow troopers underwent a training simulation in which they assaulted a [[New Republic]] bunker, with the intention of destroying a [[heavy repeating blaster]] manned by Republic soldiers. During their advance on the bunker, Slip fell behind—a common occurrence&mdash;and Eight-Seven intended to rescue him. Over the objections of Zeroes and Nines, who wanted to complete their objective and felt that rescuing Slip would lead the Republic to take them all out, Eight-Seven ordered them to rescue their fellow soldier. Eight-Seven sent Zeroes and Nines in different directions in order to divide the Republic's attention, while Eight-Seven himself went for Slip and successfully rescued him. Though Zeroes and Nines were pinned down, their diversion gave Eight-Seven a clear path into the Republic bunker, into which he threw a [[grenade]] and destroyed the blaster before the Republic could react to his attack.<ref name="BTA" />
+
+The simulation was monitored by Captain Phasma and General Hux. After the training session ended, Phasma spoke to the troopers and told them that their performance was adequate. Each was given a review of their performance, with Eight-Seven being commended on his kill rate and the completion of his objective. She further said that his fellow soldiers should follow his example. The other troopers were dismissed, but Eight-Seven was ordered to stay so Phasma could question why he rescued Slip, as it was not the first time Eight-Seven had to help him. Phasma ordered him to stop, as she said the First Order was only as strong as its weakest link. Rather than fixing the problem, Phasma said he was allowing it to persist and weaken the group. Phasma sensed hesitation on his part, but he assured her that he would stop helping Slip.<ref name="BTA" />
+
+Following this incident, FN-2187 and his fellow troopers were deployed to a mining colony in an artificial [[asteroid]] field known as [[Pressy's Tumble]] in the [[Pressylla system]] of the Outer Rim Territories. Captain Phasma informed the Stormtroopers there that the purpose of their visit was to 'restore order' after Republic agents had allegedly infiltrated the mining operations, sabotaged equipment and created dissent among the miners there. In reality, the miners had staged a [[Strike at Pressy's Tumble|strike]] to protest the harsh working conditions. Upon arrival, Captain Phasma took FN-2187's unit to a room of negotiators. Captain Phasma then gave the order that the troopers execute the negotiators. FN-2187 aimed his rifle at an [[Abednedo]] negotiator, yet couldn't bring himself to shoot&mdash;Slip attacked the negotiator instead. Upon returning from Pressylla, FN-2187 and his fellow troopers were officially recognized as full-fledged Stormtroopers. Captain Phasma decided that FN-2187 ought to be deployed in an upcoming [[Attack on Tuanul|battle]] on Jakku, thinking that he would understand what it meant to be a Stormtrooper and fight back when brought face-to-face with those attacking him back.<ref name="BTA" />
+
+===Cold war===
+====Deserting from the First Order====
+{{Quote|I'm not Resistance. I'm not a hero. I'm a stormtrooper. Like all of them, I was taken from a family I'll never know. And raised to do one thing. But my first battle, I made a choice. I wasn't gonna kill for them. So I ran. Right into you. And you looked at me like no one ever had. I was ashamed of what I was. But I'm done with the First Order. I'm never going back.|Finn, to Rey|Star Wars: Episode VII The Force Awakens}}
+[[File:FN-2187 Blood Stained Helmet.png|thumb|left|200px|FN-2187 became disillusioned with the First Order after witnessing the massacre of Tuanul.]]
+After Eight-Seven was deployed, he and his fellow troopers were sent on a mission to the [[desert]] planet [[Jakku]], where [[Lor San Tekka]], a former explorer and devout member of the [[Church of the Force]], allegedly held part of a map that would lead to the location of [[Luke Skywalker]], the last of the [[Jedi]]. Eight-Seven was deployed from the [[Star Destroyer]] ''[[Finalizer]]'', along with 4 elite First Order squadrons of Stormtroopers, to the village of [[Tuanul]]. The First Order assaulted the village where the man was in hiding, and during the fighting his friend FN-2003 was killed by [[Resistance]] [[Resistance pilot|pilot]] [[Poe Dameron]], wiping his blood on FN-2187's helmet. This incident affected the Stormtrooper deeply, and when ordered by [[Kylo Ren]] to kill the villagers, he refused to fire, which Ren took note of.<ref name="Episode VII" />
+
+Returning to the ''Finalizer'', Eight-Seven felt significant stress from the mission, and Captain Phasma noticed his distress. She told him to submit his blaster to be checked, making sure he fired a shot. Knowing he would be re-evaluated and discovered for not firing on the villagers, and with his faith severely shaken in the First Order, he decided to desert. He freed the captured Poe Dameron from his cell, and the two stole a [[TIE/sf space superiority fighter|Special Forces TIE Fighter]]. FN-2187 manned the guns, killing several of his former comrades in the hanger, and then disabling the ''Finalizer''{{'s}} [[turbolaser]]s.<ref name="Episode VII" />
+
+====FN-2187's new name====
+{{Quote|FN, huh? Finn. I'm gonna call you Finn! That all right?"<br>"Finn...yeah. Finn. I like that!"|Poe Dameron renames FN-2187.|Star Wars: Episode VII The Force Awakens}}
+During the escape, Dameron asked the Stormtrooper his name, to which he replied with his number. Not content with calling a man a number, Dameron named the trooper Finn, from the FN in his number. Finn liked the name, and went on to use it. Dameron also told him that the map vital to the Resistance was located in his white and orange [[BB-series astromech droid]], [[BB-8]]. Finn demanded not to return to Jakku, insisting that they would be killed, but Dameron pressed on, revealing to Finn that the map led to Luke Skywalker. The TIE hit immediately afterwards by a missile, sending it spiraling down to a crash landing in the [[Goazon Badlands]].<ref name="Episode VII" />
+
+====Meeting Rey and BB-8====
+{{Quote|I don't know your name.''"<br />"''Finn. What's yours?''"<br />"''I'm Rey.|Rey and Finn|Star Wars: Episode VII The Force Awakens}}
+[[File:Finn and Rey boarding.jpg|thumb|right|300px|Attacked by First Order TIEs, Finn and Rey boarded the ''Millennium Falcon'' to escape the starfighters.]]
+Finn ejected from the TIE when Dameron triggered the ejector seat. Unfortunately, Dameron's [[Resistance fighter jacket|jacket]] was caught in the ejector mechanism for the ship, which prevented him from escaping. Left with no choice, Dameron piloted the TIE to a crash landing in the aftermath of which he was thrown clear of the crash and knocked unconscious.<ref name="Poe Dameron 26">''[[Poe Dameron 26: The Awakening, Part I]]''</ref>
+
+Making his way to the crash, Finn found Poe's jacket, but no other sign of the man, and the fighter sunk into the sand. Believing Dameron to be dead, he discarded his armor and eventually arrived at [[Niima Outpost]], looking for BB-8 to carry on Poe's mission.<ref name="Episode VII" />
+
+Once at the settlement, he found BB-8 along with a [[scavenger]] named [[Rey]], after witnessing her and the droid be attacked by a pair of thugs. He attempted to aid them, but stopped when the young woman was able to defeat them with her [[quarterstaff]]. Soon after, BB-8 pointed him out to Rey, identifying Dameron's jacket, prompting the woman to chase after him. Finn attempted to outrun her but Rey caught up him and smacked him with her quarterstaff. Held under questioning and accused of stealing Dameron's jacket, while also being on the receiving end of a couple of electric shocks from BB-8's [[arc welder]], Finn explained that he and Dameron had escaped from the ''Finalizer'', and falsely claimed to be with the Resistance to get them to trust him. The three were immediately targeted by the First Order and fled, initially hoping to commandeer a [[quadjumper]], but after the quadjumper was destroyed by orbital fire from First Order TIE fighters, decided to commander an old [[Light freighter|freighter]]: the ''[[Millennium Falcon]]''.<ref name="Episode VII" /> Finn operated one of the ''Falcon'''s [[quad laser cannon]]s while Rey piloted the ship. Despite the cannon getting stuck in forward position, Finn managed to destroy one of the pursuing fighters after Rey managed some clever maneuvering.
+
+[[File:Finn and Rey looking up.png|left|thumb|300px|Finn and Rey look up in fright as they are caught in a tractor beam.]]
+Once in space, the ''Falcon'' was in need of major repairs, so Rey and Finn attempted to fix the ageing ship. Finn then confessed to BB-8 that he wasn't with the Resistance and tried convincing the droid to tell him where the Resistance base was. At some consideration, BB-8 revealed that the Resistance base was in the [[Ileenium system]]. Just after Rey had completed the repairs, the ship was caught in a tractor beam. Finn initially believed them to be captured by the First Order, and thus had Rey undo her repairs to flood the ''Falcon'' with poisonous gas, explaining that stormtrooper helmets filter out smoke, not toxins. Putting on breather masks, Finn, along with Rey and BB-8, hid in the maintenance duct.<ref name="Episode VII" />
+
+====Enter Han Solo====
+{{Quote|This was a mistake!''"<br />"''Huge!|Finn and Rey|Star Wars: Episode VII The Force Awakens}}
+Instead of the First Order, the ''Millennium Falcon'' was boarded by the [[smuggler]] [[Han Solo]] and his [[Wookiee]] co-pilot [[Chewbacca]], who reclaimed their vessel after it had been stolen from them years earlier. Solo initially mistook Finn and his companions for thieves and questioned them. Finn and Rey quickly recognized Han Solo as the [[Alliance to Restore the Republic|Rebellion]] general and the famous smuggler and owner of the ''Falcon''. Having found his stolen ship, Solo told Chewbacca to put Finn and his traveling companions in an [[escape pod]] and drop them off in the nearest inhabited system. However, Finn and Rey convinced Solo and Chewie not to do so by explaining that they needed his help to take BB-8 to the Resistance because the droid had a map that would lead them to Luke Skywalker.<ref name="Episode VII" />
+
+[[File:Rey and Finn Crawl Eravana.png|right|thumb|300px|Rey and Finn crawl through the ''Eravana'' to avoid detection.]]
+Unfortunately, Han's [[Bulk freighter|freighter]], the ''[[Eravana]]'' had been boarded by two notorious criminal factions, the [[Guavian Death Gang]] and [[Kanjiklub]], whom Solo was indebted to. Not wanting Rey and Finn to be involved, Han placed both of them in the lower corridors of the freighter while he and Chewie went to meet with the criminals, with BB-8 accompanying them. The smuggler tried but failed to convince both parties that he would fix things eventually.<ref name="Episode VII" />
+
+The Guavian Death Gang negotiator [[Bala-Tik]] recognized the BB-8 astromech droid from a First Order bounty placed on it and demanded that Han hand over the droid and any stowaways he might have on board. As the scuffle continued, Rey accidentally released three [[rathtar]]s that Solo had been transporting for [[King]] [[Grevoth Prana IX|Prana]] while trying to separate the gangs from the smugglers using the blast doors. Finn was briefly captured by one rathtar and dragged off, but Rey managed to sever the rathtar's tenticles by closing a blast door on it. They successfully escaped the gangs and jumped into [[hyperspace]] in the ''Falcon''. Bala-Tik then ordered his men to inform the First Order that Han Solo and the droid unit had fled aboard the ''Falcon''.<ref name="Episode VII" />
+
+While traveling through hyperspace, Finn tended to Chewbacca's injuries with the Wookiee proving a challenging patient to treat. During the journey, Solo got BB-8 to display the map that he was carrying. However, the map was incomplete and turned out to be a portion of a much larger map. Finn and Rey learned from Solo that Luke Skywalker had been trying to restore the [[Jedi Order]]. However, a male apprentice had turned against Skywalker and undone his efforts. Skywalker had since vanished from the galaxy completely. Solo believed that Luke had gone to find the legendary [[First Jedi Temple]]. Not wanting to deliver Finn, Rey, and BB-8 to the Resistance directly, Solo planned to take them to the planet [[Takodana]] where he could find suitable transportation for them.<ref name="Episode VII" />
+
+====Takodana====
+{{Quote|I'm looking at the eyes of a man who wants to run.''"<br />"''You don't know the First Order like I do. They'll slaughter us. We all need to run.|Maz Kanata and Finn|Star Wars: Episode VII The Force Awakens}}
+[[File:Finn with Sidon Ithano and Quiggold.png|left|thumb|300px|At Maz Kanata's castle, Finn considered joining the pirate crew of Sidon Ithano.]]
+After landing on Takodana, Finn and his companions visited the [[pirate]] and tavern keeper [[Maz Kanata]]'s [[Maz Kanata's castle|castle]], which served as an inn and bar for space. Finn also managed to meet Maz herself, who counselled him to stop running and fight. Finn was then asked to join the Resistance in its struggle against the First Order, but Finn initially refused, believing the First Order to be too powerful. He then confessed to Rey his true identity as a stormtrooper and stated that he was never going back to the First Order. After she declined his offer to join him in escaping the conflict, he wished her well. He planned to leave with pirate Captain [[Sidon Ithano]], who offered him transportation to the [[Outer Rim Territories]] in exchange for work.<ref name="Episode VII" />
+
+Before he could depart with Captain Sidon, Finn witnessed the [[Hosnian Cataclysm]] and realized that the First Order had launched its attack on the New Republic. After reuniting with Han, Chewbacca, and BB-8, Finn and his companions went to find Rey. Venturing into the basement of Maz Kanata's castle, they instead found Maz, who gave Finn the [[Skywalker's lightsaber|lightsaber]] that had once belonged to the [[Jedi Knight]]s [[Anakin Skywalker|Anakin]] and Luke Skywalker. She instructed Finn to pass the weapon to Rey, who had previously discovered the object and fled into the surrounding forest after experiencing a [[Force vision]].<ref name="Episode VII" />
+
+Shortly later, Maz Kanata's castle was [[Battle of Takodana|attacked]] by the First Order, who had been alerted to the presence of BB-8 by the [[spy]] [[Bazine Netal]]. During the ensuing battle, Finn wielded the lightsaber, killing at least one stormtrooper and engaging in a duel with [[FN-2199]], who brandished a [[Z6 riot control baton]]. He was unable to defeat Nines, who was shot by Han Solo wielding Chewbacca's [[bowcaster]]. Finn, Solo, and Chewbacca were captured, but made an escape when the Resistance counterattacked. Finn witnessed Kylo Ren carrying off Rey into [[Kylo Ren's command shuttle|his command shuttle]] and ran to rescue her, but could do little to help as Ren left the battlefield.<ref name="Episode VII" />
+
+====Return to Starkiller Base====
+{{Quote|What do we do with her?!''"<br />''"Is there a garbage chute? Trash compactor?!''"<br />''"Yeah, there is.|Finn and Han Solo discuss what to do with Captain Phasma|Star Wars: Episode VII The Force Awakens}}
+[[File:FinnPhasma-TFA.png|right|thumb|300px|Finn holds Captain Phasma at the point of his blaster.]]
+Finn traveled with Solo, Chewbacca, and BB-8 to the Resistance base on [[D'Qar]], where he was reunited with Poe Dameron, who had survived the crash on Jakku. Finn also met General [[Leia Organa]] who praised him for renouncing the First Order and helping Poe escape.<ref name="Episode VII" /> Finn then discussed the details of Starkiller Base to Admiral [[Gial Ackbar|Ackbar]]. <ref name="TFA novel">[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]</ref>
+
+Finn was later present during the meeting held to discuss the [[Battle of Starkiller Base|attack]] on Starkiller Base, and his knowledge of the [[superweapon]] proved invaluable in planning the attack. He volunteered to go with Solo and Chewbacca to destroy a shield generator on the planet's thermal regulator, but was more interested in rescuing Rey.<ref name="Episode VII" />
+
+After crash-landing on the planet, Finn revealed to Han and Chewie that he used to work on sanitation on Starkiller Base, much to Solo's annoyance. Finn devised a plan to lower the shield around the planet, which would allow the Resistance pilots to attack the [[thermal oscillator]] and destroy the weapon. Chewbacca captured Captain Phasma, and the three, including an overly confident Finn, forced her to lower the shield. She warned them that her troops would storm in and kill them all, but Solo shrugged off her warning, asking Finn if there happened to be any convenient [[Garbage compactor|trash compactors]] in the base and they were able to dump her into one via garbage chute.<ref name="Episode VII" />
+
+[[File:FinnInjuredDuringDuel.png|left|thumb|300px|Finn is injured during a duel with Kylo Ren.]]
+The three then discovered Rey, who had escaped by herself by using her burgeoning [[The Force|Force]] powers. Rey and Finn went to set charges on part of the oscillator, and upon their return, witnessed Han Solo confront Kylo Ren, who was revealed to be Han's son Ben Solo. After witnessing Kylo murder his father, Rey and Finn attempted to escape, but were met with Kylo again in the woods. Rey attempted to use her blaster against Kylo, but he threw Rey back with a [[Force push]] and knocked her out. Finn, horrified, rushed to Rey's side while Ren angrily called him a [[Treason|traitor]]. An enraged Finn then ignited the lightsaber, which Ren claimed rightfully belonged to him. Finn challenged him to "come and get it" before engaging him in a [[Lightsaber combat|duel]]. Though Finn briefly held his own, even with him having no training with a lightsaber, he was ultimately no match for the dark warrior.<ref name="Episode VII" /> In his defeat, Finn was disarmed and suffered wounds to his shoulder and spine. Badly injured, Finn was overcome by pain and his muscles went limp. He could hear lightsabers clashing around him, but as the pain increased, he could no longer fight the darkness overcoming him. As he fell into unconsciousness, his last thought was of Rey.<ref name="finnsstory">''[[The Force Awakens: Finn's Story]]''</ref>
+
+After Finn was disabled, Rey regained consciousness and used the Force to retrieve the lightsaber and defeat Kylo. Rey took Finn to Chewbacca aboard the ''Millennium Falcon'', and left him in intensive care at the Resistance base in a [[coma]]. Rey wished him a heartfelt goodbye, kissed his forehead, thanked him for everything, and declared that they would meet again before she departed to find Luke Skywalker.<ref name="Episode VII" />
+
+===First Order-Resistance war===
+====Recovery and meeting Rose====
+Finn awoke in a [[flexpoly bacta suit]] onboard the [[MC85 Star Cruiser|star cruiser]] ''[[Raddus (MC85 Star Cruiser)|Raddus]]'' after the Resistance [[Evacuation of D'Qar|fled]] D'Qar. Greeted by Poe, he asked where Rey was, and learned that she had gone to [[Ahch-To]] to retrieve Master Skywalker. The First Order [[Attack on the Resistance fleet|intercepted]] the Resistance fleet when it emerged from hyperspace in the [[Crait system]], attacking and destroying the bridge. General Organa survived, but was gravely injured and taken to the medbay. Finn picked up the transponder beacon that Organa was using to let Rey know their location, and decided he was going to flee so she would not get caught up in the First Order's attack. He then made his way to one of the escape pods where he was intercepted by [[Rose Tico]], a former flight engineer and current [[Technician|maintenance worker]] whose sister [[Paige Tico|Paige]] had perished in the First Order's attack, and had been assigned to guard the pods from deserters.<ref name="Episode VIII" />
+
+Rose was initially enamored with Finn, who she saw as a Resistance hero, but noticed that he had packed a bag and realized he was planning to desert. Rose stunned Finn and placed his body on a cart to try to haul him to the brig.<ref name="Episode VIII" /> When Finn awoke, he told Rose about Rey and that the First Order could [[Hyperspace tracker|track the fleet through hyperspace]]. The two then began to devise a plan to shut down the tracker aboard the ''Supremacy'' and allow the fleet to jump away, saving both the Resistance and Rey.<ref name="Episode VIII" />
+
+The two presented their plan to Poe, who agreed to sanction it without the knowledge of the fleet's new commander, [[Vice Admiral]] [[Amilyn Holdo]]. Needing clearance codes to board the ''Supremacy'', they contacted Maz Kanata, who directed them instead to the [[Master Codebreaker]], who they would find at the [[casino]] in [[Canto Bight]], a city on the planet [[Cantonica]]. Finn gave Poe Leia's tracker.<ref name="Episode VIII" />
+
+====Canto Bight====
+Finn, along with Rose and BB-8 [[Mission to Canto Bight|departed]] for Cantonica. As they began their descent near the planet's atmosphere however, they were interrupted by the passing of an unknown floating tentacled alien that emitted electric currents around its body. As it ascended above them, some of the tentacles hit the shuttle, causing a surge of electricity to travel within the ship and temporarily disable BB-8, who had been helping steer the shuttle. Rose then asked Finn to take over as she busied herself with the task of fixing the droid. Finn voiced his concerns regarding his own piloting abilities, but Rose pointed out that they didn't have much of a choice. As they descended further, Finn then saw and pointed out to Rose that there appeared to be more of the unknown alien creatures. As he did his best to navigate them through the flock, Finn saw one of the creatures quickly appear on an apparent collision course. Finn called out to BB-8. Luckily for him, Rose was just about done fixing the droid. BB-8 then resumed control of the ship which allowed them to avoid coming into contact with any of the creatures. As they floated off into safety, Finn inquired about BB-8's condition, which the droid replied to by way of extending his built-in torch. Rose and Finn then complimented the droid as well as each other before proceeding to the rest of their mission.<ref name="Shuttle Shock">{{FOD|Shuttle Shock}}</ref>
+
+They landed their shuttle on a private beach and entered the casino, despite an [[Abednedo (species)|Abednedo]] businessman named [[Slowen Lo]] trying to stop them. Finn was amazed by the luxury of the casino, but Rose showed him the animal abuse, child labor, and war profiteering that went on behind the scenes. Rose told Finn that she and her sister came from the [[Otomok system]], which was used as a testing ground by the First Order, and that many of the casino's patrons had become wealthy selling weapons to the First Order.<ref name="Episode VIII" />
+
+BB-8 located the master codebreaker, but Slowen Lo reported them to the [[Canto Bight Police Department|police]] for parking illegally, and Finn and Rose were arrested and stunned. Their cellmate, [[DJ]], offered to help them break onto the Destroyer, but Finn refused, believing DJ to be a mere pickpocket. DJ then used a manufactured passkey to open the cell door, allowing Finn and Rose to escape as well.<ref name="Episode VIII" />
+
+Finn and Rose escaped into the Canto Bight stables, where the stableboy [[Temiri Blagg]] helped them escape, riding on the back of one of the casino's [[fathier]]s. They initially guided the fathiers towards their shuttle, but the police officers destroyed it. The fathiers rampaged through the casino and town, causing major damage, before losing the police by running through tall underbrush. Rose and Finn were then picked up by BB-8 and DJ aboard the stolen yacht ''[[Libertine]]. ''<ref name="Episode VIII" />
+
+====The ''Supremacy ''and capture====
+{{Quote|FN-2187. ''So'' good to have you back.|Phasma "welcomes" Finn upon his capture.|Star Wars: Episode VIII The Last Jedi}}
+DJ demanded [[Rose's medallion]] as a deposit. Despite Finn's objections, Rose gave it to him. DJ showed Finn that the yacht's [[Korfé Bennux-Ai|previous owner]] was an arms dealer who sold weapons to both the First Order and Resistance. DJ attempted to convince Finn that the entire galaxy was a machine, and that he should stay away from causes and live free.<ref name="Episode VIII" />
+
+DJ partially lowered the ''Supremacy''<nowiki/>'s shields, allowing the ''Libertine ''to slip aboard. Finn, Rose, and DJ disguised themselves as First Order officers in order to reach the tracker.<ref name="Episode VIII" /> 926 recognized Finn, who had been in the same [[Batch Eight|stormtrooper batch]] as him. However, 926 was unaware of Finn's defection, believing that Finn had been promoted to officer. 926 told Finn that he didn't think Finn was officer material.<ref name="Expanded Edition" />
+
+Finn, Rose, and DJ reached the tracker, but they were captured by Phasma, who feigned delight at seeing Finn again. However, DJ cut a deal, exchanging information about the Resistance's escape plan gleaned from Finn and Rose- to used cloaked transports to reach the surface of the mineral planet [[Crait]]- for payment and his freedom, much to the fury of both Finn and Rose. The First Order began to fire on the Resistance transports, destroying most of them .<ref name="Episode VIII" />
+
+Phasma ordered Finn and Rose executed, deciding to make them suffer and have them executed via [[laser ax]], but before the [[First Order stormtrooper executioner|execution troopers]] could deliver the killing stroke, Holdo used the ''Raddus ''to ram the ''Supremacy ''at light speed, causing the hangar to erupt in flames, and knocking Finn unconscious. Finn and Rose attempted to reach a [[Xi-class light shuttle|''Xi''-class light shuttle]] to escape the heavily damaged ''Supremacy'', but they were cut off by Phasma.<ref name="Episode VIII" />
+
+Finn dueled Phasma with a baton, but he could not hold out against her for long. Phasma beat him back and eventually knocked him off the platform. However, a raising platform below him saved his life. This allowed him to get behind Phasma and deliver a blow that cracked her helmet and sent her tumbling to unstable footing. Finn proudly identified himself to Phasma as a rebel before her platform gave way, sending her into the fire below.<ref name="Episode VIII" />
+
+BB-8 and Rose gave Finn a lift to the shuttle with a hotwired [[All Terrain Scout Transport|AT-ST]].<ref name="Episode VIII" /> As the shuttle took off, Finn remarked that they were going where they belonged, and they turned towards Crait to reunite with the Resistance.<ref name="Expanded Edition" />
+
+====Battle of Crait====
+{{Quote|Why would you do that, huh? I was almost there! Why would you stop me?!"<br>"I ''saved'' you, dummy. That's how we're gonna win. Not by fighting what we hate. Saving what we love.|Finn and Rose after Rose stopped Finn's suicide run.|Star Wars: Episode VIII The Last Jedi}}
+Pursued by two TIE fighters, Rose barely managed to pilot the shuttle under the closing bunker door of the [[Crait outpost|abandoned Rebel outpost]] where the Resistance was hiding out. The Resistance opened fire on the shuttle, but Finn convinced them to stop.<ref name="Episode VIII" />
+
+The Resistance planned to lay low in the bunker until they could send a signal to their allies in the Outer Rim. However, the First Order quickly deployed [[All Terrain MegaCaliber Six]]s, [[First Order All Terrain Armored Transport|AT-ATs]], and a weapon Finn recognized as a [[Superlaser siege cannon|battering ram cannon]] to infiltrate the bunker. Finn suggested to Poe that they use the base's complement of [[V-4X-D ski speeder|speeders]] to launch an assault against the siege cannon, in order to buy the Resistance time to get the message out.<ref name="Episode VIII" />
+
+Finn piloted one of the speeders in the battle, and was able to exercise more control over the speeder after dropping his monoski. The First Order deployed TIE fighters which destroyed many of the speeders. However, the timely arrival of Rey and Chewbacca in the ''Millennium Falcon'' drew the fighters away from the Resistance speeders.<ref name="Episode VIII" />
+
+Finn's speeder drew near the cannon, but Poe called off the attack, realizing that they were too late: the cannon was about to fire, and the cost of life was already too high. Finn disobeyed Poe's orders, but before he could sacrifice himself for the Resistance by flying his speeder straight down the barrel of the cannon, Rose crashed her speeder into his, knocking them both out of the line of the cannon's fire.<ref name="Episode VIII" />
+
+Finn confronted Rose, asking why she stopped him. Rose told him that the Resistance would win the [[First Order–Resistance war|war]] by saving what they love, not by fighting what they hate. Rose kissed Finn and collapsed unconscious as the siege cannon fired, destroying the bunker door.<ref name="Episode VIII" />
+
+Finn dragged Rose's body through the obliterated bunker door, and turned her over to Resistance medics. Finn witnessed the [[Force projection|projection]] of Luke Skywalker going out to confront the First Order, and believed that they should help him. However, Poe convinced him that Skywalker was distracting the First Order so the Resistance could survive.<ref name="Episode VIII" />
+
+Poe and Finn then realized that the [[Vulptex|vulptices]] that had previously infested the base had disappeared. Finn, along with the rest of the Resistance, followed Poe through the caverns of the outpost until they reached an unmapped natural entrance that was blocked by boulders. However, Rey, on the other side of the wall, used [[the Force]] to move the boulders aside. Finn shared an embrace with his friend, Rey, and the Resistance finally escaped aboard the ''Falcon ''.<ref name="Episode VIII" />
+
+On the ''Falcon'', Finn placed a blanket over Rose's body while Rey watched.<ref name="Episode VIII" />
+
+==Personality and traits==
+{{Quote|I've had a pretty messed up day, all right?!|Finn on his escape from the First Order|Star Wars: Episode VII The Force Awakens}}
+Finn was a [[Sexes|male]] [[human]]. During his time with the First Order, he wore the standard-issue stormtrooper armor. Following his desertion, he discarded his armor, but continued to wear the armor's [[body glove]] and shoes, and took to wearing Poe Dameron's jacket as a way to remember him. Upon discovering that Dameron was alive, Finn offered him his jacket back, but the pilot insisted he keep it.<ref name="Episode VII" />
+
+While in service to the First Order, Finn was seen by his training cadre and his fellow soldiers as one of the best stormtroopers that the First Order had to offer. His instructors saw him as loyal to the First Order, as well as dutiful, brave, intelligent, and possessing the strength necessary to be a great stormtrooper and perhaps even eventually one of the group's [[officer]]s.<ref name="finnsstory" /> Finn was trained to believe that the New Republic was depraved and that the First Order was necessary to bring law to a lawless [[The galaxy|galaxy]], and everything he had seen of the galaxy was filtered through his training; the First Order showed him only what they wanted him to see, but he did not doubt its truth. Nonetheless, though as a cadet he was eager to be deployed and see the galaxy so he could serve the First Order and [[Supreme Leader]] [[Snoke]],<ref name="BTA" /> he was plagued by doubt. That doubt came to a head on Jakku, when he refused to fire on the villagers and deserted from the First Order.<ref name="Episode VII" />
+
+[[File:Where's Rey?.png|right|thumb|300px|Awakened from his comatose state, the first question the protective Finn asks is "Where's Rey?".]]
+Despite his training and education by the First Order, Finn had a good heart and empathy for others. While deployed on Jakku, after witnessing his friend FN-2003 killed by Poe Dameron, he refused to fire on unarmed villagers. These two events shook his belief in the First Order, inspiring him to desert and free Dameron, and eventually help Rey and BB-8 and side with the Resistance.<ref name="Episode VII" />
+
+Finn was also protective of those he cared about. He risked jeopardizing a training mission in order to save FN-2003,<ref name="BTA" /> and when seeing Rey being carried off by Kylo Ren, ran desperately to rescue her. He later accompanied Han Solo and Chewbacca on a mission to destroy the Starkiller Base's shield generator in order to rescue Rey.<ref name="Episode VII" /> As soon as he awoke from his comatose state, a result of his unsuccessful duel with Kylo Ren on Starkiller Base, he immediately inquired about Rey's well being.<ref name="Episode VIII" /> He had a crush on Rey, partially what drove him to want to protect, help, and follow her to the point of Rose wondering if Rey had "imprinted" on him. Even after realizing that the conflict was greater than any one person, though, he still seemed to hold feelings for Rey, which kept him going throughout the Battle of Crait.<ref name="Expanded Edition" />
+
+However, Finn was seen to be susceptible to his fear and stress at times, such as during his desertion of the First Order. He seemed desperate to escape their attention and would rather fly across the system than entertain the thought of facing his pursuers. At Maz Kanata's castle he almost abandoned Rey, Han Solo, and Chewbacca in an attempt to escape the conflict, but changed his mind and was later pulled into the battle anyway. He also panicked multiple times during his and Rey's escape from Jakku aboard the ''Millennium Falcon''.<ref name="Episode VII" /> When he reunited with Rey outside of the mine on Crait he embraced her tightly, glad to be with her, safe once more.<ref name="Episode VIII" />
+
+Finn was courageous in battle once he had made his choice to fight. He immediately ran to battle Phasma when he and Rose were faced with her contingent of Stormtroopers on board the ''Supremacy's'' hangar, using the first weapon he could find, a Z6 Riot Control Baton, and ultimately was willing to go into battle and die for the Resistance without regard to his own life; he would rather die than let the First Order win.<ref name="Episode VIII" />
+
+As he had little experience with life outside of the conflict, he was initially taken with Canto Bight's glitz and glamour, until Rose showed him the extent of the corruption and evil at the heart of it, abusing fathiers and slave children.<ref name="Episode VIII" />
+
+==Skills and abilities==
+{{Quote|FN-2187, your targeting was exemplary. According to the simulation, you fired your weapon only thirty-six times, scoring kills with thirty-five of those. You deployed one explosive, which resulted in the achieving of the objective and another six enemies killed. All of you should take your example from FN-2187.|Captain Phasma to FN-2187 and his team|Before the Awakening}}
+As a stormtrooper, Finn consistently scored top marks in his training and was seen as someone who could become an ideal First Order trooper. His First Order training made him an effective marksman with a high kill rate.<ref name="BTA" />
+
+This skill with a blaster apparently translated well into skills as a gunner. During the escape from the ''Finalizer'' aboard a stolen TIE, Finn managed to kill dozens of stormtroopers, destroy the contents of the ''Finalizer''{{'}}s hangar bay, knock out several turbolaser batteries and ventral cannons on the underside of the ship, and even destroy an incoming missile despite having no experience with flying [[starfighter]]s. In fact, it was only Finn's distraction by an argument with Poe Dameron that led to the stolen TIE being struck by an incoming missile and disabled. The next day, Finn would man the ventral quad-laser cannon turret aboard the ''Millennium Falcon'' during the escape from Jakku, destroying one TIE on his own and one with assistance from Rey.<ref name="Episode VII" /> He was also able to pilot a ski speeder during the [[Battle of Crait]].
+
+Despite a lack of training in the use of a lightsaber, Finn had the ability to wield this particular weapon in combat. He was able to hold his own against a stormtrooper with a riot baton, and despite being defeated, managed to inflict a shoulder wound on the more experienced Kylo Ren.<ref name="Episode VII" />
+
+Aboard the ''Supremacy'', Finn tested all his skill against his former superior officer, Captain Phasma. Unfortunately, it wasn't enough in a stand-up fight; he had only been able to knock her down with the element of surprise and the high ground.<ref name="Episode VIII" />
+
+Like most other First Order stormtroopers, Finn was trained in dealing with wounds incurred on the battlefield. He made use of this training to aid a wounded Chewbacca.<ref name="TFA novel" />
+
+Prior to his defection from the First Order, Finn was considered officer material.<ref name="finnsstory" />
+
+==Behind the scenes==
+Finn is portrayed by [[John Boyega]] in [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]. Boyega's casting in the film was first made known on [[April 29]], [[2014]],<ref name="Cast Announce">{{SW|url=news/star-wars-episode-vii-cast-announced|text=Star Wars: Episode VII Cast Announced}}</ref> and his character was first revealed in the first teaser trailer for the film on [[November 28]], 2014.<ref name="Teaser Trailer">{{SWYoutube|erLk59H86ww|Star Wars: The Force Awakens Official Teaser Trailer}}</ref> His first name was revealed by ''Entertainment Weekly'' in an exclusive digital trading card.<ref name="Name Revealed">{{Cite web|url=http://insidemovies.ew.com/2014/12/11/star-wars-the-force-awakens-character-names/|title='Star Wars: The Force Awakens' character names revealed (in coolest way possible) -- exclusive|first=Anthony|last=Breznican|work=Entertainment Weekly|date=December 11, 2014|accessdate=December 11, 2014}}</ref> ''The Force Awakens'' director [[J.J. Abrams]] stated prior to the film's release that it was "completely intentional" that no last name was provided for the character,<ref name="lastname">{{Cite web|url=http://www.eonline.com/news/686134/how-j-j-abrams-picked-star-wars-the-force-awakens-character-names|title=How J.J. Abrams Picked ''Star Wars: The Force Awakens'' Character Names|first=Daniel|last=Nissen|publisher=Entertainment Weekly|date=August 13, 2015|accessdate=August 20, 2015}}</ref> the film itself revealing that "Finn" was a name given to the character following his desertion from the stormtrooper ranks.<ref name="Episode VII" />
+
+The writers of Episode VII decided to make Finn as a deserting stormtrooper as [[Lawrence Kasdan]] felt it would be "incredible" to have their protagonist be from a group of previously "faceless, indistinguishable automatons".<ref name="Secrets of TFA">Secrets of ''The Force Awakens'': A Cinematic Journey (Chapter 1)</ref> Co-writer [[Michael Arndt]] remembered that an exasperated Kasdan blurted out his idea when they were struggling to decide on a unique background for their male lead.<ref>{{cite web|url=http://www.ew.com/article/2016/01/16/ew-podcast-star-wars-force-awakens-creators-discuss-secrets-universe|title=EW Podcast: ''Star Wars: The Force Awakens''|work=Entertainment Weekly|date=2016-01-16|accessdate=2016-05-02}}</ref> Boyega, whom Abrams described as one of the biggest ''Star Wars'' fans in the cast, auditioned nine times for the role.<ref name="Secrets of TFA" /> Unlike his costar [[Daisy Ridley]], Boyega performed with an American accent as Abrams felt his London one was not right for the role,<ref>{{cite web|url=https://www.youtube.com/watch?v=XBsEuUZcosw|title=If Star Wars Was British - The Graham Norton Show|work=YouTube|date=2015-12-22|accessdate=2016-05-02}}</ref> and it was only by switching his accent that Boyega was able to land more auditions.<ref>{{cite web|url=https://www.youtube.com/watch?v=UH0nTHb6OdY|title=The Last Jedi Cast Answers the Web's Most Searched Questions|work=YouTube|date=2017-12-11|accessdate=2017-12-16}}</ref>
+
+Boyega said he considers Finn to be the audience's surrogate, explaining, "During the auditions I found that my niche for this character was definitely in the more humor and fear. So he just represents us in the film — just finally having a ''Star Wars'' character that goes, 'This is really dangerous.' Finn is a part of myself, just magnified a tad." Conversely, he also feels Rey is the lead who gets stressed out by her journey, while Finn is the one having fun.<ref>{{cite web|url=http://ew.com/movies/2017/08/03/star-wars-last-jedi-john-boyega/|title=Star Wars: John Boyega on the 'different energy' of The Last Jedi|work=Entertainment Weekly|date=2017-08-03|first=Dalton|last=Ross|accessdate=2017-08-23}}</ref>
+
+==Appearances==
+{{Scroll box|
+*''[[5-Minute Star Wars Stories]]''
+*''[[Star Wars Battlefront II]]'' {{C|DLC}}
+*''[[Star Wars: Force Arena]]''
+*{{Rebels|A World Between Worlds}} {{Imo}}
+*''[[Before the Awakening]]''
+*''[[Forces of Destiny: The Rey Chronicles]]''
+*{{IDWAdventuresCite|3|[[Pest Control]]}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens: A Junior Novel]]''
+*''[[The Force Awakens: Rey's Story]]''
+*''[[The Force Awakens: Finn's Story]]''
+*''[[Lightsaber Rescue]]''
+*''[[Rolling with BB-8!]]''
+*''[[The Force Awakens Read-Along Storybook and CD]]''
+*[[The Force Awakens (Golden Book)|''The Force Awakens'' Golden Book]]
+*''[[Finn & the First Order]]''
+*''[[Finn and Poe Team Up!]]''
+*''[[Finn & Rey Escape!]]''
+*''[[Han & Chewie Return!]]''
+*''[[Chaos at the Castle]]''
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part I]]''
+*''[[The Force Awakens, Part II]]''
+*''[[The Force Awakens, Part III]]''
+*''[[The Force Awakens, Part IV]]''
+*''[[The Force Awakens, Part V]]''
+*''[[The Force Awakens, Part VI]]''
+*''[[Finn's Mission]]''
+*''[[Star Wars: Forces of Destiny—Rey]]'' {{C|Appears through imagination}}
+*{{FOD|Tracker Trouble}}
+*{{FOD|Perilous Pursuit}}
+*''[[Captain Phasma, Part I]]'' {{C|Mentioned only; in the opening crawl}}
+*''[[Captain Phasma, Part II]]'' {{C|Indirectly mentioned only; in the opening crawl}}
+*''[[Captain Phasma, Part III]]'' {{C|Indirectly mentioned only; in the opening crawl}}
+*''[[Captain Phasma, Part IV]]'' {{C|Indirectly mentioned only; in the opening crawl}}
+*{{IDWAdventuresCite|Ashcan|}} {{Flash}}
+*''[[Star Wars: The Force Awakens Beginner Game]]'' {{Po}}
+*''[[A Call for Heroes]]'' {{Po}}
+*''[[Rey's Survival Guide]]''
+*''[[Poe Dameron: Flight Log]]''
+*''[[The Last Jedi: Bomber Command]]''
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[Star Wars: The Last Jedi: A Junior Novel]]''
+*''[[The Last Jedi: Rose and Finn's Secret Mission]]''
+*''[[The Last Jedi Adaptation 1]]''
+*''[[The Last Jedi Adaptation 2]]''
+*''[[The Last Jedi Adaptation 3]]''
+*''[[The Last Jedi Adaptation 4]]''
+*''[[The Last Jedi Adaptation 5]]''
+*''[[The Last Jedi Adaptation 6]]''
+*{{FOD|Shuttle Shock}}
+*''[[The Last Jedi: Rose Tico: Resistance Fighter]]''
+*''[[Poe Dameron 26: The Awakening, Part I]]''
+*''[[Poe Dameron 27: The Awakening, Part II]]''
+*''[[Poe Dameron 28: The Awakening, Part III]]''
+*''[[Poe Dameron 31: The Awakening, Part VI]]''
+*[[Star Wars: Episode IX|''Star Wars'': Episode IX]]}}
+
+===Non-canon appearances===
+*''[[Disney Infinity 3.0]]''
+*''[[Star Wars: Galaxy of Heroes]]''
+*''[[Star Tours: The Adventures Continue]]''
+*{{The Resistance Rises|Attack of the Conscience}}
+*''[[LEGO Star Wars: The Force Awakens]]''
+*''[[Star Wars: Puzzle Droids]]''
+
+==Sources==
+{{Scroll_box|
+*{{SWYoutube|erLk59H86ww|Star Wars: The Force Awakens Official Teaser Trailer}} {{1stp}}
+*{{SW|url=films/star-wars-episode-vii-the-force-awakens|text=''Star Wars'': Episode VII ''The Force Awakens''}}
+*{{SW|url=films/star-wars-the-force-awakens-digital-trading-cards|text=Star Wars: The Force Awakens Digital Trading Cards}} {{1stID|Finn}}
+*{{InsiderCite|155|Launch Pad}}
+*{{InsiderCite|158|Launch Pad}}
+*{{LEGOCite|tfa|75105|Millennium Falcon}}
+*{{InsiderCite|160|Bantha Tracks}}
+*{{SWYoutube|sGbxmsDFVnE|Star Wars: The Force Awakens Official Trailer}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*{{InsiderCite|161|Blaster (Star Wars Insider)|Blaster}}
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars: The Force Awakens: Incredible Cross-Sections]]''
+*''[[Star Wars: The Force Awakens: New Adventures]]''
+*{{InsiderCite|162|John Boyega Is Finn}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: ABC-3PO]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Entertainment Weekly's Ultimate Guide to Rogue One]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars Made Easy: A Beginner's Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*''[[Star Wars: The Last Jedi: Incredible Cross-Sections]]''
+*''[[Star Wars: The Last Jedi: Ultimate Sticker Collection]]''
+*''[[Star Wars: The Last Jedi Activity Book with Stickers]]''
+*''[[Star Wars: The Last Jedi: Heroes of the Galaxy]]''
+*''[[Star Wars: What is a Droid?]]'' {{Po}}
+*''[[Star Wars: Lightsaber Battles]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]'' {{Po}}
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|amilyn-holdo|Amilyn Holdo|archivedate=20180407184111}}
+*{{Databank|bacta-suit|Bacta Suit|archiveurl=https://archive.fo/CzLxe}}
+*{{Databank|bazine-netal|Baizne Netal}}
+*{{Databank|bb-8|BB-8|archiveurl=https://archive.fo/c16lg}}
+*{{Databank|d-qar|D'Qar|archivedate=20170706050830}}
+*{{Databank|doctor-kalonia|Doctor Kalonia|archivedate=20160512225934}}
+*{{Databank|electro-shock-prod|Electro-shock prod|archiveurl=https://archive.fo/5gBGd}} {{Po}}
+*{{Databank|finn|Finn|archiveurl=https://archive.fo/qfElP}}
+*{{Databank|fn-2199|FN-2199|archivedate=20170806170054}}
+*{{Databank|grummgar|Grummgar|archivedate=20170706044702}}
+*{{Databank|happabore|Happabore|archivedate=20170602115155}}
+*{{Databank|hurid-327|Hurid-327}}
+*{{Databank|meson-martinet|Meson Martinet}}
+*{{Databank|petty-officer-thanisson|Petty Officer Thanisson}}
+*{{Databank|quadjumper|Quadjumper}}
+*{{Databank|quiggold|Quiggold}}
+*{{Databank|resistance-transport-pod|Resistance Transport Pod}}
+*{{Databank|rose-tico|Rose Tico}}
+*{{Databank|slowen-lo|Slowen Lo}}
+*{{Databank|temiri-blagg|Temiri Blagg}} {{Imo}}
+*{{Databank|the-libertine|The Libertine}} {{Po}}
+*{{Databank|z6-riot-control-baton|Z6 Riot Control Baton}}}}
+
+==Notes and references==
+{{Imagecat|Images of Finn}}
+{{Reflist}}
+
+==External links==
+*{{WP|Finn (FN-2187)}}
+
+{{Interlang
+|bg=Фин
+|cs=Finn
+|da=Finn
+|de=Finn (Mensch)#kanon
+|el=Φιν
+|es=Finn
+|fr=Finn
+|it=Finn
+|ja=フィン
+|ko=핀
+|nl=Finn
+|pl=Finn
+|pt=Finn
+|ru=Финн
+|uk=Фінн
+}}
+
+[[Category:Defectors]]
+[[Category:First Order stormtroopers|FN-2187]]
+[[Category:Impersonators]]
+[[Category:Males]]
+[[Category:Pilots]]
+[[Category:Resistance members]]

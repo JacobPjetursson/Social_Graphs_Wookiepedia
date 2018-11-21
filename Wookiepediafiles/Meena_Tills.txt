@@ -1,0 +1,74 @@
+{{Eras}}
+{{Expand}}
+{{Character
+|type=Galactic Republic
+|image=[[File:Meena Tills TCW.png]]
+|name=Meena Tills
+|homeworld=[[Mon Cala]]<ref name="Encyclopeida">{{SWE|characters|meenatills|Meena Tills}}</ref>
+|birth=
+|death=
+|species=[[Mon Calamari]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] </ref>
+|gender=[[Sexes|Female]]<ref name="Databank">{{Databank|meena-tills|Meena Tills}}</ref>
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Yellow]]<ref name="Episode III" />
+|skin=Salmon<ref name="Episode III" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Republic]]<ref name="Databank" />
+**[[Delegation of 2,000]]<ref name="Databank" />
+|masters=
+|apprentices=}}
+'''Meena Tills''', a [[Mon Calamari]] [[Sexes|female]], was the [[Galactic Republic]] [[senator]] from [[Mon Cala]]. She served with [[Tundra Dowmeia]] as Mon Cala's delegate to the [[Galactic Senate]]. By the end of the [[Clone Wars]], Tills was part of the [[Delegation of 2,000]] and signed the [[Petition of 2,000]].
+
+==Biography==
+===The Clone Wars===
+During the [[Clone Wars]], Tills represented [[Mon Cala]] in the [[Galactic Senate]].<ref name="USW">''[[Ultimate Star Wars]]''</ref>
+
+====Civil War on Mon Calamari====
+When [[Mon Cala]] was engulfed into war with the [[Mon Calamari]] being supported by the Republic, but with the [[Quarren]] backed by the [[Confederacy of Independent Systems|Separatists]], the king of [[Mon Cala]] was murdered, leading it to be uncertain who would succeed him. When [[Lee-Char]], the Prince of Mon Cala, stepped forward, he was met with a revolution as the [[Quarren]] and the Separatists launched a full siege. Tills traveled back from the Senate with [[Padmé Amidala]], [[Anakin Skywalker]] and [[Ahsoka Tano]] to inspect the situation. When Amidala informed the Senate that the situation had become a full scale civil war, the Republic sent aide and thousands of troops.<ref name="Water War">{{TCW|Water War}}</ref> The war worsened and Tills, along with Char's few remaining loyal followers, were captured and imprisoned. However when the Separatist army was defeated and [[Lee-Char]] was seen as the true ruler, Tills attended his [[Coronation of Lee-Char|coronation]] and looked heavily pleased at [[Mon Cala]]'s return to diplomacy.<ref name="Prisoners">{{TCW|Prisoners}}</ref>
+
+===End of the War===
+When the War came to an end, Tills joined the [[Delegation of 2,000]] where she attended one of the final meetings with [[Darth Sidious|Sheev Palpatine]] before the [[Galactic Empire]] was formed.<ref name="Databank" />
+
+==Appearances==
+*{{TCW|Water War}}
+*{{TCW|Gungan Attack}}
+*{{TCW|Prisoners}}
+*{{TCW|The Rise of Clovis}}
+*{{TCW|Crisis at the Heart}}
+*{{TCW|Voices}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}}
+
+==Sources==
+*{{SW|url=tv-shows/clone-wars/water-war|text="Water War" Episode Guide}}
+*{{SW|url=tv-shows/clone-wars/gungan-attack|text="Gungan Attack" Episode Guide}}
+*{{SW|url=tv-shows/clone-wars/prisoners|text="Prisoners" Episode Guide}}
+*{{SWE|characters|ackbar|Ackbar}}
+*{{SWE|characters|meenatills|Meena Tills}}
+*{{SWE|groups|moncalamari|Mon Calamari}} {{Po}}
+*{{SWE|characters|princeleechar|Prince Lee-Char}}
+*{{SWE|groups|quarren|Quarren}} {{Po}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]'' {{Po}}
+*{{Databank|admiral-ackbar|Admiral Ackbar|archivedate=20170704032047}}
+*{{Databank|meena-tills|Meena Tills|archivedate=20160507233751}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SW|url=news/much-to-learn-you-still-have-10-things-you-might-not-know-about-mon-calamari|text=Much to Learn You Still Have: 10 Things You Might Not Know About Mon Calamari}}
+
+{{Interlang
+|es=Meena Tills
+|uk=Міна Тіллс
+}}
+
+{{DEFAULTSORT:Tills, Meena}}
+[[Category:Females]]
+[[Category:Galactic Republic senators]]
+[[Category:Mon Calamari]]

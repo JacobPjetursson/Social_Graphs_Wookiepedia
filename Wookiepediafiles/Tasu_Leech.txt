@@ -1,0 +1,81 @@
+{{Eras}}
+{{Cleanup}}
+{{Character
+|type=Criminal
+|image=[[File:TasuLeechCardTrader.png]]
+|name=Tasu Leech
+|homeworld=[[Nar Kanji]]<ref name="Tasu Leech">{{Databank|tasu-leech|Tasu Leech}}</ref>
+|birth=
+|death=
+|species=
+|gender=[[Sexes|Male]]<ref name="Lego">{{LEGOCite|tfa|75105|Millennium Falcon}}</ref>
+|height=1.57 [[meter]]s<ref name="Tasu Leech" />
+|mass=62 [[kilogram]]s<ref name="TFA head to head">''[[Star Wars: The Force Awakens: Head-to-Head]]''</ref>
+|hair=[[Color|Black]]<ref name="Lego" />
+|eyes=Brown
+|skin=Tanned
+|cyber=
+|era=
+|affiliation=[[Kanjiklub]]<ref name="Tasu Leech" />
+|masters=
+|apprentices=}}
+{{Quote|Tasu Leech. Good to see you."<br />&laquo;Wrong again, Solo. It’s over for you, and for your associate.&raquo;|Solo is surprised by the entrance of Leech and the Kanjiklub|Star Wars: Episode VII The Force Awakens}}
+'''Tasu Leech''' was the leader of [[Kanjiklub]], a criminal organization active approximately thirty [[Standard year|years]] after the [[Battle of Endor]].<ref name="Tasu Leech" />
+
+Leech refused to speak a word of [[Galactic Basic]], considering it a "soft language for soft people." Tasu Leech had defeated many would-be usurpers to his command, as the Kanjiklub tradition went that the leader may be challenged to combat by his underlings, for control of the position. He wielded a [["Huttsplitter" blaster rifle]], custom made by his lieutenant, [[Razoo Qin-Fee]]. The Huttsplitter earned its name due to the history of the Kanjiklub's home planet, [[Nar Kanji]], that used to be subjugated by the [[Hutt]]s. The human colonists later overthrew the [[Hutt Clan|Hutt Cartel]], and struck out on their own. Tasu Leech wore lightweight armor, and a plastoid blast jerkin.
+
+==Personality and traits==
+Tasu Leech was a brutal street fighter and refused to speak Galactic Basic dismissing it just a "soft language for soft people". Instead, Leech preferred to let his [["Huttsplitter" blaster rifle]] do the talking.<ref name="Tasu Leech" />
+
+In combat, Leech could perform a nerve cluster punch.<ref name="TFA head to head" />
+
+{{Char-stub}}
+
+==Behind the scenes==
+Tasu Leech was portrayed by [[Yayan Ruhian]] in the [[2015]] film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']].
+
+==Appearances==
+*"[[The Perfect Weapon]]" {{1stm}}
+*''[[Poe Dameron 9: The Gathering Storm, Part II]]''
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens: A Junior Novel]]''
+*''[[The Force Awakens: Finn's Story]]''
+*[[The Force Awakens (Golden Book)|''The Force Awakens'' Golden Book]] {{Po}}
+*''[[Han & Chewie Return!]]''
+*''[[The Force Awakens, Part II]]''
+
+===Non-canon appearances===
+*{{The Resistance Rises|Hunting for Han}}
+*{{The Resistance Rises|Rey Strikes Back}}
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*{{LEGOCite|tfa|75105|Millennium Falcon}} {{1stm}}
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|kanjiklub|Kanjiklub}}
+*{{Databank|tasu-leech|Tasu Leech}}
+*{{Databank|volzang-li-thrull|Volzang Li-Thrull}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Tasu Leech#kanon
+|es=Tasu Leech
+|fr=Tasu Leech
+|it=Tasu Leech
+|ja=タス・リーチ
+|ka=ტასუ ლიჩი
+|nl=Tasu Leech
+|pl=Tasu Leech
+|ru=Тасу Лич
+}}
+
+{{DEFAULTSORT:Leech, Tasu}}
+[[Category:Humans]]
+[[Category:Kanjiklub members]]
+[[Category:Males]]

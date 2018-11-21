@@ -1,0 +1,63 @@
+{{Eras}}
+{{Youmay|the Force-sensitive slave|[[Blagg]] the Imperial lieutenant}}
+{{Expand}}
+{{Character
+|type=
+|image=[[File:Temiri-Blagg.png]]
+|name=Temiri Blagg
+|homeworld=
+|birth=
+|death=
+|species=[[Human]]<ref name="Temiri Blagg DB">{{Databank|temiri-blagg|Temiri Blagg}}</ref>
+|gender=[[Sexes|Male]]<ref name="Temiri Blagg DB" />
+|height=
+|mass=
+|hair=[[Color|Black]]<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+|eyes=Brown<ref name="Episode VIII" />
+|skin=Light<ref name="Episode VIII" />
+|cyber=
+|era=
+|affiliation=
+|masters=
+|apprentices=}}
+'''Temiri Blagg''', a [[Force-sensitive]]<ref name="Episode VIII" /> [[human]] [[Sexes|male]], was a [[Youngling|child]] who lived a forlorn existence<ref name="Temiri Blagg DB" /> working as a stable hand in the [[Canto Casino]]<ref name="TLJ VD">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref> during the [[First Order–Resistance war]].<ref name="Episode VIII" /> He was part of a team of urchins&mdash;children abandoned on the [[planet]] [[Cantonica]] as a result of gambling losses&mdash;who oversaw the racing [[fathier]]s of [[Canto Bight]] under the management of [[Bargwill Tomder]].<ref name="TLJ VD" /> In [[34 ABY]],<ref name="Date">''[[Star Wars: Galactic Atlas]]'' places the events of the film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] in [[34 ABY]]. As [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] carries on immediately from the events of ''The Force Awakens'', it can be assumed to take place in the same [[Standard year|year]].</ref> he briefly encountered the [[Resistance]] operatives [[Rose Tico]] and [[Finn]], who were attempting to evade the [[Police officer|officers]] of the [[Canto Bight Police Department]]. Finn and Tico ultimately escaped Canto Bight with the help of Blagg and his fellow urchins, who released the fathiers from the stables, resulting in the [[Species|animals]] stampeding through the [[city]] and escaping into the [[desert]].<ref name="Episode VIII" />
+
+Following the [[Battle of Crait]], Blagg and the other stable hands listened as another urchin, [[Oniho Zaya]], regaled them with tales of [[Jedi Master]] [[Luke Skywalker]] and how he stood alone against the [[First Order]] on [[Crait]]. He resumed his duties shortly afterward, sweeping the floor of the stables. By then he concealed a [[Rose Tico's Resistance ring|Resistance ring]],<ref name="Episode VIII" /> a [[Galactic Civil War]]-era antique formerly owned by Tico.<ref name="TLJ VD" /> While staring at the [[star]]s, Blagg&mdash;who dreamed of a better life away from Canto Bight&mdash;[[Telekinesis|telekinetically]] lifted his broom with the [[Force power|power]] of [[the Force]].<ref name="Episode VIII" />
+
+==Behind the scenes==
+Temiri Blagg first appeared in the [[2017]] film [[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']], the second film in the ''[[Star Wars]]'' [[sequel trilogy]] directed by [[Rian Johnson]], and was portrayed by [[Temirlan Blaev]].<ref>[http://www.ign.com/articles/2017/12/17/star-wars-the-last-jedi-gives-a-name-to-that-orphan-boy "''Star Wars: The Last Jedi'' gives a name to that orphan boy" - IGN]</ref>
+
+==Appearances==
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] {{1st}}
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[Star Wars: The Last Jedi: A Junior Novel]]''
+*''[[The Last Jedi Adaptation 3]]''
+*''[[The Last Jedi Adaptation 6]]''
+*''[[The Last Jedi: Rose Tico: Resistance Fighter]]''
+
+==Sources==
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]'' {{1stID|Temiri Blagg}}
+*{{Databank|oniho-zaya|Oniho Zaya|archivedate=20180411003744}} {{Imo}}
+*{{Databank|temiri-blagg|Temiri Blagg}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Temiri Blagg#kanon
+|ka=ტემირი ბლაგი
+|es=Temiri Blagg
+|fr=Temiri Blagg
+|ja=テミリ・ブラッグ
+|ko=테미리 블라그
+|nl=Temiri Blagg
+|pl=Temiri Blagg
+|pt=Temiri Blagg
+|ru=Темири Благг
+|uk=Темірі Блаґґ
+}}
+
+{{DEFAULTSORT:Blagg, Temiri}}
+[[Category:Force-sensitives]]
+[[Category:Humans]]
+[[Category:Males]]

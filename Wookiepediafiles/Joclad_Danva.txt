@@ -1,0 +1,72 @@
+{{Eras|imp}}
+{{Character
+|type=Jedi
+|image=[[File:Joclad danva.jpg]]
+|name=Joclad Danva
+|homeworld=
+|birth=
+|death=[[22 BBY/Legends|22 BBY]],<ref name="Fightsaber">{{SWArchive|url=games/videogames/news20080728.html?page=7|text=Fightsaber: Mastering the Art of Lightsaber Combat|archivedate=20110424114906}}</ref> [[Geonosis/Legends|Geonosis]]<ref name="Fightsaber" />
+|species=[[Human/Legends|Human]]<ref name="MSI">''[[MedStar I: Battle Surgeons]]''</ref>
+|gender=[[Sexes/Legends|Male]]<ref name="MSI" />
+|height=
+|mass=
+|hair=[[Color/Legends|Brown]]<ref name="AOTC">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|eyes=
+|skin=Fair<ref name="AOTC" />
+|cyber=
+|era=[[Rise of the Empire era]]<ref name="MSI" />
+|affiliation=*[[Jedi Order/Legends|Jedi Order]]<ref name="MSI" />
+*[[Galactic Republic/Legends|Galactic Republic]]<ref name="MSI" />
+|masters=
+|apprentices=}}
+{{Quote|The art of Teräs Käsi is about control and mastery of one's self.|Joclad Danva|Threats of the Galaxy}}
+'''Joclad Danva''' was a [[Sexes/Legends|male]] [[Human/Legends|Human]] [[Jedi Knight/Legends|Jedi Knight]] serving the [[Jedi Order/Legends|Jedi Order]] and the [[Galactic Republic/Legends|Galactic Republic]] during the final years of the [[Republic Classic era]]. A master of the fighting technique called [[Teräs Käsi/Legends|Teräs Käsi]], Danva fought and died in the opening [[First Battle of Geonosis|battle]] of the [[Clone Wars/Legends|Clone Wars]].
+
+==Biography==
+Discovered to be [[Force-sensitive/Legends|Force-sensitive]] early in his childhood, Danva was taken to the [[Coruscant/Legends|Coruscant]] [[Jedi Temple]] for [[Jedi training/Legends|training]] in the ways of [[The Force/Legends|the Force]]. Eventually [[Jedi Initiate Trials|graduating]] from the [[Jedi academy|academy]] there, Danva was selected by a [[Jedi Master/Legends|Jedi Master]] to become a [[Padawan/Legends|Padawan]] and travel [[The galaxy/Legends|the galaxy]] studying the ways of the Jedi through active duty. Eventually passing his [[Jedi Trials/Legends|Trials of Knighthood]], Danva was [[Knighting ceremony/Legends|knighted]] and began his independent studies down the path of the [[Jedi Guardian]]. This further research led him to become a master of the martial arts form known as [[Teräs Käsi/Legends|Teräs Käsi]], a highly physical form of fighting.<ref name="MSI" /> Combining this with his prowess in [[Form VI/Legends|Form VI]] of [[Lightsaber combat/Legends|lightsaber combat]], Danva was a formidable opponent in a fight.<ref name="Fightsaber" />
+
+[[File:Girljedi.jpg|thumb|left|250px|Joclad Danva utilizing [[Form VI/Legends|Niman]] during the [[First Battle of Geonosis]].]]
+
+Often traveling to [[Bunduki]] to participate in the Teräs Käsi matches held there annually, Danva refrained from using the Force against his opponents as he believed that gave him an unfair advantage. During the [[22 BBY/Legends|22 BBY]] match between Danva and non-Force-sensitive [[Phow Ji]], Danva was outmatched and defeated by Ji, who took the victory as proof that the Force did not exist.<ref name="MSI" /><ref name="Jedi Defeated">{{Hnn|55|sports/1359_1.html|Jedi Defeated for Teräs Käsi Title|https://web.archive.org/web/20130728114819/http://www.holonetnews.com/55/sports/1359_1.html}}</ref> Returning to the Jedi Temple after the competition, Danva was summoned by [[Master of the Order/Legends|Master of the Order]] [[Mace Windu/Legends|Mace Windu]] to join a massive [[Geonosis strike team|Jedi strike team]] that was headed for [[Geonosis/Legends|Geonosis]]. Joining his fellow Jedi, Danva flew out to Geonosis and set his [[Starfighter/Legends|starfighter]] down in the dusty plains of the world, before marching into the [[Petranaki arena/Legends|Petranaki arena]] where Jedi [[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]], [[Anakin Skywalker/Legends|Anakin Skywalker]], and [[Senator/Legends|Senator]] [[Padmé Amidala/Legends|Padmé Amidala]] were being prepared for execution by the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]]. Following Windu's cue, Danva and the other Jedi spread throughout the arena ignited their [[Lightsaber/Legends|lightsabers]] and began cutting down the hordes of [[B1 battle droid/Legends|battle droids]] filling the arena. After a great battle on the arena floor, Danva and the twenty-some Jedi left standing received an ultimatum from Confederacy leader [[Count/Legends|Count]] [[Dooku/Legends|Dooku]]: surrender and join him, or die. Choosing to take their chances with the battle droids, the Jedi prepared to fight to the death when [[Grand Master/Legends|Grand Master]] [[Yoda/Legends|Yoda]] arrived with the [[Grand Army of the Republic/Legends|Grand Army of the Republic]]. Danva however, did not survive the ensuing battle.<ref name="Fightsaber" />
+
+==Powers and abilities==
+[[File:Joclad Danva TLC.jpg|right|thumb|180px|Joclad Danva]]
+Joclad Danva was known for his fighting prowess, both armed with two [[Lightsaber/Legends|lightsabers]] and with his bare hands. He was an extremely skilled practitioner of [[Form VI/Legends|Niman]], considered to be one of the most powerful duelists in the Jedi Order, and was a highly proficient Teräs Käsi martial artist.<ref name="Fightsaber" /><ref name="MSI" /><ref name="Jedi Defeated" />
+
+==Behind the scenes==
+Joclad Danva was portrayed by [[Kyle Rowling]], the partial dueling and stunt double for [[Christopher Lee]] (Count Dooku) and [[Samuel L. Jackson]] (Mace Windu) in ''[[Star Wars: Episode II Attack of the Clones|Attack of the Clones]]'' and ''[[Star Wars: Episode III Revenge of the Sith|Revenge of the Sith]]''.
+
+==Appearances==
+*{{Hnn|55|sports/1359_1.html|Jedi Defeated for Teräs Käsi Title|https://web.archive.org/web/20130728114819/http://www.holonetnews.com/55/sports/1359_1.html}} {{1st}}
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
+*''[[MedStar I: Battle Surgeons]]'' {{Mo}}
+*''[[MedStar II: Jedi Healer]]'' {{Mo}}
+
+==Sources==
+*{{SWArchive|url=community/askjc/jocasta/askjc20020903.html|text=Ask the Lucasfilm Jedi Council - Jedi in the Arena?|archivedate=20050402064132}}
+*{{Hyperspace|url=hyperspace/member/photoreceptor/2003/10/photoreceptor20031008.html|text=Joclad Danva|int=}}
+*{{Blog|holocron|10|Jedi Casualties: Battle of Geonosis|Keeper of the Holocron's Blog|Leland Chee|archivedate=20100227232547}}
+*{{SWArchive|url=games/videogames/news20080728.html?page=7|text=Fightsaber: Mastering the Art of Lightsaber Combat|archivedate=20110424114906}}
+*''[[Threats of the Galaxy]]''
+*{{HasbroCite|set=The Legacy Collection|text=|pack=Joclad Danva & Battle Droid (Geonosis Arena Showdown) (2009, 4 of 6)|link=TLCArena4-Joclad_BD.asp}}
+*''[[The Complete Star Wars Encyclopedia]]''
+*{{SW|url=news/take-me-out-to-the-ballgame-sports-in-the-star-wars-galaxy-part-2|int=Sports in the Star Wars Galaxy|text=Take Me Out to the Ball Game: Sports in the ''Star Wars'' Galaxy, Part 2|archivedate=20170625005330}}
+*{{SWE|groups|jediorder|Jedi Order}} {{Po}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Joclad Danva#legends
+|fr=Joclad Danva
+|nl=Joclad Danva
+|pl=Joclad Danva
+|pt=Joclad Danva
+|ru=Джоклад Данва
+}}
+
+{{DEFAULTSORT:Danva, Joclad}}
+[[Category:Humans]]
+[[Category:Jedi Guardians]]
+[[Category:Males]]
+[[Category:Post-Ruusan Jedi Knights]]

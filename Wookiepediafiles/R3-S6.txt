@@ -1,0 +1,85 @@
+{{Eras}}
+{{Droid
+|image=[[File:R3S6-SWE.png]]
+|name=R3-S6
+|homeworld=[[Nubia]]<ref name="The Complete Season One">[[Star Wars: The Clone Wars The Complete Season One|''Star Wars: The Clone Wars'': The Complete Season One]]</ref>
+|birth=
+|death=[[22 BBY]], [[Skytop Station]]<ref name="DotD">{{TCW|Duel of the Droids}}</ref>
+|creator=
+|manufacturer=[[Industrial Automaton]]<ref name="Rebels">''[[Star Wars Rebels: The Visual Guide]]''</ref>
+|line=[[R-series]]<ref name="DoaD">{{TCW|Downfall of a Droid}}</ref>
+|model=[[R3-series astromech droid]]<ref name="Encyclopedia">{{SWE|characters|r3s6|R3-S6|archivedate=20110912224644}}</ref>
+|class=[[Astromech droid]]<ref name="DoaD" />
+|degree=
+|cost=
+|length=
+|width=
+|height=1.09 [[meter]]s<ref name="Databank">{{Databank|r3-s6|R3-S6}}</ref>
+|mass=
+|gender=[[Sexes|Masculine programming]]<ref name="Encyclopedia" />
+|sensor=[[Color|Yellow]]<ref name="DoaD" />
+|plating=
+|armament=
+|equipment=*Computer interface arm<ref name="DotD" />
+*[[Holoprojector]]<ref name="DotD" />
+*Retractable third leg<ref name="DotD" />
+*Scanner antenna<ref name="DotD" />
+|era=
+|affiliation=*[[Confederacy of Independent Systems]]<ref name="DotD" />
+*[[Galactic Republic]] {{C|[[Spy]]}}<ref name="DoaD" />}}
+{{Quote|Master, they just delivered your replacement astromech droid. This is R3-S6. I've heard that the new R3s are far faster in thinking skills and more powerful than the old R2 units.|Ahsoka Tano, introducing R3-S6 to Anakin Skywalker|audio=ReplacementAstromech-DoaD.ogg|Downfall of a Droid}}
+'''R3-S6''', also known as "'''Goldie'''" or "'''Stubby'''," and as "'''Agent R3'''" to the [[Confederacy of Independent Systems|Separatists]], was an [[R3-series astromech droid]] assigned to [[Anakin Skywalker]] during the [[Clone Wars]] to replace his lost [[astromech droid]], [[R2-D2]]. Serving as a [[Spy|double agent]] for the Confederacy of Independent Systems, R3-S6 often [[Saboteur|sabotaged]] [[Galactic Republic|Republic]] missions.
+
+==Biography==
+===The search for R2===
+{{Quote|A gold droid for Gold leader of Gold Squadron.|Ahsoka Tano, to Anakin Skywalker|audio=GoldGoldGold-DoaD.ogg|Downfall of a Droid}}
+[[File:Anakin Ahsoka and R3-S6 search for R2-D2.jpg|thumb|250px|left|Skywalker, R3-S6, and Tano search for R2-D2.]]
+Following the loss of [[R2-D2]] during the [[Battle of Bothawui]], R3-S6 was assigned to [[Jedi General]] [[Anakin Skywalker]] as a replacement.<ref name="DoaD" /> R3, secretly an [[agent]] of [[Confederacy of Independent Systems|Separatist]] leader [[General]] [[Grievous]],<ref name="DotD" /> accompanied Skywalker and [[Sexes|his]]
+[[Padawan]], [[Ahsoka Tano]], as they searched for R2. In an attempt to gain Skywalker's appreciation for R3, Tano nicknamed the [[droid]] "Goldie," pointing out that Skywalker was [[Gold Leader]] of [[Gold Squadron (Galactic Republic)|Gold Squadron]]. Despite this, Skywalker still disliked R3, giving him the name "Stubby," as he felt something suspicious about the droid.<ref name="DoaD" />
+
+While searching the remains of the battle, the trio encountered a [[Trandoshan]] [[Scavenger|scavenging]] [[freighter]]. Believing the [[Starship|vessel]] may have collected R2, the group boarded, and were welcomed by [[Gha Nachkt]], who claimed R2 was not aboard. Nonetheless, they continued to browse the scavenger's collection. Eventually, they gave up their search and returned to Skywalker's<ref name="DoaD" /> [[Corellian]] freighter,<ref name="USW">''[[Ultimate Star Wars]]''</ref> the ''[[Twilight]]''.<ref name="DoaD" />
+
+===Confederate agent===
+{{Quote|Report, Agent R3.|Grievous|Duel of the Droids}}
+[[File:GrievousGoldie-DotD.png|thumb|250px|right|R3-S6 reports to Grievous.]]
+Unbeknownst to Skywalker, R2-D2 was aboard Nachkt's freighter, as the Trandoshan intended to sell the droid to Grievous for the vital information it contained. As Nachkt neared [[Skytop Station]], a Confederate [[listening post]], R2 sent a message to the ''Twilight'', allowing Skywalker to track him. Skywalker, Tano, R3-S6, and a group of [[clone trooper]]s [[Mission to Skytop Station|infiltrated]] Skytop Station, where Skywalker set off in search of his droid, and the rest set out to destroy the station's [[reactor]]s. While Tano and the [[Cloning|clones]] were distracted, R3 contacted Grievous, alerting them of the [[Jedi]]'s presence. The general soon arrived, separating Tano and R3 from the clones. As Tano hid from Grievous, R3 revealed her location, and a brief [[lightsaber duel]] ensued before Tano fled. Tano, now aware of R3's allegiance, attempted to reunite with her team in the station's [[hangar]]. However, R3 reached them first, proceeding to close the hangar door and activate three [[Variable Geometry Self-Propelled Battle Droid, Mark I|vulture droids]]. Concluding that R3 was a [[spy]], Skywalker ordered the recently found R2-D2 to reopen the doors so they could escape the exploding station via the ''Twilight''.<ref name="DoaD" />
+
+===Duel with R2-D2===
+R3 followed R2 to the catwalk where the access port was located, and the two [[astromech droid]]s battled for control of the access port to the hangar doors. A variety of tools were used by both droids in the fight. After R3 bashed into R2 to interrupt his interface with the access port, both droids produced an [[electro-shock prod]] and tried to electrocute the other, but as the [[Arc welder|arcs]] clashed, the droids were at a stalemate. R2 then sprayed oil at R3 and ignited it with his [[rocket booster]]. While R3 was reeling from the flames, R2 tried to bash him off the catwalk but as he began to fall R3 fired his tow cable at R2 to secure himself. R3 dangled helpless for a moment before R2 produced a circular saw to cut the cable, and R3 tumbled from the catwalk before being struck by debris from the falling station and destroyed.<ref name="DotD" />
+
+==Characteristics==
+{{Quote|As for you, Stubby, you'd make a poor excuse for a light switch.|Anakin Skywalker|Downfall of a Droid}}
+R3-S6 was an [[R3-series astromech droid]] with masculine programming<ref name="DoaD" /> manufactured by [[Industrial Automaton]].<ref name="Rebels" /> He served Grievous of the Confederacy of Independent Systems, feigning incompetence to [[Saboteur|sabotage]] missions of the [[Galactic Republic]].<ref name="DotD" />
+
+==Equipment==
+Like many other astromech droids, R3-S6 was equipped with a computer interface arm, an electro-shock prod, a [[holoprojector]], a retractable third leg, and a scanner [[antenna]].<ref name="DotD" />
+
+==Behind the scenes==
+R3-S6 was created for the animated television series ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'', being first mentioned in the [[Star Wars Legends|Legends]] sourcebook ''[[Star Wars: The Clone Wars: The Visual Guide]]''<ref name="Visual">''[[Star Wars: The Clone Wars: The Visual Guide]]''</ref> and first appearing in the series' sixth episode, "[[Downfall of a Droid]]," in [[2008]].<ref name="DoaD" />
+
+==Appearances==
+*{{TCW|Downfall of a Droid}} {{1st}}
+*{{TCW|Duel of the Droids}}
+
+==Sources==
+*{{SW|url=/tv-shows/clone-wars/downfall-of-a-droid-episode-guide|text="Downfall of a Droid" Episode Guide - ''The Clone Wars''}}
+*{{SW|url=/tv-shows/clone-wars/duel-of-the-droids-episode-guide|text="Duel of the Droids" Episode Guide - ''The Clone Wars''}}
+*[[Star Wars: The Clone Wars The Complete Season One|''Star Wars: The Clone Wars'': The Complete Season One]]
+*{{SWE|characters|r3s6|R3-S6|archivedate=20110912224644}}
+*{{HasbroCite|set=Star Wars: Droid Factory (toy line)|text=''Star Wars: Droid Factory''|link=|pack=}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}}
+*{{Databank|r3-s6|R3-S6}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=R3-S6#kanon
+|ja=R3-S6
+}}
+
+[[Category:Confederacy individuals]]
+[[Category:Espionage droids]]
+[[Category:Masculine programming]]
+[[Category:R3-series astromech droids]]

@@ -1,0 +1,124 @@
+{{Eras}}
+{{Youmay|the [[Galactic Empire|Imperial]] [[Moff]]|[[Jothan Tiaan Jerjerrod]] who served the [[Resistance]]}}
+{{Update|[[Star Wars: The Rebel Files]]}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Jerjerrod-hd.jpg]]
+|name=Tiaan Jerjerrod
+|homeworld=[[Tinnel IV]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|birth=[[35 BBY]]<ref name="Rebel Files">''[[Star Wars: The Rebel Files]]''</ref>
+|death=[[4 ABY]], [[Death Star II]], [[Endor system]]<ref name="Ultimate Star Wars" />
+|species=[[Human]]<ref name="SWE">{{SWE|characters|commander-jerjerrod|Commander Jerjerrod}}</ref>
+|gender=[[Sexes|Male]]<ref name="SWE" />
+|height=1.73 [[meter]]s<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref><ref name="SWE" />
+|mass=75 [[kilogram]]s<ref name="Rebel Files" />
+|hair=[[Color|Brown]]<ref name="ROTJ">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|eyes=Green<ref name="ROTJ" />
+|skin=
+|cyber=
+|era=
+|affiliation=*[[Taung & Zhell Society]]<ref name="Rebel Files" />
+*[[Corellian Engineering Corporation]]<ref name="beware">''[[Return of the Jedi: Beware the Power of the Dark Side!]]''</ref>
+*[[Emperor's Boosters]]<ref name="Rebel Files" />
+*[[Keep the Core Secure]]<ref name="Rebel Files" />
+*[[Galactic Empire]]<ref name="ROTJ" />
+**[[Joint Chiefs]]<ref name="Tarkin">''[[Tarkin (novel)|Tarkin]]''</ref>
+**[[Commission for the Preservation of the New Order]]<ref name="Rebel Files" />
+**[[Imperial Officer Corps]]<ref name="ROTJ" />
+|masters=
+|apprentices=}}
+{{Quote|Lord Vader, this is an unexpected pleasure. We are honored by your presence.''"<br />"''You may dispense with the pleasantries, Commander. I'm here to put you back on schedule.|Jerjerrod and Darth Vader aboard the Death Star II|audio=ImHereToPutYouBackOnSchedule.ogg|Star Wars: Episode VI Return of the Jedi}}
+'''Tiaan Jerjerrod''' was a [[human]] [[Sexes|male]] who served in the [[Galactic Empire]] during the [[Galactic Civil War]]. Initially an [[architect]] and a [[starship]] designer, he was eventually granted the rank of Imperial [[Moff]]. Prior to and during the [[Battle of Endor]], he was made [[commander]] of the [[Death Star II]] partly owing to his previous work on the original [[DS-1 Orbital Battle Station|Death Star]]. Tasked with overseeing the [[space station]]'s difficult final stages of assembly, Jerjerrod faced the wrath of both the [[Sith Lord]] [[Anakin Skywalker|Darth Vader]] and [[Galactic Emperor|Emperor]] [[Darth Sidious|Sheev Palpatine]] when the massive construction effort fell behind schedule. Despite warnings from Vader that the Emperor would not tolerate any further setbacks, the Emperor paid little attention to Jerjerrod when he visited the Death Star, though he did authorize the commander to operate the station's [[superlaser]] against the starships of the [[Alliance Fleet|Rebel fleet]] when the [[Alliance to Restore the Republic|Rebel Alliance]] launched its attack on the Death Star&mdash;a battle that culminated in the station's destruction and the [[death]] of all its occupants, including Jerjerrod.
+
+==Biography==
+===Early career===
+[[File:DSI hdapproach.png|thumb|left|200px|Tiaan Jerjerrod helped build the original Death Star.]]
+A [[human]] [[Sexes|male]] from the [[Core Worlds|Core World]]<ref name="SWCT">[[Star Wars: Card Trader|''Star Wars'': Card Trader]]</ref> of [[Tinnel IV]], Tiaan Jerjerrod<ref name="Ultimate Star Wars" /> was born in [[35 BBY]].<ref name="Rebel Files" /> He hailed from a wealthy [[Jerjerrod family|family]].<ref name="SWCT" /> In his youth, he attended an engineering academy until his high grades earned him a job drafting plans for warehouses. Later, his plans for a freight depot on [[Ord Mantell]] drew the attention of the [[Corellian Engineering Corporation]], and he was hired as a [[starship]] designer. Eventually, his designs for an [[interstellar trash hauler]] led him to serve the [[Galactic Empire]].<ref name="beware" />
+
+By the sixth [[Standard year|year]] of the Empire's [[Imperial Era|reign]], Jerjerrod held the rank of [[Rear Admiral]], and was a member of the [[Joint Chiefs]].<ref name="Tarkin" /> He helped build the first [[DS-1 Orbital Battle Station|Death Star]],<ref name="beware" /> a [[moon]]-sized [[battle station]] that used [[kyber crystal]]s to generate a [[planet]]-destroying [[superlaser]].<ref name="Ultimate Star Wars" /> Jerjerrod told himself that such a weapon would provide a defense for the Empire simply by existing, deterring attacks without ever being used. However, the Empire did use the megaweapon, [[The Disaster|blowing up]] the planet of [[Alderaan]]. Although extremely powerful, the station was finally [[Battle of Yavin|destroyed]] when [[Luke Skywalker|a pilot]] of the enemy [[Alliance to Restore the Republic|Rebel Alliance]] fired two [[proton torpedo]]es into an unprotected [[thermal exhaust port]].<ref name="beware" />
+
+===Running behind schedule===
+{{Quote|The Emperor is coming here?''"<br />"''That is correct, Commander, and he is most displeased with your apparent lack of progress.''"<br />"''We shall double our efforts!''"<br />"''I hope so, Commander, for your sake. The Emperor is not as forgiving as I am.|Tiaan Jerjerrod and Vader discuss the Emperor's impending visit to the second Death Star|audio=WeShallDoubleOurEfforts.ogg|Star Wars: Episode VI Return of the Jedi}}
+Eventually, Tiaan Jerjerrod became one<ref name="beware" /> of the twenty<ref name="Tarkin" /> Imperial [[Moff]]s.<ref name="beware" /> Despite the fiasco of the original superweapon, the Emperor ordered the construction of a [[Death Star II|second Death Star]] above the [[Forest]] Moon of [[Endor]].<ref name="DS2 DB">{{Databank|death-star-ii|Death Star II|archivedate=20170706025345}}</ref> Moff Jerjerrod was assigned to supervise the difficult endeavor of completing that superweapon,<ref name="SWE" /> and was given the cover title of [[Director of Imperial Energy Systems]] due to the project's secrecy.<ref name="Character Encyclopedia" /> In order to fulfill his difficult mandate, Jerjerrod exhausted himself day after day, slaving over the plans and filing endless paperwork. The Moff notably made sure that all the exhaust ports of the new station were heavily armored, thus fixing the fatal flaw of the original Death Star. However, the architect faced a number of problems, ranging from budget cuts and supply chain breakdowns to the shortage of construction workers.<ref name="beware" />
+
+Eventually, the glaring lack of progress on the Death Star prompted [[Anakin Skywalker|Darth Vader]], the personal enforcer of [[Galactic Emperor|Emperor]] [[Darth Sidious|Sheev Palpatine]], to travel to the station to rectify the situation. Upon learning that Vader's [[ST 321|transport]] had touched down inside one of the Death Star's [[Hangar|hangar bays]], Jerjerrod ventured to the hangar to greet the Emperor's emissary as he disembarked from his [[Lambda-class T-4a shuttle|shuttle]].<ref name="ROTJ" /> Feeling secure enough in his position,<ref name="SWE" /> Jerjerrod planned to show Vader his detailed daily reports, hoping that the emissary might take his side and realize the Emperor was asking for the impossible.<ref name="beware" /> However, after brushing aside Jerjerrod's formal greeting, Vader bluntly informed the commander of the purpose behind his impromptu visit&mdash;the Emperor had become displeased with the Death Star's slowing construction, and Vader would see to it that the station was completed on schedule. At first, Jerjerrod protested that the task was understaffed and nearly impossible given the circumstances, but when the [[Sith Lord]] announced that the Emperor was to personally oversee the station's completion, the Moff pledged himself and his crew to a renewed effort, heeding Vader's mocking warning that the Emperor would not tolerate failure.<ref name="ROTJ" />
+
+===Last battle and death===
+{{Quote|Fire at will, Commander!|Emperor Palpatine, to Jerjerrod|Star Wars: Episode VI Return of the Jedi}}
+Driven by the fear of the Emperor's arrival, the Moff exhausted himself and his workers for several weeks. In spite of his best effort, the Moff was unable to finish the station before his master's arrival, and one whole hemisphere was still covered in scaffolding and girders.<ref name="beware" /> When Palpatine finally arrived aboard the Death Star with great fanfare, Jerjerrod joined Vader and a group of [[Imperial officer]]s to welcome their ruler and his retinue.<ref name="ROTJ" /> The Moff had hoped that he would be rewarded for his hard work.<ref name="beware" /> However, despite Vader's earlier warnings, the Emperor ignored Jerjerrod and the other officers as he conversed with Vader about their grand plan to deal with the Rebel Alliance, with which the Empire had been at [[Galactic Civil War|war]] for some time, and Luke Skywalker, a young Rebel commander who happened to be Vader's son.<ref name="ROTJ" /> Jerjerrod realized that not having displeased his master was enough of a reward.<ref name="beware" />
+
+In the [[Emperor's Throne Room]] on a spire high above the surface of the Death Star, the Emperor tasked Vader with setting the trap for the [[Alliance Fleet|Rebel fleet]] at Endor, all while Jerjerrod stood by silently.<ref name="ROTJ" />
+
+[[File:JerjerrodTheDestroyer-ROTJHD.jpg|thumb|right|250px|In the midst of the Battle of Endor, Jerjerrod was given the authority to fire the Death Star's superlaser at will.]]
+The Rebel Alliance unknowingly took the Emperor's bait, launching a two-pronged, [[Battle of Endor|all-out assault]] on the Death Star's construction site at Endor, in which a strike team infiltrated onto the forest moon's surface would disable the [[deflector shield]] protecting the space station while Rebel [[starfighter]]s, supported by the [[capital ship]]s of the Alliance fleet, would fly into the Death Star's superstructure and take out its [[reactor]], thereby destroying the weapon before it could be completed. Palpatine had prepared for this, however, and once the Rebel fleet arrived and found itself trapped between the [[Imperial Navy]] and a shielded Death Star, he contacted Jerjerrod in the station's command center and authorized him to target and destroy the Rebel starships with the Death Star's superlaser. Under his command, the Death Star atomized a number of Rebel [[cruiser]]s as the battle progressed.
+
+Nevertheless, despite the odds, the Alliance soon gained the upper hand, and the battle concluded with the Emperor's [[death]] and the destruction of the Death Star with all hands lost,<ref name="ROTJ" /> Jerjerrod included.<ref name="Ultimate Star Wars" />
+
+===Legacy===
+While Tiaan Jerjerrod perished over Endor, his descendants would join the [[First Order]], the Imperial successor regime to the fallen Galactic Empire. His grandson,<ref name="Attack on Starkiller Base">''[[Join the Resistance: Attack on Starkiller Base]]''</ref> [[Jothan Tiaan Jerjerrod]], the son of [[First Order officer]]s [[Jax Jerjerrod]] and [[Jul Jerjerrod]], defected from the First Order and joined the [[Resistance]].<ref name="Join the Resistance 1">''[[Join the Resistance]]''</ref>
+
+==Personality and traits==
+Unlike most officers, Jerjerrod showed petty spitefulness and a lack of ambition as he rose through the Imperial ranks&mdash;qualities which were considered admirable for a Moff.<ref name="Character Encyclopedia" /> A technocrat with a chilly personality,<ref name="SWE" /> Jerjerrod served as the commander of the second Death Star as it neared completion,<ref name="ROTJ" /> a position of which he was proud, yet one he found concerning given the complicated nature of the station's construction.<ref name="SWE" /> Though he claimed the men under his supervision were working as fast as possible to complete the station, the threat of personally facing the Emperor's displeasure at the lagging construction effort&mdash;a threat which made him visibly nervous&mdash;compelled him to reevaluate the speed with which the work was proceeding. When in the Emperor's presence, Jerjerrod was respectful, kneeling upon greeting him and bowing before departing.<ref name="ROTJ" /> Aside from the Emperor, Jerjerrod was afraid of Vader, not wanting to have his name added to Vader's list of kills as there wasn't a single Imperial soldier who hadn't heard about the Sith Lord's predilection for strangling those who'd failed to carry out his orders.<ref name="RotJ Junior">[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]</ref>
+
+==Behind the scenes==
+[[File:ScrewYouStormies-ROTJBR.jpg|thumb|left|250px|In a deleted scene, Jerjerrod prepares to destroy Endor, an order he is reluctant to implement.]]
+Tiaan Jerjerrod was portrayed by [[Michael Pennington]] in [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]. English actor [[Wikipedia: Alan Rickman|Alan Rickman]] originally auditioned for Jerjerrod's role, whom he wanted to play with a "Big, slow, low voice", but lost out to Pennington.<ref name="TMROTJ">''[[The Making of Return of the Jedi]]''</ref> He is never identified by name in the movie and only addressed as "Commander", though both his name and proper rank are provided in the film's closing credits. Jerjerrod serves as a minor antagonist with relatively little screen time or dialogue in the finished film,<ref name="ROTJ" /> though in earlier drafts his role was substantially larger.<ref name="AS">''[[Star Wars: The Annotated Screenplays]]''</ref> The Moff is also featured in a number of scenes filmed for ''Return of the Jedi'' that were ultimately cut from the finished product;<ref name="Insider 67">{{InsiderCite|67|The Ultimate Return of the Jedi Insider's Guide}}</ref><ref name="Blu-ray">''[[Star Wars: The Complete Saga]]''</ref> some of these, comprising a subplot in which Jerjerrod is ordered by the Emperor to destroy Endor once the battle turns against the Empire's favor (scenes retained in the [[Star Wars Episode VI: Return of the Jedi (novel)|novelization of the film]]), were included in the ''[[Star Wars: The Complete Saga]]'' Blu-ray set.<ref name="Blu-ray" /> As a result of a props "blooper" during production, Jerjerrod and all other Imperial officers wear the wrong [[Rank insignia plaque|rank badge]] in the film.<ref name="Insider 105">{{InsiderCite|105|25 Years of Return of the Jedi!}}</ref>
+
+===Concept and script changes===
+Jerjerrod's role was expanded and contracted greatly during the script development of ''Return of the Jedi'', with the distinction of been a tall [[Grand Moff]] and confident technocrat rather than a simply Moff in earlier drafts. In these drafts, Jerjerrod served as Emperor Palpatine's "secret agent", overseeing the transformation of the Green Moon of [[Had Abbadon]] into a paradise for its citizens while operating behind Darth Vader's back. While aboard Jerjerrod's shuttle, upon being informed, Jerjerrod denies the Rebel presence on the moon that Vader had sensed seeing it as an insult to his work, even as a stolen Imperial transport piloted by [[Leia Organa]] and two other Rebels nearly collides with the shuttle. Upon arriving on Had Abbadon, Vader and Jerjerrod descend to the [[Emperor's Throne Room]]. Once Vader departs, reprimanded for not capturing Luke Skywalker, the Emperor tasks Jerjerrod with keeping an eye on Vader as he planned to replace him with Skywalker, also revealing that the Rebels were launching an attack on the Death Star. Jerjerrod later butts heads with General Veers, who took Skywalker prisoner to the ''Executor'' instead. Furious, Jerjerrod stormed on the Sith Lord and demanded to know why Skywalker was not delivered to the Emperor, leading Vader to snap Jerjerrod's neck and kill him.<ref name="AS" />
+
+In [[Lawrence Kasdan]]'s revised rough draft, Jerjerrod's shuttle nearly intercepts Leia's captured transport when it was moving to help a panicked [[Wedge Antilles]] flying a captured [[TIE/LN starfighter|TIE Fighter]] during the strike team's infiltration without a clearance code. However, after Leia's craft was given clearance, Vader complains to Jerjerrod that the Emperor had not been in contact with him. Though Jerjerrod attempts to avoid an argument, he is forced to reveal that the Emperor, has reassigned Vader to oversee the construction of the [[Habitation sphere|two new Death Stars]] for not capturing Skywalker. Jerjerrod also doubted that Vader would be able to seduce Skywalker to the [[dark side of the Force]] unlike the Emperor. Jerjerrod too reveals that the Emperor knows of the impending Rebel attack, and that Skywalker would be soon captured at [[Tatooine]]. After conversing with the Emperor via hologram at the private communications chamber of the ''Executor'', Jerjerrod takes the responsability to deliver Luke without Vader's knowledge by using coded transmission and siable all surveillance equipment, concluding that the Rebel attack was a distraction for Vader. Upon learning of this, Jerjerrod was killed by Vader.<ref name="AS" />
+
+===Other appearances===
+For the [[The Star Wars Trilogy Special Edition|Special Edition]] of [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']], archival footage of Darth Vader's arrival aboard the Death Star at the beginning of ''Return of the Jedi'' was recycled to depict Vader returning to the ''Executor'' following his duel with Luke Skywalker on [[Cloud City]]. While the scene itself is presented from a different angle than the source scene in ''Return of the Jedi'', Michael Pennington is still visible in the shot.<ref name="ESB">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{C|Special Edition}}</ref>
+
+==Appearances==
+*''[[Tarkin (novel)|Tarkin]]''
+*''[[Lost Stars]]'' {{Mo}}
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*''[[Battlefront: Twilight Company]]'' {{Mo}}
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{C|Post-[[1997]] releases}}
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*''[[Episode VI: Return of the Jedi Read-Along Storybook and CD]]'' {{C|Dialogue only, does not appear in illustrations}}
+*''[[Join the Resistance: Attack on Starkiller Base]]'' {{Mo}}
+
+==Sources==
+*{{SW|url=films/star-wars-episode-vi-return-of-the-jedi|text=Star Wars: Episode VI Return of the Jedi|archivedate=20170731063619}}
+*{{SWE|groups|emperors-royal-guard|Emperor's Royal Guard}} {{Po}}
+*{{SWE|characters|commander-jerjerrod|Commander Jerjerrod}}
+*{{SWE|characters|darthvader|Darth Vader}}<!--"Darth Vader Arrives on the Death Star" video clip-->
+*''[[Ultimate Star Wars]]'' {{1stID}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: The Rebel Files]]''
+*{{Databank|moff-jerjerrod|Moff Jerjerrod}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{SWSB|53|Imperial Officers}}
+*{{SWSB|14|Darth Vader Vol. 1}}<!--Vader addresses him in a quote-->
+
+{{Interlang
+|pl=Tiaan Jerjerrod
+|pt=Tiaan Jerjerrod
+|ru=Тиаан Джерджеррод/Канон
+|ja=ティアン・ジャージャロッド
+}}
+
+{{DEFAULTSORT:Jerjerrod, Tiaan}}
+[[Category:Architects]]
+[[Category:Commission for the Preservation of the New Order personnel]]
+[[Category:Corellian Engineering Corporation employees]]
+[[Category:Humans]]
+[[Category:Jerjerrod family]]
+[[Category:Joint Chiefs of the Imperial military]]
+[[Category:Males]]
+[[Category:Moffs of the Galactic Empire]]

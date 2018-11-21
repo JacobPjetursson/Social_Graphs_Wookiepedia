@@ -1,0 +1,110 @@
+{{Eras}}
+{{Update|[[Thrawn: Alliances]]}}
+{{Image}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Rukh Kindred.png]]
+|name=Rukh
+|homeworld=
+|birth=
+|death=[[1 BBY]], [[Lothal]]<ref name="Farewell">{{Rebels|Family Reunion – and Farewell}}</ref>
+|species=[[Noghri]]<ref name="Databank">{{Databank|noghri|Noghri}}</ref>
+|gender=[[Sexes|Male]]<ref name="Kindred">{{Rebels|Kindred}}</ref>
+|height=
+|mass=
+|hair=
+|eyes=[[Color|Blue]]<ref name="Kindred" />
+|skin=Gray<ref name="Kindred" />
+|cyber=
+|era=
+|affiliation=[[Galactic Empire]]<ref name="Kindred" />
+|masters=
+|apprentices=}}
+{{Quote|Rukh. Rebel pilots may have survived the attack. Capture them alive, if possible. [[Captain]] [[Hera Syndulla|Syndulla]] in particular.''"<br />"''It will be done, Grand Admiral.|Thrawn and Rukh|Rebel Assault}}
+'''Rukh''' was a [[Sexes|male]] [[Noghri]] who served as the [[bodyguard]] and [[assassin]] of [[Galactic Empire|Imperial]] [[Grand Admiral]] [[Mitth'raw'nuruodo|Thrawn]]. Thrawn used Rukh's name as the override command for his [[Imperial sentry droid|sparring droids]]. Rukh was an excellent tracker and fighter with a strong senses of smell. In [[1 BBY]], Thrawn employed Rukh's services in hunting down members of the [[Spectres]] rebel cell and the [[Lothal resistance]]. Rukh played an important role in capturing the Spectres leader and [[Alliance to Restore the Republic|Rebel Alliance]] [[General]] [[Hera Syndulla]] during the [[Attack on Lothal|failed attack]] on Lothal. Rukh would later see further action against the Spectres in the lead up to the [[Liberation of Lothal]]. Rukh perished at the hands of [[Garazeb Orrelios]], who electrocuted him while fighting inside the [[Imperial Complex (Lothal)|Imperial Complex]].
+
+==Biography==
+===The TIE Defender heist===
+In [[1 BBY]],<ref name="Chronology Note">The events of "[[Kindred]]" take place in or after ''[[Star Wars Rebels: Heroes of Mandalore]]'', which is the first known episode to take place one [[Standard year|year]] before the [[Battle of Yavin]]. As such, we can deduce that this event takes place one year before the Battle of [[Yavin]]. For more information, see [[Forum:SH:Timeline of Star Wars Rebels Events|Wookieepedia's Timeline of ''Star Wars Rebels'' Events]].</ref> after the [[Theft of the TIE Defender Elite|theft]] of the [[TIE/D Defender Elite|prototype]] [[TIE/D Defender]] on [[Lothal]], [[Grand Admiral]] [[Mitth'raw'nuruodo|Thrawn]] sent Rukh to assist [[Governor]] [[Arihnda Pryce]] in the search for the [[Spectres|rebels]] responsible. Pryce suspected that the [[Thief|thieves]] would return to the vicinity of the crash site to retrieve the prototype's removed [[hyperdrive]].
+
+[[File:Rukh vs Ezra and Jai.jpeg|left|250px|thumb|Rukh pursuing Ezra and Jai Kell]]
+Upon arriving at the crash site, Rukh smelled the [[Lasat]] rebel [[Garazeb Orrelios]], as well as [[Ezra Bridger]] and [[Jai Kell]], nearby where they were retrieving the drive. As the [[assassin]] approached the scene, Bridger attempted to stall [[Sexes|him]] by claiming that he and Kell, who were both disguised as [[scout trooper]]s, had just finished searching the area. The ruse did not work, and Rukh attacked the two. During the fight, he realized that Bridger was a [[Jedi]] when he [[Force push|used]] [[the Force]] to fling him into a rock. The two escaped on a [[speeder bike]], with Rukh pursuing. Meanwhile, Orrelios had evaded the assassin and escaped with the hyperdrive in an [[Imperial Troop Transport]].<ref name="Kindred" />
+
+Rukh chased Bridger and Kell through a labyrinth of rock spires on a [[speeder]] bike. He engaged Bridger in a brief fight, his [[electrostaff]] to [[Ezra Bridger's second lightsaber|Bridger's]] [[lightsaber]]. When the two rebels pulled ahead due to Rukh being forced to evade a boulder in his path, the assassin fired a [[homing beacon]] at their bike, which they did not notice. Rukh continued the pursuit, eventually launching his bike over a pile of rock that Bridger had created as an obstacle with a planted [[detonator]] While in the air, Rukh's bike was destroyed when Bridger fired upon it, and the rebels fled. Using his tracking device, Rukh located the [[Lothal resistance camp|rebel camp]] and sent Pryce the coordinates. However, due to the rebels' earlier escape, Pryce did not allow Rukh to take out the camp by himself, which he was confident he could do. She instead attacked with several [[TX-225 GAVr "Occupier" combat assault tank|tanks]], a strategy that he criticized. After the Rebels had escaped the camp, deeper into the [[mountain]]s, Rukh insisted that he be allowed to pursue, but Pryce refused, deciding instead to bomb the mountains.<ref name="Kindred" />
+
+===Rebel attack===
+[[File:Rukh captures Hera Syndulla.jpeg|right|250px|thumb|Rukh presenting the captive Hera Syndulla to Governor Pryce]]
+During the [[Alliance to Restore the Republic|Rebel]] [[attack on Lothal]], Rukh was stationed in [[Capital City]]. The rebels' attempts to destroy the [[Lothal City fuel depot|Imperial fuel depot]] and [[Imperial Armory Complex|factory]] had failed, as Thrawn had prepared a second set of [[TIE/ln space superiority starfighter|TIE fighters]] to intercept the [[bomber]]s after they broke through the [[blockade]] outside the [[planet]]. Upon being informed that some [[Rebel pilot]]s may have survived their crash-landing, Thrawn tasked Rukh with capturing any survivors alive, only [[Death|killing]] them if he had no choice. Thrawn also told him to capture [[Hera Syndulla]], the attack's [[commander]], at any cost. Rukh complied, and during his mission, he captured Rebel [[pilot]] [[Secon Daree]] and brought him to Pryce, who congratulated the assassin. Rukh later searched for Syndulla, acquiring her scent and found her helping another pilot, [[Mart Mattin]]. He ambushed the trio and engaged in a short skirmish with them. While he was unable to capture Mattin and [[C1-10P|Chopper]], he managed to separate Syndulla from them, which led to her capture by [[Imperial Military|Imperial forces]].<ref name="Rebel Assault">{{Rebels|Rebel Assault}}</ref>
+
+===Rescue of Hera Syndulla===
+[[File:Kanan vs Rukh.jpeg|left|250px|thumb|Rukh fighting Kanan]]
+When the Spectres mounted a [[Rescue of Hera Syndulla|mission to rescue General Syndulla]], Rukh was on patrol when he encountered two stormtroopers. Rukh asked the troopers if they had anything to report. His nostrils twitched as the Spectres passed over him in three [[Loth-bat glider]]s. Sensing something afoot, Rukh tried to warn Governor Pryce. While he was talking with her, the [[Jedi Knight]] Kanan Jarrus freed Syndulla from [[Pryce's office]]. Rukh pursued them by climbing up the Imperial Complex to the garbage chute on the south entrance. Rukh briefly fought with Kanan, resulting in the loss of [[Kanan's lightsaber|Jarrus's lightsaber]]. However, Kanan pushed him off the building but Rukh managed to avoid death by clinging to a balcony. The rebels escaped on a glider but Kanan was killed.<ref name="Jedi Night">{{Rebels|Jedi Night}}</ref>
+
+===First Defeat===
+Following the death of Kanan Jarrus, Rukh was present in Governor Pryce's office during a [[hologram]] briefing with Grand Admiral Thrawn. Thrawn reprimanded Pryce for destroying the Lothal City fuel depot and disrupting the Empire's TIE Defender project on Lothal. After chastising Pryce, Thrawn warned Rukh that the rebels would strike recklessly and tasked him with eliminating them. As Rukh left the room, he smirked at the chastised Pryce.<ref name="DUME">{{Rebels|DUME}}</ref>
+
+Continuing his hunt for the Spectres, Rukh encountered a scout trooper who had been knocked out by the Lasat Garazeb Orrelios. He narrowly escaped being killed by an explosive that Sabine Wren had planted on the trooper's bike. Rukh's sharp senses helped him to home in on Sabine and Zeb, and he followed them into the wilderness. Sabine and Zeb trapped him but Rukh turned the tables on them by activating his [[Sinrich optical dephaser|cloaking device]]. Armed with his cloaking device, Rukh viciously attacked Zeb.<ref name="DUME" />
+
+Using her Mandalorian helmet's [[rangefinder]], Sabine managed to shoot at Rukh. However, he was able to dodge her with superhuman reflexes and managed to knock out her helmet. After struggling with Zeb, Rukh retreated for a second round. This time, Sabine managed to neutralize his cloaking device by throwing a [[paint bomb]] at him, damaging his cloaking device and partially painting him. Now visible, he was quickly overpowered by Orrelios. Zeb almost beat him to death but was stopped by Sabine, who convinced him to spare Rukh's life. Wren instead spray-pained Rukh before sending him back to the Empire on a speeder bike.<ref name="DUME" />
+
+===Trap at the Lothal rebel base===
+[[File:White Loth-wolf Rukh AFH.png|right|thumb|250px|Rukh grapples with the White Loth-wolf.]]
+Rukh accompanied Pryce on an invasion of the rebel base. Ryder Azadi nearly shot him, but decided to maintain his cover and let him go. Rukh fought with Ezra Bridger. When the rebels retreated into the cave, Rukh followed them with his men, and found Bridger standing in the dark. When Rukh taunted Bridger about his "army", Bridger ignited his lightsaber, revealing a pack of [[Loth-wolf|Loth-wolves]], terrifying him. In the ensuing battle, he was thrown off the encampment by the [[White Loth-wolf]]. While he survived the plunge, he lost his electrostaff.<ref name="A Fool's Hope">{{Rebels|A Fool's Hope}}</ref>
+
+===Last stand on Lothal===
+{{Quote|Rukh! Rukh! What's your status?''"<br />"''Sorry, you'll have to call back. He's... busy at the moment. Yeah, um... Never mind about calling back.|Thrawn contacting his bodyguard only to be responded by Zeb with Rukh heard frying in the dome's shield generator's electric current|Family Reunion – and Farewell}}
+Despite being thrown by the loth-wolfe, Rukh managed to survive the fall.<ref name="A Fool's Hope" /> Later, he found Commander [[CC-3636|Wolffe]], Mart Mattin and [[Cikatro Vizago]] loading up the ''Ghost'' and attacked them. He easily subdued all three rebels and prepared to kill them, but became terrified when the white Loth-wolf returned and hastily boarded a stolen patrol transport to escape. He then informed Thrawn of Pryce's capture. Thrawn tasked him with disabling the Planetary Shield Generator.<ref name="Family&Farewell">{{Rebels|Family Reunion – and Farewell}}</ref>
+
+Rukh managed to disable the generator, but was attacked by Orrelios, who fought him in the shield generator core. Orrelios tangled Rukh's foot in the generator's wiring, causing Rukh to be caught in the electric current as Kallus activated the shield generator. Realizing the shield was up as his bombardment did nothing to the city, Thrawn contacted Rukh for his status, but Orrelios had retrieved Rukh's comlink and laughingly informed Thrawn of the bodyguard's fate amidst the sound of Rukh being fried to death in the background.<ref name="Family&Farewell" />
+
+==Personality and traits==
+[[File:DumeGuide.jpeg|left|250px|thumb|Rukh served Grand Admiral Thrawn but paid lip service to Governor Pryce]]
+Rukh was fiercely loyal to the Galactic Empire in general and Grand Admiral Thrawn in particular, serving as the latter's [[bodyguard]] and top assassin. Unless ordered otherwise, he would pursue his targets relentlessly and without hesitation or remorse.<ref name="Kindred" /> From the moment he arrived on Lothal Rukh developed a rivalry with Governor Arihnda Pryce, showing contempt for her attempts at using brute force to subdue the rebels and receiving significant scorn from her over his abilities.<ref name="Kindred" /> After Pryce killed Kanan but destroyed the Imperial fuel depot on Lothal in the process, Rukh was present when she was admonished for her failure by Thrawn. He smirked in delight at the sight of his humbled rival.<ref name="Jedi Night" />
+
+Like Pryce, Rukh was terrified of the Loth-wolves.<ref name="A Fool's Hope" />
+
+==Skills and abilities==
+As a Noghri, Rukh could climb tall structures and travel quickly on all fours without tiring. His agility and reflexes made him formidable and unpredictable in [[Hand-to-hand combat|close quarters combat]]. Despite this, he could be easily overpowered by [[Force-sensitive]]s such as Bridger. Rukh also displayed a heightened sense of smell, catching the scent of Orrelios from a considerable distance, as well as easily seeing through Bridger and Kell's disguises.<ref name="Kindred" />
+
+Rukh proved skilled in melee combat even when outnumbered due to his use of a personal cloaking device. He had faster reflexes than a human and was able to match the Lasat Zeb's strength. However, when Rukh's cloaking device was compromised, he was no match for Zeb's brute force. Only Sabine's intervention saved him from death.<ref name="DUME" />
+
+==Equipment==
+Rukh carried an electrostaff in combat, holding his own against the seasoned Bridger. He also employed tracking devices for help with finding targets, and knew how to operate a speeder bike.<ref name="Kindred" /> He also carried a personal cloaking device with him, as shown when he was fighting Garazeb Orrelios and Sabine Wren.<ref name="DUME" />
+
+==Behind the scenes==
+{{Quote|I think it's a lot of situational things. There was a previous version of Ruhk’s confrontation with Zeb that I just thought didn't really go anywhere, and it didn't play out right and it didn't feel special. It felt like something we'd always seen before, so we completely re-staged that portion of it.|[[Dave Filoni]] on Rukh's confrontation against Zeb|url=http://www.ign.com/articles/2018/08/12/star-wars-rebels-season-4-finale-clone-wars-final-season-revival-disney-dave-filoni}}
+[[Rukh/Legends|Rukh]] was first introduced in [[Timothy Zahn]]'s [[1991]] [[Star Wars Legends|''Star Wars'' Legends]] novel ''[[Heir to the Empire]]'', as the bodyguard of [[Grand Admiral/Legends|Grand Admiral]] [[Mitth'raw'nuruodo/Legends|Thrawn]].<ref name="HttE">''[[Heir to the Empire]]''</ref> It was confirmed in [[Celebration Orlando]] [[2017]] that Rukh would appear in [[Star Wars Rebels Season Four|''Star Wars Rebels'' Season Four]] with his voice provided by ''[[Star Wars]]'' veteran [[Warwick Davis]].<ref name="Rebels Panel">{{SWYoutube|YPvrArQPbjU|Star Wars Celebration Orlando 2017 Live Stream – Day 3 | The Star Wars Show LIVE!}}</ref>
+
+According to ''Rebels'' creator [[Dave Filoni]], Rukh's confrontation against Zeb Orellios in the series finale "[[Family Reunion – and Farewell]]" was originally differently but he re-staged it as he thought that it really didn't went anywhere, along that it didn't played out right and didn't felt special, as he felt it as something they had always seen before.<ref name="Rukh's vs. Zeb Beta">{{Cite_web|url=http://www.ign.com/articles/2018/08/12/star-wars-rebels-season-4-finale-clone-wars-final-season-revival-disney-dave-filoni|title=STAR WARS REBELS CREATOR DAVE FILONI REVEALS HOW SEASON 4 ALMOST ENDED AND HIS CLONE WARS REVIVAL PLANS|publisher=[[Wikipedia:IGN|IGN]]|last=Huver|first=Scott|date=2018-08-12|accessdate=2018-09-28|archiveurl=|archivedate=}}</ref>
+
+==Appearances==
+*{{Rebels|Through Imperial Eyes}} {{1stm}}
+*''[[Thrawn: Alliances]]''
+*{{Rebels|Kindred}} {{1st}}
+*{{Rebels|Rebel Assault}}
+*{{Rebels|Jedi Night}}
+*{{Rebels|DUME}}
+*{{Rebels|A Fool's Hope}}
+*{{Rebels|Family Reunion – and Farewell}}
+
+==Sources==
+*{{SW|url=video/star-wars-rebels-season-4-trailer|text=Star Wars Rebels Season 4 Trailer}}
+*{{SW|url=video/star-wars-rebels-season-4-trailer-2|text=Star Wars Rebels Season 4 Trailer 2}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*{{Databank|rukh|Rukh}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|fr=Rukh
+|ru=Рукх/Канон
+|ja=ルク
+|fi=Rukh/Kaanon
+}}
+
+[[Category:Assassins]]
+[[Category:Guards]]
+[[Category:Males]]
+[[Category:Noghri]]
+[[Category:Personnel of the Galactic Empire]]

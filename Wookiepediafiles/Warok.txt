@@ -1,0 +1,60 @@
+{{Eras|reb}}
+{{Update|[[Star Wars: Ewoks—Shadows of Endor]]}}
+{{Character
+|type=
+|image=[[File:Warok.jpg]]
+|name=Warok
+|homeworld=[[Endor/Legends|Endor]]<ref name="rotj">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|birth=
+|death=
+|species=[[Ewok/Legends|Ewok]]<ref name="rotj" />
+|gender=[[Sexes/Legends|Male]]
+|height=
+|mass=
+|hair=
+|eyes=
+|skin=
+|cyber=
+|era=[[Rebellion era]]<ref name="rotj" />
+|affiliation=*[[Alliance to Restore the Republic/Legends|Alliance to Restore the Republic]]<ref name="rotj" />
+*[[Bright Tree Village/Legends|Bright Tree Village]]<ref name="rotj" />
+|masters=
+|apprentices=}}
+{{Quote|Warriors to your wings! Warok will lead us. Mates and elders, watch over the children. We fly!|Chief Chirpa|The Adventures of Teebo: A Tale of Magic and Suspense}}
+'''Warok''' was a [[Sexes/Legends|male]] [[Ewok/Legends|Ewok]] from the forest moon of [[Endor/Legends|Endor]]. He lived in [[Bright Tree Village/Legends|Bright Tree Village]] with his family: wife [[Batcheela (Ewok)|Batcheela]], son [[Teebo/Legends|Teebo]], and daughter [[Malani]]. Warok was a fierce warrior and one of the best at piloting the [[Hang glider|Ewok hang glider]].
+
+==Biography==
+When his children were both still young, a band of [[Dulok/Legends|Duloks]] led by [[Vulgarr]] convinced Warok that his daughter had been kidnapped by a giant monster. Warok led a band of Ewok warriors to recover her. They encountered a Dulok named [[Ulgo]], whom Warok accidentally killed while trying to release some [[Lantern bird/Legends|lantern birds]] that the Dulok planned to eat. Realizing that they had been tricked, the warriors found Vulgarr and his band and discovered that in their absence, Vulgarr had kidnapped the children of Bright Tree Village. Warok led the charge against the Duloks, driving them off and rescuing the children.
+
+Years later, Warok was among the many [[Ewok/Legends|Ewoks]] who helped the [[Alliance to Restore the Republic/Legends|Rebellion]] defeat the [[Galactic Empire/Legends|Galactic Empire]] in the [[Battle of Endor/Legends|Battle of Endor]].
+
+==Behind the scenes==
+Decipher's [[Star Wars Customizable Card Game]] "[[Paploo/Legends|Paploo]]" card, released as part of the [[Endor Limited]] expansion, claims Warok was Paploo's father.<ref name="CCGPaploo">{{CCG|set=Endor Limited|link=Endor-Light/large/paploo.gif|cardname=Paploo}}</ref>  All other sources say that Warok's children were Teebo and Malani.
+
+[[Kenner Products|Kenner]] released a Warok action figure in [[1985]] in its last wave of ''Star Wars'' action figures, which was part of its [[W:c:swmerchandise:Power of the Force (toyline)|Power of the Force line]]. Like all the other action figures released in this wave, he was packaged with a collectors coin.
+
+The 2009 release of the "Battle for Endor" Battle Pack from Hasbro includes an Ewok named Warok with a glider in addition to [[Luke Skywalker/Legends|Luke]] and [[Colonel/Legends|Colonel]] [[Dyer/Legends|Dyer]], none of whom ever shared screen time in ''[[Star Wars: Episode VI Return of the Jedi|Return of the Jedi]]''.
+
+==Appearances==
+*''[[The Adventures of Teebo: A Tale of Magic and Suspense]]'' {{1stID}}
+*''[[The Shadow Stone: An Ewok Adventure]]''
+*''[[Star Wars: Ewoks—Shadows of Endor]]''
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']] {{1st}}
+
+==Sources==
+*{{KennerCite|set=Star Wars: The Power of the Force (1985 toy line)|text=''Star Wars: The Power of the Force'' (1985)|pack=Warok|link=vintwarok.asp}}
+*{{CCG|set=Endor Limited|link=Endor-Light/large/paploo.gif|cardname=Paploo}} {{Mo}}
+*''[[Star Wars: The Action Figure Archive]]''
+*''[[The Complete Star Wars Encyclopedia]]''
+*{{HasbroCite|set=Star Wars: The Legacy Collection|text=|pack=Battle Packs (Battle for Endor)|link=TLCBPBattleforEndor.asp}}
+*{{InsiderCite|135|Rogues Gallery (Star Wars Insider)|Rogues Gallery: The Ewoks: Warriors of Endor!}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|nl=Warok
+}}
+
+[[Category:Ewoks]]
+[[Category:Males]]

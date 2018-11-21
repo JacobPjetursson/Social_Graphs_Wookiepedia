@@ -1,0 +1,86 @@
+{{Eras}}
+{{Image}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Garrick-Versio.png]]
+|name=Garrick Versio
+|homeworld=[[Vardos]]<ref name="Inferno Squad">''[[Battlefront II: Inferno Squad]]''</ref>
+|birth=
+|death=[[5 ABY]],<ref name="Date">''[[Star Wars: Galactic Atlas]]'' dates the [[Battle of Jakku]] to [[5 ABY]].</ref> ''[[Eviscerator]]'', [[Jakku]]<ref name="Battlefront II">''[[Star Wars Battlefront II]]''</ref>
+|species=[[Human]]<ref name="Inferno Squad" />
+|gender=[[Sexes|Male]]<ref name="Inferno Squad" />
+|height=
+|mass=
+|hair=[[Color|Gray]]<ref name="Battlefront II" />
+|eyes=Brown<ref name="Battlefront II" />
+|skin=Light<ref name="Battlefront II" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="Inferno Squad" />
+**[[Imperial Security Bureau]]<ref name="Inferno Squad" />
+**[[Imperial Navy]]<ref name="Databank">{{Databank|admiral-garrick-versio|Admiral Garrick Versio|archiveurl=https://archive.fo/5B2zV}}</ref>
+**[[Imperial Officer Corps]]<ref name="Inferno Squad" />
+*[[Jakku Imperial remnant]]<ref name="Battlefront II" />
+|masters=
+|apprentices=}}
+{{Quote|This is where I belong. I gave my life to this Empire. Fought to keep it strong.|Garrick Versio to his daughter, Iden|Star Wars Battlefront II}}
+'''Garrick Versio''' was a [[Sexes|male]] [[human]] [[admiral]] in the [[Imperial Security Bureau]], a [[Law enforcement agency|law enforcement]] and intelligence agency of the [[Galactic Empire]]. He and his [[Marriage|wife]] [[Zeehay Versio|Zeehay]] had a daughter named [[Iden Versio|Iden]] before divorcing when Iden was five [[Standard year|years]] old. It was Admiral Versio who brought the [[planet]] [[Vardos]] into the Empire, and as a result was known as the "Hero of Vardos" and had a statue dedicated to him outside of the [[Archive]].
+
+==Biography==
+===Early life===
+Prior to his promotion to [[admiral]], Garrick Versio served as an [[Inspector General]] in the secretive [[Imperial Security Bureau]].<ref name="Inferno Squad" /> Convinced that Imperial strength was necessary to maintain order in [[the galaxy]], Admiral Versio extended that conviction into his relationship with his daughter, mercilessly pushing her and constantly testing her limits.<ref name="Meet Iden">{{Cite_web|url=https://www.ea.com/games/starwars/battlefront/battlefront-2/news/meet-iden|title=Meet the Hero of ''Star Wars Battlefront II''|accessdate=2017-07-17|publisher=Electronic Arts}}</ref> Eventually, Iden became the [[commander]] of [[Inferno Squad]],<ref name="Battlefront II" /> an [[Imperial Special Forces]] [[commando]] unit assembled by Garrick, which included [[Agent]]s [[Gideon Hask]], [[Del Meeko]], and [[Seyn Marana]], in response to the [[Battle of Yavin|destruction]] of the [[DS-1 Orbital Battle Station|Death Star]]. He first tasked them in [[Infiltration of the Dreamers|infiltrate]] and destroy the [[Dreamers]], a mission that resulted in an Imperial victory though saw the [[death]] of Marana.<ref name="Inferno Squad" />
+
+===The Battle of Endor===
+{{Quote|The Emperor's Plan must not fail.|Admiral Garrick Versio, to Commander Iden Versio|Star Wars Battlefront II}}
+Garrick commanded the [[Imperial-class Star Destroyer|Star Destroyer]] ''[[Eviscerator]]'' and partook at the [[Battle of Endor]] in [[4 ABY]], witnessing the death of Admiral [[Firmus Piett]], whom he called a fool after the [[Executor-class Star Dreadnought|Super Star Destroyer]] ''[[Executor]]'' crashed into the [[Death Star II|second Death Star]] and was destroyed. Shortly afterwards, the second Death Star exploded, destroyed by the attacking [[Alliance to Restore the Republic|Rebel]] forces. [[Admiral]] [[Rae Sloane]], the highest ranking [[commanding officer]] to survive the battle, ordered for a full retreat. Garrick and the ''Eviscerator'' waited for Inferno Squad to evacuate [[Endor]].<ref name="Battlefront II" />
+
+===Operation: Cinder===
+{{Quote|Operation: Cinder is the last command of Our Emperor, and the first step in securing our future. Inferno is crucial to its success.|Admiral Garrick Versio, to Commander Iden Versio on Operation: Cinder|Star Wars Battlefront II}}
+Above Vardos, Garrick confirmed the death of [[Galactic Emperor|Emperor]] [[Darth Sidious|Palpatine]] to his daughter aboard the ''Eviscerator'' and shared with her the [[Sentinel (Contingency)|Messenger]] [[droid]] he received, which communicated the final orders of the Emperor: to begin [[Operation: Cinder]] at once. He sent Iden and Inferno Squad to [[Fondor]] to protect [[Moff]] [[Raythe]], who transported [[Climate disruption array|satellites]] crucial to Operation: Cinder aboard his [[Star Destroyer]] ''[[Dauntless]]''. Though a [[Battle of Fondor (Galactic Civil War)|battle]] erupted at the Imperial [[Fondor Shipyards|shipyards]] above Fondor when Rebel Alliance forces attempted to hijack the ship, they were eventually destroyed, and Operation: Cinder was secured.<ref name="Battlefront II" />
+
+Moff Raythe's satellites and the ''Dauntless'' were in fact sent to target the loyal Imperial world of Vardos itself. Despite the planet being his own homeworld and teeming with Imperial loyalists, Garrick ordered the satellites turned online per the posthumous order of the Emperor, and commanded his daughter to extract [[Protectorate (title)|Protectorate]] [[Gleb]]. However, during the mission, Iden and Meeko went rogue after deciding that it was not moral to leave loyal Imperial citizens to die. They escaped aboard the ''Corvus'' with their crew and some survivors, but Hask turned on them and returned to Garrick with Protectorate Gleb and her agent, prompting Garrick to promote Hask to Commander.<ref name="Battlefront II" />
+
+Garrick went on to run operations on [[Bespin]] and [[Sullust]], procuring fuel and weapons for the shattering Empire, while he and Hask were hunted down by Iden and Meeko, now members of [[Inferno Squad (New Republic)|Inferno Squad]] in the [[New Republic]]. At some point in the final year of the [[Galactic Civil War]], Garrick fell under the command of [[Counselor to the Empire|Counselor]] [[Gallius Rax]], who was secretly in charge of executing the clandestine [[Contingency]], and partook in the [[Battle of Jakku]].
+
+===Battle of Jakku and death===
+{{Quote|You saw the Empire's weakness and refused to let it consume you. It made you stronger. That's why you're leaving here without me....You deserve to live in peace. Go. Survive. Live.|Garrick Versio's final words to his daughter, Iden|Star Wars Battlefront II}}
+[[File:Iden attempts to save her father.png|thumb|left|250px|Iden tries to save her father.]]
+As commanded by Counselor Rax, Admiral Versio went aboard the ''Eviscerator'' to the Battle of Jakku. During the battle, however, the ''Eviscerator'' was badly damaged in the battle and soon began to lose integrity; as it burnt in the skies of Jakku, Iden made an attempt to rescue her father after shooting down Hask. Though Rax also intended for Garrick to leave, he declined his daughter's rescue attempt. Looking out over the battle and his rapidly disintegrating starship, Garrick bitterly lamented having dedicated his entire life to an Empire which was indeed weak and flawed whilst Iden tried to convince him to leave. In their final moments together, he made peace with his daughter and urged her to leave and live a good life, something which he did not regard himself worthy of. Iden reluctantly left him on the bridge and evacuated in an [[escape pod]], while Garrick remained on the ''Eviscerator'' as it crashed onto the sandy [[desert]]s of Jakku, [[Death|perishing]] in the collision.<ref name="Battlefront II" />
+
+{{Char-stub}}
+
+==Behind the scenes==
+Garrick Versio was portrayed by [[Anthony Skordi]] in ''[[Star Wars Battlefront II]]''.<ref name="Battlefront II" />
+
+==Appearances==
+*''[[Star Wars Battlefront II]]'' {{1stp}}
+*''[[Battlefront II: Inferno Squad]]'' {{1st}}
+
+==Sources==
+*{{SWYoutube|YPvrArQPbjU|Star Wars Celebration Orlando 2017 Live Stream – Day 3 <nowiki>|</nowiki> The Star Wars Show LIVE!}} {{1stm}}
+*''[[Star Wars: Women of the Galaxy]]''
+*{{Databank|admiral-garrick-versio|Admiral Garrick Versio|archiveurl=https://archive.fo/5B2zV}}
+*{{Databank|agent-gideon-hask|Agent Gideon Hask|archiveurl=https://archive.fo/ykaC1}}
+*{{Databank|commander-iden-versio|Commander Iden Versio|archiveurl=https://archive.fo/ZwKxO}}
+*{{Databank|inferno-squad|Inferno Squad}}
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*{{Cite_web|url=http://kotaku.com/weve-finally-seen-a-campaign-mission-from-star-wars-ba-1795991733/amp|title=We've Finally Seen A Campaign Mission From Star Wars: Battlefront II|accessdate=2017-06-11|publisher=Kotaku}}
+
+{{Interlang
+|de=Garrick Versio#kanon
+|el=Γκάρικ Βέρσιο
+|es=Garrick Versio
+|fr=Garrick Versio
+|ja=ギャリック・ヴェルシオ
+|pl=Garrick Versio
+|ru=Гаррик Версио
+}}
+
+{{DEFAULTSORT:Versio, Garrick}}
+[[Category:Humans]]
+[[Category:Imperial Security Bureau officers]]
+[[Category:Males]]

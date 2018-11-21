@@ -1,0 +1,65 @@
+{{Eras}}
+{{Character
+|type=Galactic Empire
+|image=[[File:Thanoth-Darth Vader 20.png]]
+|name=Thanoth
+|homeworld=
+|birth=
+|death=[[0 ABY]], [[Anthan 13]]<ref name="V20">''[[Darth Vader 20: End of Games, Part I]]''</ref>
+|species=[[Human]]<ref name="V8">''[[Darth Vader 8: Shadows and Secrets, Part II]]''</ref>
+|gender=[[Sexes|Male]]<ref name="V8" />
+|height=
+|mass=
+|hair=[[Color|Black]], later gray<ref name="V8" />
+|eyes=Brown<ref name="V8" />
+|skin=Dark<ref name="V8" />
+|cyber=
+|era=
+|affiliation=*[[Galactic Empire]]<ref name="V8" />
+**[[Inspectorate]]<ref name="Aphra 15">''[[Doctor Aphra 15: Remastered, Part II]]''</ref>
+|masters=
+|apprentices=}}
+{{Quote|Lord Vader. I'm not a sycophant, traitor, or&mdash;worst of all&mdash;an incompetent like Oon-ai. I'm a professional investigator.|[[Inspector]] Thanoth dismisses [[Lord]] [[Anakin Skywalker|Vader's]] comment that he is attentive|Darth Vader 8: Shadows and Secrets, Part II}}
+'''Thanoth''' was a [[Sexes|male]] [[human]] who served the [[Galactic Empire]] as an extremely skilled [[inspector]]. He was assigned to the [[Sith Lord]] [[Anakin Skywalker|Darth Vader]] as an [[adjutant]] in order to help [[Detective|investigate]] a large sum of [[credit]]s confiscated from the [[Son-tuul Pride]] being [[Son-tuul Pride robbery|stolen]] from the [[Arquitens-class light cruiser|''Arquitens''-class light cruiser]].
+
+==Biography==
+===Inspector===
+{{Quote|Larceny is the least of the great crimes. Mark my words, we'll have tidied this away within the day.|Thanoth assures Vader the case will be quickly resolved|Darth Vader 8: Shadows and Secrets, Part II}}
+The [[Sexes|male]] [[human]] Thanoth held the rank of [[inspector]] and worked for the [[Galactic Empire]]'s [[Inspectorate]] during the [[Galactic Civil War]] against the [[Alliance to Restore the Republic]]. Shortly after the [[Battle of Yavin]], he was assigned by [[Grand General]] [[Cassio Tagge]] to replace [[Oon-ai]] as an [[adjutant]] for the [[Sith Lord]] [[Anakin Skywalker|Darth Vader]] while Vader investigated the [[Son-tuul Pride robbery|theft]] of a large sum of [[credit]]s from an Imperial [[Arquitens-class light cruiser|''Arquitens''-class light cruiser]]. When first introduced to Vader on Tagge's [[Super Star Destroyer]] ''[[Liberty's Misrule|Annihilator]]'', the Inspector noted dust on Vader's [[Vader's armor|armor]] which placed him on the [[moon]] [[Anthan 13]] within the last 24 [[Standard hour|hours]], an [[orbit]]al body located in the same [[star system]] that the theft had taken place, leading the inspector to correctly assume that Vader had been behind the incident.<ref name="V8" />
+
+===Working with Vader===
+{{Quote|It's been a pleasure working with you, Anakin.|Thanoth, before his execution|Darth Vader 20: End of Games, Part I}}
+Eventually, Thanoth, a dedicated patriot of the Empire, uncovered Vader's true identity as Anakin Skywalker, and figured out Vader's plan to replace [[Galactic Emperor|Emperor]] [[Darth Sidious|Palpatine]]. The inspector met and told Vader where he could find the wayward [[Doctor]] [[Chelli Lona Aphra|Aphra]] on [[Cosmatanic Steppes]]. Thanoth was subsequently [[Death|killed]] instantly by the [[Sith]] [[Lord]]'s [[Darth Vader's lightsaber|lightsaber]] to keep his secret, although Thanoth believed it was for the best of the Empire that Vader succeeded.<ref name="V20" /> Thanoth considered the destruction of the Death Star to be a sign of the Emperor's growing weakness, and believed the Empire would be better off if Vader overthrew Palpatine with the aid of his son, Luke Skywalker.{{Fact}}
+
+{{Char-stub}}
+
+==Appearances==
+*''[[Darth Vader 8: Shadows and Secrets, Part II]]'' {{1st}}
+*''[[Darth Vader 9: Shadows and Secrets, Part III]]''
+*''[[Darth Vader 10: Shadows and Secrets, Part IV]]''
+*''[[Darth Vader 11: Shadows and Secrets, Part V]]''
+*''[[Darth Vader 12: Shadows and Secrets, Part VI]]''
+*''[[Darth Vader 19: The Shu-Torun War, Part IV]]'' {{Hologram}}
+*''[[Darth Vader 20: End of Games, Part I]]''
+*''[[Doctor Aphra 14: Remastered, Part I]]'' {{C|Appears on screen}}
+*''[[Doctor Aphra 15: Remastered, Part II]]'' {{Hologram}}
+*''[[Doctor Aphra 17: Remastered, Part IV]]'' {{Mo}}
+*''[[Doctor Aphra 22: The Catastrophe Con, Part III]]'' {{Mo}}
+*''[[Doctor Aphra 23: The Catastrophe Con, Part IV]]'' {{Mo}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=Thanoth#kanon
+|el=Θάνοθ
+|ja=サノス
+|pl=Thanoth
+|ru=Танот
+|deFA=1
+|plFA=1
+}}
+
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Personnel of the Galactic Empire]]

@@ -1,0 +1,123 @@
+{{Eras}}
+{{Character
+|type=Jedi
+|image=[[File:Agen Kolar SWCT.png]]
+|name=Agen Kolar
+|homeworld=[[Coruscant]]<ref name="ECUC">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|birth=
+|death=[[19 BBY]], Coruscant<ref name="Revenge of the Sith">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|species=[[Zabrak]] {{C|[[Iridonian]]}}<ref name="Attack of the Clones">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+|gender=[[Sexes|Male]]<ref name="Attack of the Clones" />
+|height=1.9 [[meter]]s<ref name="ECUC" />
+|mass=
+|hair=[[Color|Black]]<ref name="Attack of the Clones" />
+|eyes=Brown<ref name="Attack of the Clones" />
+|skin=Dark<ref name="Attack of the Clones" />
+|cyber=
+|era=
+|affiliation=*[[Jedi Order]]<ref name="Attack of the Clones" />
+**[[Jedi High Council]]<ref name="Revenge of the Sith" />
+**[[Jedi assault team]]<ref name="Attack of the Clones" />
+*[[Galactic Republic]]<ref name="Attack of the Clones" />
+|masters=
+|apprentices=[[Tan Yuster]]<ref name="Lightsabers">''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''</ref>}}
+'''Agen Kolar''' was a member of the [[Jedi Order]] in the [[Galactic Republic]]. In addition to being a member of the Order, Kolar was a Zabrak [[Jedi Master]], a notable [[Lightsaber duel|duelist]], and also sat on the [[Jedi High Council]]. He was [[Death|killed]] by [[Darth Sidious]] in a [[lightsaber]] [[Duel in Palpatine's office|duel]].
+
+==Biography==
+===Early Life===
+Agen Kolar was born on [[Coruscant]] prior to the [[Separatist Crisis]]. He was found to be [[Force-sensitive]] and brought to the [[Jedi Temple]] to be trained as a [[Jedi]]. He eventually rose up to the [[rank]] of [[Jedi Master]].<ref name="ECUC" /> He soon gained a [[Padawan]] called [[Tan Yuster]].<ref name="Lightsabers" />
+
+===Battle of Geonosis===
+[[File:Kolar-Geonosis.jpg|200px|left|thumb|Kolar during the first Battle of Geonosis]]
+Agen Kolar participated in the [[Battle of Geonosis]], the conflict that sparked the [[Clone Wars]] between the [[Galactic Republic]] and the [[Confederacy of Independent Systems|Separatist Alliance]]. As a participant, [[Sexes|he]] was a member of the [[Jedi assault team]] assembled by fellow [[Jedi High Council]] member [[Mace Windu]] to rescue [[Obi-Wan Kenobi]], [[Anakin Skywalker]], and [[Padmé Amidala]] from being [[Death|executed]] by the Separatists.<ref name="Attack of the Clones" /> During the battle, Kolar's [[padawan]] [[Tan Yuster]] was overwhelmed by [[B2 super battle droid]]s and [[Death|killed]]. The Jedi Master recovered the blue [[kyber crystal]] from his fallen apprentice's [[lightsaber]] and later added it to [[Agen Kolar's lightsaber|his own]] as an homage.<ref name="Lightsabers" />
+
+===Yoda's vision===
+In the last [[Standard year|year]] of the Clone Wars, [[Grand Master]] [[Yoda]] experienced a [[Force vision|vision]] of Kolar's death at the hands of [[Darth Sidious]] whilst on the [[planet]] [[Dagobah]] to learn the secrets of immortality.<ref name="Voices">{{TCW|Voices}}</ref>
+
+===Discussions on the Jedi Council===
+In [[19 BBY]], Kolar replaced Eeth Koth on the Jedi High Council<ref name="Revenge of the Sith" /> after Koth was kicked off it.<ref name="Darth Vader 19">''[[Darth Vader: Dark Lord of the Sith 19: Fortress Vader, Part I]]''</ref> He took part in many important discussions such as when [[Supreme Chancellor]] Palpatine requested that Skywalker be appointed to be on the Jedi Council. He was also present when Palpatine reported that [[General]] [[Grievous]] was hiding on [[Utapau]] and suggested that they dispatch [[Jedi Knight]] Anakin Skywalker. The Council instead [[Battle of Utapau|dispatched]] [[Jedi Master]] [[Obi-Wan Kenobi]].<ref name="Revenge of the Sith" />
+
+===Death===
+[[File:TheDeathofAgenKolar.jpg|200px|right|thumb|Kolar is struck down by Darth Sidious.]]
+During the final [[Standard day|days]] of the war, Kolar was part of another team assembled by Windu, this [[time]] to [[Duel in Palpatine's office|arrest]] Palpatine&mdash;who, up until that point, had secretly been [[Darth]] Sidious, the [[Dark Lord of the Sith]]. Of the four [[Jedi]] Masters sent to [[Duel in Palpatine's office|arrest]] the Dark [[Lord]], Kolar was the first to be [[Death|killed]]. The other three Masters also perished, and Sidious [[Proclamation of the New Order|transformed]] the Republic into the [[Galactic Empire]] and [[Order 66|destroyed]] the [[Jedi Order]].<ref name="Revenge of the Sith" />
+
+==Personality and traits==
+Agen Kolar was known to strike first and ask questions later. He was also considered a valuable member of the Jedi Council. Mace Windu had a high opinion of Kolar's combat skills, which led to Windu recruiting him to attempt to arrest Supreme Chancellor Palpatine.<ref name="ECUC" />
+[[File:Agem Kolar DB.png|thumb|left|180px|Jedi Master Agen Kolar]]
+
+==Powers and abilities==
+He was a master swordsman of the Jedi Order, and his lightsaber skills were widely celebrated and renowned.<ref name="ECUC" /> Despite Kolar's reputation, however, Darth Sidious was able to slay the [[Zabrak]] Jedi with a single blow.<ref name="Revenge of the Sith" />
+
+==Equipment==
+Kolar built his lightsaber in such a way that it used dual [[Kyber crystal|crystals]], which allowed the [[color]] of the lightsaber to be either blue or green.<ref name="ECUC" />
+
+==Behind the scenes==
+Agen Kolar was first created by ''[[Star Wars]]'' creator [[George Lucas]], who originally intended for Kolar to be the character [[Eeth Koth]] in [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']].{{Fact}}However, there are several differences between the characters' physical characteristics that Koth had that Kolar lacked. Lucasfilm soon decided to create a new character: Agen Kolar. Kolar was created as a new character for [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']].{{Fact}} He went on to appear in [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']],<ref name="Revenge of the Sith" /> and he appeared in a vision in "[[Voices]]," an episode of the animated television series [[Star Wars: The Clone Wars (TV series)|''Star Wars: The Clone Wars'']].<ref name="Voices" /> It is however the model of Eeth Koth that is used during the brief scene.{{Fact}}
+
+==Appearances==
+*''[[5-Minute Star Wars Stories Strike Back]]''
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}
+*{{TCW|Voices}} {{Vision|Yoda}}
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+*''[[Tarkin (novel)|Tarkin]]'' {{Imo}}
+
+==Sources==
+*{{SW|url=explore/the-movies/episode-ii/|text=Star Wars: Episode II - Attack of the Clones}}
+*{{SW|url=explore/the-movies/episode-iii/|text=Star Wars: Episode III - Revenge of the Sith}}
+*{{SWE|groups|jediorder|Jedi Order}} {{Po}}
+*[[Star Wars: Card Trader|''Star Wars'': Card Trader]] {{1stID}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Forces of Destiny: Tales of Hope & Courage]]'' {{Po}}
+*''[[Star Wars: Lightsabers: A Guide to Weapons of the Force]]''
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]'' {{Po}}
+*{{Databank|agen-kolar|Agen Kolar|archivedate=20170707043140}}
+*{{Databank|coruscant|Coruscant|archivedate=20170705001748}} {{Po}}
+*{{Databank|emperor-palpatine-darth-sidious|Emperor Palpatine / Darth Sidious|archiveurl=https://archive.is/BR4CY}} {{Imo}}
+*{{Databank|geonosis|Geonosis|archivedate=20170905054006}} {{Po}}
+*{{Databank|jedi-order|Jedi Order}}
+*{{Databank|mace-windu|Mace Windu}} {{Po}}
+
+{{Start_box}}
+{{Succession_box
+|title=Member of the [[Jedi High Council]]
+|years=[[19 BBY]]<ref name="Revenge of the Sith" />
+|before=[[Eeth Koth]]<ref name="TPM">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|before-years=c. [[32 BBY]]<ref name="TPM" />&ndash;[[19 BBY]]<ref name="TCW-TheBigBang">{{TCW|The Big Bang}}</ref>
+|after=None
+}}
+{{End_box}}
+
+==Notes and references==
+{{Reflist}}
+
+{{JediCouncil19}}
+
+{{Interlang
+|cs=Agen Kolar
+|de=Agen Kolar#kanon
+|es=Agen Kolar
+|fr=Agen Kolar
+|hu=Agen Kolar
+|it=Agen Kolar
+|ja=エージェン・コーラー
+|ko=에이젠 콜러
+|nl=Agen Kolar
+|pl=Agen Kolar
+|pt=Legends:Agen Kolar
+|ru=Аген Колар/Канон
+|sv=Agen Kolar
+|uk=Аґен Колар
+|deFA=1
+}}
+
+{{DEFAULTSORT:Kolar, Agen}}
+[[Category:Coruscanti]]
+[[Category:Jedi Council members]]
+[[Category:Jedi Masters]]
+[[Category:Jedi Purge victims]]
+[[Category:Males]]
+[[Category:Zabrak]]

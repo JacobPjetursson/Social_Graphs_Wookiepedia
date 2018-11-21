@@ -1,0 +1,113 @@
+{{Eras}}
+{{Update|[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]], [[Star Wars Adventures Free Comic Book Day 2018]], [[Powered Down, Part I]], [[Powered Down, Part II]]}}
+{{Droid
+|image=[[File:4-LOM.jpg]]
+|name=4-LOM
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=[[Industrial Automaton]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|line=
+|model=[[LOM-series protocol droid]]<ref name="Ultimate Star Wars" />
+|class=[[Protocol droid]]<ref name="Ultimate Star Wars" />
+|degree=
+|cost=
+|length=
+|width=
+|height=1.67 [[meter]]s<ref name="Updated and Expanded">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|mass=
+|gender=[[Sexes|Masculine programming]]<ref name="Ultimate Star Wars" />
+|sensor=[[Color|Green]]<ref name="The Empire Strikes Back">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+|plating=Black {{C|rusted}}<ref name="The Empire Strikes Back" />
+|armament=
+|equipment=
+|era=
+|affiliation=}}
+{{Quote|Bounty hunters! We don't need their scum.|Admiral [[Firmus Piett]]|audio=WeDontNeedTheirScum.ogg|Star Wars: Episode V The Empire Strikes Back}}
+'''4-LOM''' was an ambitious [[LOM-series protocol droid|LOM-series]] [[protocol droid]] who overrode [[Sexes|his]] programming and became a galactic [[thief]] and later a [[bounty hunter]]. He often worked together with [[Gand]] [[findsman]] [[Zuckuss]]. Following the [[Battle of Hoth]], both 4-LOM and Zuckuss were hired by the [[Sith Lord]] known as [[Anakin Skywalker|Darth Vader]] to capture [[Han Solo]], [[captain]] of the ''[[Millennium Falcon]]'' and hero of the [[Alliance to Restore the Republic]]. However, the [[bounty]] on the [[smuggler]]'s head was instead claimed by the infamous [[Boba Fett]].
+
+==Biography==
+{{Quote|While most LOM units only needed an old-fashioned reboot when they went bad, 4-LOM took advantage of the glitch and overrode his core programming to become the galaxy's second-most-successful droid bounty hunter. This cold and calculating killer was usually found on missions alongside his organic companion, Zuckuss, a member of the insectoid species 4-LOM was built to resemble.|R0-GR|Star Wars: Droidography}}
+A [[LOM-series protocol droid|LOM-series]] [[protocol droid]] manufactured by [[Industrial Automaton]],<ref name="Ultimate Star Wars" /> 4-LOM was assigned to a luxury liner,<ref name="Updated and Expanded" /> but logic glitches and personality software corruption<ref name="Updated and Expanded" /> allowed 4-LOM to override [[Sexes|his]] programming and become a galactic [[thief]] and later [[bounty hunter]]. The mechanical often worked together with the tracker [[Zuckuss]], one of the first traditional [[Gand]] [[Findsman|findsmen]] to leave his [[homeworld]],<ref name="Card Trader">[[Star Wars: Card Trader|''Star Wars'': Card Trader]]</ref> the [[planet]] [[Gand (planet)|Gand]],<ref name="Ultimate Star Wars" /> and claimed several high profile [[Bounty|bounties]] for the [[Hutt Clan]].<ref name="Card Trader" />
+
+====Capturing Beris Ford====
+{{Quote|Beris Ford— A small-time hoodlum with ideas above his station. Still, the reward for his capture will pay for our tractor beam repairs.|4-LOM|Star Wars Adventures Free Comic Book Day 2018}}
+[[File:Chewie vs Zuckuss.jpg|thumb|left|Zuckuss fighting Chewbacca]]
+Zuckuss and 4-LOM captured the small-time criminal [[Beris Ford]], keeping him imprisoned aboard their ship and hoping to use the reward for his capture to pay for [[tractor beam]] repairs. Weeks later, the hunters took up a [[bounty]] placed by [[Rekias Nodo]] on [[Han Solo]], and confronted him at [[Valtos]] [[Valtos space port|Space Port]]. Zuckuss incapacitated the [[smuggler]] inside a [[stun net]] fired from his [[Snare rifle/Canon|snare rifle]], and he and 4-LOM loaded Han's cargo into the ''Mist Hunter'', where they imprisoned him along with Ford. Sensing a [[disturbance in the Force]], Zuckuss checked on the stolen cargo only to be attacked by [[Chewbacca]] bursting from one of the containers, and was hit with a stun net from his own rifle. Zuckuss was left tied up while the [[Wookiee]] rescued Han and Beris, and the scoundrels fled with their cargo back to the ''[[Millennium Falcon]]''. However, the hunters pursued, and after a firefight Zuckuss chased the ''Falcon'' into space.<ref name="Hunter vs Hunted">{{IDWAdventuresCite|Free Comic Book Day 2018|Hunter vs Hunted}}</ref>
+
+Following Solo and Chewbacca to an unidentified planet, Zuckuss again sensed something was wrong, but 4-LOM continued the pursuit through a heavy cloud layer until their ship's systems&mdash;and 4-LOM himself&mdash;suddenly powered down, forcing them to drop out of the sky and crash-land on a beach. Zuckuss was trapped in the wreckage, and called out to Solo for help in freeing his legs, though slapped [[stuncuffs]] on Solo when he was in reach. However, the planet's technology-negating effects caused the cuffs to release Solo, who left Zuckuss in his predicament. After Solo and Chewbacca found an [[energy projector]] transmitting an [[immobilizer beam]], Zuckuss attacked them with native [[spear]]s as they climbed the tall mast. Chewbacca dislodged the projection sphere from the top, causing it to crash on the beach below, which caused mechanical drones to erupt from the sand and attack all three interlopers.<ref name="Powered Down I">{{IDWAdventuresCite|10|[[Powered Down, Part I]]}}</ref>
+
+===The hunt for the ''Millennium Falcon''===
+{{Quote|There will be a substantial reward for the one who finds the ''Millennium Falcon''. You are free to use any methods necessary, but I want them alive.|Darth Vader to 4-LOM and several other bounty hunters|Star Wars: Episode V The Empire Strikes Back}}
+Shortly after the [[Battle of Hoth]], both 4-LOM and Zuckuss assembled, along with fellow bounty hunters [[Boba Fett]], [[Dengar]], [[Bossk]], and [[IG-88]], aboard the [[Executor-class Star Dreadnought|Super Star Destroyer]] ''[[Executor]]'' by [[Anakin Skywalker|Darth Vader]], who hired them to locate the ''[[Millennium Falcon]]''. However, the bounty was collected by Boba Fett who tracked down the [[light freighter]] to [[Cloud City]] on [[Bespin]].<ref name="The Empire Strikes Back" />
+
+==Characteristics==
+{{Quote|He may look like a nightmarish version of C-3P0, but this nasty fella is actually a LOM-series protocol droid. These units had weird bug-like heads designed to look like the insectoid alien species they served. They also had a pretty nasty flaw in their programming that allowed their personality software to become corrupted.|R0-GR|Star Wars: Droidography}}
+A cold, calculating and ambitious mechanical,<ref name="Card Trader" /> 4-LOM suffered from logic glitches and personality software corruption<ref name="Updated and Expanded" /> that allowed him to escape his original programming.
+
+A LOM-series protocol droid,<ref name="Ultimate Star Wars" /> 4-LOM stood 1.67 [[meter]]s tall<ref name="Updated and Expanded" /> and was covered in battered rusted [[Color|black]] [[droid]] plating.<ref name="The Empire Strikes Back" /> His head was designed to emulate the [[insectoid]] [[species]] he was designed to serve,<ref name="Ultimate Star Wars" /> with two large green compound [[photoreceptor]]s.<ref name="The Empire Strikes Back" />
+
+==Equipment==
+4-LOM utilized a [[BlasTech Industries]] [[DLT-19 heavy blaster rifle|DLT-19]] [[Blaster rifle|heavy blaster rifle]].<ref name="The Empire Strikes Back" />
+
+==Behind the scenes==
+{{Quote|The bounty hunter switch is a mistake, albeit an ironic one for anyone who collected action figures once upon a time.|Jason Fry|url=http://boards.theforce.net/threads/the-official-jason-fry-discussion-thread.50004273/page-34#post-51995742}}
+[[File:4LOMConcept.jpg|right|thumb|200px|Concept art of 4-LOM by [[John Mollo]]]]
+4-LOM first appeared in the [[1980]] film [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']],<ref name="The Empire Strikes Back" /> where he was portrayed by [[Chris Parsons]],<ref name="fourlom">{{DB|droid|fourlom|4-LOM}}</ref> who was also a stand-in for [[Anthony Daniels]] and played [[K-3PO]] and [[E-3PO (Bespin)|E-3PO]] in the same movie.<ref name="K-3PO">{{DB|droid|k3po|K-3PO (Kay-Threepio)}}</ref> His costume was made from a variety of different parts of protocol droid costumes originally designed for [[C-3PO]] that the set designers of ''The Empire Strikes Back'' cobbled together.<ref name="Behind the Magic">''[[Star Wars: Behind the Magic]]''</ref>
+
+In 1982, [[Kenner Products|Kenner]] released action figures of 4-LOM and Zuckuss, but transposed their names.<ref name="Jason Fry Confirms">{{Cite web|url=http://boards.theforce.net/threads/the-official-jason-fry-discussion-thread.50004273/page-34#post-51995742|title=Jason Fry forum post|first=Jason|last=Fry|work=TheForce.net|date=December 3, 2014|accessdate=January 14, 2015|archiveurl=https://web.archive.org/web/20170926175323/http://boards.theforce.net/threads/the-official-jason-fry-discussion-thread.50004273/page-34|archivedate=2017-09-26}}</ref>
+
+==Appearances==
+*''[[Star Wars: Force Arena]]''
+*{{IDWAdventuresCite|Free Comic Book Day 2018|Hunter vs Hunted}}
+*{{IDWAdventuresCite|10|[[Powered Down, Part I]]}}
+*{{IDWAdventuresCite|11|[[Powered Down, Part II]]}}
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*''[[Darth Vader 1: Vader]]''
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+
+===Non-canon appearances===
+*{{Droid Tales|Flight of the Falcon (episode)|Flight of the Falcon}} {{Flash}}
+
+==Sources==
+*{{SW|url=films/star-wars-episode-v-the-empire-strikes-back|text=''Star Wars'': Episode V ''The Empire Strikes Back''|archivedate=20180614210303}}
+*{{SWE|characters|dengar|Dengar}} {{Imo}}
+*{{SWE|characters|bobafett|Boba Fett}}
+*{{SWE|characters|ig88|IG-88}} {{Imo}}
+*{{SWE|characters|admiral-piett|Admiral Piett}}
+*{{SWE|characters|darthvader|Darth Vader}}
+*''[[Ultimate Factivity Collection: Star Wars]]'' {{Po}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[The Art of Star Wars: The Force Awakens]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*{{LEGOCite|eu|75167|Bounty Hunter Speeder Bike Battle Pack}}
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*''[[Star Wars: Droidography]]''
+*{{Databank|4-lom|4-LOM|archivedate=20170825165152}}
+
+==Notes and references==
+{{Imagecat|Images of 4-LOM}}
+{{Reflist}}
+
+{{Interlang
+|de=4-LOM#kanon
+|el=4-LOM
+|es=4-LOM
+|hu=4-LOM
+|ja=4-LOM
+|nl=4-LOM
+|no=4-LOM
+|pl=4-LOM
+|pt=4-LOM
+|ru=4-LOM
+|sv=4-LOM
+}}
+
+[[Category:Bounty hunters]]
+[[Category:LOM-series protocol droids]]
+[[Category:Masculine programming]]
+[[Category:Thieves]]

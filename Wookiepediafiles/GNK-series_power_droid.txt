@@ -1,0 +1,108 @@
+{{Eras|legends=GNK power droid}}
+{{Droid_series
+|image=[[File:GNKpowerdroid-DB.png]]
+|name=GNK-series power droid
+|creator=
+|manufacturer=[[Industrial Automaton]]<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|designer=
+|homeworld=
+|line=
+|model=
+|class=[[Power droid]]<ref name="Ultimate SW">''[[Ultimate Star Wars]]''</ref>
+|degree=
+|cost=
+|length=
+|width=
+|height=1.1 [[meter]]s<ref name="Databank">{{Databank|gnk-droid|GNK Droid|archiveurl=https://web.archive.org/web/20171223071109/http://www.starwars.com/databank/gnk-droid}}</ref>
+|mass=
+|gender=
+|sensor=
+|plating=
+|armament=
+|equipment=
+|era=
+|affiliation=
+|firstmade=
+|retired=}}
+The '''GNK-series power droid''', also known as the '''gonk droid''', was a type of well-known [[power droid]]<ref name="Databank" /> manufactured by [[Industrial Automaton]] that used binary codes.<ref name="Character Encyclopedia" /> They were often referred to as Gonk droids in imitation of their simple vocalizations.<ref name="Databank" /> The [[Alliance to Restore the Republic]] modified GNK units so they acted as weapons. Once deployed those droids would march slowly across the battlefield, until they collided with an enemy building, and explode.<ref name="FA">''[[Star Wars: Force Arena]]''</ref>
+
+{{Droid-stub/Canon}}
+
+==Appearances==
+{{Scroll box|
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]
+*''[[Star Wars Battlefront II]]''
+*''[[Star Wars: Force Arena]]''
+*''[[Forces of Destiny: Daring Adventures: Volume 1]]'' {{Po}}
+*{{TCW|Nomad Droids}}
+*{{TCW|A Friend in Need}}
+*{{TCW|Point of No Return}}
+*{{TCW|A Death on Utapau}}
+*''[[Darth Vader: Dark Lord of the Sith 11: The Rule of Five, Part I]]''
+*''[[Kanan 4: The Last Padawan, Part IV: Catch]]''
+*{{Rebels|Blood Sisters}}
+*{{Rebels|The Protector of Concord Dawn}}
+*{{Rebels|The Forgotten Droid}} {{C|Feet only}}
+*{{Rebels|Warhead (episode)|Warhead}}
+*''[[Rogue One: A Star Wars Story]]''
+*''[[Star Wars: Rogue One: Secret Mission]]''
+*''[[Star Wars: Force Arena]]''
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*{{IDWAdventuresCite|8|[[Tales from Wild Space: Gonk]]}}
+*''[[Star Wars Battlefront]]''
+*''[[Chewbacca, Part II]]''
+*''[[Chewbacca, Part III]]''
+*''[[Chewie and the Courageous Kid]]''
+*''[[Darth Vader 7: Shadows and Secrets, Part I]]'' {{C|Wreckage only}}
+*{{Shortstory|story=Droid Dilemma|book=Star Wars 25: The Last Flight of the Harbinger, Part V}}
+*''[[Star Wars 40: The Ashes of Jedha, Part III]]'' {{Flash}}
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]
+*{{IDWAdventuresCite|13|[[Tales from Wild Space: The Blue Brothers]]}}
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*{{InsiderCite|160|Blade Squadron: Zero Hour}} {{Po}}
+*''[[Aftermath]]''
+*''[[Star Wars: Uprising]]''
+*''[[Aftermath: Life Debt]]''
+*{{Shortstory|story=SaBBotage|book=Poe Dameron 1: Black Squadron, Part I}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*{{IDWAdventuresCite|Ashcan|}}}}
+
+===Non-canon appearances===
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+*{{SW|url=explore/the-clone-wars/ep513/#!/about|text="Point of No Return" - ''The Clone Wars'' Episode Guide}} {{1stID|Gonk droid}}
+*''[[Ultimate Star Wars]]''
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[The Art of Star Wars: Uprising]]'' {{C|As "Gonk Droid"}}
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]'' {{1stID}}
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Droidography]]''
+*{{Databank|eg-86|EG-86|archivedate=20161216123933}}
+*{{Databank|gnk-droid|GNK Droid|archiveurl=https://web.archive.org/web/20171223071109/http://www.starwars.com/databank/gnk-droid}}
+*{{Databank|havoc-outpost|Havoc Outpost|archivedate=20170623044725}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Interlang
+|de=GNK-Energiedroide#kanon
+|es=Droide de energía serie GNK
+|hr=GNK power droid
+|ko=GNK 드로이드
+|nl=GNK Power Droid
+|pl=Droid zasilający GNK
+|pt=Dróide de energia GNK
+|ru=Дроид питания GNK/Канон
+|pt=Droide de força série GNK
+}}
+
+[[Category:GNK power droids| ]]
+[[Category:Industrial Automaton products]]
+[[Category:Power droid models]]

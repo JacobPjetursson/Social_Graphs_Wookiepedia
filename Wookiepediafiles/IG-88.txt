@@ -1,0 +1,126 @@
+{{Eras|legends=IG-88B}}
+{{Update|[[Tales from Wild Space: IG-88 vs. the Gatto Gang]], [[Triplecross]], [[Flight of the Falcon, Part 1: Spy Games]]}}
+{{Droid
+|image=[[File:IG-88.png]]
+|name=IG-88
+|homeworld=
+|birth=
+|death=
+|creator=
+|manufacturer=[[Holowan Laboratories]]<ref name="Updated and Expanded">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
+|line=[[IG-series]]<ref name="Updated and Expanded" />
+|model=[[IG-88 assassin droid]]<ref name="Card Trader">[[Star Wars: Card Trader|''Star Wars'': Card Trader]]</ref>
+|class=[[Assassin droid]]<ref name="Updated and Expanded" />
+|degree=[[Fourth class droid|Class 4]]<ref name="The Visual Encyclopedia">''[[Star Wars: The Visual Encyclopedia]]''</ref>
+|cost=
+|length=
+|width=
+|height=1.96 [[meter]]s<ref name="IG-88 Databank">{{Databank|ig-88|IG-88}}</ref>
+|mass=
+|gender=[[Sexes|Masculine programming]]<ref name="Updated and Expanded" />
+|sensor=[[Color|Red]]<ref name="The Empire Strikes Back">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+|plating=Chrome<ref name="IG-88 Databank" />
+|armament=*[[Blaster rifle]]s<ref name="Droid Factory">''[[Star Wars: Droid Factory]]''</ref>
+*[[Concussion disc]]s<ref name="The Visual Encyclopedia" />
+*[[DAS-430 Neural Inhibitor]]<ref name="Galactic Defense">''[[Star Wars: Galactic Defense]]''</ref>
+*[[Flamethrower]]<ref name="Droid Factory" />
+*[[Needle dart gun]]<ref name="The Visual Encyclopedia" />
+*[[Poison dart]]s<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+*[[Pulse cannon]]s<ref name="Ultimate Star Wars" />
+*[[Sonic device]]<ref name="Droid Factory" />
+*[[Toxic gas dispenser]]s<ref name="Ultimate Star Wars" />
+*[[Vibroblade]]s<ref name="Ultimate Star Wars" />
+|equipment=*[[Acid]]-proof [[Servomotor|servo]] wires<ref name="Updated and Expanded" />
+*[[Heat sensor]]<ref name="Updated and Expanded" />
+*[[Auditory sensor|Sound sensor]]<ref name="Droid Factory" />
+*[[Vocabulator|Vocoder]]<ref name="Updated and Expanded" />
+|era=
+|affiliation=}}
+{{Quote|We think, therefore we are. Therefore, we will propagate. Therefore, we will remain.|IG-88|url=https://web.archive.org/web/20170428053616/https://www.sideshowtoy.com/collectibles/star-wars-ig-88-sideshow-collectibles-1000292/}}
+'''IG-88''', also known as a '''Phlutdroid''', was a rogue, deadly [[Sexes|masculine]] [[IG-series]] [[assassin droid]] manufactured by [[Holowan Laboratories]] who worked as a [[bounty hunter]]. Following the [[Battle of Hoth]], he and several other bounty hunters were summoned by [[Anakin Skywalker|Darth Vader]] to the ''[[Executor]]'' and hired to track down the ''[[Millennium Falcon]]'' and her [[Alliance to Restore the Republic|Rebel]] crew. Unable to track his quarry, IG-88 trailed his chief rival, [[Boba Fett]], to [[Bespin]], where the bounty hunter destroyed the assassin droid. However, IG-88 managed to survive the defeat, and he later worked with [[mercenary]] [[Bazine Netal]].
+
+==History==
+{{Quote|What is ''that''?''"<br>"''IG-88. An ''actual'' bounty hunter. Also, probably interested in your data tape. He's good&mdash;one of the best in the galaxy. And he's a surprise. Take cover!|Leia Organa and Sabine Wren|Forces of Destiny: The Leia Chronicles}}
+The first of the<ref name="Sideshow">{{Cite_web|url=http://www.sideshowtoy.com/collectibles/star-wars-ig-88-sideshow-collectibles-1000292/|title=IG-88 Sixth Scale Figure by Sideshow Collectibles|accessdate=2016-08-04||author=Sideshow Collectibles|archiveurl=https://web.archive.org/web/20170428053616/https://www.sideshowtoy.com/collectibles/star-wars-ig-88-sideshow-collectibles-1000292/|archivedate=2017-04-28}}</ref> [[IG-series]]<ref name="Updated and Expanded" /> [[assassin droid]] models created in secret by [[Holowan Laboratories]], IG-88,<ref name="Sideshow" /> also known as a Phlutdroid,<ref name="Updated and Expanded" /> realized [[Sexes|his]] skill and desire to [[Death|kill]] the moment he was first activated.<ref name="Sideshow" /> He went rogue,<ref name="Ultimate Star Wars" /> and, from that moment on, became one of the most feared [[bounty hunter]]s in [[the galaxy]],<ref name="Sideshow" /> in part due to the lingering fear of [[droid]]s, particularly those capable of [[Battle droid|battle]] and [[assassin]]ation, from the [[Clone Wars]].<ref name="IG-88 Databank" /> IG-88 was also a chief rival of the notorious bounty hunter [[Boba Fett]].<ref name="Ultimate Star Wars" />
+[[File:Kallus & IG-88.jpg|left|thumb|200px|IG-88 with Agent Kallus]]
+During the [[Imperial Era|Age of the Empire]], IG-88 was hired by [[Imperial Security Bureau]] Agent [[Alexsandr Kallus]] to assist in tracking down [[Imperial Army]] deserter turned smuggler, Captain [[Han Solo]] of the ''[[Millennium Falcon]]''.<ref name="Spy Games" />
+
+Later, IG-88 teamed up with [[Hondo Ohnaka]] to collect the [[bounty]] on [[Crimson Dawn]] [[lieutenant]] [[Qi'ra|Qi'ra's]] head. Tracking Qi'ra down, IG-88 and Hondo managed to apprehend Qi'ra. Turning the bounty hunter and the [[pirate]] against each other, Qi'ra convinced IG-88 to collect the bounty on Hondo instead of the bounty on her. Attacking Hondo, IG-88 was quickly [[stun]]ned and put in [[Stuncuffs|binders]]. After Qi'ra had similarly tricked and apprehended Hondo, IG-88 was led away by Qi'ra so that she could collect the bounty on his head.<ref name="Triplecross">{{FOD|Triplecross}}</ref>
+
+Later, IG-88 [[Mission to Garel|pursued]] [[Prince]]ss [[Leia Organa]] on [[Garel]], seeking a [[data-tape]] in her possession of [[Galactic Empire|Imperial]] base locations. Organa was assisted by [[Sabine Wren]], who identified the droid, and the pair fled as the assassin opened fire in the corridors of [[Garel City Spaceport]]. However, Wren planted a [[paint bomb]], surprising IG-88 and covering him in purple paint. Leia convinced several [[stormtrooper]]s to fire at the bounty hunter, and the droid was hit by a blast before retreating.<ref name="Bounty of Trouble">{{FOD|Bounty of Trouble}}</ref>
+
+[[File:BountyHunters.jpg|thumb|200px|IG-88 and his fellow bounty hunters are briefed by Darth Vader on the ''Executor''{{'s}} bridge]]
+By the [[Standard year|year]] [[0 ABY]], IG-88 consorted with the [[crime lord]] [[Jabba Desilijic Tiure]]. He was present in the [[Hutt]]'s [[Jabba's Palace|palace]] while Jabba received [[Anakin Skywalker|Darth Vader]]. The [[Sith Lord]] told the Hutt to dispense with his audience, and IG-88, along with fellow hunters including Fett and [[4-LOM]], departed from the court.<ref name="Vader">''[[Darth Vader 1: Vader]]''</ref> In [[3 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> IG-88 answered a call put out by Vader for bounty hunters to track down the ''[[Millennium Falcon]]''. He and several other hunters, including Boba Fett, assembled aboard the ''[[Executor]]'', where Vader offered a [[bounty]] for the live capture of [[Han Solo]] and his companions.<ref name="The Empire Strikes Back" /> However, it was not IG-88 who successfully tracked the quarry<ref name="IG-88 Encyclopedia">{{SWE|characters|ig88|IG-88}}</ref> and the droid followed Fett to [[Cloud City]] on the [[planet]] [[Bespin]], where the assassin droid was left for scrap after his longtime rival caught it trailing him.<ref name="Updated and Expanded" /> Ultimately, Fett captured Solo<ref name="The Empire Strikes Back" /> and delivered the bounty to Jabba on [[Tatooine]].<ref name="Return of the Jedi">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+
+Despite being defeated by Fett,<ref name="Updated and Expanded" /> IG-88 managed to survive the encounter. Eventually, IG-88 was contacted by [[mercenary]] [[Bazine Netal]] to discuss the location of the ''Millennium Falcon''.<ref name="Spy Games">{{IDWAdventuresCite|14|[[Flight of the Falcon, Part 1: Spy Games]]}}</ref>
+
+==Characteristics==
+{{Quote|This notorious IG-series assassin droid possessed an unstoppable desire to hunt and kill his prey, earning him a reputation as one of the top five bounty hunters in the galaxy. It also earned him access to some of the best-paying clients, like Darth Vader and a wide variety of Hutts.|R0-GR|Star Wars: Droidography}}
+A rogue<ref name="Force Arena">''[[Star Wars: Force Arena]]''</ref> [[Fourth class droid|class 4]] assassin droid,<ref name="The Visual Encyclopedia" /> IG-88 was obsessed with hunting, destroying,<ref name="Updated and Expanded" /> and killing<ref name="Ultimate Star Wars" /> as a result of his incompletely formed droid programming.<ref name="Updated and Expanded" /> He tended to hunt alone<ref name="Ultimate Star Wars" /> and earned a reputation as a merciless hunter.<ref name="Updated and Expanded" />
+
+A hideous,<ref name="Updated and Expanded" /> battered chrome war droid, IG-88 stood 1.96 [[meter]]s in height.<ref name="IG-88 Databank" /> His steady aim, along with his ability to track targets with advanced [[sensor]]s<ref name="Droid Factory" /> that ringed his head and allowed him to see in all directions,<ref name="Ultimate Star Wars" /> won him great success.<ref name="Droid Factory" /> These sensors included multiple [[Color|red]] [[photoreceptor]]s,<ref name="The Empire Strikes Back" /> a [[heat sensor]],<ref name="Updated and Expanded" /> and a [[Auditory sensor|sound sensor]].<ref name="Droid Factory" /> IG-88 also had a [[Vocabulator|vocoder]] at the base of his head.<ref name="Updated and Expanded" /> His torso was able to fully rotate on the battlefield, allowing him to blast enemies on all sides.<ref name="Force Arena" /> His tough metal body allowed him to survive most attacks without taking any damage<ref name="Droid Factory" /> and featured [[acid]]-proof [[Servomotor|servo]] wires.<ref name="Updated and Expanded" />
+
+==Equipment==
+{{Quote|IG-88 could take down almost any target with his signature sniper rifle&hellip; as long as Boba Fett didn't get there first.|R0-GR|Star Wars: Droidography}}
+[[File:Ig88 05.jpg|thumb|left|225px|IG-88's remains sit in a Cloud City junk room]]
+IG-88 carried an arsenal of weapons,<ref name="Ultimate Star Wars" /> including [[blaster rifle]]s,<ref name="Droid Factory" /> [[pulse cannon]]s,<ref name="Ultimate Star Wars" /> a [[DAS-430 Neural Inhibitor]],<ref name="Galactic Defense" /> and a [[needle dart gun]]<ref name="The Visual Encyclopedia" /> that launched [[poison dart]]s.<ref name="Ultimate Star Wars" /> However, his most dangerous weapons were hidden inside<ref name="Droid Factory" /> his slender frame,<ref name="Droids">''[[Star Wars Builders: Droids]]''</ref> including a [[flamethrower]], a [[sonic device]],<ref name="Droid Factory" /> and [[toxic gas dispenser]]s.<ref name="Ultimate Star Wars" /> IG-88 also wore an ammunition [[bandolier]]<ref name="Updated and Expanded" /> that carried his [[concussion disc]]s<ref name="The Visual Encyclopedia" /> and [[vibroblade]]s.<ref name="Ultimate Star Wars" /> As an IG-series droid, he was designed to have [[blaster]]s built into each [[Limb|arm]], but they were never installed.<ref name="Updated and Expanded" />
+
+==Behind the scenes==
+{{Quote|IG-88 was never going to be more than a filler for the now infamous bounty hunter Lineup. I decided we needed a real dirty, evil, and vicious bot. Like the bounty hunters of old. Lots of weapons and protection. Dark and oily. So we made him big- 7'8"ish tall. Had to drop him down a level on set to get him in shot. Lean, but strong. In short, a killer. We started with the head. Then with all the bits, we had the rest. It just came together to us until was just right. No, some of the grown-ups were not taken with the idea. It was taking a different direction from the other bots, but I thought it should. And when someone said, "I don't think you would find a robot like that on a spaceship," my reply was, "You would on mine." The rest is history.|Bill Hargreaves, on designing IG-88|url=http://www.starwars.com/news/interview-bill-hargreaves-former-jawa-scavenger-and-galactic-prop-man}}
+IG-88, originally referred to as a "chrome war droid" in the script and also called "Phlutdroid" during production,<ref name="IG-88 Bts">{{DB|droid|ig88|IG-88}}</ref> was created for the [[1980]] film [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']].<ref name="The Empire Strikes Back" /> His mechanical puppet<ref name="IG-88 Bts" /> was constructed by [[Bill Hargreaves]] and [[Steve Short]]<ref name="Bill Hargreaves">{{SW|url=news/interview-bill-hargreaves-former-jawa-scavenger-and-galactic-prop-man|text=Interview: Bill Hargreaves&mdash;Former Jawa Scavenger and Galactic Prop Man}}</ref> of the props team and special effects department,<ref name="Costumes">''[[Star Wars Costumes: The Original Trilogy]]''</ref> whose design was a complete departure from concept artist [[Ralph McQuarrie]]'s streamlined, if not elegant, version. IG-88's cylindrical head was originally a component of the combustion assembly in a [[Wikipedia:Rolls-Royce Derwent|Rolls-Royce Derwent]] jet engine, which was previously used as part of the distillery setup seen in [[Chalmun's Cantina]] in [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']].<ref name="Prop">{{SW|url=news/5-recycled-star-wars-props-and-costumes|text=5 Recycled ''Star Wars'' Props and Costumes}}</ref> McQuarrie's early concept art of IG-88 later inspired the design of the [[IG-RM bodyguard and enforcer droid]].<ref name="Repurposed">{{SW|url=news/back-from-the-drawing-board-part-2-repurposed-star-wars-technology|text=Back From the Drawing Board, Part 2: Repurposed ''Star Wars'' Technology}}</ref>
+
+==Appearances==
+{{Imagecat|Images of IG-88}}
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars: Force Arena]]''
+*{{FOD|Triplecross}}
+*{{IDWAdventuresCite|14|[[Flight of the Falcon, Part 1: Spy Games]]}}
+*{{FOD|Bounty of Trouble}}
+*''[[Forces of Destiny: The Leia Chronicles]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*''[[Darth Vader 1: Vader]]''
+*{{IDWAdventuresCite|9|[[Tales from Wild Space: IG-88 vs. the Gatto Gang]]}}
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}}
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+
+===Non-canon appearances===
+[[File:IG88 concept btm.jpg|thumb|right|200px|Early concept art of the "chrome war droid" by Ralph McQuarrie]]
+*{{Droid Tales|Flight of the Falcon (episode)|Flight of the Falcon}} {{Flash}}
+*''[[Star Wars: Galaxy of Heroes]]''
+
+==Sources==
+*{{SWE|characters|ig88|IG-88}} {{1stID}}
+*{{InsiderCite|152|A Trip to the Light Side}}
+*''[[Star Wars Costumes: The Original Trilogy]]''
+*{{HasbroCite|set=Star Wars Rebels (toy line)|text=''Star Wars Rebels''|pack=Bossk and IG-88|link=MS11-Bossk-IG-88-Rebels-Mission-Series.asp}}
+*''[[Ultimate Star Wars]]''
+*{{HasbroCite|set=Star Wars: The Black Series|text=''Star Wars: The Black Series|pack=IG-88|link=15-IG-88-6-inch-The-Black-Series-Star-Wars-Hasbro.asp}}
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Droid Factory]]''
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: ABC-3PO]]''
+*''[[Star Wars Builders: Droids]]''
+*{{LEGOCite|eu|75167|Bounty Hunter Speeder Bike Battle Pack}}
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*''[[Star Wars: Droidography]]''
+*{{Databank|ig-88|IG-88}}
+
+==Notes and references==
+[[File:BountyHunters CloudCity.jpg|thumb|right|200px|Later McQuarrie concept art of IG-88, which eventually evoloved in the [[Star Wars Legends|''Star Wars'' Legends]] character [[IG-72]]]]
+{{Reflist}}
+
+==External links==
+*{{SW|url=news/back-from-the-drawing-board-part-2-repurposed-star-wars-technology|text=Back From the Drawing Board, Part 2: Repurposed ''Star Wars'' Technology}}
+*{{SW|url=news/5-recycled-star-wars-props-and-costumes|text=5 Recycled ''Star Wars'' Props and Costumes}}
+*{{SW|url=news/interview-bill-hargreaves-former-jawa-scavenger-and-galactic-prop-man|text=Interview: Bill Hargreaves&mdash;Former Jawa Scavenger and Galactic Prop Man}}
+
+{{Interlang
+|el=IG-88
+|ja=IG-88
+|ru=IG-88/Канон
+}}
+
+[[Category:Bounty hunters]]
+[[Category:IG-88 assassin droids]]
+[[Category:Masculine programming]]
