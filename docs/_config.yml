@@ -1,6 +1,6 @@
 title: Analysis of the Starwars Universe
 description: Using Wookieepedia and movie transcripts
-remote_theme: jeromelachaud/grayscale-theme
+remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
