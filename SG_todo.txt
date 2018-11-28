@@ -1,0 +1,13 @@
+Fancy hjemmeside
+
+Federe degree dist graf
+
+Type af network
+
+Sentiment analysis for alle film. Også for pr. karakter og pr. film
+
+explainers notebook
+
+sentiment fra wiki. Pr. race? For onde og gode? For bestemte karakterer?
+
+Fancy tabel over vigtigste personer baseret på centrality measures, ligesom i game of thrones.
