@@ -1,0 +1,1027 @@
+{{Eras|sprot|mprot|legends=Palpatine/Legends}}
+{{Otheruses|Palpatine}}
+{{Update|[[Darth Maul, Part I]], [[Darth Maul, Part II]], [[Darth Maul, Part V]], [[Star Wars: Darth Vader: Dark Lord of the Sith]], [[Thrawn: Alliances]], [[Palpatine (short story)|Palpatine]],  [[Doctor Aphra 13: The Enormous Profit, Part V]], [[Star Wars 37: Imperial Pride]], [[Star Wars: The Rebel Files]], [[Star Wars: On the Front Lines]], [[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]}}
+{{Image}}
+{{Character
+|type=Sith
+|image=[[File:Emperor_Sidious.png]]
+|name=Darth Sidious
+|homeworld=[[Naboo]]<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+|birth=c. [[84 BBY]],<ref name="Age Note">''[[Tarkin (novel)|Tarkin]]'' indicates that Darth Sidious was born approximately 65 years before the rise of the [[Galactic Empire]], as depicted in [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]. Using simple math, we can deduce that Sidious was born 84 years before the [[Battle of Yavin]], which was depicted in [[Star Wars: Episode IV A New Hope|''Star Wars'' Episode IV ''A New Hope'']] and took place 19 years after the events of ''Revenge of the Sith''.</ref> Naboo<ref name="Tarkin">''[[Tarkin (novel)|Tarkin]]''</ref>
+|death=[[4 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[Death Star II]], [[Endor system]]<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+|species=[[Human]] {{C|[[Naboo (people)|Naboo]]}}<ref name="SWEPalpatine">{{SWE|characters|palpatine|Palpatine}}</ref>
+|gender=[[Sexes|Male]]<ref name="SWEPalpatine" />
+|height=1.73 [[meter]]s<ref name="DBPalpatine">{{Databank|emperor-palpatine-darth-sidious|Emperor Palpatine/Darth Sidious|archiveurl=https://archive.is/XOOYg}}</ref>
+|mass=75 [[kilogram]]s<ref name="SWJB">''[[Star Wars Journeys: Beginnings]]''</ref>
+|hair=[[Color|Red]],<ref name="Episode I" /> later white<ref name="Episode I" />
+|eyes=Blue,<ref name="Episode I" /> yellow {{C|[[Dark side of the Force|dark side]]}}<ref name="Episode VI" />
+|skin=Light,<ref name="Episode I" /> later pale<ref name="Episode VI" />
+|cyber=
+|era=
+|affiliation=*[[Sith|Sith Order]]<ref name="Episode I" />
+*[[Royal House of Naboo]]<ref name="Episode I" />
+*[[Galactic Republic]]<ref name="Episode I" />
+**[[Galactic Senate]]<ref name="Episode I" />
+*[[Trade Federation]]<ref name="Episode I" />
+*[[Confederacy of Independent Systems]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+*[[Galactic Empire]]<ref name="Episode VI" />
+|masters=[[Darth Plagueis]]<ref name="BioGal1">{{Databank|darth-sidious-biography-gallery|Darth Sidious Biography Gallery|archivedate=20170812190822}} {{C|Image 1 caption}}</ref>
+|apprentices=*[[Maul|Darth Maul]]<ref name="Episode I" />
+*[[Dooku|Darth Tyranus]]<ref name="Episode II" />
+*[[Anakin Skywalker|Darth Vader]]<ref name="Episode V">[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]</ref>
+*[[Inquisitorius]]<ref name="Dark Lord 6">''[[Darth Vader: Dark Lord of the Sith 6: The Chosen One, Part VI]]''</ref>}}
+{{Quote|Everything is proceeding as I have foreseen.|Darth Sidious|audio=AsIHaveForeseen-ROTJ.ogg|Star Wars: Episode VI Return of the Jedi}}
+'''Darth Sidious''', a [[Force-sensitive]] [[human]] [[Sexes|male]], was the [[Dark Lord of the Sith]] who [[Proclamation of the New Order|founded]] the [[Galactic Empire]] after toppling its predecessor, the [[Galactic Republic]] from within. Prior to his term as [[Supreme Chancellor]] and subsequent reign as the [[Galactic Emperor]], Sidious was [[Reproduction|born]] approximately [[84 BBY|eighty-four years]] before the [[Battle of Yavin]] and given the name '''Sheev Palpatine''' during the [[Republic Era|Age of the Republic]]. A [[Naboo (people)|native]] of the [[Mid-Rim]] [[planet]] [[Naboo]], Palpatine pursued a career in [[politics]] and eventually became his [[homeworld]]'s representative in the [[Galactic Senate]]. Although he cultivated the persona of an honest and trustworthy public servant, [[Senator]] Palpatine was an ambitious [[Sith Lord]] who learned the ways of the [[dark side of the Force]] during his secret [[Sith apprentice|apprenticeship]] under [[Darth Plagueis]]. Following in a lineage of Dark [[Lord]]s that began with [[Darth Bane]], who reformed the [[Sith]] a [[millennium]] prior to the [[Fall of the Republic]], Sidious spent [[Standard year|years]] conspiring to restore his Order to [[Galaxy|galactic]] dominance. After [[Death|killing]] his [[Sith Master]], he trained an apprentice of his own, the [[Dathomirian]] [[assassin]] [[Maul|Darth Maul]] in accordance with the [[Rule of Two]]&mdash;Bane's decree that there should only be two Sith Lords at any given [[time]].
+
+In [[32 BBY]] the [[Trade Federation]] [[Invasion of Naboo|invaded Naboo]] under Sidious' orders. Using the situation to his advantage, he [[Advisor|manipulated]] his [[Monarch of Naboo|monarch]], [[Queen]] [[Padmé Amidala]] into leading the Senate to [[Vote of No Confidence|remove]] Chancellor [[Finis Valorum]] from office, thereby enabling Palpatine to replace him as the next and last Supreme Chancellor of the Republic. Despite the loss of his apprentice during the [[Battle of Naboo]], Sidious' plans proceeded apace with the aid of Maul's replacement&mdash;the fallen [[Jedi Master]] [[Count]] [[Dooku]], who assumed the name of [[Darth]] Tyranus after turning away from the [[Jedi Order]] he once served. Together, Master and apprentice engineered a [[Separatist Crisis|secessionist movement]] that tore the thousand-year [[Democracy|democratic union]] asunder, leaving the galaxy divided and on the brink of war between the Republic and the newly-formed [[Confederacy of Independent Systems]]. Hence, in [[22 BBY]] the galaxy fell into a state open war for the first time since the formation of the Republic. Having masterminded the conflict, Sidious was able to control both governments throughout the [[Clone Wars]]. Near the war's end in [[19 BBY]], several members of the [[Jedi High Council]] moved to [[Duel in Palpatine's office|arrest]] the Chancellor upon discovering his true identity as the Dark Lord. The attempt ultimately failed, however, due to the [[Jedi Knight]] [[Anakin Skywalker]], whom Sidious influenced into betraying the [[Jedi]]. Replacing the late Tyranus with Skywalker, who adopted the name of Darth Vader as Sidious' third and final apprentice, the Sith Lords initiated [[Order 66]] and, therefore, began a [[Jedi Purge|systematic purge]] that all but annihilated the Jedi Order.
+
+After the fall of the Jedi, the [[Cloning|Clone]] Wars ended with Sidious' ascension as Emperor of the First Galactic Empire. Under the [[New Order]] program, the last vestiges of the Republic gradually disappeared. In [[0 BBY]] the Emperor formally [[Dissolution of the Imperial Senate|disbanded]] the [[Imperial Senate]] and would henceforth rule by delegating authority to an upper cadre of regional [[governor]]s known as [[Moff]]s, such as [[Grand Moff]] [[Wilhuff Tarkin]]. Shortly afterward, however, the [[Death Star]]&mdash;a [[moon]]-sized [[battle station]] with the [[Superweapon|capacity to obliterate entire planets]]&mdash;was destroyed by the [[Alliance to Restore the Republic]] in the Battle of [[Yavin]]. As the galaxy fell into another state of all-out war, known as the [[Galactic Civil War]], the Emperor tasked his apprentice to hunt down and eradicate the Rebels, all the while constructing a [[Death Star II|second Death Star]] in the [[Endor system]]. Despite the challenge to his reign, Sidious grew increasingly occupied by his fascination with the [[Unknown Regions]] and, therefore, commissioned the exploration of that vast region of [[Realspace|space]]. By then, Sidious also learned that Vader sired a son, [[Luke Skywalker]], who [[Jedi training|trained]] to become a Jedi Knight like his [[Parent|father]] before him. Sensing an opportunity to replace his [[Cyborg|hobbled]] disciple with a younger and stronger pupil, Sidious tried to turn the [[Padawan|aspiring Jedi]] to the dark side and even manipulated him into [[Lightsaber duel|dueling]] with Vader during the [[Battle of Endor]] in [[4 ABY]]. However, in failing to turn Skywalker from the [[light side of the Force]], he unleashed the power of the dark side by [[Torture|torturing]] the young Jedi with a barrage of [[Force lightning]]. But the agony he inflicted on his apprentice's son caused the former Anakin Skywalker to overthrow his dark Master at the cost of his own life, resulting in the complete destruction of the Sith as foretold in the prophecy of the [[Chosen One]].
+
+While Sidious had been defeated, the Empire would attempt to maintain the charade of his survival, while struggling to fill the void left by his absence. But Sidious had never intended to be replaced. Prior to his demise, he created the [[Contingency]] to seemingly [[Operation: Cinder|destroy the Empire]] in the event of his death, propagating the idea that Sidious believed the Empire did not deserve to survive without its Emperor. As a consequence, the Imperial remnants were further weakened and less able to resist the [[New Republic]] during the waning [[Standard day|days]] of the Galactic Civil War. Ultimately, the Empire [[Galactic Concordance|capitulated]] the war after the [[Battle of Jakku]] in [[5 ABY]], ending the [[Imperial Era|era]] founded by Darth Sidious. Following his death, Sidious' legacy became the base of what became the [[First Order]], an hermit state led by [[Supreme Leader]] [[Snoke]], who was also a practitioner of the dark side of the Force. The reign of Snoke would untimely end with his death at the hands of his own apprentice and Skywalker's grandson [[Kylo Ren]], who succeeded his master as the new Supreme Leader, desiring to let the past die along the Jedi and the Sith.
+
+==Biography==
+===Early life and political career===
+{{Quote|My mentor taught me everything about the Force, even the nature of the dark side.|Sheev Palpatine, to Anakin Skywalker|Star Wars: Episode III Revenge of the Sith}}
+[[File:Senator_palpatine.png|thumb|left|300px|Senator Sheev Palpatine represented Naboo in the Galactic Senate during the decline of the Republic.]]
+A [[human]] [[Sexes|male]], Sheev Palpatine was [[Reproduction|born]] to a very influential family on the Mid Rim [[planet|world]] of [[Naboo]] some 84 [[Standard year|years]] prior to the [[Battle of Yavin]].<ref name="Tarkin" /> As far as anyone knew, Palpatine had no family of which to speak.<ref name="Aftermath: Life Debt">''[[Aftermath: Life Debt]]''</ref> At some point, during his youth, he met [[Darth Plagueis]], a [[Dark Lord of the Sith]], who took him as an [[Sith apprentice|apprentice]] with the name of Darth Sidious. As Sidious, he learned all his Master knew about the [[dark side of the Force]], and all the Sith of [[Darth Bane]]'s [[Rule of Two|lineage]] had learned about the Force. He was also made aware of Plagueis's discovery of the secret to eternal life: his Master had learned to manipulate the [[midi-chlorian]]s, and prevent people from [[Death|dying]]. Plagueis's obsession with extending his own life eventually passed to Sidious, but he later admitted that he had never been able to learn his Master's secrets. In his public persona as Sheev Palpatine, he embarked on a career in [[politics]] and eventually, with the aid of his Master, ended up [[Senator|representing]] his [[homeworld]] in the [[Galactic Senate]]. With his rise to power guaranteed and his Master's instruction complete, Sidious killed Plagueis in his sleep, betraying him just as Sith apprentices in the past had always done with their Masters once their training was completed.<ref name="Tarkin" /><ref name="SWCT">[[Star Wars: Card Trader|''Star Wars'': Card Trader]]</ref><ref name="ROTS">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+
+Once elected as Senator for Naboo, he quickly joined Chancellor [[Kalpana]]'s ruling party, and noticed the fervent bickering and corruption that mired the [[Galactic Republic]]. He began to establish relations with those who'd become his future collaborators, such as [[Wilhuff Tarkin]]. The duo met for the first time when Tarkin was still a cadet of the [[Sullust Sector Spacefarers Academy]], and while Palpatine was still apprenticed to Plagueis. Taking an interest in the younger man, Senator Palpatine resolved to help him to join the [[Judicial Department]], according to Tarkin's desire, but advised him to also consider a political career. In the following years, their relationship became more and more confidential. Palpatine often lauded Tarkin for his talents and skills and remarked they were very similar: they both came from planets at the edge of the galaxy, but destined to have great repercussions on the galactic history. Tarkin eventually became one of the few people who called Palpatine by his first name.<ref name="Tarkin" />
+
+[[File:DarthSidiousEpisodeI.jpg|right|thumb|175px|Darth Sidious around the time of the Invasion of Naboo.]]
+Keeping his [[Sith]] identity a secret from the public eye, Sidious took it upon himself to execute the Sith's long-percolating plan to supplant the Republic with a new [[Galactic Empire|Sith Empire]], and destroy the [[Jedi Order]]. Seeking a Sith apprentice, Sidious traveled to the planet [[Dathomir]] and met with the [[Dathomirian]] [[Nightsisters|Nightsister]] [[Mother (title)|Mother]] [[Talzin]]. Intermingling his knowledge of the dark side of the Force with Talzin's knowledge of Nightsister [[magick]]s, Sidious promised to make Talzin his apprentice and right hand. However, Sidious betrayed Talzin and kidnapped her infant son, the [[Zabrak]] [[Nightbrothers|Nightbrother]] who would become his true Sith apprentice, [[Maul|Darth Maul]]. Sidious brutally trained Maul to be a weapon of the Sith, viewing Maul's prowess and combat abilities as an invaluable asset to his master plan.<ref name="SWESidious">{{SWE|characters|darthsidious|Darth Sidious}}</ref><ref name="SonOfDathomir3">''[[Darth Maul—Son of Dathomir, Part Three]]''</ref><ref name="SWEMaul">{{SWE|characters|darthmaul|Darth Maul}}</ref>
+
+As Sidious furthered Maul's training, he came into contact with [[Jedi Master]] [[Dooku]], one of the most respected and powerful Jedi of the Order. A political thinker as well as a Jedi, he had grown increasingly disgusted with the corruption found within the Republic. Gradually, Sidious managed to lure Dooku to the dark side, and used him to further his own agenda.<ref name="TCW Lost Missions Q&A">{{SWYoutube|video=https://youtu.be/KGBdRW7jjUk|text=Sifo-Dyas and the Sith: The Clone Wars - The Lost Missions Q&A}}</ref><ref name="SWEDooku">{{SWE|characters|dooku|Count Dooku}}</ref>
+
+===War on Naboo===
+====Invasion of Naboo====
+{{Quote|At last we will reveal ourselves to the Jedi. At last we will have revenge.|[[Maul|Darth Maul]] speaking to his master|audio=RevengeAtLast-TPM.ogg|Star Wars: Episode I The Phantom Menace}}
+Palpatine moved to seize power from [[Supreme Chancellor]] [[Finis Valorum]], who had virtually no political power and counted Palpatine as a close friend and ally, allowing for Palpatine to easily manipulate him.<ref name="SWEValorum">{{SWE|characters|valorum|Supreme Chancellor Valorum}}</ref> Through holographic communication, Palpatine conspired with [[Trade Federation]] [[Viceroy]] [[Nute Gunray]] to blockade the planet Naboo in protest of the Senate's taxation of trade routes in outlying star systems. Driven to desperation by the inactivity of the Senate, Valorum secretly dispatched two [[Jedi Knight]]s—Master [[Qui-Gon Jinn]] and his [[Padawan]] [[Obi-Wan Kenobi]]—as ambassadors to negotiate with the Federation's [[Neimoidian]] leaders.<ref name="Episode I" />
+
+Upon learning of the ambassadors' identities, Sidious ordered the immediate [[Invasion of Naboo|invasion]] of Naboo and execution of the two Jedi; when Gunray questioned the legality of such an action, Sidious simply stated that he would make it legal. The Neimoidians acted accordingly, but the Jedi survived the assassination attempt and escaped the [[Lucrehulk-class Battleship|Federation ship]]. After Palpatine terminated his communication with Gunray, [[Queen]] [[Padmé Amidala]] contacted him concerning the Federation's denial that the Chancellor had sent ambassadors to speak with them as promised. Palpatine feigned concern at this supposed revelation, but was cut off mid-sentence by the Trade Federation's communication blackout, notifying the Naboo to their invasion.<ref name="Episode I" />
+
+The Federation's [[droid]] army proceeded with their assault. Within a day, the army [[Capture of Theed|occupied]] the planet's capital city of [[Theed]] and its surrounding regions. Additionally, Amidala and her retinue were captured and presented with a treaty that would bring an air of legitimacy to their invasion. However, the Jedi arrived to rescue them, and they successfully evaded the blockade aboard the queen's [[J-type 327 Nubian royal starship|starship]].<ref name="Episode I" />
+
+[[File:Sith Lords Trade Federation.png|thumb|left|300px|Sidious introduces his apprentice to the Neimoidians.]]
+When Gunray informed Sidious of Amidala's failure to sign the treaty, the livid Sith Lord introduced them to Darth Maul, whom he dispatched to find and recapture Amidala. Due to Amidala's ship sustaining damage in the escape, the queen opted to land on [[Tatooine]], an obscure desert world in the [[Outer Rim Territories]], to repair the ship. Maul managed to ascertain the queen's location, and assured his master that his search on the sparsely populated world would be a short one. Sidious told him to move against the Jedi first, and then take the queen once they were dead. Maul left for Tatooine, but he [[Duel on Tatooine|failed]] to kill the Jedi or retrieve Amidala.<ref name="Episode I" />
+
+====Valorum's fall and Palpatine's rise====
+{{Quote|Enter the bureaucrats, the true rulers of the Republic, and on the payroll of the Trade Federation, I might add. This is where Chancellor Valorum's strength will disappear.|Palpatine to Queen Amidala|Star Wars: Episode I The Phantom Menace}}
+[[File:Amidalabeforesenate.jpg|thumb|right|300px|Palpatine swayed his queen into calling for a Vote of No Confidence in Chancellor Valorum.]]
+Despite these setbacks, Palpatine was able to convene with Amidala on [[Coruscant]], where she intended to plead her case to Chancellor Valorum before the Galactic Senate. Bringing Amidala to his apartment for an audience, Palpatine told the queen that the senate was long past caring about the common good, while Valorum was essentially powerless against them. With both the Senate and Valorum closed off to her as options, Palpatine offered her two choices: she could move for a [[Vote of No Confidence]] in Chancellor Valorum, and push for the election of a more effective leader; or she could take the matter to the courts, which would take even longer. Desiring more immediate action to save her people, Amidala opted for the former.<ref name="Episode I" />
+
+During the awaited Senate session, Federation representative [[Lott Dod]] fervently objected to Palpatine and Amidala's statements, and moved for a committee to investigate their "accusations", while [[Vice Chair]] [[Mas Amedda]] kept Valorum shackled by procedure, forcing him to concede that the Federation was within their rights. Outraged, Amidala pushed for the Vote of No Confidence. Within moments, hundreds of Senators were arguing over Amidala's decision, leaving Valorum thunderstruck.<ref name="Episode I" />
+
+The sudden power vacuum led to Palpatine's nomination as Supreme Chancellor alongside [[Bail Antilles]] of [[Alderaan]] and [[Ainlee Teem]] of [[Malastare]]. When he announced his nomination to Amidala, however, the queen declared her intention to return to Naboo and reclaim it from the Trade Federation by whatever means she could. Palpatine made a show of concern and tried halfheartedly to convince her to stay on Coruscant. She left anyway, taking both Jinn and Kenobi with her for protection.<ref name="Episode I" />
+
+====Battle of Naboo====
+{{Quote|Wipe them out. ''All'' of them.|Darth Sidious to Nute Gunray|Star Wars: Episode I The Phantom Menace}}
+Sidious contacted the Neimoidians on Naboo, instructing them to kill Amidala upon arrival, and sent Maul to accompany them with orders to make certain the Neimoidians killed the queen, and that the Jedi fell by his own hand. Even while he managed the election on Coruscant, he made time to go over the Neimoidians' progress. Against his expectations, he learned that Amidala not only managed to escape Gunray's reach, but also forged an alliance with the [[Gungan]]s and assembled an army in the planet swamp in preparation for a strike against the Federation occupation force. He doubted she would last even five minutes in such a contest, and gave his approval to Gunray's plan to [[Battle of Naboo|meet]] the Gungans head-on.<ref name="Episode I" />
+
+[[File:Mourning Qui-Gon.png|thumb|left|300px|Palpatine attended Qui-Gon Jinn's funeral.]]
+Ultimately, Palpatine won the election for Supreme Chancellor. However, the Federation army was defeated, Gunray was captured by Amidala's forces, and Maul met his presumed death at the hands of the Jedi Obi-Wan Kenobi, though not before striking down Qui-Gon Jinn, whose [[Jedi funeral|funeral]] Palpatine would later attend. Palpatine also learned that the Naboo owed their victory to the unexpected intervention of [[Anakin Skywalker]], a young, freed slave from Tatooine who was highly attuned to the Force, fueling the belief that he was the [[Chosen One]] of Jedi prophecy who would bring balance to the Force. After much debate, the Jedi Council decided that Skywalker would be apprenticed to Kenobi as a Jedi. Palpatine personally congratulated the two Jedi during the celebration on Naboo, telling young Skywalker that his career would be watched with "great interest".<ref name="Episode I" />
+
+===Further preparations===
+Over the next ten years,<ref name="explEPII">{{SW|url=explore/the-movies/episode-ii/|text=Star Wars: Episode II - Attack of the Clones}} {{C|Story Gallery: Slide 4}}</ref> Supreme Chancellor Palpatine amassed a favorable reputation as a mild-mannered servant of the common good, and the public remained oblivious to his true, insidious persona. As Anakin Skywalker grew older, his relationship with Palpatine deepened; on many occasions, Palpatine lauded Skywalker as the most gifted Jedi he had ever encountered, one who would surpass even [[Yoda]], the [[Grand Master]] of the Jedi Council. Skywalker, who grew increasingly frustrated with the strict lifestyle of the Jedi under his master Kenobi's guidance, admired Palpatine's praise and greatly took to his counsel. In truth, this was all part of Sidious' plan to gain Skywalker's trust and groom him into his new Sith apprentice.<ref name="SWEPalpatine" /><ref name="Episode II" />
+
+With Maul's defeat, Sidious found himself in need of a new apprentice, and so he turned to Dooku to fill that role. Dooku left the Jedi Order, reclaiming his wealth and title as the [[Count]] of [[Serenno]].<ref name="SWEDooku" /> With the turn of Dooku—anointed Darth Tyranus—the Sith [[Mission to Oba Diah (pre–Naboo Crisis)|orchestrated]] the death of Jedi Master [[Sifo-Dyas]] and took over his clientele for the commission of a [[Cloning|clone]] army produced on [[Kamino]]; the event was subsequently covered up when Dooku erased all records of Kamino from the [[Jedi Archives]].<ref name="TLO">{{TCW|The Lost One}}</ref> Subsequently, [[bounty hunter]] [[Jango Fett]] was hired as the clones' genetic template, and the clones were fitted with a [[Control chip|bio-chip]] containing a [[Order 66|protocol]] that would ensure their total obedience to Sidious when the time came for it.<ref name="Episode II" /><ref name="Conspiracy">{{TCW|Conspiracy}}</ref>
+
+====Galli and the Contingency====
+{{Quote|You will go back to Jakku. The spot there in the dirt where my droids were operating is precious. Not just to me, but to the galaxy at large. It is significant... You will go back there and you will monitor my droids excavating the ground. Then I will send more droids and they will build something there below the ground. I want you to guard this space. Can you do that?|Palpatine's first order to Galli|Aftermath: Life Debt}}
+In [[30 BBY]], Palpatine and his Adviser [[Yupe Tashu]] traveled to the barren [[Inner Rim]] planet of [[Jakku]], which lay at the edge of the [[Unknown Regions]]. After landing his yacht ''[[Imperialis]]'' in the [[Plaintive Hand plateau]], Tashu ordered a detachment of six droids to begin excavating. The yacht soon left offworld but a local twelve-year old boy named [[Gallius Rax|Galli]] sneaked aboard the ''Imperialis''. Palpatine sensed his presence and gave the boy the choice of dying or serving him. Palpatine then instructed Galli to return to the excavation site and guard it from any intruders. He stressed that intruders should not be allowed to taint the site and ordered Galli to kill them. Palpatine then introduced himself on a first-name basis as Sheev.<ref name="Aftermath: Life Debt" /><ref>[[Gallius Rax]]'s prelude and epilogue chapters in ''[[Aftermath: Life Debt]]'' occur roughly three decades before the events of the [[Battle of Jakku]], when the character was twelve years old.</ref>
+
+For the next ten years, Galli guarded the Plaintive Hand excavation site. In [[20 BBY]], Palpatine returned and invited the boy aboard the ''Imperialis'' this time as a guest of honor. By that stage, work on the [[Jakku Observatory]] had been completed. Using a game of [[Shah-tezh]] as an illustration, Palpatine explained that his future Galactic Empire could not be allowed to outlive its [[Galactic Emperor|Emperor]] should he die prematurely. To demonstrate his seriousness, Palpatine [[Force choke]]d Galli. He tasked Galli with executing his secret [[Contingency]] plan and inducted the boy into Imperial service.<ref name="Empire's End">''[[Aftermath: Empire's End]]''</ref> Galli subsequently joined the [[Naval Intelligence Agency]] as a [[Commander]]<ref name="Aftermath: Life Debt" /> and adopted the name Gallius Rax.<ref name="Empire's End" />
+
+====Laying the foundations====
+{{Quote|I want you to know that there is always a place for you with me. Once your training is complete, of course.|Supreme Chancellor Palpatine, to Anakin Skywalker|Obi-Wan & Anakin, Part IV}}
+As Anakin Skywalker grew older, the relationship between Palpatine and the young Jedi greatly deepened. On many occasions the Chancellor attended the boy's training at the [[Imperial Palace|Jedi Temple]] expressing appreciation for the progress reached by the young Padawan in lightsaber combat. He could notice that he was deeply conditioned by his emotions and he asked Master [[Mace Windu]] to send Skywalker to him, saying he could help with the boy's formation.<ref name="O&A I">''[[Obi-Wan & Anakin, Part I]]'' </ref> When Skywalker arrived, accompanied by his Master Obi-Wan Kenobi, Palpatine asked to be accompanied for an errand in the [[Coruscant underworld|lower levels]] of Coruscant. Master Kenobi reminded him that Anakin was not yet a Jedi and that they could face dangerous situations, but Palpatine seemed not too worried about it. So, disguised as travelers, the duo reached the [[Level 2685]] a place in which Palpatine, according to what he said to Anakin, often went when his duties permitted it, to try to do some good. Eventually they came to the [[Club Kasakar]].<ref name="O&A II">''[[Obi-Wan & Anakin, Part II]]'' </ref>
+
+There, Palpatine expressed some form of envy in the life of young Jedi Padawans, that was already decided from an early age, in difference with his political life, one of troubling choices and difficult decisions. He also explained that the Club was full of Senators. In particular, he pointed out Senator [[Colandrus]], a [[Tarsunt]] who often went there for gambling. While the Tarsunt senator was betting at a game table, Palpatine said that Colandrus was corrupt, but there were no proofs of it. Inspired by that unflattering description Anakin used the [[Telekinesis|telekinetic]] [[Force power|Jedi power]] to rig Colandrus' last [[Chance cube|dice]], making him lose large sums of [[Credit|money]]. Hearing the disguised Palpatine laugh at his misfortune, Colandrus sicced his [[bodyguard]] on him, but the Chancellor defused the situation by explaining that "his son" had just made a joke, and promised that they would leave at once. Still unconvinced, Colandrus nevertheless allowed the cloaked nuisances to go freely. <ref name="O&A III">''[[Obi-Wan & Anakin, Part III]]''</ref>
+
+Once the duo returned back to the Chancellor's office, Palpatine "apologized" to Anakin for involving him in a Senate matter. Anakin said the Jedi could arrest Senator Colandrus, but Palpatine replied that the Jedi weren't required to obey him because if they did, he would be like a dictator and that wasn't his wish. He also told the boy not to talk about what had happened to them with his masters and further asked if Anakin was happy in the temple. When the Padawan answered positively, Palpatine felt the truth of it through the Force. Eventually, Palpatine thanked him for his decisive role in the Battle of Naboo, and said there would always be a place for Anakin near him, and that he could make extraordinary use of a young man like Anakin.<ref name="O&A IV">''[[Obi-Wan & Anakin, Part IV]]''</ref>
+
+===The Clone Wars===
+====Separatist crisis====
+{{Quote|I love democracy... I love the Republic. The power you give me I will lay down when this crisis has abated. And as my first act with this new authority, I will create a Grand Army of the Republic to counter the increasing threats of the Separatists.|Palpatine upon receiving his emergency powers at the beginning of the Clone Wars|Star Wars: Episode II Attack of the Clones}}
+Under Sidious' direction, Dooku rallied several thousand solar systems into declaring independence from the Galactic Republic, [[Separatist Crisis|forming]] the [[Confederacy of Independent Systems]] with himself as its leader. Many commercial organizations—including the Trade Federation—pledged their droid military forces to this Confederacy. With civil war imminent and the Jedi's numbers too few to maintain galactic peace, the Senate pushed for a vote to [[Military Creation Act|create]] a [[Grand Army of the Republic]].<ref name="Episode II" />
+
+Upon arriving in Coruscant to vote on the matter, Palpatine's successor as Senator of Naboo, former Queen Padmé Amidala, narrowly avoided an [[Plot to assassinate Padmé Amidala|assassination attempt]] carried out by [[Zam Wesell]] on behalf of the vengeful Nute Gunray. Palpatine had the vote delayed and placed the senator under the protection of Obi-Wan Kenobi and Anakin Skywalker, her old allies from the Battle of Naboo. After a second attempt on the senator's life was made, Skywalker was assigned to protect her back on her homeworld of Naboo. There the two secretly started to fall in love which, coupled with Skywalker's later [[Mission to rescue Shmi Skywalker Lars|discovery]] of his mother [[Shmi Skywalker Lars|Shmi's]] death at the hands of [[Tusken Raider]]s on the planet Tatooine, would bring the young Jedi ever closer to the dark side of the force, and even more vulnerable to Sidious' deceptive machinations.<ref name="Episode II" />
+
+[[File:ILoveDemocracy-AOTC.jpg|thumb|right|250px|Palpatine accepts emergency powers.]]
+However, when it was revealed that the Separatists were secretly building a battle droid army, Palpatine used the situation to have himself granted emergency powers from the Senate by Representative Jar Jar Binks. Palpatine feigned reluctance to accept this authority, promising to return it to the Senate once the crisis ended. His first act was to allow the use of the clone army, which was [[Mission to Kamino (Separatist Crisis)|discovered]] by Kenobi on Kamino, to counter the Separatist threat; this resulted in the [[Battle of Geonosis]], which served as the opening salvo of the [[Clone Wars]]. After clone template Jango Fett was killed and the Separatist partners escaped the battle, Dooku met with Sidious at the [[Inquisitorius Headquarters|Coruscant tower]] in [[The Works]] with not only good news that the war the Sith had been orchestrating had begun, but with plans for a Geonosian [[DS-1 Orbital Battle Station|superweapon]] that may be of use for their future Sith-led regime. Sidious was pleased with these turn of events, and later with the leaders of the Senate oversaw the new Republic army marching towards war, while Skywalker and Amidala secretly [[Wedding of Anakin Skywalker and Padmé Amidala|wed]] on Naboo with their two droids [[C-3PO]] and [[R2-D2]] as witnesses, which Sidious would later use as an advantage to lure Skywalker to become his next apprentice.<ref name="Episode II" />
+
+====Negotiations with the Hutts====
+{{Quote|Soon, the Jedi will not only be at war with you, Count, but with the Hutt clan as well.|Darth Sidious, to Darth Tyranus and Asajj Ventress|audio=WithTheHuttClanAsWell-TCWf.ogg|Star Wars: The Clone Wars (film)}}
+After the Confederacy's Droid Army seized control of the major hyperspace lanes, Sidious had Dooku and his assasin [[Asajj Ventress]] kidnap the [[Hutt Clan]]s' [[Grand Hutt Council|Council]] leader, [[Jabba Desilijic Tiure|Jabba]]'s son [[Rotta]]. After he was taken to [[Teth]], Sidious contacted both Ventress and Dooku. He assured them that the Jedi would be at war with the Hutts as well the Confederacy.<ref name="TCW film"/>
+
+Palpatine then received a message from , asking for help in rescuing his infant son, [[Rotta]]. Despite Master Windu's reservations about allying the Republic with the Hutt, Palpatine knew they need the the Hutt's space lanes to move their troops. Despite General Grievous spreading the Republic forces thin, Windu told Palpatine that Skywalker and Kenobi could carry out the rescue. During the rescue, Palpatine learned that Jabba believed that the Jedi were behind his son's kidnapping and told Senator Amidala of this. Jabba refused to speak with him, so Amidala decided to speak with Jabba's uncle [[Ziro]] at his [[Ziro's Palace|palace]], despite Palpatine's warning. Kenobi, Skywalker, and his new [[Padawan]], [[Ahsoka Tano]] were able to return Rotta to his father and secure a treaty with the Hutts. Sidious spoke with his apprentice about this setback. He assured Dooku that the war was turning in their favor.<ref name="TCW film">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]</ref>
+
+====Gunray's capture====
+Palpatine learned that Senator Amidala and Representative Binks had gone to Rodia to speak with Senator Farr about his starving people.<ref name="Bombad Jedi">{{TCW|Bombad Jedi}}</ref>
+
+====Chancellor at war====
+As the war got underway, Dooku [[Skirmish at Vanqor|crash-landed]] his ship on [[Vanqor]] and was captured by the [[Ohnaka Gang]]. Kenobi and Skywalker were sent to verify their leader [[Hondo Ohnaka]]'s demand for a reward, and then sent Senator [[Kharrus]] and Representative Binks to [[Mission to Florrum|deliver]] it. In any event, Dooku escaped.<ref name="Dooku Captured">{{TCW|Dooku Captured}}</ref>
+
+Sidious paid [[Cad Bane]] to [[Mission to the Jedi Temple|steal]] a [[Holocron]] from the [[Jedi temple|Jedi Temple's]] [[Holocron Vault]],<ref name="Holocron Heist">{{TCW|Holocron Heist}}</ref> which when used in conjunction with the [[kyber memory crystal]] would reveal the location of [[Force-sensitive]] infants across the galaxy.<ref name="Cargo of Doom">{{TCW|Cargo of Doom}}</ref> He had Bane kidnap these children to his facility on [[Mustafar]] to commence the creation of an army of Force-sensitive spies, but the Jedi foiled Bane and [[Mission to Mustafar (Skywalker and Tano)|rescued]] the [[youngling]]s.<ref name="Children of the Force">{{TCW|Children of the Force}}</ref>
+
+[[File:Dr Boll confers with Palpatine.jpg|thumb|left|300px|Palpatine and Dr. Boll determine the Zillo Beast's future.]]
+During the [[Battle of Malastare]], the [[Zillo Beast]] was inadvertently awakened and Palpatine wanted the creature killed, but changed his mind when [[Doctor]] [[Sionver Boll]] and Skywalker pointed out the beast's indestructible hide could prove fruitful if analyzed. The Zillo Beast was instead rendered unconscious, and transported to Coruscant. It broke out of its restraints and [[Zillo Beast incident|rampaged]] through the [[Federal District|Senate District]] before being killed with [[poison]] gas. Palpatine ordered Boll to clone the animal.<ref name="The Zillo Beast">{{TCW|The Zillo Beast}}</ref><ref name="The Zillo Beast Strikes Back">{{TCW|The Zillo Beast Strikes Back}}</ref>
+
+During the [[Senate hostage crisis]], Cad Bane demanded [[Ziro Desilijic Tiure|Ziro]] the Hutt be released from [[prison]] in exchange for the hostages' release. Palpatine reluctantly complied after Skywalker was subdued by Bane's gang.<ref name="Hostage Crisis">{{TCW|Hostage Crisis}}</ref>
+
+The following year,<ref name="Canon dates1">{{TCWcanondates|312}}</ref> while the Senate was considering [[Republic financial reform bill|deregulating]] the banks to increase funding for the war. Palpatine was soon informed by Amidala that the [[Separatist Senate]], led by [[Mina Bonteri]], was considering [[Confederate–Republic peace initiative|peace negotiations]]. Dooku had the [[central power distribution grid]] [[Bombing of Coruscant's central power distribution grid|bombed]], and then staged another [[Attack on Confederate people|attack]] on the Confederacy, which killed Bonteri and was blamed on the Republic, dashing any hope of peace.<ref name="Heroes on Both Sides">{{TCW|Heroes on Both Sides}}</ref><ref name="Pursuit of Peace">{{TCW|Pursuit of Peace}}</ref> A [[Republic military enhancement bill|bill]] for more clone troopers was soon passed: Palpatine told a disappointed Amidala that with more troops, perhaps the war would end more quickly.<ref name="Senate Murders">{{TCW|Senate Murders}}</ref>
+
+During the [[Battle of Sullust]], Sidious ordered Dooku to dispose of his general [[Asajj Ventress]], having become aware of her growing power. Dooku complied and ordered his troops to leave her to die during their retreat, but she survived.<ref>{{TCW|Nightsisters (episode)|Nightsisters}}</ref>
+
+Sidious ordered Dooku to ally with the resurgent [[Zygerrian Slave Empire]], explaining past Sith Empires were built on the backs of slaves and their one would be no exception.<ref name="Escape from Kadavo">{{TCW|Escape from Kadavo}}</ref> They soon plotted for bounty hunters such as Cad Bane and [[Rako Hardeen]] to "kidnap" Palpatine during the [[Festival of Light]] on Naboo. Kenobi infiltrated the plot and helped the Jedi to prevent it, lulling them into a false sense of security. Dooku showed up the evening after the festival but was [[Skirmish in Theed|defeated]] and forced to flee.<ref name="Crisis on Naboo">{{TCW|Crisis on Naboo}}</ref>
+
+====Return of Darth Maul====
+{{Quote|Maul was trying to build an army of pirates."<br>"So let him. Let him play with the rabble. They're just petty crooks. It is of no relevance to the Senate compared to the Separatist threat.|Palpatine to Obi Wan's concerns|Revival (episode)}}
+[[File:PalpatineSensesMaul-TL.png|thumb|220x220px|Sidious senses Maul and Opress through the Force.]]
+The next year,<ref name="Canon dates2">{{TCWcanondates|421}}</ref> Maul returned to the galaxy after a decade of hiding, with his brother [[Savage Opress]] now acting as his apprentice. The Jedi were concerned but Palpatine disagreed, convincing Yoda that the Separatists should be their concern and that Maul's vendetta was a private matter for Kenobi to resolve.<ref name="Revivial">{{TCW|Revival (episode)|Revival}}</ref> When Maul [[Takeover of Mandalore|seized]] control of [[Mandalore]], the most powerful planet in the [[Council of Neutral Systems]], Palpatine realized that Maul had grown too dangerous and was a threat to his future conquest of the galaxy. Deciding to end the threat personally, Palpatine had his shuttle flown to [[Sundari]], where he confronted Maul and Opress.
+
+[[File:SidiousVsNightbrothers-TL.png|thumb|300px|Sidious duels Maul and Savage Opress.|left]]
+Not fooled by Maul's attempts to make him his apprentice once again, Sidious [[Mandalorian civil war (Clone Wars)|engaged]] the rival Sith Lords in combat. Sidious proved himself to be not only a match for their combined strength, but also superior, as after a prolonged duel, he separated the brothers by first bypassing Savage's defense and knocking him away with a kick and then force-pushed Maul, briefly knocking him out. Sidious then briefly toyed with Savage, not even bothering to engage, before he then began battling him again and soundly slayed Opress in single combat. Not bothering to prevent Maul from going to his brother, knowing it was too late for him to do anything to save Savage, after Opress finally succumbed, Sidious taunted Maul again, reminding him of the ancient rules of the Sith and how Maul had been replaced before he then once again engaged his former apprentice. Although Sidious found Maul to be far more ferocious than Savage, he ultimately won the final blade lock and brought Maul to his knees, but chose not to kill him, foreseeing that his fallen apprentice could be useful.<ref name="The Lawless">{{TCW|The Lawless}}</ref>
+
+====Trial of Ahsoka Tano====
+{{Quote|I'm sure many of you look at this former Jedi and think, 'Surely she cannot be this murderer or saboteur that they speak of.' And yet think of all the times we have been fooled by the Separatists and how they have infiltrated the Republic, and ask yourself, is this yet another Separatist scheme? Another way to rip the Jedi and subsequently all of us, apart.|Palpatine during Tano's trial|The Wrong Jedi}}
+[[File:PalpatineRedGuard-TWJ.png|thumb|left|300px|Palpatine presiding over Tano's trial.]]
+Palpatine served as the judge of the [[trial of Ahsoka Tano]], who was accused of masterminding a [[bombing of the Jedi Temple hangar|bombing]] at the Jedi Temple. As he prepared to deliver the verdict, Skywalker interrupted with [[Barriss Offee]], who confessed to the crime. Palpatine then ordered Offee taken away, and Tano was acquitted.<ref name="The Wrong Jedi">{{TCW|The Wrong Jedi}}</ref>
+
+====Manipulating two sides====
+When the clone trooper [[CT-5385|"Tup"]] killed the Jedi Master [[Tiplee]] during the [[Battle of Ringo Vinda]], it threatened to expose Order 66. After Tup died, and Palpatine asked his body be taken to the [[Grand Republic Medical Facility]] for autopsy.<ref name="Conspiracy" /> [[Shaak Ti]] and [[Nala Se]] bought the rebellious clone [[CT-5555|"Fives"]] to Palpatine, who had uncovered the inhibitor chips implanted in each clone trooper, and believed them to be part of a Separatist conspiracy. Sheev had his guards stage an attack, making Fives look insane and discrediting him. He then informed the Jedi that a parasite native to Ringo Vida was responsible for Tup and Fives's behavior, for which all of the clone troopers would be inoculated against.<ref name="Orders">{{TCW|Orders}}</ref>
+
+During a [[mission to Scipio|diplomatic mission]] to [[Scipio]], Senator Padmé Amidala learned from [[Rush Clovis]] that the [[InterGalactic Banking Clan]] had gone bankrupt. Palpatine told her to trust Clovis, while hiring the bounty hunter [[Embo]] to target them on the Clan's apparent behalf.<ref name="An Old Friend">{{TCW|An Old Friend}}</ref> Palpatine and Dooku agreed to make Clovis the new head of the Banking Clan: the [[Muun]] government arrested the [[Core Five]], and Clovis was elected by a Senate majority to replace them.<ref name="The Rise of Clovis">{{TCW|The Rise of Clovis}}</ref> Dooku blackmailed Clovis into raising the Republic's interest rates, and sent a fleet to blockade Scipio, to which Palpatine responded by sending a fleet commanded by Skywalker. As Scipio fell under the Republic's control and Clovis committed [[suicide]], the Muuns ceded control of the banks to the [[Office of the Chancellor]].<ref name="Crisis at the Heart">{{TCW|Crisis at the Heart}}</ref>
+
+When Queen [[Julia]] of [[Bardotta]] requested assistance from the Senate regarding the disappearance of several [[Dagoyan Order|Dagoyan Masters]], Palpatine offered to send [[Bail Organa]] and Senator Amidala, but she insisted the aid of Representative Binks. Palpatine informed the Jedi Council, who deemed it unwise, so Master Windu volunteered to accompany him.<ref name="The Disappeared, Part I">{{TCW|The Disappeared, Part I}}</ref>
+
+Palpatine was visited by Yoda when the Jedi discovered Sifo-Dyas's lightsaber at the location of a distress beacon: apparently, Sifo-Dyas had died on a mission to [[Felucia]], but details were sealed by the Office of the Chancellor. Palpatine told Yoda to consult Valorum, while he went to berate Dooku via hologram over this loose end, ordering him to sort it out. Dooku prevented Kenobi and Skywalker from learning who killed Sifo-Dyas, but they still deduced the Sith were responsible for the creation of the clone army.<ref name="The Lost One">{{TCW|The Lost One}}</ref>
+
+[[File:Dark side ritual.png|thumb|right|300px|Sidious and Dooku cast a dark illusion to ensnare Master Yoda.]]
+When Yoda entered the [[Valley of the Dark Lords]] on [[Moraband]] during a quest to uncover [[Force spirit|immortality]], Sidious and Dooku sensed his presence and convened at The Works on Coruscant. Exploiting Dooku and Yoda's [[Force-bond]], Sidious used a [[Balc]] incantation to cast a [[dark illusion]] to ensnare the Jedi Master. Using Sifo-Dyas' visage, he offered to reveal his identity if he would join him. But Yoda refused. The illusion then made it seem that they were in the Works pursuing the Sith Lords with Skywalker and the [[501st Legion]]. As the illusion unfolded, Yoda refused to sacrifice Skywalker to pursue Sidious, and instead demonstrated he was willing to sacrifice himself to save the Chosen One. Sidious's illusion faltered: the Jedi Master won.<ref name="Sacrifice">{{TCW|Sacrifice}}</ref>
+
+Meanwhile, [[Mandalorian super commando]]s broke Maul out of his imprisonment in the [[Spire (Stygeon Prime)|Spire]] on [[Stygeon Prime]].<ref name="Darth Maul One">''[[Darth Maul—Son of Dathomir, Part One]]''</ref> Maul called on Mother Talzin for help after [[General]] [[Grievous]] [[Battle of Zanbar|defeated]] his forces at [[Zanbar]], precisely what Sidious and Dooku wanted. Talzin foresaw this and ordered her son to draw the Separatists to [[Ord Mantell]], where he defeated and captured Dooku.<ref name="Darth Maul Two">''[[Darth Maul—Son of Dathomir, Part Two]]''</ref> Maul contacted Sidious and informed him of their capture: the Sith Lord responded he should execute them, saying there were of no more use to him. Maul informed Dooku, goading him into allying with him.<ref name="Darth Maul Three">''[[Darth Maul—Son of Dathomir, Part Three]]''</ref>
+
+[[File:SWDarthMaulDathomir-4.jpg|thumb|left|200px|Sidious battles Talzin and Maul.]]
+Maul and Dooku flew to Dathomir, where Talzin intended to siphon Dooku's lifeforce to regain her physical body. Sidious and Grievous also arrived on the planet and [[Second battle of Dathomir|attacked]] Maul and the Talzin-possessed Dooku. Talzin regained her physical body and fended off Sidious's lightning, sacrificing herself to allow her son to escape. Grievous plunged two lightsabers into her body, vanquishing Sidious's foe once and for all. Despite Maul's escape, Sidious was satisfied that the [[Shadow Collective]] had been destroyed.<ref name="Darth Maul Four">''[[Darth Maul—Son of Dathomir, Part Four]]''</ref>
+
+====Kidnapped by General Grievous====
+Nineteen years before the Battle of [[Yavin]], Grievous [[Battle of Coruscant|invaded]] Coruscant to help Sidious stage the kidnapping of his alter ego. Chancellor Palpatine was then rescued by Anakin Skywalker and Obi-Wan Kenobi, with the Chancellor convincing Skywalker to kill Count Dooku after Kenobi was knocked out during the fight.<ref name="ROTS" />
+
+====The seduction of Anakin Skywalker====
+Palpatine, in the meantime, began preparing for the war's end. Skywalker, who had just been hailed as a hero for killing Count Dooku and rescuing the Chancellor, began having visions of his wife dying in childbirth. Palpatine decided to use that to his advantage. Throughout the next few rotations, their relationship kept growing. Ultimately, Palpatine appointed Skywalker to be his representative to the Jedi Council.<ref name="ROTS" />
+
+Meanwhile, the Jedi began to distrust and resent the Chancellor's accumulating power and control. The Council, who was not happy with Skywalker's appointment by one not of their order, denied him the rank of "Jedi Master". This turn of events simply furthered Palpatine's plans. The Council however, decided to use this appointment as a chance to spy on Palpatine. Skywalker, who felt insulted by that demand, regretfully agreed and began to devote his time to getting to know the Chancellor better. Some Jedi, such as Mace Windu, were concerned about their relationship, seeing that it could be dangerous putting the two together. Windu ultimately noted that the dark side of the Force surrounded the Chancellor.<ref name="ROTS" />
+
+[[File:Tragedy.jpg|thumb|right|300px|Palpatine tells Skywalker of the tragedy of Darth Plagueis the Wise.]]
+At an opera show, Palpatine and Skywalker discussed the situation with Palpatine revealing to know that the Council wanted Skywalker to spy on him. At the same time, Skywalker, who was dealing with the fear of his wife's loss was beginning to distrust the Jedi Council. This allowed Palpatine to orchestrate Skywalker's downfall by telling him the story of his Master, "Darth Plagueis the Wise." According to the story, Plagueis was so strong in the Force that he could use it to "save the ones he cared about from dying." Skywalker, enthralled by the story, wished to know more about this power, asking him if he could learn it with Palpatine stating, "Not from a Jedi."<ref name="ROTS" />
+
+As the situation grew worse, Skywalker went to speak with the Chancellor regarding the [[Battle of Utapau]]. Anakin expressed his disappointment that he was not chosen for the assignment. Palpatine told Skywalker that the Council did not trust him and that the Jedi were plotting to take control of the Republic. Palpatine then revealed that he was trained in the ways of the Force, "even the nature of the dark side." This led to Skywalker concluding that Palpatine himself, was the Sith Lord the Jedi were hunting down. With this, Palpatine told Skywalker that he would teach him to save his wife from death. Skywalker, who desired to kill him, went to the Jedi Council with this information.<ref name="ROTS" />
+
+====Duel in the Chancellor's Office====
+{{Quote|In the name of the Galactic Senate of the Republic, you are under arrest, Chancellor."<br>"Are you threatening me, Master Jedi?"<br>"The Senate will decide your fate."<br>I '''AM''' the Senate!"<br>"Not yet!"<br>"It's treason then...|Mace Windu to Palpatine moments before their intense duel|Star Wars: Episode III Revenge of the Sith}}
+[[File:Palpy deformed.png|thumb|left|300px|Sidious was disfigured by his own Force lightning deflecting off Master Windu's lightsaber.]]
+Mace Windu, after learning about Skywalker's claim went to [[Duel in Palpatine's office|confront]] the Chancellor along with fellow Jedi Council Masters [[Kit Fisto]], [[Agen Kolar]] as well as [[Saesee Tiin]]. Windu and the three other Jedi boldly ignited their lightsabers and declared that Palpatine was under arrest. Igniting his own crimson lightsaber, Palpatine lunged forward and slew Kolar and Tiin in mere seconds, and Fisto slightly later, leaving Windu to face the Dark Lord alone. Palpatine and Windu then engaged in a ferocious one-on-one duel. Though Palpatine initially had the upper hand, Windu eventually disarmed him, knocked him to the floor and held him at blade point. Anakin soon arrived after this and both sides tried to persuade him that the other was in the wrong. Windu taunted Palpatine in his defeat which prompted the Sith Lord to attempt to blast Windu with Force lighting, but Windu managed to deflect it back at Palpatine, causing the Sith Lord's face to take on a hideously disfigured appearance in the process due to the Dark Force energy. As a result of this, Palpatine then switch his strategy to pretending to be a defenceless old man, and dropped his lightning attack. Mace Windu said the Chancelor that he needed to be killed. Skywalker told Windu that Palpatine had to stand trial, but Windu claimed that he was "too dangerous to be kept alive", and that he controlled the Senate and the Courts. Deciding that his wife's survival was more important than his loyalty to the Jedi Order, Anakin intervened, cutting off Mace Windu's lightsaber arm and giving Palpatine the opening to drop his act and striking Windu with a full barrage of Force lightning, throwing him out the office window.<ref name="ROTS" />
+Skywalker, although initially stunned by what he had done, ultimately saw this as the last straw against the Jedi and knelt before the Chancellor, agreeing to join the dark side on the condition that he be shown how to save Amidala's life. Palpatine bestowed on the young man the Sith name of Darth Vader. Palpatine instructed Vader to wipe out the Jedi, whom Palpatine believed were plotting to overthrow the Republic, as well as to [[Mission to Mustafar|wipe out]] the Separatist leaders on Mustafar.<ref name="ROTS" />
+
+====Order 66 and rise of the New Order====
+{{Quote|Commander [[CC-2224|Cody]], the time has come. Execute Order 66..."<br>"Yes, my lord.|Palpatine to Commander Cody|Star Wars: Episode III Revenge of the Sith}}
+[[File:Execute Order 66.png|thumb|right|250px|Palpatine enacts Order 66.]]
+Prior to the start of the war, Palpatine had instructed his apprentice, Darth Tyranus, to implant the members of the clone army they created with organic chips in their brains. This would allow them to order the clones to do anything they told them to, with the the ultimate goal of executing the Jedi. With one simple command, the clones would enter a trance-like state and perform whatever orders they were given.<ref name="Conspiracy" /><ref name="Fugitive">{{TCW|Fugitive}}</ref><ref name="Orders" />
+
+When the newly-anointed Darth Vader was sent to [[Attack on the Jedi Temple|kill]] the Jedi in the Temple, Palpatine contacted the clone troopers on various planets and commanded them to execute Order 66. Because of this, the clone troopers, who had formed deep relationships with their Jedi Generals, turned against them and managed to wipe out most of the Jedi with the exception of a few, notably Obi-Wan Kenobi, Yoda and [[Kanan Jarrus]].<ref name="ROTS" /><ref name="AND">''[[A New Dawn]]''</ref>
+
+Palpatine, meanwhile, [[Special session_of_Congress|addressed]] the Senate and accused the Jedi of trying to kill him and overthrow the Republic, using his newly scarred face as evidence. He ultimately [[Proclamation of the New Order|announced]] the Republic's reorganization into the first Galactic Empire.<ref name="ROTS" />
+
+====Battle in the Senate Chamber====
+[[File:Clash of Titans.png|thumb|left|250px|Sidious and Yoda duel in the Galactic Senate Chamber.]]
+With Kenobi and Yoda realizing what has happened, Yoda [[Duel in the Galactic Senate|went to face]] the Emperor personally, while Obi-Wan [[Duel on Mustafar|went to Mustafar to kill]] Anakin. Yoda surprised Palpatine, who told him that his arrogance had blinded him and that his apprentice would become more powerful than both of them, while Yoda told Palpatine that his faith in Vader was a mistake along with his faith in the dark side. The two then dueled in the Senate hall, and Palpatine narrowly managed to gain the upper hand through the use of his Force powers. Yoda fled and was forced to go into exile, but Palpatine did not personally pursue him as he had other, more pressing matters to attend to.<ref name="ROTS" />
+
+====The birth of Lord Vader====
+As clone troopers from the [[Coruscant Guard]] arrived in the Senate Chamber following the battle, Sidious stood with Mas Amedda on a Senatorial pod as they searched for the Jedi Master. However, they could not find any trace of a body. The Emperor had more pressing concerns however: he had sensed that Vader, on far away Mustafar, was in danger of being destroyed. He ordered the clones to double their search for Yoda, and that his shuttle be prepared to depart.<ref name="ROTS" />
+
+[[File:There_he_is.jpg|thumb|right|250px|Sidious locates Vader on Mustafar]]
+Sidious made haste to Mustafar, accompanied by a detachment of clones. There, he found that Vader had been dismembered, horrifically burned, and left for dead by Obi-Wan Kenobi after the conclusion of their duel. He ordered the clones accompanying him to prepare a medical capsule for his apprentice. As they left to obey his instructions, Sidious crouched beside his fallen apprentice, determined to find a way to keep him alive.<ref name="ROTS" />
+
+The Emperor was keenly aware that, without Vader, the foundations of his newfound power would be badly shaken: he needed an apprentice capable of ensuring that his Empire would survive the inevitable challenges that would rise up against it. To make sure Vader would be capable of remaining that apprentice, Sidious contacted the boldest scientists he could, those whose practices would have been frowned on by the Jedi and the Republic. Among these scientists was an expert in [[cybernetics]] named Doctor [[Cylo]].<ref name="Darth Vader 20">''[[Darth Vader 20: End of Games, Part I]]''</ref>
+
+Sidious brought Vader to the [[Grand Republic Medical Facility|Grand Medical Facility]], far above Coruscant's surface as a storm raged across the capital. A long night followed during which the scientists, their droids and their technology worked to save the critically-injured Vader before he died. The new Sith apprentice was kept awake for the whole procedure, feeling the pain that came with saving his life. Cylo and the other scientists designed a suit of [[Vader's armor|armor]] that would protect his weakened body and allow his scorched lungs to breathe. Cybernetic limbs were added to replace the legs and the arm that Kenobi had taken.<ref name="ROTS" />
+
+After what the Emperor would call a "long night", Skywalker was surgically reconstructed as a cyborg and encased in the armour and mask that would forever hide away who he had once been from the galaxy. As the procedure ended and the Sith apprentice rose, Sidious approached him. Vader's first querry was to know whether his wife was safe or not. Sidious told him that he had killed Amidala in his anger. This final lie threw Vader over the edge and completed his transition into the apprentice Sidious had spent decades grooming. In his rage, Vader used his new limbs to tear away the restraints that held him to the operating table and the Force to destroy the droids who had just saved his life, before stepping unsteadily onto his new legs and screaming his despair to the galaxy as a satisfied Sidious looked on.<ref name="ROTS" />
+
+Vader then turned his rage onto the Emperor, throwing him into the wall of the operating room with the Force. He angrily berated his Master for promising that he could save his wife from death. Sidious conceded that he had failed him in that regard but countered that, with her death, Padmé had given him something so much stronger: pain. This pain would fuel his power for decades and make him the dreaded Sith apprentice that Sidious had always coveted. It would also allow him to live. After a tense few moments, Vader released his Master and proclaimed that he would live. Satisfied, the Emperor then assaulted Vader with [[Force lightning]] and warned him never to use the Force against him in such a way again, or he would finish what Kenobi would not.<ref name="Dark Lord 1">''[[Darth Vader: Dark Lord of the Sith 1: The Chosen One, Part I]]''</ref>
+
+===Age of the Empire===
+[[File:Lords of the Sith art.jpg|thumb|left|200px|Darth Vader fights insurgents alongside his Master after becoming stranded on Ryloth.]]
+{{Quote|There is only ''one'' plan&mdash;one great design which shall govern the universe&mdash;''mine''.|Darth Sidious|Darth Maul—Son of Dathomir, Part Four}}
+After the creation of his Sith Empire, Palpatine established himself in the old Jedi Temple on Coruscant, transforming it into the Imperial Palace. The Jedi had built the palace atop an ancient [[Sith shrine]], in order to neutralize and cap the dark power that sprang from its depths. Palpatine entrusted the reopening and restoration of the ancient temple to droids under the the supervision of [[11-4D]], a protocol droid that once belonged to Darth Plagueis.<ref name="Tarkin" /> During his rule, Sidious sent explorers to unmapped regions of the galaxy to search for the source of the dark side, believing it lay there. These explorers built [[Laboratory|labs]] on distant moons and asteroids. As part of his planned Contingency, Sidious had Imperial scouts explore the Unknown Regions while also utilizing extensive resources to seed laboratories, shipyards and observatories within that same region. This arrangement would continue over a period of decades and would be known solely by him and the elect.<ref name="Aftermath">''[[Aftermath]]''</ref><ref name="Expanded Edition">''[[Star Wars: The Last Jedi: Expanded Edition]]''</ref>
+
+====The Tarkin Initiative====
+In his early days as a Senator, Sidious had closely associated with Tarkin, whom he encouraged to pursue a career in politics after his training with the Judicials was completed. Tarkin went on to become Governor of [[Eriadu]] and one of the Republic's foremost militry leaders during the Clone Wars. Sidious had learnt of Tarkin's upbringing on Eriadu, where he had been trained in harsh conditions through a brutal inititation in the wild [[Carrion Plateau]] of his homeworld. Tarkin had learnt to hunt savage creatures and emerged from his training with the belief that only the brutal application of the law and the fear of force could keep beings in line with a central galactic government. Although Tarkin lacked Force-sensitivity, Sidious identified him as one whose mindset was very close to that of the Sith.<ref name="Tarkin" />
+
+====Mission to Ryloth====
+=====An official visit=====
+[[14 BBY|Five years]] after the end of the Clone Wars, [[Cham Syndulla]], a war hero who liberated [[Ryloth]] from the Separatist forces during the war, organized and led the [[Free Ryloth movement]] in order to liberate his homeworld once again, this time from an Imperial military occupation. In order to cope that "terrorists", Emperor Palpatine summoned the Senator of Ryloth, [[Orn Free Taa]] to Coruscant for making him part of his plan. He ordered the [[Twi'lek]] to accompany him and his right-hand man, Darth Vader, for an official [[Mission to Ryloth|visit]] to Ryloth. Once Emperor Palpatine dismissed Taa, Vader asked him why he couldn't simply wipe out the Senator along with his entire staff, in which the two Sith suspected there were one or more traitors, who provided aid to the terrorist movement. But the Emperor wished to find the roots of the treachery, eliminate them and make of it an example for the entire galaxy. Eventually he ordered Vader to inform the [[Moff]] of Ryloth, [[Delian Mors]], of the arrival of Senator Orn Free Taa, but not of the two of them.<ref name="LOTS">''[[Lords of the Sith]]''</ref>
+
+=====Assassination attempt on the ''Defiance''=====
+While on the way to Ryloth aboard the Star Destroyer ''[[Perilous]]'', Palpatine instructed the ship to stop at the [[Denon]] [[Denon system|system]] for a meeting on the training cruiser ''[[Obedience|Defiance]]'' with several [[Imperial Navy]] chiefs to discuss a realignment of the Imperial Naval Academy. Palpatine ordered Darth Vader to oversee training exercises conducted by [[Commandant]] [[Pell Baylo]] while Palpatine was in his meeting with the naval chiefs. During one such exercise, Baylo set a [[hyperspace]] route that would have crashed the ''Defiance'' into [[Christophsis]]'s [[Christophsis' sun|sun]]. [[Cadet]] [[Rae Sloane]] and Darth Vader uncovered this [[assassin]]ation attempt and redirected the Defiance. Baylo confronted Palpatine, accusing the Galactic Empire of being a hostile force that had taken over the Galactic Republic. Vader killed Baylo, which upset Palpatine, who wanted Baylo to suffer as the ''Defiance'' was decommissioned and turned into "cafeteria trays". Instead, the ''Defiance'' was renamed ''Obedience'', and Palpatine and Vader re-boarded the ''Perilous'' and continued on their way to Ryloth.<ref name="Orientation">{{InsiderCite|157|Orientation}}</ref>
+
+=====The fall of the ''Perilous''=====
+The two Sith and Senator Taa came to the [[Ryloth system]] aboard ''Perilous''. When the ship exited from the hyperspace, they found themselves in the middle of a minefield: Syndulla was waiting for them. The Twi'Lek wished to eliminate them to strike at the heart of the Empire. When the shields submitted, Emperor Palpatine remained on the bridge, while Vader took off with his fighter leading a squadron to deal with a swarm of [[Variable Geometry Self-Propelled Battle Droid, Mark I|vulture droids]]. The former Separatist fighters released thousands of explosive [[Pistoeka sabotage droid|buzz droids]] which further damaged the Star Destroyer. Vader returned aboard the ''Perilous'' where he meet the Emperor and Senator Taa. Because he suspected there was a traitor in the Senator's staff, Palpatine ordered to isolate them in their own quarters.<ref name="LOTS" />
+
+In the meantime, a Twi'Lek task force reached the ship disguised as a repair team and placed explosive charges in the hyperdrive chamber, to trigger a chain reaction. Darth Vader pursued them, but they managed to escape, so he reached the Emperor, and they took off with his shuttle and shortly before the ''Perilous'' exploded. Once in space, the fugitive task force searched for the Imperial shuttle and caught up with it. Vader Force-choked the resistance pilot of the pursuing ship through the shuttle viewport. In a desperate attempt to get free from Vader's grasp and to kill both him and the Emperor, the Twi'Leks rammed the stolen starship into the Imperial shuttle, critically damaging the latter. Vader attempted to regain control of the shuttle while Sidious remembered they had already been in situations like this. Thanks to the piloting skills of Vader the shuttle crash landed on Ryloth's surface, in the middle of a forest.<ref name="LOTS" />
+
+=====Isolated on the planet=====
+{{Quote|We are all of us, always being tested, my friend. Tests make us stronger, and strength is power, and power is the ''point''. We must pass all the tests we face… Or die in the effort. |Palpatine to Darth Vader|Lords of the Sith}}
+Once on the planet surface, Sidious noted with mild annoyance that the landing had been far beneath what he knew Vader to be capable of, and that Vader's lapse had left four corpses in the rear compartment of the shuttle. Vader admitted to having been distracted by thoughts of his past, and attempted to dismiss it as nothing. Sidious however, was unconvinced, though he shelved the matter and proceeded with Vader into the rear compartment. There, three of the shuttle's occupants, [[Sergeant]] [[Erstin Deez]], his captain, and another member of the [[Emperor's Royal Guard|Imperial Guards]] had survived the crash, though one was badly injured and unconscious. Vader noted with mild surprise that the Emperor appeared to have been wrong; there were only three corpses in the compartment. One of the conscious guards noted that his injured comrade had not strapped himself in during the landing, and as a result had been thrown about the compartment when the ship had crashed. However the Emperor, seemingly having known about the guard, had him executed for his stupidity, leaving the fourth corpse.<ref name="LOTS" />
+
+The foursome exited in the night, and while the two guards who survived were checking the survival kits, Vader asked his Master if he was testing him. Sidious answered they were always being tested, and they must pass all tests to gain strength and power. Meanwhile, the guards had activated the generator and the communication array to call for help. At that moment the Sith sensed that two Twi'Lek ships were approaching and prepared themselves for a confrontation. The Twi'lek rebel's ships fired upon them, while Vader, immersed in the Force, deflected the laser beams with [[Darth Vader's lightsaber|his lightsaber]].<ref name="LOTS" />
+
+The captain suggested to take cover in the woods, but the Emperor refused and instead, removed his cloak, and ignited his lightsaber. The two Sith spun their red blades, turning every shot back at the ships. When the enemy ships engines were hit and began to explode in flames and smoke, Sidious unleashed a bolt of Force lightning on their hulls and then, with the Force, drove one of the ships to the ground, while Vader did the same with the other. The two freighters exploded, and Vader sent Deez to check for survivors. They realized the rebels had jammed the communication network and that they were hunting for them.<ref name="LOTS" />
+
+=====Hunted=====
+They walked for a long time into the depths of the forest. Sidious went forward in the darkness seeing through the Force while testing Vader's loyalty once again until he decided to stop for a while. While the guards were eating, the two Sith began to meditate. The Emperor sensed his apprentice's murderous feelings towards him. When Vader ended his meditation, Sidious told him what he had sensed, but the former Jedi pledged his loyalty to his Sith Master. At that moment, the guards, whom the Emperor had sent away, had returned, pursued by a horde of [[lylek]]s. The Emperor remained calm, sending torrents of Force lightning against the predators, and began to advance back-to-back with Vader, their lightsabers ignited.<ref name="LOTS" />
+
+While Vader and the royal guards held back the advancing lyleks with their weapons, Sidious used the Force to topple trees over the advancing lylek horde. Through the Force, Sidious sensed a tunnel a hundred meters away. The four retreated into the tunnel with the lyleks in pursuit. This tunnel turned out to be the home of the lylek horde, and the four Imperials were forced to fight through hundreds of the creatures. The royal guards used their blasters and [[grenade]]s while the two Sith Lords used the Force and their lightsabers to fight through the horde.<ref name="LOTS" />
+
+As they waded deeper into the cave, Sidious realized that the lyleks were herding the intruders towards their queen. At Vader's instigation, the four resolved to kill all their opponents with the Emperor activating his red blade. After a fierce battle with the lyleks, Sidious and Vader found themselves back to back. When Sidious asked his apprentice whether he had ever toyed with the idea of letting his Emperor die to fulfill his own ambitions, Vader admitted he had entertained such thoughts but reassured his master it was only for a moment. Sidious accepted Vader's loyalty and the two joined forces to tackle the lylek queen.<ref name="LOTS" />
+
+Following a savage battle, Vader managed to kill the queen; scattering the remaining lyleks. However, the royal guard captain was killed, leaving only Sidious, Vader, and Sergeant Deez. Based on their battle with the lyleks, Master and apprentice quickly surmised that Cham and his rebels were trying to kill them to bring about the Empire's destruction. Having triumphed over the lylek horde, the three Imperials found an opening at the end of the tunnel which led back to the forest.<ref name="LOTS" />
+
+=====Death and Fate=====
+While Sidious and his companions were traveling through the forest, they encountered a young Twi'lek girl named [[Drua]]. Sidious made a move to kill her, but Vader blocked his master's death blow and convinced Sidious that she could lead them to a settlement where they could contact reinforcements. Drua led them to [[Drua's village|her village]], which was home to escaped Twi'lek slaves. When the village head [[Narmn]] asked for their identities, Sidious introduced himself, Vader, and Deez as "Krataa", "Irluuk", and the Sergeant. Sidious and Vader alone knew that their pseudonyms stood for "death" and "fate."<ref name="LOTS" />
+
+Sidious warned Vader that his act of mercy towards Drua would cost both her and her fellow villagers their lives. Vader then managed to win over the villagers by offering to repair an ancient communications device. Once Vader had fixed the machine, Sidious ordered Deez to contact Moff Mors; whom he knew to be loyal. After reestablishing contact with the two Sith Lords, Mors took steps to eliminate the Imperial [[treason|traitor]] [[Colonel]] [[Belkor Dray]], who was secretly aiding Cham's rebels. She foiled Belkor's plot to order V-wing fighters to strike Drua's village and the massed Free Ryloth forces in a nearby quarry. After executing Belkor, Moff Mors sent her forces to rendezvous with Sidious and Vader at the Twi'lek village.<ref name="LOTS" />
+
+Cham's forces, unwilling to harm the villagers, fired warning shots so that the villagers would flee the scene of the upcoming battle. The villagers reacted by fleeing to a nearby mine shaft, a sanctuary in time of danger. However, Sidious, Vader, and Deez stood their ground at the center of the village. Before Cham's forces could launch their attack, Moff Mors' forces arrived in two transport vessels and trapped the rebel fighters. With many of the Free Ryloth fighters killed, Cham narrowly managed to avoid capture at the hands of Vader. Under the orders of Sidious, Mors's Imperial forces massacred the surviving Free Ryloth fighters. Following a brief exchange with Cham's lieutenant [[Isval]], Sidious ordered Vader to execute her and then afterward, the surviving Twi'lek villagers hiding in the mine shaft as well, in order not to leave any witnesses. After a brief moment of hesitation, Vader complied with his Master's orders and massacred the villagers.<ref name="LOTS" />
+
+====Berch Teller's campaign====
+By 14 BBY, Sidious had placed Moff Wilhuff Tarkin in charge of the secret [[Project Stardust|Death Star project]]. The battle moon was being constructed above [[Geonosis]] and was supplied by a series of marshaling stations. The Empire faced a new threat in the form of [[Berch Teller]], a former [[Republic Intelligence]] agent who opposed the Empire. He led a [[Berch Teller's rebel cell|rebel cell]] consisting of survivors and witnesses of the [[Antar Atrocity]], a mass crackdown on [[Antar 4]] following the Clone Wars that had seen the killing of innocent [[Gotal]] and [[Koorivar]] loyalists. Teller had a special animus for Tarkin, the architect of the Antar Atrocity. He was secretly aided and equipped by [[Vice Admiral]] [[Dodd Rancit]], the Director of the Naval Intelligence Agency and a rival of Tarkin.<ref name="Tarkin" />
+
+Following Teller's [[Attack on Sentinel Base|attack]] on [[Sentinel Base]], the Emperor convened a meeting of his [[Ruling Council]] to discuss the discovery of a cache of communications jammers on the planet [[Murkhana]]. The [[Imperial Security Bureau]] had purportedly discovered the cache and feared that dissidents were planning to disrupt the Imperial [[HoloNet]]; echoing the Separatist [[Shadowfeed]] broadcasts during the Clone Wars. The Emperor dispatched both Moff Tarkin and Lord Vader to [[Mission to Murkhana|investigate]] the matter. However, this played into Teller's hands and allowed the insurgents to steal Tarkin's corvette ''[[Carrion Spike]]'', which they intended to turn into a symbol of resistance against the Empire.<ref name="Tarkin" />
+
+After being briefed about the theft of the ''Carrion Spike'', Vice Admiral Rancit suggested that the ship's thieves were the same people who attacked Sentinel Base earlier. In response, the Emperor ordered Rancit to divert Imperial forces in the [[Belderone system]] to aid Tarkin and Lord Vader. While Tarkin and Vader pursued the insurgents, the Emperor chaired another meeting of the Ruling Council. During the meeting, Rancit advocated diverting more Imperial forces to reinforcing Imperial facilities across the [[Perlemian Trade Route]] and [[Hydian Way]]. The Council also learned that Teller' insurgents had [[Attack on Lucazec|attacked]] the [[TaggeCo]] mining facilities on [[Lucazec]] and were transmitting [[holovid]]s of their attacks on the HoloNet.<ref name="Tarkin" />
+
+Following a [[Battle in the Phindar system|skirmish]] in the [[Phindar system]] between Imperial forces and the stolen ''Carrion Spike'', Rancit convinced the Emperor to deploy [[interdictor vessel]]s against the insurgents. Grand Vizier Amedda then informed the Emperor that the Murkhana communications jammers had been discovered by an ISB asset tasked with investigating the find by his case officer. Acting on this information, Sidious interrogated the Koorivar ISB asset [[Bracchia]] and his case officer [[Stellan]], who revealed that they had been tipped about the discovery by Naval Intelligence. After viewing the holovid, the Emperor determined that the communications cache had been planted by a high&ndash;level Imperial official who was aiding the insurgents.<ref name="Tarkin" />
+
+Meanwhile, Lord Vader discovered that Rancit was the Imperial traitor and executed him. While Tarkin led Imperial forces against Teller's insurgents in a [[Battle near the Gulf of Tatooine|space battle]] near the [[Gulf of Tatooine]], Darth Sidious mediated on his quest for galactic dominance. Following the defeat of Teller's insurgency, Tarkin and Vader spent the next three weeks hunting down Teller's collaborators and contacts in a ruthless crackdown. The two briefed the Emperor, who appointed Tarkin as [[Grand Moff]] and [[Governor]] of the Outer Rim Territories. The Emperor also reshuffled the Ruling Council in the wake of Rancit's execution. He also folded Naval Intelligence back into [[Imperial Intelligence]].<ref name="Tarkin" />
+
+====The Chiss from the Unknown Regions====
+[[File:Thrawn-meets-the-Emperor.png|thumb|right|250px|Thrawn is brought before the Emperor]]
+Many years into the Empire's reign, Sidious' interest in the Unknown Regions continued. This came to a head when the crew of the [[Venator-class Star Destroyer|''Venator''-class Star Destroyer]] ''[[Strikefast]]'', under the command of Captain [[Voss Parck]], encountered the [[Chiss]] known as [[Mitth'raw'nuruodo|Thrawn]] in [[Wild Space]]. Many years earlier, Anakin Skywalker told Palpatine of this alien and how they worked together. This alien claimed to have a great deal of knowledge on the Unknown Regions. Thrawn was then brought before Sidious on Coruscant in order to be questioned. Thrawn told the Emperor of threats lurking within the Unknown Regions and how they might one day find the Empire and offered his military skills. Sidious then deduced that Thrawn's intentions were to help protect his people from these threats. Thrawn assured the Emperor that his allegiance would be to the Empire. Thrawn then revealed that he had known Anakin Skywalker during the Clone Wars, thus proving who he was to the Emperor.<ref name="Thrawn">''[[Thrawn (novel)|Thrawn]]''</ref>
+
+For their service, the Emperor promised Captain Parck and his crew rewards. Thrawn however, requested that his translator [[Eli Vanto]] stay with him. The Emperor then asked Thrawn to walk with him outside. In his personal garden, Sidious told the Chiss of his interest in the Unknown Regions. Thrawn then warned that there was great danger to be found there, however he assured Sidious that he would share his knowledge of the Unknown Regions. The Emperor ordered that Eli Vanto would be transferred to Thrawn's side and that they would both undergo training at the [[Royal Imperial Academy]].<ref name="Thrawn" />
+
+====A new threat====
+With the Jedi mostly defeated, Sidious felt secure behind his huge galactic military and dominion over most of the known galaxy. Despite this, remaining Separatist holdouts and surviving Jedi would gnaw at his confidence of the longevity of his new Empire. Seeking to secure the center, the Emperor supported mass military excursions into the Outer Rim Territories in an effort to bring more systems under his fold. With his ultimate goal of bending reality into something of his own creation, an omnipotent Empire would allow all the galaxy's inhabitants to be held in his dark embrace.<ref name="Tarkin" /> Despite the Jedi being all but extinct, Force-sensitive children were still being born across the galaxy. In an effort to combat this threat, Sidious created the [[Inquisitorius]] composed of [[Dark Side Adept]]s and commanded his apprentice, Lord Vader, to contact a [[The Grand Inquisitor|Pau'an Inquisitor]] to hunt them down and destroy them if they did not serve the Empire.<ref name="Spark of Rebellion">''[[Star Wars Rebels: Spark of Rebellion]]''</ref>
+
+During the [[4 BBY|fifteenth]] [[Empire Day]], celebrating the anniversary of the Empire's rise to power, the Emperor invited [[Lothal]] governor [[Arihnda Pryce]] to celebrate with him on Coruscant.<ref name="Empire Day">{{Rebels|Empire Day (episode)|Empire Day}}</ref> After the Inquisitor's death, at the hands of Kanan Jarrus and his Padawan [[Ezra Bridger]], the Emperor dispatched his apprentice to Lothal as an "alternative solution" to the growing rebel problem.<ref name="Fire Across the Galaxy">{{Rebels|Fire Across the Galaxy}}</ref> The Emperor was contacted by Darth Vader after he had [[Attack on Phoenix Squadron (4 BBY)|defeated]] the Rebel fleet in the [[Lothal system]]. Vader informed his Master that he had discovered that his former Jedi apprentice, [[Ahsoka Tano]], still lived. The Emperor was pleased at the news as Tano possibly knew the location of other hidden Jedi, and capturing her would allow the Empire to find them and destroy them before they became threats. Although Vader was more interested in finding his former Master Obi-Wan Kenobi, Sidious told his apprentice to have patience and to send an Inquisitor to hunt down Tano and the other Jedi discovered on Lothal.<ref name="The Siege of Lothal">''[[Star Wars Rebels: The Siege of Lothal]]''</ref>
+
+=====Thrawn's campaign against the rebellion=====
+In [[2 BBY]], the Emperor promoted the Chiss Imperial Navy officer Thrawn to the position of [[Grand Admiral]] for his role in [[Batonn insurgency|suppressing]] the [[Batonn insurgents|rebel insurgency]] in the [[Batonn sector]].<ref name="Steps Into Shadow">''[[Star Wars Rebels: Steps Into Shadow]]''</ref> During the promotion however, Thrawn questioned Palpatine on the practicality of the [[Death Star]]. The Emperor questioned if the reason for Thrawn's worries were because of the threat the station posed to the Chiss species. However, because Thrawn had fulfilled his end of the bargain by sharing his information on the Unknown Regions, he let the issue go. The Emperor then introduced Thrawn to his personal enforcer, Darth Vader. Later, Thrawn would be dispatched to deal with the growing rebel threat.<ref name="Thrawn" />
+
+=====Mon Mothma's treason=====
+Later, the rogue Senator [[Mon Mothma]] incurred the Emperor's wrath when she denounced him as a liar and condemned his complicity in the [[Ghorman Massacre]]. As a result, Mon Mothma was designated a traitor and Imperial forces were dispatched to hunt her down. Despite the efforts of Grand Admiral Thrawn to trap Mon Mothma and the [[Spectres]] in the [[Archeon Nebula]], [[Hera Syndulla]] managed to deliver Mon Mothma safely to [[Dantooine]] where she gave a speech urging the galaxy to rise up against the Empire.<ref name="Secret Cargo">{{Rebels|Secret Cargo}}</ref>
+
+====Machinations on Lothal====
+=====A world between worlds=====
+[[File:Wolves-and-a-door-06_321d4477.jpg|thumb|left|250px|The Emperor consults with Minister Hydan]]
+After the discovery of a [[Lothal Jedi Temple|Jedi temple]] on Lothal, the Emperor directed [[Minister]] [[Veris Hydan]] to excavate the ruins and uncover its secrets. Sometime thereafter, Hydan contacted Sidious, informing him of his findings concerning a mural of the "[[Force wielder|Mortis gods]]." Sidious urged his minister to quicken the pace of his work, as he sensed that the death of Jarrus had altered the fate of Lothal.<ref name="Wolves and a Door">{{Rebels|Wolves and a Door}}</ref>
+
+Later the Emperor was able to use [[Sith alchemy]] to penetrate the [[World between worlds|realm between worlds]] and attempted to use Bridger as a tool to enter the realm: whereupon he believed that he would gain the ability to control the universe. However, Ahsoka Tano, whom Bridger had managed to save from Darth Vader using a portal within the realm, and Bridger managed to escape. In the process, the Lothal Jedi Temple was destroyed.<ref name="A World Between Worlds">{{Rebels|A World Between Worlds}}</ref>
+
+=====Deception=====
+[[File:Palpatine_family-reunion.jpeg|thumb|250px|right|Emperor Palpatine greets Ezra.]]
+During the [[Liberation of Lothal|battle to liberate]] Lothal, Bridger surrendered to the Empire aboard Grand Admiral Thrawn's flagship ''Chimaera'' in order to stop Thrawn from bombing Lothal's [[Capital City]]. Thrawn brought Ezra into a chamber aboard the ''Chimaera'' which contained a portion of the Lothal Jedi Temple, which the Emperor had ordered to be painstakingly excavated "stone by stone." Since the Emperor was offworld, he used a [[hologram]] projection to present himself in his more benevolent, pre-scarred form.<ref name="FRAF">{{Rebels|Family Reunion – and Farewell}}</ref>
+
+In an attempt to get Ezra to unlock the [[portal]] to "the world between worlds", the Emperor tried to tempt Ezra with the opportunity of reuniting with his deceased parents. Ezra, however, recalling his earlier lesson in the world between worlds, decided to reject this offer, knowing he had a family and then proceeded to pull down the Temple into rubble. This caused the Emperor's hologram projection to shift from his benevolent persona to his true from. With his plan in tatters, the Emperor ordered three of his Royal Guards and three stormtroopers to execute Ezra. However, Bridger was able to use the Force to crush the soldiers with rubble and escaped.<ref name="FRAF" />
+
+===Galactic Civil War===
+====The dissolution of the Senate====
+{{Quote|The Imperial Senate will no longer be of any concern to us. I have just received word that the Emperor has dissolved the council permanently. The last remnants of the Old Republic have been swept away. ''"<br />"''That's impossible! How will the Emperor maintain control without the bureaucracy?''"<br />"''The regional governors now have direct control over their territories. Fear will keep the local systems in line. Fear of this battle station.|[[Grand Moff]] Wilhuff Tarkin and [[General]] [[Cassio Tagge]] discussing the dissolution of the Senate.|Star Wars: Episode IV A New Hope}}
+Four years after the reveal of a united rebel front on Mustafar, the rebels had reorganized themselves into a larger and more organized movement known as the [[Alliance to Restore the Republic]], or the "Rebel Alliance". Striking from [[Yavin 4]], an elite Rebel Squadron, Rogue One, led by Jyn Erso and a large portion of the Rebel Alliance's fleet managed to steal a [[Death Star plans|complete technological readout]] of the Death Star, the Empire's ultimate weapon which had been under construction for nineteen years, from an Imperial Research Facility on Scarif. This loss, as the space station neared completion, was a bitter, and potentially fatal, blow to the Emperor's long-term plans. In order to deal with the problem, Sidious sent Vader to find the Death Star plans.<ref name="Episode IV">[[Star Wars: Episode IV A New Hope|''Star Wars'' Episode IV ''A New Hope'']]</ref>
+
+Vader destroyed the rebel flagship and much of the rebel fleet. However, the plans had escaped aboard the ''Tantive IV'', a CR90 Corvette, in the hands of [[Prince]]ss [[Leia Organa]], the Imperial Senator for Alderaan and a suspected Rebel sympathizer. Vader soon later trapped the corvette over Tatooine, boarding the ship and taking the Princess as a hostage. Although Vader failed to acquire the plans, he arrested Organa as a traitor and, as such, provided Sidious with the excuse he needed to dissolve the [[Imperial Senate]]. One of the last remnants of the Galactic Republic, Sidious had always planned to remove it but he needed to wait for the Death Star to be completed so that order could be maintained through fear instead of representation in the Senate. With the space station nearly completed and a Senator accused of supporting the rebellion, Sidious ordered the dissolution of the Senate. Legislative power was transferred to regional governors and select members of the [[Imperial Military|Imperial military]], such as Sidious's ally, Grand Moff Tarkin, allowing the Emperor to gain complete control over the Empire with no checks to his power.<ref name="Episode IV" /><ref name="Darth Vader 1">''[[Darth Vader 1: Vader]]''</ref>
+
+====The New Order in peril====
+{{Quote|We kept the skeleton of the Republic for nearly twenty years while the Death Star was constructed. Twenty years, my apprentice. All that planning is now a layer of dust orbiting around Yavin... Now, we no longer have the Senate to hold order. We do not have the Death Star to force it. Our greatest weapon is gone. Our production is in ashes. We are besieged. In all these years, we have never skirted closer to disaster.|Darth Sidious to Darth Vader|Darth Vader 1: Vader}}
+After [[Rescue of Princess Leia|Vader's duel with Obi-Wan Kenobi]], Vader reported to Sidious the death of Kenobi, to Sidious' surprised glee. However, he was still troubled by Kenobi's last words, his body's disappearance upon death, and the still mysterious whereabouts of Yoda. Sidious resolved to keep the Empire strong and to destroy the Rebellion.<ref name="Palpatine">{{Shortstory|story=Palpatine (short story)|sformatted=Palpatine|book=From a Certain Point of View}}</ref>
+
+Despite Sidious's careful planning for seizing complete power over the Empire, his plans were jeopardized when the Rebel Alliance succeeded in destroying the Death Star during the Battle of Yavin, killing Tarkin and most of the Empire's high-ranking officers. The only survivors were Sidious's apprentice, Darth Vader, who had failed to defend the space station and General Tagge who had been sent to investigate Princess Leia Organa's claims about an active Rebel base on Dantooine. The Rebels' victory at Yavin was followed by another [[Attack on Cymoon 1|victory]] on [[Cymoon 1]], where a Rebel team destroyed the Empire's main production facility, [[Weapons Factory Alpha]]. Several other assaults by Rebel forces, such as the bombing of a supply base on [[Imdaar]] and the shipyards at [[Kuat]], harassed the Empire in the weeks following the Death Star's destruction. In addition, the aftermath of the Death Star's destruction saw a rise in pirate activity against Imperial supply convoys as the galactic government was no longer seen as invulnerable. The Empire's hold over vital worlds also began to slip; one of the worlds which began to question Imperial domination was the mining world of [[Shu-Torun]]. Ruled by a mercantile nobility called the [[ore-duke]]s, Shu-Torun provided important materials the Empire required for its construction projects, including the development of the [[Death Star II|second Death Star]], and the Emperor constantly demanded higher tithes, especially in the aftermath of the Battle of Yavin. Opposing this unsustainable increase, the Ore-dukes convinced their aged [[Unidentified King of Shu-Torun|King]] to rebel against the Empire.<ref name="Darth Vader 1" /><ref name=":Star Wars 4">''[[Star Wars 4: Skywalker Strikes, Part IV]]''</ref><ref name="Darth Vader 2">''[[Darth Vader 2: Vader, Part II]]''</ref><ref name="Darth Vader Annual 1">''[[Darth Vader Annual 1]]''</ref>
+
+Determined to prevent the destruction of his Empire, Sidious reorganized Imperial High Command by appointing General Tagge as [[Grand General]] with command of all military matters. Tagge had argued against the strategy of having the Death Star as the Imperial military's sole weapon, believing that the military was all that was needed to safeguard the Empire and that depending on a single weapon was inviting catastrophe. Vader, who had failed to protect either the Death Star or Cymoon 1, was demoted and ordered to serve under Tagge as the Grand General saw fit. The Emperor gave orders that the military was to focus its attention on the conquest of the Outer Rim until the time when the second Death Star was completed. Tagge and Vader begun targeting the pirates for destruction as well as cracking down on criminal elements which had gone unchecked in the past, such as the [[Son-tuul Pride]].<ref name="Darth Vader 1" /><ref name="Darth Vader 2" /><ref name="Darth Vader 7">''[[Darth Vader 7: Shadows and Secrets, Part I]]''</ref>
+
+The only ones spared the Empire's wrath were the [[Hutt]]s, who had entered into an alliance with the Empire. Needing raw materials for Imperial military production and knowing that the Hutts could provide them for the right price, Sidious [[Attack on Cymoon 1#Aftermath|sent]] Vader to Tatooine to negotiate an agreement with [[Jabba Desilijic Tiure|Jabba]] for their support in exchange for the Hutts being allowed to maintain their power base in the Outer Rim and the underworld. The destruction of competitors, such as the Son-tuul Pride, also allowed the Hutts to profit from the alliance as their position in the underworld fell to them.<ref name="Darth Vader 7" />
+
+When Shu-Torun rose up in [[War on Shu-Torun|open rebellion]] against the Empire following Darth Vader's brutal suppression of an assassination attempt made against him by the King, Sidious sent his apprentice back to the mining world with a large military force at his command. His orders were to end the Ore-dukes' rebellion and preserve the Imperial-backed government led by Queen [[Trios]], whom Vader had placed on the throne after her father's treason.<ref name="Darth Vader Annual 1" /><ref name="Darth Vader 16">''[[Darth Vader 16: The Shu-Torun War, Part I]]''</ref>
+
+At some point following the Battle of Yavin, the Emperor's luxury yacht ''Imperialis'' was [[Theft of the Imperialis|stolen]] by the gambler [[Lando Calrissian]] and his associates while it was undergoing repairs at [[Sienar Fleet Systems]]' [[Orbital Shipyard CC-24]] above the planet [[Castell]]. Grand Vizier Amedda informed the Emperor of this loss.<ref name="Lando 1">''[[Lando, Part I]]''</ref> In response, the Emperor dispatched three Star Destroyers commanded by [[Commodore]] [[Idel]], [[Captain]] [[Shan (Captain)|Shan]], and Captain [[Conro]] to recover his ship. These Star Destroyers destroyed CC-24 to punish the base's Commander [[Pasqual]] for failing to protect the Emperor's property. After the Star Destroyers failed to recover the ship, the Emperor dispatched the bounty hunter [[Chanath Cha]] to recover the vessel. Should she fail to recover it, he instructed her to destroy the ''Imperialis'' to avoid letting its secrets fall into the hands of others.<ref name="Lando 2">''[[Lando, Part II]]''</ref> Unwilling to harm her former friends Lando and [[Lobot]], Chanath opted to destroy the vessel instead.<ref name="Lando 5">''[[Lando, Part V]]''</ref> The wreckage of the ''Imperialis'' eventually ended up on [[Quantxi]], the junk moon of Ord Mantell.<ref name="Aftermath: Life Debt" />
+
+====Eliminating the competition====
+{{Quote|I was intrigued by the scientists. What could they achieve if unfettered by the hypocritical morality of the Old Republic? We would see. For is it not my duty to chart the possibilities? [...] Cylo grew powerful. His tendrils were deep in Tarkin's Initiative. His cancer was one with its flesh. If I simply tore him free, I would risk a schism of the Empire's great minds. While the Death Star was being constructed, that was unthinkable. After its destruction, it was even more so. I had to make him overplay his hand.|Darth Sidious to Darth Vader about Cylo|Darth Vader 20: End of Games, Part I}}
+In the aftermath of Darth Vader's failure to prevent the Death Star's destruction, Sidious was approached by one of the scientists involved in the [[Tarkin Initiative]]: Doctor [[Cylo]]. One of the specialists who had saved Vader's life after sustaining his fatal injuries on Mustafar, Sidious had kept him on and funded his research into upgrading organic species into [[Cybernetics|cybernetically]]-enhanced subjects. Cylo believed that organisms could only survive by adapting with technology, and eliminating weaknesses. He also believed that, in the new world he foresaw, the Force would be rendered obsolete. Although Sidious dismissed these thoughts by saying that everything was of the Force, he was curious to see what these scientists could do unconstrained by the presence of the Old Republic or the Jedi.<ref name="Darth Vader 20" /><ref name="Darth Vader 5">''[[Darth Vader 5: Vader, Part V]]''</ref><ref name="Vader 6">''[[Darth Vader 6: Vader, Part VI]]''</ref>
+
+During the twenty years which had passed since the end of the Clone Wars, Cylo had worked to create several [[Whale-ship|subjects]] which possessed the best genetic and cybernetic upgrades that he could provide, preparing them as potential enforcers for the Empire. With Vader's disgrace clear and the Emperor's need for strong elements to prevent further damage being done to the Empire, Cylo suggested that he replace his apprentice with one of his subjects. Vader's role would be reduced to a ceremonial one, while the doctor's subjects would enforce Sidious's will throughout the galaxy. Intrigued by Cylo's proposition, Sidious agreed to provide his subjects with a chance to impress him.<ref name="Darth Vader 5" /><ref name="Vader 6" />
+
+However, unbeknownst to the scientist, the Emperor had come to believe that Cylo had grown too powerful as a result of his involvement with the Tarkin Initiative. He could do nothing about it because of the doctor's connection with several of the Empire's greatest scientific minds, and removing him could cause a splint among them. When Cylo presented him his plan however, Sidious knew that he could cause him to overplay his hand which would make him a traitor to the Empire. Knowing that Vader would be the perfect foil to Cylo's subjects, the Emperor made sure the two men met. The day he informed Vader of his punishment for his failure at the Imperial Palace on Coruscant, he also summoned Cylo for a private meeting. When his apprentice asked who the scientist was, Sidious refused to answer him, leading Vader to conduct his own investigation into the Emperor's secrets.<ref name="Darth Vader 20" /><ref name="Darth Vader 1" />
+
+After Vader's hired bounty hunter [[Black Krrsantan]] successfully apprehended Cylo in his fourth body, he revealed under torture the location of his [[Cylo's research base|secret research base]]. The Sith Lord made his way to the base where he began an [[Skirmish in Cylo's research base|assault]] to find his potential rivals and destroy them. However, Cylo-IV's death at the hands of Vader's torture droid [[0-0-0]] had not killed the scientist: having recreated himself as an immortal system, whenever one of Cylo's bodies died, another was activated on board his research base. Cylo-V had guessed that Vader had discovered the location of his base and that he would be coming when he was activated. As such, he contacted the Emperor so that he could give him a demonstration of his subjects. Sidious arrived as Vader was about to kill the scientist. Only his intervention saved Cylo-V from suffering his predecessor's fate. With all the elements for his plan to begin, the Emperor demanded Cylo start the presentation.<ref name="Darth Vader 4">''[[Darth Vader 4: Vader, Part IV]]''</ref><ref name="Darth Vader 5" />
+
+As they fought with Vader, Cylo presented to him the subjects that he had been working on over the past twenty years: [[Aiolin Astarte]] and [[Morit Astarte]], twins born to a family which had supported the Separatists during the Clone Wars, who had been upgraded genetically and cybernetically to possess abilities similar to the Jedi and Sith of old without having to use the Force; [[Tulon Voidgazer]], a genius scientist involved with high-level R&D development before she was upgraded with a cloud of drone-droids, connected directly to her brain, who allowed her to see and fight through them; Commander [[Karbin]], a Mon Calamari veteran of the Clone Wars who had spent eighteen years on life support after his ship crashed, and who had been upgraded into a model resembling the late General Grievous and trained in lightsaber combat. Finally, Cylo had created a system which could possess various hosts, tested on a [[Unidentified Trandoshan (Cylo-V's warrior)|Trandoshan]], and remove any traits the Emperor would not desire, such as pain and emotions. Sufficiently impressed, Sidious demanded a real demonstration of their abilities. Vader and the subjects began to fight to the death against one another, and the [[Trandoshan]] was killed by Morit before the Emperor called a stop to the fight. He announced that he would find a use for every one of them, but that only one would win a place as his enforcer. The sole rule he established was that they not kill each other; or make sure if they did that he not find out. As he made to leave, the Emperor called Vader to speak to him privately.<ref name="Vader 6" />
+
+====A worthy apprentice====
+{{Quote|Do not underestimate how much you disappointed me on Mustafar. I saved you, but you showed how much off the mark you fell. [...] The dark side is strength. If they defeat you, they are stronger. If you defeat them, you prove you are. This is the way of the Sith. I named you "Vader" after you pledged yourself to the Sith. You proved yourself worthy of it then. I am certain you will prove yourself worthy now.|Darth Sidious|Darth Vader 6: Vader, Part VI}}When they were alone, Sidious complimented Vader on his ability to discover Cylo's project. He was also impressed with his apprentice's ability to act beyond his knowledge, and how he had been able to [[Secret mission to Geonosis|acquire]] a private army of [[BX-series droid commando|Separatist-era commando droids]] to use for his own ends. Vader was displeased with being forced to prove himself against Cylo's subjects, especially as he considered them blasphemous to the ways of the Force. Sidious chastised him for reprimanding him, reminding him that he was the teacher while Vader remained the apprentice: his task was to learn what Sidious knew, and Sidious's was to discover what there was to teach. The Emperor also revealed that he needed Vader to overcome the disappointment he had caused in him when he almost fell on Mustafar, and prove himself worthy of carrying the name Sidious had given him when he had pledged himself to the Sith. With his business concluded, the Emperor left Cylo's base and returned to Coruscant.<ref name="Vader 6" />
+
+At the Emperor's directive, Cylo's subjects were placed at Grand General Tagge's disposal, while the doctor acted as a consultant for the military. The rivalry between them and Vader eventually led to the [[Battle of Vrogas Vas|confrontation]] with the Rebel Alliance on [[Vrogas Vas]]. As a result of Karbin's manipulation, Vader crashed on Vrogas Vas when he confronted three Rebel squadrons. One pilot chose to crash his X-Wing into Vader's TIE fighter to bring him down. On the surface, Vader confronted a large force or Rebel soldiers assembled by Leia Organa to eliminate his threat. The confrontation culminated in a battle between the Sith Lord and Karbin which resulted in the latter's death. The Rebellion suffered important losses on Vrogas Vas, and Karbin's disappearance led the Emperor to search for him. Vader eventually made his way to Coruscant where he presented his Master with Karbin's corpse. Although Sidious was annoyed that his apprentice had violated his rule, he was impressed when Vader challenged him to provide him with another way to prove himself worthy of his trust. The Emperor gave his apprentice command of the military force he was sending to Shu-Torun to preserve Queen Trios's hold on the throne. However, he also sent Cylo and his remaining subjects, apparently on Grand General Tagge's request. Before Vader left the Imperial Palace, Sidious warned him not to disappoint him, as he relied on him more than he let on.<ref name="Darth Vader 16" />
+
+Vader's campaign on Shu-Torun was a success, and the rebellious Ore-dukes were brought down. In the middle of the battle, Cylo attempted to have his rival killed by forming an alliance with Baron [[Rubix]], the leader of the Shu-Torun rebels. Vader evaded the trap and, with the help of a dying Aiolin Astarte who had been betrayed by her brother, secured the proof needed to prove the doctor's treachery from her memory circuit. Once Vader's business was concluded on Shu-Torun, he informed the Emperor of Cylo's betrayal, and told him that he had fled with his remaining subjects. Pleased that his plan had worked, Sidious summoned Vader to him on the shipyard where the [[Executor-class Star Dreadnought|''Executor''-class Star Dreadnought]] ''[[Executor]]'' was being built.<ref name="Darth Vader 17">''[[Darth Vader 17: The Shu-Torun War, Part II]]''</ref><ref name="Darth Vader 18">''[[Darth Vader 18: The Shu-Torun War, Part III]]''</ref><ref name="Darth Vader 19">''[[Darth Vader 19: The Shu-Torun War, Part IV]]''</ref><ref name="Darth Vader 20" />
+
+====End of Games====
+[[File:Vader_and_the_Emperor_Executor_meeting.png|thumb|left|250px|Vader meets with the Emperor aboard the Executor.]]
+At Kuat, the Emperor revealed his fear of Cylo's growing influence to his apprentice, the doctor's role in rebuilding him, and the purpose of the contest for his position as an enforcer. Vader recognized that, should one of his rivals had been the last one standing, the Emperor would be having the same conversation with them. However, he declared that he had succeeded and that he represented the strength of the dark side. Sidious was pleased with his apprentice's success and ordered him to find Cylo and destroy him.<ref name="DV 20">''[[Darth Vader 20: End of Games, Part I]]''</ref>
+
+While the ''Executor'' was still under construction, Cylo's fleet [[Hijacking of the Executor|attacked]] the dreadnought. During the assault, one of his creations, Tulon Voidgazer sabotaged the vessel. Sidious contacted Tagge, demanding to know what was happening, however the general and his crew were knocked unconscious by toxic gas. The Emperor was then informed by one of his guards that they were trapped.<ref name="DV 22">''[[Darth Vader 22: End of Games, Part III]]''</ref>
+
+After Vader killed Cylo's minions and destroyed his current body, he informed the Emperor of his success. Pleased with his apprentice, Sidious told him to finish his mission then return. At that moment, the [[archaeologist]] Dr. [[Chelli Lona Aphra|Aphra]] entered his private chambers. She then claimed they had a "mutual friend" and that she had things the Emperor needed to know.<ref name="Darth Vader 24">''[[Darth Vader 24: End of Games, Part V]]''</ref>
+
+After Vader finished off Cylo for good, he returned to his master. It was then that Sidious told Vader that Aphra had informed him of all of his secret endeavors, many of which had been technically treasonous. However, rather than chastise or punish Vader, the Emperor told his apprentice that he was impressed with his ambitions and that he was everything he could have hoped for. He then left Vader to deal with Aphra as he pleased. Due to Tagge's failure, the Emperor demoted him and transferred command of the ''Executor'' and its [[Death Squadron|fleet]] to Vader. Pleased with his apprentice, he left him to "educate" his subordinates of the future.<ref name="Darth Vader 25">''[[Darth Vader 25: End of Games, Part VI]]''</ref>
+
+===="A great disturbance in the Force"====
+[[File:Threatofskywalker.png|thumb|right|250px|Lord Vader and Emperor Palpatine discuss the growing power of Luke Skywalker.]]
+{{Quote|There is a great disturbance in the Force."<br />"I have felt it."<br />"We have a new enemy: the young rebel who destroyed the Death Star. I have no doubt this boy is the offspring of Anakin Skywalker.|Darth Sidious and Darth Vader, about [[Luke Skywalker]]|Star Wars: Episode V The Empire Strikes Back}}
+Three years after the Battle on Yavin, Emperor Palpatine's Empire had managed to gain [[Battle of Hoth|a major victory]] by capturing the Rebel base on the ice planet of Hoth. However, something bigger was growing. He ultimately contacted Admiral Piett, telling him to have Darth Vader contact him immediately. Vader did as he was instructed and was told of his son for the first time.<ref name="Episode V" /> Vader however, had known of his son's existence since Cymoon 1.<ref name="Vader 6" />
+
+====Fall of the Sith====
+{{Quote|The Force is strong with him. The son of Skywalker must not become a Jedi."<br />"If he could be turned, he would become a powerful ally.|Darth Sidious and Darth Vader, about turning Luke Skywalker to the dark side|Star Wars: Episode V The Empire Strikes Back}}
+In the months after the [[Duel on Cloud City|showdown]] on Bespin, Luke Skywalker would continue to hone his skills in the light side of the Force, nonetheless Sidious still believed Luke liable to turn to the dark side.<ref name="Episode VI" />
+
+In an attempt to gain a new Sith apprentice as well as end the Galactic Civil War,<ref name="Episode VI" /> Sidious purposely allowed the Rebels to obtain the plans of the new Death Star under construction over the forest moon of [[Endor]]. Following the presumed destruction of a vast majority of the Rebellion in a doomed confrontation against an unknowingly armed and operational Death Star, Sidious planned on commencing the deployment of some of the largest invasion fleets known in galactic history to blockade the known rebel strongholds of [[Mon Cala]] and [[Chandrila]] until the Death Star II could destroy them, permanently ending the Rebellion and all those that would oppose his rule through sheer terror.<ref name="Moving Target">''[[Moving Target: A Princess Leia Adventure]]''</ref>
+
+[[File:SidEmp.png|thumb|left|300px|Emperor Palpatine greets Vader during his arrival on Death Star II.]]
+The Emperor, using the lack of progress in the station's construction as an excuse went to the second Death Star to oversee the defeat of the Rebellion and the fall of the Jedi Order, once and for all.<ref name="Episode VI" /> Shortly before his meeting with Luke Skywalker and his death at Endor, the Emperor sensed the existence of a mysterious being known as [[Snoke]], who was also a master of the dark side of the Force and was going to succeed him as leader, but even the Emperor wasn't sure who or what he was sensing.<ref name="Expanded Edition" />
+
+====Meeting Luke Skywalker====
+{{Quote|I'm looking forward to completing your training. In time, you will call me master.|Emperor Palpatine to Luke Skywalker|Star Wars: Episode VI Return of the Jedi}}
+Whilst on the Death Star, Luke Skywalker, [[Han Solo]], Princess Leia and [[Chewbacca]] managed to sneak past the shield and land on the Sanctuary Moon. Vader, who had been told to dispatch the fleet to the moon and to remain on a command ship, sensed his son's arrival. Because of this, he journeyed to the Death Star, where he told the Emperor that he sensed Luke's arrival. Surprised that he was unable to sense it, he told Vader to go and wait for him, saying that he had foreseen Luke seeking Vader out and surrendering to him personally in an attempt to redeem his fallen father.<ref name="Episode VI" />
+
+Shortly after Skywalker and the rebel strike team landed on Endor, the Emperor summoned his secret protege Admiral Gallius Rax for a secret meeting aboard his throne room on the second Death Star. Sensing a [[shatterpoint]] approaching, Darth Sidious warned Rax that it may soon be time to implement the Contingency. He then ordered Rax to take the [[Super Star Destroyer]] ''[[Ravager]]'' into the [[Vulpinus Nebula]] and hide until the events of this shatterpoint had resolved. He also told Rax that there would be others he had to call to his side.<ref name="Empire's End" />
+
+Once Luke did this Darth Vader brought his son to the space station and his master's throne room. The Emperor greeted Luke, dismissed the Royal Guards and removed his chains. Luke was told that the Emperor planned to turn Luke to the dark side and that all that has happened on the Moon was all his plan. The Emperor also managed to explain that his father was irredeemable and could never be turned from the dark side. Sidious also had a surprise in store for the Rebels. When the Alliance Fleet arrived, the Death Star's superlaser was operational, contrary to what the Rebels had been led to believe. The Death Star was able to destroy several of the command ships, but the Rebels both on the surface and in space managed to press forward with their attack, as Lando was counting on Han to destroy the Shield Generator.<ref name="Episode VI" />
+
+Luke was then manipulated by the Emperor, who told him of his friends' impending doom and Luke was told that he would soon become his apprentice. Luke at first resisted, but as the Emperor continued to taunt him, Luke grew angrier and then grabbed his lightsaber to strike the old man down. Darth Vader intercepted Luke's strike and the two began to engage in a duel much to the Emperor's delight.<ref name="Episode VI" />
+
+[[File:Palpatine saber clash.png|thumb|right|300px|Sidious watches as Luke and Vader engage in a Lightsaber duel.]]
+Luke was first able to calm himself, refusing several times to continue fighting his father. Luke attempted to hide from Vader as their fight became more intense but Vader was able to sense his son's thoughts and learned that Luke had a sister. With this knowledge, Vader told Luke that if he did not turn to the dark side, perhaps Leia would. The threat of losing his sister enraged Luke and drove him to angrily attack Vader.<ref name="Episode VI" />
+
+Although he nearly killed Vader and cut off his mechanical hand, Luke began to see what had happened and that he was dangerously close to becoming like his father was now; a slave to the dark side of the Force. Luke threw away his lightsaber and turned to face the Emperor. He told Emperor Palpatine that he would never turn to the dark side and that he was a Jedi, like his father before him.<ref name="Episode VI" />
+
+====Death====
+{{Quote|If you will not be turned, you will be destroyed!|Emperor Palpatine to [[Luke Skywalker]]|Star Wars: Episode VI Return of the Jedi}}
+[[File:First Death 2.png|thumb|left|300px|Sidious plummets down the second Death Star's reactor shaft to his death.]]
+Angered by this, Sidious unleashed Force lightning upon him, forcing him onto his knees and begging his father to help him. The Emperor then proceeded to torment Luke, remarking that his feeble skills were no match for the power of the dark side, and that Luke was weak and foolish.<ref name="Episode VI" /> Meanwhile, Darth Vader watched his son struggling. Forced to choose between saving his son and obeying his master, he eventually chose to save his son by grabbing the Emperor and throwing him off a ledge to his imminent death, destroying the Sith.<ref name="Episode VI" />
+
+With his armor badly damaged by the Emperor's lightning, the decision to save his son's life would cost him his own. Luke tried to convince Anakin to let him be saved by him, but Anakin told Luke that he already did and that he was right about there still being good in him, despite all that he had done.<ref name="Episode VI" /> With his death, Anakin had fulfilled the ancient prophecy as Qui-Gon Jinn had believed he would thirty-six years earlier.<ref name="Episode I" />
+
+===Legacy===
+{{Quote|Resistance. Rebellion. You will burn these ideas away.|Darth Sidious to Commander [[Iden Versio]]|Star Wars Battlefront II}}
+[[File:Sentinel BFII.png|thumb|right|200px|A [[Sentinel (Contingency)|sentinel]] bearing Sidious's visage]]
+Following his demise, the Empire attempted to suppress the true outcome of the Battle of Endor. In the [[Anoat sector]], which was cut off from the rest of [[the galaxy]] by an Imperial [[Iron Blockade|blockade]] in the days following the attack, Imperial [[propaganda]] claimed that the attack on the second Death Star had failed and the rebellion was no longer a threat. Despite the fact that Skywalker witnessed the death of both the Emperor and his father, rumors about Vader's and the Emperor's possible survival began to spread immediately.<ref name="Aftermath" /> Rumors of the Emperor's death, however, were dismissed as treasonous fabrications.<ref name="Uprising">''[[Star Wars: Uprising]]''</ref> The Emperor also posthumously ordered [[Operation: Cinder]], which called for the scouring of multiple rebellious worlds, including his own homeworld of Naboo.<ref name="Shattered Empire 2">''[[Shattered Empire, Part II]]''</ref>
+
+Months after Endor, dark side adherents such as the [[Acolytes of the Beyond]] would worship Vader and the dark side of the Force on planets across the galaxy such as the planet [[Taris]]. On the other hand, Imperial generals like [[Jylia Shale]] called their former Emperor a "decrepit old goblin who believed in the 'dark side' of some ancient, insane religion".<ref name="Aftermath" />
+
+While searching the [[Hall of Imperial Register]] on Coruscant<ref name="Aftermath: Life Debt" /> in [[5 ABY]],<ref name="Life Debt">{{LifeDebtdate}}</ref> Grand Admiral Rae Sloane discovered that the Emperor's personal Super Star Destroyer ''[[Eclipse (Executor-class)|Eclipse]]'' had mysteriously disappeared instead of being destroyed by the [[New Republic]] as reported in the Imperial charts. She also found an [[image crystal]] showing a still image of Palpatine and several Imperial Royal Guards, stormtroopers, and officials including [[Wullf Yularen]], Dodd Rancit, [[Terrinald Screed]], Grand Vizier Mas Amedda, and Gallius Rax. Rax had since risen to the rank of [[Fleet Admiral]] and was Sloane's secret puppet-master. Following the [[Attack on Chandrila]], Rax brought the remnants of the Empire to Jakku.<ref name="Aftermath: Life Debt" />
+
+Though Rax claimed that he was testing the resolve of the Empire before a [[Battle of Jakku|showdown]] with the New Republic, Rax secretly intended to carry out the Contingency. The Contingency involved orchestrating a battle between the Imperial remnants and the New Republic fleets and destroying the two belligerents by detonating Jakku's core. The Jakku [[Observatory]] contained a deep borehole which led to the planet's core. Rax planned to pour various Sith artifacts into the borehole in order to activate the planet's self-destruction. In secret, Rax had arranged for himself and several "worthy" Imperials including [[Brendol Hux]], his son [[Armitage Hux]], and a contingent of child soldiers to flee into the Unknown Regions. Sloane managed to stop Rax's plan to destroy Jakku with the help of the rebels [[Norra Wexley]] and [[Brentin Lore Wexley]]. Despite perishing on Jakku, Rax succeeded in fulfilling his master's orders to bring about the collapse of the "Old Empire".<ref name="Empire's End" />
+
+Eventually, Sidious' legacy ended up becoming the basis of the regime that developed into the [[First Order]], the Empire's successor, led by the mysterious Snoke, who took over the position of [[Supreme Leader]] of the Order.<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref> As such, Sidious' visions about whoever was Snoke, he would succeed him as leader, were fulfilled. After wiping out most of what remained of the Imperial leadership, with exceptions like [[Armitage Hux]], Snoke went to discover several truths about Sidious, such as the fact that Sidious' Contingency had always been a two-fold plan, one that involved ensuring the Empire's rebirth among the survivors of the old Empire.<ref name="Expanded Edition" />
+
+In [[34 ABY]], thirty years after the Battle of Endor, Sidious's voice was heard during a [[Force vision]] experienced by the [[Jakku]] Force-sensitive [[scavenger]] [[Rey]] at [[Maz Kanata's castle]].<ref name="Super Graphic">''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''</ref> Sometime afterwards, while teaching Rey on [[Ahch-To]], Luke Skywalker cited the rise of Darth Sidious and the Empire he created along his father as the crucial failure of the Jedi Order.<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
+
+==Personality and traits==
+{{Quote|We shall double our efforts.''"<br />"''I hope so, Commander, for your sake. The Emperor is not as forgiving as I am.|Commander Jerjerrod and Darth Vader|Star Wars: Episode VI Return of the Jedi}}
+[[File:Sep council sidious.png|thumb|right|220x220px|Sidious speaks, in a hologram, to the [[Separatist Council]].]]
+Prior to the creation of his Empire, Palpatine was careful to put on a charade, presenting himself as a grandfatherly gentleman and a servant of the public good. When in character, he often spoke of himself with great modesty, and maintained only as much luxury as was expected of someone of his stature.<ref name="explEPII">{{SW|url=explore/the-movies/episode-ii/|text=Star Wars: Episode II - Attack of the Clones}} {{C|Relationships: Palpatine}}</ref> However, Palpatine was in fact a skilled manipulator and strategist, having orchestrated countless events in the galaxy, from the Invasion of Naboo to the Clone Wars, with the sole aim of increasing his own power.<ref name="SWEPalpatine" /> Even when something occurred that he did not initially plan for, the Sith Lord demonstrated that he was as adept at improvisation as he was at plotting.<ref name="Episode I" />
+
+After his ascension to Galactic Emperor, Palpatine essentially dropped his public persona and started living as Sidious full-time.<ref name="SWESidious" /> Despite this however, very few people other than Vader and some of the Royal Guards knew that Palpatine was a Sith, as he took great pains to hide his capabilities.<ref name="LOTS" /> Even Grand Moff Wilhuff Tarkin, perhaps Sidious's most trusted servant besides Vader, only suspected that Sidious was a Sith. Freed from having to portray his gentle alter-ego, Palpatine allowed his true personality, one of great cruelty and sadism, to occasionally shine through in ways that were obvious even to the most sycophantic of his servants. This caused many of those who worked closely with him, such as Senator Orn Free Taa and some of the Empire's intelligence chiefs, to greatly fear him. Palpatine was also known to loath ostentation and luxury.<ref name="LOTS" /><ref name="Tarkin" />
+
+[[File:Palpatine-TCW.jpg|left|thumb|200px|Palpatine as Supreme Chancellor of the Galactic Republic.]]
+Palpatine's most defining trait was his deeply manipulative nature, seducing many parties with promises of power, prize, even salvation to further his agenda. He successfully manipulated the leaders of the Separatists and Count Dooku under the pretense of a better future<ref name="Episode II" />; coerced Anakin Skywalker into becoming Darth Vader by promising to save his beloved, Padme Amidala<ref name="ROTS" />; attempted to sweet talk Bridger with being able to reunite with his deceased parents by altering fate<ref name="FRAF" />; and also tried to push Luke Skywalker into murdering his father and rule the Galaxy together.<ref name="Episode VI" /> While trying to steer Bridger he displayed himself in his public personality via hologram, showing himself as benign and polite. Once Bridger frustrated his plans, his true malignant self was revealed.<ref name="FRAF" />
+
+After toppling the Republic and shedding his benevolent persona, Sidious essentially disappeared from public life, and left most of the day-to-day affairs of the Empire in the hands of the [[Imperial Ruling Council]]. His absence did not go unnoticed by the citizenry of the Empire, and rumors began to circulate that the Jedi assassination attempt had not only resulted in his disfigurement but in the death of the sanguine politician that he had once been. In order to quash the gossip and rumor-mongering, the Ruling Council took to dispatching skycar processions in Imperial Center in an effort to make it appear as though Sidious still moved about in public.<ref name="Tarkin" />
+
+As Emperor, Sidious devoted most of his time to study and meditation, often in the ancient Sith shrine situated beneath the Imperial Palace. Wishing to rule his Empire for eternity, Sidious launched numerous inquiries into the topic of immortality. One of the most notorious of these was [[Project Blackwing]]; an attempt to unlock the secrets of immortality through Sith alchemy, but the project ended in failure.<ref name="Commander">''[[Star Wars: Commander]]'', chapter 9</ref> However, Sidious's true goal was ultimately to discover a way to use the dark side to manipulate reality itself, and with that power, not only achieve what he termed "mere immortality" but acquire the ability to reshape the galaxy and its people to his satisfaction. Whether or not Palpatine made any significant progress in obtaining this goal is not known however, as he would have needed Vader's assistance to perform the sorts of rituals he had in mind.<ref name="Tarkin" />
+[[File:Palpy ANGRY.png|right|thumb|When angered, Sidious was a frightening sight to behold and an overpowering opponent.|235x235px]]
+To those who had been at his nonexistent mercy, Sidious was known to be exceptionally sadistic, and he often took visible pleasure in torturing others.<ref name="The Lawless" /> He was similarly quite bloodthirsty as well, and frequently reveled in combat to the point of laughing while he fought or killed.<ref name="ROTS" /><ref name="The Lawless" /><ref name="Tarkin" /> He was also noted for his lack of forgiveness. Darth Vader, who was well known for summarily executing officers who failed him, considered Palpatine to be even less clement than himself.<ref name="Episode VI" /> According to [[Sosha Soruna]], the reason Palpatine left his homeworld of Naboo relatively untouched during his reign was because he enjoyed tormenting the populace with the fact that he could destroy the serene beauty of the planet at anytime.<ref name="Shattered Empire 2" /> In spite of his exceptional mastery of the dark arts, he was no less susceptible to fear, one of the primary emotions of the dark side, than any other Sith: after being attacked by a powerful [[Force push]] from Yoda, he displayed visible panic, attempting to flee rather than fight, and only confronted his opponent when he appeared to have no other choice.<ref name="ROTS" />
+
+Unlike his more conservative apprentice, Darth Vader, Sidious believed that progress was in no way contrary to the ways of the Sith. When Vader was presented to the cyborgs created by Doctor Cylo, he denounced them as abominations and heresy to the ways of the Force. However, Sidious claimed that he was merely an apprentice and was meant to learn what he knew, and that Sidious was meant to discover what there was to teach. He also dismissed Vader's hatred of technological superiority by replying that everything was of the Force.<ref name="Vader 6" />
+
+Due to his Sith philosophy, Sidious was seemingly unwilling to let anyone else inherit the Galactic Empire in the event of his death. Using a game of Shah-tezh as an illustration, Palpatine seemed to believe that the Empire's sole purpose for existence was to protect his own life and well-being. He believed that the Empire was a failure if it failed to live up to this purpose. Even before the formation of the Empire, Sidious had prepared for this fate by formulating a Contingency plan. The Contingency involved luring the Empire to the barren Inner Rim planet Jakku and detonating the planet's core; destroying both the planet and the orbiting Imperial and enemy fleets. The key to the Contingency was the Jakku Observatory (which concealed a borehole that penetrated the planet's core) and Gallius Rax, a native of Jakku who rose to become [[Counselor to the Empire]]. As the Contingency showed, Sidious seemed to be willing to risk the lives of countless subjects to prevent the Empire from outliving him.<ref name="Empire's End" /> Sidious also regarded Rax as a confidante and allowed him to address him as Sheev Palpatine.<ref name="Aftermath: Life Debt" /> Decades after his death, however, Supreme Leader Snoke, a leader who had taken control of the First Order, an organization built out of the remnants of the Galactic Empire, had by then discovered that Palpatine's Contingency as a matter of fact involved ensuring the Empire's rebirth, going as far as secretly constructing shipyards and laboratories within the Unknown Regions in pursuit of this goal. <ref name="Expanded Edition" />
+
+During the Imperial Era, Darth Sidious sought to gain access to the World between Worlds in order to control time and the universe.<ref name="A World Between Worlds" /> He was even willing to manipulate Ezra by offering him the chance to reunite with his parents. However, Darth Sidious underestimated Ezra's hatred for the Empire and devotion to the Rebellion and new-found rebel family.<ref name="FRAF" />
+
+Prior to his disfigurement, Palpatine was a slim man sporting wavy hair, a prominent nose, blue eyes, and a narrow face.<ref name="Episode I" /> By 32 BBY, his red hair was graying,<ref name="Episode I" /> and it had turned entirely silver ten years later.<ref name="Episode II" /> After his duel with Windu, Palpatine's visage was heavily disfigured and withered, with deathly pale, wrinkled skin, flesh sagging from his bulging forehead and around his piercing yellow eyes.<ref name="Episode VI" /> His voice was altered to a degree as well, becoming deeper and taking on an edge that many found to be sinister. Tarkin however was of the opinion that Palpatine's voice merely sounded strained when compared to that of his pre-war persona.<ref name="Tarkin" /> For most of his reign, the Emperor remained away from public view and crafted holograms or idealized portraiture that depicted him in his prime, as he was in the last years of the Galactic Republic.<ref name="SWP">''[[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]''</ref>
+
+==Power and abilities==
+{{Quote|Do not underestimate the powers of the Emperor, or suffer your father's fate, you will.|Yoda, to Luke Skywalker|Star Wars: Episode VI Return of the Jedi}}
+===Force powers===
+[[File:TorturePalpatine2321.png|thumb|right|250px|Palpatine using Force lightning.]]
+As the reigning Dark Lord of the Sith in his time,<ref name="SWEYoda">{{SWE|characters|yoda|Yoda}}</ref> Palpatine was incredibly powerful in the Force, with extreme levels of mastery over the powers of the Dark Side. He was extremely skilled in Force lightning, and was known to use this power both as a deadly attack,<ref name="ROTS" /> and as a means of [[torture]].<ref name="Episode VI" /> On several occasions on Ryloth he utilized blasts of Force lightning powerful enough to not have only killed the lyleks on contact, but badly charred and scorched their carapaces, which were tough enough to repel heavy blaster fire. On another occasion, he used the ability to damage a Twi'lek freighter's engines badly enough to pull it out of the sky with telekinesis.<ref name="LOTS" /> Sidious could use Force lightning in a number of creative ways, including striking multiple enemies at once, with the bolts jumping from one victim to the other, like a chain and imbuing the ground around a victim's feet with energy, effectively electrocuting them. His Force lightning's raw power was demonstrated to be far greater than that of Dooku's; while Yoda was able to effortlessly absorb and deflect Dooku's lightning, he was only able to partially deflect Sidious's. Another more obscure ability that he possessed was the power to produce a [[Dark Aura|dark aura]], a miniature storm of malevolent Force energy that slowed the movement of, and tortured all caught within its radius.<ref name="Battlefront II">''[[Star Wars Battlefront II]]''</ref>
+[[File:Dun Moch.png|thumb|left|Sidious demonstrates his prowess at telekinesis during his battle with Yoda.|218x218px]]
+
+He was also highly skilled with telekinesis; during his duel with Yoda, he levitated several Senate pods simultaneously, including the one he was standing on, with great dexterity and accuracy.<ref name="ROTS" /> Likewise, he was skilled enough with telekinesis that he was also able to remove Luke Skywalker's handcuffs while barely lifting his finger when meeting face to face on the second Death Star.<ref name="Episode VI" /> Sidious was capable of unleashing a Force push strong enough to easily send Maul and Opress flying and he was able to keep them pinned with little effort. He later effortlessly slammed Maul into the ground and walls, badly wounding him. Sidious was also highly skilled with Force choke. When he arrived on Mandalore, he was effortlessly able to telekinetically throttle two Mandalorians to death at once and used this power on two others while standing on the other side of the room that they were in.<ref name="The Lawless" /> He was even able to use his abilities on a target from hundreds of light years away, using only a holo-transmission to show his his target, allowing him to telekinetically choke and pick up Count Dooku and open the handcuffs of Bridger while projecting himself to their respective locations through the use of a hologram.<ref name="The Lost One" /><ref name="FRAF" />
+
+Darth Sidious was exceptionally adept at foreseeing the future, an ability which allowed him to plan for nearly any contingency.<ref name="LOTS" /> He believed that, with enough time and practice, he would eventually have been able to use the dark side to view the future with infallible accuracy.<ref name="Tarkin" /> The Dark Lord also was proficient in Sith magic, as he was able to cast a Dark illusion on Yoda using a ritual that applied Balc speech incantations and managed to access the World between Worlds using an unknown ritual. He was also capable of using Sith magic to generate a blue fiery energy, which he used to attack Ezra and Ahsoka, that he can use both as a weapon and a tool in order to bind and draw someone closer, as it did with Ezra; the energy wrapping around his leg and becoming akin to a tangible rope as well as knowledge of the ancient [[Sith tongue]].<ref name="A World Between Worlds" /><ref name="Sacrifice" /> The Dark Lord was also adept in the use of [[Mind trick|Force Persuade]] to such an extent that he was able to take complete control of a subject's mind and force them to obey his commands.<ref name="LOTS" />
+
+Likewise, he was also capable of using [[Dark Absorption]]<ref name="SW:FC">''[[Star Wars: Force Collection]]''</ref> He was also capable of telepathically communicating with Darth Vader over a distance of hundreds of light-years. It appeared however as though this ability may have been limited to sending and receiving relatively simple messages such as Vader requesting that a starfighter be shipped to him, as the two Sith Lords communicated through holoprojections while discussing more complex matters.<ref name="Tarkin" /> Palpatine also had a remarkably keen ability to sense the thoughts and feelings of others, including those of incredibly powerful Force adepts such as Darth Vader and Luke Skywalker.<ref name="LOTS" /><ref name="Episode VI" /> On a related note, he was also capable of hiding his own thoughts and feelings from even such individuals as Yoda, and managed to conceal his true dark nature from the entire Jedi Council for decades before deliberately revealing himself.<ref name="ROTS" /> Sidious also used [[Force Dash]].<ref name="Heroes and Villains">{{Cite_web|url=http://starwars.ea.com/starwars/battlefront/features/characters|title=Heroes and Villains|accessdate=2015-10-25}}</ref>
+
+===Lightsaber skills===
+[[File:MeesaGonnaKillYousa-TL.png|thumb|220x220px|Sidious engaging in combat with [[Savage Opress]].]]
+Despite his frail appearance, Sidious was incredibly skilled in [[lightsaber combat]], being one of the greatest duelists of all time. His tremendous skill allowed him to effortlessly slay Agen Kolar and Saesee Tiin—who were considered to be two of the finest lightsaber duelists of their time—each with a single blow, and while also engaged with Mace Windu, he slew the formidable [[Nautolan]] Kit Fisto only moments later. He then fought Windu on equal grounds for an extended period of time and even briefly had the upper hand, although he was ultimately disarmed by a kick to the face which caused him to drop his lightsaber. Later on, Sidious was able to duel almost evenly against Yoda in a lightsaber duel, but in the end he had to use his Force powers to force Yoda to retreat. Sidious had an extremely aggressive dueling style and augmented his swordplay by using Force-enhanced speed, which allowed him to kill three experienced Jedi Masters at once within seconds. His style was a combination of brutal aggression and lethal precision making him an almost unstoppable opponent. In fact, the only person known to have defeated him in a duel was Mace Windu, though he may merely have thrown the fight to feign helplessness once Anakin Skywalker had arrived.<ref name="ROTS" />
+
+[[File:Darth Sidious lightsaber - SW Card Trader.png|thumb|left|250x250px|One of Darth Sidious' lightsabers.]]
+Although Sidious usually used only one lightsaber, he was also exceptionally skillful in [[Jar'Kai]], wielding both of his lightsabers against Darth Maul and Savage Opress. Utilizing a ferocious yet fluid fighting style, Sidious easily held off the two brothers on equal grounds and ultimately separated them, stunning Maul for a brief time with the Force before   swiftly toying with and killing Opress. While Sidious showed some difficulty against his former apprentice, who put up a far more ferocious fight than Opress (due the latter's death and Sidious's subsequent taunts to him about him being replaced by Count Dooku) and appeared to match him with every blow, parry and kick, the Dark Lord eventually used all his superior strength in the Force to disarm and bring Maul to his knees in roughly only a minute. He was also skilled with [[Form V]], able to easily deflect every single blaster shot aimed at him when he fought on Ryloth.<ref name="LOTS" /> Prior to the Battle of Endor, Sidious sensed a shatterpoint looming and warned Gallius Rax to be ready to execute the Contingency plan to tear down the Empire.<ref name="Empire's End" />
+
+==Behind the scenes==
+[[File:MCQ-emperor.jpg|thumb|right|225px|Concept art of Emperor Palpatine by [[Ralph McQuarrie]].]]
+From the very beginning of the writing process on the [[1977]] original ''[[Star Wars]]'' film [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], director [[George Lucas]] had in mind the character that would eventually develop into the currently known Emperor. One of the earliest documents regarding the project is a paper dating to early [[1973]], which compiled a list of names to potentially use in the story. At the very top of this list appeared the name "Emperor Ford Xerxes XII", as Xerxes was a historical Persian king who was assassinated by his own son, and would be then changed to "Alexander Xerxes XII", then "Emperor of Decarte". None of these mentioned names would be used ultimately.
+
+In [[1983]]'s [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI - ''Return of the Jedi'']], Darth Sidious was never identified neither by his real name or his Sith alter ego on-screen, as he was referred just as "The Emperor" by most character of "Master" by Darth Vader.<ref name="Episode VI" /> The Emperor's name was supplied in supplementary materials, including the script for Episode VI. It wasn't until the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']], that the Emperor's name and alter ego were first mentioned on-screen.<ref name="Episode I" />
+
+===Portrayal and casting===
+[[File:Emperor TESB 1980.png|thumb|left|180px|Marjorie Eaton as Emperor Palpatine in the pre-DVD version of ''The Empire Strikes Back''.]]
+Darth Sidious, namely the Emperor at that time, was mentioned in ''A New Hope''.<ref name="Episode IV" /> The Emperor first appeared in the [[1980]] sequel [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']], played by the experienced actress [[Marjorie Eaton]].<ref name="Episode V" /> In ''Return of the Jedi'', the Emperor was played by [[Ian McDiarmid]]. McDiarmid then reprised the role for the three films of the prequel trilogy.<ref name="Episode I" /><ref name="Episode II" /><ref name="Episode III" />
+
+====''The Empire Strikes Back''====
+For ''The Empire Strikes Back'', the Emperor was portrayed by Eaton as an holographic image with test shots done by actress [[Elaine Baker]].<ref name="Making of Empire note">Though [[Elaine Baker]] is credited in ''[[The Making of The Empire Strikes Back]]'' as being the actress who appears in the final film, a [https://twitter.com/pablohidalgo/status/791503521925304320 twitter post] {{C|[[:File:Pablo Emperor actress tweet.png|screenshot]]}} by [[Lucasfilm Ltd.|Lucasfilm]] [[Lucasfilm Story Group|Story Group's]] [[Pablo Hidalgo]] suggests the information in the book is incorrect, making Marjorie Eaton (the actress credited with doing the test shots) the one who appears in the film.</ref> The mask worn by Eaton was sculpted by [[Phil Tippett]] and applied by [[Rick Baker]],<ref name="Emperor tweet">{{Twitter|pablohidalgo|status/791503521925304320|[[Pablo Hidalgo]]|quote=[Phil Tippett] sculpted the piece and Rick applied it.|image=File:Pablo Emperor actress tweet.png}}</ref> Elaine's husband. Eaton's face was then composited with an image of a chimpanzee for the eyes<ref name="Making of ESB">''[[The Making of The Empire Strikes Back]]''</ref> and the voice was provided by [[Clive Revill]].
+
+In the [[2004]] DVD release of ''The Empire Strikes Back'', Eaton was digitally replaced by McDiarmid, and the scene was re-shot to include new dialogue provided by McDiarmid and [[James Earl Jones]]. This re-shoot was shot during the production of the [[2005]] film [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']], which McDiarmid had a starring role in.<ref name="Episode V" />
+
+====''Return of the Jedi'' and the prequels====
+For ''Return of the Jedi'', the role was to be played by veteran thespian [[Alan Webb]], who was 75 years old at the time. However, as filming was about to commence, Webb fell ill due to the record cold [[Wikipedia:England|England]] was experiencing at the time. He wrote a letter to director [[Richard Marquand]], saying that he was very sorry, but that he felt the part was too big for him, shortly dying afterwards on [[June 22]], [[1982]]. English actor [[Wikipedia: Ben Kingsley|Ben Kingsley]] read then for the role, but was considered "very English" for playing the Emperor. With filming behind schedule, Ian McDiarmid was drafted in as a late substitute.<ref name="MakeROTJ">''[[The Making of Return of the Jedi]]''</ref>
+
+For the prequel trilogy, McDiarmid reprised the role for all three films, playing a younger Chancellor Palpatine in ''The Phantom Menace'' and a middle-aged Palpatine in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] and in ''Revenge of the Sith''. He became at first surprised that Lucas asked him to reprise the role, as he supposed that Darth Sidious would be played by a young actor, but he accepted the offer and returned for the role once more.<ref name="Episode I" /><ref name="Episode II" /><ref name="Episode III" />
+
+====TV shows====
+For the [[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]] and subsequent [[Star Wars: The Clone Wars (TV series)|TV show]], Darth Sidious was voiced by veteran actor[[Ian Abercrombie]]. Abercormbie passed away on [[January 26]], [[2012]], leading to the legendary actor [[Tim Curry]] to replace him in the final episodes of the series, for which he started to being credited since the fifth season finale "[[The Wrong Jedi]]".<ref name="The Wrong Jedi" />
+
+For ''[[Star Wars Rebels]]'', Sidious was voiced by ''Star Wars'' veteran [[Sam Witwer]] in the show's [[Star Wars Rebels Season Two|second season]]. For the [[Star Wars Rebels Season Four|fourth and final season]] of the show, McDiarmed returned to provide the Emperor's voice instead.
+
+===Concept and creation===
+{{Quote|You sort of see these recurring themes where a democracy turns itself into a dictatorship, and it always seems to happen kind of in the same way, with the same kinds of issues, and threats from the outside, needing more control.|[[George Lucas]]}}
+George Lucas compared the story of Sidious to real life individuals such as [[Wikipedia:Julius Caesar|Julius Caesar]], [[Wikipedia:Napoleon|Napoleon]], [[Wikipedia:Adolf Hitler|Adolf Hitler]], [[Wikipedia:Joseph Stalin|Joseph Stalin]], [[Wikipedia:Ferdinand Marcos|Ferdinand Marcos]] and [[Wikipedia:Alberto Fujimori|Alberto Fujimori]]. All of them used methods similar to the Emperor's while turning their respective democracies into personal dictatorships in real life. The Adolf Hitler similarities are particularly evident from Palpatine's position as Chancellor and the use of emergency powers to cement his hold on the waning Republic.<ref>{{SW|url=news/from-world-war-to-star-wars-rise-of-an-empire|text=From World War to Star Wars: Rise of an Empire}}</ref> Some commentators, however, see similarities between Palpatine and [[Wikipedia:Abraham Lincoln|Abraham Lincoln]], who also centralized political power in response to a secessionist Confederacy, but he laid his powers down upon the southern Confederacy's defeat. Palpatine's method of implicating Senators in a false conspiracy during his Declaration of a New Order is similar to that of [[Wikipedia:Joseph McCarthy|Joseph McCarthy]] during the [[Wikipedia:McCarthyism|Second Red Scare]] in 1950s America, though the McCarthyism was based on actual acts of espionage by communist spies.
+
+[[Wikipedia:Richard Nixon|Richard Nixon]] was used as the primary political model for the Emperor,<ref name="MakeROTJ" /> both because his presidency was known as the Imperial [[Wikipedia:President of the United States|Presidency]], plus the constitutional crisis caused by the Watergate Scandal.<ref name="Secret History of Star Wars">https://drbeat.li/album/B%C3%BCcher/The_Secret_History_of_Star_Wars.pdf</ref><ref name="Episode III Director Commentary">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] Director's Commentary:<br />"When I first started making the film [the first Star Wars], it was during the Vietnam War, and it was during a period when Nixon was going for a third term - or trying to get the Constitution changed to could go for a third term - and it got me to thinking about how democracies turn into dictatorships. Not how they're taken over where there's a coup or anything like that, but how the democracy turns itself over to a tyrant."</ref> Lucas, in fact, created the first ''Star Wars'' film as an anti-[[Wikipedia:Vietnam War|Vietnam War]] message, implying that the Empire was what America could have been had they should win the war ten years before 1973.<ref name="Nixonian gangsters">''The Making of Star Wars'', page 17<br />"The empire is like America ten years from now, after Nixonian gangsters assassinated the Emperor and were elevated to power in a rigged election; created civil disorder by instigating race riots aiding rebel groups and allowing the crime rate to rise to the point where a 'total control' police state was welcomed by the people. Then the people were exploited with high taxes, utility and transport costs. Gangsters, a cartel made up of power companies, transport companies & crime organizations. Other companies had to pay bribes to stay in business" The Making of Star Wars: 7-8,17.</ref> Lucas opined, however, that Vice President [[Wikipedia:Dick Cheney|Dick Cheney]] was actually closer to Emperor Palpatine.<ref>{{Cite web|url=http://www.nytimes.com/2009/04/19/opinion/19dowd.html?ref=opinion|title=The Aura of Arugulance|accessdate=April 19, 2009 | work=The New York Times | first=Maureen | last=Dowd | date=April 19, 2009}}</ref> In addition, film critic [[Wikipedia:Roger Ebert|Roger Ebert]] and film historian [[Wikipedia:Robin Wood (critic)|Robin Wood]] noted that Palpatine's appearance resembled Death from the [[1950s#1957|1957]] epic historical film ''[[Wikipedia:The Seventh Seal|The Seventh Seal]]''<ref name="Ebert">Roger Ebert, review of ''Return of the Jedi'', Special Edition, in Chicago ''Sun-Times'', March 14, 1997, available [http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19970314/REVIEWS/703140303/1023 here]; last accessed August 17, 2006.</ref> and Queen Grimhilde's witch form in the Disney's [[1930s#1937|1937]] animated film ''[[Wikipedia:Snow White and the Seven Dwarves|Snow White and the Seven Dwarves]]''.<ref>Robin Wood, ''Hollywood from Vietnam to Reagan...and Beyond: A Revised and Expanded Edition of the Classic Text'' (New York: Columbia University Press, 2003), p. 154, ISBN 0-231-12966-1.</ref>
+
+===Original version===
+Darth Sidious was originally conceived as a weak-willed dullard name [[Cos Dashit]] with delusions of grandeur who was elevated first to [[Supreme Chancellor|President of the Republic]] and then Emperor, controlled by the Imperial bureaucracy, conformed by ministers like Wilhuff Tarkin. However, he wasn't neither a Force user nor a great political strategist. Although this version of Sidious appeared in the original film's [[Star Wars Episode IV: A New Hope (novel)|novelization]], it was superseded by every other appearance since which revealed Darth Sidious as the mastermind of the events of the ''Star Wars'' saga. Although ''The Empire Strikes Back'' made clear his Force connection,<ref name="Episode V" /> his Sith affiliation was first revealed in ''The Phantom Menace''.<ref name="Episode I" />
+
+In the original story treatment for ''Revenge of the Sith'', Darth Sidious was intended to reveal that he created Anakin Skywalker through the midi-chlorians, thus making him, in some way, Anakin's father.<ref name="I'm Your Father">''[[The Making of Star Wars Revenge of the Sith]]'', page 42<br />"On Coruscant, PALPATINE completes his seduction of ANAKIN, who at first refuses to go over to the dark side-- until the Chancellor makes a startling confession:"<br />
+<br />
+ DARTH SIDIOUS-- "I have waited all these years for you to fulfill your destiny... I arranged for your conception. I used the power of the Force to will the midichlorians to start the cell divisions that created you."<br />
+<br />
+ ANAKIN-- "I don't believe you."<br />
+<br />
+ DARTH SIDIOUS-- "Ahhh, but you know it's true. When you clear your mind, you will sense the truth. you could almost think of me as your father."<br />
+<br />
+ ANAKIN-- "That's impossible!"<br />
+<br />
+ DARTH SIDIOUS-- "Nevertheless, you must decide."</ref> although George Lucas ultimately cut this out of the film.<ref name="Palpatine fatherhood cut">''The Making of Star Wars Revenge of the Sith'', page 60</ref> Though this was dropped from the final cut, some hints that Darth Sidious and/or Darth Plagueis were responsible for Anakin's creation were included in the film.<ref name="Episode III" />
+
+===Debates and discrepancies===
+====Visual appearances====
+One known debate about Darth Sidious is his real appearance. In ''Revenge of the Sith'', during his duel against Mace Windu, upon being disarmed, Sidious uses Force lightning against the Jedi Master, but he deflects it back to him, causing his face to be disfigured and scarred in the process. Later on, when Anakin cuts Windu's hand to succor Sidious, he electrocuted Windu, knocking him off the window to his death, although the Force lightning doesn't desfigure Windu for its short period of time.<ref name="Episode III" />
+
+However, previous to the Force lightning's appearance in ''Revenge of the Sith'', when it first appeared in ''Return of the Jedi'', Palpatine used it against Luke Skywalker and it didn't disfigured nor scarred Skywalker.<ref name="Episode VI" />
+
+====Name====
+Emperor Palpatine was not given a first name in any canonical or [[Star Wars Legends|''Star Wars'' Legends]] source until [[2014]], when the character's first name&mdash;Sheev&mdash;was revealed in the canon novel ''[[Tarkin (novel)|Tarkin]]'' by author [[James Luceno]].<ref name="Tarkin" /> However, according to Luceno in an interview with [[StarWars.com]], the name was reportedly created by George Lucas for the ''[[Star Wars: Underworld]]'' TV show that he planned to make before budget constraints, his semi-retirement and [[Lucasfilm Ltd.]]'s buyout by The Walt Disney Company prevented him to do so.<ref name="Full of Sith Luceno interview">50 min - 52 min mark: {{Cite_web|url=http://fullofsith.com/archives/1214|title=Full of Sith|accessdate=2018-02-09|author=Tha Mike|date=[[November 2]], [[2014]]|archiveurl=https://web.archive.org/web/20160506161120/http://fullofsith.com/archives/1214|archivedate=2016-05-06}}</ref>
+
+===Non-canon appearances===
+In the non-canon ''[[LEGO Star Wars: The Freemaker Adventures]]'', Darth Sidious was voiced by [[Trevor Devall]]. In the [[LEGO Star Wars: The Freemaker Adventures Season One|first season]], Palpatine/Sidious and Darth Vader learned about the history of a powerful lightsaber called the [[Kyber Saber]], which was made out of several kyber crystals. However, the Jedi Master who crafted the sword had deemed it too dangerous and destroyed the lightsaber before scattering all of the crystals throughout the galaxy. Seeking to destroy the galaxy in one blast, Darth Sidious attempted to collect all of the crystals. He and Vader dispatched the Sith agent [[Naare]] to recover the Kyber Saber crystals. However, Naare's mission was complicated by her encounter with the Force-sensitive [[Rowan Freemaker]] and [[Freemakers|his family]]. In an attempt to gain the crystals, Naare pretended to be a Jedi and offered to train him in the ways of the Force.<ref name="A Hero Discovered">{{The Freemaker Adventures|A Hero Discovered}}</ref> Despite Sidious' efforts, the Sith Lord failed to take the Kyber Saber from Rowan, who managed to destroy the weapon.<ref name="Return of the Kyber Saber">{{The Freemaker Adventures|Return of the Kyber Saber}}</ref>
+
+==Appearances==
+{{Scroll_box|content=
+*''[[Darth Maul, Part I]]''
+*''[[Darth Maul, Part II]]'' {{Flash}}
+*''[[Darth Maul, Part III]]'' {{Mo}}
+*''[[Darth Maul, Part IV]]'' {{Mo}}
+*''[[Darth Maul, Part V]]''
+*''[[Age of Republic: Darth Maul 1]]''
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1stID|Palpatine/Darth Sidious}}
+*''[[Star Wars Journeys: The Phantom Menace]]''
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars: Force Arena]]''
+*''[[Star Wars Battlefront II]]''
+*''[[Obi-Wan & Anakin, Part I]]'' {{Flash}}
+*''[[Obi-Wan & Anakin, Part II]]'' {{Flash}}
+*''[[Obi-Wan & Anakin, Part III]]'' {{Flash}}
+*''[[Obi-Wan & Anakin, Part IV]]'' {{Flash}}
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
+*''[[Jedi of the Republic&mdash;Mace Windu, Part V]]'' {{C|Appears through imagination}}
+*{{TCW|Cat and Mouse}} {{Mo}}
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]
+*{{TCW|Ambush}} {{Flash}}
+*{{TCW|Rising Malevolence|Rising ''Malevolence''}}
+*{{TCW|Shadow of Malevolence}} {{Mo}}
+*{{TCW|Destroy Malevolence}} {{Mo}}
+*{{TCW|Bombad Jedi}} {{Hologram}}
+*{{TCW|Cloak of Darkness}} {{Hologram}}
+*{{TCW|Lair of Grievous}} {{Mo}}
+*{{TCW|Dooku Captured}}
+*{{TCW|The Gungan General}}
+*{{TCW|Storm Over Ryloth}} {{Flash}}
+*{{TCW|Liberty on Ryloth}} {{Hologram}}
+*{{TCW|Holocron Heist}} {{Hologram}}
+*{{TCW|Cargo of Doom}} {{C|Appears as [[hologram]] in flashback(s)}}
+*{{TCW|Children of the Force}}
+*{{TCW|The Zillo Beast}} {{Hologram}}
+*{{TCW|The Zillo Beast Strikes Back}}
+*{{TCW|Landing at Point Rain}} {{Hologram}}
+*{{TCW|Lightsaber Lost}} {{Hologram}}
+*{{TCW|Voyage of Temptation}}
+*{{TCW|Duchess of Mandalore}}
+*''[[Catalyst: A Rogue One Novel]]'' {{Mo}}
+*{{TCW|Corruption}} {{Flash}}
+*{{TCW|Sphere of Influence}}
+*{{TCW|Evil Plans}} {{C|Appears as a hologram in flashback(s)}}
+*{{TCW|Hostage Crisis}}
+*{{TCW|Heroes on Both Sides}}
+*{{TCW|Pursuit of Peace}}
+*{{TCW|Senate Murders}}
+*{{TCW|Nightsisters (episode)|Nightsisters}} {{Hologram}}
+*{{TCW|Monster}} {{Mo}}
+*{{TCW|Ghosts of Mortis}} {{Vision|Anakin Skywalker}}
+*{{TCW|Citadel Rescue}} {{Mo}}
+*{{TCW|Shadow Warrior}} {{Hologram}}
+*{{TCW|Mercy Mission}} {{Mo}}
+*{{TCW|Darkness on Umbara}} {{Mo}}
+*{{TCW|Carnage of Krell}} {{Imo}}
+*{{TCW|Escape from Kadavo}} {{Hologram}}
+*{{TCW|A Friend in Need}} {{Mo}}
+*{{TCW|Deception}}
+*{{TCW|Friends and Enemies}}
+*{{TCW|The Box}} {{Mo}}
+*{{TCW|Crisis on Naboo}}
+*{{TCW|Brothers}} {{Imo}}
+*{{TCW|Revenge (episode)|Revenge}} {{Imo}}
+*{{TCW|Revival (episode)|Revival}}
+*{{TCW|The Lawless}}
+*{{TCW|The Jedi Who Knew Too Much}}
+*{{TCW|The Wrong Jedi}}
+*{{TCW|The Unknown}} {{Hologram}}
+*{{TCW|Conspiracy}}
+*{{TCW|Fugitive}} {{Mo}}
+*{{TCW|Orders}}
+*{{TCW|An Old Friend}} {{Hologram}}
+*{{TCW|The Rise of Clovis}}
+*{{TCW|Crisis at the Heart}}
+*{{TCW|The Disappeared, Part I}}
+*{{TCW|The Lost One}}
+*{{TCW|Voices}} {{Vision|Yoda}}
+*{{TCW|Sacrifice}}
+*{{TCW|The Big Bang}} {{Imo}}
+*''[[Dark Disciple]]'' {{Hologram}}
+*''[[Darth Maul—Son of Dathomir, Part One]]''
+*''[[Darth Maul—Son of Dathomir, Part Two]]'' {{Mo}}
+*''[[Darth Maul—Son of Dathomir, Part Three]]''
+*''[[Darth Maul—Son of Dathomir, Part Four]]''
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+*[[Revenge of the Sith (Golden Book)|''Revenge of the Sith'' Golden Book]]
+*''[[Kanan 1: The Last Padawan, Part I: Fight]]'' {{Hologram}}
+*''[[Kanan 2: The Last Padawan, Part II: Flight]]'' {{C|Mentioned only in opening crawl}}
+*''[[Darth Vader: Dark Lord of the Sith 1: The Chosen One, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 2: The Chosen One, Part II]]'' {{Mo}}
+*''[[Darth Vader: Dark Lord of the Sith 3: The Chosen One, Part III]]'' {{Mo}}
+*''[[Darth Vader: Dark Lord of the Sith 4: The Chosen One, Part IV]]'' {{Mo}}
+*''[[Darth Vader: Dark Lord of the Sith 5: The Chosen One, Part V]]''
+*''[[Darth Vader: Dark Lord of the Sith 6: The Chosen One, Part VI]]''
+*''[[Darth Vader: Dark Lord of the Sith 7: The Dying Light, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 8: The Dying Light, Part II]]''
+*''[[Darth Vader: Dark Lord of the Sith 9: The Dying Light, Part III]]'' {{Mo}}
+*''[[Darth Vader: Dark Lord of the Sith 10: The Dying Light, Part IV]]''
+*''[[Darth Vader: Dark Lord of the Sith 11: The Rule of Five, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 12: The Rule of Five, Part II]]''
+*''[[Kanan 3: The Last Padawan, Part III: Pivot]]'' {{C|Mentioned only in opening crawl}}
+*''[[Darth Vader: Dark Lord of the Sith 13: Burning Seas, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 14: Burning Seas, Part II]]'' {{Mo}}
+*''[[Darth Vader: Dark Lord of the Sith 15: Burning Seas, Part III]]'' {{Mo}}
+*''[[Darth Vader: Dark Lord of the Sith 16: Burning Seas, Part IV]]'' {{C|Holonet image}} {{Flash}}
+*''[[Darth Vader: Dark Lord of the Sith 17: Burning Seas, Part V]]'' {{Mo}}
+*''[[Darth Vader Annual 2: Technological Terror]]'' {{Hologram}}
+*''[[Kanan 4: The Last Padawan, Part IV: Catch]]'' {{C|Mentioned only in opening crawl}}
+*''[[Kanan 5: The Last Padawan, Part V: Release]]'' {{Mo}}
+*''[[Adventures in Wild Space: The Escape]]'' {{Mo}}
+*''[[Adventures in Wild Space: The Snare]]'' {{Mo}}
+*''[[Adventures in Wild Space: The Nest]]'' {{Mo}}
+*''[[Adventures in Wild Space: The Steal]]'' {{Mo}}
+*''[[Adventures in Wild Space: The Dark]]'' {{Mo}}
+*''[[Adventures in Wild Space: The Cold]]'' {{Mo}}
+*''[[Adventures in Wild Space: The Rescue]]'' {{Mo}}
+*''[[Ahsoka (novel)|Ahsoka]]'' {{Mo}}
+*{{InsiderCite|170|The Voice of the Empire}} {{Mo}}
+*{{InsiderCite|157|Orientation}}
+*''[[Lords of the Sith]]''
+*{{Shortstory|story=Mercy Mission (short story)|sformatted=Mercy Mission|book=The Rise of the Empire}} {{Mo}}
+*''[[Tarkin (novel)|Tarkin]]'' {{1stID|Sheev}}
+*''[[Darth Vader: Dark Lord of the Sith 18: Bad Ground]]'' {{Mo}}
+*''[[Darth Vader: Dark Lord of the Sith 19: Fortress Vader, Part I]]'' {{C|Mentioned only in opening crawl}}
+*''[[Darth Vader: Dark Lord of the Sith 20: Fortress Vader, Part II]]''
+*''[[Darth Vader: Dark Lord of the Sith 23: Fortress Vader, Part V]]'' {{C|Mentioned only; in the opening crawl}}
+*{{IDWAdventuresCite|9|[[Trouble Again]]}} {{Mo}}
+*''[[Most Wanted]]'' {{Po}}
+*''[[Lando: Double or Nothing, Part I]]'' {{Mo}}
+*''[[Solo: A Star Wars Story]]'' {{Mo}}
+*''[[Solo: A Star Wars Story: Expanded Edition]]'' {{Mo}}
+*''[[Rebel Rising]]'' {{Mo}}
+*''[[Thrawn (novel)|Thrawn]]''
+*''[[Thrawn, Part I]]''
+*''[[Thrawn, Part IV]]'' {{C|Appears through imagination}}
+*''[[Thrawn, Part V]]'' {{Mo}}
+*''[[Thrawn, Part VI]]''
+*{{Shortstory|story=Bottleneck|book=The Rise of the Empire}} {{Hologram}}
+*''[[A New Dawn]]'' {{Mo}}
+*''[[Lost Stars]]''
+*[[Lost Stars (webcomic)|''Lost Stars'' webcomic]]
+*{{HoloNetNews|post/98908548684/holonet-news-exclusive-mas-amedda-receives|Exclusive: Mas Amedda receives Governor Arihnda Pryce for Lothal report|int=HoloNet News Exclusive: Mas Amedda receives Governor Arihnda Pryce for Lothal report}} {{Mo}}
+*''[[Servants of the Empire: Edge of the Galaxy]]'' {{Mo}}
+*''[[Rise of the Rebels]]'' {{Mo}}
+*''[[Ezra's Gamble]]'' {{Mo}}
+*''[[Star Wars Rebels: Spark of Rebellion]]'' {{Mo}}
+*[[Droids in Distress (book)|''Droids in Distress'' book]] {{Mo}}
+*{{Rebels|Rise of the Old Masters}} {{Mo}}
+*''[[Servants of the Empire: Rebel in the Ranks]]'' {{Mo}}
+*{{Rebels|Breaking Ranks}} {{Mo}}
+*{{SWRMCite|4|Kallus' Hunt}} {{Mo}}
+*{{Rebels|Empire Day (episode)|Empire Day}} {{C|[[HoloNet News]] image}}
+*''[[Ezra's Duel with Danger]]'' {{Mo}}
+*''[[Kanan 6: The Last Padawan, Epilogue: Haunt]]'' {{C|Mentioned only in opening crawl}}
+*''[[Kanan 7: First Blood, Part I: The Corridors of Coruscant]]'' {{C|Mentioned only in opening crawl}}
+*''[[Kanan 8: First Blood, Part II: The Towers of the Temple]]'' {{C|Mentioned only in opening crawl}}
+*''[[Kanan 9: First Blood, Part III: The Canyons of Kardoa]]'' {{C|Mentioned only in opening crawl}}
+*''[[Kanan 10: First Blood, Part IV: The Mesas of Mygeeto]]'' {{C|Mentioned only in opening crawl}}
+*''[[Kanan 11: First Blood, Part V: The Fog of War]]'' {{C|Mentioned only in opening crawl}}
+*''[[Kanan 12: First Blood, Epilogue: The Ties That Bind]]'' {{Mo}}
+*''[[Sabine My Rebel Sketchbook]]'' {{Imo}}
+*''[[Servants of the Empire: Imperial Justice]]'' {{Mo}}
+*''[[Servants of the Empire: The Secret Academy]]'' {{Mo}}
+*''[[Battle to the End]]'' {{Mo}}
+*{{Rebels|Fire Across the Galaxy}} {{Mo}}
+*{{SWRMCite|9|Senate Perspective}} {{Mo}}
+*''[[Star Wars Rebels: The Siege of Lothal]]'' {{Hologram}} {{Voice}}
+*{{Rebels|The Lost Commanders}} {{Mo}}
+*{{SWRMCite|14|No Sympathy}} {{Mo}}
+*''[[Leia, Princess of Alderaan]]'' {{C|Appears on screen}}
+*{{Rebels|The Future of the Force}} {{Imo}}
+*{{Rebels|A Princess on Lothal}} {{Mo}}
+*{{SWRMCite|18|Academy Cadets}} {{Mo}}
+*{{Rebels|Shroud of Darkness}} {{Mo}}
+*{{Rebels|Twilight of the Apprentice}} {{Mo}}
+*{{IDWAdventuresCite|7|[[Endangered, Part 1]]}} {{Mo}}
+*{{IDWAdventuresCite|8|[[Endangered, Part 2]]}} {{Mo}}
+*''[[Star Wars Rebels: Steps Into Shadow]]'' {{Mo}}
+*{{Rebels|Legacy of Mandalore}} {{Mo}}
+*{{Rebels|Secret Cargo}} {{Mo}}
+*{{Rebels|Twin Suns (episode)|Twin Suns}} {{Imo}}
+*{{Rebels|Zero Hour}} {{Mo}}
+*''[[Thrawn: Alliances]]''
+*''[[Star Wars Rebels: Heroes of Mandalore]]'' {{Mo}}
+*{{Rebels|Jedi Night}} {{Mo}}
+*{{Rebels|Wolves and a Door}} {{Hologram}}
+*{{Rebels|A World Between Worlds}}
+*{{Rebels|A Fool's Hope}} {{Mo}}
+*{{Rebels|Family Reunion – and Farewell}} {{Hologram}}
+*''[[The Mighty Chewbacca in the Forest of Fear!]]'' {{Mo}}
+*''[[Guardians of the Whills (novel)|Guardians of the Whills]]'' {{Mo}}
+*''[[Rogue One: A Star Wars Story]]'' {{Mo}}
+*[[Rogue One: A Star Wars Story (novelization)|''Rogue One: A Star Wars Story'' novelization]] {{Mo}}
+*''[[Star Wars: Rogue One: A Junior Novel]]'' {{Mo}}
+*''[[Star Wars: Rogue One: Secret Mission]]''
+*''[[Star Wars: Rogue One Graphic Novel Adaptation]]'' {{Mo}}
+*''[[Rogue One Adaptation 1]]'' {{Mo}}
+*''[[Rogue One Adaptation 2]]'' {{Mo}}
+*''[[Rogue One Adaptation 3]]'' {{Mo}}
+*''[[Rogue One Adaptation 4]]'' {{Mo}}
+*{{Shortstory|story=Raymus|book=From a Certain Point of View}} {{Mo}}
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1stm}}
+*''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]'' {{Mo}}
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]] {{Mo}}
+*''[[Episode IV: A New Hope Read-Along Storybook and CD]]'' {{Mo}}
+*''[[The Rise of a Hero]]'' {{Imo}}
+*''[[The Adventures of Luke Skywalker, Jedi Knight]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*''[[Star Wars Battlefront]]''
+*{{Shortstory|story=The Bucket|book=From a Certain Point of View}} {{Mo}}
+*{{Shortstory|story=Fully Operational (short story)|sformatted=Fully Operational|book=From a Certain Point of View}} {{Mo}}
+*{{Shortstory|story=An Incident Report|book=From a Certain Point of View}} {{Mo}}
+*{{Shortstory|story=Change of Heart|book=From a Certain Point of View}} {{Mo}}
+*{{Shortstory|story=Verge of Greatness|book=From a Certain Point of View}} {{Mo}}
+*{{Shortstory|story=Bump|book=From a Certain Point of View}} {{Mo}}
+*{{Shortstory|story=End of Watch|book=From a Certain Point of View}} {{Mo}}
+*{{Shortstory|story=Time of Death|book=From a Certain Point of View}} {{Mo}}
+*{{Shortstory|story=Palpatine (short story)|sformatted=Palpatine|book=From a Certain Point of View}}
+*{{Shortstory|story=Contingency Plan|book=From a Certain Point of View}} {{Mo}}
+*''[[Battlefront II: Inferno Squad]]'' {{Mo}}
+*''[[Smuggler's Run: A Han Solo & Chewbacca Adventure]]'' {{Mo}}
+*''[[Princess Leia, Part II]]'' {{Mo}}
+*''[[Princess Leia, Part V]]'' {{Mo}}
+*''[[Heir to the Jedi]]'' {{Mo}}
+*''[[The Weapon of a Jedi: A Luke Skywalker Adventure]]'' {{Mo}}
+*''[[Star Wars Annual 4]]'' {{Mo}}
+*''[[Star Wars 1: Skywalker Strikes]]'' {{Mo}}
+*''[[Darth Vader 1: Vader]]'' {{Flash}}
+*''[[Star Wars 4: Skywalker Strikes, Part IV]]'' {{Mo}}
+*''[[Darth Vader 2: Vader, Part II]]'' {{Mo}}
+*''[[Darth Vader 3: Vader, Part III]]'' {{C|Mentioned only; in the opening crawl}}
+*''[[Darth Vader 4: Vader, Part IV]]'' {{Mo}}
+*''[[Darth Vader 5: Vader, Part V]]''
+*''[[Darth Vader 6: Vader, Part VI]]''
+*''[[Star Wars 12: Showdown on the Smuggler's Moon, Part V]]'' {{Mo}}
+*''[[Darth Vader 7: Shadows and Secrets, Part I]]'' {{C|Mentioned only in the opening crawl}}
+*''[[Darth Vader 8: Shadows and Secrets, Part II]]'' {{Mo}}
+*''[[Darth Vader 9: Shadows and Secrets, Part III]]'' {{C|Mentioned only; in the opening crawl}}
+*''[[Star Wars Annual 1]]''
+*''[[Darth Vader Annual 1]]'' {{Mo}}
+*''[[Vader Down, Part I]]'' {{Mo}}
+*''[[Star Wars 14: Vader Down, Part V]]'' {{Mo}}
+*''[[Star Wars 16: Rebel Jail, Part I]]'' {{C|Mentioned only; in the opening crawl}}
+*''[[Star Wars 18: Rebel Jail, Part III]]'' {{Mo}}
+*''[[Star Wars 19: Rebel Jail, Part IV]]'' {{Imo}}
+*''[[Darth Vader 16: The Shu-Torun War, Part I]]''
+*''[[Darth Vader 17: The Shu-Torun War, Part II]]'' {{C|Mentioned only; in the opening crawl}}
+*''[[Darth Vader 19: The Shu-Torun War, Part IV]]'' {{Hologram}}
+*''[[Darth Vader 20: End of Games, Part I]]''
+*''[[Darth Vader 21: End of Games, Part II]]'' {{Mo}}
+*''[[Darth Vader 22: End of Games, Part III]]''
+*''[[Darth Vader 23: End of Games, Part IV]]'' {{Mo}}
+*''[[Darth Vader 24: End of Games, Part V]]''
+*''[[Darth Vader 25: End of Games, Part VI]]''
+*''[[The Screaming Citadel, Part I]]'' {{Imo}}
+*''[[Star Wars 36: Revenge of the Astromech]]'' {{Mo}}
+*''[[Star Wars 37: Imperial Pride]]''
+*''[[Doctor Aphra 13: The Enormous Profit, Part V]]'' {{Mo}}
+*''[[Doctor Aphra 21: The Catastrophe Con, Part II]]'' {{Mo}}
+*''[[Doctor Aphra 23: The Catastrophe Con, Part IV]]'' {{Mo}}
+*''[[Doctor Aphra 26: Worst Among Equals, Part I]]'' {{Mo}}
+*{{Shortstory|story=Shu-Torun Lives|book=Star Wars 50: Hope Dies, Part I}} {{Mo}}
+*''[[Star Wars 46: Mutiny at Mon Cala, Part III]]'' {{Mo}}
+*''[[Star Wars 55: Hope Dies, Part VI]]''
+*''[[Choose Your Destiny: A Luke & Leia Adventure]]'' {{Mo}}
+*''[[Star Wars: Commander]]'' {{Mo}}
+*''[[Battlefront: Twilight Company]]'' {{Mo}}
+*''[[Lando, Part I]]''
+*''[[Lando, Part II]]'' {{Hologram}}
+*''[[Lando, Part III]]'' {{Mo}}
+*''[[Lando, Part IV]]'' {{Mo}}
+*''[[Lando, Part V]]''
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']] {{1st}} {{Hologram}}
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]'' {{Hologram}}
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]] {{Hologram}}
+*''[[Episode V: The Empire Strikes Back Read-Along Storybook and CD]]'' {{Hologram}}
+*''[[Moving Target: A Princess Leia Adventure]]'' {{Mo}}
+*{{IDWAdventuresCite|13|[[Tales from Wild Space: The Blue Brothers]]}} {{Mo}}
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*''[[Episode VI: Return of the Jedi Read-Along Storybook and CD]]''
+*{{InsiderCite|issue1=149|issue2=150|Blade Squadron (short story)|Blade Squadron}} {{Mo}}
+*{{Shortstory|story=The Levers of Power|book=The Rise of the Empire}} {{Mo}}
+*''[[Shattered Empire, Part I]]''
+*''[[Shattered Empire, Part II]]'' {{Hologram}}
+*''[[Shattered Empire, Part III]]'' {{Mo}}
+*{{InsiderCite|169|Turning Point (Jason Hough)|Turning Point}} {{Mo}}
+*''[[Aftermath]]'' {{C|Appears as statue}}
+*''[[Star Wars: Uprising]]'' {{Mo}}
+*''[[Shattered Empire, Part IV]]'' {{Mo}}
+*''[[Aftermath: Life Debt]]'' {{Flash}}
+*''[[Aftermath: Empire's End]]'' {{Flash}}
+*''[[The Legends of Luke Skywalker]]'' {{Mo}}
+*''[[Bloodline (novel)|Bloodline]]'' {{Hologram}}
+*''[[Phasma (novel)|Phasma]]'' {{Mo}}
+*"[[The Crimson Corsair and the Lost Treasure of Count Dooku]]" {{Mo}}
+*''[[Before the Awakening]]'' {{Mo}}
+*''[[Poe Dameron 8: The Gathering Storm, Part I]]'' {{Mo}}
+*''[[Poe Dameron 9: The Gathering Storm, Part II]]'' {{Mo}}
+*''[[Poe Dameron 10: The Gathering Storm, Part III]]'' {{Mo}}
+*''[[Poe Dameron 18: War Stories, Part II]]'' {{Mo}}
+*{{Shortstory|story=Destroyer Down|book=Star Wars Adventures: Destroyer Down}} {{C|Appears as a hologram in flashback(s)}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{Voice}} {{Vision|Rey}}
+*''[[Star Wars: The Force Awakens: A Junior Novel]]'' {{Mo}}
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]'' {{Mo}}
+*''[[Star Wars: The Force Awakens Beginner Game]]'' {{Imo}}
+*{{IDWAdventuresCite|Ashcan|}} {{Flash}}
+*''[[Rey's Survival Guide]]'' {{Imo}}
+*''[[The Last Jedi: Bomber Command]]'' {{Mo}}
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']] {{Mo}}
+*''[[Star Wars: The Last Jedi: Expanded Edition]]'' {{Mo}}
+*''[[Star Wars: The Last Jedi: A Junior Novel]]'' {{Mo}}
+*''[[The Last Jedi Adaptation 3]]'' {{Mo}}}}
+
+===Non-canon appearances===
+*''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+*''[[William Shakespeare's The Clone Army Attacketh: Star Wars Part the Second]]''
+*''[[Revenge of the Sith: Episode III (LEGO Star Wars)]]''
+*''[[William Shakespeare's Tragedy of the Sith's Revenge: Star Wars Part the Third]]''
+*''[[Disney Infinity 3.0]]''
+*''[[Star Wars Epic Yarns: The Empire Strikes Back]]''
+*''[[Star Wars Epic Yarns: Return of the Jedi]]''
+*''[[LEGO Star Wars: Droid Tales Episodes I-III]]'' {{C|Appears as Force spirit and in flashbacks}}
+*{{Droid Tales|Exit from Endor}}
+*{{Droid Tales|Crisis on Coruscant (episode)|Crisis on Coruscant}}
+*{{Droid Tales|Gambit on Geonosis}}
+*''[[Star Wars: Galaxy of Heroes]]''
+*''[[LEGO Star Wars: The Force Awakens]]''
+
+==Sources==
+{{Scroll box|content=
+*{{SW|url=news/nycc-2013-meet-the-inquisitor-the-new-face-of-evil-in-star-wars-rebels.html|text=NYCC 2013: Meet the Inquisitor, the New Face of Evil in Star Wars Rebels}} {{Imo}}
+*{{InsiderCite|150|Launch Pad}}
+*{{SWArchive|url=theclonewars/guide/episode205.html|text=''The Clone Wars'' Episode Guide: Landing at Point Rain}}
+*{{SWE|technology|arc170starfighter|ARC-170 starfighter}}
+*{{SWE|characters|cadbane|Cad Bane}}
+*{{SWE|characters|argyus|Captain Argyus}}
+*{{SWE|characters|darth-bane|Darth Bane}}
+*{{SWE|characters|darthsidious|Darth Sidious}}
+*{{SWE|groups|emperors-royal-guard|Emperor's Royal Guard}}
+*{{SWE|groups|empire|Galactic Empire}}
+*{{SWE|groups|galacticrepublic|Galactic Republic}}
+*{{SWE|groups|galacticsenate|Galactic Senate}}
+*{{SWE|characters|jarjarbinks|Jar Jar Binks}}
+*{{SWE|characters|masamedda|Mas Amedda}}
+*{{SWE|characters|padmeamidala|Padmé Amidala}}
+*{{SWE|characters|palpatine|Palpatine}}
+*{{SWE|groups|rebelalliance|Rebel Alliance}}
+*{{SWE|technology|republicdiplomaticcruiser|Republic Cruiser}}
+*{{SWE|groups|senateguard|Senate Guard}}
+*{{SWE|characters|siobibble|Sio Bibble}}
+*{{SWE|groups|sith|Sith}}
+*{{SWE|technology|sithinfiltrator|Sith Infiltrator}}
+*{{SWE|groups|tradefederation|Trade Federation}}
+*{{SW|url=news/to-fans-of-star-wars-the-clone-wars-thank-you|text=To Fans of ''Star Wars: The Clone Wars'': Thank You|archiveurl=http://archive.li/Z9kSy}}
+*''[[Star Wars Rebels: Meet the Rebels]]''
+*''[[Star Wars Rebels: The Visual Guide]]''
+*''[[Ultimate Sticker Collection: Star Wars Rebels]]'' {{Imo}}
+*{{SW|url=news/sdcc-2014-star-wars-a-new-dawn-panel-liveblog|text=SDCC 2014: ''Star Wars: A New Dawn'' Panel &ndash; Liveblog}}
+*''[[Star Wars Rebels: Head to Head]]''
+*''[[Ultimate Star Wars]]''
+*{{InsiderCite|152|Rebel Rouser}}
+*{{InsiderCite|152|Cowboy Jedi}} {{Imo}}
+*{{InsiderCite|152|The Making of A New Dawn}} {{Imo}}
+*{{InsiderCite|152|Blaster (Star Wars Insider)|Blaster}}
+*{{LEGOCite|Classic|75093|Death Star Final Duel}}
+*[https://playstarwarsuprising.com ''Star Wars: Uprising'' official site]
+*''[[Star Wars Rebels: Rebel Power!]]'' {{Po}}
+*[[Star Wars: Star Pilot (2015)|''Star Wars: Star Pilot'']]
+*''[[Star Wars: Absolutely Everything You Need to Know]]''
+*''[[Star Wars: Ships of the Galaxy]]''
+*{{SWYoutube|YfeWNZqVYsE|Star Wars Rebels Season Two NYCC 2015 Trailer (Official)}} {{Voice}}
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars: I Am a Jedi]]'' {{Po}}
+*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
+*''[[Star Wars: Aliens of the Galaxy]]''
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Princess Leia: Royal Rebel]]''
+*''[[Entertainment Weekly's Ultimate Guide to Rogue One]]''
+*''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''
+*''[[Star Wars: Rogue One: Rebel Dossier]]''
+*''[[Darth Vader: Sith Lord]]''
+*[[Star Wars Helmet Collection 1|''Star Wars Helmet Collection'' 1]]
+*''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Forces of Destiny: Tales of Hope & Courage]]''
+*''[[Ghosts of Dathomir]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*''[[Star Wars: The Last Jedi: Incredible Cross-Sections]]''
+*''[[Star Wars: Lightsaber Battles]]''
+*''[[Dawn of Rebellion]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''
+*''[[Solo: A Star Wars Story The Official Guide]]''
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*''[[Star Wars: Women of the Galaxy]]''
+*''[[Star Wars: Smuggler's Guide]]''
+*{{Databank|admiral-ackbar|Admiral Ackbar|archivedate=20170704032047}}
+*{{Databank|wullf-yularen|Admiral Wullf Yularen|archivedate=20170404042020}}
+*{{Databank|agen-kolar|Agen Kolar|archivedate=20170707043140}}
+*{{Databank|alderaan|Alderaan|archivedate=20170706052637}}
+*{{Databank|alora|Alora|archivedate=20170808073952}}
+*{{Databank|anakin-skywalker|Anakin Skywalker|archivedate=20170706054025}}
+*{{Databank|anakin-luke-and-reys-lightsaber|Anakin, Luke, and Rey's Lightsaber|archivedate=20170504204540}}
+*{{Databank|bespin|Bespin|archivedate=20170606133655}}
+*{{Databank|cad-bane|Cad Bane|archivedate=20170605082517}}
+*{{Databank|captain-argyus|Captain Argyus|archivedate=20160823220521}}
+*{{Databank|cave-of-evil|Cave of Evil|archivedate=20170504100309}}
+*{{Databank|coruscant-guard|Coruscant Guard|archivedate=20170705040948}}
+*{{Databank|darth-vaders-lightsaber|Darth Vader's lightsaber|archivedate=20170805173833}}
+*{{Databank|daultay-dofine|Daultay Dofine|archivedate=20170806144529}}
+*{{Databank|death-star|Death Star|archivedate=20170703151616}}
+*{{Databank|death-star-ii|Death Star II|archivedate=20170706025345}}
+*{{Databank|emperor-palpatine-darth-sidious|Emperor Palpatine/Darth Sidious|archiveurl=https://archive.is/XOOYg}}
+*{{Databank|felucia|Felucia|archivedate=20170806120651}}
+*{{Databank|force-lightning|Force Lightning|archivedate=20170710190140}} {{Po}}
+*{{Databank|force-pike|Force Pike|archivedate=20161229120056}}
+*{{Databank|free-ryloth-movement|Free Ryloth Movement|archivedate=20170901091113}}
+*{{Databank|galactic-empire|Galactic Empire|archivedate=20170905053927}}
+*{{Databank|galactic-republic|Galactic Republic|archivedate=20170824133114}}
+*{{Databank|galactic-senate|Galactic Senate|archivedate=20170705025411}}
+*{{Databank|galaxies-opera-house|Galaxies Opera House|archivedate=20170708191435}}
+*{{Databank|gall-trayvis|Gall Trayvis|archivedate=20170815232227}}
+*{{Databank|general-tagge|General Tagge|archivedate=20170623095656}}
+*{{Databank|han-solo|Han Solo|archivedate=20170607051516}}
+*{{Databank|jar-jar-binks|Jar Jar Binks}}
+*{{Databank|jedi-order|Jedi Order}}
+*{{Databank|mas-amedda|Mas Amedda}}
+*{{Databank|padme-amidala|Padmé Amidala}}
+*{{Databank|rebel-alliance|Rebel Alliance}}
+*{{Databank|republic-cruiser|Republic Cruiser}}
+*{{Databank|sio-bibble|Sio Bibble}}
+*{{Databank|sith|Sith}}
+*{{Databank|sith-infiltrator|Sith Infiltrator}}
+*{{Databank|trade-federation|Trade Federation}}
+*{{Databank|veris-hydan|Veris Hydan}}
+*{{Databank|wedge-antilles|Wedge Antilles|archivedate=20140714220601}}
+*{{Databank|wicket-w-warrick|Wicket W. Warrick|archivedate=20140703043251}}
+*{{Databank|wookiee|Wookiee|archivedate=20140703015344}}
+*{{Databank|world-between-worlds|World Between Worlds}}
+*{{Databank|yoda|Yoda|archivedate=20140703043000}}
+*{{Databank|yodas-hut|Yoda's Hut|archivedate=20151212091102}}
+*{{Databank|yoda-s-lightsaber|Yoda's Lightsaber|archivedate=20160116065011}}}}
+
+{{Start box}}
+{{Succession_box
+|title=[[Dark Lord of the Sith]] with [[Darth Plagueis]]<ref name="ROTS" />
+|years=Prior [[32 BBY]]
+|before=[[Darth Bane's apprentice]]<ref name="Sacrifice" />
+|before-years=
+|after=Himself with [[Maul|Darth Maul]]<ref name="Episode I" />
+|after-years=Prior to the [[Invasion of Naboo]]<ref name="Darth Maul I">''[[Darth Maul, Part I]]''</ref>&ndash;[[32 BBY]]<ref name="Episode I" />
+}}
+{{Succession box
+|title=[[Dark Lord of the Sith]] with [[Maul|Darth Maul]]<ref name="Episode I" />
+|years=Prior to the [[Invasion of Naboo]]<ref name="Darth Maul I" />&ndash;[[32 BBY]]<ref name="Episode I" />
+|before=Himself with [[Darth Plagueis]]<ref name="ROTS" />
+|before-years=Prior [[32 BBY]]
+|after=Himself with [[Dooku|Darth Tyranus]]<ref name="Episode II" />
+|after-years=c. [[32 BBY]]<ref name="SW:AEYNtK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref>&ndash;[[19 BBY]]<ref name="ROTS" />
+}}
+{{Succession box
+|title=[[Dark Lord of the Sith]] with [[Dooku|Darth Tyranus]]<ref name="Episode II" />
+|years=c. [[32 BBY]]<ref name="SW:AEYNtK" />&ndash;[[19 BBY]]<ref name="ROTS" />
+|before=Himself with [[Maul|Darth Maul]]<ref name="Episode I" />
+|before-years=Prior to the [[Invasion of Naboo]]<ref name="Darth Maul I" />&ndash;[[32 BBY]]<ref name="Episode I" />
+|after=Himself with [[Anakin Skywalker|Darth Vader]]<ref name="ROTS" />
+|after-years=[[19 BBY]]<ref name="ROTS" />&ndash;[[4 ABY]]<ref name="Episode VI" />
+}}
+{{Succession box
+|title=[[Dark Lord of the Sith]] with [[Anakin Skywalker|Darth Vader]]<ref name="ROTS" />
+|years=[[19 BBY]]<ref name="ROTS" />&ndash;[[4 ABY]]<ref name="Episode VI" />
+|before=Himself with [[Dooku|Darth Tyranus]]<ref name="Episode II" />
+|before-years=c. [[32 BBY]]<ref name="SW:AEYNtK" />&ndash;[[19 BBY]]<ref name="ROTS" />
+|after=None
+}}
+{{Succession box
+|title=[[Supreme Chancellor]] of the [[Galactic Republic]]<ref name="Episode I" />
+|years=[[32 BBY]]<ref name="Episode I" />&ndash;[[19 BBY]]<ref name="ROTS" />
+|before=[[Finis Valorum]]<ref name="Episode I" />
+|before-years=c. [[40 BBY]]<ref>One term lasted for four years, and Finis Valorum served as Chancellor for two terms.</ref>&ndash;[[32 BBY]]<ref name="Episode I" />
+|after=None
+}}
+{{Succession box
+|title=[[Galactic Emperor]] of the [[Galactic Empire]]<ref name="ROTS" />
+|years=[[19 BBY]]<ref name="ROTS" />&ndash;[[4 ABY]]<ref name="ROTS" /><ref name="Episode VI" />
+|before=None
+|after=[[Mas Amedda]] {{C|proxy}}<ref name="Aftermath: Life Debt" />
+}}	
+{{End box}}
+
+==Notes and references==
+{{Scroll box|content={{Reflist}}}}
+
+{{Interlang
+|es=Darth Sidious
+|hu=Kánon:Darth Sidious
+|ja=ダース・シディアス
+|ka=დართ სიდიუსი
+|pt=Cânon:Sheev Palpatine
+|ru=Шив Палпатин
+|pl=Sheev Palpatine
+|ko=다스 시디어스
+|uk=Шив Палпатін
+}}
+
+{{DEFAULTSORT:Sidious, Darth}}
+[[Category:Dark Lords of the Sith]]
+[[Category:Galactic Emperors of the Galactic Empire]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Naboo]]
+[[Category:Separatist leadership]]
+[[Category:Sith sorcerers]]
+[[Category:Supreme Chancellors]]
+[[Category:Torturers and interrogators]]
