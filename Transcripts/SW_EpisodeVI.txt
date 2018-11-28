@@ -658,7 +658,7 @@
 "657" "PIETT" "Intensify forward firepower!"
 "658" "COMMANDER" "It's too late!"
 "659" "VADER" "Luke, help me take this mask off."
-"660" "LURE" "But you'll die."
+"660" "LUKE" "But you'll die."
 "661" "VADER" "Nothing can stop that now. Just for once... let me look on you with my own eyes."
 "662" "ANAKIN" "Now...go, my son. Leave me."
 "663" "LUKE" "No. You're coming with me. I can't leave you here. I've got to save you."
