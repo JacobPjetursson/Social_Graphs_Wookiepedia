@@ -1,4 +1,9 @@
-Fancy hjemmeside
+Fancy hjemmeside:
+	- Word clouds / Sentiment plots i format hvor man kan bladre mellem dem (Tabs, Pile)
+	- Interaktiv tabel for karakterer som kan sorteres on the fly
+	- Grå baggrund for plots
+	- Graf med on/off for bestemte flags (vis communities, good/bad, race)
+	TIL TABLE: Brug tabulator og load data ind som json i javascript
 
 Federe degree dist graf
 
