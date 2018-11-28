@@ -1,0 +1,9 @@
+title: Analysis of the Starwars universe
+description: Using Wookieepedia and movie transcripts
+
+theme: jekyll-theme-midnight
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+github: [metadata]
