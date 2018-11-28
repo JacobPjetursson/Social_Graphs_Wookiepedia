@@ -16,10 +16,9 @@ markdown: kramdown
 ### content configuration ###
 title:       "Analysis of the Starwars universe"
 keywords:    "Starwars, Wookieepedia, analysis"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+description: "Using Wookieepedia and movie transcripts"
 source_link: "https://github.com/jacobpjetursson/Social_Graphs_Wookiepedia"
 favicon:     "img/vader.ico"
-touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:
 
 

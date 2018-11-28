@@ -1,8 +1,8 @@
 ---
-title: "Community Detection"
+title: "Communities"
 bg: blue
 color: white
-fa-icon: check-square-o
+fa-icon: jedi
 ---
 
 #### Basically

@@ -1,8 +1,8 @@
 ---
-title: "Sentiment Analysis"
+title: "Sentiment"
 bg: orange
 color: black
-fa-icon: toggle-on
+fa-icon: old-republic
 ---
 
 ## Setup as user homepage
