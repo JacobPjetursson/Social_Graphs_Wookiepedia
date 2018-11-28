@@ -18,7 +18,7 @@ title:       "Analysis of the Starwars universe"
 keywords:    "Starwars, Wookieepedia, analysis"
 description: "Using Wookieepedia and movie transcripts"
 source_link: "https://github.com/jacobpjetursson/Social_Graphs_Wookiepedia"
-favicon:     "img/vader.ico"
+favicon:     "img/icons/vader.ico"
 google_analytics_key:
 
 

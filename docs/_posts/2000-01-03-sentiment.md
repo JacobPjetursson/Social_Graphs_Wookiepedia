@@ -2,7 +2,7 @@
 title: "Sentiment"
 bg: orange
 color: black
-fa-icon: old-republic
+icon: img/icons/sentiment.png
 ---
 
 ## Setup as user homepage

@@ -2,7 +2,7 @@
 title: "Communities"
 bg: blue
 color: white
-fa-icon: jedi
+icon: img/icons/community.png
 ---
 
 #### Basically
