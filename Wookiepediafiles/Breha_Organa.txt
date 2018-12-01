@@ -73,15 +73,16 @@ George Lucas resurrected the character early in the production of [[Star Wars: E
 
 ===Portrayal===
 {{Quote|As a girl growing up and seeing ''Star Wars'', of course you want to be Princess Leia. And to know that I'm actually playing her mother&hellip; I just kept thinking about those buns! I was the mother of those buns! Maybe I taught her how to do those buns!|Rebecca Jackson Mendoza, on playing Breha Organa|url=http://web.archive.org/web/20100328022639/http://www.starwars.com/episode-iii/bts/production/beacon161.html}}
+[[File:MendozaBTS.jpg|right|thumb|200px|Rebecca Jackson Mendoza during a fitting seance with Trisha Biggar]]
 In May [[2005]], Breha Organa made her on-screen debut in ''Star Wars'': Episode III ''Revenge of the Sith'', in which she was portrayed by [[Wikipedia:Australia|Australian]] actress and singer [[Rebecca Jackson Mendoza]].<ref name="Revenge of the Sith" /> Despite being a fan of the [[original trilogy]], Jackson Mendoza did not immediately realize the significance of her role in the ''Star Wars'' franchise. When her brothers helped her understand that the Queen was none other than the adopted mother of Princess Leia, her excitement over the role increased. Rebecca Jackson Mendoza remembered having watched the original trilogy as a child, wishing she could be Princess Leia. In light of all that, Jackson Mendoza came to regard that role as something of an accomplishment.<ref name="Beacon">{{SWArchive|url=episode-iii/bts/production/beacon161.html|text=Homing Beacon #161 - ''Revenge''{{'s}} Royalty}}</ref>
 
-[[File:MendozaBTS.jpg|right|thumb|200px|Rebecca Jackson Mendoza during a fitting seance with Trisha Biggar]]
 A single robe, referred to as the "Alderaan Palace Dress" in ''[[Dressing a Galaxy: The Costumes of Star Wars]]'',<ref name="DAG">''[[Dressing a Galaxy: The Costumes of Star Wars]]''</ref> was created for Jackson Mendoza by [[Trisha Biggar]], who worked as costume designer for all three prequel films. That robe, which Jackson Mendoza compared to a "green wedding gown," was originally going to be made of velvet, until the fabric was changed for fear it would come off too dark on screen.<ref name="Beacon" />
 
 ===Development===
 Queen Breha received her first significant character development in [[Claudia Gray]]'s [[2017]] young-adult novel ''[[Leia, Princess of Alderaan]]''. Gray said it actually staggered her to realize how little had been written about Breha, who had such a central position in the narrative of ''Star Wars'', being Leia's adopted mother, and a queen at the core of the Rebellion. Therefore, she was keen on giving her a role and a personality.<ref name="SWExplained">{{Youtube|video=MEUVCWcczCw|text=Claudia Gray Discusses Writing Leia At Different Ages and Writing Breha Organa for the First Time!|channel=channel/UCIKlsX1qfGqKPt4KAW-JOZg|channelname=Star Wars Explained|quote=}}</ref>
 
 ==Appearances==
+{{Scroll box|
 *''[[Star Wars Journeys: Beginnings]]''
 *''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
 *[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}}
@@ -103,7 +104,7 @@ Queen Breha received her first significant character development in [[Claudia Gr
 *''[[Shattered Empire, Part II]]'' {{Imo}}
 *''[[Bloodline (novel)|Bloodline]]'' {{Mo}}
 *''[[Star Wars: The Last Jedi: Expanded Edition]]'' {{Mo}}
-*''[[Star Wars: The Last Jedi: A Junior Novel]]'' {{Imo}}
+*''[[Star Wars: The Last Jedi: A Junior Novel]]'' {{Imo}}}}
 
 ==Sources==
 *{{SW|url=films/star-wars-episode-iii-revenge-of-the-sith|text=''Star Wars'': Episode III ''Revenge of the Sith''}}

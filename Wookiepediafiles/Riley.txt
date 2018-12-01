@@ -7,8 +7,8 @@
 |homeworld=Orphaned on [[Burnin Konn]] [[mining]] colony<ref name="PlayUprising">{{Cite web|url=https://playstarwarsuprising.com/|title=Star Wars: Uprising|work=Play Star Wars: Uprising|accessdate=June 4, 2015}}</ref>
 |birth=
 |death=
-|species=[[Human]]<ref name="Uprising">''[[Star Wars: Uprising]]''</ref>
-|gender=[[Sexes|Female]]<ref name="Uprising" />
+|species=[[Human]]<ref name="Smuggler's Guide">''[[Star Wars: Smuggler's Guide]]''</ref>
+|gender=[[Sexes|Female]]<ref name="Uprising">''[[Star Wars: Uprising]]''</ref>
 |height=
 |mass=
 |hair=[[Color|Black]]<ref name="Uprising" />
@@ -21,12 +21,13 @@
 |masters=
 |apprentices=}}
 {{Quote|Okay, pay attention: Imperials bad. Do not let them see you. That's the plan.|Riley|url=https://playstarwarsuprising.com}}
-'''Riley''' was a [[human]] [[Sexes|female]] [[thief]] active during the [[Imperial Era|reign]] of the [[Galactic Empire]]. Riley and her [[The Smuggler|younger sibling]] were orphaned on the [[mining]] colony of [[Burnin Konn]]. The two were renowned for their skill as thieves until Riley was injured in a fall from a building, after which she gained a [[Cybernetics|cybernetic]] leg brace to compensate for her injury. She became mostly a planner following this incident.<ref name="PlayUprising" />
+'''Riley''' was a [[human]] [[Sexes|female]]<ref name="Smuggler's Guide" /> [[thief]] active during the [[Imperial Era|reign]] of the [[Galactic Empire]]. Riley and her [[The Smuggler|younger sibling]] were orphaned on the [[mining]] colony of [[Burnin Konn]]. The two were renowned for their skill as thieves until Riley was injured in a fall from a building, after which she gained a [[Cybernetics|cybernetic]] leg brace to compensate for her injury. She became mostly a planner following this incident.<ref name="PlayUprising" />
 
 {{Char-stub}}
 
 ==Behind the scenes==
-Riley was consistently depicted as a fair-skinned human in the game's promotional material.<ref name="Uprising Launch">{{SW|url=video/star-wars-uprising-launch-trailer|text=Star Wars: Uprising Launch Trailer}}</ref><ref name="New Galaxy">{{SW|url=news/star-wars-uprising-puts-you-in-a-whole-new-galaxy|text=''Star Wars: Uprising'' Puts You in a Whole New Galaxy|archivedate=20170813153940}}</ref> Consequently, the present article treats her as such.
+Riley was consistently depicted as a fair-skinned human in the game's promotional material.<ref name="Uprising Launch">{{SW|url=video/star-wars-uprising-launch-trailer|text=Star Wars: Uprising Launch Trailer}}</ref><ref name="New Galaxy">{{SW|url=news/star-wars-uprising-puts-you-in-a-whole-new-galaxy|text=''Star Wars: Uprising'' Puts You in a Whole New Galaxy|archivedate=20170813153940}}</ref> This was ultimately confirmed in the [[2018]] reference book ''[[Star Wars: Smuggler's Guide]]''.<ref name="Smuggler's Guide" />
+
 ===Physical Appearance===
 In ''[[Star Wars: Uprising]]'', the appearance of Riley depends on what species and skin tone/color the player chooses for [[The Smuggler|their character]]. Riley's gender does not change in correlation with The Smuggler's gender.<ref name="Uprising" />
 <gallery widths="90" bordersize="small">

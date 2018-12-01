@@ -81,16 +81,6 @@ Coleman Kcaj first appeared in the [[2005]] film [[Star Wars: Episode III Reveng
 *''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
 *''[[Star Wars: The Complete Visual Dictionary, New Edition]]'' {{Po}}
 
-{{Start_box}}
-{{Succession_box
-|title=Member of the [[Jedi High Council]]
-|years=c. [[19 BBY]]<ref name="ROTS" />
-|before=Unknown
-|before-years=
-|after=None
-}}
-{{End_box}}
-
 ==Notes and references==
 {{Reflist}}
 

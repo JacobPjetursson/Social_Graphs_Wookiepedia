@@ -16,7 +16,7 @@
 |skin=Coppery<ref name="Scorched" />
 |cyber=
 |era=
-|affiliation=*[[Crystal Cairn]] {{C|formerly}}<ref name="Bloodline">''[[Bloodline (novel)|Bloodline]]''</ref>
+|affiliation=*[[Crystal Cairn]]<ref name="Bloodline">''[[Bloodline (novel)|Bloodline]]''</ref>
 *[[New Republic]]<ref name="Bloodline" />
 **[[New Republic Defense Fleet]]<ref name="Bloodline" />
 *[[Resistance]]<ref name="Bloodline" />
@@ -109,6 +109,7 @@ Greer Sonnel was created in [[2016]] for the novel ''[[Bloodline (novel)|Bloodli
 
 {{Interlang
 |es=Greer Sonnel
+|ru=Грир Соннель
 }}
 
 {{DEFAULTSORT:Sonnel, Greer}}

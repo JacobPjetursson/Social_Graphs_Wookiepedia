@@ -9,7 +9,7 @@
 |homeworld=[[Burnin Konn]]<ref name="Uprising">''[[Star Wars: Uprising]]''</ref>
 |birth=
 |death=
-|species=[[Human]]<ref name="Uprising" />
+|species=[[Human]]<ref name="Species">As shown in ''[[Star Wars: Smuggler's Guide]]'', [[Riley]] was [[human]]. In ''[[Star Wars: Uprising]]'', her appearance depended on what species the player chose for the Smuggler.</ref>
 |gender=
 |height=
 |mass=

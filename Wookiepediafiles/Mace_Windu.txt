@@ -360,10 +360,11 @@ During the early development of [[Star Wars: Episode VII The Force Awakens|''Sta
 
 ==Appearances==
 {{Scroll_box|content=
-*''[[Star Wars: Force Arena]]''
 *[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
 *''[[Star Wars Journeys: The Phantom Menace]]''
 *''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars: Force Arena]]''
+*''[[Star Wars Battlefront II]]'' {{Mo}} {{C|DLC}}
 *''[[Obi-Wan & Anakin, Part I]]'' {{Flash}}
 *[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
 *[[Attack of the Clones (Golden Book)|''Attack of the Clones'' Golden Book]]

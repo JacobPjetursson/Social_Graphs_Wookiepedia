@@ -1,6 +1,6 @@
 {{Eras}}
 {{Expand}}
-{{Update|[[Tales from Vader's Castle 2: Count Dooku: Prince of Darkness!]]}}
+{{Update|[[Tales from Vader's Castle 2: Count Dooku: Prince of Darkness!]], [[Star Wars Character Encyclopedia: Updated and Expanded]]}}
 {{Image}}
 {{Character
 |type=Jedi
@@ -117,6 +117,7 @@ There are two conflicting sources regarding Gallia's home world: ''[[Ultimate St
 *''[[Star Wars: The Visual Encyclopedia]]''
 *''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
 *''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Geektionary: The Galaxy From A To Z]]''
 *''[[Star Wars: Women of the Galaxy]]''
 *{{Databank|adi-gallia|Adi Gallia|archivedate=20170706043936}}
 *{{Databank|clone-commander-cody|Clone Commander Cody|archivedate=20170607175032}}

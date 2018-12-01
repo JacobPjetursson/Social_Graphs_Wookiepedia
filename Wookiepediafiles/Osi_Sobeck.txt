@@ -1,4 +1,5 @@
 {{Eras}}
+{{Expand}}
 {{Character
 |type=CIS
 |image=[[File:OsiSobeck-TC.png]]
@@ -37,8 +38,6 @@ Sobeck was almost certain that the Republic would launch a second mission to eva
 [[File:Osi Sobeck death.jpg|250px|left|thumb|Sobeck is killed by Tano.]]
 When a droid reported that the Anoobas had located the prisoners, Sobeck personally commanded a squad of droids on [[Single Trooper Aerial Platform|STAP's]] to deal with them. Sobeck and his party found the group on a small island and engaged them. Without success, as Anakin and Obi-Wan destroyed most of Sobeck's squad, while R2-D2 created a cloud of smoke, blinding Sobeck, which allowed [[Advanced Recon Commando|ARC trooper]] [[CT-5555|Fives]] to shoot his STAP down. Tarkin tried to shoot Sobeck but missed, and Sobeck grabbed his throat. Realizing he could never have the information, Sobeck lifted Tarkin and attempted to throw him into the lava, so that no one would have it. Ahsoka, however, spotted this and impaled Sobeck through the back with one of her [[lightsaber]]s, [[Death|killing]] him. Not long thereafter, the Republic broke through the blockade of Lola Sayu and evacuated the prisoners.<ref name="Citadel Rescue" />
 
-{{Char-stub}}
-
 ==Appearances==
 *{{TCW|The Citadel}} {{1st}}
 *{{TCW|Counterattack}}
@@ -47,6 +46,7 @@ When a droid reported that the Anoobas had located the prisoners, Sobeck persona
 
 ==Sources==
 *{{SWE|characters|osisobeck|Osi Sobeck}}
+*''[[Ultimate Star Wars]]''
 *''[[Star Wars: Absolutely Everything You Need to Know]]''
 *''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
 *''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''

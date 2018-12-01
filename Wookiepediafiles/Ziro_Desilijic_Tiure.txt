@@ -1,128 +1,202 @@
-{{Eras}}
+{{Eras|imp|sprot}}
 {{Character
-|type=Hutt Cartel
-|image=[[File:Ziro the hutt - SW Card Trader.png]]
+|type=Criminal
+|image=[[File:ZiroHS.jpg]]
 |name=Ziro Desilijic Tiure
-|homeworld=[[Sleheyron]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
+|homeworld=[[Sleheyron/Legends|Sleheyron]]<ref name="TCW:TVG">''[[Star Wars: The Clone Wars: The Visual Guide]]''</ref><ref name="TCWCE">''[[Star Wars: The Clone Wars Character Encyclopedia]]''</ref>
 |birth=
-|death=[[21 BBY]], [[Teth]]<ref name="HfZ">{{TCW|Hunt for Ziro}}</ref>
-|species=[[Hutt]]<ref name="Ziro">{{Databank|ziro-the-hutt|Ziro the Hutt}}</ref>
-|gender=[[Sexes|Male]]<ref name="Ziro" />
-|height=3.9 [[meter]]s long<ref name="Ziro" />
+|death=c. [[21 BBY/Legends|21 BBY]], [[Teth/Legends|Teth]]<ref name="tcwhfz">{{TCW|Hunt for Ziro}}</ref>
+|species=[[Hutt/Legends|Hutt]]<ref name="TCWCE" /><ref name="SW:TCWF">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]</ref>
+|gender=[[Sexes/Legends|Hermaphrodite]] {{C|masculine personality}}<ref name="TCWCE" />
+|height=3.9 [[Imperial standard meter|meters]] {{C|head to tail}}<ref name="TCWCE" />
 |mass=
 |hair=
-|eyes=[[Color|Green]]<ref name="Ziro" />
-|skin=Purple {{C|with yellow tattoos}}<ref name="Ziro" />
+|eyes=Green<ref name="SW:TCWF" />
+|skin=Purple<ref name="Star Wars: The Clone Wars—Assassin">*{{TCW|Assassin (episode)|Assassin}} Near the end of the episode, [[Ahsoka Tano/Legends|Ahsoka]] describes the threat she felt to [[Padmé Amidala/Legends|Padmé's]] life.</ref>
 |cyber=
-|era=
-|kajidic=[[Desilijic]]<ref name="Scum and Villainy Case Files">''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''</ref>
-|affiliation=*[[Hutt Clan]]<ref name="Assassin">{{TCW|Assassin (episode)|Assassin}}</ref>
-*[[Confederacy of Independent Systems]]<ref name="TCWFilm">[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]</ref>
+|era=[[Rise of the Empire era]]<ref name="SW:TCWF" />
+|affiliation=*[[Desilijic/Legends|Desilijic]] [[Kajidic/Legends|kajidic]]<ref name="TCW:TVG" />
+*[[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]] {{C|briefly}}<ref name="TCW Film">''[[Star Wars: The Clone Wars (film)]]''</ref>
+*[[Black Sun/Legends|Black Sun]]<ref name="TCW:TVG" /><ref name="TCWCE" />
 |masters=
 |apprentices=}}
-{{Quote|Oh, Ziro the Hutt, Master of the Hutt Clan on Seven Systems, I am sorry, your Highness.|[[KRONOS-327]] addresses Ziro by his formal title|audio=ZiroTheHutt-TCWf.ogg|Star Wars: The Clone Wars (film)}}
-'''Ziro Desilijic Tiure''', also known as '''Ziro the Hutt''', was a [[Hutt]] [[Sexes|male]] [[crime lord]] who controlled seven [[star system]]s in the name of the [[Hutt Clan]] during the [[Fall of the Republic|decline]] of the [[Galactic Republic]]. A [[Homeworld|native]] of the [[planet]] [[Sleheyron]], Ziro eventually left [[Hutt Space]] in favor of [[the galaxy]]'s [[Core Worlds]] and established his [[Ziro's Palace|residence]] on [[Coruscant]], the [[Galaxy|galactic]] [[capital]] of the Republic. In addition to his [[Ziro's father|father]] and [[Mama|mother]], Ziro's family included [[Jabba Desilijic Tiure]], his nephew who [[Parent|fathered]] the Huttlet heir [[Rotta]]. [[Gorga Desilijic Aarrpo]] was another influential relative of Ziro, serving as a member of the [[Grand Hutt Council]].
+{{Quote|Oh, Ziro the Hutt, Master of the Hutt Clan on Seven Systems, I am sorry, your Highness.|KRONOS-327 addresses Ziro by his formal title|audio=ZiroTheHutt-TCWf.ogg|Star Wars: The Clone Wars (film)}}
+'''Ziro Desilijic Tiure''', also known as simply '''Ziro the Hutt''', was a [[Sexes/Legends|male]] oriented [[Hutt/Legends|Hutt]] [[Crime lord/Legends|crime lord]], a [[Vigo]] of [[Black Sun/Legends|Black Sun]], and an uncle to [[Jabba Desilijic Tiure/Legends|Jabba Desilijic Tiure]]. The son of [[Mama/Legends|"Mama" the Hutt]], Ziro was the brother of [[Jiliac Desilijic Tiron|Jiliac]], [[Pazda Desilijic Tiure|Pazda]], [[Ebor/Legends|Ebor]], and [[Zorba Desilijic Tiure]]. Ziro is one of the only Hutts that have been heard to fluently speak [[Galactic Basic Standard|Basic]] as opposed to [[Huttese/Legends|Huttese]].
 
-In the [[Standard year|year]] [[22 BBY]], Ziro formed a secret pact with [[Count]] [[Dooku]]&mdash;the [[Head of State|leader]] of the [[Confederacy of Independent Systems]]&mdash;during the early [[Standard day|days]] of the [[Clone Wars]]. With the help of the Separatists, Ziro had his great-nephew Rotta abducted and taken to a [[B'omarr Order Monastery|B'omarr monastery]] on the [[Wild Space|distant]] world of [[Teth]]. Knowing the [[Jedi Order]] would send their own to rescue the Huttlet, Ziro hoped that the [[death]]s of Rotta's would-be [[Jedi]] saviors would lead to a conflict between Jabba and the Republic. With Jabba removed from power, Ziro would be in a position to seize control of their clan.
+During the [[Clone Wars/Legends|Clone Wars]], Ziro arranged a deal with the [[Confederacy of Independent Systems/Legends|Confederacy of Independent Systems]] in a plot to gain more power amongst the Hutt clans. This plot involved the kidnapping of his own grandnephew, [[Rotta/Legends|Rotta]], who was Jabba's son. His plot was uncovered, and Ziro was [[Raid on Ziro the Hutt's Coruscant club|arrested]] by the [[Galactic Republic/Legends|Galactic Republic]] and imprisoned in the [[Republic Judiciary Central Detention Center/Legends|Republic Judiciary Central Detention Center]].
 
-Ziro's role in the conspiracy was discovered by [[Senator]] [[Padmé Amidala]], who confronted the gangster in his nightclub on Coruscant during the [[Battle of Teth|mission to rescue Rotta]]. With Rotta safely returned to his father on [[Tatooine]], Ziro was taken into custody by the [[Coruscant Guard]]. However, as the war progressed, the Grand Hutt Council regarded Ziro as too dangerous to be left in a Republic [[prison]], given his knowledge of their inner workings. As a result, the Hutts recruited the [[bounty hunter]] [[Cad Bane]], who [[Senate hostage crisis|freed]] Ziro and turned him over to the Hutt Council. Although Ziro escaped the Hutts as well, he was ultimately [[Showdown on Teth|murdered]] in [[21 BBY]] by the [[alien]] [[Musician|singer]] [[Sy Snootles]], Ziro's one-[[time]] lover whom Jabba hired to kill his uncle and retrieve the [[Hutt Council records]].
+Following intense debate among the Hutt Council, the renowned [[Duros/Legends|Duros]] [[Bounty hunter/Legends|bounty hunter]] [[Cad Bane/Legends|Cad Bane]] was hired to return him to the Council's custody, freeing him from Republic captivity following a [[Senate hostage crisis/Legends|bloody holdup]] of the [[Grand Convocation Chamber|Senate Rotunda]] and transferring him to a prison cell on [[Nal Hutta/Legends|Nal Hutta]].
+
+After concluding Ziro was too dangerous to the Council's operation to be left alive, Jabba the Hutt hired [[Sy Snootles/Legends|Sy Snootles]], a singer and former lover of Ziro, to secure a [[Holodiary/Legends|datapad]] containing [[Hutt Council records/Legends|sensitive information]] regarding the Council. Though he was being trailed by Cad Bane, as well as the [[Jedi/Legends|Jedi]] [[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]] and [[Quinlan Vos/Legends|Quinlan Vos]], it would be Snootles who killed Ziro with two blaster shots to the chest.
 
 ==Biography==
-At some point, Ziro was born to [[Mama]] the Hutt and had a brother named [[Ebor]]. He then had an affair with [[Sy Snootles]], one of his nephew [[Jabba Desilijic Tiure|Jabba's]] dancers. However, Ziro ended the affair<ref name="HfZ" /> and went to [[Coruscant]]. There, he operated a [[Ziro's Palace|nightclub]].<ref name="TCWFilm" />
+===Early criminal life===
+Starting out as a loan shark on [[Sleheyron/Legends|Sleheyron]], Ziro moved to Coruscant to pursue a bigger career. He did, however, adopt the [[Sleheyroni tattoo|tattoos]], headdress and [[Ubrikkian tail spiral ring|jewels]] of wealthy Sleheyroni [[Hutt/Legends|Hutts]]. He eventually became a [[vigo]] of the criminal organization Black Sun, and had a [[Tattoo/Legends|tattoo]] of its symbol. He used a rundown [[Ziro's Palace/Legends|tower]] that used to belong to the [[Lantillian Spacers' Brotherhood]] as his personal base. The tower was transformed into a gaudy-looking pleasure palace.<ref name="TCW:TVG" />
 
-===Clone Wars===
-[[File:Ziro the Hutt.png|thumb|left|300px|Ziro conspiring with Count Dooku]]
-During the [[Clone Wars]], Ziro made a deal with [[Confederacy of Independent Systems|Separatist]] leader [[Count]] [[Dooku]]; Dooku's assassin, [[Asajj Ventress]], would kidnap his nephew [[Jabba Desilijic Tiure|Jabba's]] son, [[Rotta]]. However, Ziro then learned from [[Naboo]] Senator [[Padmé Amidala]] that the Jedi had rescued Jabba's son. Fearing that his role would be discovered, Ziro contacted Dooku, informing him of Amidala's investigation. Dooku assured Ziro that Jabba believed him about the Jedi killing his son. Knowing Jabba would execute the Jedi responsible, Dooku assured Ziro that he would become master of all the Hutt Clans when the Jedi would bring Jabba to justice. Ziro was then ordered by Dooku to eliminate Amidala if she continued investigating.<ref name="TCWFilm" />
-[[File:Ziro captured.jpg|thumb|right|300px|The Coruscant Guard arrested Ziro on charges of abduction and imprisoning a senator of the Republic.]]
-Ziro and his [[IG-86 sentinel droid]]s then found Amidala. When Dooku realized that it was Amidala, he told Ziro that his allies would pay him for delivering Amidala to him. Ziro, agreeing to the deal, had Amidala placed in his dungeon and thanked Dooku for the profitable alliance. However, Ziro learned that Amidala had contacted her [[protocol droid]], [[C-3PO]], for help. Thus, he decided to execute Amidala, knowing his powerful friends in the [[Galactic Senate|Republic Senate]] would protect him. Ziro and droids were then attacked by Commander [[CC-1010|Fox]] and his detachment of the [[Coruscant Guard]] that 3PO called. Ziro was then held at gunpoint by Amidala. Ziro tried to plead innocence to no avail to Amidala. Ziro contacted Jabba on Tatooine, and Amidala informed Jabba that Ziro was behind Rotta's kidnapping. Ziro also confessed that Dooku also helped in the kidnapping. Jabba vowed that Ziro would be severely punished.<ref name="TCWFilm" />
+When the [[Jedi High Council/Legends|Jedi Council]] was seeking information on the [[Nightsisters/Legends|Nightsisters]] after the attack on the ''[[Sedawan]]'', Ziro was held captive in his own palace by [[Asajj Ventress/Legends|Asajj Ventress]]. He was rescued by two Jedi, but was also confronted by [[Ros Lai]] at the same time, whom Ziro owed a debt. The Jedi agreed to cover Ziro's debt and give Ros Lai transport off Coruscant in exchange for a data chip containing intercepted Nightsister transmissions.<ref name="SW:TCWJA">''[[Star Wars: The Clone Wars: Jedi Alliance]]''</ref>
 
-====Imprisonment====
+At some point, Ziro began an affair with [[Sy Snootles/Legends|Sy Snootles]], the famed singer of the [[Max Rebo Band/Legends|Max Rebo Band]] who would later be his assassin.<ref name="tcwhfz" />
+
+===Plot against Jabba===
+[[File:Ziro captured.jpg|left|thumb|220px|Ziro is captured in his palace on Coruscant.]]
+During the [[Clone Wars/Legends|Clone Wars]], Ziro ordered the murder of fellow Black Sun vigos, though his [[IG-86 sentinel droid/Legends|IG-86]] [[Assassin droid/Legends|assassin droid]], [[KRONOS-327/Legends|KRONOS-327]], failed in this task. Shortly after KRONOS-327 reported his failure, Ziro was approached by [[Senator/Legends|Senator]] [[Padmé Amidala/Legends|Padmé Amidala]] at his palace on [[Coruscant/Legends|Coruscant]], when she tried to reopen communications with the [[Hutt/Legends|Hutts]], as they believed that the [[Jedi/Legends|Jedi]] had abducted Jabba's son, Rotta.<ref name="SW:TCWF" />
+
+In reality, Ziro had struck a deal with [[Count/Legends|Count]] [[Dooku/Legends|Dooku]] to kidnap the child as part of a plot against his nephew. When the Jedi sent to retrieve Rotta died, the Order would have no choice but to bring Jabba to justice and Ziro would gain control of the Hutt Clan. He attempted to dispose of Amidala, but was ultimately [[Raid on Ziro the Hutt's Coruscant club|apprehended]] by the [[Coruscant Guard/Legends|Coruscant Guard]] led by [[C-3PO/Legends|C-3PO]] and [[CC-1010/Legends|Commander Fox]] and put into custody. Via holocomm, he was forced to confess to his nephew of his part in his grandnephew's kidnapping. Furious at his uncle's treachery, Jabba vowed to have him punished severely.<ref name="SW:TCWF" />
+
+===Imprisonment===
 {{Quote|Oh, you can't imagine the unspeakable things I've suffered. The horror! I doubt I'll ever really recover.|Ziro, after his rescue from prison|audio=ZiroSuffered.ogg|Hostage Crisis}}
-Ziro was imprisoned in the [[Republic Judiciary Central Detention Center|Judiciary Central Detention Center]]. Desiring revenge on Amidala, Ziro able to hire bounty hunter [[Aurra Sing]] to kill her. When Sing failed, Ziro spoke with [[Jedi Knight]] [[Anakin Skywalker]] and his [[Padawan]] [[Ahsoka Tano]]. When Tano told Ziro that Sing revealed that he paid her, Ziro confessed to hiring her. However, Tano tricked him and his sentence was increased.<ref name="Assassin" />
+Ziro's time spent in Republic captivity was supposedly a brutal time in which he suffered many horrors. Blaming Senator Amidala for his current state, Ziro hired bounty hunter [[Aurra Sing/Legends|Aurra Sing]] to eliminate Senator Amidala for revenge. Sing attempted to kill Amidala on [[Alderaan/Legends|Alderaan]], where she was attending a conference addressing the welfare of various refugees of the war. Sing only wounded the Senator, and was captured in the act. After Sing was captured, Jedi Padawan [[Ahsoka Tano/Legends|Ahsoka Tano]] and Jedi Master Anakin Skywalker visited Ziro in his cell. He admitted to the assassination attempt, which extended his sentence in the facility.<ref name="Assassin">{{TCW|Assassin (episode)|Assassin}}</ref>
 
-[[File:Bane & Ziro.jpeg|thumb|left|241x241px|Cad Bane and Ziro]]
-During this time, Jabba and the [[Grand Hutt Council|Hutt Council]], knew that it was only a matter of time before Ziro would give the Republic Senate the [[Hutt Council records|Council's records]]. Thus, the council decided to hire [[Cad Bane]] to [[Senate hostage crisis|free]] Ziro.<ref name="Evil Plans">{{TCW|Evil Plans}}</ref> Bane and his [[Cad Bane's group|team]] were able to hold several members of the Republic senate hostage, and force Chancellor Palpatine to release Ziro. Ziro was brought out when Senator [[Orn Free Taa]] arrived and gave the Detention Center's guards a [[pardon disc]]. Ziro then boarded [[HELIOS-3D]]'s speeder and took Ziro to the [[Senate Building]] despite his objections. [[HELIOS-3D]] and Ziro then pickup-ed Bane's team. After Bane and his group boarded the speeder, Ziro told Bane about his captivity in the detention center and approved of Bane killing off the senators. Ziro congratulated Bane on freeing him, but Bane reminded him that he expected to be paid.<ref name="Hostage Crisis">{{TCW|Hostage Crisis}}</ref>
-====Ziro's death====
-{{Quote|What a world…|Ziro's last words|Hunt for Ziro}}
-Ziro was taken to [[Nal Hutta]] where he spoke with [[Gardulla]] and the Hutt Council. Despite thanking them for his escape from Republic captivity, Ziro knew they did not want him to reveal the location of the Council's records. He threatened to have the records dropped off at the Republic senate should he be killed. Thus, the Council kept Ziro locked up in a prison cell. Ziro was able to escape with help from his former girl friend [[Sy Snootles]]. Ziro and Nootles were able to make their escape by stealing a [[Pongeeta-class speeder|speeder]] and went to [[Mama]]'s [[Mama the Hutt's house|house]]. Ziro was able to convince his mother to give Ziro her ship in order to go to Teth.
-[[File:ZiroDead-HFZ.png|thumb|300px|Ziro left for dead on Teth.]]
-On Teth, Ziro went to his [[Ziro's father|father's]] grave, where the council records were hidden. However, Snootles had secretly been hired by Jabba to retrieve the records. Snootles then shot Ziro and left his body to be found by both the Jedi and Bane.<ref name="HfZ" />
+[[File:Ziro released.jpg|thumb|220px|right|Ziro gets released from prison.]]
+Sometime later, Jabba and the [[Hutt Ruling Council]] conferred, discussing Ziro's importance to the Hutt's operation. It was concluded that Ziro was in possession of a highly sensitive datapad detailing the various illegal operations the Hutt Council undertook. Fearful for their safety, the Council  planned to hold the [[Grand Convocation Chamber|Senate Rotunda]] hostage with a hired gunfighter, to use it as leverage for Ziro's release.
 
-{{Char-stub}}
+Though the bounty hunter [[Cad Bane/Legends|Cad Bane]] intially only signed with the Council to retrieve a layout of the Senate building, Bane agreed to take part in the actual raid, assembling a team including Aurra Sing, who eluded imprisonment by the Republic in exchange for testifying against Ziro, and technician [[Robonino/Legends|Robonino]]. The ensuing raid resulted in the death of [[Senator/Legends|Senator]] [[Philo/Legends|Philo]], as well as a number of Senate security guards.
+
+The Hutt was released via [[Supreme Chancellor/Legends|Supreme Chancellor]] [[Palpatine/Legends|Palpatine's]] orders to save the surviving Senators' lives.<ref name="Hostage Crisis">{{TCW|Hostage Crisis}}</ref> Despite being pursued across Coruscant's [[Skylane/Legends|skylanes]] by Quinlan Vos, Bane and Ziro escaped the Jedi on an airspeeder and made it to the bounty hunter's ship.<ref name="CWA: Crisis Ziro">[[Star Wars: Clone Wars Adventures (video game)|''Star Wars: Clone Wars Adventures'' video game]], "Crisis Ziro" mini-game</ref>
+
+===Ziro's assassination===
+{{Quote|What a world&hellip;|Ziro's laboriously whispered last words|Hunt for Ziro}}
+[[File:ZiroDead-HFZ.png|left|thumb|220px|Ziro's lifeless body after being killed by Sy Snootles.]]
+After Bane successfully extracted Ziro from the prison, he was delivered to the Hutt Council on [[Nal Hutta/Legends|Nal Hutta]], where Ziro vowed that his death would mean the leaking of the datapad to the Galactic Republic. The Hutts instead decided on keeping him under control in a prison cell.<ref name="tcwhfz" />
+
+Jabba covertly hired Sy Snootles to release Ziro from his cell, asking her to retrieve the information in Ziro's possession and to kill him when this task was accomplished. The other members of the Hutt Council, unaware of Jabba's plan, hired Cad Bane to track down Ziro and kill him. Ziro's first instinct was to flee to his mother's house, where the Council would least expect Ziro to flee. During this surprise visit, Ziro arranged a trade with his mother for her starship, giving her his [[Pongeeta-class swamp speeder|swamp speeder]].<ref name="tcwhfz" />
+
+Using his new starship, Ziro and Snootles traveled to Teth, where Ziro planned to retrieve his personal [[Holodiary/Legends|datapad]], deliver it to the Republic, and have the Hutt Council arrested. He showed Sy his [[Ziro Desilijic Tiure's father|father's]] grave where the [[Holodiary/Legends|holodiary]] was located. After getting her hands on this incriminating evidence, Snootles quickly revealed her assignment under Jabba, equipping a small blaster and executing Ziro with two shots to the chest.<ref name="tcwhfz" />
+
+Around this time, the [[Jedi Council/Legends|Jedi Council]] sent [[Jedi Master/Legends|Jedi Masters]] [[Obi-Wan Kenobi/Legends|Obi-Wan Kenobi]] and [[Quinlan Vos/Legends|Quinlan Vos]] to bring Ziro to justice. Their investigation naturally led them to the Hutt Council's stronghold on Nal Hutta, where Vos used his natural [[Psychometry/Legends|psychometry]] abilities to track Ziro to his mother's house, who then directed them to Teth. However, by the time the Jedi and Cad Bane arrived, Ziro was already dead.<ref name="tcwhfz" />
+
+==Personality and traits==
+[[File:Ziro-SWE.jpg|thumb|220px|Ziro the Hutt]]
+Ziro was very flamboyant, even among the Hutts. Unlike most other Hutts, he spoke fluent Basic with a high-pitched voice and slight lisp, though he understood his native Huttese as well.<ref name="SW:TCWF" /> Like many Hutts, he was greedy and was determined to gain control of the Hutt criminal empire by any means, even if it meant blackmailing his relatives. He was also quite fashion-conscious for a Hutt, adorning himself with [[Tattoo/Legends|tattoos]] and showy [[Hat/Legends|hats]]. At some point, Ziro had cosmetic surgery to give his face a more symmetrical appearance.<ref name="Art of TCW">''[[The Art of Star Wars: The Clone Wars]]''</ref>
 
 ==Behind the scenes==
-Ziro the Hutt first appeared in the [[2008]] [[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'']] animated film, voiced by prolific voice actor [[Corey Burton]].<ref name="TCWFilm" /> Burton went on to reprise the role in four more episodes of the ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]''.
+Ziro the Hutt was voiced by [[Corey Burton]] in the [[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]<ref name="SW:TCWF" /> and [[Star Wars: The Clone Wars (TV series)|television series]].<ref name="Hostage Crisis Ep Guide">{{SWArchive|url=theclonewars/guide/episode022.html|text=''The Clone Wars'' Episode Guide: Hostage Crisis|archivedate=20110630093108}}</ref>
 
-Though so far the only Hutt who speaks [[Galactic Basic]] onscreen, this was not originally intended. Ziro was meant to speak [[Huttese]] into a microphone which would translate his speech into English, but this idea was dropped when the producers felt that younger audiences wouldn't understand what the translator was. Later, [[George Lucas]] stepped in and specifically asked for Ziro to sound like [[Wikipedia:Truman Capote|Truman Capote]]. The character was a favorite of the production team, and they planned to have him return in the subsequent ''The Clone Wars'' series.<ref name="TCW-dvd">[[Star Wars: The Clone Wars (film)|''Star wars: The Clone Wars'' film]] DVD commentary</ref>
+Ziro was originally going to speak [[Huttese/Legends|Huttese]] into a microphone which would translate his speech into [[Galactic Basic Standard|English]], but this idea was dropped because the producers felt that younger audiences wouldn't be able to understand what the translator was. Later, [[George Lucas]] stepped in and specifically asked for Ziro to sound like [[Wikipedia:Truman Capote|Truman Capote]]. The character was a favorite of the production team, and they planned to have him return in the [[Star Wars: The Clone Wars (TV series)|TV series]].<ref name="TCW-dvd">''The Clone Wars'' DVD commentary</ref>
 
-Following the release of ''The Clone Wars'' film, [[Dave Filoni]] commented during an interview with MTV News that Ziro's sexuality was "ambiguous," leading media to speculate whether Ziro was the first LGBT alien in the ''[[Star Wars]]'' franchise. Filoni stated, however, that Ziro was biologically asexual.<ref name="MTV News">{{Cite_web|url=http://moviesblog.mtv.com/2008/08/12/is-zero-the-hutt-the-first-gay-alien-in-star-wars-history/|title=Is Ziro The Hutt The First Gay Alien In Star Wars History?|accessdate=2008-08-18|author=Shawn Adler|date=August 12, 2008|publisher=MTV|archiveurl=https://web-beta.archive.org/web/20080828035308/http://moviesblog.mtv.com/2008/08/12/is-ziro-the-hutt-the-first-gay-alien-in-star-wars-history/|archivedate=2008-08-28}}</ref>
+[[Dave Filoni]] says the topic of Ziro's sexuality is ambiguous, as Hutts are [[Sexes/Legends|hermaphrodites]].<ref name="MTV">{{Cite_web|url=http://moviesblog.mtv.com/2008/08/12/is-zero-the-hutt-the-first-gay-alien-in-star-wars-history/|title=Is Ziro The Hutt The First Gay Alien In Star Wars History?|accessdate=2008-08-18|author=Shawn Adler|date=August 12, 2008|publisher=MTV|archiveurl=https://web-beta.archive.org/web/20080828035308/http://moviesblog.mtv.com/2008/08/12/is-ziro-the-hutt-the-first-gay-alien-in-star-wars-history/|archivedate=2008-08-28}}</ref> Ziro's final chronological appearance in the episode "[[Hunt for Ziro]]" established his interest in females.<ref name="tcwhfz" />
+
+The young reader book [[Star Wars: The Clone Wars: Watch out for Jabba the Hutt!|''Watch Out for Jabba the Hutt!'']] mistakenly identifies Ziro as Jabba's nephew, instead of his uncle.
+
+The only Ziro toy available was released in 2012, he was included in a ''Fighter Pods'' set from Hasbro and exclusive to the Target shops.<ref name="GalacticHunter">{{Cite_web|url=http://www.galactichunter.com/gh/story/video-review-target-exclusive-special-edition-darth-maul-tin-fighter-pods-set|title=Video Review: Target Exclusive Special Edition Darth Maul Tin Fighter Pods Set|accessdate=2015-11-17|author=Adam Pawlus|date=November 5, 2012|publisher=Galactic Hunter}}</ref> The character was also featured in the ''Marbs Series'' by [[Wikipedia:Jakks Pacific|Jakks Pacific]].<ref name="MightyJabba'sCollection">{{Cite_web|url=http://mightyjabba.com/2010/02/25/clone-wars-ziro-the-hutt-marb-marble/|title=Clone Wars Ziro the Hutt Marb (Marble)|accessdate=2015-11-17|date=February25, 2010|publisher=Mighty Jabba's Collection}}</ref>
 
 ==Appearances==
-*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]] {{1st}}
+*{{TCWA|Card Commander}}
+*[[Star Wars: The Clone Wars (novelization)|''Star Wars: The Clone Wars'' novelization]] {{1st}}
+*[[Star Wars: The Clone Wars (junior novelization)|''Star Wars: The Clone Wars'' junior novelization]]
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]
+*''[[Star Wars: The Clone Wars: Watch out for Jabba the Hutt!]]''
+*''[[The Clone Wars: Forces of Darkness]]''
+*''[[The Clone Wars: Decide Your Destiny: The Way of the Jedi]]''
+*''[[The Clone Wars: Decide Your Destiny: Crisis on Coruscant]]'' {{Mo}}
+*''[[Star Wars: The Clone Wars: Jedi Alliance]]''
+*''[[Cad Bane: Jedi Hunter]]'' {{C|Stock footage from "Hostage Crisis" only}}
 *{{TCW|Assassin (episode)|Assassin}}
 *{{TCW|Evil Plans}} {{Hologram}}
 *{{TCW|Hostage Crisis}}
+*''[[The Clone Wars: Planets in Peril]]''
+*''[[The Clone Wars: Hunting the Hunters (Part I)]]''
+*{{TCWA|Crisis Ziro}}
 *{{TCW|Hunt for Ziro}}
-*''[[Dark Disciple]]'' {{Mo}}
+
+===Non-canon appearances===
+*''[[LEGO Star Wars III: The Clone Wars]]''
 
 ==Sources==
-{{Scroll box|
-*{{SW|url=tv-shows/clone-wars/assassin|text="Assassin" Episode Guide - ''The Clone Wars''}}
-*{{SW|url=tv-shows/clone-wars/evil-plans|text="Evil Plans" Episode Guide - ''The Clone Wars''}}
-*{{SW|url=tv-shows/clone-wars/hostage-crisis|text="Hostage Crisis" Episode Guide - ''The Clone Wars''}}
-*{{SW|url=tv-shows/clone-wars/hunt-for-ziro|text="Hunt for Ziro" Episode Guide - ''The Clone Wars''}}
-*{{SWE|characters|aurrasing|Aurra Sing}}
+{{Scroll_box|content=
+{{Imagecat|Images of Ziro Desilijic Tiure}}
+{{Soundcat|Audio files of Ziro Desilijic Tiure}}
+*''[[Star Wars: The Clone Wars: The Visual Guide]]''
+*''[[The Clone Wars: The Galactic Photobook]]''
+*''[[Star Wars: The Clone Wars Official Movie Storybook]]''
+*{{SWPM|set=Clone Wars|link=http://www.tierfon.be/index.php?option=com_content&task=view&id=941&Itemid=120|cardname=Ziro the Hutt}}
+*''[[The Complete Star Wars Encyclopedia]]''<!--Rotta entry: Ziro hired the bounty hunters who captured him-->
+*''[[Star Wars: The Clone Wars: Heroes and Villains Flip Book]]'' <!--2009-->
+*{{HasbroCite|set=Star Wars: The Clone Wars (toy line)|text=''Star Wars: The Clone Wars''|pack=Commander Fox|link=TCWexFox.asp}}
+*''[[The Clone Wars Campaign Guide]]'' {{1stID|Desilijic Tiure}}
+*{{SWArchive|url=theclonewars/guide/episode022.html|text=''The Clone Wars'' Episode Guide: Hostage Crisis|archivedate=20110630093108}}
+*{{CN|url=tv_shows/starwars/?episodeID=8a250596201e801c012020722dd30005|text=Dataclip: Hostage Crisis}}
+*''[[Star Wars: The Clone Wars Activity Annual: Summer Edition 2009]]''
+*{{InsiderCite|110|Season One Episode Guide (Part Two)}}
+*''[[The Art of Star Wars: The Clone Wars]]''
+*{{InsiderCite|111|More than a Hobbie!}}
+*{{InsiderCite|111|Versus (Star Wars Insider)|Versus}}
+*{{SonyCite|url=players/news_archive.vm?id=68475&month=102009|text=The Return of the Galactic Moon Festival|archivedate=20111124005341}}
+*''[[Star Wars: The Clone Wars: The Official Episode Guide: Season 1]]''
+*[[Star Wars: The Clone Wars The Complete Season One|''Star Wars: The Clone Wars'' The Complete Season One]]
+*{{HasbroCite|set=Star Wars: The Clone Wars (toy line)|text=''Star Wars: The Clone Wars''|pack=Ziro's Assassin Droid|link=TCW37_ZiroAssassin.asp}}
+*''[[Star Wars: The Clone Wars Comic UK 6.4]]'' {{Po}}
+*''[[Star Wars: The Clone Wars Comic UK 6.6]]''
+*''[[Star Wars: The Clone Wars Character Encyclopedia]]''
+*''[[Star Wars: The Clone Wars: New Battlefronts: The Visual Guide]]''
+*''[[Star Wars: The Clone Wars Official Episode Guide Series 1 & 2]]''
+*{{HasbroCite|set=Star Wars: The Clone Wars (toy line)|text=''Star Wars: The Clone Wars''|pack=Hostage Crisis (Battle Pack)|link=}}
+*{{SWArchive|url=theclonewars/guide/epsiode307.html|text=''The Clone Wars'' Episode Guide: Assassin}}
+*{{CN|url=tv_shows/starwars/?episodeID=8a250ab02b7db1de012bd5a3fcbe085e|text=Dataclip: Assassin}}
+*{{SWArchive|url=theclonewars/guide/episode309.html|text=''The Clone Wars'' Episode Guide: Hunt for Ziro}}
+*{{SWArchive|url=theclonewars/huntforziropreview/index.html|text=Cad Bane Faces-Off Against the Jedi and the Hutts!}}
+*{{SWArchive|url=clonewars/tradingcards/cards/lg_sysnootles.jpg|text=Clone Card: Sy Snootles}}
+*{{SWArchive|url=clonewars/tradingcards/cards/lg_mamathehutt.jpg|text=Clone Card: Mama the Hutt}}
+*{{SWArchive|url=clonewars/tradingcards/cards/lg_zirothehutt.jpg|text=Clone Card: Ziro the Hutt}}
+*{{CN|url=tv_shows/starwars/?episodeID=8a250ab02c325aa5012c419ae71f0112|text=Dataclip: Hunt for Ziro}}
+*''[[Star Wars: The Clone Wars Magazine 2]]''
+*{{InsiderCite|122|Master of Villainous Voices!}}
+*''[[Star Wars: The Clone Wars Comic UK 6.15]]''
+*''[[Star Wars: The Clone Wars Comic UK 6.16]]''
+*{{HasbroCite|set=Star Wars: The Clone Wars (toy line)|text=''Star Wars: The Clone Wars''|pack=Quinlan Vos|link=TCW36-QuinlanVos.asp}}
+*''[[Star Wars: The Clone Wars Magazine 3]]''
+*''[[Star Wars: The Clone Wars Comic UK 6.17]]''
+*[[Star Wars: The Clone Wars: Pocket Money Treats, First Edition|''Star Wars: The Clone Wars: Pocket Money Treats'', First Edition]]
+*''[[Star Wars: The Clone Wars Magazine 4]]''
+*{{InsiderCite|125|50 Great Reasons to Rewatch Star Wars: The Clone Wars Season Three|50 Great Reasons to Rewatch ''Star Wars: The Clone Wars'' Season Three}}
+*''[[Star Wars Character Encyclopedia]]''<!--"In an adventurous life, Snootles has been the lover of Ziro the Hutt, and after she discovered his true cruelty, his assassin (for Jabba the Hutt).-->
+*''[[Star Wars: The Clone Wars Comic UK 6.23]]''
+*''[[Star Wars: The Clone Wars: Incredible Vehicles]]''
+*''[[Star Wars: The Clone Wars Comic UK 6.24]]''
+*''[[Star Wars: The Clone Wars Magazine 7]]''
+*{{TCWA|set=Ziro Holoprojector}}
+*''[[Star Wars: The Clone Wars Comic UK 6.25]]''
+*''[[Star Wars: Clone Wars Adventures: The Official Guide to the Virtual World]]''
+*[[Star Wars: The Clone Wars The Complete Season Three|''Star Wars: The Clone Wars'' The Complete Season Three]]
+*''[[Star Wars: The Clone Wars Magazine 9]]''
+*{{DB|character|cadbane|Cad Bane}}
+*{{DB|character|rotta|Rotta the Hutt}}
+*{{DB|starship|twilight|Twilight}}
+*''[[Book of Sith: Secrets from the Dark Side]]''
+*{{SW|url=explore/the-clone-wars/ep415/#!/about|text=Deception}}
+*''[[Star Wars: The Ultimate Visual Guide: Updated and Expanded]]''
+*{{HasbroCite|set=Star Wars: The Clone Wars (toy line)|text=''Star Wars: The Clone Wars''|pack=Clone Commander Fox|link=Commander_Fox_TCW_Clone_Wars.asp}}
+*''[[The Essential Reader's Companion]]''
+*[[Star Wars: The Clone Wars The Complete Season Four|''Star Wars: The Clone Wars'' The Complete Season Four]]
+*''[[Star Wars: The Clone Wars Comic UK 6.41]]''
+*''[[Star Wars: The Clone Wars: Who Are the Jedi?]]''
+*''[[Star Wars: The Clone Wars: Episode Guide]]''
+*{{SW|url=news/so-uncivilized-great-gunslingers-in-star-wars-part-2|int=So Uncivilized: Great Gunslingers in Star Wars|text=So Uncivilized: Great Gunslingers in ''Star Wars'', Part 2|archivedate=20170908085832}}
+*''[[The Bounty Hunter Code: From the Files of Boba Fett]]''
 *{{SWE|characters|cadbane|Cad Bane}}
-*{{SWE|characters|clone-commander-fox|Clone Commander Fox}}
-*{{SWE|characters|gorga-the-hutt|Gorga the Hutt}}
 *{{SWE|characters|jabba|Jabba the Hutt}}
 *{{SWE|locations|nalhutta|Nal Hutta}}
-*{{SWE|characters|quinlanvos|Quinlan Vos}}
 *{{SWE|characters|rotta|Rotta the Huttlet}}
-*{{SWE|characters|sysnootles|Sy Snootles}}
 *{{SWE|characters|zirothehutt|Ziro the Hutt}}
-*''[[Ultimate Star Wars]]''
-*''[[Star Wars: Absolutely Everything You Need to Know]]''
-*''[[Star Wars Character Encyclopedia: Updated and Expanded]]''
-*''[[Star Wars: Galactic Atlas]]'' {{Po}}
-*''[[Star Wars: The Visual Encyclopedia]]''
-*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
-*''[[Star Wars Adventures, Volume 1: Heroes of the Galaxy]]''
-*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
-*''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]'' {{1stID|Desilijic Tiure}}
-*''[[Star Wars: Women of the Galaxy]]''
-*{{Databank|aurra-sing|Aurra Sing|archivedate=20170623060156}}
-*{{Databank|boba-fett|Boba Fett|archivedate=20170605030244}}
-*{{Databank|cad-bane|Cad Bane|archivedate=20170605082517}}
-*{{Databank|central-detention-center|Central Detention Center|archivedate=20170705030848}}
-*{{Databank|clone-commander-fox|Clone Commander Fox|archivedate=20170606172602}}
-*{{Databank|coruscant|Coruscant|archivedate=20170705001748}}
-*{{Databank|emperor-palpatine-darth-sidious|Emperor Palpatine / Darth Sidious|archiveurl=https://archive.is/BR4CY}}
-*{{SW|galactic-senate-history-gallery|text=Galactic Senate history gallery}}; images #11, 12 {{C|of 27}}
-*{{Databank|gorga-the-hutt|Gorga the Hutt|archivedate=20170112180622}}
-*{{Databank|hutt-clan|Hutt Clan}}
-*{{Databank|hutt|Hutt}}
-*{{Databank|jabba-the-hutt|Jabba the Hutt|archivedate=20170712090459}}
-*{{Databank|nal-hutta|Nal Hutta}}
-*{{Databank|obi-wan-kenobi|Obi-Wan Kenobi|archivedate=20170625182018}}
-*{{Databank|oruba-the-hutt|Oruba the Hutt}}
-*{{Databank|padme-amidala|Padmé Amidala}}
-*{{Databank|quinlan-vos|Quinlan Vos|archivedate=20170605073739}}
-*{{Databank|rotta-the-huttlet|Rotta the Huttlet}}
-*{{Databank|sy-snootles|Sy Snootles}}
-*{{Databank|twilight|Twilight}}
-*{{Databank|ziro-the-hutt|Ziro the Hutt}}}}
+*{{SWMCite|2|Podracing 101!}} {{Po}}}}
 
 ==Notes and references==
 {{Reflist}}
 
+==External links==
+*{{SWArchive|url=theclonewars/news20090320.html|text=Corey Burton: Voicing Villains}}
+*{{SWSB|61|Ziro the Hutt}}
+
 {{Interlang
-|de=Ziro#kanon
-|fr=Ziro Desilijic Tiure
-|ja=ズィロ
+|de=Ziro#legends
+|es=Ziro Desilijic Tiure/Leyendas
+|nl=Ziro Desilijic Tiure
 |pl=Ziro
-|ru=Зиро Десилиджик Тиуре/Канон
+|pt=Legends:Ziro Desilijic Tiure
+|ru=Зиро Десилиджик Тиуре
 |deFA=1
 }}
 
-[[Category:Hutts]]
+{{DEFAULTSORT:Desilijic Tiure, Ziro}}
+[[Category:Hutts of the Desilijic clan]]
+[[Category:Vigos]]

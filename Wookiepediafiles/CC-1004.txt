@@ -19,8 +19,7 @@
 |cyber=
 |era=
 |affiliation=*[[Galactic Republic]]<ref name="Revenge of the Sith" />
-**[[Grand Army of the Republic]]<ref name="Revenge of the Sith" />
-***[[41st Elite Corps]]<ref name="Clone Commander Gree" />
+**[[41st Elite Corps]]<ref name="Clone Commander Gree" />
 |masters=
 |apprentices=}}
 {{Quote|I can't disobey a direct order and leave my post, can I?''"<br />"''I wouldn't.|Ahsoka Tano and Gree|audio=IWouldn't-CoD.ogg|Cloak of Darkness}}
@@ -50,15 +49,17 @@ Later in the war, Gree fought in the [[Second Battle of Geonosis]]. He, [[Clone 
 [[File:TheDeathofCommanderGree.png|thumb|left|220px|Yoda after beheading Gree]]
 Gree and Yoda oversaw the battle from a command post in the great tree city of [[Kachirho]]. The pair were joined by the city's ruler [[Tarfful]], as well as another Wookiee named [[Chewbacca]]. Partway into the [[battle of Kashyyyk|battle]], Gree received a transmission from [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]], who ordered him to execute [[Order 66]], a command that forced clones to execute their Jedi commanders. Gree and a [[clone scout trooper]] also present on the command post took position behind the Jedi Master and prepared to execute him. However, Yoda sensed this betrayal, and beheaded Gree and the scout trooper before they could put him down.<ref name="Revenge of the Sith" />
 
-===Legacy===
-Because of Gree's assassination attempt on the Jedi Master during the Battle of Kashyyyk, Yoda was made aware of the [[Jedi Purge]] and was able to avoid it.<ref name="Revenge of the Sith" /> Around [[2 BBY|17]] years after his death, the helmet worn by Gree during the Battle of Kashyyyk was part of the private art collection owned by [[Grand Admiral]] [[Mitth'raw'nuruodo|Thrawn]] of the [[Galactic Empire]], and was stored aboard his [[flagship]], the ''[[Chimaera]]''.<ref name="Through Imperial Eyes"> {{Rebels|Through Imperial Eyes}}</ref>
-
 ==Personality and traits==
 As a clone of the bounty hunter Jango Fett, Gree stood at 1.83 meters and had brown eyes with tanned skin. He also cut his hair into two rectangular stripes, both of them dyed red. Commander Gree was a very loyal soldier. This was shown when he advised Ahsoka Tano to not go against Luminara Unduli's command.<ref name="Cloak of Darkness" /> He also fought and defeated Captain Argyus because of his betrayal. Commander Gree also had respect for his Jedi commanders and clone brothers; he never spoke ill of them and never put a toe out of line.<ref name="Weapons Factory" />
 
 ==Equipment==
-[[File:Gree-TCW.png|thumb|left|160px|Gree in his armor]]
+[[File:Gree-TCW.png|thumb|right|160px|Gree in his armor]]
 Early in the Clone Wars, Gree wore [[Phase I clone trooper armor|Phase I]] [[Clone trooper armor|clone armor]]. His armor was detailed with markings and sported the color green just as Green Company.<ref name="Cloak of Darkness" /> Gree wore a black bandolier, which held extra ammunition. Much like his Phase I counterpart, his armor sported green markings, though in different sections of his armor, certain parts had darker shades of green. He also carried a set of personal green-colored [[macrobinoculars]].<ref name="Revenge of the Sith" /> Like many commanding officers, Gree carried a variety of weapons and tertiary weaponry. He carried a [[DC-15A blaster]];<ref name="Revenge of the Sith" /> he was also equipped with one [[DC-17 hand blaster]] (complemented by a holster on the side of one leg) compared to the two pistols some other commanding officers like Captain Rex wielded.<ref name="Weapons Factory" />
+
+==Behind the scenes==
+CC-1004 made his first [[canon]]ical appearance in the [[2005]] film [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']], where he was voiced by [[Temuera Morrison]], who voiced all of the other clone troopers in the movie.<ref name="Revenge of the Sith" /> He was first identified as "[[CC-1004/Legends|Gree]]" in the [[Star Wars Legends|''Star Wars'' Legends]] tie-in reference book ''[[Star Wars: Revenge of the Sith The Visual Dictionary]]''.<ref name="Ep. III Visual Dictionary">''[[Star Wars: Revenge of the Sith The Visual Dictionary]]''</ref> The name was canonized by its inclusion in the ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' episode "[[Cloak of Darkness]]".<ref name="Cloak of Darkness" />
+
+In the [[Star Wars Episode III Revenge of the Sith: Illustrated Screenplay|illustrated screenplay]] of ''Revenge of the Sith'', though Gree's death scene remained largely the same as in the final cut, Gree and his fellow trooper were able to fire their blasters before getting killed by Yoda, who had already swiftly jumped over them before they could reveal their weapons.<ref name="Ep. III Illustrated Screenplay">''[[Star Wars Episode III Revenge of the Sith: Illustrated Screenplay]]''</ref>
 
 ==Appearances==
 {{Imagecat|Images of CC-1004}}

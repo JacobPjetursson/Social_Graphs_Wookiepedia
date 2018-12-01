@@ -1,5 +1,5 @@
 {{Eras}}
-{{Update|[[Rogue One: A Star Wars Story]], [[Doctor Aphra 26: Worst Among Equals, Part I]]}}
+{{Update|[[Rogue One: A Star Wars Story]], [[Doctor Aphra 26: Worst Among Equals, Part I]], [[Star Wars: Smuggler's Guide]]}}
 {{Character
 |type=Criminal
 |image=[[File:Pondababa.png]]
@@ -89,6 +89,7 @@ A walrus named [[Petulia]] was used by [[Ben Burtt]] to supply Ponda Baba's voca
 *''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
 *''[[Star Wars: Alien Archive - Species Guide]]''
 *''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
+*''[[Star Wars: Smuggler's Guide]]''
 *{{Databank|chadra-fan|Chadra-Fan|archivedate=20170106021520}}
 *{{Databank|doctor-cornelius-evazan|Doctor Cornelius Evazan|archivedate=20161104154102}}
 *{{Databank|figrin-d-an|Figrin D'an|archivedate=20161229181030}} {{C|Misspelled as "Ponda Boba"}}

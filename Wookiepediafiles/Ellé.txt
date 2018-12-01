@@ -6,7 +6,7 @@
 |homeworld=[[Naboo/Legends|Naboo]]<ref name="DB">{{DB|character|elle|Ellé}}</ref>
 |birth=
 |death=
-|species=[[Human/Legends|Human]]<ref name="DB" />
+|species=[[Human/Legends|Human]] {{C|[[Naboo (people)/Legends|Naboo]]}}<ref name="DB" /><ref name="DB" />
 |gender=[[Sexes/Legends|Female]]<ref name="DB" />
 |height=
 |mass=

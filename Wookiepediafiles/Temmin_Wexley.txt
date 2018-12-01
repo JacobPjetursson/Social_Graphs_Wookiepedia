@@ -226,7 +226,7 @@ Black Squadron and the Crèche cultists disarmed Terec and his stormtroopers. Un
 
 ====Undercover on Megalox Beta====
 [[File:Black-Squadron-fights-prisoners.png|thumb|left|300px|Temmin and Black Squadron enter Megalox]]
-Following the events on Ovanis, Snap and his fellow pilots returned to the [[Resistance base]] on [[D'Qar]]. After toasting, Temmin spent a quiet moment with Karè Kun and confided his feelings for her, which she reciprocated. Continuing their search for Lor San Tekka, Black Squadron [[Mission to Megalox Beta|traveled]] to the [[prison]] world of [[Megalox Beta]] to visit the imprisoned [[Grakkus]] the [[Hutt]]. Lor had once met Grakkus, who collected artifacts related to the Jedi prior to his imprisonment. General Organa managed to bribe the prison's warden [[Luta]] into letting Black Squadron visit the prison. [[Megalox]] was a private prison for the galaxy's worst criminals. Due to the planet's high gravity, the prison was protected by a grav-field dome generated from orbit by a [[space station]].<ref name="Poe Dameron 4">''[[Poe Dameron 4: Lockdown, Part I]]''</ref>
+Following the events on Ovanis, Snap and his fellow pilots returned to the [[Resistance base]] on [[D'Qar]]. After toasting, Temmin spent a quiet moment with Karè Kun and confided his feelings for her, which she reciprocated. Continuing their search for Lor San Tekka, Black Squadron [[Mission to Megalox Beta|traveled]] to the [[prison]] world of [[Megalox Beta]] to visit the imprisoned [[Grakkus Jahibakti Tingi|Grakkus]] the [[Hutt]]. Lor had once met Grakkus, who collected artifacts related to the Jedi prior to his imprisonment. General Organa managed to bribe the prison's warden [[Luta]] into letting Black Squadron visit the prison. [[Megalox]] was a private prison for the galaxy's worst criminals. Due to the planet's high gravity, the prison was protected by a grav-field dome generated from orbit by a [[space station]].<ref name="Poe Dameron 4">''[[Poe Dameron 4: Lockdown, Part I]]''</ref>
 
 Upon entering the prison's landing bay, the guards abandoned Black Squadron and told them that they had been paid by someone else not to escort them to [[Fortress of Grakkus the Hutt|Grakkus' fortress]]. Unable to pay the guards a million [[credit]]s, Black Squadron were forced to fight their way through the criminals using smoke bombs. Upon arriving at Grakkus' fortress, Snap and his comrades were taken prisoner by Grakkus and his Hutt minions, who wore cyborg enhancements. Grakkus agreed to give them information about Lor provided they behave themselves. He also agreed to allow them to leave later on the condition that they surrendered their weapons.<ref name="Poe Dameron 4" />
 
@@ -360,6 +360,7 @@ Temmin Wexley first appeared as a 15-year-old point-of-view character in the [[2
 *''[[Star Wars: The Visual Encyclopedia]]''
 *''[[Star Wars: On the Front Lines]]'' {{Po}}
 *''[[Star Wars: Women of the Galaxy]]''
+*''[[Star Wars: Droidography]]'' {{Imo}}
 *{{Databank|blue-squadron|Blue Squadron|archiveurl=https://archive.fo/GMa26}}
 *{{Databank|resistance-pilots-biography-gallery|Resistance Pilots Biography Gallery|archiveurl=http://www.webcitation.org/6yQuNKtib}}; image #2 {{C|of 6}}
 *{{Databank|snap-wexley|Snap Wexley}}

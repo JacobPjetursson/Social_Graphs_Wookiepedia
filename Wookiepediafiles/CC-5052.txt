@@ -1,7 +1,8 @@
 {{Eras}}
+{{Update|[[Star Wars Character Encyclopedia: Updated and Expanded]]}}
 {{Cleanup}}
 {{Character
-|type=Galactic Republic
+|type=Galactic Empire
 |image=[[File:BlyHS-JC.png]]
 |name=CC-5052<br />"Bly"
 |homeworld=[[Kamino]]<ref name="SWE Bly">{{SWE|characters|clone-commander-bly|Clone Commander Bly|archivedate=20131221190229}}</ref>
@@ -18,6 +19,7 @@
 |era=
 |affiliation=*[[Galactic Republic]]<ref name="Databank Bly" />
 **[[327th Star Corps]]<ref name="Databank Bly" />
+*[[Galactic Empire]]<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
 |masters=
 |apprentices=}}
 {{Quote|Commander Bly, we've got company.''"<br />"''Friendlies?''"<br />"''Negative sir, a droid ship. Coming straight our way.|Captain Rex and Commander Bly|Defenders of Peace}}
@@ -31,7 +33,7 @@ During the final days of the Clone Wars, Bly and the 327th Star Corps under the 
 
 ==Biography==
 ===Early Life===
-CC-5052, later known as "Bly," was a [[Cloning|clone]] of the [[bounty hunter]] [[Jango Fett]] created on [[Kamino]].<ref name="Databank Bly" /> At some point prior to his service during the [[Clone Wars]], he was trained by [[Advanced Recon Commando|ARC troopers]] to be one of the first [[Clone Commander]]s<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> and becoming an ARC trooper himself.<ref name="ForceCollection Bly">{{ForceCollection|Clone Commander Bly|star=4}}</ref>
+CC-5052, later known as "Bly," was a [[Cloning|clone]] of the [[bounty hunter]] [[Jango Fett]] created on [[Kamino]].<ref name="Databank Bly" /> At some point prior to his service during the [[Clone Wars]], he was trained by [[Advanced Recon Commando|ARC troopers]] to be one of the first [[Clone Commander]]s<ref name="Character Encyclopedia" /> and becoming an ARC trooper himself.<ref name="ForceCollection Bly">{{ForceCollection|Clone Commander Bly|star=4}}</ref>
 
 ===The Clone Wars===
 ====Battle of Quell====
@@ -60,6 +62,11 @@ As a clone of the bounty hunter Jango Fett, Bly stood at 1.83 [[meter]]s and had
 ==Equipment==
 During the Clone Wars, Bly wore [[Phase I clone trooper armor]] that had been customized with various yellow markings. He also sported a black and orange singular [[pauldron]].<ref name="JC" /> Later on in the war, he adopted the new [[Phase II clone trooper armor]] which he also decorated with yellow markings and a slightly different double-sided pauldron.<ref name="Episode III" />
 
+==Behind the scenes==
+CC-5052 made his first [[canon]]ical appearance in the [[2005]] film [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']], where he was voiced by [[Temuera Morrison]], who voiced all of the other clone troopers in the movie.<ref name="Episode III" /> Much like Aayla Secura, Bly was created by writer [[John Ostrander]] for the [[Star Wars Legends|''Star Wars'' Legends]] comic book series ''[[Star Wars: Republic]]'', where [[CC-5052/Legends|Bly]] briefly spoke with [[Aayla Secura/Legends|Aayla Secura]].<ref name="Republic 65">''[[Republic 65: Show of Force, Part 1]]''</ref>
+
+In ''Revenge of the Sith'', Bly was intended to feature red markings, but these were changed to yellow to better fit Felucia's imagery.<ref name="db">{{DB|character|commanderbly|Commander Bly}}</ref> The clone trooper with red markings was established to be Commander [[Deviss]].<ref name="gar">{{InsiderCite|84|Guide to the Grand Army of the Republic}}</ref> While Bly's appearance in the final cut is silent, there was a single line attributed to him in the [[Star Wars Episode III Revenge of the Sith: Illustrated Screenplay|illustrated screenplay]] of Episode III. The line was "''No''", said to Secura in response to her question if he thought that there were droids around before blasting her.<ref name="Ep. III Illustrated Screenplay">''[[Star Wars Episode III Revenge of the Sith: Illustrated Screenplay]]''</ref>
+
 ==Appearances==
 *''[[Star Wars Battlefront II]]'' {{Mo}} {{C|DLC}}
 *{{TCW|Jedi Crash}} {{1stID|Bly}}
@@ -84,7 +91,7 @@ During the Clone Wars, Bly wore [[Phase I clone trooper armor]] that had been cu
 *{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}} {{Po}}
 *{{Databank|clone-commander-bly|Clone Commander Bly|archiveurl=https://web.archive.org/web/20170823003049/http://www.starwars.com:80/databank/clone-commander-bly}}
 
-==Notes & References==
+==Notes and references==
 {{Reflist}}
 
 {{Interlang
@@ -93,3 +100,4 @@ During the Clone Wars, Bly wore [[Phase I clone trooper armor]] that had been cu
 
 [[Category:Advanced Recon Commandos]]
 [[Category:Clone trooper commanders]]
+[[Category:Personnel of the Galactic Empire]]

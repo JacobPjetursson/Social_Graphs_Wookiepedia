@@ -107,6 +107,7 @@ Bossk was one of six hunters hired by Darth Vader to hunt down and capture Han S
 
 ==Personality and traits==
 {{Quote|Mr. Bossk, it's my understanding that you're a professional businessman. I expect you to honor that deal.''"<br>"''All right, shorty. You got me. All the money in the strongbox is yours.|Ezra Bridger negotiating a pay hike with Bossk|Ezra's Gamble}}
+[[File:Bossk SaV Brian Fajardo.png|right|thumb|220px|Bossk]]
 Bossk was a ruthless and efficient bounty hunter who upheld the [[Bounty Hunter Code]]. He did not like other bounty hunters or governments interfering with any of his bounties. While Bossk tended to work alone, he was also capable of working with other individuals, including Boba Fett, Aurra Sing,<ref name="Death Trap" /> and Ezra Bridger. As a businessman, Bossk was also known to keep his promises to the letter of the law. He was also known as a fair and honest combatant.<ref name="Ezra's Gamble" />
 
 ==Skills and abilities==
@@ -125,16 +126,14 @@ Bossk's outfit was actually recycled from a [[1966]] ''Doctor Who'' serial title
 
 Before the cancellation of The Clone Wars TV series, Bossk was set to make an appearance during a four-episode arc starring Boba Fett and [[Cad Bane]]. In a clip revealed during the Animated Origins and Unexpected Fates panel at [[Celebration Orlando]] in 2017, Bossk was seen siding with Cad Bane during a stand-off against Boba Fett and other Bounty Hunters.<ref name="CO 17 AOaUF panel">{{SWYoutube|85Jw-63YNYI|text=Star Wars Celebration Orlando 2017: Animated Origins and Unexpected Fates}}</ref>
 
-Bossk later appeared as a major character in [[Ryder Windham]]'s [[2014]] young-adult novel ''[[Ezra's Gamble]]'', which introduced several Legends plot elements including the Bounty Hunters' Guild and the Bounty Hunter Code. While older Legends literature tended to portray Bossk as a clear-cut villain who had an antagonistic relationship with Han Solo and Chewbacca, Windham's novella depicted him as a reluctant anti-hero who developed an uneasy partnership with Ezra Bridger, a major protagonist in the ''[[Star Wars Rebels]]'' animated television series.
-
 Writer [[Jon Kasdan]] originally desired to include Bossk in the [[2018]] [[Star Wars Anthology Series|''Star Wars'' Anthology]] film ''[[Solo: A Star Wars Story]]'', which is a prequel to the events of ''The Empire Strikes Back''. However, Kasdan ultimately concluded that there was no place for Bossk in the film.<ref name="Bossk in Solo">{{Cite web|url=http://comicbook.com/starwars/2018/05/17/star-wars-han-solo-movie-bounty-hunter/|title=One Major Bounty Hunter was Cut From 'Solo: A Star Wars Story'
 |publisher=ComicBook.com|last=Cavanaugh|first=Patrick|date=May 16, 2016|accessdate=May 26, 2018}}</ref> In Kasdan's drafts for ''Solo'', Bossk was part of the [[Cloud-Riders]] and served as [[Enfys Nest]]'s second-in-command, only to abandon her by the end of the film. Though Kasdan fought to keep this scene, he was overruled, as previously mentioned.<ref name="Jon's Twitter">{{Twitter|JonKasdan|status/1040529511513616385|[[Jon Kasdan]]|quote=continued}}</ref>
 
 ==Appearances==
 {{Scroll box|
 *''[[Star Wars: Galactic Defense]]''
-*''[[Star Wars Battlefront II]]''
 *''[[Star Wars: Force Arena]]''
+*''[[Star Wars Battlefront II]]''
 *{{TCW|Death Trap}}
 *{{TCW|R2 Come Home}}
 *{{TCW|Lethal Trackdown}}
@@ -146,6 +145,7 @@ Writer [[Jon Kasdan]] originally desired to include Bossk in the [[2018]] [[Star
 *''[[Dark Disciple (audiobook)]]''
 *''[[Solo: A Star Wars Story]]'' {{Mo}}
 *''[[Solo: A Star Wars Story: Expanded Edition]]'' {{Mo}}
+*''[[Solo Adaptation 2]]'' {{Mo}}
 *''[[Ezra's Gamble]]''
 *''[[Rebel Journal by Ezra Bridger]]''
 *''[[The Mighty Chewbacca in the Forest of Fear!]]'' {{Mo}}

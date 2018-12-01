@@ -31,8 +31,8 @@ The '''GNK-series power droid''', also known as the '''gonk droid''', was a type
 ==Appearances==
 {{Scroll box|
 *[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]
-*''[[Star Wars Battlefront II]]''
 *''[[Star Wars: Force Arena]]''
+*''[[Star Wars Battlefront II]]''
 *''[[Forces of Destiny: Daring Adventures: Volume 1]]'' {{Po}}
 *{{TCW|Nomad Droids}}
 *{{TCW|A Friend in Need}}
@@ -73,6 +73,7 @@ The '''GNK-series power droid''', also known as the '''gonk droid''', was a type
 
 ===Non-canon appearances===
 *''[[LEGO Star Wars: The Force Awakens]]''
+*{{All-Stars|Dealing with Lando; Han and Chewie Strike Back}}
 
 ==Sources==
 *{{SW|url=explore/the-clone-wars/ep513/#!/about|text="Point of No Return" - ''The Clone Wars'' Episode Guide}} {{1stID|Gonk droid}}
@@ -104,5 +105,4 @@ The '''GNK-series power droid''', also known as the '''gonk droid''', was a type
 }}
 
 [[Category:GNK power droids| ]]
-[[Category:Industrial Automaton products]]
 [[Category:Power droid models]]

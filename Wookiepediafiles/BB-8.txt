@@ -54,7 +54,7 @@ While the Crèche elder tried to distract [[Agent]] [[Terex]] and his [[Stormtro
 Poe managed to force Terex to call off his forces from Ovanis. BB-8 was present with Poe and the other Black Squadron pilots when Poe made the decision to release Terex and his surviving stormtroopers in order to avoid war between the New Republic and First Order. After the Crèche cultists departed for their new home on the back of the black winged Crèche creature, Black Squadron refueled their starfighters and departed into space. Once in space, Poe reassured BB-8 that the Crèche elder had told him where Lor San Tekka had gone when he had left Ovanis.<ref name="Poe Dameron 3" />
 
 ====Mission to Megalox Beta====
-After returning to the [[Resistance base]] on [[D'Qar]], Poe chatted with BB-8 about the First Order tracker on his ship. Poe reassured BB-8 that he believed that none of his fellow Black Squadron pilots were traitors. He also told BB-8 that General Organa had assigned [[C-3PO]] and his droid spy newtork to ferret out the spy. Poe told BB-8 to focus on flying straight and not to go "all droid detective." For their [[Mission to Megalox Beta|next mission]], BB-8 accompanied Black Squadron to [[Megalox]] [[prison]] on the planet [[Megalox Beta]]. Poe planned to question the prisoner [[Grakkus]] about Lor San Tekka's whereabouts.<ref name="Poe Dameron 4">''[[Poe Dameron 4: Lockdown, Part I]]''</ref>
+After returning to the [[Resistance base]] on [[D'Qar]], Poe chatted with BB-8 about the First Order tracker on his ship. Poe reassured BB-8 that he believed that none of his fellow Black Squadron pilots were traitors. He also told BB-8 that General Organa had assigned [[C-3PO]] and his droid spy newtork to ferret out the spy. Poe told BB-8 to focus on flying straight and not to go "all droid detective." For their [[Mission to Megalox Beta|next mission]], BB-8 accompanied Black Squadron to [[Megalox]] [[prison]] on the planet [[Megalox Beta]]. Poe planned to question the prisoner [[Grakkus Jahibakti Tingi|Grakkus]] about Lor San Tekka's whereabouts.<ref name="Poe Dameron 4">''[[Poe Dameron 4: Lockdown, Part I]]''</ref>
 
 While Poe and the other pilots ventured into the prison,<ref name="Poe Dameron 4" /> BB-8 and the other astromech droids [[O-R10N]], [[R2-HA]], and [[R4 (Black Squadron)|R4]] stayed with their starfighters aboard the space station. After the mission was complicated by the presence of Terex, Poe instructed BB-8 and the droids to implement Operation Upside. To gain leverage over both Grakkus and Terex, Poe planned to use the droids to deactivate the space station's gravity field, which protected the prison from Megalox Beta's heavy gravity. Poe wanted to rescue Terex in order to obtain the information about Lor San Tekka.<ref name="Poe Dameron 5">''[[Poe Dameron 5: Lockdown, Part II]]''</ref>
 
@@ -78,15 +78,15 @@ BB-8 and his comrades managed to evade Terex's Uglies by fleeing into a cave. On
 Later, BB-8 resurfaced and electrocuted Terex before he could kill Poe during in a confrontation in the cave. Poe thanked BB-8 for saving his life and patted him. Meanwhile, Oddy Muva managed to free his wife Sowa and the slaves aboard the ''Carrion Spike''. Poe's Black Squadron comrades arrived and fought with the Ranc gang fleet. Despite the death of L'ulo, the squadron managed to provide covering fire for Oddy's escape pods to land on the desert planet. Terex's criminal fleet was wiped out by a First Order fleet led by Commander [[Malarus]]. Malarus had been dispatched to apprehend Terex for insubordination. BB-8 was present when Poe handed Terex to Commander Malarus.<ref name="Poe Dameron 13">''[[Poe Dameron 13: The Gathering Storm, Part VI]]''</ref>
 
 ===Adventures with Kazuda===
-
 ====Meeting Kazuda====
-After accompanying Dameron on many missions for the Resistance,<ref name="DB:BB-8" /> six months prior to the conflict with the First Order, Poe and BB-8 found [[Kazuda Xiono]], a young New Republic X-wing pilot, squaring off against the First Order TIE pilot [[Major]] [[Elrik Vonreg]], who had ambushed him and his companions while they were transferring critical information from the New Republic to the Resistance. Struck by Kazuda's bravery and skill, Poe instructed Kazuda to work as a spy on the [[Colossus]] refueling station on the planet [[Castilon]], and also loaned BB-8 out to him.
+{{Quote| I know, BB-8. I can't believe the kid's still in one piece. This TIE's a real ace, but I'll take care of him.|Poe Dameron, to BB-8|The Recruit}}
+After accompanying Dameron on many missions for the Resistance,<ref name="DB:BB-8" /> six months prior to the conflict with the First Order, Poe and BB-8 found [[Kazuda Xiono]], a young New Republic X-wing pilot, squaring off against the First Order TIE pilot Major [[Elrik Vonreg]], who had ambushed him and his companions while they were transferring critical information from the New Republic to the Resistance. Struck by Kazuda's bravery and skill, Poe instructed Kazuda to work as a spy on the [[Colossus]] refueling station on the planet [[Castilon]], and also loaned BB-8 out to him.
 
 ====Arrival on the Colossus====
+{{Quote|Keep an eye on this kid, BB-8. I think he's capable of big things.|Poe Dameron, to BB-8 on Kazuda Xiono|The Recruit}}
 After arriving on Castilon, Kazuda and BB-8 met some of the Colossus' residents, including mechanics [[Jarek Yeager]] and [[Tam Ryvora]], the [[Nikto]] [[Neeku Vozo]], the pilot [[Torra Doza]], and the shop owners [[Flix]] and [[Orka]]. BB-8 assisted Kazuda in repairing the broken ship the [[Fireball (starship)|Fireball]], which Kazuda planned to use for racing. He also assisted Kazuda in getting accustomed to life in this unfamiliar area.
 
-===First Order-Resistance Conflict===
-
+===First Order-Resistance conflict===
 ====Mission to Jakku====
 {{Quote|You take this. It's safer with you than it is with me. You get as far away from here as you can. Do you hear me? I'll come back for you! It will be alright.|Poe Dameron, to BB-8|Star Wars: Episode VII The Force Awakens}}
 At some point after accompanying Kazuda, BB-8 returned to Poe. He went with his master to [[Tuanul]] on [[Jakku]] to meet with Lor San Tekka. While Dameron spoke to Tekka in his hut, BB-8 waited outside and saw four First Order [[AAL-1971/9.1 Troop Transport|Atmospheric Assault Landers]] approach. He then alerted his master of the Order's arrival, so Tekka handed Dameron a memory drive containing a map to [[Jedi Master]] Luke Skywalker's location. BB-8 and Dameron then fled to their T-70 X-wing starfighter, but before they could escape, stormtroopers disabled its [[engine]]s. Unable to escape, Dameron gave BB-8 the map and an order to get as far away as possible, which BB-8 did.<ref name="Episode VII" />
@@ -163,6 +163,7 @@ After the battle, the X-Wings returned to D'Qar, along with the ''Millennium Fal
 {{Quote|I've got a bad feeling about this!''"<br />"''Happy beeps here, Buddy! Come on!|BB-8 and Poe|Star Wars: Episode VIII The Last Jedi}}
 Shortly after returning from Starkiller Base, BB-8 was called into service with Dameron again when the First Order launched an [[Evacuation of D'Qar|attack]] against the Resistance Base on D'Qar. Facing down three [[Resurgent-class Star Destroyer|''Resurgent''-class Star Destroyers]] and [[Fulminatrix|one]] [[Mandator IV-class Siege Dreadnought|''Mandator IV''-class Siege Dreadnought]] in the astromech slot of ''Black One'',<ref name="Episode VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref> BB-8 remarked that he had a bad feeling about it,<ref name="The Last Jedi bad feeling">{{Cite web|url=https://www.huffingtonpost.com/entry/rian-johnson-last-jedi-star-wars-easter-egg_us_5a343517e4b01d429cc8bd59|title='Last Jedi' Director Explains How He Hid A Classic 'Star Wars' Easter Egg|first=Bill|last=Bradley|work=HuffPost|date=December 16, 2017|accessdate=December 16, 2017}}</ref> while Poe urged him to remain positive.<ref name="Episode VIII" />
 
+[[File:BB-8 in Black One engine.png|left|thumb|200px|BB-8 lowered himself into the engine compartment of ''Black One''.]]
 In order to stall for time, BB-8 patched Poe through to Hux on board the ''Finalizer'', and activated the X-Wing's sub-light boosters, blasting the ship towards the dreadnought at high speed. When ''Black One's'' weapons systems went offline, preventing Poe from clearing out the dreadnought's surface cannons, BB-8 repaired the weapons systems by ramming his head into the faulty wiring, causing the droid to be briefly shocked.<ref name="Episode VIII" />
 
 After the attack on the ''Fulminatrix ''succeeded, Poe and BB-8 returned to the Resistance [[flagship]] ''[[Raddus (MC85 Star Cruiser)|Raddus]]'', and BB-8 informed Poe that Finn was awake and wandering the halls of the ''Raddus''. BB-8 was present on the ''Raddus''<nowiki/>' bridge when the First Order fleet, led by the ''[[Supremacy]]'', caught up with the Resistance fleet after tracking them through hyperspace.<ref name="Episode VIII" />
@@ -219,8 +220,8 @@ Seven different BB-8 units were used in the making of Episode VII. Each was give
 {{Scroll_box|content=
 *''[[Star Wars: Rivals]]''
 *''[[5-Minute Star Wars Stories]]''
-*''[[Star Wars Battlefront II]]''
 *''[[Star Wars: Force Arena]]''
+*''[[Star Wars Battlefront II]]''
 *''[[Forces of Destiny: Daring Adventures: Volume 1]]''
 *''[[Star Wars: Galaxy's Edge]]''
 *''[[Before the Awakening]]''
@@ -261,6 +262,7 @@ Seven different BB-8 units were used in the making of Episode VII. Each was give
 *{{Resistance|Signal from Sector Six}}
 *{{Resistance|Synara's Score}}
 *{{Resistance|The Platform Classic}}
+*{{Resistance|Secrets and Holograms}}
 *{{Resistance|Station Theta Black}}
 *''[[Join the Resistance]]''
 *''[[Forces of Destiny: The Rey Chronicles]]''

@@ -1,8 +1,9 @@
 {{Eras}}
 {{Expand}}
+{{Update|[[Star Wars Character Encyclopedia: Updated and Expanded]]}}
 {{Cleanup}}
 {{Character
-|type=Galactic Republic
+|type=Galactic Empire
 |image=[[File:Cody brief.png]]
 |name=CC-2224<br />"Cody"
 |homeworld=[[Kamino]]<ref name="Databank">{{Databank|clone-commander-cody|Clone Commander Cody|archivedate=20170607175032}}</ref>
@@ -19,12 +20,13 @@
 |era=
 |affiliation=*[[Galactic Republic]]<ref name="Databank" />
 **[[7th Sky Corps]]<ref name="Episode III" />
+*[[Galactic Empire]]<ref name="Character Encyclopedia">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
 |masters=
 |apprentices=}}
 {{Quote|Come on, when have I ever let you down?''"<br />"''Very well. The burden is on me not to destroy ''all'' the droids until you arrive.|CC-2224 and Obi-Wan Kenobi|Star Wars: Episode III Revenge of the Sith}}
 '''CC-2224''', nicknamed "'''Cody'''," was a [[Cloning|Clone]] [[Clone marshal commander|Marshal Commander]] in the [[Grand Army of the Republic]] during the [[Clone Wars]]. He served as [[Commander]] of the [[7th Sky Corps]], as well as the [[212th Attack Battalion]], a sub-unit of the 7th. Like all [[clone trooper]]s, he was a clone of [[Jango Fett]]&mdash;a [[human]] [[bounty hunter]] and the [[Clone template|genetic template]] of the clone [[army]]. As such, Cody was trained to be a loyal [[soldier]] of the [[Galactic Republic]]. He served at the side of his [[Jedi]] superior [[officer]], [[Jedi General]] [[Obi-Wan Kenobi]] throughout the [[Galaxy|galactic]] conflict with the [[Confederacy of Independent Systems]]. In that [[time]], Cody and Kenobi formed a friendship based on mutual respect. They participated in many campaigns across [[the galaxy]], often leading the 212th [[Battalion]] alongside Jedi [[General]] [[Anakin Skywalker]] and [[Clone Captain]] [[Rex|CT-7567]] of the [[501st Legion]].
 
-In [[19 BBY]], approximately three [[Standard year|years]] after the [[Battle of Geonosis]], the [[Jedi High Council]] assigned Kenobi's battalion the task of ending the war by [[Death|destroying]] General [[Grievous]]. Having tracked the [[Supreme Commander of the Droid Army|Supreme Commander]] of the [[Separatist Droid Army]] to the [[planet]] [[Utapau]] with the help of [[Clone Intelligence]], Cody and his [[troop]]s engaged the [[battle droid]]s while Kenobi [[Lightsaber duel|confronted]] Grievous in person. In the midst of the [[Battle of Utapau]], which continued to rage after Grievous' demise, [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] instructed Cody to execute [[Order 66]]&mdash;a secret protocol labeling all members of the [[Jedi Order]] [[Treason|enemies of the state]]. As a result of the commander's [[Control chip|programming]], Cody obeyed the chancellor without hesitation and attempted to kill his former friend. Whereas most of his brethren succeeded in [[Jedi Purge|eliminating]] their unsuspecting Jedi leaders, Cody was one of the few clones who failed as Kenobi survived and ultimately escaped into [[Exile (punishment)|exile]] following the [[Proclamation of the New Order|rise]] of the [[Galactic Empire]].
+In [[19 BBY]], approximately three [[Standard year|years]] after the [[Battle of Geonosis]], the [[Jedi High Council]] assigned Kenobi's battalion the task of ending the war by [[Death|destroying]] General [[Grievous]]. Having tracked the [[Supreme Commander of the Droid Army|Supreme Commander]] of the [[Separatist Droid Army]] to the [[planet]] [[Utapau]] with the help of [[Clone Intelligence]], Cody and his [[troop]]s engaged the [[battle droid]]s while Kenobi [[Lightsaber duel|confronted]] Grievous in person. In the midst of the [[Battle of Utapau]], which continued to rage after Grievous' demise, [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] instructed Cody to execute [[Order 66]]&mdash;a secret protocol labeling all members of the [[Jedi Order]] [[Treason|enemies of the state]]. As a result of the commander's [[Control chip|programming]], Cody obeyed the chancellor but hesitated and the aimed below  his former friend. Whereas most of his brethren succeeded in [[Jedi Purge|eliminating]] their unsuspecting Jedi leaders, Cody was one of the few clones who failed as Kenobi survived and ultimately escaped into [[Exile (punishment)|exile]] following the [[Proclamation of the New Order|rise]] of the [[Galactic Empire]].
 
 ==Biography==
 ===Early life===
@@ -113,23 +115,23 @@ After this however, Cody received [[Order 66]] from [[Darth Sidious]], publicly 
 [[File:Cody's helmet.jpg|thumb|141x141px|Cody's phase one helmet]]
 During the first year of the Clone Wars, Cody used a set of [[Phase I clone trooper armor]], which featured a visor, an antenna on his helmet an antenna on his shoulder, a small flood light, and [[color|orange]] stripes, which was a color used by many of the other members of the 212th. He had lamps on helmet at Geonosis.<ref name="LoT" /> Later, when [[Phase II clone trooper armor]] was created Cody wore a similar set, but had a few changes. The changes were; two gray stripes coming down the sides of the top of his helmet, a small tool attached to the upper arm piece, one antenna on the shoulder pads with one on the back of his helmet, and a smaller, oval shaped jetpack. This also featured a visor and orange markings.<ref name="Episode III" /> 
 
-==Personality and Traits==
+==Personality and traits==
 Commander Cody was a no-nonsense commander who always took the mission seriously. His personality was very much like Obi-Wan Kenobi and was thus able to become close friends with him. Cody was calm, conservative, and resourceful. He was an ideal soldier and loyal to the Republic. However, Cody's friend Rex was more unorthodox and creative. Like Anakin and Obi-Wan, this allowed them to balance each other out and become a formidable duo. Cody was also very by-the-books, as he never disobeyed an order from his superiors. The Commander was a great leader, as he was able to lead one of the best clone forces in the Grand Army. His battlefield exploits were also admirable, as he was able to earn respect from clone troopers and Jedi alike.{{fact}}
 
-==Skills and Abilities==
+==Skills and abilities==
 Commander Cody was a competent and adept field commander.<ref name="L@PR" /> His knowledge and skill on the battlefield even earned him the rank of Marshal Commander.<ref name="Dark Disciple" /> Cody displayed impressive close combat and hand-to-hand combat skills as well, as shown when he was able to get the upper hand against Sergeant Slick,<ref name="THE" /> and against the droid forces on Christophsis.<ref name="TCW film" /> The Commander was was also proficient with blasters. He was able to accurately hit a fuel tank that was launched from Obi-Wan, and was able destroy many battle droids throughout the Clone Wars.<ref name="BfR" />
 
 As Commander Cody was also an experienced commander, as he was able to formulate plans and execute them effectively. Before the Second Battle of Geonosis, he informed the Jedi Generals of the plan that would eventually lead to victory.<ref name="L@PR" /> During the time of the Empire, Cody and Rex's emergency protocols were still being used by the Galactic Empire.<ref name="Stealth Strike" />
 
 ==Behind the scenes==
-[[File:Cody-CWMag08.jpg|thumb|189x189px|Cody in his Phase II armor|left]]
-Commander Cody made his first [[canon]]ical appearance in ''[[Star Wars: Episode III Revenge of the Sith]]'' film and was played by [[Temuera Morrison]] who played all of the other [[clone trooper]]s in the movie.<ref name="Episode III" /> He later appeared in the ''[[Star Wars: The Clone Wars (film)|Star Wars: The Clone Wars]]'' featured film along with its subsequent television series ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]'' in the [[The Clone Wars: Season One|first]], [[The Clone Wars: Season Two|second]], [[The Clone Wars: Season Three|third]], [[The Clone Wars: Season Four|fourth]] and [[The Clone Wars: Season Five|fifth]] seasons voiced by [[Dee Bradley Baker]]. He later appeared in the [[Darth Maul—Son of Dathomir, Part Three|third issue]] of the ''[[Star Wars: Darth Maul—Son of Dathomir]]'' comic series which adapted an unproduced arc from the [[The Clone Wars: The Lost Missions|sixth season]] of ''The Clone Wars''. He also appeared in "[[The Bad Batch]]"<ref name="TBB" /> and "[[Unfinished Business]]", which were unproduced episodes for season seven which were adapted into story reel and screened at ''Star Wars Celebration''. Cody also appeared in the novel ''[[Dark Disciple]]'' which adapted eight part arc that was originally to appear in season seven.<ref name="Dark Disciple" />
+Commander Cody made his first [[canon]]ical appearance in the [[2005]] film [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']], where he was played by [[Temuera Morrison]], who played all of the other [[clone trooper]]s in the movie.<ref name="Episode III" /> He was later voiced by [[Dee Bradley Baker]] in ''[[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]]''.<ref name="Rookies">{{TCW|Rookies}}</ref>
 
 ==Appearances==
 {{Scroll_box|content=
 *''[[Star Wars: Galactic Defense]]''
 *''[[Star Wars Journeys: Beginnings]]''
 *''[[Star Wars: Force Arena]]''
+*''[[Star Wars Battlefront II]]'' {{Mo}} {{C|DLC}}
 *{{TCW|Cat and Mouse}}
 *{{TCW|The Hidden Enemy}}
 *[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]
@@ -220,6 +222,4 @@ Commander Cody made his first [[canon]]ical appearance in ''[[Star Wars: Episode
 }}
 
 [[Category:Clone trooper commanders]]
-[[Category:Clones]]
-[[Category:Humans]]
-[[Category:Males]]
+[[Category:Personnel of the Galactic Empire]]

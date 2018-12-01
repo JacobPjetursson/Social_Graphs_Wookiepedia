@@ -1,4 +1,5 @@
 {{Eras}}
+{{Update|[[Star Wars: Smuggler's Guide]]}}
 {{Cleanup}}
 {{Character
 |type=Criminal
@@ -54,6 +55,7 @@ Quiggold appeared in the [[Star Wars: Episode VII The Force Awakens|''Star Wars'
 *''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]'' {{Po}}
 *''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]'' {{C|Misspelled as Quiggod}}
 *''[[Star Wars: Women of the Galaxy]]'' {{Imo}}
+*''[[Star Wars: Smuggler's Guide]]''
 *{{Databank|meson-martinet|Meson Martinet}}
 *{{Databank|quiggold|Quiggold}}
 *{{Databank|sidon-ithano|Sidon Ithano}}

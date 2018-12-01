@@ -11,8 +11,8 @@
 |height=
 |mass=
 |hair=[[Color|Blonde]]<ref name="tpm" />
-|eyes=
-|skin=
+|eyes=Gold<ref name="tpm" />
+|skin=Fair<ref name="tpm" />
 |cyber=
 |era=
 |affiliation=
@@ -31,6 +31,9 @@ In ''The Phantom Menace'', Amee can be clearly seen wearing braces, as Katie Luc
 
 ===Non-canon appearances===
 *''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''
+
+==Sources==
+*''[[Star Wars: Geektionary: The Galaxy From A To Z]]''
 
 ==Notes and references==
 {{Reflist}}

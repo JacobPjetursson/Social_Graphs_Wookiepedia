@@ -5,7 +5,7 @@
 |name=Wat Tambor
 |homeworld=[[Skako Minor|Skako]]<ref name="Updated and Expanded">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref>
 |birth=
-|death=[[19 BBY]], [[Mustafar]]<ref name="Revenge of the Sith">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|death=[[19 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref>  [[Mustafar]]<ref name="dbWTBG">{{Databank|wat-tambor-biography-gallery|Wat Tambor Biography Gallery}} {{C|Image 10 of 10}}</ref>
 |species=[[Skakoan]]<ref name="Wat Tambor">{{Databank|wat-tambor|Wat Tambor|archivedate=20170603221250}}</ref>
 |gender=[[Sexes|Male]]<ref name="Attack of the Clones">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
 |height=1.98 [[meter]]s<ref name="Wat Tambor" />
@@ -76,13 +76,12 @@ Despite the serious breach of security on Skako Minor, Tambor decided not to inf
 
 ====Last days of the Confederacy====
 [[File:Vader and Tambor DB.png|thumb|225px|right|Tambor, seconds before being slain by Darth Vader.]]
-Following the [[Battle of Coruscant]] which saw the death of Count Dooku, Wat Tambor and the Separatist Council met with the Separatist military leader [[General]] [[Grievous]] on the sinkhole world of [[Utapau]]. Tambor and the Separatist Council later relocated to the [[Volcano|volcanic]] world of [[Mustafar]],<ref name="Revenge of the Sith" /> whose [[Mustafarian|natives]] had a trade agreement with the Techno Union<ref name="Updated and Expanded" /> and mined unique and valuable minerals from the planet's [[Magma|lava]] rivers on its behalf.<ref name="Mustafar">{{Databank|mustafar|Mustafar}}</ref> Darth Sidious then informed the Separatist Council that his new apprentice [[Darth]] Vader would come and accept their surrender. However, Vader instead [[Mission to Mustafar|executed]] Tambor and the entire Separatist leadership.<ref name="Revenge of the Sith" /> Following his death, the newly-formed [[Galactic Empire]] assumed control of the former Techno Union's assets.<ref name="Confederacy of Independent Systems">{{Databank|confederacy-of-independent-systems|Confederacy of Independent Systems|archivedate=20170504153602}}</ref>
+Following the [[Battle of Coruscant]] which saw the death of Count Dooku, Wat Tambor and the Separatist Council met with the Separatist military leader [[General]] [[Grievous]] on the sinkhole world of [[Utapau]]. Tambor and the Separatist Council later relocated to the [[Volcano|volcanic]] world of [[Mustafar]],<ref name="Revenge of the Sith">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref> whose [[Mustafarian|natives]] had a trade agreement with the Techno Union<ref name="Updated and Expanded" /> and mined unique and valuable minerals from the planet's [[Magma|lava]] rivers on its behalf.<ref name="Mustafar">{{Databank|mustafar|Mustafar}}</ref> Darth Sidious then informed the Separatist Council that his new apprentice [[Darth]] Vader would come and accept their surrender. However, Vader instead [[Mission to Mustafar|executed]] the Separatist Council. Tambor hid in a conference room<ref name="Revenge of the Sith" /> but was impaled by Vader.<ref name="dbWTBG" /> Following his death, the newly-formed [[Galactic Empire]] assumed control of the former Techno Union's assets.<ref name="Confederacy of Independent Systems">{{Databank|confederacy-of-independent-systems|Confederacy of Independent Systems|archivedate=20170504153602}}</ref>
 
 ===Age of the Empire===
 During the Galactic Civil War, and at some point following the [[skirmish aboard the Sorca Retreat]], Doctor [[Chelli Lona Aphra|Aphra]] and the [[Son-tuul Pride]] [[Mission to Skako Minor (Son-tuul Pride)|raided]] [[Wat Tambor's workshop]] to find out he had acquired the [[Triple-Zero protocol personality matrix]] almost a [[Standard century|century]] prior. He became interested in studying it, discovered it was too dangerous to be activated, and sent it to [[Quarantine World III]] to be quarantined. Tambor kept the memories of [[0-0-0]] and stored them in the Techno Union databanks as part of the Separatists' Research and Development. After the Clone Wars, the databanks were transferred over to the Empire and shifted into [[Hivebase-1]].<ref name="Doctor Aphra 16" />
 
 ==Personality and traits==
-[[File:WatTambor-TCW.jpg|left|thumb|150px|Tambor at the time of the Clone Wars]]
 Standing 1.98 [[meter]]s in height,<ref name="Wat Tambor" /> Wat Tambor had [[Color|green]] skin and black [[eye]]s.<ref name="Attack of the Clones" />
 
 Strict and inventive, Wat Tambor had a mind for war machines<ref name="Galactic Defense">''[[Star Wars: Galactic Defense]]''</ref> and was one of the original and most fervent Separatist leaders, having pledging his loyalty and the Techno Union's battle droid armies to the Confederacy of Independent Systems<ref name="Wat Tambor" /> after being attracted to the movement by Dooku's promises of unlimited pursuit of profits.<ref name="Retail Caucus Droid">{{Databank|retail-caucus-droid|Retail Caucus Droid}}</ref> Despite declaring the Techno Union neutral during the Clone Wars, Tambor was an active supporter of the Separatist cause who channeled substantial resources and information to their war effort. On one occasion, he used the drugged clone trooper CT-1409 to provide Admiral Trench with CT-7567's strategy algorithm, which greatly assisted the Separatist campaign to conquer the Republic world of Anaxes.<ref name="A Distant Echo" /> As a businessman, he was concerned with protecting the Techno Union's profit margins and minimizing losses to his company by all means necessary. His concern with profits led him to hide news of Echo's escape, a catastrophic decision which led to the Republic victory on Anaxes.<ref name="Unfinished Business" />
@@ -99,7 +98,9 @@ Tambor's design was developed by concept artist [[Michael Murnane]], who created
 
 A line of dialogue originally belonging to Poggle the Lesser concerning the production of battle droids was later given to Wat Tambor, explaining that the Techno Union were the builders of most of the new droid army seen in ''Attack of the Clones''.<ref name="Wat Tambor Old" />
 
-In [[2008]], ''Star Wars'' sound designer [[Ben Burtt]] listed Wat Tambor as his "favorite ''Star Wars'' robot."<ref name="Ben Burtt">{{SWArchive|url=fans/rocks/news20080710.html|text=WALL·E Creators List Fave Robots}}</ref>
+The [[Star Wars Episode III Revenge of the Sith: Illustrated Screenplay|illustrated screenplay]] of [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] had Tambor in the main room running to the conference room along with Shu Mai after Vader kills San Hill only to be cut down by Vader later.<ref name="Ep. III Illustrated Screenplay">''[[Star Wars Episode III Revenge of the Sith: Illustrated Screenplay]]''</ref> In the final cut, Tambor's death scene was cut and can be seen as the deleted scene "Extended Separatist Slaughter".{{Fact}} Tambor's death, however, has been confirmed by his [[Databank (website)|Databank]] entry.<ref name="Wat Tambor" />
+
+In [[2008]], ''Star Wars'' sound designer [[Ben Burtt]] listed Wat Tambor as his "favorite ''Star Wars'' robot".<ref name="Ben Burtt">{{SWArchive|url=fans/rocks/news20080710.html|text=WALL·E Creators List Fave Robots}}</ref>
 
 ==Appearances==
 *''[[Star Wars: Galactic Defense]]''
@@ -122,6 +123,7 @@ In [[2008]], ''Star Wars'' sound designer [[Ben Burtt]] listed Wat Tambor as his
 *''[[Doctor Aphra 17: Remastered, Part IV]]'' {{Mo}}
 
 ==Sources==
+{{Scroll box|
 *{{SW|url=tv-shows/clone-wars/storm-over-ryloth-episode-guide|text="Storm Over Ryloth" Episode Guide - ''The Clone Wars''|org=theclonewars/guide/episode019.html|archivedate=20170628191048}}
 *{{SW|url=tv-shows/clone-wars/innocents-of-ryloth-episode-guide|text="Innocents of Ryloth" Episode Guide - ''The Clone Wars''|org=theclonewars/guide/episode020.html|archivedate=20170706005135}}
 *{{SW|url=tv-shows/clone-wars/liberty-on-ryloth-episode-guide|text="Liberty on Ryloth" Episode Guide - ''The Clone Wars''|org=theclonewars/guide/episode021.html|archivedate=20170707055120}}
@@ -141,7 +143,7 @@ In [[2008]], ''Star Wars'' sound designer [[Ben Burtt]] listed Wat Tambor as his
 *{{Databank|poggle-the-lesser|Poggle the Lesser}} {{Po}}
 *{{Databank|separatist-council|Separatist Council}}
 *{{Databank|techno-union|Techno Union}}
-*{{Databank|wat-tambor|Wat Tambor|archivedate=20170603221250}}
+*{{Databank|wat-tambor|Wat Tambor|archivedate=20170603221250}}}}
 
 ==Notes and references==
 {{Reflist}}

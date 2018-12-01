@@ -21,6 +21,7 @@
 **[[Shrikes]]<ref name="Smuggler's Run" />
 **[[Endor strike team]]<ref name="Rebel Files">''[[Star Wars: The Rebel Files]]''</ref>
 *[[New Republic]]<ref name="Bloodline">''[[Bloodline (novel)|Bloodline]]''</ref>
+**[[New Republic military]]<ref name="ECUC" />
 *[[Resistance]]<ref name="Moving Target">''[[Moving Target: A Princess Leia Adventure]]''</ref>
 **[[Resistance army]]<ref name="TFA VD">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
 **[[Resistance High Command]]<ref name="TFA VD" />
@@ -38,7 +39,7 @@
 [[File:Major Ematt edit.png|thumb|right|200px|Ematt as a Resistance Major]]
 Eventually the Alliance to Restore the Republic was able to defeat the Empire and was able to form the [[New Republic]] and Ematt became a member of it.<ref name="Bloodline" /> In [[28 ABY]],<ref name="Timeframe">{{Twitter|DelReyStarWars|status/652893780236988420|[[Del Rey]]|quote=So excited to have @claudiagray writing a #StarWars novel with us. SW: New Republic: Bloodline coming 2016. Set 6 years before TFA.|image=File:New Republic Bloodline Twitter Post.jpg}} The tweet in question states that the events of ''Bloodline'' take place six [[Standard year|years]] before the events of the film [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]. ''[[Star Wars: Galactic Atlas]]'' establishes that the events of ''The Force Awakens'' take place in the year [[34 ABY]] and so using simple math it can be concluded that the events of ''Bloodline'' take place in [[28 ABY]].</ref> following the [[Tai-Lin Garr's assassination|assassination]] of [[Senator]] [[Tai-Lin Garr]], Ematt attended a secret meeting with several other [[New Republic soldier]]s, [[pilot]]s, and [[officer]]s where Leia announced the formation of the [[Resistance]], a paramilitary organization dedicated to defending the [[New Republic]] from threats like the [[First Order]].<ref name="Bloodline" />
 
-Over the [[Standard year|years]],<ref name="TFA Timeline">''[[Star Wars: The Force Awakens: The Visual Dictionary]]'' notes that [[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] occurs 30 years after the [[Battle of Endor]], which takes place during [[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']].</ref> Ematt would see many [[New Republic officer|Republic officers]] leaving the service to join the Resistance. He would serve the Resistance's leader Organa, who was at that point a general.<ref name="ECUC" />
+In the early [[Standard day|days]] of the Resistance, Ematt served as an [[agent]] for Organa by continuing his service in the [[New Republic military]] whilst seeking potential converts for the Resistance. After the defection of too many [[New Republic pilot]]s to go unnoticed, Ematt left his post in the Republic to fully join the Resistance.<ref name="ECUC" />
 
 Sometime after, he escorted General Organa to the [[Mirrin Prime Republic Base]] to see the recruitment of [[Commander]] [[Poe Dameron]], fresh from a [[Skirmish in OR-Kappa-2722|skirmish]] with the First Order. Ematt intercepted the young pilot as he landed with two [[shore police]], and brought him to the General.<ref name="Before">''[[Before the Awakening]]''</ref>
 
@@ -115,6 +116,6 @@ Caluan Ematt first appeared in the simultaneous release of ''[[Smuggler's Run: A
 [[Category:Endor strike team personnel]]
 [[Category:Humans]]
 [[Category:Males]]
-[[Category:New Republic individuals]]
+[[Category:New Republic Defense Force personnel]]
 [[Category:Resistance admirals and generals]]
 [[Category:Shrikes]]

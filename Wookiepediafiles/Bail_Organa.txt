@@ -52,7 +52,7 @@ In time, the Separatist Crisis escalated into the full-scale conflict known as t
 Shortly before the [[Battle of Christophsis]], Organa led a relief force to the planet to aid its besieged people and beleaguered Republic troops. In this context, he and his relief effort became trapped on [[Christophsis]]' surface by General [[Whorm Loathsom]]'s forces<ref name="On the Front Lines">''[[Star Wars: On the Front Lines]]''</ref> and a Separatist blockade led by the infamous [[Admiral]] [[Trench]].<ref name="Cat and Mouse">{{TCW|Cat and Mouse}}</ref> When [[Jedi Knight]]s [[Anakin Skywalker]] and [[Obi-Wan Kenobi]] led an assault against Trench's fleet in an attempt to break through and aid Organa, the Admiral responded with a withering attack, forcing the Jedi to retreat behind a nearby moon. Trench staged several devastating attack runs against Organa's on-planet camp at the [[Minister of Sustenance]]'s compound in [[Chaleydonia]]<ref name="On the Front Lines" /> and draw Skywalker and Kenobi out from behind the moon, but the [[Harch]] admiral's blockade were finally broken by a [[stealth ship]] flown by Skywalker and Admiral [[Wullf Yularen|Yularen]]. Organa then thanked Skywalker for delivering the supplies<ref name="Cat and Mouse" /> and then watched as Loathsom's forces retreated.<ref name="On the Front Lines" />
 
 ====Toydaria====
-[[File:BailOrganaTCW1-SWE.jpg|thumb|left|240x240px|Organa during the Clone Wars.]]
+[[File:MissionToToydaria-SL.png|thumb|left|240x240px|Organa and Binks on Toydaria]]
 Following Christophsis, Organa was then sent on trade missions. After it's success, Organa was then contacted by Jedi Masters [[Yoda]], Mace Windu, and Obi-Wan Kenobi, who informed him of the destruction of the Republic fleet protecting Ryloth. He was then asked by them to assist Naboo Representative [[Jar Jar Binks]] in negotiating an agreement with the [[Toydarian]]s to allow them use their planet to send relief supplies to Ryloth.<ref name="Supply Lines">{{TCW|Supply Lines}}</ref>
 
 However, Organa and Binks encountered resistance from Trade Federation Senator [[Lott Dod]], who claimed that do so would violate Toydaria's neutrality. However, King Katuunko agreed to allow them to use the ships they brought to load the supplies to aid the [[Twi'lek]]s as long as the Trade Federation did not learn of the mercy mission. Organa then had Binks distract Lott Dod's party at a state dinner while he loaded the supplies aboard the ships. Following that mission, Organa, Binks and Katuunko were confronted by Dod, who claimed that Organa was responsible. However, Organa assured him that if he had any proof, he could show it to the Senate. Frustrated, Dod withdrew his argument, but warned Organa that he was playing a dangerous game.<ref name="Supply Lines" />
@@ -272,6 +272,7 @@ In the [[2016]] reference book ''[[Star Wars Character Encyclopedia: Updated and
 *''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
 *''[[Dawn of Rebellion]]''
 *''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]'' {{Po}}
+*''[[Star Wars: Geektionary: The Galaxy From A To Z]]''
 *''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
 *''[[Star Wars: Women of the Galaxy]]''
 *{{Databank|admiral-trench|Admiral Trench|archivedate=20170706183359}}

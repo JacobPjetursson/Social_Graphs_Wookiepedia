@@ -107,11 +107,13 @@ In a deleted scene of ''Attack of the Clones'', Gunray was going to assist to th
 Nute Gunray's name had two sources from real life: The first was the Republican congressman [[Wikipedia:Newt Gingrich|Newt Gingrich]], and the second was former President of the United States [[Wikipedia:Ronald Reagan|Ronald Reagan]]. The former source was because he primarily wrote the Trade Federation members in terms of motives and characterizations in response to the 1994 Republican Revolution (which occurred eight days into Lucas's draft-writing the film), specifically then-Speaker of the House Gingrich's ''Contract with America'',<ref name="Republican Revolution's ties to Trade Federation and TPM's plot">Chris Taylor. How Star Wars Conquered the Universe: The Past, Present Future of a Multibillion Dollar Franchise. New York, New York, USA: Basic Books, 2014-2015. Pp. 300-301. "Anyone sitting down to write a screenplay on November 1, 1994, as Lucas apparently did, would have been interrupted eight days into the writing process by one of the most seismic midterm in postwar American history. Republicans took the House and the Senate for the first time in 40 years. A resurgent GOP under House Speaker Newt Gingrich started pushing its tax-cutting, regulation-slashing 'Contract with America.' Democrats, whose messaging had improved since Ted Kennedy's "Star Wars" flub, started calling it a 'Contract On America."<br />"It was perhaps no co-incidence, then, that Lucas started writing about a "Trade Federation," aided and emboldened by corrupt politicians, embroiled in some sort of dispute over the taxing of trade to the outlying star systems. We never learn what the dispute is about -- whether the Trade Federation was pro- or anti-tax. But what we know is that the name of the leader of the Trade Federation -- never actually spoken in the movie, but noted in the script from the start -- was Nute Gunray. By 1997, when the GOP Senate leader was Trent Lott, Lucas named the Trade Federation's representative in the Galactic Senate: Lott Dodd. We're a long way from the subtlety of his [George Lucas's] [North] Vietnam metaphor here."</ref> and the latter source was as a response to Reagan's SDI program being labeled as "Star Wars" without Lucas' permission.<ref>http://www.americanpopularculture.com/archive/film/star_wars_reagan.htm</ref>
 
 ==Appearances==
+{{Scroll box|
 *[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']] {{1st}}
 *''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
 *''[[Star Wars Journeys: The Phantom Menace]]''
 *''[[Star Wars Journeys: Beginnings]]''
 *''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars Battlefront II]]'' {{Imo}} {{C|DLC}}
 *[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
 *[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]] {{Flash}}
 *{{TCW|Supply Lines}} {{Mo}}
@@ -124,7 +126,7 @@ Nute Gunray's name had two sources from real life: The first was the Republican 
 *{{TCW|Senate Spy}} {{Flash}}
 *{{TCW|Sphere of Influence}} {{Mo}}
 *{{TCW|Hostage Crisis}} {{Flash}}
-*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]}}
 
 ===Non-canon appearances===
 *''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''

@@ -11,13 +11,14 @@
 |height=1.79 [[meter]]s<ref name="Databank" />
 |mass=
 |hair=[[Color|Brown]],<ref name="Nightsisters">{{TCW|Nightsisters (episode)|Nightsisters}}</ref> later silver-blond<ref name="Dark Disciple" />
-|eyes=Blue<ref name="Dark Disciple" />
-|skin=White<ref name="Dark Disciple" />
+|eyes=Ice-blue<ref name="Dark Disciple" />
+|skin=Bone-white<ref name="Dark Disciple" />
 |cyber=
 |era=
 |affiliation=*[[Jedi Order]]<ref name="Nightsisters" />
 *[[Sith]] {{C|as an [[assassin]]}}<ref name="Databank" />
 *[[Confederacy of Independent Systems]]<ref name="Databank" />
+**[[Asajj Ventress' battalion]]<ref name="Ambush">{{TCW|Ambush}}</ref>
 *[[Nightsisters]]<ref name="Databank" />
 *[[Krayt's Claw]] {{C|briefly}}<ref name="Dark Disciple" />
 |masters=*[[Ky Narec]] {{C|[[Jedi Master]]}}<ref name="Nightsisters" />

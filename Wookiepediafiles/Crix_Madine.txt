@@ -6,7 +6,7 @@
 |image=[[File:MadineHS-ROTJ.png]]
 |name=Crix Madine
 |homeworld=[[Corellia]]<ref name="Ultimate Star Wars">''[[Ultimate Star Wars]]''</ref>
-|birth=[[34 BBY/Canon|34 BBY]], Corellia<ref name="Scum and Villainy Case Files>''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''</ref>
+|birth=[[34 BBY]], Corellia<ref name="Scum and Villainy Case Files>''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''</ref>
 |death=
 |species=[[Human]] {{C|[[Corellian]]}}<ref name="Ultimate Star Wars" />
 |gender=[[Sexes|Male]]<ref name="Ultimate Star Wars" />
@@ -53,7 +53,7 @@ Following the destruction of the second Death Star, Madine kept the fleet on ale
 
 ====War continues====
 {{Quote|...as much as Admiral Ackbar and I wish we could tell you the end is at hand, we see no respite from hostilities at this time...|General Madine, briefing rebel pilots and soldiers about Operation: Cinder|Shattered Empire, Part IV}}
-A few months after Endor, Madine and other elements of the Rebel Fleet Command were aboard a [[MC80 Star Cruiser]] at Muster Point: Stalwart. He and Admiral Gial Ackbar briefed rebel [[soldier]]s and [[pilot]]s on the Empire's ongoing planetary assaults, including [[Operation: Cinder]]. Madine thanked the rebels for their efforts against the Empire and for the thousands of lives they saved countering Operation: Cinder, but sadly noted that the war was far from over.<ref name="SE4">''[[Shattered Empire, Part IV]]''</ref>
+A few months after Endor, Madine and other elements of the Rebel Fleet Command were aboard a [[MC80 Star Cruiser/Legends|MC80 Star Cruiser]] at Muster Point: Stalwart. He and Admiral Gial Ackbar briefed rebel [[soldier]]s and [[pilot]]s on the Empire's ongoing planetary assaults, including [[Operation: Cinder]]. Madine thanked the rebels for their efforts against the Empire and for the thousands of lives they saved countering Operation: Cinder, but sadly noted that the war was far from over.<ref name="SE4">''[[Shattered Empire, Part IV]]''</ref>
 
 ====New Republic service====
 {{Quote|...This is a fragile peace. And we must be wary of any ruse set before us. General Madine, do you think you could put together a strike team? Small five to seven Republic soldiers.''"<br>"''I think that's doable. You want them on the ground?|Ackbar and Madine discussing the events on Akiva|Aftermath}}

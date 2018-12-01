@@ -105,10 +105,10 @@ The concept art that would become the basis for the character Sarco Plank was pr
 {{Reflist}}
 
 {{Interlang
-|de=Sarco Plank
+|de=Sarco Plank#kanon
 |fr=Sarco Plank
-|nl=Sarco Plank
 |ja=サルコ・プランク
+|nl=Sarco Plank
 |pl=Sarco Plank
 |ru=Сарко Планк
 }}

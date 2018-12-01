@@ -1,4 +1,6 @@
 {{Eras}}
+{{Expand}}
+{{Image}}
 {{Character
 |type=
 |image=[[File:WattoHS.jpg]]
@@ -33,8 +35,6 @@ Once Anakin returned to Tatooine, Watto asked him if he could help with some "de
 
 ===Age of the Empire===
 During his exile on Tatooine, [[Obi-Wan Kenobi]] purchased a humidifier from Watto at an inflated price. After Kenobi was [[Rescue of Princess Leia|killed]] by [[Darth]] Vader on the [[DS-1 Orbital Battle Station|Death Star]], but before he became a [[Force spirit]], Kenobi found himself in a vision of his [[Ben Kenobi's home|hut]] on Tatoonie. He noted that the humidifier was not in the vision, among other recent additions that were missing. He then realized the vision was of an earlier time in his hut, from around three years into his exile.<ref name="Time">{{Shortstory|story=Time of Death|book=From a Certain Point of View}}</ref>
-
-{{Char-stub}}
 
 ==Personality and traits==
 {{Quotetrans|Outlanders. They think we know nothing.|Watto|Star Wars: Episode I The Phantom Menace}}

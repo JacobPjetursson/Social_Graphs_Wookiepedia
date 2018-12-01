@@ -7,12 +7,12 @@
 |homeworld=
 |birth=
 |death=
-|species=[[Human]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|species=[[Human]] {{C|[[Naboo (people)|Naboo]]}}<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
 |gender=[[Sexes|Female]]<ref name="Episode III" />
 |height=
 |mass=
-|hair=
-|eyes=
+|hair=[[Color|Brown]]<ref name="Episode III" />
+|eyes=Blue<ref name="Episode III" />
 |skin=Light<ref name="Episode III" />
 |cyber=
 |era=

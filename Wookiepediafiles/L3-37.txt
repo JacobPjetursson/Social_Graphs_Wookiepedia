@@ -1,5 +1,5 @@
 {{Eras}}
-{{Update|[[Last Shot]], [[Solo: A Star Wars Story The Official Guide]], [[Solo: A Star Wars Story: Tales from Vandor]], [[Lando's Luck]]}}
+{{Update|[[Last Shot]], [[Solo: A Star Wars Story The Official Guide]], [[Solo: A Star Wars Story: Tales from Vandor]], [[Lando's Luck]], [[Star Wars: Smuggler's Guide]]}}
 {{Droid
 |image=[[File:L3-37 SWI184.png]]
 |name=L3-37
@@ -50,6 +50,7 @@ One week later, L3 and Calrissian were on Vandor, and discovered where the ''Fal
 Shortly afterward, Calrissian was hired by the criminal [[Tobias Beckett]] and [[Sexes|his]] [[Beckett's gang|gang]] to [[transport]] them to [[Kessel]]. L3, meanwhile, was trying to reason with<ref name="Solo" /> [[WG-22]],<ref name="Official Guide" /> a [[droid]] who was being used for entertainment<ref name="Solo" /> in a [[fighting pit]] in the Lodge. [[Ralakili]], who ran the droid pits,<ref name="Official Guide" /> got into a heated argument with L3, and she grabbed him by the face. Calrissian arrived, noticing this, and told L3 to let go of the man's face. L3 complied, and asked who Calrissian's acquaintances were. Calrissian explained that they were taking the group to the [[spice mines of Kessel]].<ref name="Solo" />
 
 ===Mission to Kessel===
+{{Quote|Congratulations, you're liberated. Scoot. ... I don't know. Free your brothers or sisters or something. Just give me some space.|L3-37 to one of the droids freed on Kessel|Solo: A Star Wars Story}}
 [[File:L3-2.jpg|thumb|right|288px|L3-37 leads the liberated droids on Kessel.]]
 They then traveled to Kessel aboard the ''[[Millennium Falcon]]'', where L3 assisted Beckett's gang in their [[Raid on Kessel|mission]] to obtain [[coaxium]], which was to be transported to [[Savareen]] so the unstable material could be refined and they could rendezvous with [[Dryden Vos]]. During the mission, L3 freed several droids who were being used as [[Slavery|slaves]] by the [[Pyke Syndicate]]. Whilst [[Han Solo]] and [[Chewbacca]] were making their way to the vault filled with coaxium, the droids L3 had freed started rebelling, freeing all of the other slaves in the mine. The slaves rebelled against the guards, allowing Beckett's gang to escape to the ''Falcon''. After nearly everyone was aboard the ship, L3 was shot by a guard, and was severely damaged. Calrissian attempted to retrieve L3, only to lose half of her body and get injured during the escape. Aboard the ''Millennium Falcon'', L3 was held in Calrissian's lap, while Calrissian [[mourning|mourned]] for L3, wishing that he had never taken the job. L3 responded, but deactivated shortly after they made it off of Kessel.<ref name="Solo" /> Calrissian removed her neural core from her head in order to integrate her data into the ''Falcon'' at the crew's suggestion.<ref name="Solo novel">''[[Solo: A Star Wars Story: Expanded Edition]]''</ref>
 
@@ -93,6 +94,7 @@ In the [[1980]] film [[Star Wars: Episode V The Empire Strikes Back|''Star Wars'
 
 ===Non-canon appearances===
 *''[[Star Wars: Galaxy of Heroes]]''
+*{{All-Stars|Dealing with Lando; Han and Chewie Strike Back}}
 
 ==Sources==
 {{Scroll box|

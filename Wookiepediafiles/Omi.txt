@@ -1,8 +1,9 @@
 {{Eras}}
+{{Image}}
 {{Pet
 |image=[[File:MP-Dianoga.png]]
 |name=Omi
-|homeworld=[[Vodran]]<ref name="The Baptist">{{Shortstory|story=The Baptist|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}</ref>
+|homeworld=[[Vodran]]<ref name="The Baptist">{{Shortstory|story=The Baptist|book=From a Certain Point of View}}</ref>
 |birth=
 |death=[[0 BBY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> [[DS-1 Orbital Battle Station|Death Star]], [[Yavin system]]<ref name="The Baptist" />
 |species=[[Dianoga]]<ref name="USW">''[[Ultimate Star Wars]]''</ref>
@@ -36,7 +37,7 @@ Before the Death Star's destruction, Omi would continue to develop in her submis
 ==Behind the scenes==
 Omi, and the dianoga [[species]], first appeared in the original [[1977]] film [[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']], the first installment of the ''[[Star Wars]]'' [[original trilogy]].<ref name="Episode IV" /> [[Nnedi Okorafor]], writer of the short story "[[The Baptist]]" for the anthology ''[[From a Certain Point of View]]'', revealed Omi's name in a preview for her short story on [[September 16]], [[2017]].<ref name="Nnedi">{{Twitter|Nnedi|status/909083514196312064|[[Nnedi Okorafor]]|quote=This is out Oct 5th. I've given the trash compactor monster from a New Hope a story. 🦑Now you'll know how she got there. #operationbluemilk|image=}}</ref> Okorafor stated that she named the dianoga Omi, as Omi means "water" in [[Wikipedia:Yoruba language|Yoruba language]].<ref name="Interview">{{SW|url=news/nnedi-okorafor-dianoga-from-a-certain-point-of-view|text=Nnedi Okorafor on Giving the Dianoga a Soul in ''From a Certain Point of View''}}</ref>
 
-In [[George Lucas]]' revised fourth draft of ''A New Hope'', Omi, or more specifically her species, was referred as "Dia Nogu", in reference to the earlier drafts, in which the Jedi were called "Dai Nogas" or just "Dai". The early scripts of the film didn't always had Omi's presence nor the trash compactor scene. In the finished version of film, Lucas was reportedly less than impressed with the delivered dianoga effect, having envisioned something bigger and more ominous.<ref name="Former DB">{{DB|creature|dianoga|Dianoga}}</ref>
+In [[George Lucas]]' revised fourth draft of ''A New Hope'', Omi, or more specifically the Dianoga, was referred as "Dia Nogu", in reference to the earlier drafts, in which the Jedi were called "Dai Nogas" or just "Dai". The early scripts of the film didn't always have Omi's presence nor the trash compactor scene. In the finished version of film, Lucas was reportedly less than impressed with the delivered Dianoga effect, having envisioned something bigger and more ominous.<ref name="Former DB">{{DB|creature|dianoga|Dianoga}}</ref>
 
 In [[2015]], [[Chuck Wendig]], author of the novel ''[[Aftermath]]'', expressed interest in potentially writing stories about [[Malakili]], [[Chirpa|Chief Chirpa]] or Omi. However, he ultimately chose to write about Malakili instead in his sequel novel ''[[Aftermath: Life Debt]]''.<ref name="Chuck Wendig's War">{{InsiderCite|160|Chuck Wendig's War}}</ref>
 
@@ -46,9 +47,9 @@ In [[2015]], [[Chuck Wendig]], author of the novel ''[[Aftermath]]'', expressed 
 *[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
 *''[[Trapped in the Death Star!]]''
 *''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
-*{{Shortstory|story=The Baptist|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{1stID}}
+*{{Shortstory|story=The Baptist|book=From a Certain Point of View}} {{1stID}}
 *{{IDWAdventuresCite|Annual 2018|[[Mind Your Manners]]}} {{Imo}}
-*{{Shortstory|story=All Creatures Great and Small|book=Tales from a Galaxy Far, Far Away: Aliens: Volume I|bformatted=''Tales from a Galaxy Far, Far Away: Aliens: Volume I''}} {{Imo}}
+*{{Shortstory|story=All Creatures Great and Small|book=Tales from a Galaxy Far, Far Away: Aliens: Volume I}} {{Imo}}
 
 ==Sources==
 *''[[Ultimate Star Wars]]''
