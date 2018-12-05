@@ -18,4 +18,10 @@ function openImg(evt, imgName) {
     document.getElementById(imgName).style.display = "block";
     evt.currentTarget.className += " active";
 }
-document.getElementById("defaultOpen").click();
+
+//var x = document.getElementsByClassName("defaultOpen");
+//console.log(x);
+//for (i in x){
+document.getElementById("defaultOpen").click();    
+
+//}
