@@ -1,9 +1,3 @@
-Fancy hjemmeside:
-	- Word clouds / Sentiment plots i format hvor man kan bladre mellem dem (Tabs, Pile)
-	- Grå baggrund for plots
-	- Graf med on/off for bestemte flags (vis communities, good/bad, race)
-	TIL TABLE: Brug tabulator og load data ind som json i javascript
-
 Sæt hjemmeside op med de ting som kræves
 
 Federe degree dist graf
