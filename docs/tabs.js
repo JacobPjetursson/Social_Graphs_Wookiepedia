@@ -23,5 +23,4 @@ function openImg(evt, imgName) {
 //console.log(x);
 //for (i in x){
 document.getElementById("defaultOpen").click();    
-
 //}

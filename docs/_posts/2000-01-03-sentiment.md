@@ -13,7 +13,7 @@ icon: img/icons/sentiment.png
 As seen from the plot above, the mean sentiment of the script and the dialog are quite similar. Furthermore, we see that the median sentiment across the movie dialog, do not very greatly. The main difference in sentiment across the movie-scripts are therefore mainly from the action and not the dialog.
 
 
-<h3> Character dialog sentiments </h3>
+<h3> Who talks the most </h3>
 <!-- Tab links -->
 <div class="tab">
   <button class="tablink" onclick="openImg(event, 'dialog_sentiment_IV')" id="defaultOpen">Episode IV</button>
