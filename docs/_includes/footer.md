@@ -1,8 +1,8 @@
 
 
-Made by: Matias Daugaard sxxxxx
+Made by: Matias Daugaard s153198
 &mdash;
-Lasse Herskind sxxxxxx
+Lasse Herskind s153746
 &mdash;
 Jacob Pjetursson s153718
 
