@@ -1,11 +1,17 @@
 Sæt hjemmeside op med de ting som kræves
 
-Federe degree dist graf
+Preprocess kode i notebook (Matias)
 
-Type af network
+Federe degree dist graf (notebook + hjemmeside) (Jacob)
 
-Sentiment analysis for alle film. Også for pr. karakter og pr. film
+Type af network i notebook (Matias)
 
-explainers notebook
+Sentiment analysis for alle film. Også for pr. karakter og pr. film + i notebook (Lasse) 
 
-sentiment fra wiki. Pr. race? For onde og gode? For bestemte karakterer?
+Centrality measurement notebook (Jacob)
+
+Diskussion i notebook (Fælles)
+
+sentiment fra wiki. Pr. race? For onde og gode? For bestemte karakterer? (Matias i notebook, Lasse i hjemmeside)
+
+Ret igennem og skriv tekst til hjemmesiden (Jacob + Lasse + Matias)
