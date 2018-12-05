@@ -22,15 +22,15 @@ icon: img/icons/community.png
 
 <!-- Tab content -->
 <div id="IV" class="tabcontent">
-  <img src="img/word_cloud_iv.png" alt="Word cloud for episode iv" style="height:500px">
+  <img src="img/word_cloud_iv.png" alt="Word cloud for episode iv" style="width: 80%">
 </div>
 
 <div id="V" class="tabcontent">
-  <img src="img/word_cloud_v.png" class="two" alt="Word cloud for episode v" style="height:500px">
+  <img src="img/word_cloud_v.png" class="two" alt="Word cloud for episode v" style="width: 80%">
 </div>
 
 <div id="VI" class="tabcontent">
-  <img src="img/word_cloud_vi.png" alt="Word cloud for episode vi" style="height:500px">
+  <img src="img/word_cloud_vi.png" alt="Word cloud for episode vi" style="width: 80%">
 </div>
 
 <script src="table.js"></script>
