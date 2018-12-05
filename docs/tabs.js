@@ -1,15 +1,15 @@
-function openImg(evt, imgName) {
+function openImg(evt, imgName, subclass) {
     // Declare all variables
     var i, tabcontent, tablinks;
 
     // Get all elements with class="tabcontent" and hide them
-    tabcontent = document.getElementsByClassName("tabcontent");
+    tabcontent = document.getElementsByClassName("tabcontent " + subclass);
     for (i = 0; i < tabcontent.length; i++) {
         tabcontent[i].style.display = "none";
     }
 
     // Get all elements with class="tablinks" and remove the class "active"
-    tablinks = document.getElementsByClassName("tablinks");
+    tablinks = document.getElementsByClassName("tablinks " + subclass);
     for (i = 0; i < tablinks.length; i++) {
         tablinks[i].className = tablinks[i].className.replace(" active", "");
     }
@@ -19,8 +19,8 @@ function openImg(evt, imgName) {
     evt.currentTarget.className += " active";
 }
 
-//var x = document.getElementsByClassName("defaultOpen");
-//console.log(x);
-//for (i in x){
-document.getElementById("defaultOpen").click();    
-//}
+
+document.getElementById("defaultCloud").click(); 
+document.getElementById("defaultTalk").click();
+document.getElementById("defaultSentiment").click();
+document.getElementById("defaultGraph").click();
