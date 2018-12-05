@@ -1,5 +1,11 @@
 var table = new Tabulator("#example-table-theme", {
  	height:450,
+ 	layout:"fitData",
+ 	formatter: function(cell, formatterParams) {
+ 		var cellValue = cell.getValue();
+ 		cell.getRow().getElement().style.backgroundColor = "#fff"
+        return cellValue;
+ 	},
  	columns:[ //Define Table Columns
 	 	{title:"Name", field:"name", frozen:true},
 	 	{

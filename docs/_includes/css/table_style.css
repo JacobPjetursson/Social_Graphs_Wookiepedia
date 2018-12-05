@@ -16,14 +16,3 @@
 #example-table-theme .tabulator-header .tabulator-col-row-handle {
     white-space: normal;
 }
-
-/*Color the table rows*/
-#example-table-theme .tabulator-tableHolder .tabulator-table .tabulator-row{
-    color:#fff;
-    background-color: #666;
-}
-
-/*Color even rows*/
-    #example-table-theme .tabulator-tableHolder .tabulator-table .tabulator-row:nth-child(even) {
-    background-color: #444;
-}
