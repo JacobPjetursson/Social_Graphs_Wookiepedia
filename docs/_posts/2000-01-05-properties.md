@@ -1,15 +1,31 @@
 ---
-title: "Properties"
+title: "Networks"
 bg: '#63BD2F'
 color: white
 icon: img/icons/jedi.png
 ---
 
-Alright, you've got a clean copy and are ready to push some schmancy pages for the world to ogle at.
+<h2> Networks </h2>
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablink" onclick="openImg(event, 'degree')">Degree</button>
+  <button class="tablink" onclick="openImg(event, 'between')">Betweenness</button>
+  <button class="tablink" onclick="openImg(event, 'eigen')">Eigenvector</button>
+</div>
 
-- Edit `_config.yml` to change your title, keywords, and description.
-- Create a new file in `_posts/` called `2014-01-01-intro.md`
-  Edit it, and add:
+<div id="degree" class="tabcontent">
+  <img src="img/graph.png" alt="Graph with node size by degree centrality" height="2000px" width="2000px">
+</div>
+
+<div id="between" class="tabcontent">
+  <img src="img/between.png" alt="Graph with node size by betweenness centrality" height="2000px" width="2000px">
+</div>
+
+<div id="eigen" class="tabcontent">
+  <img src="img/eigen.png" alt="Graph with node size by eigenvector centrality" height="2000px" width="2000px">
+</div>
+
+
 
 {% highlight text linenos=table %}
 ---
@@ -22,42 +38,3 @@ style: center
 # Example headline!
 and so on..
 {% endhighlight %}
-
-- Create a second post called `2014-01-02-art.md` with an divider image this time:
-
-{% highlight text linenos=table %}
----
-title: "Art"
-bg: turquoise  #defined in _config.yml, can use html color like '#0fbfcf'
-color: white   #text color
-fa-icon: paint-brush
----
-
-#### A new section- oh the humanity!
-{% endhighlight %}
-
-**Note:** That part `fa-icon: paint-brush` will use a font-awesome icon of [paint-brush](http://fortawesome.github.io/Font-Awesome/icon/paint-brush/). You can use any icon from this [font-awesome icon directory](http://fortawesome.github.io/Font-Awesome/icons/).
-
-- install Jekyll with `sudo gem install github-pages`
-- run `jekyll serve -w`
-  - visit [localhost:4000](http://localhost:4000) to see a live locally served preview.
-- Push changes and see them live!
-
-
-
-
-## **Changing your colors**
-{: style="margin-top:100px;"}
-
-- In each post file you can define `bg: mycolor` and `color: myothercolor` to change the background and text colors for that section.
-- **mycolor** can be a quoted html color like `'#0fbfcf'` or a key to a special color defined in **_config.yml** under 'colors'.
-  - **Note:** Changes to _config.yml require a manual restart to your local server with `^C` and `jekyll serve -w`.
-
-Nifty, right!
-
-
-
-### Also see **README.md** [*on github!*](https://github.com/t413/SinglePaged#usage)
-{: style="margin-top:100px;"}
-
-
