@@ -1,7 +1,21 @@
-.vis {
+.viscom {
   display:block;
-  width:800px;
-  height:800px;
+  width:1000px;
+  height:500px;
   border:solid;
-  background-color:white;
+  background-color: #C0C0C0;
+  overflow: hidden;
+  text-align: center;
+  width: 100%;
+}
+
+.visgood {
+  display:block;
+  width:1000px;
+  height:500px;
+  border:solid;
+  background-color: #C0C0C0;
+  overflow: hidden;
+  text-align: center;
+  width: 100%;
 }
