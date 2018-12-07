@@ -35,7 +35,6 @@ As seen from the plot above, the mean sentiment of the script and the dialog are
 </div>
 
 <script src="table.js"></script>
-<script src="tabs.js"></script>
 
 <h3> Character dialog sentiments </h3>
 <div class="tab">
@@ -63,5 +62,3 @@ As seen from the plot above, the mean sentiment of the script and the dialog are
 </div>
 
 <script src="table.js"></script>
-<script src="tabs.js"></script>
-

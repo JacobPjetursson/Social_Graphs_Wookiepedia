@@ -25,5 +25,3 @@ fa-icon: cloud
 <div id="VI" class="tabcontent cloud">
   <img src="img/word_cloud_vi.png" alt="Word cloud for episode vi" style="width: 80%">
 </div>
-
-<script src="tabs.js"></script>

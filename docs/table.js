@@ -1,8 +1,8 @@
-var table = new Tabulator("#example-table-theme", {
+var table = new Tabulator("#example-table", {
  	height:450,
  	layout:"fitColumns",
  	responsiveLayout:"hide",
- 	columns:[ //Define Table Columns
+ 	columns:[
 	 	{title:"Name", field:"name", frozen:true},
 	 	{
 	 		title: "Network Stats",
@@ -26,7 +26,5 @@ var table = new Tabulator("#example-table-theme", {
  	],
 });
 
-//load sample data into the table
-// This can be a path to a json file
 table.setData("table.json");
 table.setSort("indegree", "desc");

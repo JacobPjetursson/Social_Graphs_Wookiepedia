@@ -1,18 +1,18 @@
 /*Theme the Tabulator element*/
-#example-table-theme{
+#example-table{
     background-color:#ccc;
     border: 1px solid #333;
     border-radius: 10px;
 }
 
 /*Theme the header*/
-#example-table-theme .tabulator-header {
+#example-table .tabulator-header {
     background-color:#333;
     color:#111;
 }
 
 /*Allow column header names to wrap lines*/
-#example-table-theme .tabulator-header .tabulator-col,
-#example-table-theme .tabulator-header .tabulator-col-row-handle {
+#example-table .tabulator-header .tabulator-col,
+#example-table .tabulator-header .tabulator-col-row-handle {
     white-space: normal;
 }
