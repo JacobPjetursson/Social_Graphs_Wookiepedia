@@ -1,5 +1,3 @@
-Preprocess kode i notebook (Matias)
-
 Federe degree dist graf (notebook + hjemmeside) (Jacob)
 
 Type af network i notebook (Matias)
@@ -10,7 +8,7 @@ Centrality measurement notebook (Jacob)
 
 Diskussion i notebook (Fælles)
 
-sentiment fra wiki. Pr. race? For onde og gode? For bestemte karakterer? (Matias i notebook, Lasse i hjemmeside)
+sentiment fra wiki. Pr. race? For onde og gode? For bestemte karakterer? (Lasse i hjemmeside)
 
 Ret igennem og skriv tekst til hjemmesiden (Jacob + Lasse + Matias)
 
