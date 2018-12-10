@@ -23,3 +23,5 @@ function openImg(evt, imgName, subclass) {
 document.getElementById("defaultCloud").click(); 
 document.getElementById("defaultTalk").click();
 document.getElementById("defaultSentiment").click();
+document.getElementById("defaultSentimentChar").click();
+document.getElementById("defaultSentimentChar2").click();

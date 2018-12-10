@@ -62,3 +62,47 @@ As seen from the plot above, the mean sentiment of the script and the dialog are
 </div>
 
 <script src="table.js"></script>
+
+
+
+<h3> Sentiment of charachter dialogue </h3>
+<div class="tab">
+  <button class="tablink sen_dialog" onclick="openImg(event, 'sen_char_iv', 'sen_dialog')" id="defaultSentimentChar">Episode IV</button>
+  <button class="tablink sen_dialog" onclick="openImg(event, 'sen_char_v', 'sen_dialog')">Episode V</button>
+  <button class="tablink sen_dialog" onclick="openImg(event, 'sen_char_vi', 'sen_dialog')">Episode VI</button>
+</div>
+
+<!-- Tab content -->
+<div id="sen_char_iv" class="tabcontent sen_dialog">
+  <img src="img/sentiment_chars_iv.png" alt="Obi-Wan Kenobi dialog sentiment sentiment" style="width:100%" />
+</div>
+
+<div id="sen_char_v" class="tabcontent sen_dialog">
+  <img src="img/sentiment_chars_v.png" alt="Obi-Wan Kenobi dialog sentiment sentiment" style="width:100%" />
+</div>
+
+<div id="sen_char_vi" class="tabcontent sen_dialog">
+  <img src="img/sentiment_chars_vi.png" alt="Darth Vader dialog sentiment sentiment" style="width:100%" />
+</div>
+
+<h3> Sentiment of dialogue which mentions characters </h3>
+<div class="tab">
+  <button class="tablink sen_dialog_1" onclick="openImg(event, 'sen_char_iv_2', 'sen_dialog_1')" id="defaultSentimentChar2">Episode IV</button>
+  <button class="tablink sen_dialog_1" onclick="openImg(event, 'sen_char_v_2', 'sen_dialog_1')">Episode V</button>
+  <button class="tablink sen_dialog_1" onclick="openImg(event, 'sen_char_vi_2', 'sen_dialog_1')">Episode VI</button>
+</div>
+
+<!-- Tab content -->
+<div id="sen_char_iv_2" class="tabcontent sen_dialog_1">
+  <img src="img/sentiment_names_iv.png" alt="Obi-Wan Kenobi dialog sentiment sentiment" style="width:100%" />
+</div>
+
+<div id="sen_char_v_2" class="tabcontent sen_dialog_1">
+  <img src="img/sentiment_names_v.png" alt="Obi-Wan Kenobi dialog sentiment sentiment" style="width:100%" />
+</div>
+
+<div id="sen_char_vi_2" class="tabcontent sen_dialog_1">
+  <img src="img/sentiment_names_vi.png" alt="Darth Vader dialog sentiment sentiment" style="width:100%" />
+</div>
+
+
