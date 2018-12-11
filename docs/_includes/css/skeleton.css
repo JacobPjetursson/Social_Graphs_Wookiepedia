@@ -89,3 +89,10 @@
     width: 0;
     height: 0;
   }
+
+i { 
+  font-style: italic;
+}
+b {
+  font-weight: bold;
+}

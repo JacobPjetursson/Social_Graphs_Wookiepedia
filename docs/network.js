@@ -47,7 +47,8 @@ var options = {
     shape: 'circle',
     scaling: {
       label: {
-        enabled: true
+        enabled: true,
+        min: 1
       }
     },
     font: {

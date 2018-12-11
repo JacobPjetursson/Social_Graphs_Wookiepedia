@@ -26,10 +26,10 @@ google_analytics_key:
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
+  blue:      '#2785c7'
+  green:     '#79ad0d'
   purple:    '#c869bf'
-  orange:    '#fab125'
+  orange:    '#e9a014'
   turquoise: '#0fbfcf'
 
 kramdown:
