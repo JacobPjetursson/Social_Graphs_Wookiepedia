@@ -2,8 +2,7 @@
 ---
 {% include css/base.css %}
 {% include css/skeleton.css %}
-{% include css/table_style.css %}
+{% include css/main.css %}
 {% include css/tabs.css %}
 {% include css/network.css %}
-{% include css/main.css %}
-
+{% include css/table_style.css %}
