@@ -1,7 +1,3 @@
-Federe degree dist graf (notebook + hjemmeside) (Jacob)
-
-Type af network i notebook (Matias)
-
 Sentiment analysis for alle film. Også for pr. karakter og pr. film + i notebook (Lasse) 
 
 Centrality measurement notebook (Jacob)
@@ -11,9 +7,3 @@ Diskussion i notebook (Fælles)
 sentiment fra wiki. Pr. race? For onde og gode? For bestemte karakterer? (Lasse i hjemmeside)
 
 Ret igennem og skriv tekst til hjemmesiden (Jacob + Lasse + Matias)
-
-
-Lav separat interaktiv tabel med communities
-Lav interaktive grafer. En med communities, mindst en med goodness
-grå baggrund på interaktiv graf
-REMOVE SELF-LOOPS!
