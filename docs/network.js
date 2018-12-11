@@ -111,7 +111,7 @@ var options = {
     },
     "9":{
       color:{
-        background:'#7EC0EE'
+        background:'#FFFFFF'
       }
     },
   }
