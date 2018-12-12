@@ -338,7 +338,7 @@ Mace Windu was a [[human]]<ref name="SWE" /> [[Sexes|male]]<ref name="Databank" 
 
 ==Powers and abilities==
 {{Quote|I have studied his teachings since I was a youngling. His style of lightsaber combat has been the foundation of my own. He is a top five Jedi Master of all time ''for sure''!|Rissa Mano, on Mace Windu|Jedi of the Republic—Mace Windu, Part I}}
-[[File:Superconductingloop.png|thumb|left|230x230px|Windu redirected Sidious' Force lightning back to its source by using his lightsaber to create a superconducting loop.]]
+[[File:Mace Windus Lightsaber SWD.png|thumb|left|220px|Windu was a master of Form VII: Vaapad]]
 Mace Windu was a highly accomplished and powerful Jedi Master who possessed advanced skills in both lightsaber combat and [[Force power|Force abilities]].<ref name="Databank" /> He was a notable practitioner of [[Form VII]],<ref name="ECUC">''[[Star Wars Character Encyclopedia: Updated and Expanded]]''</ref> also known as Juyo or Vaapad,<ref name="AEYNK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref> and Windu was the only known master of the form that did not fall to the dark side.<ref name="Force Collection Vaapad">{{ForceCollection|Mace Windu [Master of Vaapad]|star=5}}</ref> It was the seventh form of lightsaber combat and considered the most unpredictable or aggressive form.<ref name="AEYNK" /> In combat, Windu demonstrated his skills as a duelist against fellow Jedi Master Prosset Dibs,<ref name="Mace Windu 4" /> the Nightsister Mother Talzin<ref name="Disappeared 2" /> and even Darth Sidious, the Dark Lord of the Sith. In the case of the latter, Windu not only survived Sidious' initial assault, which resulted in the deaths of three Jedi Masters,<ref name="ROTS" /> but ultimately prevailed against the Sith in the fight itself. Following an intense, but relatively short duel between the Dark Lord and the Jedi Order's champion, Windu disarmed and cornered the seemingly defeated Sidious.<ref name="Databank" />
 
 Windu was also highly adept at deflecting incoming blaster shots with his lightsaber. During the Battle of Geonosis, Windu charged towards Jango Fett while simultaneously deflecting his fire before ultimately disarming and decapitating the bounty hunter in a swift motion. Afterward, he continued to utilize his skills at blaster deflection against an overwhelming number of battle droids, which enabled him to survive long enough until Yoda and the clone army arrived and turned the tide of the battle in the Republic's favor.<ref name="Databank" /> Throughout the Clone Wars, Windu continued to rely on this defensive technique when leading Republic forces on the frontlines, especially during the Ryloth campaign.<ref name="Liberty on Ryloth" /> In addition to blaster shots, Windu could use his lightsaber to block a Force lightning attack, which he could also redirect back to its source in a superconducting loop.<ref name="ROTS" />
@@ -457,6 +457,7 @@ During the early development of [[Star Wars: Episode VII The Force Awakens|''Sta
 *''[[Lost Stars]]'' {{Mo}}
 *''[[The Secret Jedi: The Adventures of Kanan Jarrus: Rebel Leader]]'' {{Mo}}
 *{{Rebels|Homecoming}} {{Mo}}
+*{{Galaxy of Adventures|Luke vs. Emperor Palpatine - Rise to Evil}} {{Flash}}
 *{{IDWAdventuresCite|Ashcan|}} {{Flash}}}}
 
 ===Non-canon appearances===

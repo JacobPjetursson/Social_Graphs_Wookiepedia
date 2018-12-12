@@ -8,7 +8,7 @@
 |birth=
 |death=
 |species=[[Ongree]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
-|gender=[[Sexes|Male]]<ref name="SWFC">''[[Star Wars: Force Collection]]''</ref>
+|gender=[[Sexes|Male]]<ref name="Force Collection">{{ForceCollection|Pablo-Jill|star=3}}</ref>
 |height=
 |mass=
 |hair=
@@ -21,10 +21,13 @@
 *[[Galactic Republic]]<ref name="Episode II" />
 |masters=
 |apprentices=}}
-'''Pablo-Jill'''<ref name="SWCT" /> was a [[Sexes|male]]<ref name="SWFC" /> [[Ongree]]<ref name="Episode II" /> [[Jedi Knight]]<ref name="SWFC" /> that participated in the [[Battle of Geonosis]] as a part of the [[Jedi assault team]]. Pablo-Jill fought alongside the Jedi in an attempt to free [[Jedi Knight]]s [[Obi-Wan Kenobi]], and [[Anakin Skywalker]], along with [[Senator]] [[Padmé Amidala]] from the [[Confederacy of Independent Systems]].<ref name="Episode II" /> [[Time|Sometime]] during the [[Clone Wars]], [[Pablo-Jill's lightsaber]] was stolen from floating debris by Separatist [[General]] [[Grievous]] following an intense [[Duel over Duro|duel]] over [[Duro]] in a [[Unidentified satellite city|satellite city]] that left Pablo-Jill injured.<ref name="Lightsabers">''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''</ref>
+'''Pablo-Jill'''<ref name="SWCT" /> was a [[Sexes|male]]<ref name="Force Collection" /> [[Ongree]]<ref name="Episode II" /> [[Jedi Knight]]<ref name="Force Collection" />  that participated in the [[Battle of Geonosis]] as a part of the [[Jedi assault team]]. Pablo-Jill fought alongside the Jedi in an attempt to free [[Jedi Knight]]s [[Obi-Wan Kenobi]], and [[Anakin Skywalker]], along with [[Senator]] [[Padmé Amidala]] from the [[Confederacy of Independent Systems]].<ref name="Episode II" /> [[Time|Sometime]] during the [[Clone Wars]], [[Pablo-Jill's lightsaber]] was stolen from floating debris by Separatist [[General]] [[Grievous]] following an intense [[Duel over Duro|duel]] over [[Duro]] in a [[Unidentified satellite city|satellite city]] that left Pablo-Jill injured.<ref name="Lightsabers">''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''</ref> Though encouraged by the [[Jedi Order]] to take a [[padawan]], Pablo-Jill never chose one.<ref name="Force Collection" />
+
+==Equipment==
+Pablo-Jill wore [[Jedi robes]] and owned a [[Color|blue]] [[Pablo-Jill's lightsaber|lightsaber]].<ref name="Episode II" />
 
 ==Behind the scenes==
-Pablo-Jill is named after a VFX Supervisor and Producer team at ILM that worked on [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']].<ref name="Pablo-Jill gender">{{Twitter|pablohidalgo|status/821458624119590912|[[Pablo Hidalgo]]|quote=@EdinJusovic That is an Ongree named Pablo-Jill. His name (honestly) has nothing to do with me.|image=File:pablo-jill gender.jpg|noimage=}}</ref>
+Pablo-Jill is named after a VFX Supervisor and Producer team at [[Industrial Light & Magic]] that worked on the [[2002]] film [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']].<ref name="Pablo-Jill gender">{{Twitter|pablohidalgo|status/821458624119590912|[[Pablo Hidalgo]]|quote=@EdinJusovic That is an Ongree named Pablo-Jill. His name (honestly) has nothing to do with me.|image=File:pablo-jill gender.jpg|noimage=}}</ref>
 
 ==Appearances==
 *[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] {{1st}}

@@ -22,9 +22,9 @@
 |masters=
 |apprentices=}}
 {{Quote|Good shot, Janson!|Wedge Antilles, to Wes Janson during the Battle of Hoth|Star Wars: Episode V The Empire Strikes Back}}
-'''Wes Janson''' was a [[human]] [[Sexes|male]] [[Rebel pilot|pilot]] from [[Taanab]]<ref name="Ultimate Star Wars" /> who served in the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]]. Janson was to have flown in the [[Battle of Yavin]] as [[Red Six]], but was grounded prior to the battle and replaced by [[Jek Tono Porkins|Jek Porkins]], who [[Death|died]] in the conflict.<ref name="Grounded" /> Around [[3 ABY]], [[Lieutenant]] Janson participated in the Galactic Empire's attack on the Alliance's [[Echo Base|base]] in the [[Battle of Hoth]], serving as a [[gunner]] for [[Wedge Antilles]], who was piloting a [[T-47 airspeeder]] in [[Rogue Squadron]].<ref name="ESB" />
+'''Wes Janson''' was a [[human]] [[Sexes|male]] [[Rebel pilot|pilot]] from [[Taanab]]<ref name="Ultimate Star Wars" /> who served in the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]]. Janson was to have flown in the [[Battle of Yavin]] as [[Red Six]], but was grounded prior to the battle and replaced by [[Jek Tono Porkins|Jek Porkins]], who [[Death|died]] in the conflict.<ref name="Grounded" /> Around [[3 ABY]], [[Lieutenant]] Janson participated in the Alliance's defense of their [[Echo Base|base]] in the [[Battle of Hoth]], serving as a [[gunner]] for [[Wedge Antilles]], who was piloting a [[T-47 airspeeder]] in [[Rogue Squadron]].<ref name="ESB" />
 
-During the battle, he was the first member of [[Rogue Squadron]] to successfully take down an [[All Terrain Armored Transport|Imperial walker]] with the [[Magnetic harpoon|harpoon]] and tow cable gambit devised by [[Commander]] [[Luke Skywalker]].<ref name="ESB" />
+During the battle, he was the first member of Rogue [[Squadron]] to successfully take down an [[All Terrain Armored Transport|Imperial walker]] with the [[Magnetic harpoon|harpoon]] and tow cable gambit devised by [[Commander]] [[Luke Skywalker]].<ref name="ESB" />
 
 Following the battle, Janson boarded an [[T-65B X-wing starfighter|X-wing starfighter]] and, along with Antilles, went on to escort the [[GR-75 medium transport|transport]], the ''[[Bright Hope]],'' away from Hoth.<ref name="Ultimate Star Wars" />
 
@@ -44,7 +44,6 @@ Wes Janson was portrayed by [[Ian Liston]] in ''The Empire Strikes Back''. Durin
 *{{SWSB|36|Battle of Hoth}}
 *{{SWE|groups|rebel-pilots|Rebel Pilots}}
 *''[[Ultimate Star Wars]]'' {{1stID|Wes}}
-*{{SW|url=news///inside-the-fearless-rogue-group|text=Inside the Fearless Rogue Group}}
 *''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
 *''[[Star Wars: The Visual Encyclopedia]]''
 *''[[Star Wars: The Rebel Files]]''
@@ -54,6 +53,9 @@ Wes Janson was portrayed by [[Ian Liston]] in ''The Empire Strikes Back''. Durin
 
 ==Notes and references==
 {{Reflist}}
+
+==External links==
+*{{SW|url=news///inside-the-fearless-rogue-group|text=Inside the Fearless Rogue Group}}
 
 {{Interlang
 |cs=Wes Janson

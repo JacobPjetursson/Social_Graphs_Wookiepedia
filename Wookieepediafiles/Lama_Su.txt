@@ -79,19 +79,21 @@ Lama Su first appeared in [[Star Wars: Episode II Attack of the Clones|''Star Wa
 *''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
 *''[[Star Wars: Galactic Atlas]]''
 *''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: On the Front Lines]]''
 *{{Databank|kaminoan|Kaminoan}}
 *{{Databank|lama-su|Lama Su}}
 
 ==Notes and references==
 {{Reflist}}
 
-{{DEFAULTSORT:Su, Lama}}
 {{Interlang
 |ko=라마 수
 |ru=Лама Су/Канон
 |es=Lama Su
 }}
 
-[[Category:Galactic Republic]]
+{{DEFAULTSORT:Su, Lama}}
+[[Category:Galactic Republic individuals]]
 [[Category:Kaminoans]]
 [[Category:Males]]
+[[Category:Planetary leaders]]

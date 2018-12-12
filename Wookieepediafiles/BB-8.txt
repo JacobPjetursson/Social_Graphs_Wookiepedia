@@ -1,5 +1,5 @@
 {{Eras}}
-{{Update|[[SaBBotage]], [[Star Wars Special: C-3PO 1: The Phantom Limb]], [[Star Wars: Poe Dameron]], [[Star Wars Resistance]] [[Rose Knows]], [[Star Wars: Episode VIII The Last Jedi]], [[Star Wars: The Last Jedi: Expanded Edition]], [[Shuttle Shock]]}}
+{{Update|[[SaBBotage]], [[Star Wars Special: C-3PO 1: The Phantom Limb]], [[Star Wars: Poe Dameron]], [[Star Wars Resistance]], [[Rose Knows]], [[Star Wars: Episode VIII The Last Jedi]], [[Star Wars: The Last Jedi: Expanded Edition]], [[Shuttle Shock]]}}
 {{Image}}
 {{Droid
 |image=[[File:BB8-Fathead.png]]
@@ -260,10 +260,13 @@ Seven different BB-8 units were used in the making of Episode VII. Each was give
 *{{Resistance|The High Tower}}
 *{{Resistance|The Children from Tehar}}
 *{{Resistance|Signal from Sector Six}}
+*{{Resistance|The Search for Kaz}}
 *{{Resistance|Synara's Score}}
 *{{Resistance|The Platform Classic}}
 *{{Resistance|Secrets and Holograms}}
-*{{Resistance|Station Theta Black}}
+*{{Resistance|Station Theta Black (episode)|Station Theta Black}}
+*{{Resistance|Dart and Cover}}
+*{{Resistance|Neeku's Reward}}
 *''[[Join the Resistance]]''
 *''[[Forces of Destiny: The Rey Chronicles]]''
 *[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
@@ -306,6 +309,7 @@ Seven different BB-8 units were used in the making of Episode VII. Each was give
 *''[[Star Wars: The Last Jedi: A Junior Novel]]''
 *''[[The Last Jedi: Rose and Finn's Secret Mission]]''
 *''[[The Last Jedi: Rose Tico: Resistance Fighter]]''
+*''[[Star Wars: The Last Jedi Graphic Novel Adaptation]]''
 *''[[The Last Jedi Adaptation 1]]''
 *''[[The Last Jedi Adaptation 2]]''
 *''[[The Last Jedi Adaptation 3]]''
@@ -389,12 +393,13 @@ Seven different BB-8 units were used in the making of Episode VII. Each was give
 *{{Databank|c-ai-threnalli|C'ai Threnalli|archiveurl=https://archive.fo/toKa6}} {{Po}}
 *{{Databank|canto-bight-jail|Canto Bight Jail|archiveurl=https://archive.fo/17iCl}} {{Po}}
 *{{Databank|finn|Finn|archiveurl=https://archive.fo/qfElP}}
+*{{Databank|flight-simulator-squadron|Flight Simulator Squadron}} {{Po}}
 *{{Databank|ga-97|GA-97|archivedate=20170902030547}}
 *{{Databank|lieutenant-mitaka|Lieutenant Mitaka}}
 *{{Databank|major-brance|Major Brance}}
 *{{Databank|rey|Rey}}
 *{{Databank|reys-quarterstaff|Rey's Quarterstaff}}
-}}
+*{{Databank|trash-incinerator|Trash incinerator}} {{Po}}}}
 
 ==Notes and references==
 {{Scroll_box|

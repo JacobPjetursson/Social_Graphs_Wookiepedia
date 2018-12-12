@@ -19,13 +19,13 @@
 |affiliation=[[Pyke Syndicate]]<ref name="Official Guide" />
 |masters=
 |apprentices=}}
-{{Quotetrans|If you follow me, I'm sure we can reach a&hellip;mutually beneficial arrangement.|Quay Tolsite|Solo: A Star Wars Story The Official Guide}}
+{{Quotetrans|If you follow me, I'm sure we can reach a&hellip; mutually beneficial arrangement.|Quay Tolsite|Solo: A Star Wars Story The Official Guide}}
 '''Quay Tolsite''' was a [[Sexes|male]] [[Pyke]] [[capo]] who administered the [[Pyke Syndicate]]'s operations on [[Kessel]]. He was a ruthless individual who enslaved several sentient beings, including [[Wookiee]]s, to work as [[miner]]s at the [[spice mines of Kessel]] in order to acquire [[spice]] for the Pykes. In [[10 BBY]], Tolsite participated during the [[raid on Kessel]], where he was [[Death|murdered]] by [[Qi'ra]].
 
 ==Biography==
 A [[Pyke Syndicate]] [[capo]],<ref name="Quay LEGO">{{LEGOWebCite|domain=|url=en-us/themes/star-wars/characters/quay-tolsite-fa62108023b9413bb525d987097a56f5|text=Quay Tolsite|int=|not=|archivedate=20180424004349|nobackup=}}</ref> Quay Tolsite was a [[Sexes|male]] [[Pyke]] from the [[planet]] [[Oba Diah]].<ref name="Official Guide" /> He served as the [[administrator]] of the Pykes' operations at [[Kessel]], supervising along with the [[droid]]s operating the command center of the [[spice mines of Kessel|spice mines]], where he employed a large number of [[Slavery|slaves]] to extract the [[spice]], some of these slaves including the [[Con artist/Canon|con artist]] [[Tak]] and the [[Wookiee]] [[Sagwa]].<ref name="Solo" />
 
-[[10 BBY|Ten]] [[Standard year|years]] before the [[Battle of Yavin]], as part of the [[raid on Kessel]] organized by [[Crimson Dawn]] leader [[Dryden Vos]], [[Tobias Beckett]] and his [[Beckett's gang|gang]], along with the [[smuggler]] [[Lando Calrissian]] and his [[droid]] [[L3-37]], came to the spice mines in order to steal the unrefined [[coaxium]] stored there. While [[Qi'ra]] distracted Tolsite at his office, [[Han Solo]] stole the coaxium, and L3-37 started a prison riot. It did not take Tolsite long to conclude that they were being attacked, but it was too late. Qi'ra attacked the Pyke using [[Teräs Käsi]], killing him.<ref name="Solo" />
+[[10 BBY|Ten]] [[Standard year|years]] before the [[Battle of Yavin]], as part of the [[raid on Kessel]] organized by [[Crimson Dawn]] leader [[Dryden Vos]], [[Tobias Beckett]] and his [[Beckett's gang|gang]], along with the [[smuggler]] [[Lando Calrissian]] and his [[droid]] [[L3-37]], came to the spice mines in order to steal the unrefined [[coaxium]] stored there. While [[Qi'ra]] distracted Tolsite at his office, [[Han Solo]] stole the coaxium, and L3-37 started a prison riot. It did not take Tolsite long to conclude that they were being attacked, but it was too late. Qi'ra attacked the Pyke and killed him by using [[Teräs Käsi]].<ref name="Solo" />
 
 ==Personality and traits==
 Quay Tolsite was a male Pyke who served as capo of the Pyke Syndicate at Kessel. He was a corrupt and greedy individual and often prioritized profit rather than the lives of his miners.<ref name="Quay LEGO" />
@@ -34,7 +34,7 @@ Quay Tolsite was a male Pyke who served as capo of the Pyke Syndicate at Kessel.
 Quay Tolsite protected himself in concealing robes and [[armor]] with a helmet to protect himself from Kessel's [[atmosphere]], to which he was allergic. To breathe on Kessel, Tolsite had breathing tubes filled with mucus.<ref name="Official Guide" /> Tolsite carried with him a set of keys to access certain systems in the mining facility.<ref name="Databank">{{Databank|quay-tolsite|Quay Tolsite}}</ref>
 
 ==Behind the scenes==
-Quay Tolsite was portrayed by [[Dee Tails]] in ''[[Solo: A Star Wars Story]]''.<ref>https://twitter.com/deetails/status/1001483756966957056?lang=en</ref>
+Quay Tolsite was portrayed by [[Dee Tails]] in the [[2018]] [[Star Wars Anthology Series|''Star Wars'' Anthology]] film ''[[Solo: A Star Wars Story]]''.<ref name="Solo" /> Tails stated that he loved every minute he played the character, feeling that it was a great part to play.<ref name="Tweet">{{Twitter|deetails|status/1001483756966957056|[[Dee Tails]]|quote=In SOLO I play the The Pyke Capo, Quay Tolsite who runs the spice mines on Kessel. It was a great part to play and I loved every minute of it !! Thank you Neal Scanlon and the whole cfx team & a massive thank you to @RealRonHoward #quaytolsite #deetails #pykesyndicate #Solo}}</ref>
 
 ==Appearances==
 *''[[Solo: A Star Wars Story]]'' {{1st}}
@@ -48,6 +48,7 @@ Quay Tolsite was portrayed by [[Dee Tails]] in ''[[Solo: A Star Wars Story]]''.<
 *<!-- 5/25/18 -->''[[The Art of Solo: A Star Wars Story]]''
 *<!-- 5/25/18 -->''[[Solo: A Star Wars Story The Official Guide]]''
 *<!-- 5/25/18 -->''[[Solo: A Star Wars Story Ultimate Sticker Collection]]''
+*{{HasbroCite|set=Solo: A Star Wars Story (toy line)|text=Solo: A Star Wars Story|pack=Quay Tolsite|link=/Quay-Tolsite-Solo-Star-Wars-Universe-Force-Link-2.asp}}
 *''[[Star Wars: Alien Archive - Species Guide]]''
 *{{Databank|kessel-control-center|Kessel Control Center}}
 *{{Databank|pyke-syndicate|Pyke Syndicate}} {{Po}}

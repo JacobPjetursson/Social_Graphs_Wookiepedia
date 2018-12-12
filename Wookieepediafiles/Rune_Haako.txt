@@ -21,7 +21,7 @@
 |masters=
 |apprentices=}}
 {{Quote|We should not have made this bargain.|Rune Haako|Star Wars: Episode I The Phantom Menace}}
-'''Rune Haako''' was a [[Sexes|male]] [[Neimoidian]] official of the [[Trade Federation|Trade Federation and]] a high ranking member of the [[Separatist Council]].
+'''Rune Haako''' was a [[Sexes|male]] [[Neimoidian]] official of the [[Trade Federation]] and a high ranking member of the [[Separatist Council]].
 
 ==Biography==
 ===Invasion of Naboo===
@@ -35,6 +35,11 @@ During the [[Separatist Crisis]], Gunray, Haako and their partners from planets 
 At the end of the war, the Separatist Council was called by [[General]] [[Grievous]] to [[Utapau]], following the [[Battle of Coruscant|death]] of Dooku, and were sent to [[Mustafar]] where they resided up until the end of the war. Promised a great reward by Lord Sidious, Haako and the others waited greedily for it to arrive, unaware that they were in fact to be [[Mission to Mustafar|killed]] by [[Darth]] Vader, on Sidious's orders. When Vader arrived, he proceeded to do just that, cutting down all in his path. At one point, Haako pleaded with the Sith Lord to cease the massacre, to no avail, and retreated into the conference room with [[Wat Tambor]] as Vader cut down [[Rute Gunnay]] before his eyes. This, however, did little more than delay their deaths by a few seconds and Vader killed both Haako and Tambor in quick succession, leaving only Gunray to fall moments after.<ref name="Episode III" />
 
 {{Char-stub}}
+
+==Personality and traits==
+A mean and greedy individual, Rune Haako served as Viceroy Gunray's legal counsel.<ref name="Rune's Card">{{ForceCollection|Rune Haako|star=2}}</ref>
+
+A male Neimoidian, Haako stood at 1.96 [[meters]] tall,<ref name="Databank" /> and had [[Color|red]] [[eye]]s and green skin.<ref name="Episode I" />
 
 ==Behind the scenes==
 Rune Haako was played by [[Jerome Blake]] and voiced by [[James Taylor]] in ''[[Star Wars: Episode I The Phantom Menace|The Phantom Menace]]''.<ref name="Episode I" /> In ''[[Star Wars: Episode II Attack of the Clones|Attack of the Clones]]'', he was played by [[Alan Ruscoe]] and voiced by [[Chris Truswell]] (despite the credits identifying him as [[Lott Dod]]),<ref name="Episode II" /> and played by [[Sandy Thompson]] in ''[[Star Wars: Episode III Revenge of the Sith|Revenge of the Sith]]''.<ref name="Episode III" />
@@ -51,6 +56,7 @@ Though Haako's death is never actually shown on screen, [[Ben Burtt]]'s editing 
 *[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones '']]
 *{{TCW|Cloak of Darkness}} {{Imo}}
 *[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+*{{Galaxy of Adventures|Luke vs. Emperor Palpatine - Rise to Evil}} {{Flash}}
 
 ===Non-canon appearances===
 *''[[William Shakespeare's The Phantom of Menace: Star Wars Part the First]]''

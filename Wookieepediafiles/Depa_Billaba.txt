@@ -15,8 +15,7 @@
 |skin=Tan<ref name="Episode I" />
 |cyber=
 |era=
-|affiliation=*[[Depa Billaba's family]]<ref name="A New Dawn" />
-*[[Jedi Order]]<ref name="Databank" />
+|affiliation=*[[Jedi Order]]<ref name="Databank" />
 **[[Jedi High Council]]<ref name="Databank" />
 *[[Galactic Republic]]<ref name="A New Dawn" />
 **[[Depa Billaba's battalion]]<ref name="Kanan 1">''[[Kanan 1: The Last Padawan, Part I: Fight]]''</ref>

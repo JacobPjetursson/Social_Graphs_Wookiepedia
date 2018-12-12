@@ -18,7 +18,7 @@
 |affiliation=[[Naberrie family]]<ref name="Episode III" />
 |masters=
 |apprentices=}}
-'''Ryoo Naberrie''' was a [[human]] [[Sexes|female]] who lived during the [[Fall of the Republic|decline and fall]] of the [[Galactic Republic]]. The daughter of [[Sola Naberrie]], she had a younger sister named [[Pooja Naberrie|Pooja]].{{Fact}} At the [[Proclamation of the New Order|dawn]] of the [[Galactic Empire]], Naberrie and her [[Naberrie family|family]] attended the [[Funeral of Padmé Amidala|funeral]] of her [[Parent|mother's]] sister, [[Padmé Amidala]] on [[Naboo]]. She had [[Color|brown]] [[hair]], brown [[eye]]s, and fair skin.<ref name="Episode III" />
+'''Ryoo Naberrie''' was a [[human]] [[Sexes|female]] who lived during the [[Fall of the Republic|decline and fall]] of the [[Galactic Republic]]. At the [[Proclamation of the New Order|dawn]] of the [[Galactic Empire]], Naberrie and her [[Naberrie family|family]] attended the [[Funeral of Padmé Amidala|funeral]] of [[Padmé Amidala]] on [[Naboo]]. She had [[Color|brown]] [[hair]], brown [[eye]]s, and fair skin.<ref name="Episode III" />
 
 ==Behind the scenes==
 Ryoo Naberrie was played by the actress [[Keira Wingate]].<ref name="Episode III" /> She appeared in scenes deleted from [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']],<ref name="Complete Saga">''[[Star Wars: The Complete Saga]]''</ref> before officially appearing in Amidala's funeral in [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']].<ref name="Episode III" />
@@ -34,6 +34,7 @@ Ryoo Naberrie was played by the actress [[Keira Wingate]].<ref name="Episode III
 |ko=류 나베리
 }}
 
-{{DEFAULTSORT: Naberrie, Ryoo}}
+{{DEFAULTSORT:Naberrie, Ryoo}}
 [[Category:Females]]
+[[Category:House Naberrie]]
 [[Category:Humans]]

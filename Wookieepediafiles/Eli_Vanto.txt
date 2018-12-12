@@ -17,6 +17,8 @@
 |cyber=
 |era=
 |affiliation=*[[Galactic Empire]]<ref name="Thrawn" />
+**[[Royal Imperial Academy]]<ref name="Thrawn" />
+**[[Imperial Officer Corps]]<ref name="Thrawn" />
 **[[96th Task Force]]<ref name="Thrawn" />
 *[[Chiss Ascendancy]]<ref name="Thrawn" />
 |masters=
@@ -216,6 +218,7 @@ Eli Vanto first appeared as the [[Wikipedia:Deuteragonist|deuteragonist]] of [[T
 *''[[Thrawn, Part V]]''
 *''[[Thrawn, Part VI]]''
 *''[[Thrawn: Alliances]]'' {{Mo}}
+*''[[Thrawn: Treason]]''
 
 ==Sources==
 *''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''

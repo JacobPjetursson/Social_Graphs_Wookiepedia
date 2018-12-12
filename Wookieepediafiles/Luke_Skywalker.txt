@@ -366,9 +366,9 @@ He found a dozen Force-sensitives who became his Padawans, including his nephew,
 [[File:Luke's Mistake.png|thumb|right|300px|Sensing the darkness within Ben Solo, Skywalker instinctively moved to strike down his nephew.]]
 During this time, a powerful dark side-practitioner known as [[Snoke]], who was the [[Supreme Leader]] of a splinter group of the Empire known as the [[First Order]], began influencing Ben from afar, clouding him with the dark side. Luke sensed this and, one night, began to probe Ben's mind as he lay asleep. Seeing that Snoke had overthrown his apprentice's heart with the dark side, Luke claimed that he sensed that Ben would bring nothing but death and destruction if he did not act, and for a brief moment raised his lightsaber to destroy him, believing that it was the only way to halt his descent into darkness. This instinct was gone almost the second that it had come, and Luke was immediately filled with shame.
 
-Ben had already awoken to see his uncle standing over him with his lightsaber raised. Confused and angry, Ben [[Force pull|pulled]] his own [[Ben Solo's lightsaber|lightsaber]] to him in self-defense and attacked Luke, using the Force to pull down the hut on top of him. When Luke came around, he emerged from the rubble of the hut to find his temple destroyed, with his other apprentices either killed or gone to follow Ben. Ben eventually became the apprentice of Snoke and took the new name "Kylo Ren", becoming the leader of a group of dark side warriors known as the [[Knights of Ren]], some of which included Luke's other apprentices that survived.
+Ben had already awoken to see his uncle standing over him with his lightsaber raised. Confused and angry, Ben [[Force pull|pulled]] his own [[Ben Solo's lightsaber|lightsaber]] to him in self-defense and attacked Luke, using the Force to pull down the hut on top of him. When Luke came around, he emerged from the rubble of the hut to find his temple destroyed, with his other apprentices either killed or gone to follow Ben. Ben eventually became the apprentice of Snoke and took the new name "Kylo Ren", becoming the leader of a group of dark side warriors known as the [[Knights of Ren]].
 
-Left deeply affected and mentally broken by what he believed to be his ultimate failure, Luke lost faith in the Force and the vision of the Jedi, and fled into self-imposed exile, vanishing from the galaxy at-large without a trace. No one knew for sure where he went, but those closest to him believed he went off in search of the [[first Jedi Temple]]. The Jedi Master eventually discovered the location of the Temple on an aquatic planet named [[Ahch-To]], where he made his exile and shut himself off from the Force.<ref name="Episode VII" />
+Left deeply affected and mentally broken by what he believed to be his ultimate failure, Luke lost faith in the Force and the vision of the Jedi, and fled into self-imposed exile, vanishing from the galaxy at-large without a trace. No one knew for sure where he went, but those closest to him believed he went off in search of the [[first Jedi Temple]]. The Jedi Master eventually discovered the location of the Temple<ref name="Episode VII" /> on an aquatic planet named [[Ahch-To]], where he made his exile and shut himself off from the Force. After leaving his purposely crash-landed X-wing in a shallow inlet of the ocean<ref name="Episode VIII" /> he salavged an [[S-foils|S-foil]] which he used as a door on his [[Luke's hut|hut]].<ref name="TLJ VD" />
 
 [[File:Force Vision of Jedi Massacre TFA.png|thumb|left|300px|Solo destroyed the new generation of Jedi, leaving Skywalker with shame and remorse.]]
 To those who knew what Skywalker was seeking, there remained a way to find him: after destroying the Jedi, the Empire had begun to seek out the thousands of Jedi temples scattered across the galaxy, with the aim to prevent anyone from discovering the lost secrets of the Order. As such, Imperial authorities discovered the locations of some of the first Jedi Temples, including the one on Ahch-To. The information remained within the archives of the Empire, the access to which was severely restricted after the Galactic Civil War. The First Order was able to acquire most of the map, save for a fraction which was apparently stolen by Lor San Tekka. As he had downloaded most of the information possessed by the Empire during his time on the Death Star, R2-D2, Skywalker's faithful astromech, was also able to recover the contents of the map, but only by going into low power mode, which allowed him to sort through the wealth of information present in the Empire's archives.<ref name="TFA novel">[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]</ref>
@@ -513,6 +513,10 @@ In various LEGO releases such as the television series ''[[LEGO Star Wars: Droid
 *''[[Thrawn: Alliances]]'' {{Imo}}
 *{{Rebels|A World Between Worlds}} {{Imo}}
 *[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*{{Galaxy of Adventures|Luke Skywalker - The Journey Begins}}
+*{{Galaxy of Adventures|Han Solo - Galaxy's Best Smuggler}}
+*{{Galaxy of Adventures|Chewie vs. Holochess - Let the Wookiee Win}}
+*{{Galaxy of Adventures|Luke vs. the Death Star - X-wing Assault}}
 *''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]''
 *[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
 *''[[Escape from Darth Vader]]'' {{C|Appears in final page illustration only}}
@@ -658,6 +662,7 @@ In various LEGO releases such as the television series ''[[LEGO Star Wars: Droid
 *''[[Battlefront: Twilight Company]]'' {{Mo}}
 *{{FOD|Beasts of Echo Base}} {{Mo}}
 *[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]
+*{{Galaxy of Adventures|Luke vs. the Wampa - Cavern Escape}}
 *''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
 *[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
 *''[[Episode V: The Empire Strikes Back Read-Along Storybook and CD]]''
@@ -669,6 +674,7 @@ In various LEGO releases such as the television series ''[[LEGO Star Wars: Droid
 *{{FOD|The Path Ahead}}
 *''[[Moving Target: A Princess Leia Adventure]]''
 *[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]
+*{{Galaxy of Adventures|Luke vs. Emperor Palpatine - Rise to Evil}}
 *''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
 *[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
 *''[[Episode VI: Return of the Jedi Read-Along Storybook and CD]]''
@@ -872,6 +878,8 @@ In various LEGO releases such as the television series ''[[LEGO Star Wars: Droid
 *''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
 *''[[Knights of Fate]]''
 *''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
+*''[[Star Wars: Geektionary: The Galaxy From A To Z]]''
 *''[[Star Wars: Women of the Galaxy]]''
 *''[[Star Wars: Smuggler's Guide]]''
 *{{Databank|ahch-to|Ahch-To|archiveurl=https://archive.fo/00bFa}}

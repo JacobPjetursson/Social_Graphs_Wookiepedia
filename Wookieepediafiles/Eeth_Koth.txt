@@ -16,11 +16,11 @@
 |cyber=
 |era=
 |affiliation=*[[Eeth Koth's family]]<ref name="Darth Vader 19" />
-*[[Jedi Order]]<ref name="Ultimate SW" /> {{C|formerly}}<ref name="Darth Vader 19" />
-**[[Jedi High Council]]<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref> {{C|formerly}}<ref name="Darth Vader 19" />
-**[[Jedi assault team]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref> {{C|formerly}}<ref name="Darth Vader 19" />
-*[[Galactic Republic]]<ref name="Episode I" /> {{C|formerly}}<ref name="Darth Vader 19" />
-**[[Grand Army of the Republic]]<ref name="Grievous Intrigue">{{TCW|Grievous Intrigue}}</ref> {{C|formerly}}<ref name="Darth Vader 19" />
+*[[Jedi Order]]<ref name="Ultimate SW" />
+**[[Jedi High Council]]<ref name="Episode I">[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]</ref>
+**[[Jedi assault team]]<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+*[[Galactic Republic]]<ref name="Episode I" />
+**[[Grand Army of the Republic]]<ref name="Grievous Intrigue">{{TCW|Grievous Intrigue}}</ref>
 *[[Church of the Ganthic Enlightenment]]<ref name="Darth Vader 19" />
 |masters=
 |apprentices=}}
@@ -34,11 +34,11 @@ Koth was eventually removed from the [[Jedi High Council]] and his seat was give
 Hailing from [[Nar Shaddaa]],<ref name="Character Encyclopedia" /> a crime-infested [[moon]] of the [[Outer Rim Territories]],<ref name="Star Wars 8">''[[Star Wars 8: Showdown on the Smuggler's Moon, Part I]]''</ref> Eeth Koth was discovered to be [[Force-sensitive]] and was brought to the Jedi Temple to be trained as a Jedi at the age of four. He soon became a Jedi Master.<ref name="Character Encyclopedia" />
 
 ===A new threat===
-[[File:Eeth Koth TPM.png|thumb|left|250px|Koth on the Jedi High Council]]
+[[File:Eeth Koth TPM.png|thumb|left|202x202px|Koth on the Jedi High Council]]
 Koth, a [[Sexes|male]] [[Zabrak]], served as a member of the [[Jedi High Council]] around the time of the [[Battle of Naboo]] in 32 BBY and the revelation of the new [[Sith]] presence of [[Darth Sidious]] and his apprentice [[Maul|Darth Maul]]. Koth was present when a nine-year-old [[Anakin Skywalker]] was presented to the council and tested by [[Mace Windu]] for his force abilities and [[midi-chlorian]] count.<ref name="Episode I" /> Because Koth had started his own training at an unusually late age, he was more receptive than his fellow councilors to Jinn's appeal to train Skywalker.<ref name="Character Encyclopedia" /> After Jinn's death, his last words were for Skywalker to be trained so Koth and the rest of the Council consented. Later, he went to [[Funeral of Qui-Gon Jinn|Jinn's funeral]].<ref name="Episode I" />
 
 ===The Separatist Crisis===
-[[File:Jedicouncil2.jpg|thumb|right|275x275px|Koth on the Council during the Separatist Crisis]]
+[[File:Jedicouncil2.jpg|thumb|right|246x246px|Koth on the Council during the Separatist Crisis]]
 Master Koth continued to sit on the Jedi Council during the [[Separatist Crisis]], in [[22 BBY]]. When [[Padmé Amidala]] had several attempts on her life, Koth approved Obi Wan Kenobi to investigate and Skywalker to serve as her [[bodyguard]].<ref name="Episode II" />
 
 ===The Clone Wars===
@@ -47,9 +47,9 @@ To rescue Kenobi, Skywalker and Amidala, Koth followed Master Windu and his [[Je
 Master Koth continued to serve as a member of the Jedi council throughout the early years of the [[Clone Wars]] following the [[Battle of Geonosis]].<ref name="Grievous Intrigue" />
 
 ====Kidnapped by Grievous====
-[[File:Eeth Koth TCW.png|thumb|left|314x314px|Koth facing off against Grievous]]
+[[File:Eeth Koth TCW.png|thumb|left|251x251px|Koth facing off against Grievous]]
 One year into the Clone Wars, Koth's [[flagship]], the ''[[Steadfast]],''<ref name="Ultimate SW" /> was engaged by Separatist forces under the command of [[General]] [[Grievous]]. [[Clone Captain]] [[Lock (Clone Captain)|Lock]] and his [[clone trooper]]s held off the [[B2 super battle droid|super battle droids]] for as long as possible, until Master Koth ordered him and his men to get to the escape pods. As the droid General boarded Koth's ship, the Zabrak Jedi was forced to [[Lightsaber combat|confront]] the [[cyborg]] inside the [[Bridge (starship)|bridge]]. Though he managed to be a worthy opponent for Grevious and possibly could have beat him, he was eventually overpowered by Grievous's [[IG-100 MagnaGuard]]s and taken hostage. Grievous, having bested the Jedi Master, intended to torture him to death. Grievous sent a transmission to the Jedi Temple, gloating over the Jedi's capture and torturing him with his [[IG-100 MagnaGuard|MagnaGuards]]. However, Koth was able to communicate with his fingers via a secret message his location, allowing a Jedi task force to be sent to rescue him.<ref name="Grievous Intrigue" />
-[[File:Koth tortured.png|thumb|316x316px|right|Koth as Grievous's prisoner]]
+[[File:Koth tortured.png|thumb|268x268px|right|Koth as Grievous's prisoner]]
 Recognizing the coordinates as those of the [[Saleucami]] system, the council dispatched Anakin Skywalker, [[Obi-Wan Kenobi]], and [[Adi Gallia]] to rescue Koth. Boarding Grievous's ship secretly, Gallia and Skywalker rescued the Jedi Master while Kenobi engaged Grievous in battle. Fighting their way through numerous droids, they managed to get Koth to safety. After Grievous' escaped via escape pod to Saleucami below, Skywalker and Kenobi followed him while Gallia brought an injured Koth to a medical frigate.<ref name="Grievous Intrigue" />
 
 ====Treachery of Risha Synata====
@@ -59,27 +59,27 @@ Shortly after the [[Senate hostage crisis]],<ref>{{IDWAdventuresCite|12|[[Interm
 In 20 BBY, he was present through holographic form in the Jedi High Council when they discussed about an ancient Jedi Code that was sent to them. They decided to send Kenobi, Skywalker and Skywalker's Padawan, Ahsoka Tano to see what was going on.<ref name="Overlords">{{TCW|Overlords}}</ref>
 
 ====Festival of Light====
-[[File:EethKoth1-SWE.jpg|left|thumb|196x196px|Koth at the time of the Clone Wars.]]
+[[File:EethKoth1-SWE.jpg|left|thumb|183x183px|Koth at the time of the Clone Wars.]]
 Later that year, the [[Festival of Light]], a festival that celebrates Naboo's 847th anniversary for joining the Galactic Republic, he was present at the [[Jedi Temple communication center]] when the Council discussed about Supreme Chancellor Sheev Palpatine's safety. Jedi Masters Windu and Yoda told everyone that Kenobi (who was presumed dead by the hands of bounty hunter [[Rako Hardeen]]), was still alive and undercover as Hardeen. Skywalker, determined, said that he wanted the mission completed.<ref name="Crisis on Naboo">{{TCW|Crisis on Naboo}}</ref>
 
 ====Onderon Civil War====
 Koth was present at the Jedi High Council when they were contacted by the Onderon rebels who asks them to help them defeat the Confederacy of Independent Systems. The Council began arguing as they felt that this would lead to terrorism. However, after listening to Skywalker's argument and realizing that there would be no other way to help the rebels, they agreed to send Skywalker, Tano, Kenobi and [[Rex|CT-7567]] to help them.<ref name="A War on Two Fronts">{{TCW|A War on Two Fronts}}</ref>
 
 ====Bombing of the Jedi Temple hangar====
-In [[19 BBY]], the Jedi Temple [[hangar]] was bombed and [[Letta Turmond]] was put into custody for the incident. She asked to bring Tano in for her to tell something to her, but before she could, she was Force-choked to death. Tano was arrested as she was the only one in the room with Turmond, but she soon escaped.<ref name="The Jedi Who Knew Too Much">{{TCW|The Jedi Who Knew Too Much}}</ref>
+In [[19 BBY]], the [[Jedi Temple]] [[hangar]] was bombed and [[Letta Turmond]] was put into custody for the incident. She asked to bring Tano in for her to tell something to her, but before she could, she was Force-choked to death. Tano was arrested as she was the only one in the room with Turmond, but she soon escaped.<ref name="The Jedi Who Knew Too Much">{{TCW|The Jedi Who Knew Too Much}}</ref>
 
 Koth was present when the Council discussed about how they should catch Tano. Everyone present believed that she was guilty except for Skywalker, Kenobi, and Plo Koon. Because of this, Yoda decided to send them to catch Tano, though with some resistance from Mace Windu, who worried that Skywalker's emotional connection to Tano would further complicate the situation. Tano was ultimately captured.<ref name="To Catch a Jedi">{{TCW|To Catch a Jedi}}</ref>
 
-After this, Koth was present when Wilhuff Tarkin told the Council that he and the Galactic Senate wanted the Council to expel Tano and bring her to a military trial, even though the Council wanted for her to have a standard Jedi trial. After a brief debate, the Council agreed, believing that if they stood by Tano, it would appear that they were defying the Senate. Tano was expelled from the Order after her trial at the Chamber of Judgment. However, during her trial, it was revealed that Tano was innocent and the actual traitor was Barriss Offee, who believed that the Order had lost their way from the light side of the Force.<ref name="The Wrong Jedi">{{TCW|The Wrong Jedi}} </ref>
+After this, Koth was present when Wilhuff Tarkin told the Council that he and the Galactic Senate wanted the Council to expel Tano and bring her to a military trial, even though the Council wanted for her to have a standard Jedi trial. After a brief debate, the Council agreed, believing that if they stood by Tano, it would appear that they were defying the Senate. Tano was expelled from the Order after her trial at the Chamber of Judgment. However, during her trial, it was revealed that Tano was innocent and the actual traitor was [[Barriss Offee]], who believed that the Order had lost their way from the light side of the Force.<ref name="The Wrong Jedi">{{TCW|The Wrong Jedi}} </ref>
 
 ====Rogue Jedi====
-Later, Clone [[trooper]] [[CT-5385]] shot a [[Jedi General]], Tiplar, and killed her and was sent for examination. Shaak Ti went to the Jedi High Council to talk about a tumor while Nala Se wanting to terminate him went with Prime Minister Lama Su. Koth was present while Ti was reporting the situation.<ref name="Conspiracy">{{TCW|Conspiracy}}</ref> Later, Tup's fellow clone trooper, Fives, secretly treated him and found a chip in his brain for Order 66, with Tup dying shortly afterward. Fives stuck with his beliefs, resulting in his death. Koth and his fellow Jedi had no idea that Five's beliefs were the truth.<ref name="Orders">{{TCW|Orders}}</ref>
+Later, Clone [[trooper]] [[CT-5385]] shot a [[Jedi General]], [[Tiplar]], and killed her and was sent for examination. Shaak Ti went to the Jedi High Council to talk about a tumor while [[Nala Se]] wanting to terminate him went with Prime Minister [[Lama Su]]. Koth was present while Ti was reporting the situation.<ref name="Conspiracy">{{TCW|Conspiracy}}</ref> Later, Tup's fellow clone trooper, Fives, secretly treated him and found a chip in his brain for Order 66, with Tup dying shortly afterward. Fives stuck with his beliefs, resulting in his death. Koth and his fellow Jedi had no idea that Five's beliefs were the truth.<ref name="Orders">{{TCW|Orders}}</ref>
 
 ====Bardottan Crisis====
 Queen Julia of Bardotta contacted the Senate and told them of the disappearance of the Dagoyan Masters. Palpatine was about to send Senators Amidala and Organa, but she specifically requested Junior Representative Jar Jar Binks, confusing everyone. He was present when Palpatine reported this to the Council. The Council agreed to send Windu to supervise Binks.<ref name="The Disappeared">{{TCW|The Disappeared, Part I}} </ref>
 
 ====Mission of Oba Diah moon====
-Koth was present on the Jedi Council when Koon said he found the lightsaber of Sifo-Dyas on the Oba Diah moon. Yoda confirmed this and decided to investigate. Later, Koth was present when it was revealed that Dooku was responsible for the purchase of the clones and were forced to keep it a secret so that no one would disrespect the Republic.<ref>{{TCW|The Lost One}} </ref>
+Koth was present on the Jedi Council when Koon said he found the lightsaber of [[Sifo-Dyas]] on the Oba Diah moon. Yoda confirmed this and decided to investigate. Later, Koth was present when it was revealed that Dooku was responsible for the purchase of the clones and were forced to keep it a secret so that no one would disrespect the Republic.<ref>{{TCW|The Lost One}} </ref>
 
 ====The secrets of immortality====
 Koth was present when Yoda became distracted and said that he kept hearing the voice of the deceased Jinn. The Council decided to test if this was true, but Yoda didn't hear it. He decided to go to the hospital, but nothing was wrong with him. The voice of Jinn told him to go to Dagobah to find the secrets of immortality.<ref name="Voices">{{TCW|Voices}} </ref>
@@ -87,15 +87,15 @@ Koth was present when Yoda became distracted and said that he kept hearing the v
 On Dagobah, Yoda had a vision in which the Clone Wars never happened. However, he realized it was a vision when he saw Gallia and Jinn. After this, the vision of Koth vanished.<ref name="Destiny">{{TCW|Destiny}}</ref> Yoda left Dagobah, succeeding his task.<ref name="Sacrifice">{{TCW|Sacrifice}} </ref>
 
 ====Mission to Utapau====
-At some point, Kenobi and Skywalker were sent to Utapau after the death of Jedi Master Tu-Anh. Koth was present when Kenobi reported that the Sugi arm dealers were about to sell a giant kyber crystal. He later reported back when the crystal was destroyed, causing Yoda to talk about stories where the Jedi and Sith fought each other with weapons made of kyber crystals.<ref name="The Big Bang">{{TCW|The Big Bang}}</ref>
+At some point, Kenobi and Skywalker were sent to Utapau after the death of [[Jedi Master]] [[Tu-Anh]]. Koth was present when Kenobi reported that the Sugi arm dealers were about to sell a giant kyber crystal. He later reported back when the crystal was destroyed, causing Yoda to talk about stories where the Jedi and Sith fought each other with weapons made of kyber crystals.<ref name="The Big Bang">{{TCW|The Big Bang}}</ref>
 
 ====End of the war====
-At some point near the end of the Clone Wars, Eeth Koth was removed from the Jedi Council.<ref name="Darth Vader 19" /> He was replaced by Jedi Master [[Agen Kolar]]. Eventually, [[Supreme Chancellor]] [[Sheev Palpatine]], the public persona of [[Darth]] Sidious, destroyed the Jedi Order by issuing the execution of [[Order 66]], forcing the [[clone trooper]]s to kill the Jedi due to a [[control chip]] implanted on them. Aided by Anakin Skywalker, who became the [[Sith Lord]] [[Anakin Skywalker|Darth Vader]], Palpatine established the [[Galactic Empire]] of which he became its [[Galactic Emperor|Emperor]].<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref> By the Emperor's order, the Jedi were [[Jedi Purge|hunted down]] and killed by Darth Vader and the [[Inquisitorius]].<ref name="SW:AEYNtK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref>
+At some point near the end of the Clone Wars, Eeth Koth was removed from the Jedi Council.<ref name="Darth Vader 19" /> He was replaced by Jedi Master [[Agen Kolar]]. Eventually, [[Supreme Chancellor]] [[Sheev Palpatine]], the public persona of [[Darth]] Sidious, destroyed the Jedi Order by issuing the execution of [[Order 66]], forcing the [[clone trooper]]s to kill the Jedi due to a [[control chip]] implanted in their heads. Aided by Anakin Skywalker, who became the [[Sith Lord]] [[Anakin Skywalker|Darth Vader]], Palpatine established the [[Galactic Empire]] of which he became its [[Galactic Emperor|Emperor]].<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref> By the Emperor's order, the Jedi were [[Jedi Purge|hunted down]] and killed by Darth Vader and the [[Inquisitorius]].<ref name="SW:AEYNtK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref>
 
 ===Imperial Era===
-[[File:Dark Lord 19 Duel with Eeth Koth.jpg|thumb|259x259px|Koth duels Darth Vader.]]
+[[File:Dark Lord 19 Duel with Eeth Koth.jpg|thumb|211x211px|Koth duels Darth Vader.]]
 By the [[time]] after the [[hunt on Chandar's Folly]],<ref name="Darth Vader 18">''[[Darth Vader: Dark Lord of the Sith 18: Bad Ground]]''</ref> Koth had no allegiance to the Jedi Order, and became a [[priest]] in the [[Church of the Ganthic Enlightenment]]. He eventually had a [[Eeth Koth's daughter|child]] with a woman named [[Mira (Zabrak)|Mira]]. Mere minutes after his child's birth, however, Darth Vader arrived at their home with three Inquisitors, and confronted Koth. He pleaded with Vader to allow him and his family to remain in peace, and told Vader that he was no longer a Jedi and had no loyalty to his former Order. He then attempted to bargain with Vader, offering him ways to find other survivors of the Purge. Vader ignored him, and a [[lightsaber duel]] ensued.<ref name="Darth Vader 19" />
-[[File:Koths body.jpg|thumb|left|275x275px|Darth Vader hunts and kills Eeth Koth]]
+[[File:Koths body.jpg|thumb|left|269x269px|Darth Vader hunts and kills Eeth Koth]]
 Koth quickly flung a medical droid at Vader and blasted a hole in the wall of the room in order to facilitate the escape of his child and wife. He then engaged Vader, who sensed emotions in Koth that had not been present when the Zabrak had been a Jedi; fear, anger, and resentment. He told Koth that these emotions gave him more power than he could have ever had as a Jedi, and Koth quipped that it was either his Zabrak nature shining through, or he fact that he now had something to lose. Vader replied that it was too late regardless and blasted Koth away with the Force.<ref name="Darth Vader 19" />
 
 Vader ordered the three Inquisitors to steal the baby, but remarked that the mother's fate was irrelevant to him. Koth regained his feet and attacked again, and rebuffed Vader's label of Jedi with the remark that he was now a husband and a father, and that he would protect his family. During their duel, one of the Inquisitors was able to steal the child from Koth's wife. Unaware of what had transpired, the battered Koth reiterated that he would save his family, and Vader pointed out the child in the grasp of one of the [[Unidentified female Inquisitor|Inquisitors]]. The sight of his child distracted Koth, and Vader ruthlessly used the opportunity to impale the Zabrak through the back, killing him. The Jedi's [[Eeth Koth's lightsaber|lightsaber]] fell put of hand as he died, and his child was brought back to Coruscant and given to the [[Nursemaids]] to be used for Project Harvester.<ref name="Darth Vader 19" />
@@ -108,7 +108,7 @@ Two of the three Inquisitors on that mission toasted to Koth's death and each dr
 
 ==Personality and traits==
 {{Quote|I will save my family.|Eeth Koth to Darth Vader|Darth Vader: Dark Lord of the Sith 19: Fortress Vader, Part I}}
-[[File:Koth's tatoos.jpg|thumb|right|122x122px|Eeth Koth's face and tattoos.]]
+[[File:Koth's tatoos.jpg|thumb|right|132x132px|Eeth Koth's face and tattoos.]]
 A [[Zabrak]] male of 1.71 meters, having black hair, brown eyes, and tan skin. Eeth Koth served as a Jedi Master in the Jedi Order.<ref name="Character Encyclopedia" /> When he sat on the High Jedi Council, Koth supported Qui-Gon Jinn's petition to train the young Anakin Skywalker as a Jedi despite being too old for training,<ref name="Episode I" /> as he felt identified with Skywalker given that he started his training at an unusually late age.<ref name="Character Encyclopedia" />
 
 As a Jedi, Eeth Koth maintained a firm control over his emotions. His feelings were sufficiently tempered for him to sit for many years upon the Jedi High Council, the Order's governing body. At some point after his removal from the Council, Koth became disillusioned with the Jedi Order and turned his back on it. After his marriage, his priorities shifted to [[Eeth Koth's family|his family]]. Koth resolved to settle into a quiet life as a priest, officiating [[Marriage|weddings]] and [[funeral]]s for the Church of the Ganthic Enlightenment.<ref name="Darth Vader 19" />
@@ -119,14 +119,14 @@ Koth's newfound attachment to his family ultimately proved to be his downfall. V
 
 ==Powers and abilities==
 {{Quote|Perhaps it's the Zabrak in me.|Eeth Koth|Darth Vader: Dark Lord of the Sith 19: Fortress Vader, Part I}}
-[[File:Vader vs Koth.jpg|thumb|left|250px|Eeth Koth attacks Darth Vader]]
+[[File:Vader vs Koth.jpg|thumb|left|235x235px|Eeth Koth attacks Darth Vader]]
 Eeth Koth was one of the most skilled lightsaber duelists within the Jedi Order. He was able to defend himself against General Grievous despite having been shot in the arm moments before, and though he overpowered the General through the use of the Force rather than through swordplay, defeating him required the intervention of Grievous's Magnaguards.<ref name="Grievous Intrigue" /> He had also effectively held his own against Darth Vader, appearing to be only somewhat battered from Force based attacks at the conclusion of the duel proper. His power in the Force was also quite substantial, as he was able to blast a large hole in a thick stone wall while simultaneously hurling a medical droid at Vader.<ref name="Darth Vader 19" /> He was also able to blast Grievous into a window with enough power to stun the General.<ref name="Grievous Intrigue" />
 
 ==Equipment==
 Eeth Koth wielded a [[Eeth Koth's lightsaber|green lightsaber]] and used to wear [[Jedi robes]]. During the [[Imperial Era]], he wore [[priest]] attire.<ref name="Grievous Intrigue" />
 
 ==Behind the scenes==
-[[File:Koth-concept art.jpg|thumb|right|200px|Concept art of Eeth Koth by Iain McCaig]]
+[[File:Koth-concept art.jpg|thumb|right|263x263px|Concept art of Eeth Koth by Iain McCaig]]
 Eeth Koth first appeared in the [[1999]] film [[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']], where he was originally intended to serve as the leader of the Jedi Council. Concept Artist [[Iain McCaig]] based early sketches of the character on [[Doug Chiang]], the leader of the Art Department.<ref name="old-db-bts">{{DB|character|eethkoth|Eeth Koth}}</ref>
 
 Koth was portrayed by actor [[Hassani Shapi]] in Episode I, and archival footage of Shapi was reused for the Jedi Council scenes in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]. In his appearances during the mission to Geonosis, he was played by local performer Tux Akindoyeni, as the scenes were shot in Australia. Visual differences between the two portrayals eventually prompted [[Lucasfilm Ltd.]] to establish Akindoyeni's character as [[Agen Kolar]], a new Jedi Master, although production paperwork such as scripts and call sheets continued to refer to both of them as Eeth Koth.<ref name="old-db-bts" />

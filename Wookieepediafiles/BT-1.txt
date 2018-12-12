@@ -1,7 +1,6 @@
 {{Eras}}
 {{Expand}}
 {{Image}}
-{{Majorspoiler|Doctor Aphra 25: The Catastrophe Con, Part VI|''}}
 {{Droid
 |image=[[File:BT-1.png]]
 |name=BT-1
@@ -152,6 +151,7 @@ In the New York Comic Con 2018, it was revealed that an action figure of BT-1 is
 {{Reflist}}
 
 {{Interlang
+|ka=BT-1
 |ru=BT-1}}
 
 [[Category:Assassin droids]]

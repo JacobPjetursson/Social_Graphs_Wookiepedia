@@ -57,6 +57,10 @@ Initially, it was undecided how Medon was to be realized onscreen&ndash;whether 
 ==Notes and references==
 {{Reflist}}
 
+{{Interlang
+|uk=Тіон Медон
+}}
+
 {{DEFAULTSORT:Medon, Tion}}
 [[Category:Males]]
 [[Category:Pau'ans]]

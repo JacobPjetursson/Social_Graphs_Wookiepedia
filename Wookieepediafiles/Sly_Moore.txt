@@ -21,11 +21,11 @@
 *[[Galactic Empire]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
 |masters=
 |apprentices=}}
-'''Sly Moore''', an [[Umbaran]] [[Sexes|female]] with the alleged ability to manipulate the [[Brain|minds]] of others, was the senior administrative [[aide]] of [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] during the [[Fall of the Republic|final years]] of the [[Galactic Republic]]. She would ultimately stand at the chancellor's side along with [[Vice Chair]] [[Mas Amedda]] on the [[Empire Day|day]] Palpatine ended the [[Clone Wars]] and [[Proclamation of the New Order|anointed]] himself [[Galactic Emperor|Emperor]] of the [[Galactic Empire|First Galactic Empire]].
+'''Sly Moore''', an [[Umbaran]] [[Sexes|female]] [[Force Adept/Canon|Force Adept]] with the alleged ability to manipulate the [[Brain|minds]] of others, was the senior administrative [[aide]] of [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] during the [[Fall of the Republic|final years]] of the [[Galactic Republic]]. She would ultimately stand at the chancellor's side along with [[Vice Chair]] [[Mas Amedda]] on the [[Empire Day|day]] Palpatine ended the [[Clone Wars]] and [[Proclamation of the New Order|anointed]] himself [[Galactic Emperor|Emperor]] of the [[Galactic Empire|First Galactic Empire]].
 
 ==Biography==
 ===Early career===
-A [[Homeworld|native]] to the [[planet]] [[Umbara]], Sly Moore served as the senior administrative [[aide]] to [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]]&mdash;who was, in secret, [[Darth]] Sidious, the [[Dark Lord of the Sith]]&mdash;following his election to that office,<ref name="Ultimate Star Wars" /> and stood beside both the Chancellor and [[Vice Chair]] [[Mas Amedda]] atop the [[Chancellor's podium]] in the center of the [[Galactic Senate Chamber]], located in the [[Senate Building]] on the [[planet]] [[Coruscant]], during sessions of the [[Galactic Senate]].<ref name="Episode II" /> Her past prior to her association with Palpatine was shrouded in mystery.<ref name="DB Sly Moore" />
+A [[Force-sensitive]]<ref name="Sly's Card">{{ForceCollection|Sly Moore|star=3}}</ref> [[Homeworld|native]] of the [[planet]] [[Umbara]], Sly Moore served as the senior administrative [[aide]] to [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]]&mdash;who was, in secret, [[Darth]] Sidious, the [[Dark Lord of the Sith]]&mdash;following his election to that office,<ref name="Ultimate Star Wars" /> and stood beside both the Chancellor and [[Vice Chair]] [[Mas Amedda]] atop the [[Chancellor's podium]] in the center of the [[Galactic Senate Chamber]], located in the [[Senate Building]] on the [[planet]] [[Coruscant]], during sessions of the [[Galactic Senate]].<ref name="Episode II" /> Her past prior to her association with Palpatine was shrouded in mystery,<ref name="DB Sly Moore" /> but she was aware of Palpatine's dual role as Chancellor and [[Sith Master]].<ref name="Sly's Card" />
 
 ===The Separatist Crisis===
 She was present in the session of the Galactic Senate in which [[Junior Representative]] [[Jar Jar Binks]] of [[Naboo]] proposed that Palpatine be given emergency executive powers in order to combat the alleged [[Separatist Crisis|threat]] that the [[Confederacy of Independent Systems]] posed to the Republic. The proposal was successful, and Palpatine declared that the [[Clone trooper|clone army]] created in secret on [[Kamino]] would become the [[Grand Army of the Republic]].<ref name="Episode II" />
@@ -83,5 +83,6 @@ Sly Moore was originally created for the [[2002]] film [[Star Wars: Episode II A
 [[Category:Bureaucrats of the Galactic Empire]]
 [[Category:Clerical workers and assistants]]
 [[Category:Females]]
+[[Category:Force Adepts]]
 [[Category:Galactic Republic bureaucrats]]
 [[Category:Umbarans]]

@@ -108,9 +108,9 @@ Sometime after [[Phasma]]'s recruitment and Brendol's return from his shipwreck 
 [[File:Hux.jpg|thumb|220px|right|Armitage Hux adopted his father's practices and ruthlessly trained the stormtroopers of the First Order.]]
 Eventually, the First Order arose from the ashes of the defeated Empire. Armitage Hux, having grown up hearing his father's stories about how the Empire saved the galaxy from the chaos of the Clone Wars, followed in his footsteps and became a general within its ranks. Armitage adopted his father's practices to ruthlessly train a new generation of specially-bred [[Stormtrooper (First Order)|stormtroopers]] to help destroy the Republic and restore what he saw as order to a chaotic galaxy.<ref name="TFA Visual Dictionary" /> General Hux, the commander of the [[superweapon]] known as [[Starkiller Base]], delivered a devastating blow to the New Republic by destroying its capital of [[Hosnian Prime]], but the base was destroyed by the [[Resistance]] that had been formed to combat the First Order. General Hux and the First Order, however, lived on to continue fighting.<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
 
-In addition, [[Cardinal]] was considered to be one of Brendol's best recruits and right-hand man, someone who would earn even the high regard of Supreme Leader Snoke himself. Cardinal would personally head the physical training for the stormtrooper program. He would eventually come to blows with both Phasma and Armitage for their roles in the death of Brendol Hux. His first attempt to kill Phasma would fail, leading to him coming close to death and necessitating the aid of Resistance operative and spy [[Vi Moradi]]. His fate thereafter would remain unknown for some time.<ref name="Phasma" />
+In addition, [[Cardinal]] was considered to be one of Brendol's best recruits and right-hand man, someone who was spoken highly of by [[Supreme Leader]] [[Snoke]] himself. Cardinal personally head the physical training for the stormtrooper program and eventually came to blows with both Phasma and Armitage for their roles in the death of Brendol. His attempt to kill Phasma failed, leading to him coming close to death and necessitating the aid of Resistance operative and spy [[Vi Moradi]].<ref name="Phasma" />
 
-By [[34 ABY]], some First Order officers felt that Brendol would have likely been a preferred option to take the reins of Palpatine's Empire before [[Snoke]] rose to become the First Order's [[Supreme Leader]].<ref name="Expanded Edition">''[[Star Wars: The Last Jedi: Expanded Edition]]''</ref>
+By [[34 ABY]], some First Order officers felt that Brendol would have likely been a preferred option to take the reins of Palpatine's Empire before Snoke rose to become the First Order's Supreme Leader.<ref name="Expanded Edition">''[[Star Wars: The Last Jedi: Expanded Edition]]''</ref>
 
 ==Personality and traits==
 {{Quote|Buy salt, sir. Give it to your nerfs.''"<br>"''So you would coddle their weaknesses? Is that any way to create a strong herd, cadet?|Zare and Hux; Hux was a firm believer in natural selection|Servants of the Empire: The Secret Academy}}
@@ -161,6 +161,7 @@ The character was created by Jason Fry, who upon being given story material for 
 }}
 
 {{DEFAULTSORT:Hux, Brendol}}
+[[Category:Galactic Republic military officers]]
 [[Category:Humans]]
 [[Category:Leaders of the First Order]]
 [[Category:Males]]

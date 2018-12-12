@@ -218,7 +218,8 @@ In ''The Resistance Rises'', which is set after the Galactic Civil War, the pira
 *{{The Resistance Rises|Hunting for Han}}
 *''[[LEGO Star Wars: The Force Awakens]]''
 *''[[Star Tours: The Adventures Continue]]''
-*{{All-Stars|What Goes Up}} {{Flash}}
+*{{All-Stars|What Goes Up... (episode)|What Goes Up...}} {{Flash}}
+*{{All-Stars|Scouting for Leia/A Mission with Maz}}
 
 ==Sources==
 {{Scroll_box|content=
@@ -238,6 +239,7 @@ In ''The Resistance Rises'', which is set after the Galactic Civil War, the pira
 *''[[Forces of Destiny: Tales of Hope & Courage]]''
 *''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
 *''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*''[[Star Wars: Geektionary: The Galaxy From A To Z]]''
 *''[[Star Wars: Women of the Galaxy]]''
 *''[[Star Wars: Smuggler's Guide]]''
 *{{Databank|anakin-luke-and-reys-lightsaber|Anakin, Luke, and Rey's Lightsaber|archivedate=20170504204540}}

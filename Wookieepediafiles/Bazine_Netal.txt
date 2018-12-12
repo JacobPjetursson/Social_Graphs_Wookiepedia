@@ -1,5 +1,5 @@
 {{Eras}}
-{{Update|[[Lando's Luck]], [[Flight of the Falcon, Part 1: Spy Games]]}}
+{{Update|[[Lando's Luck]]}}
 {{Expand}}
 {{Character
 |type=Criminal
@@ -35,7 +35,6 @@ When Netal was fourteen [[Standard year|years]] old, Kloda sent her to steal an 
 Thereafter, Netal became a feared [[bounty hunter]] and master of disguise, learning from teachers other than Kloda as well. At some point, she adopted the pseudonym "Bazine Netal." She based her operations on Chaaktil around [[Suli's cantina]].<ref name="PerfectWeapon" />
 
 ===Mission to Vashka===
-[[File:Bazine Netal EaW.png|left|thumb|250px|Netal armed with a thermal detonator]]
 Six years after having left Chaako [[City]], Netal received an assignment from an anonymous client. Her assignment was to retrieve a [[steel]] case which was in the possession of former [[Galactic Empire|Imperial]] [[stormtrooper]] [[Jor Tribulus]]. Netal's client warned her that a competitor known as "[[Narglatch]]" would also be hunting for the case.<ref name="PerfectWeapon" />
 
 Netal visited Kloda in order to borrow his [[Starship|ship]], the ''[[Sparrowhawk]]''. Kloda leant her the vessel on the condition that she take Kloda's student, the skilled [[Pantoran]] [[slicer]] [[Orri Tenro]], along on her mission as a part of his training. Reluctantly, Netal agreed, hoping that Tenro's slicing ability would outweigh the risk he posed to her [[Mission to Vashka|mission]]. As they left for the planet [[Vashka]], Tenro proved to be incompetent with anything aside from [[computer]]s.<ref name="PerfectWeapon" />
@@ -48,9 +47,15 @@ Netal was taken by surprise when Kloda appeared and revealed that he was Narglat
 
 Using the materials Nightdrifter had buried with Tribulus, Netal was able to escape the building. She threw a detonator ahead of Kloda's narglatch, creating a hole in the ground and trapping Kloda. After a brief struggle, Netal killed Kloda and returned to the ''Sparrowhawk'' with the case.<ref name="PerfectWeapon" />
 
+===Searching for the ''Millennium Falcon''===
+[[File:Bazine Netal and IG-88.JPG|thumb|left|249x249px|Netal and IG-88 discussing about the ''Millennium Falcon''.]]
+Netal at some point was searching for the ''[[Millennium Falcon]]''. She heard that their was a rumor that [[IG-88]] nearly caught it, so she met up with IG-88 to discuss about the ''Millennium Falcon''. During their discussion, IG-88 told Netal the story when he almost caught the ''Millennium Falcon''. IG-88 also told Netal that he almost had the ''Millennium Falcon'' again, but [[bounty hunter]] [[Boba Fett]] got to [[Han Solo]] and the ''Millennium Falcon'' first. Netal responded that IG-88 had a lot of excuses and that her employer only paid for results. Before she left to continue her search, Netal informed IG-88 that someone knew where the ''Falcon'' was and that they would tell her where it was.<ref name="Flight of the Falcon 1">{{IDWAdventuresCite|14|[[Flight of the Falcon, Part 1: Spy Games]]}}</ref>
+
+Netal later met with two [[droid]]s named [[Doc (droid)|Doc]] and [[Teetee]]. They told Netal a story of when they encountered the ''Millennium Falcon'' on [[Lotho Minor]]. After the story, Netal told them that it wasn't even close to what she wanted. When she asked where she could find the ''Millennium Falcon'', the pair didn't know as they hadn't seen it since Lotho Minor. Netal became angry but Teetee said that he knew the bounty hunter [[Embo]] had come into contact with her quarry. Netal left the droids and went to find Embo.<ref name="Flight of the Falcon 2">{{IDWAdventuresCite|15|[[Flight of the Falcon, Part 2: The Planet of Misfit Droids]]}}</ref>
+
 ===First Order spy===
 [[File:Bazine reporting.png|thumb|right|250px|Netal reported a sighting of BB-8 to the First Order.]]
-During the [[First Order]]'s [[Cold war|conflict]] with the [[Resistance]], Netal served as one of the Order's [[Spy|spies]]. When she was at [[Maz Kanata]]'s [[Maz Kanata's castle|castle]] on [[Takodana]], Netal posed as [[Grummgar]]'s girlfriend.{{Fact}} As soon as the ''[[Millennium Falcon]]''{{'}}s captain [[Han Solo]] arrived with [[Rey]], [[Finn]], and [[BB-8]], she informed the Order of the [[droid]]'s location.<ref name="TFA" />
+During the [[First Order]]'s [[Cold war|conflict]] with the [[Resistance]], Netal served as one of the Order's [[Spy|spies]]. When she was at [[Maz Kanata]]'s [[Maz Kanata's castle|castle]] on [[Takodana]], Netal posed as [[Grummgar]]'s girlfriend.{{Fact}} As soon as the ''Millennium Falcon''{{'}}s captain Han Solo arrived with [[Rey]], [[Finn]], and [[BB-8]], she informed the Order of the droid's location.<ref name="TFA" />
 
 ==Personality and traits==
 Bazine Netal was intelligent and calculating, traits that served her well in her job. She was also elusive, as she was skilled at playing lowly aliens and would not reveal her past to anyone.<ref name="PerfectWeapon" /> She was extremely secretive as well.{{Fact}}

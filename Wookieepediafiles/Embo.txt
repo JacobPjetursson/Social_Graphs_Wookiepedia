@@ -1,4 +1,5 @@
 {{Eras}}
+{{Update|[[Flight of the Falcon, Part 2: The Planet of Misfit Droids]]}}
 {{Character
 |type=Bounty hunter
 |image=[[File:EmboHS-TB.png]]
@@ -46,7 +47,7 @@ Embo then traveled to [[Naboo]] to carry out the daring mission. The hunters suc
 Embo did not remain in Republic custody for long, however. Some time later, he and Marrok were seen sharing a table at [[Chalmun's Cantina]], while the pair were also present outside a hut in [[Mos Eisley|the town]].<ref name="Bounty">{{TCW|Bounty (episode)|Bounty}}</ref>
 
 ====Employed by the Hutts====
-[[File:BountyHunterTableDance-Eminence.png|thumb|left|250px|Embo prepares to defend his employers.]]
+[[File:BountyHunterTableDance-Eminence.png|thumb|right|250px|Embo prepares to defend his employers.]]
 Some time later, Embo was employed by the [[Grand Hutt Council]] as a [[bodyguard]], along with Sugi, [[Dengar]] and [[Latts Razzi]]. When [[Maul|Darth Maul]] and his brother, [[Savage Opress]], representing the [[Shadow Collective]], [[Mission to Nal Hutta|threatened]] the [[Hutt Clan|Hutts]], Embo and the others sprang into action to defend their employers. At first the bounty hunters were able to beat the brothers back, but they were driven back when the forces of [[Death Watch]] joined in the attack. Embo went up against Opress on his own, saved from the [[Nightbrothers|Nightbrother]] only by the strength of his hat. When it was clear that they couldn't win, Embo and the others retreated, abandoning their employers.<ref name="Eminence" />
 
 ====Targeting Clovis====
@@ -66,7 +67,7 @@ After escaping her captors, Jas headed to the [[hangar]] only to find Embo and D
 
 Later, Jas Emari and the [[New Republic]] operative [[Norra Wexley]] returned to Niima's temple. In return for ferrying Niima back to her temple, the Hutt crime lady had outfitted them with an old [[Galactic Empire|Imperial]] shuttle, old [[Clothing|uniforms]], and clearance codes to enter the [[Main Imperial base]] on Jakku. Embo and the rest of Swift's party cornered Jas and Niima. While Norra escaped with her [[Temmin Wexley|son's]] [[droid]] [[Mister Bones]] aboard the shuttle, Jas stayed behind in order to allow Norra to proceed with her mission to capture [[Grand Admiral]] [[Rae Sloane]].<ref name="Empire's End" />
 
-Following Emari's capture, Swift attempted to travel to [[Nar Shaddaa]] to deliver Jas to Boss Gyuti. However, they were unable to leave due to the [[Battle of Jakku]]. During the wait, Jas managed to convince Embo, Dengar, and Jeeta to turn against Swift. She offered to secure them [[pardon]]s from the New Republic if they switched sides. Swift tried to object but was thrown out of the shuttle by Jas with the help of Dengar. Embo, Jeeta, and Dengar then became Jas' crew. They took Swift's shuttle to the [[Jakku Observatory]] where they picked up Norra, who had joined forces with Sloane and her estranged [[Marriage|husband]] [[Brentin Lore Wexley]] to stop [[Gallius Rax]] from destroying Jakku as part of the late [[Galactic Emperor|Emperor's]] [[Contingency]] plan.<ref name="Empire's End" />
+Following Emari's capture, Swift attempted to travel to [[Nar Shaddaa]] to deliver Jas to Boss Gyuti. However, they were unable to leave due to the [[Battle of Jakku]]. During the wait, Jas managed to convince Embo, Dengar, and Jeeta to turn against Swift. She offered to secure them pardons from the New Republic if they switched sides. Swift tried to object but was thrown out of the shuttle by Jas with the help of Dengar. Embo, Jeeta, and Dengar then became Jas' crew. They took Swift's shuttle to the [[Jakku Observatory]] where they picked up Norra, who had joined forces with Sloane and her estranged [[Marriage|husband]] [[Brentin Lore Wexley]] to stop [[Gallius Rax]] from destroying Jakku as part of the late [[Galactic Emperor|Emperor's]] [[Contingency]] plan.<ref name="Empire's End" />
 
 ====After the Battle of Jakku====
 Following the Battle of Jakku and the [[Galactic Concordance]], Embo and the rest of Emari's crew received full pardons from the New Republic with the help of Jas' friend [[Sinjir Rath Velus]], a former Imperial [[loyalty officer]] who had become an [[Advisor|adviser]] to [[Chancellor (New Republic)|Chancellor]] [[Mon Mothma]]. They also received enough [[Currency|money]] from the New Republic and continued to work with Emari as her crew.<ref name="Empire's End" />
@@ -108,6 +109,7 @@ Before the cancellation of [[Star Wars: The Clone Wars (TV series)|The Clone War
 *''[[Dark Disciple (audiobook)]]''
 *{{Rebels|Fighter Flight}} {{C|Appears in [[graffiti]] only}}
 *''[[Aftermath: Empire's End]]''
+*{{IDWAdventuresCite|15|[[Flight of the Falcon, Part 2: The Planet of Misfit Droids]]}} {{Imo}}
 
 ===Non-canon appearances===
 *{{Droid Tales|Crisis on Coruscant (episode)|Crisis on Coruscant}} {{Mo}}

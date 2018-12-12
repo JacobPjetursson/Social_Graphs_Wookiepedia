@@ -5,17 +5,17 @@
 |name=Sim Aloo
 |homeworld=
 |birth=
-|death=[[4 ABY]], [[Death Star II]]<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref> {{C|Presumably}}<ref name="DB Sim">{{Databank|sim-aloo|Sim Aloo|archiveurl=https://web.archive.org/web/20160520064348/http://www.starwars.com/databank/sim-aloo}}</ref>
+|death=[[4 ABY]], [[Death Star II]], [[Endor system]] {{C|presumably}}<ref name="DB Sim">{{Databank|sim-aloo|Sim Aloo|archiveurl=https://web.archive.org/web/20160520064348/http://www.starwars.com/databank/sim-aloo}}</ref>
 |species=[[Human]]<ref name="DB Sim" />
 |gender=[[Sexes|Male]]<ref name="DB Sim" />
 |height=
 |mass=
 |hair=[[Color|Gray]]<ref name="Visual Encyclopedia">''[[Star Wars: The Visual Encyclopedia]]''</ref>
-|eyes=Blue<ref name="Episode VI" />
+|eyes=Blue<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
 |skin=Light<ref name="Episode VI" />
 |cyber=
 |era=
-|affiliation=*[[Aloo family]] <ref name="Mighty Chewbacca">''[[The Mighty Chewbacca in the Forest of Fear!]]''</ref>
+|affiliation=*[[Aloo family]]<ref name="Mighty Chewbacca">''[[The Mighty Chewbacca in the Forest of Fear!]]''</ref>
 *[[Galactic Empire]]<ref name="Episode VI" />
 |masters=
 |apprentices=}}

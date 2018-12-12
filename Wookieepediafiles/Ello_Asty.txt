@@ -1,5 +1,4 @@
 {{Eras}}
-{{Majorspoiler|The Children of Tehar}}
 {{Youmay|the [[Resistance pilot]]|the [[protocol droid]], [[T-2L0]] or "Ello"}}
 {{Update|[[Poe Dameron 28: The Awakening, Part III]]}}
 {{Character
@@ -69,7 +68,7 @@ Ello Asty appears in the [[2015]] ''[[Star Wars]]'' saga film [[Star Wars: Episo
 [[File:LegoElloAsty.jpg|left|thumb|160px|Ello Asty in LEGO form]]
 Asty is one of the pilots to appear in the "[[X-wing starfighter|X-wings]] Prepare for [[Lightspeed]]" deleted scene, which features the Resistance pilots taking off for the Starkiller Base battle.<ref name="Episode VII" />
 
-Although an Abednedo identical to Asty appears in the episode "[[The Recruit]]" in the [[2018]] animated series ''[[Star Wars Resistance]],'' it was not confirmed to be him.<ref name="The Recruit">{{Resistance|The Recruit}}</ref> Asty however later appeared briefly in the episode "[[The Children from Tehar]]" voiced once more by Matthew Wood who had voiced the character for the film.<ref name="TCFT" />
+Although an Abednedo identical to Asty appears in the episode "[[The Recruit]]" in the [[2018]] animated series ''[[Star Wars Resistance]],'' it was not confirmed to be him.<ref name="The Recruit">{{Resistance|The Recruit}}</ref> Asty however later appeared briefly in the episode "[[The Children from Tehar]]" voiced once more by Matthew Wood who had voiced the character for the film.<ref name="TCFT" /> His design for the series was developed by [[Lucasfilm Animation]] artist [[Jim Moore]].<ref name="Station Theta-Black Concept Gallery">{{SW|url=star-wars-resistance-station-theta-black-concept-art-gallery|text=Station Theta-Black Concept Art Gallery}}</ref>
 
 Asty also features in the [[2016]] [[video game]] ''[[LEGO Star Wars: The Force Awakens]]''. He is present at the Resistance base during an incident that started "a small [[fire]]" and led to the closing of the [[blast door]]s. Unlike his [[canon]] appearance, he survives the battle of Starkiller Base and has additional lines, including informing the player of damage. His figure can be bought at the D'Qar base.<ref name="LEGO Star Wars">[[LEGO Star Wars: The Force Awakens|''LEGO Star Wars: The Force Awakens'' video game]]</ref>
 
@@ -104,6 +103,7 @@ In initial sources such as the character's Databank entry, it says the pilot is 
 *''[[Captain Phasma, Part I]]'' {{C|fighter only}}
 *''[[Poe Dameron: Flight Log]]''
 *''[[Star Wars: The Last Jedi: Expanded Edition]]'' {{Imo}}
+*''[[The Last Jedi: Rose Tico: Resistance Fighter]]'' {{Imo}}
 *''[[Poe Dameron 28: The Awakening, Part III]]'' {{Flash}}
 
 ===Non-canon appearances===
@@ -140,6 +140,7 @@ In initial sources such as the character's Databank entry, it says the pilot is 
 *''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
 *''[[Star Wars: Aliens, Creatures, & Beasts]]''
 *''[[Star Wars: Alien Archive - Species Guide]]''
+*{{SW|url=star-wars-resistance-station-theta-black-concept-art-gallery|text=Station Theta-Black Concept Art Gallery}} {{C|Slide 11}}
 *{{Databank|ello-asty|Ello Asty|archivedate=20170808074030}} {{1stm}}
 *{{Databank|resistance-pilots-biography-gallery|Resistance Pilots Biography Gallery|archiveurl=http://www.webcitation.org/6yQuNKtib}}; image #4 {{C|of 6}}}}
 

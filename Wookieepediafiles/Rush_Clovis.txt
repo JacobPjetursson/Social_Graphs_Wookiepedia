@@ -66,6 +66,10 @@ Clovis worked with Amidala again when she came to [[Scipio]] for a loan from the
 ==Notes and references==
 {{Reflist}}
 
+{{Interlang
+|uk=Раш Кловіс
+}}
+
 {{DEFAULTSORT:Clovis, Rush}}
 [[Category:Galactic Republic senators]]
 [[Category:Humans]]

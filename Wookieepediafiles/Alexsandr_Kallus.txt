@@ -24,7 +24,7 @@
 **[[Imperial Security Bureau]]<ref name="Visual Guide" />
 *[[Alliance to Restore the Republic]]<ref name="Zero Hour">{{Rebels|Zero Hour}}</ref>
 **[[Massassi Group]]<ref name="In the Name of the Rebellion">{{Rebels|In the Name of the Rebellion}}</ref>
-**[[Rebel army]]<ref name="Note">''[[Star Wars: Rogue One: The Ultimate Visual Guide]]'' notes that personnel with green pips are associated with being in the [[Rebel army]].</ref>
+**[[Alliance army]]<ref name="Note">''[[Star Wars: Rogue One: The Ultimate Visual Guide]]'' notes that personnel with green pips are associated with being in the [[Alliance army]].</ref>
 |masters=
 |apprentices=}}
 {{Quote|You have the heart of a rebel.|Thrawn, to Alexsandr Kallus|Zero Hour}}
@@ -466,7 +466,7 @@ The character was first revealed at the [[2014]] Hasbro Toy Fair.<ref name="Toy 
 |pl=Alexsandr Kallus
 |pt=Alexsandr Kallus
 |ru=Александр Каллус
-|uk=Александр Каллус
+|uk=Олександр Каллус
 }}
 
 {{DEFAULTSORT:Kallus, Alexsandr}}

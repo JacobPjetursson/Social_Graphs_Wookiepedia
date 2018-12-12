@@ -28,7 +28,7 @@
 ===Separatist Crisis===
 During the [[Separatist Crisis]], [[Captain]] Gregar Typho accompanied [[Senator]] [[Padmé Amidala]] on a diplomatic mission to the [[The galaxy|galactic]] [[capital]] [[Coruscant]] to vote against the upcoming [[Military Creation Act]]. A growing [[Confederacy of Independent Systems|Separatist movement]] led by the charismatic former [[Jedi]] [[Count]] [[Dooku]] was challenging the ailing [[Galactic Republic]]. In response, [[Loyalist Committee|loyalist]] elements led by [[Supreme Chancellor]] [[Darth Sidious|Sheev Palpatine]] had introduced legislation to create a [[Grand Army of the Republic]].<ref name="Episode II" />
 
-Due to Amidala's high profile, the Senator and Captain Typho had traveled to Coruscant disguised as [[starfighter]] [[pilot]]s. One of Amidala's [[Naboo Royal Handmaidens|handmaidens]], [[Cordé]], had posed as Amidala and traveled on her [[J-type diplomatic barge|diplomatic barge]]. This ruse enabled Amidala to escape an [[Plot to assassinate Padmé Amidala|assassination attempt]] which claimed the life of her decoy and several members of her entourage. While Amidala was grieving over the fallen Cordé, Typho comforted her by assuring Amidala that the handmaiden had died in the line of duty.<ref name="Episode II" />
+Due to Amidala's high profile, the Senator and Captain Typho had traveled to Coruscant disguised as [[starfighter]] [[pilot]]s.<ref name="Episode II" /> Due to his grim duty, Typho enlisted [[Cordé]], one of Amidala's [[Naboo Royal Handmaidens|handmaidens]], to pose as Amidala and travel on her [[J-type diplomatic barge|diplomatic barge]].<ref name="Gregar's Card">{{ForceCollection|Gregar Typho|star=3}}</ref> This ruse enabled Amidala to escape an [[Plot to assassinate Padmé Amidala|assassination attempt]] which claimed the life of her decoy and several members of her entourage. While Amidala was grieving over the fallen Cordé, Typho comforted her by assuring Amidala that the handmaiden had died in the line of duty.<ref name="Episode II" />
 
 Later, Typho went to Amidala's apartment on Coruscant to establish security there. The Senator's security detail was further augmented by two [[Jedi]]: the [[Jedi Knight]] [[Obi-Wan Kenobi]] and his [[Padawan]] [[Anakin Skywalker]], who had a crush on Amidala. Following a second assassination attempt against Amidala by the [[Clawdite]] assassin [[Zam Wesell]] involving two poisonous [[Indoumodo kouhun|kouhuns]], Amidala returned to Naboo accompanied by Skywalker. Following these events, Typho remained on Coruscant to protect the [[Gungan]] Representative [[Jar Jar Binks]], who took Amidala's place on the Senate. Binks sponsored the creation of the Grand Army, which foreshadowed the outbreak of the [[Clone Wars]].<ref name="Episode II" />
 
@@ -97,6 +97,7 @@ In early storyboards of ''Attack of the Clones'', Typho was originally intended 
 |pl=Gregar Typho
 |pt=Legends:Gregar Typho
 |ru=Грегар Тайфо/Канон
+|uk=Ґреґар Тайфо
 |deFA=1
 }}
 

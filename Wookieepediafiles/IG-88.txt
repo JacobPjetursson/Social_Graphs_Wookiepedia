@@ -1,5 +1,5 @@
 {{Eras|legends=IG-88B}}
-{{Update|[[Tales from Wild Space: IG-88 vs. the Gatto Gang]], [[Triplecross]], [[Flight of the Falcon, Part 1: Spy Games]]}}
+{{Update|[[Tales from Wild Space: IG-88 vs. the Gatto Gang]]}}
 {{Droid
 |image=[[File:IG-88.png]]
 |name=IG-88
@@ -37,31 +37,38 @@
 |era=
 |affiliation=}}
 {{Quote|We think, therefore we are. Therefore, we will propagate. Therefore, we will remain.|IG-88|url=https://web.archive.org/web/20170428053616/https://www.sideshowtoy.com/collectibles/star-wars-ig-88-sideshow-collectibles-1000292/}}
-'''IG-88''', also known as a '''Phlutdroid''', was a rogue, deadly [[Sexes|masculine]] [[IG-series]] [[assassin droid]] manufactured by [[Holowan Laboratories]] who worked as a [[bounty hunter]]. Following the [[Battle of Hoth]], he and several other bounty hunters were summoned by [[Anakin Skywalker|Darth Vader]] to the ''[[Executor]]'' and hired to track down the ''[[Millennium Falcon]]'' and her [[Alliance to Restore the Republic|Rebel]] crew. Unable to track his quarry, IG-88 trailed his chief rival, [[Boba Fett]], to [[Bespin]], where the bounty hunter nearly destroyed the assassin droid. However, IG-88 managed to survive, and later worked with [[mercenary]] [[Bazine Netal]].
+'''IG-88''', also known as '''IG-88B''', or as a '''Phlutdroid''', was a rogue, deadly [[Sexes|masculine]] [[IG-series]] [[assassin droid]] manufactured by [[Holowan Laboratories]] who worked as a [[bounty hunter]]. Following the [[Battle of Hoth]], he and several other bounty hunters were summoned by [[Anakin Skywalker|Darth Vader]] to the ''[[Executor]]'' and hired to track down the ''[[Millennium Falcon]]'' and her [[Alliance to Restore the Republic|Rebel]] crew. Unable to track his quarry, IG-88 trailed his chief rival, [[Boba Fett]], to [[Bespin]], where the bounty hunter nearly destroyed the assassin droid, however IG-88 managed to survive. At some point IG-88  undertook a software infiltration into [[Death Star II]], but his plan was single-handedly thwarted by [[R2-Q5]]. The droid later met with [[mercenary]] [[Bazine Netal]] to speak about the location of the ''Millennium Falcon''.
 
 ==Biography==
 ===Origins===
-{{Quote|What is ''that''?''"<br>"''IG-88. An ''actual'' bounty hunter. Also, probably interested in your data tape. He's good&mdash;one of the best in the galaxy. And he's a surprise. Take cover!|Leia Organa and Sabine Wren|Forces of Destiny: The Leia Chronicles}}
-The first of the<ref name="Sideshow">{{Cite_web|url=http://www.sideshowtoy.com/collectibles/star-wars-ig-88-sideshow-collectibles-1000292/|title=IG-88 Sixth Scale Figure by Sideshow Collectibles|accessdate=2016-08-04||author=Sideshow Collectibles|archiveurl=https://web.archive.org/web/20170428053616/https://www.sideshowtoy.com/collectibles/star-wars-ig-88-sideshow-collectibles-1000292/|archivedate=2017-04-28}}</ref> [[IG-series]]<ref name="Updated and Expanded" /> [[assassin droid]] models created in secret by [[Holowan Laboratories]], IG-88,<ref name="Sideshow" /> also known as a Phlutdroid,<ref name="Updated and Expanded" /> realized [[Sexes|his]] skill and desire to [[Death|kill]] the moment he was first activated.<ref name="Sideshow" /> He went rogue,<ref name="Ultimate Star Wars" /> and, from that moment on, became one of the most feared [[bounty hunter]]s in [[the galaxy]],<ref name="Sideshow" /> in part due to the lingering fear of [[droid]]s, particularly those capable of [[Battle droid|battle]] and [[assassin]]ation, from the [[Clone Wars]].<ref name="IG-88 Databank" /> IG-88 was also a chief rival of the notorious bounty hunter [[Boba Fett]].<ref name="Ultimate Star Wars" />
+The first of the<ref name="Sideshow">{{Cite_web|url=http://www.sideshowtoy.com/collectibles/star-wars-ig-88-sideshow-collectibles-1000292/|title=IG-88 Sixth Scale Figure by Sideshow Collectibles|accessdate=2016-08-04||author=Sideshow Collectibles|archiveurl=https://web.archive.org/web/20170428053616/https://www.sideshowtoy.com/collectibles/star-wars-ig-88-sideshow-collectibles-1000292/|archivedate=2017-04-28}}</ref> [[IG-series]]<ref name="Updated and Expanded" /> [[assassin droid]] models created in secret by [[Holowan Laboratories]]. IG-88<ref name="Sideshow" /> also known as IG-88B,<ref name="IG-88B">{{ForceCollection|IG-88B|star=2}}</ref> or as a Phlutdroid,<ref name="Updated and Expanded" /> realized [[Sexes|his]] skill and desire to [[Death|kill]] the moment he was first activated.<ref name="Sideshow" /> He went rogue,<ref name="Ultimate Star Wars" /> and, from that moment on, became one of the most feared [[bounty hunter]]s in [[the galaxy]],<ref name="Sideshow" /> in part due to the lingering fear of [[droid]]s, particularly those capable of [[Battle droid|battle]] and [[assassin]]ation, from the [[Clone Wars]].<ref name="IG-88 Databank" /> IG-88 was also a chief rival of the notorious bounty hunter [[Boba Fett]].<ref name="Ultimate Star Wars" />
 
 ===Age of the Empire===
 ====Hired by Kallus====
+{{Quote|You're certain this is where we'll find the individuals involved in the rebel activity on Savareen? I don't like being disappointed, bounty hunter.''"<br>"''Yes. I am certain.|Kallus and IG-88|Flight of the Falcon, Part 1: Spy Games}}
 During the [[Imperial Era|Age of the Empire]], IG-88 was hired by [[Imperial Security Bureau]] Agent [[Alexsandr Kallus]] to assist in tracking down [[Imperial Army]] deserter turned smuggler, Captain [[Han Solo]] of the ''[[Millennium Falcon]]''.<ref name="Spy Games" />
 
 ====Capturing Qi'ra====
+{{Quote|Oh, Qi'ra, Qi'ra. It does look like you have fallen into our little trap. Catching you was quite difficult, my young friend. I had to partner with IG-88 here.''"<br>"''A Crimson Dawn Lieutenant will fetch a nice bounty.|Hondo Ohnaka and IG-88|Triplecross}}
 [[File:FODTriplecross.jpg|thumb|left|200px|Qi'ra as prisoner of IG-88 and Hondo before she tricks them both.]]
 Later, IG-88 teamed up with [[Hondo Ohnaka]] to collect the [[bounty]] on [[Crimson Dawn]] [[lieutenant]] [[Qi'ra|Qi'ra's]] head. Tracking Qi'ra down, IG-88 and Hondo managed to apprehend Qi'ra. Turning the bounty hunter and the [[pirate]] against each other, Qi'ra convinced IG-88 to collect the bounty on Hondo instead of the bounty on her. Attacking Hondo, IG-88 was quickly [[stun]]ned and put in [[Stuncuffs|binders]]. After Qi'ra had similarly tricked and apprehended Hondo, IG-88 was led away by Qi'ra so that she could collect the bounty on his head.<ref name="Triplecross">{{FOD|Triplecross}}</ref>
 
 ====Seeking a data-tape====
+{{Quote|What is ''that''?''"<br>"''IG-88. An ''actual'' bounty hunter. Also, probably interested in your data tape. He's good&mdash;one of the best in the galaxy. And he's a surprise. Take cover!|Leia Organa and Sabine Wren|Forces of Destiny: The Leia Chronicles}}
 Later, IG-88 [[Mission to Garel|pursued]] [[Prince]]ss [[Leia Organa]] on [[Garel]], seeking a [[data-tape]] in her possession of [[Galactic Empire|Imperial]] base locations. Organa was assisted by [[Sabine Wren]], who identified the droid, and the pair fled as the assassin opened fire in the corridors of [[Garel City Spaceport]]. However, Wren planted a [[paint bomb]], surprising IG-88 and covering him in purple paint. Leia convinced several [[stormtrooper]]s to fire at the bounty hunter, and the droid was hit by a blast before retreating.<ref name="Bounty of Trouble">{{FOD|Bounty of Trouble}}</ref>
 
 ====Capturing the Gatto Gang====
+{{Quote|IG-88! This deadly droid had been given the task of capturing the sneaky Gatto Gang.|[[CR-8R]]|Tales from Wild Space: IG-88 vs. the Gatto Gang}}
 [[File:IG-88 hunting Gatto Gang.JPG|thumb|right|265x265px|IG-88 during the hunt for the Gatto Gang.]]
 IG-88 was hired by [[Duke]] [[Blazor]] of the [[Black Sun]] to capture the [[Gatto Gang]] that consisted [[Sylvestarr]], [[Ziggee]] and [[Moggee]]. He later eventually captured all three of them.<ref name="Gatto Gang">{{IDWAdventuresCite|9|[[Tales from Wild Space: IG-88 vs. the Gatto Gang]]}}</ref>
 
 ====Hired by Vader====
+{{Quote|There will be a substantial reward for the one who finds the ''Millennium Falcon''. You are free to use any methods necessary, but I want them alive.|Darth Vader to IG-88 and several other bounty hunters|Star Wars: Episode V The Empire Strikes Back}}
 [[File:BountyHunters.jpg|thumb|left|200px|IG-88 and his fellow bounty hunters are briefed by Darth Vader on the ''Executor''{{'s}} bridge.]]
 By the [[Standard year|year]] [[0 ABY]], IG-88 consorted with the [[crime lord]] [[Jabba Desilijic Tiure]]. He was present in the [[Hutt]]'s [[Jabba's Palace|palace]] while Jabba received [[Anakin Skywalker|Darth Vader]]. The [[Sith Lord]] told the Hutt to dispense with his audience, and IG-88, along with fellow hunters including Fett and [[4-LOM]], departed from the court.<ref name="Vader">''[[Darth Vader 1: Vader]]''</ref> In [[3 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> IG-88 answered a call put out by Vader for bounty hunters to track down the ''[[Millennium Falcon]]''. He and several other hunters, including Boba Fett, assembled aboard the ''[[Executor]]'', where Vader offered a [[bounty]] for the live capture of [[Han Solo]] and his companions.<ref name="The Empire Strikes Back" /> However, it was not IG-88 who successfully tracked the quarry<ref name="IG-88 Encyclopedia">{{SWE|characters|ig88|IG-88}}</ref> and the droid followed Fett to [[Cloud City]] on the [[planet]] [[Bespin]], where the assassin droid was left for scrap after his longtime rival caught it trailing him.<ref name="Updated and Expanded" /> Ultimately, Fett captured Solo<ref name="The Empire Strikes Back" /> and delivered the bounty to Jabba on [[Tatooine]].<ref name="Return of the Jedi">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref>
+
+===Infiltrating the Death Star===
+At some point IG-88 undertook a software infiltration of the Empire's [[Death Star II|second Death Star]], however his plan was single-handedly thwarted by the [[astromech droid]] [[R2-Q5]].<ref name="R2-Q5">{{ForceCollection|R2-Q5|star=3}}</ref>
 
 ===Contacted by Bazine Netal===
 Despite being defeated by Fett,<ref name="Updated and Expanded" /> IG-88 managed to survive the encounter. Eventually, IG-88 was contacted by [[mercenary]] [[Bazine Netal]] to discuss the location of the ''Millennium Falcon''.<ref name="Spy Games">{{IDWAdventuresCite|14|[[Flight of the Falcon, Part 1: Spy Games]]}}</ref>
@@ -101,7 +108,7 @@ IG-88, originally referred to as a "chrome war droid" in the script and also cal
 *''[[Star Wars: Galaxy of Heroes]]''
 
 ==Sources==
-*{{SWE|characters|ig88|IG-88}} {{1stID}}
+*{{SWE|characters|ig88|IG-88}} {{1stID|IG-88}}
 *{{InsiderCite|152|A Trip to the Light Side}}
 *''[[Star Wars Costumes: The Original Trilogy]]''
 *{{HasbroCite|set=Star Wars Rebels (toy line)|text=''Star Wars Rebels''|pack=Bossk and IG-88|link=MS11-Bossk-IG-88-Rebels-Mission-Series.asp}}
@@ -114,6 +121,8 @@ IG-88, originally referred to as a "chrome war droid" in the script and also cal
 *''[[Star Wars Builders: Droids]]''
 *{{LEGOCite|eu|75167|Bounty Hunter Speeder Bike Battle Pack}}
 *''[[Star Wars: The Visual Encyclopedia]]''
+*{{ForceCollection|IG-88B|star=2}} {{1stID|IG-88B}}
+*{{ForceCollection|R2-Q5|star=3}}
 *''[[Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious]]''
 *''[[Star Wars: Droidography]]''
 *{{Databank|ig-88|IG-88}}

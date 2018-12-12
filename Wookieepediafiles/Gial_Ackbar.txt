@@ -28,7 +28,7 @@
 **[[New Republic Defense Fleet]]<ref name="Aftermath" />
 *[[Resistance]]<ref name="TFA">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
 **[[Resistance High Command]]<ref name="TFA Visual">''[[Star Wars: The Force Awakens: The Visual Dictionary]]''</ref>
-**[[Fleet Command (Resistance)|Resistance Fleet Command]]<ref name="TLJ VD">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref>
+**[[Fleet Command (Resistance)|Fleet Command]]<ref name="TLJ VD">''[[Star Wars: The Last Jedi: The Visual Dictionary]]''</ref>
 |masters=
 |apprentices=}}
 {{Quote|May the Force be with us.|Admiral Ackbar|audio=Force be with us.ogg|Star Wars: Episode VI Return of the Jedi}}

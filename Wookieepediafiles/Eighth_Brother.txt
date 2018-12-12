@@ -1,12 +1,11 @@
 {{Eras}}
-{{Citation}}
 {{Character
 |type=Galactic Empire
 |image=[[File:Eight Brother.png]]
 |name=Eighth Brother
 |homeworld=
 |birth=
-|death=[[3 BBY]],<ref name="Chronology Note">The events of "[[Twilight of the Apprentice]]" take place after "[[A Princess on Lothal]]," which is the first known episode to take place in the third year before the Battle of Yavin. As such, we can deduce that this event takes place in the third year before the Battle of Yavin. For more information, see [[Forum:SH:Timeline of Star Wars Rebels Events|Wookieepedia's Timeline of ''Star Wars Rebels'' Events]].</ref> [[Malachor]]<ref name="Eighth Brother">{{Databank|eighth-brother-inquisitor|Eighth Brother Inquisitor|archivedate=20170625104816}}</ref>
+|death=[[3 BBY]],{{Fact}} [[Malachor]]<ref name="Eighth Brother">{{Databank|eighth-brother-inquisitor|Eighth Brother Inquisitor|archivedate=20170625104816}}</ref>
 |species=[[Terrelian Jango Jumper]]<ref name="Eighth Brother" />
 |gender=[[Sexes|Male]]<ref name="Twilight of the Apprentice">{{Rebels|Twilight of the Apprentice}}</ref>
 |height=
@@ -29,13 +28,13 @@ The '''Eighth Brother''' was a [[Force-sensitive]] [[Terrelian Jango Jumper]] [[
 ===Fallen Jedi===
 {{Quote|Form up now. Your masters are here.''"<br />"''Masters? We have only one master. The Emperor.''"<br />"''Times have changed Eighth Brother.|The Grand Inquisitor and Eighth Brother|Darth Vader: Dark Lord of the Sith 6: The Chosen One, Part VI}}
 [[File:Inquisitorius Vader Comic.png|thumb|left|250px|The Eighth Brother became a part of the Inquisitorious]]
-The individual who became known as the Eighth Brother originally occupied a position within the [[Jedi Order]]. At some point after the [[Galactic Republic]] was reorganized into the [[Galactic Empire]], he was inducted into an Imperial agency of [[The Force|Force-sensitive]] assassins called the [[Inquisitorius]], which was tasked with hunting down and eliminating any [[Jedi]] who survived [[Order 66]]. To accomplish this, he and his [[Brother/Sister|colleagues]] were trained by [[The Grand Inquisitor]] in the [[Inquisitorius Headquarters]] in [[The Works]], but soon fell under the command of [[Anakin Skywalker|Darth Vader]] when [[Darth Sidious]] first demonstrated the Inquisitorius to Vader, who continued their training in the ways of the [[Dark side of the Force|dark side]] of [[the Force]]. The [[Grand Inquisitor]] informed Eighth Brother and his colleagues that they had two masters, Eighth Brother in response proclaimed that they only served Sidious, but was soon countered by the Grand Inquisitor who stated that times had changed.<ref name="Dark Lord 6" />
+The individual who became known as the Eighth Brother originally occupied a position within the [[Jedi Order]]. At some point after the [[Galactic Republic]] was reorganized into the [[Galactic Empire]], he was inducted into an Imperial agency of [[The Force|Force-sensitive]] assassins called the [[Inquisitorius]], which was tasked with hunting down and eliminating any [[Jedi]] who survived [[Order 66]]. To accomplish this, he and his [[Brother/Sister|colleagues]] were trained by [[The Grand Inquisitor]] in the [[Inquisitorius Headquarters]] in [[The Works]], but soon fell under the command of [[Anakin Skywalker|Darth Vader]] when [[Darth Sidious]] first demonstrated the Inquisitorius to Vader, who continued their training in the ways of the [[dark side of the Force]]. The [[Grand Inquisitor]] informed Eighth Brother and his colleagues that they had two masters, Eighth Brother in response proclaimed that they only served Sidious, but was soon countered by the Grand Inquisitor who stated that times had changed.<ref name="Dark Lord 6" />
 
 Eighth Brother celebrated with all the other Inquisitors after Darth Vader, [[Fifth Brother]], a [[Unidentified Twi'lek Inquisitor|Twi'lek Inquisitor]] and a [[Unidentified female Inquisitor|female Inquisitor]] successfully killed [[Eeth Koth]].<ref name="Dark Lord 19">''[[Darth Vader: Dark Lord of the Sith 19: Fortress Vader, Part I]]''</ref>
 
 ===Age of the Empire===
 ====Hunting Maul====
-Following the Grand Inquisitor's [[Action at Mustafar|death]] at the hands of the Jedi [[Kanan Jarrus]] and his [[padawan]], [[Ezra Bridger]], the Brother and the other Inquisitors saw "new opportunities" to take his place by hunting down the two Jedi and their [[Spectres|crew]] on their [[VCX-100 light freighter|VCX-100]], called the ''[[Ghost]]''. However, while the [[Fifth Brother]] and [[Seventh Sister]]<ref name="Always">{{Rebels|Always Two There Are}}</ref> were given the chance to do so when [[Darth]] Vader dispatched them on the [[Galactic Emperor|Emperor's]] orders,<ref name="Siege">''[[Star Wars Rebels: The Siege of Lothal]]''</ref> the Eighth Brother was given the task of hunting down [[Maul]], the former [[Sith]] [[Sith apprentice|apprentice]], whom he knew only as "the Shadow."<ref name="Eighth Brother" />
+Following the Grand Inquisitor's [[Action at Mustafar|death]] at the hands of the Jedi [[Kanan Jarrus]] and his [[padawan]], [[Ezra Bridger]], the Brother and the other Inquisitors saw "new opportunities" to take his place by hunting down the two Jedi and their [[Spectres|crew]] on their [[VCX-100 light freighter|VCX-100]], called the ''[[Ghost]]''. However, while the Fifth Brother and [[Seventh Sister]]<ref name="Always">{{Rebels|Always Two There Are}}</ref> were given the chance to do so when [[Darth]] Vader dispatched them on the [[Galactic Emperor|Emperor's]] orders,<ref name="Siege">''[[Star Wars Rebels: The Siege of Lothal]]''</ref> the Eighth Brother was given the task of hunting down [[Maul]], the former [[Sith]] [[Sith apprentice|apprentice]], whom he knew only as "the Shadow."<ref name="Eighth Brother" />
 
 ====Trouble on Malachor====
 [[File:The light and the dark.jpeg|thumb|right|250px|The Eighth Brother clashes Ahsoka Tano in concert with his two subordinates clashing with Maul and Kanan Jarrus]]

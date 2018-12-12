@@ -1,6 +1,7 @@
 {{Eras|legends=CT-7567/Legends}}
 {{Otheruses|Rex}}
 {{Cleanup}}
+{{Update|[[Star Wars Rebels Magazine]]}}
 {{Image}}
 {{Character
 |type=Rebel
@@ -13,7 +14,7 @@
 |gender=[[Sexes|Male]]<ref name="Epic Battles" />
 |height=1.83 [[meter]]s<ref name="Rex">{{Databank|clone-captain-rex|Clone Captain Rex|archivedate=20170827024953}}</ref>
 |mass=
-|hair=Natural light blond (mutation), later white
+|hair=Light [[Color|blond]]; later white
 |eyes=Brown
 |skin=Tan
 |cyber=
@@ -26,7 +27,7 @@
 |masters=
 |apprentices=}}
 {{Quote|I used to believe that being a good soldier meant doing everything they told you. That's how they engineered us. But we're not droids. We're ''not'' programmed. You have to learn to make your ''own decisions''.|Rex|Carnage of Krell}}
-'''Rex''', designation '''CT-7567''', was a veteran [[clone trooper]] [[Clone Captain|captain]] and [[Advanced Recon Commando]] who oversaw [[Torrent Company]] of the [[Grand Army of the Republic]]'s famed [[501st Legion]] during the [[Clone Wars]] and later served as a captain and [[commander]] of the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]]. Rex participated in many battles over the course of the Clone Wars. As the [[captain]] of the 501st, Rex served as second-in-command to [[Jedi General]] [[Anakin Skywalker]], whose bravery and unorthodoxy in battle he came to share. In addition to being a close friend of Skywalker he also became close friends with Skywalker's [[apprentice]], [[Ahsoka Tano]]. He was close friends with [[Clone marshal commander|Marshal Commander]] [[CC-2224|Cody]], with their relationship mirroring that of their respective Jedi [[General]]s, Skywalker and [[Obi-Wan Kenobi]], who Rex was also well acquainted with. This group of five often worked together during the front-line campaigns against the [[Confederacy of Independent Systems]].
+'''Rex''', designation '''CT-7567''', was a veteran [[clone trooper]] [[Clone Captain|captain]] and [[Advanced Recon Commando]] who oversaw [[Torrent Company]] of the [[Grand Army of the Republic]]'s famed [[501st Legion]] during the [[Clone Wars]] and later served as a captain and [[commander]] of the [[Alliance to Restore the Republic]] during the [[Galactic Civil War]]. Rex participated in many battles over the course of the Clone Wars. As the [[captain]] of the 501st, Rex served as second-in-command to [[Jedi General]] [[Anakin Skywalker]], whose bravery and unorthodoxy in battle he came to share. In addition to being a close friend of Skywalker he also became close friends with Skywalker's [[apprentice]], [[Ahsoka Tano]]. He was close friends with [[Clone marshal commander|Marshal Commander]] [[CC-2224|Cody]], with their relationship mirroring that of their respective Jedi [[General]]s, Skywalker and [[Obi-Wan Kenobi]], who Rex was also well acquainted with. Rex and his companions often worked together during the front-line campaigns against the [[Confederacy of Independent Systems]].
 
 Throughout his career, Rex proved to be an effective leader who truly cared for the men under his command, even as he began to doubt his own future&mdash;and those of his clone brethren&mdash;in the Republic. His leadership was put to the ultimate test at the [[Battle of Umbara]], when he was forced to lead the 501st [[Legion]] under the obstinate and aggressive Jedi General [[Pong Krell]], a secret Separatist agent. Rex's experiences with Krell forced him to reappraise his rigid adherence to orders, however this had not been the first time Rex had questioned his purpose and orders. A notable example had been during the [[Battle of Saleucami]], when he allowed the clone [[deserter]] [[Cut Lawquane]] stay out of the war. Rex used his combat skills and training to help train [[Onderon rebels|local insurgents]] on [[Onderon]] to [[Onderonian Civil War|emancipate]] their world. Rex's faith in the Republic was sorely tested by events such as the framing of Tano and the murder of his long-time comrade [[CT-5555|Fives]], who had gone rogue after unearthing an [[Order 66|anti-Jedi directive]] that had been [[Control chip|bred]] into all of the Republic's clone troopers.
 

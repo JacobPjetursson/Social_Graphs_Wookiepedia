@@ -3,7 +3,7 @@
 |type=
 |image=[[File:Ruwee Naberrie Canon.png]]
 |name=Ruwee Naberrie
-|homeworld=[[Naboo]]<ref name="Force Collection">''[[Star Wars: Force Collection]]''</ref>
+|homeworld=
 |birth=
 |death=
 |species=[[Human]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
@@ -18,24 +18,21 @@
 |affiliation=[[Naberrie family]]<ref name="Force Collection" />
 |masters=
 |apprentices=}}
-'''Ruwee Naberrie''' was a [[human]] [[Sexes|male]] from the [[planet]] [[Naboo]] and a member of the [[Naberrie family]].<ref name="Force Collection" /> He was the [[Parent|father]] of [[Sola Naberrie]] and [[Padmé Amidala]],<ref name="Star Wars Card Trader">[[Star Wars: Card Trader|''Star Wars'': Card Trader]]</ref> an elected [[Monarch of Naboo|queen]] and later member of the [[Galactic Senate|Senate]] of the [[Galactic Republic]] for their [[homeworld]].<ref name="Padme Databank">{{Databank|padme-amidala|Padmé Amidala}}</ref> During his lifetime, he was also a friend of Senator [[Onaconda Farr]] of [[Rodia]].<ref name="Bombad Jedi">{{TCW|Bombad Jedi}}</ref>
+'''Ruwee Naberrie''' was a [[human]] [[Sexes|male]] and a member of the [[Naberrie family]].<ref name="Force Collection" /> He was the [[Parent|father]] of [[Sola Naberrie]] and [[Padmé Amidala]],<ref name="Star Wars Card Trader">[[Star Wars: Card Trader|''Star Wars'': Card Trader]]</ref> an elected [[Monarch of Naboo|queen]] and later member of the [[Galactic Senate|Senate]] of the [[Galactic Republic]] for their [[homeworld]].<ref name="Padme Databank">{{Databank|padme-amidala|Padmé Amidala}}</ref> During his lifetime, he was also a friend of Senator [[Onaconda Farr]] of [[Rodia]].<ref name="Bombad Jedi">{{TCW|Bombad Jedi}}</ref>
 
 ==Biography==
 ===Early life===
-Ruwee, the son of a cloth weaver in the Naberrie family, married a woman named [[Jobal Naberrie|Jobal]] at some point in his life on Naboo. They would have two daughters, Sola and Padmé.<ref name="BioGal1" >{{Databank|padm-amidala-biography-gallery|Padmé Amidala Biography Gallery}} {{C|Image 1 caption}}</ref> Through his elder daughter, he became grandfather of [[Ryoo Naberrie|Ryoo]] and [[Pooja Naberrie]]. When Padmé turned [[26 BBY|fourteen years]] old, she [[Coronation of Queen Amidala|was]] [[Democracy|elected]] [[Monarch of Naboo|Queen of Naboo]] and adopted the name of "Padmé Amidala."<ref name="BioGal1" /> Successful and well-liked, she served two four-year terms, including during the [[Invasion of Naboo]]. Though she'd planned to retire from public life, Padmé accepted when her successor, [[Jamillia|Queen Jamillia]], asked her to represent Naboo in the Galactic Senate.
+Son of a cloth weaver in the Naberrie family,<ref name="Force Collection">{{ForceCollection|Ruwee Naberrie|star=2}}</ref> Ruwee married a woman named [[Jobal Naberrie|Jobal]] at some point in his life. They had two daughters, [[Sola Naberrie|Sola]]<ref name="Visual Encyclopedia">''[[Star Wars: The Visual Encyclopedia]]''</ref> and [[Padmé Amidala|Padmé]].<ref name="BioGal1" >{{Databank|padm-amidala-biography-gallery|Padmé Amidala Biography Gallery}} {{C|Image 1 caption}}</ref> When Padmé turned [[26 BBY|fourteen years]] old, she [[Coronation of Queen Amidala|was]] [[Democracy|elected]] [[Monarch of Naboo|Queen of Naboo]] and adopted the name of "Padmé Amidala."<ref name="BioGal1" /> Successful and well-liked, she served two four-year terms, including during the [[Invasion of Naboo]]. Though she'd planned to retire from public life, Padmé accepted when her successor, [[Jamillia|Queen Jamillia]], asked her to represent Naboo in the Galactic Senate.{{Fact}}
 
 ===Death of Padmé===
 Following [[19 BBY|the end]] of the [[Clone Wars]] and the execution of [[Order 66]], Ruwee attended the [[Funeral of Padmé Amidala|funeral]] of his youngest daughter with Jobal and Sola after Padmé's [[death]] at [[Polis Massa]].<ref name="Episode III" />
-
-===Legacy===
-The same year of Padmé's passing, Ruwee became the grandfather of both [[Luke Skywalker]] and [[Leia Organa]].<ref name="Episode III" /> He later became a great-grandfather with the arrival of [[Kylo Ren|Ben Solo]], son of his granddaughter Leia and [[smuggler]] [[Han Solo]].<ref>[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
 
 ==Behind the scenes==
 Ruwee Naberrie was portrayed by [[Graeme Blundell]] in [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']] and [[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']].<ref name="IMDb">{{Imdb|url=name/nm0089882/|text=Graeme Blundell}}</ref><ref name="Ruwee Databank" >[https://web.archive.org/web/20100209213438/http://starwars.com/databank/character/ruweenaberrie/index.html Ruwee Naberrie] in the [[Databank (original)|Databank]]</ref>
 
 During the filming of ''Attack of the Clones'', Blundell traveled to [[Lake Como]], [[Wikipedia:Italy|Italy]] in order to shoot his scenes as Ruwee Naberrie,<ref name="Ruwee Databank" /> but all his scenes were deleted from the film's final cut. His scenes at the end of ''Revenge of the Sith'', however, remained unchanged and make it into the finished version of the film.
 
-Prior to the ''[[Star Wars]]'' canon reboot by [[The Walt Disney Company]] in order to explore new storylines in anticipation of a [[Sequel trilogy]], Ruwee Naberrie's backstory was expanded upon in many expanded universe stories, but since the reboot of the [[canon]], these stories became part of the [[Star Wars Legends|''Star Wars'' Legends]] continuity and are therefore non-canonical.
+Ruwee's card from the digital card game ''[[Star Wars: Force Collection]]'' erroneously lists him as [[Qui-Gon Jinn]]'s father.<ref name="Force Collection" />
 
 ==Appearances==
 *''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
@@ -44,8 +41,9 @@ Prior to the ''[[Star Wars]]'' canon reboot by [[The Walt Disney Company]] in or
 *[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']] {{1st}}
 
 ==Sources==
-*''[[Star Wars: Force Collection]]'' {{1stID}}
+*{{ForceCollection|Ruwee Naberrie|star=2}} {{1stID}}
 *''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
 
 ==Notes and references==
 {{Reflist}}

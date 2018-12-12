@@ -7,7 +7,7 @@
 |homeworld=
 |birth=
 |death=
-|species=[[Human]] {{C|[[Naboo (people)|Naboo]]}}<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
+|species=[[Human]]<ref name="Episode III">[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]</ref>
 |gender=[[Sexes|Female]]<ref name="Episode III" />
 |height=
 |mass=
@@ -19,10 +19,10 @@
 |affiliation=[[Naberrie family]]<ref name="Episode III" />
 |masters=
 |apprentices=}}
-'''Sola Naberrie''' was a [[human]] [[Sexes|female]] from [[Naboo]]. A member of the [[Naberrie family]], she was a daughter of [[Ruwee Naberrie|Ruwee]] and [[Jobal Naberrie]], the sister of [[Padmé Amidala]], and the [[Parent|mother]] of [[Ryoo Naberrie|Ryoo]] and [[Pooja Naberrie]].
+'''Sola Naberrie''' was a [[human]] [[Sexes|female]] from [[Naboo]]. A member of the [[Naberrie family]], she was a daughter of [[Ruwee Naberrie|Ruwee]] and [[Jobal Naberrie]] and the sister of [[Padmé Amidala]].
 
 ==Biography==
-Sola Naberrie was the daughter of [[Ruwee Naberrie]] and his [[Marriage|wife]], [[Jobal Naberrie]]. Her sister was [[Padmé Amidala]], the [[senator]] of [[Naboo]] who married the [[Jedi Knight]] [[Anakin Skywalker]] in secret. By the [[Empire Day|end]] of the [[Clone Wars]], her sister [[Death|died]] moments after giving birth to the [[twin]]s [[Luke Skywalker]] and [[Leia Organa]]. Following her sister's death, Naberrie attended Amidala's [[Funeral of Padmé Amidala|funeral]] in [[Theed]] along with her [[Youngling|children]], [[Ryoo Naberrie|Ryoo]] and [[Pooja Naberrie|Pooja]], as well as other members of their [[Naberrie family|family]].<ref name="Episode III" />
+Sola Naberrie was the daughter of [[Ruwee Naberrie]] and his [[Marriage|wife]], [[Jobal Naberrie]]. Her sister was [[Padmé Amidala]],<ref name="Visual Encyclopedia">''[[Star Wars: The Visual Encyclopedia]]''</ref> the [[senator]] of [[Naboo]] who married the [[Jedi Knight]] [[Anakin Skywalker]] in secret. At the end of the [[Clone Wars]], Amidala [[Death|died]] moments after giving [[Reproduction|birth]] to the [[twin]]s [[Luke Skywalker]] and [[Leia Organa]]. Naberrie attended Amidala's [[Funeral of Padmé Amidala|funeral]] in [[Theed]] along with [[Ryoo Naberrie|Ryoo]] and [[Pooja Naberrie]], as well as other members of their [[Naberrie family|family]].<ref name="Episode III" />
 
 ==Personality and traits==
 Sola Naberrie was a [[human]] [[Sexes|female]] who had light skin.<ref name="Episode III" />
@@ -36,6 +36,7 @@ Sola Naberrie was portrayed by [[Claudia Karvan]],<ref name="SW.com">{{SWArchive
 
 ==Sources==
 *''[[Star Wars: The Visual Encyclopedia]]''
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
 
 ==Notes and references==
 {{Reflist}}

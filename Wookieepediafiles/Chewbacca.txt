@@ -240,7 +240,7 @@ That night, Organa freed Solo from his encasement at the cost of her freedom, fo
 Skywalker did indeed arrive and requested an audience with Jabba by [[Mind trick|influencing]] the crime lord's major-domus [[Bib Fortuna]]. After Skywalker was pit against Jabba's [[rancor]] and defeated it, the enraged Hutt ordered the execution of Chewbacca, Solo and Skywalker by casting them into the [[Great Pit of Carkoon]] in the [[Dune Sea]], to be devoured by the [[sarlacc]] that resided there. Brought to the pit in a [[skiff]], Skywalker recovered his [[Luke Skywalker's green lightsaber|new lightsaber]] and freed Chewbacca and Solo from their bonds. However, one of Jabba's staff fired at them, injuring Chewbacca, and leaving the near-blind Solo to rescue Calrissian from falling into the pit. While Organa assassinated Jabba himself, the group went on to slay the rest of the Hutt's henchmen, before destroying the crime lord's [[sail barge]] and returning to the Rebel Fleet aboard the ''Falcon''.<ref name="Episode VI" />
 
 ====Endor====
-{{Quote|Keep your distance, Chewie, but don't look like you're keeping your distance. [&hellip;] I don't know &ndash; fly casual.|Han to Chewbacca during the mission to Endor.|audio=Fly casual.ogg|Star Wars: Episode VI Return of the Jedi}}
+{{Quote|Keep your distance, Chewie, but don't look like you're keeping your distance. [&hellip;] I don't know &ndash; fly casual.|Han to Chewbacca during the mission to Endor|audio=Fly casual.ogg|Star Wars: Episode VI Return of the Jedi}}
 On the meeting to debrief the Alliance on the plan to destroy the [[Death Star II|second Death Star]], Chewbacca volunteered for a mission to destroy the [[Deflector shield generator|shield generator]] on the forest moon of [[Endor]], intent on following Solo, newly-appointed General of the Alliance. Joined by Organa, Skywalker, C-3PO and R2-D2, the strike team approached the moon aboard the captured Imperial [[shuttle]] ''[[Tydirium]]'', with Chewbacca piloting the ship. As the team waited to be cleared to land by the [[Executor-class Star Dreadnought|Star Dreadnought]] ''[[Executor]]'' which was overseeing the blockade of the moon, Solo urged the Wookiee to "fly casual", landing only after they were granted access by Darth Vader.<ref name="Episode VI" />
 
 [[File:Wicket and Rebels.png|thumb|left|275px|The rebels worked with Ewoks to topple the Empire.]]
@@ -316,7 +316,7 @@ Seeing this, Han, Chewbacca, Finn, and Rey tried to create an opening by plantin
 
 Following the confrontation with Kylo Ren, who was overpowered and wounded by Rey, Chewbacca arrived with the ''Millennium Falcon'' to rescue the scavenger and Finn, who was severely wounded by Ren. They and the remainder of the Resistance fleet managed to escape Starkiller Base as it erupted into a star, and entered hyperspace to return to D'Qar.<ref name="VII" />
 
-The Resistance celebrated their victory while Leia, Chewbacca, and Rey [[Mourning|mourned]] Han's death. R2-D2 suddenly awoke and revealed that he held the map to Luke's location, with the only piece of the map missing being the one BB-8 was given by Poe. Together they completed the map and revealed the location of the planet on which Luke Skywalker was hiding. Using this, Chewbacca, R2-D2, and Rey flew aboard the ''Falcon'' to [[Ahch-To]], where Luke was exiled.<ref name="VII" />
+The Resistance celebrated their victory while Leia, Chewbacca, and Rey mourned Han's death. R2-D2 suddenly awoke and revealed that he held the map to Luke's location, with the only piece of the map missing being the one BB-8 was given by Poe. Together they completed the map and revealed the location of the planet on which Luke Skywalker was hiding. Using this, Chewbacca, R2-D2, and Rey flew aboard the ''Falcon'' to [[Ahch-To]], where Luke was exiled.<ref name="VII" />
 
 ====Time on Ahch-To====
 After Rey tried and failed to recruit Luke Skywalker, Chewie greeted his old ally aboard the ''Millennium Falcon'', with Luke growing unnerved upon learning of Han Solo's demise. Later that evening, Chewie caught and roasted two [[porg]]s for dinner, but relented when their brethren approached him, watching sadly.<ref name="VIII">[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]</ref>
@@ -386,9 +386,13 @@ The memorable voice of Chewbacca was designed by [[Ben Burtt]], sound designer f
 *{{IDWAdventuresCite|11|[[Powered Down, Part II]]}}
 *{{IDWAdventuresCite|14|[[Chewie's Day Off]]}}
 *{{IDWAdventuresCite|14|[[Flight of the Falcon, Part 1: Spy Games]]}}
+*{{Galaxy of Adventures|Chewbacca - The Trusty Co-Pilot}}
 *''[[Tales from Vader's Castle 3: The Briar Witch]]'' {{Flash}}
 *''[[Tales from Vader's Castle 5: The Terror of Darth Vader]]'' {{Flash}}
 *[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*{{Galaxy of Adventures|Han Solo - Galaxy's Best Smuggler}}
+*{{Galaxy of Adventures|Chewie vs. Holochess - Let the Wookiee Win}}
+*{{Galaxy of Adventures|Luke vs. the Death Star - X-wing Assault}} {{C|Ship only}}
 *''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]''
 *[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
 *''[[Escape from Darth Vader]]'' {{C|Appears in final page illustration only}}
@@ -490,6 +494,7 @@ The memorable voice of Chewbacca was designed by [[Ben Burtt]], sound designer f
 *''[[Captured on Cloud City]]''
 *''[[Moving Target: A Princess Leia Adventure]]'' {{Mo}}
 *{{FOD|Bounty Hunted}}
+*''[[Age of Rebellion - Princess Leia 1]]''
 *[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]
 *''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
 *[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
@@ -565,8 +570,8 @@ The memorable voice of Chewbacca was designed by [[Ben Burtt]], sound designer f
 *''[[Star Wars Epic Yarns: A New Hope]]''
 *''[[Star Wars: Battle Pod]]'' {{Voice}}
 *''[[Star Wars Epic Yarns: The Empire Strikes Back]]''
-*{{All-Stars|The Chase with Han; Escape with Chewbacca}}
-*{{All-Stars|Dealing with Lando; Han and Chewie Strike Back}}
+*{{All-Stars|The Chase with Han/Escape with Chewbacca}}
+*{{All-Stars|Dealing with Lando/Han and Chewie Strike Back}}
 *{{All-Stars|Lo, I am Manufactured}}
 *{{The Freemaker Adventures|The Lost Treasure of Cloud City}}
 *{{The Freemaker Adventures|Beware, the Gamorrean Flu!}}
@@ -619,6 +624,7 @@ The memorable voice of Chewbacca was designed by [[Ben Burtt]], sound designer f
 *''[[Star Wars: The Last Jedi Activity Book with Stickers]]''
 *''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
 *{{Topps|set=Solo: A Star Wars Story (Topps)|sformat=''Solo: A Star Wars Story''|cardname=Chewbacca|link=}}
+*{{HasbroCite|set=Solo: A Star Wars Story (toy line)|text=Solo: A Star Wars Story|pack=Chewbacca|link=/Chewbacca-Solo-Star-Wars-Universe-ForceLink-2-Hasbro.asp}}
 *<!-- 5/25/18 -->''[[Solo: A Star Wars Story: Han on the Run]]''
 *''[[Solo: A Star Wars Story The Official Guide]]''
 *''[[Star Wars: Women of the Galaxy]]''

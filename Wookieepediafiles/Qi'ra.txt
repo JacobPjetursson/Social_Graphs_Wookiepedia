@@ -62,6 +62,7 @@ Solo left to rescue Chewbacca and retrieve the coaxium for the Cloud-Riders. Qi'
 Years later, Han told the story of how he and Qi'ra managed to break out from the [[Den of the White Worms]] to [[Princess]] [[Leia Organa]].<ref name="Jon's Twitter">{{Twitter|JonKasdan|status/1040529501870944256|[[Jon Kasdan]]|quote=In honor of the digital release of #SoloAStarWarsStory & in lieu of a commentary, here are 53 random factoids & notes about the making & writing for anybody who's interested. If you haven't seen the movie yet... maybe watch it before reading? Anyway, enjoy the movie & #MTFBWY}}</ref> In [[4 ABY]],<ref name="Galactic Atlas">''[[Star Wars: Galactic Atlas]]''</ref> during Han's [[Rescue of Han Solo|rescue]] from [[Jabba's Palace]] on [[Tatooine]],<ref name="Episode VI">[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]</ref> Organa had the idea, from having heard Han's story, of bringing a [[thermal detonator]] with her to ensure [[Jabba Desilijic Tiure]]'s cooperation in the deal.<ref name="Jon's Twitter" />
 
 ==Personality and traits==
+[[File:Qira AtG.png|right|thumb|250px|Qi'ra aboard the ''Millennium Falcon'']]
 Qi'ra was a Corellian [[human]] [[Sexes|female]] with moderately short [[Color|brown]] [[hair]] that was usually kept in a ponytail, blue [[eyes]], and light skin.<ref name="Databank" /> Qi'ra was a very complex woman. When she was younger she was hopeful that she could escape the criminal life and strove for something better. But as she grew older she realized that because of all the bad things she had done, there was no escaping the criminal life. Despite having grown up on the streets, she was able to adapt to a lusher lifestyle and fit in with the Crimson Dawn gang. Having known Han for so many years, she believed she may have been the one person who could see him for who he truly was, thinking he was “the good guy”.<ref name="Solo" /> She was a fighter and had been trained in combat by Vos, which helped her survive.
 
 ==Behind the scenes==
@@ -76,7 +77,6 @@ In ''[[Star Wars: Forces of Destiny]]'', Qi'ra was voiced by [[Olivia Hack]].<re
 
 ==Appearances==
 *''[[Star Wars Battlefront II]]'' {{Mo}}
-*''[[Han Solo - Imperial Cadet 1]]''
 *''[[Most Wanted]]''
 *''[[Solo: A Star Wars Story]]'' {{1st}}
 *''[[Solo: A Star Wars Story: Expanded Edition]]''
@@ -88,11 +88,14 @@ In ''[[Star Wars: Forces of Destiny]]'', Qi'ra was voiced by [[Olivia Hack]].<re
 *''[[Solo Adaptation 1]]''
 *''[[Solo Adaptation 2]]''
 *''[[Solo Adaptation 5]]''
+*''[[Han Solo - Imperial Cadet 1]]''
+*''[[Han Solo - Imperial Cadet 2]]''
 *{{FOD|Triplecross}}
+*''[[Star Wars 58: The Escape, Part III]]'' {{Imo}}
 
 ===Non-canon appearances===
 *''[[Star Wars: Galaxy of Heroes]]''
-*{{All-Stars|The Chase with Han; Escape with Chewbacca}} {{Mo}}
+*{{All-Stars|The Chase with Han/Escape with Chewbacca}} {{Mo}}
 
 ==Sources==
 {{Scroll box|content=
@@ -101,6 +104,7 @@ In ''[[Star Wars: Forces of Destiny]]'', Qi'ra was voiced by [[Olivia Hack]].<re
 *<!-- 2/5/18 -->{{SW|url=news/we-love-these-new-solo-a-star-wars-story-teaser-posters|text=We Love These New Solo: A Star Wars Story Teaser Posters}} {{1stID}}
 *<!-- 4/2/18 -->{{Topps|set=Solo: A Star Wars Story (Topps)|sformat=''Solo: A Star Wars Story''|cardname=Qi'ra|link=}}
 *<!-- 4/8/18 -->{{SW|url=video/official-trailer-solo-a-star-wars-story|text=Official Trailer <nowiki>|</nowiki> Solo: A Star Wars Story|archiveurl=http://www.webcitation.org/6yaA6LynL}}
+*<!-- 4/13/18 -->{{HasbroCite|set=Solo: A Star Wars Story (toy line)|text=Solo: A Star Wars Story|pack=Qi'ra (Corellia)|link=Qira-Corellia-Solo-Star-Wars-Universe-ForceLink-2-Hasbro.asp}}
 *<!-- 4/15/18 -->{{SW|url=video/crew-solo-a-star-wars-story|text="Crew" - Solo: A Star Wars Story}}
 *<!-- 4/17/18 -->{{SW|url=video/risk-solo-a-star-wars-story|text="Risk" - Solo: A Star Wars Story}}
 *<!-- 4/28/18 -->{{SW|url=video/han-solo-a-star-wars-story|text="Han" - Solo: A Star Wars Story}}
@@ -124,6 +128,7 @@ In ''[[Star Wars: Forces of Destiny]]'', Qi'ra was voiced by [[Olivia Hack]].<re
 *<!-- 5/25/18 -->''[[Solo: A Star Wars Story Ultimate Sticker Collection]]''
 *''[[The Art of Solo: A Star Wars Story]]''
 *''[[Star Wars: Women of the Galaxy]]''
+*{{Destiny|Across the Galaxy|cardname=Qi'ra}}
 *{{Databank|crimson-dawn|Crimson Dawn}}
 *{{Databank|ion-restraining-bolt|Ion restraining bolt}} {{Po}}
 *{{Databank|qi-ra|Qi'ra|archivedate=20180416224008}}

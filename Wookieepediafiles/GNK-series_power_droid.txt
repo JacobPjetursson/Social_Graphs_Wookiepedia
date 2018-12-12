@@ -73,7 +73,7 @@ The '''GNK-series power droid''', also known as the '''gonk droid''', was a type
 
 ===Non-canon appearances===
 *''[[LEGO Star Wars: The Force Awakens]]''
-*{{All-Stars|Dealing with Lando; Han and Chewie Strike Back}}
+*{{All-Stars|Dealing with Lando/Han and Chewie Strike Back}}
 
 ==Sources==
 *{{SW|url=explore/the-clone-wars/ep513/#!/about|text="Point of No Return" - ''The Clone Wars'' Episode Guide}} {{1stID|Gonk droid}}
@@ -84,6 +84,7 @@ The '''GNK-series power droid''', also known as the '''gonk droid''', was a type
 *''[[Star Wars Character Encyclopedia: Updated and Expanded]]'' {{1stID}}
 *''[[Star Wars: Galactic Atlas]]''
 *''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Star Wars: Geektionary: The Galaxy From A To Z]]''
 *''[[Star Wars: Droidography]]''
 *{{Databank|eg-86|EG-86|archivedate=20161216123933}}
 *{{Databank|gnk-droid|GNK Droid|archiveurl=https://web.archive.org/web/20171223071109/http://www.starwars.com/databank/gnk-droid}}

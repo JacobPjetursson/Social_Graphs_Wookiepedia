@@ -10,7 +10,7 @@
 |gender=[[Sexes/Legends|Male]]
 |height=
 |mass=
-|hair=Blond
+|hair=[[Color/Legends|Blond]]
 |eyes=Blue
 |skin=
 |cyber=

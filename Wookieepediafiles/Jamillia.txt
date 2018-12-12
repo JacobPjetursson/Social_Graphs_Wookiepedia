@@ -16,7 +16,6 @@
 |cyber=
 |era=
 |affiliation=*[[Royal House of Naboo]]<ref name="AOC" />
-**[[Naboo Royal Advisory Council]]<ref name="AOC" />
 *[[Galactic Republic]]<ref name="AOC" />
 |masters=
 |apprentices=}}
@@ -27,20 +26,15 @@
 {{Quote|I was relieved when my two terms were up. But when the Queen asked me to serve as Senator, I couldn't refuse her.|Padmé Amidala|Star Wars: Episode II Attack of the Clones}}
 A [[Sexes|female]] of the [[human]] [[species]], Jamillia hailed from the [[planet]] of [[Naboo]]. When [[Monarch of Naboo|Queen]] [[Padmé Amidala]], [[Politics|elected]] sovereign of Naboo, finished her two four-[[Standard year|year]] terms, her [[Naboo (people)|people]] tried to amend their constitution so she could remain in office. However, Amidala declined the honor, and Jamillia was anointed Naboo's next [[queen]]. However, Jamillia convinced her predecessor to at least serve Naboo as its [[Senator|representative]] in the [[Galactic Senate|Senate]] of the [[Galactic Republic]], the democratic union that governed most of [[the galaxy]].<ref name="AOC" />
 
-Ten years after the [[Invasion of Naboo]],<ref name="explEPII">{{SW|url=explore/the-movies/episode-ii/|text=Star Wars: Episode II Attack of the Clones}} {{C|Story Gallery: Slide 4}}</ref> Senator Amidala was the victim of an [[Plot to assassinate Padmé Amidala|attempted assassination]] by the [[Confederacy of Independent Systems]], a coalition of [[star system]]s that wished to secede from the Republic. With Amidala's life threatened, both the [[Supreme Chancellor]] of the Republic and the [[Jedi High Council|High Council]] of the [[Jedi Order]] sent her to a secure retreat on Naboo. At the beginning of Amidala's sojourn, Queen Jamillia met her predecessor in the [[Theed Royal Palace|Royal Palace]], and the two discussed the
 [[File:Naboo Throne Room.png|thumb|left|220x220px|Jamillia in the throne room]]
-probability of an imminent full-scale conflict between the Republic and the Separatists. Not long afterwards, those concerns came true as the [[Clone Wars]] broke out between the two factions.<ref name="AOC" /> After a four-year reign, Jamillia was succeeded by Queen [[Neeyutnee]].<ref name="Geektionary">''[[Star Wars: Geektionary: The Galaxy From A To Z]]''</ref>
+Ten years after the [[Invasion of Naboo]],<ref name="explEPII">{{SW|url=explore/the-movies/episode-ii/|text=Star Wars: Episode II Attack of the Clones}} {{C|Story Gallery: Slide 4}}</ref> Amidala was the victim of an [[Plot to assassinate Padmé Amidala|attempted assassination]] by the [[Confederacy of Independent Systems]], a coalition of [[star system]]s that wished to [[Separatist Crisis|secede]] from the Republic. With Amidala's life threatened, both the [[Supreme Chancellor]] of the Republic and the [[Jedi High Council|High Council]] of the [[Jedi Order]] sent her to a [[Varykino|secure retreat]] on Naboo. At the beginning of Amidala's sojourn, Jamillia met her predecessor in the [[Theed Royal Palace|Royal Palace]], and the two discussed the probability of an imminent full-scale conflict between the Republic and the Separatists. Not long afterwards, those concerns came true as the [[Clone Wars]] broke out between the two factions.<ref name="AOC" /> After a four-year reign, Jamillia was succeeded by Queen [[Neeyutnee]].<ref name="Geektionary">''[[Star Wars: Geektionary: The Galaxy From A To Z]]''</ref>
 
 ==Personality and traits==
-Queen Jamillia was relatively small, measuring 1.57 [[meter]]s.<ref name="DB Jami" /> She had a round face with full lips, a narrow chin and pronounced cheeks. Both her [[hair]] and [[eye]] [[color]] were dark brown. She was an ardent defender of democracy, and she also genuinely cared for the safety of her predecessor, Senator Amidala, whom she had convinced to remain in the public service.<ref name="AOC" />
+Queen Jamillia was relatively small, measuring 1.57 [[meter]]s.<ref name="DB Jami" /> She had a round face with full lips, a narrow chin and pronounced cheeks. Both her [[hair]] and [[eye]] [[color]] were dark brown. She was an ardent defender of [[democracy]], and she also genuinely cared for the safety of her predecessor, Padmé Amidala, whom she had convinced to remain in the public service.<ref name="AOC" />
 
 ==Behind the scenes==
-[[File:Ayesha bg.jpg|thumb|304x304px|Ayesha Dharker]]
-Jamillia was portrayed by [[Wikipedia:India|Indian]] actress [[Ayesha Dharker]] in the [[2002]] film [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']].<ref name="AOC" /> In some early scripts of Episode II, the character was identified as "Jamilla".<ref name="Spelling Discrepancies">{{SWArchive|domain=forums|url=thread.jspa?threadID=158725&start=75|text=StarWars Forums: Spelling Discrepancies}}</ref> Dharker spent a
-
-month in [[Wikipedia:Australia|Australia]], a week-and-a-half in [[Lake Como]] and then a few [[Standard day|days]] in [[Wikipedia:Caserta|Caserta]], [[Wikipedia:Italy|Italy]] for only half-a-day of shooting.<ref>{{SWArchive|url=episode-ii/bts/profile/f20020903/index.html|text=The Dharker Side: An Audience with Queen Jamillia}}</ref>
-
-In her [[Databank (website)|Databank]] entry on the official [[StarWars.com]] website, Jamillia is erroneously identified as "the predecessor of Queen Amidala". This error has been corrected.<ref name="DB Jami" />
+[[File:Ayesha bg.jpg|thumb|right|304x304px|Ayesha Dharker]]
+Jamillia was portrayed by [[Wikipedia:India|Indian]] actress [[Ayesha Dharker]] in the [[2002]] film [[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']].<ref name="AOC" /> In some early scripts of Episode II, the character was identified as "Jamilla".<ref name="Spelling Discrepancies">{{SWArchive|domain=forums|url=thread.jspa?threadID=158725&start=75|text=StarWars Forums: Spelling Discrepancies}}</ref> Dharker spent a month in [[Wikipedia:Australia|Australia]], a week-and-a-half in [[Lake Como]] and then a few [[Standard day|days]] in [[Wikipedia:Caserta|Caserta]], [[Wikipedia:Italy|Italy]] for only half-a-day of shooting.<ref>{{SWArchive|url=episode-ii/bts/profile/f20020903/index.html|text=The Dharker Side: An Audience with Queen Jamillia}}</ref>
 
 ==Appearances==
 *''[[Star Wars Battlefront II]]'' {{C|Painting only}}
@@ -62,9 +56,9 @@ In her [[Databank (website)|Databank]] entry on the official [[StarWars.com]] we
 {{Succession_box
 |title=[[Monarch of Naboo|Queen]] of [[Naboo]]<ref name="AOC" />
 |years=[[24 BBY]]<ref name="AEYNTK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref> -
-|before=Queen [[Padmé Amidala]]<ref name="AOC" />
+|before=[[Queen]] [[Padmé Amidala]]<ref name="AOC" />
 |before-years=
-|after=Queen [[Neeyutnee]]<ref name="DB Neeyu" />
+|after=Queen [[Neeyutnee]]<ref name="DB Neeyu">{{Databank|queen-neeyutnee|Queen Neeyutnee}}</ref>
 |after-years=}}
 {{End_box}}
 

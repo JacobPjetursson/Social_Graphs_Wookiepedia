@@ -1,6 +1,6 @@
 {{Eras}}
 {{Youmay|the character|the novel ''[[Phasma (novel)|Phasma]]'' or the [[Star Wars comic books|comic]] ''[[Star Wars: Captain Phasma]]''}}
-{{Update|[[Phasma (novel)|Phasma]], [[Pest Control]], [[Poe Dameron 14: Legend Lost, Part I]], [[Poe Dameron 23: Legend Found, Part IV]], [[Poe Dameron 24: Legend Found, Part V]], [[Poe Dameron: Flight Log]]}}
+{{Update|[[Phasma (novel)|Phasma]], [[Station Theta Black (episode)|Station Theta Black]], [[Pest Control]], [[Poe Dameron 14: Legend Lost, Part I]], [[Poe Dameron 23: Legend Found, Part IV]], [[Poe Dameron 24: Legend Found, Part V]], [[Poe Dameron: Flight Log]]}}
 {{Character
 |type=First Order
 |image=[[File:Phasma.png]]
@@ -10,15 +10,14 @@
 |death=<!-- PLEASE NOTE: There is no canon evidence regarding Phasma's ultimate fate. We only know that she fell into the burning remains of the ''Supremacy''. The filmmakers have stated that it's possible she could return if Episode IX wants to go in that direction. -->
 |species=[[Human]]<ref name="Phasma" />
 |gender=[[Sexes|Female]]<ref name="Episode VII">[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]</ref>
-|height=2.0 [[meter]]s<ref name="DB">{{Databank|captain-phasma|Captain Phasma|archivedate=20170806140945}}</ref>
+|height=2.0 [[meter]]s<ref name="DB">{{Databank|captain-phasma|Captain Phasma|archivedate=20181210142124}}</ref>
 |mass=76 [[kilogram]]s<ref name="TFA head to head">''[[Star Wars: The Force Awakens: Head-to-Head]]''</ref>
 |hair=[[Color|Gold]]<ref name="Phasma" />
 |eyes=Blue<ref name="Phasma" />
 |skin=Pale<ref name="Phasma" />
 |cyber=
 |era=
-|affiliation=*[[Unidentified clan]]<ref name="Phasma" />
-*[[Scyre]]<ref name="Phasma" />
+|affiliation=*[[Scyre]]<ref name="Phasma" />
 *[[First Order]]<ref name="Episode VII" />
 **[[First Order military]]<ref name="Episode VII" />
 |masters=
@@ -35,7 +34,8 @@ Phasma later ordered the death of Resistance members Finn and [[Rose Tico]], whe
 ==Biography==
 ===Early life===
 {{Quote|We were attacked. By the Scyre. Mother and Father and all the rest&hellip;are gone.''"<br />"''But you stabbed me. My leg.''"<br />"''No, Keldo. The Scyre did that. They caught you on watch, and I threw you into the Nautilus. I saved your life. We are lucky that they've invited us to stay here, to live among them. All we have to do is fight for them and contribute. And then we can stay here, in the Nautilus. It will still be ours. What say you?|Phasma and Keldo|Phasma (novel)}}
-Prior to joining the [[Scyre]] clan, Phasma and [[Sexes|her]] brother [[Keldo]] were part of a small and weak [[Unidentified clan|clan]] that resided directly around the [[Nautilus]] on the desolate [[planet]] [[Parnassos]]. Phasma and Keldo grew up having to defend the clan's territory from raiders of rival clans such as the Scyre and the [[Claw (clan)|Claw]]. One [[Standard day|day]] Phasma orchestrated the [[death]]s of her clan including her [[Phasma's father|father]] and [[Phasma's mother|mother]] in order to ensure both herself and Keldo survived while still being able to live in the Nautilus. In order to do this, she stabbed Keldo in the foot with a [[knife]] and pushed him into a [[cave]], thus disabling him, claiming that the clan was under attack and that she had saved his life. Shortly after, Phasma along with Keldo both pledged their allegiances to the Scyre by painting themselves with [[oracle salve]] made by their family. Due to Parnassos' harsh environment and lack of technological advancements, Phasma spent her days wearing protective gear and scavenging crashed [[starship]]s for weapons and supplies. Eventually she led a group of Scyre clan warriors and believed herself to be the strongest warrior on Parnassos.<ref name="Phasma" />
+Prior to joining the [[Scyre]] clan, Phasma and [[Sexes|her]] brother [[Keldo]] were part of a small and weak [[Unidentified family (Phasma)|family]] that resided directly around the [[Nautilus]] on the desolate [[planet]] [[Parnassos]]. Phasma and Keldo grew up having to defend the families territory from raid from the Scyre and the [[Claw (clan)|Claw]]. One [[Standard day|day]] Phasma orchestrated the [[death]]s of her clan including her [[Phasma's father|father]] and [[Phasma's mother|mother]] in order to ensure both herself and Keldo survived while still being able to live in the Nautilus. In order to do this, she stabbed Keldo in the foot with a [[knife]] and pushed him into a [[cave]], thus disabling him, claiming that the family was under attack and that she had saved his life. Shortly after, Phasma along with Keldo both pledged their allegiances to the Scyre by painting themselves with [[oracle salve]] made by their family. Due to Parnassos' harsh environment and lack of technological advancements, Phasma spent her days wearing protective gear and scavenging crashed [[starship]]s for weapons and supplies. Eventually she led a group of Scyre clan warriors and believed herself to be the strongest warrior on Parnassos.<ref name="Phasma" />
+
 ====Encountering the First Order====
 {{Quote|I am Phasma, and I am the greatest warrior of Parnassos.|Phasma, to Brendol Hux|Phasma (novel)}}
 [[File:Young Phasma on Parnassos.jpg|thumb|left|225px|Phasma witnessed the First Order ship crash on Parnassos]]
@@ -153,7 +153,7 @@ Phasma held both Finn and Rose in the hangar bay of the ship, revealing to them 
 During the aftermath of the ''Supremacy'' being split by [[Vice Admiral]] [[Amilyn Holdo]] sending the ''Raddus'' into hyperspace at the ship, Phasma recovered, marching through the flames with a squad of stormtroopers, blocking the two rebels' way to the [[Xi-class light shuttle|''Xi''-class light shuttle]]. But before they could open, suddenly, an [[First Order All Terrain Scout Transport|AT-ST]] piloted by BB-8 began opening fire on them. While her stormtroopers were preoccupied by the rogue walker, Phasma confronted Finn, calling him a "bug in the system". Finn attacked her with a [[Z6 riot control baton]], and after a short duel, Finn delivered a debilitating blow to Phasma's helmet, knocking her into a pit and rendering one of her [[eye]]s visible through the damaged helmet. Phasma glared at Finn and told him that he was "always scum", to which he proudly replied that he was "rebel scum", before the floor beneath her gave way, sending the captain plummeting into the burning remains of the ship's interior.<ref name="Episode VIII" />
 
 ==Personality and traits==
-{{Quote|Phasma will do anything to survive.|[[Vi Moradi]], to Captain [[Cardinal]]|Phasma (novel)}}
+{{Quote|Because it makes it clear that you can't win against Phasma. Not you. Not anyone. No one will go as far as she will to survive.|[[Vi Moradi]], to Captain [[Cardinal]]|Phasma (novel)}}
 [[File:Ruthless Tactics EaW.png|left|thumb|250px|Phasma was ruthless in executing her duties]]
 Phasma was a [[human]] female<ref name="Phasma" /> who stood at 2.0 [[meter]]s tall.<ref name="DB" /> Phasma was outwardly fiercely loyal to the First Order and believed that a stormtrooper's loyalty was only to be given to the First Order as a whole, not to any group or individual. Phasma saw herself and her stormtrooper divisions as extensions of the will of Supreme Leader Snoke and looked down on sympathy in her ranks.<ref name="BTA" /> Phasma, privately, also believed that the meddling of politics ultimately led to ineffective ranks among the past [[stormtrooper]]s of the former Galactic Empire, and sought to ensure herself that only the best soldiers were worthy of joining the stormtrooper ranks.<ref name="TFAVD" /> She believed that the First Order was stronger than the Empire, and was proud of the crucible of tests she and her compatriots endured to achieve that strength. Phasma disapproved of Terex's indulgences, which included keeping alien slaves and drinking Wookiee-brewed [[brandy]] with [[Kessel]] [[spice]].<ref name="PD2" />
 
@@ -217,7 +217,7 @@ For the [[May 23]], [[2017]] issue of ''[[Entertainment Weekly]]'' celebrating t
 *{{Resistance|The Recruit}} {{Mo}}
 *{{Resistance|The Triple Dark}}
 *{{Resistance|The Children from Tehar}} {{Hologram}}
-*{{Resistance|Station Theta Black}}
+*{{Resistance|Station Theta Black (episode)|Station Theta Black}}
 *{{IDWAdventuresCite|3|[[Pest Control]]}}
 *[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']] {{1st}}
 *[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
@@ -287,7 +287,7 @@ For the [[May 23]], [[2017]] issue of ''[[Entertainment Weekly]]'' celebrating t
 *{{SW|url=video/phasmas-end-deleted-scene-star-wars-the-last-jedi|text=Phasma's End - Deleted Scene | Star Wars: The Last Jedi}}
 *''[[Star Wars: Women of the Galaxy]]''
 *{{SW|url=video/whispers-of-the-first-order-resistance-rewind|text=Whispers of the First Order - Resistance Rewind}}
-*{{Databank|captain-phasma|Captain Phasma|archivedate=20170806140945}}
+*{{Databank|captain-phasma|Captain Phasma|archivedate=20181210142124}}
 *{{Databank|captain-phasma-s-baton|Captain Phasma's Baton|archiveurl=https://archive.fo/bkET0}}
 *{{Databank|captain-phasma-s-blaster-rifle|Captain Phasma's Blaster Rifle|archivedate=20170807070438}}
 *{{Databank|general-hux|General Hux|archiveurl=https://archive.fo/3JBAI}} {{Po}}
@@ -326,6 +326,7 @@ For the [[May 23]], [[2017]] issue of ''[[Entertainment Weekly]]'' celebrating t
 |uk=Фазма
 }}
 
+[[Category:Captains]]
 [[Category:Females]]
 [[Category:Pilots]]
 [[Category:Scyre clan members]]

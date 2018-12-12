@@ -47,6 +47,7 @@
 {{Reflist}}
 
 {{Interlang
+|fr=OOM-9
 |ru=OOM-9/Канон
 }}
 

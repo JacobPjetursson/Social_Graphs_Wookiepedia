@@ -1,5 +1,5 @@
 {{Eras|sprot}}
-{{Update|[[Star Wars Book VI: Yoda's Secret War]], [[Jedi of the Republic&mdash;Mace Windu, Part I]], [[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]], [[The Padawan Path]], [[Teach You, I Will]], [[From a Certain Point of View]], [[The Path Ahead]]}}
+{{Update|[[Star Wars Book VI: Yoda's Secret War]], [[Age of Republic - Qui-Gon Jinn 1]], [[Jedi of the Republic&mdash;Mace Windu, Part I]], [[Star Wars: The Clone Wars (TV series)|Star Wars: The Clone Wars]], [[The Padawan Path]], [[Teach You, I Will]], [[From a Certain Point of View]], [[The Path Ahead]]}}
 {{Character
 |type=Jedi
 |image=Yoda SWSB.png
@@ -24,6 +24,7 @@
 *[[Garro]] {{C|[[stonepower]] master}}<ref name="SW 28">''[[Star Wars 28: Yoda's Secret War, Part III]]''</ref>
 *[[Qui-Gon Jinn]] {{C|as [[Force spirit]]}}<ref name="Episode III" />
 |apprentices=*[[Dooku]] {{C|[[Padawan]]}}<ref name="Episode II">[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]</ref>
+*[[Cin Drallig]]<ref name="Complete Visual New">''[[Star Wars: The Complete Visual Dictionary, New Edition]]''</ref>
 *[[Obi-Wan Kenobi]]<ref name="Episode V" />
 *[[Luke Skywalker]]<ref name="Episode V" />
 *[[Anakin Skywalker]] {{C|as Force spirit}}<ref name="AEYNTKUAE">''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''</ref>}}
@@ -36,13 +37,13 @@ As a [[Jedi General]] of the [[Grand Army of the Republic]], Yoda's time was spe
 
 The Grand Master spent the last two decades of his life on the [[planet]] [[Dagobah]], where he was found by Anakin's son, [[Luke Skywalker]], who endeavored to complete his training in the Jedi arts. On his deathbed, Yoda confirmed that Luke's father had become [[Darth]] Vader&mdash;the Emperor's [[Sith apprentice|apprentice]] in the [[dark side of the Force]]. After a lifespan of nine-hundred years, Yoda succumbed to death, shedding his mortal coil and becoming [[Immortality|one with the Force]]. Shortly afterward, the prophecy of the Chosen One was realized when Vader killed his [[Sith Master]] at the cost of his own life in order to save his son. This act of self-sacrifice allowed the late Yoda to preserve the Anakin's consciousness in the Force. As the [[Alliance to Restore the Republic|Rebel Alliance]] celebrated their [[Battle of Endor|victory]] over the Empire, Luke saw the [[Force spirit|spirits]] of his mentors, Yoda and [[Obi-Wan Kenobi]], standing beside a [[Light side of the Force|redeemed]] Anakin Skywalker as they watched over him and his friends.
 
-Yoda would again visit the realm of the living from the [[Netherworld of the Force]] roughly [[34 ABY|thirty years]] after the Battle of [[Endor]]. By then, Jedi Master Luke Skywalker was a broken man who lived as a [[hermit]] on [[Ahch-To]]. It had been Yoda's dying wish to see Skywalker restore the Jedi Order by passing on what he had learned to a new generation of Jedi Knights. Skywalker made the attempt, but the fall of his gifted nephew, [[Kylo Ren|Ben Solo]], all but [[Destruction of Luke Skywalker's Jedi Temple|destroyed]] his plans, leading him to believe that it was time for the Jedi to end. With Yoda's help, Skywalker overcame his guilt and subsequently became one with the Force, passing the mantle of the Jedi to the [[Jakku]] [[scavenger]] [[Rey]].
+Yoda would again visit the realm of the living from the [[Netherworld of the Force]] roughly [[34 ABY|thirty years]] after the Battle of [[Endor]]. By then, Jedi Master Luke Skywalker was a broken man who lived as a [[hermit]] on [[Ahch-To]]. It had been Yoda's dying wish to see Skywalker restore the Jedi Order by passing on what he had learned to a new generation of Jedi Knights. Skywalker made the attempt, but the fall of his gifted nephew, [[Kylo Ren|Ben Solo]], all but [[Destruction of Luke Skywalker's Jedi Temple|destroyed]] his plans, leading him to believe that it was time for the Jedi to end. With Yoda's help, Skywalker overcame his guilt and [[Battle of Crait|subsequently]] became one with the Force, passing the mantle of the Jedi to the [[Jakku]] [[scavenger]] [[Rey]].
 
 ==Biography==
 ===Pre-Invasion of Naboo===
 [[Reproduction|Born]] 900 [[Standard year|years]] before the [[Battle of Endor]],<ref name="BioGal17" /> Yoda belonged to an ancient and mysterious [[Yoda's species|species]].<ref name="Card Trader" /> As he was [[Force-sensitive|keenly attuned]] to [[the Force]], he joined the [[Jedi Order]] as a [[youngling]]. After undergoing the ritual known as [[the Gathering]], he received his [[kyber crystal]], and [[Professor]] [[Huyang]] helped him construct his first [[lightsaber]] aboard the ''[[Crucible]]''.<ref name="ANB">{{TCW|A Necessary Bond}}</ref><ref name="AToS">{{TCW|A Test of Strength}}</ref> Thereafter, Yoda was paired up with a personal [[Yoda's Jedi Master|mentor]]. During their time together, Yoda's [[Jedi Master]] told him the tale of [[K'ungfu]] and [[Chuang]], two great Jedi of the past.<ref name="SYWtBaJ?" /> Around the age of 100, Yoda was ready to pass on what he had learned. Having attained the rank of Master, he spent the next eight centuries training and tutoring generations of Jedi.<ref name="DatabankYoda" /> It was estimated that over his lifetime, he trained around 20,000 Jedi.<ref name="AEYNK">''[[Star Wars: Absolutely Everything You Need to Know]]''</ref>
 
-Centuries later, Yoda took on the [[human]] [[Dooku]] as his last known [[padawan]] in the era of the [[Galactic Republic]].<ref name="Episode II" /> During one mission to the [[Wookiee]] homeworld of [[Kashyyyk]], the padawan witnessed his master face off with a giant, dreadful [[terentatek]].<ref name="Destiny">{{TCW|Destiny (episode)|Destiny}}</ref>
+Centuries later, Yoda took on the [[human]] [[Dooku]] as his last known [[padawan]] in the era of the [[Galactic Republic]].<ref name="Episode II" /> During one mission to the [[Wookiee]] [[homeworld]] of [[Kashyyyk]], the padawan witnessed his master face off with a giant, dreadful [[terentatek]].<ref name="Destiny">{{TCW|Destiny (episode)|Destiny}}</ref>
 
 Yoda visited Kashyyyk on several other occasions prior to the [[Battle of Kashyyyk]], serving as Jedi negotiator in many incidents involving the Wookiees and their [[Trandoshan]] neighbors. This earned him the ancient title of "[[Defender of the Home Tree]]", as well as becoming a member of many Wookiee leaders' and all the inhabitants of [[Kachirho]]'s honour families.<ref name="CL">''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''</ref>
 
@@ -260,9 +261,11 @@ Yoda was able to resist being tempted by the specter of the dead Sith Lord Darth
 
 As he neared his death before the Battle of Endor commenced, Yoda accepted his own mortality and imminent demise and died becoming one with the Force.<ref name="DatabankYoda" />
 
-Yoda's ears were expressive and would sometimes curl when he was expressing strong emotions like surprise.<ref name="Dark Disciple" />
+Yoda's ears were expressive and would sometimes curl when he was expressing strong emotions like surprise.<ref name="Dark Disciple" /> These ears were also highly sensitive.<ref name="Complete Visual New" />
 
 Despite his intensive Jedi training and high status within the Order, he stated that he secretly had a dislike for ancient Jedi texts. He also had a good sense of humour and a sense of curiosity, despite his age and wisdom, which was shown when he playfully rummaged through Luke's belongings when he first met him, fought R2-D2 for a torch, and laughed gleefully when he supposedly set the ancient Jedi texts on fire, and finding Luke's continued ignorance amusing, commenting that he had "missed him".
+
+Yoda was highly secretive about his [[homeworld]] and never revealed it to anyone.<ref name="Complete Visual New" />
 
 ==Powers and abilities==
 {{Quote|The history of items, does the Force permit Vos to understand. The history of a soul, does the Force permit ''me'' to understand.|Yoda about his abilities|Dark Disciple}}
@@ -308,7 +311,7 @@ The number of toes on Yoda's feet has long been debated. In ''[[Star Wars: Absol
 *''[[Star Wars 28: Yoda's Secret War, Part III]]''
 *''[[Star Wars 29: Yoda's Secret War, Part IV]]''
 *''[[Star Wars 30: Yoda's Secret War, Part V]]''
-*''[[Age of Republic: Qui-Gon Jinn 1]]''
+*''[[Age of Republic - Qui-Gon Jinn 1]]''
 *[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]
 *[[The Phantom Menace (Golden Book)|''The Phantom Menace'' Golden Book]]
 *''[[Star Wars Journeys: The Phantom Menace]]''
@@ -507,6 +510,8 @@ The number of toes on Yoda's feet has long been debated. In ''[[Star Wars: Absol
 *''[[Star Wars: Lightsaber Battles]]''
 *''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
 *''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*''[[Star Wars: Alien Archive - Species Guide]]''
 *''[[Star Wars: Women of the Galaxy]]''
 *{{Databank|aat-battle-tank|AAT Battle Tank|archivedate=20170711224900}}
 *{{Databank|aayla-secura|Aayla Secura|archivedate=20170707040717}}
