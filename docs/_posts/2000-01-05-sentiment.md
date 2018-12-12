@@ -5,21 +5,23 @@ color: black
 icon: img/icons/sentiment.png
 ---
 
-<h1></h1>
-Sentment analysis enables us to extract "hidden" information and meaning from dialog and movie scripts. 
+<h1>Sentiment Analysis</h1>
 
-## Sentiment across the movie scripts
-Through sentiment analysis on the movie scripts we are able to build a storyline (shown below) which shows us that the sentiment alone does not correlated fully with the storyarc. However, we see that every middle movie (the second of each triology) is substantially more positive than the others, seems like Disney is looking to give us a less uplifting nine'th installment of the series.
+Now it's time to dive into one of the most exciting part of this analysis. A sentiment analysis means determining the _sentiment_ of a text, that is its level of positivity. We will perform this analysis on the various manuscripts of the movies, as well as the dialog (transcripts). 
+
+## Sentiment across the movies
+By performing a sentiment analysis on the movie manuscripts we are able to build sort of a storyline, which we show below.
 <img src="img/sentiment_series.png" alt="Word cloud for episode vi" style="width:100%">
 
-## How well does the script and dialog fit together?
-Through sentiment analysis, we are able to somewhat compare the story of the dialog with the story of the script. As seen below, the movie-scripts are a bit more negative than the dialog, this does most likely come down to characters dying as screaming is not a part of the dialog. Furthermore, the scripts is more dileberate in fighting scenes, where people tend to talk less than they fight.
+From this graph, we can se ups and downs throughout the series, however, they have another pattern that one would expect. We would expect episode VI to be a substantial high, ending the series on a high note. This however does not seem to be the case. We see the pattern that every middle movie (II, IV and VIII) all have high sentiments, signaling that we should expect a less positive ninth movie in the series.
+
+## How well does sentiment of the manuscript and dialog fit together?
+Through sentiment analysis yet again, we are able to compare the story of the dialog with the story of the script:
 <img src="img/sentiment_across_movies.png" alt="Word cloud for episode vi" style="width:100%">
+We can see that the movie manuscripts are a bit more negative than the dialog. This can most likely be explained by characters dying, or characters fighting. In the manuscript, this will be explained, whereas it is often only shown in the movie.
 
-
-<h3> Who have the most lines?</h3>
-Who is actually talking the most in the movies. Do we have long speeches from the evil main-characters or what?
-From the distributions shown below, it is clear that we are on the side of the rebellion following Luke and Han. Besides this, we quickly see that C3PO(Threepio) is talking a lot more than we remember. 
+<h3>Who talks the most?</h3>
+Which character is the most talkative in star wars? Will it be one of the evil guys, with their constant blabbering of taking over the world, or someone else entirely? Lets take a look.
 <!-- Tab links -->
 <div class="tab">
   <button class="tablink talk" onclick="openImg(event, 'dialog_sentiment_IV', 'talk')" id="defaultTalk">Episode IV</button>
@@ -40,10 +42,10 @@ From the distributions shown below, it is clear that we are on the side of the r
   <img src="img/talk_alot_vi.png" alt="Charachter dialog sentiment for episode vi" style="width:100%">
 </div>
 
-<script src="table.js"></script>
+From the distributions above, it is clear that the viewer is on the side of the rebellion following Luke and Han. We also see that C-3PO is as talkative as we would expect him to be.
 
 <h3> Character dialog sentiments </h3>
-Through the use of sentiment analysis we can take a look at individual characters and see how they evolve through episode IV to VI. As seen from below, we can almost see how Vader turns to the light throughout the series, similar we can see that Obi-Wan (Ben) becomes more positive after his death.
+We can also perform a sentiment analysis on individual characters and see how they evolve through episode IV to VI.
 <div class="tab">
   <button class="tablink dialog" onclick="openImg(event, 'c3po', 'dialog')" id="defaultSentiment">C3PO</button>
   <button class="tablink dialog" onclick="openImg(event, 'ben', 'dialog')">Obi-Wan</button>
@@ -68,13 +70,10 @@ Through the use of sentiment analysis we can take a look at individual character
   <img src="img/LUKE_sentiment.png" alt="Luke Skywalker dialog sentiment sentiment" style="width:100%">
 </div>
 
-<script src="table.js"></script>
+Studying Darth Vaders sentiment development, we can almost see how he turns to the light throughout the series. We can also see that Obi-Wan (Ben) interestingly becomes more positive after his death in episode IV.
 
-
-
-<h3> Sentiment of charachter dialogue </h3>
-How positive is the individual characthers based on the words they say. By looking at the lines of the individual characthers we can order and derive who the most positive charachters are.
-Quite funny, from Episode V we see that creature is one of the most positive charachters, this is Yoda before Luke knows who he is. When Yoda is recognized his lines becomes more negative.
+<h3>Sentiment of character dialogue</h3>
+How positive is the individual characters based on the words they say in the movies? Is Darth Vader realy as evil as we think? Lets check it out below. 
 
 <div class="tab">
   <button class="tablink sen_dialog" onclick="openImg(event, 'sen_char_iv', 'sen_dialog')" id="defaultSentimentChar">Episode IV</button>
@@ -95,8 +94,12 @@ Quite funny, from Episode V we see that creature is one of the most positive cha
   <img src="img/sentiment_chars_vi.png" alt="Darth Vader dialog sentiment sentiment" style="width:100%" />
 </div>
 
-<h3> Sentiment of dialogue which mentions characters </h3>
-How is the different characthers spoken of. Here we take a look of the sentiment of the lines mentioning charachters. From episode V we see that a Imperial Captain is the person that is spoken most positively about. A reason to some of this comes down to the fact that people speaks pretty formal and positive to a high ranking officer. 
+If we take a look at episode V, we see that *Creature* is one of the most positive characters. *Creature* is in fact Yoda before Luke knows who he is. When Luke learns his real name and starts training under him, Yoda becomes much more negative. Seems like Luke took a toll on his old master.
+
+In episode 5 we see that the graph fits wonderfully with all the good characters having the highest sentiment score. This trend does not fit very well with episode 6, where we actually see the opposite. It seems like the sentiment score is a bad indicator as to how evil or good a person is, since evil characters can still talk positively.
+
+<h3>Sentiment of dialogue where other characters are mentioned</h3>
+Instead of analysing the dialogue of each character, we can analyse the dialogue where characters are mentioned. This means we will catch all the slander there is, and it might give a hint of the reputation of a character.
 <div class="tab">
   <button class="tablink sen_dialog_1" onclick="openImg(event, 'sen_char_iv_2', 'sen_dialog_1')" id="defaultSentimentChar2">Episode IV</button>
   <button class="tablink sen_dialog_1" onclick="openImg(event, 'sen_char_v_2', 'sen_dialog_1')">Episode V</button>
@@ -115,5 +118,12 @@ How is the different characthers spoken of. Here we take a look of the sentiment
 <div id="sen_char_vi_2" class="tabcontent sen_dialog_1">
   <img src="img/sentiment_names_vi.png" alt="Darth Vader dialog sentiment sentiment" style="width:100%" />
 </div>
+
+If we take a look at episode V, we see that Needa (An imperial caption, evil) is the person who is spoken most positively about, with Darth Vader following relatively shortly after. A reason to some of this comes down to the fact that people speaks pretty formally and positively to a high ranking officer. It might also be the case that Vader's evil companions endores him and openly praises him, which would increase his sentiment score. 
+
+Furthermore, it seems Aunt Beru, who raised Luke, has a fantastic reputation in the 4th episode.
+
+
+ 
 
 
