@@ -6,7 +6,9 @@ fa-icon: cloud
 ---
 
 <h2> Wordclouds </h2>
-<!-- Tab links -->
+To get a grasp of the most important words and terms in the star wars universe, we analyse the original triology (Episode IV - VI) using TF-IDF to find the words that are most significant for the individual movies.
+
+<h4>Wordcloud for...</h4>
 <div class="tab">
   <button class="tablink cloud" onclick="openImg(event, 'IV', 'cloud')" id="defaultCloud">Episode IV</button>
   <button class="tablink cloud" onclick="openImg(event, 'V', 'cloud')">Episode V</button>
