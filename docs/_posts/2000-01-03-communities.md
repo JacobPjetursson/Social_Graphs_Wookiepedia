@@ -23,4 +23,4 @@ The fifth community (red) contains characters which are part of the main cast of
 
 The seventh community (purple) captures the Naberrie family. The eigth community (turqoise) consists of Dapp and his two employees and the ninth and final community with the fewest (white) captures the Panzoro family.
 
-Feel free to check this out yourself by going back to the <a href="#example-table">interactive table</a> from previously
+Feel free to check this out yourself by going back to the <a href="#example-table">interactive table</a> from previously, where the community for each character is listed.
